@@ -1,3 +1,5 @@
+Assumptions: You have gene2pubtator3 from https://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator3/
+
 converttojson.py : Took around 2-5 hr
 - takes in gene2pubtator and outputs the 6GB JSON with the following structure:
 ```
