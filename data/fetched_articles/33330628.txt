@@ -1,0 +1,47 @@
+1. Front Mol Biosci. 2020 Nov 20;7:599298. doi: 10.3389/fmolb.2020.599298. 
+eCollection 2020.
+
+Known Evolutionary Paths Are Accessible to Engineered ß-Lactamases Having 
+Altered Protein Motions at the Timescale of Catalytic Turnover.
+
+Alejaldre L(1)(2)(3), Lemay-St-Denis C(1)(2)(3), Perez Lopez C(4), Sancho Jodar 
+F(4), Guallar V(4)(5), Pelletier JN(1)(2)(3)(6).
+
+Author information:
+(1)Biochemistry Department, Université de Montréal, Montréal, QC, Canada.
+(2)PROTEO, The Québec Network for Research on Protein, Function, Engineering and 
+Applications, Quebec City, QC, Canada.
+(3)CGCC, Center in Green Chemistry and Catalysis, Montréal, QC, Canada.
+(4)Barcelona Supercomputing Center, Barcelona, Spain.
+(5)ICREA: Institució Catalana de Recerca i Estudis Avancats, Barcelona, Spain.
+(6)Chemistry Department, Université de Montréal, Montréal, QC, Canada.
+
+The evolution of new protein functions is dependent upon inherent biophysical 
+features of proteins. Whereas, it has been shown that changes in protein 
+dynamics can occur in the course of directed molecular evolution trajectories 
+and contribute to new function, it is not known whether varying protein dynamics 
+modify the course of evolution. We investigate this question using three related 
+ß-lactamases displaying dynamics that differ broadly at the slow timescale that 
+corresponds to catalytic turnover yet have similar fast dynamics, thermal 
+stability, catalytic, and substrate recognition profiles. Introduction of 
+substitutions E104K and G238S, that are known to have a synergistic effect on 
+function in the parent ß-lactamase, showed similar increases in catalytic 
+efficiency toward cefotaxime in the related ß-lactamases. Molecular simulations 
+using Protein Energy Landscape Exploration reveal that this results from 
+stabilizing the catalytically-productive conformations, demonstrating the 
+dominance of the synergistic effect of the E014K and G238S substitutions in 
+vitro in contexts that vary in terms of sequence and dynamics. Furthermore, 
+three rounds of directed molecular evolution demonstrated that known 
+cefotaximase-enhancing mutations were accessible regardless of the differences 
+in dynamics. Interestingly, specific sequence differences between the related 
+ß-lactamases were shown to have a higher effect in evolutionary outcomes than 
+did differences in dynamics. Overall, these ß-lactamase models show tolerance to 
+protein dynamics at the timescale of catalytic turnover in the evolution of a 
+new function.
+
+Copyright © 2020 Alejaldre, Lemay-St-Denis, Perez Lopez, Sancho Jodar, Guallar 
+and Pelletier.
+
+DOI: 10.3389/fmolb.2020.599298
+PMCID: PMC7716773
+PMID: 33330628

@@ -1,0 +1,60 @@
+1. mBio. 2023 Feb 28;14(1):e0220222. doi: 10.1128/mbio.02202-22. Epub 2022 Dec
+21.
+
+Suppressor Mutations in LptF Bypass Essentiality of LptC by Forming a 
+Six-Protein Transenvelope Bridge That Efficiently Transports Lipopolysaccharide.
+
+Falchi FA(#)(1), Taylor RJ(#)(2), Rowe SJ(#)(2), Moura ECCM(#)(1), Baeta 
+T(#)(3), Laguri C(3), Simorre JP(3), Kahne DE(2)(4), Polissi A(1), Sperandeo 
+P(1).
+
+Author information:
+(1)Dipartimento di Scienze Farmacologiche e Biomolecolari, Università degli 
+Studi di Milano, Milan, Italy.
+(2)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+Massachusetts, USA.
+(3)University of Grenoble Alpes, CNRS, CEA, IBS, Grenoble, France.
+(4)Department of Biological Chemistry and Molecular Pharmacology, Harvard 
+Medical School, Boston, Massachusetts, USA.
+(#)Contributed equally
+
+Lipopolysaccharide (LPS) is an essential component of the outer membrane (OM) of 
+many Gram-negative bacteria, providing a barrier against the entry of toxic 
+molecules. In Escherichia coli, LPS is exported to the cell surface by seven 
+essential proteins (LptA-G) that form a transenvelope complex. At the inner 
+membrane, the ATP-binding cassette (ABC) transporter LptB2FG associates with 
+LptC to power LPS extraction from the membrane and transfer to the periplasmic 
+LptA protein, which is in complex with the OM translocon LptDE. LptC interacts 
+both with LptB2FG and LptADE to mediate the formation of the transenvelope 
+bridge and regulates the ATPase activity of LptB2FG. A genetic screen has 
+previously identified suppressor mutants at a residue (R212) of LptF that are 
+viable in the absence of LptC. Here, we present in vivo evidence that the LptF 
+R212G mutant assembles a six-protein transenvelope complex in which LptA 
+mediates interactions with LptF and LptD in the absence of LptC. Furthermore, we 
+present in vitro evidence that the mutant LptB2FG complexes restore the 
+regulation of ATP hydrolysis as it occurs in the LptB2FGC complex to achieve 
+wild-type efficient coupling of ATP hydrolysis and LPS movement. We also show 
+the suppressor mutations restore the wild-type levels of LPS transport both in 
+vivo and in vitro, but remarkably, without restoring the affinity of the inner 
+membrane complex for LptA. Based on the sensitivity of lptF suppressor mutants 
+to selected stress conditions relative to wild-type cells, we show that there 
+are additional regulatory functions of LptF and LptC that had not been 
+identified. IMPORTANCE The presence of an external LPS layer in the outer 
+membrane makes Gram-negative bacteria intrinsically resistant to many 
+antibiotics. Millions of LPS molecules are transported to the cell surface per 
+generation by the Lpt molecular machine made, in E. coli, by seven essential 
+proteins. LptC is the unconventional regulatory subunit of the LptB2FGC ABC 
+transporter, involved in coordinating energy production and LPS transport. 
+Surprisingly, despite being essential for bacterial growth, LptC can be deleted, 
+provided that a specific residue in the periplasmic domain of LptF is mutated 
+and LptA is overexpressed. Here, we apply biochemical techniques to investigate 
+the suppression mechanism. The data produced in this work disclose an unknown 
+regulatory function of LptF in the transporter that not only expands the 
+knowledge about the Lpt complex but can also be targeted by novel LPS biogenesis 
+inhibitors.
+
+DOI: 10.1128/mbio.02202-22
+PMCID: PMC9972910
+PMID: 36541759 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

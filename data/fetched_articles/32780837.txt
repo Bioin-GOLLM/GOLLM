@@ -1,0 +1,46 @@
+1. Mol Biol Evol. 2021 Jan 4;38(1):201-214. doi: 10.1093/molbev/msaa202.
+
+Substitutions at Nonconserved Rheostat Positions Modulate Function by Rewiring 
+Long-Range, Dynamic Interactions.
+
+Campitelli P(1), Swint-Kruse L(2), Ozkan SB(1).
+
+Author information:
+(1)Department of Physics, Center for Biological Physics, Arizona State 
+University, Tempe, AZ.
+(2)Department of Biochemistry and Molecular Biology, The University of Kansas 
+Medical Center, Kansas City, KS.
+
+Amino acid substitutions at nonconserved protein positions can have noncanonical 
+and "long-distance" outcomes on protein function. Such outcomes might arise from 
+changes in the internal protein communication network, which is often 
+accompanied by changes in structural flexibility. To test this, we calculated 
+flexibilities and dynamic coupling for positions in the linker region of the 
+lactose repressor protein. This region contains nonconserved positions for which 
+substitutions alter DNA-binding affinity. We first chose to study 11 
+substitutions at position 52. In computations, substitutions showed long-range 
+effects on flexibilities of DNA-binding positions, and the degree of flexibility 
+change correlated with experimentally measured changes in DNA binding. 
+Substitutions also altered dynamic coupling to DNA-binding positions in a manner 
+that captured other experimentally determined functional changes. Next, we 
+broadened calculations to consider the dynamic coupling between 17 linker 
+positions and the DNA-binding domain. Experimentally, these linker positions 
+exhibited a wide range of substitution outcomes: Four conserved positions 
+tolerated hardly any substitutions ("toggle"), ten nonconserved positions showed 
+progressive changes from a range of substitutions ("rheostat"), and three 
+nonconserved positions tolerated almost all substitutions ("neutral"). In 
+computations with wild-type lactose repressor protein, the dynamic couplings 
+between the DNA-binding domain and these linker positions showed varied degrees 
+of asymmetry that correlated with the observed toggle/rheostat/neutral 
+substitution outcomes. Thus, we propose that long-range and noncanonical 
+substitutions outcomes at nonconserved positions arise from rewiring long-range 
+communication among functionally important positions. Such calculations might 
+enable predictions for substitution outcomes at a range of nonconserved 
+positions.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the 
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/molbev/msaa202
+PMCID: PMC7783170
+PMID: 32780837 [Indexed for MEDLINE]

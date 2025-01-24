@@ -1,0 +1,39 @@
+1. BMC Proc. 2014 Jun 17;8(Suppl 1 Genetic Analysis Workshop 18Vanessa
+Olmo):S101.  doi: 10.1186/1753-6561-8-S1-S101. eCollection 2014.
+
+Pathway-based analysis of rare and common variants to test for association with 
+blood pressure.
+
+Alsulami H(1), Liu X(2), Beyene J(3).
+
+Author information:
+(1)Statistics Department, King Abdulaziz University, Abdullah Sulayman, Jeddah 
+22254, Saudi Arabia ; Mathematics and Statistics Department, McMaster 
+University, Hamilton, Ontario, Canada ; Population Genomics Program, Department 
+of Clinical Epidemiology & Biostatistics, McMaster University, Hamilton, 
+Ontario, Canada.
+(2)Population Genomics Program, Department of Clinical Epidemiology & 
+Biostatistics, McMaster University, Hamilton, Ontario, Canada.
+(3)Mathematics and Statistics Department, McMaster University, Hamilton, 
+Ontario, Canada ; Population Genomics Program, Department of Clinical 
+Epidemiology & Biostatistics, McMaster University, Hamilton, Ontario, Canada.
+
+Our goal is to test the effect of both rare and common variants in a blood 
+pressure study. We use a pathway-based approach, gene-set enrichment analysis, 
+to search for related genes affecting 4 phenotypes: systolic blood pressure, 
+diastolic blood pressure, the difference between each of them and mean arterial 
+pressure, which is a weighted linear combination of systolic and diastolic blood 
+pressure. Using the real Genetic Analysis Workshop 18 data, we consider both 
+rare and common variants in our analysis and incorporate other covariates by 
+using a recently proposed test statistic. Our study identified a commonly 
+enriched gene set/pathway for the two derived phenotypes we analyzed: the 
+difference between systolic and diastolic blood pressure and mean arterial 
+pressure, but none is identified with the individual blood pressure phenotypes. 
+The gene CD47, in the enriched gene pathway/set, was reported in previous 
+studies to be related to blood pressure. The findings are not surprising because 
+the sample size we use in our analysis is small, and hence power to detect small 
+but important effects is likely inadequate.
+
+DOI: 10.1186/1753-6561-8-S1-S101
+PMCID: PMC4143690
+PMID: 25519355

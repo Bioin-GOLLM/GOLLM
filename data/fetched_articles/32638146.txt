@@ -1,0 +1,39 @@
+1. J Biomol NMR. 2020 Nov;74(10-11):565-577. doi: 10.1007/s10858-020-00321-1.
+Epub  2020 Jul 7.
+
+CcpNmr AnalysisScreen, a new software programme with dedicated automated 
+analysis tools for fragment-based drug discovery by NMR.
+
+Mureddu LG(1), Ragan TJ(1), Brooksbank EJ(1), Vuister GW(2).
+
+Author information:
+(1)Department of Molecular and Cell Biology, Leicester Institute of Structural 
+and Chemical Biology, University of Leicester, Henry Wellcome Building, 
+Lancaster Road, Leicester, LE1 7HN, UK.
+(2)Department of Molecular and Cell Biology, Leicester Institute of Structural 
+and Chemical Biology, University of Leicester, Henry Wellcome Building, 
+Lancaster Road, Leicester, LE1 7HN, UK. gv29@leicester.ac.uk.
+
+Fragment-based drug discovery or FBDD is one of the main methods used by 
+industry and academia for identifying drug-like candidates in early stages of 
+drug discovery. NMR has a significant impact at any stage of the drug discovery 
+process, from primary identification of small molecules to the elucidation of 
+binding modes for guiding optimisations. The essence of NMR as an analytical 
+tool, however, requires the processing and analysis of relatively large amounts 
+of single data items, e.g. spectra, which can be daunting when managed manually. 
+One bottleneck in FBDD by NMR is a lack of adequate and well-integrated 
+resources for NMR data analysis that are freely available to the community. 
+Thus, scientists typically resort to manually inspecting large datasets and 
+relying predominantly on subjective interpretations. In this manuscript, we 
+present CcpNmr AnalysisScreen, a software package that provides computational 
+tools for automated analysis of FBDD data by NMR. We outline how the quality of 
+collected spectra can be evaluated quickly, and how robust workflows can be 
+optimised for reliable and rapid hit identification. With an intuitive graphical 
+user interface and powerful algorithms, AnalysisScreen enables easy analysis of 
+the large datasets needed in the early process of drug discovery by NMR.
+
+DOI: 10.1007/s10858-020-00321-1
+PMCID: PMC7683461
+PMID: 32638146 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

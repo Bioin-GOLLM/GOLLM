@@ -1,0 +1,31 @@
+1. J Biomol NMR. 2011 Feb;49(2):69-74. doi: 10.1007/s10858-010-9465-1. Epub 2010 
+Dec 30.
+
+Pseudo-4D triple resonance experiments to resolve HN overlap in the backbone 
+assignment of unfolded proteins.
+
+Bagai I(1), Ragsdale SW, Zuiderweg ER.
+
+Author information:
+(1)Department of Biological Chemistry, University of Michigan Medical School, 
+MSRB III, 1150 W. Medical Center Drive, Ann Arbor, MI 48109-5605, USA.
+
+The solution NMR resonance assignment of the protein backbone is most commonly 
+carried out using triple resonance experiments that involve (15)N and (1)HN 
+resonances. The assignment becomes problematic when there is resonance overlap 
+of (15)N-(1)HN cross peaks. For such residues, one cannot unambiguously link the 
+"left" side of the NH root to the "right" side, and the residues associated with 
+such overlapping HN resonances remain often unassigned. Here we present a 
+solution to this problem: a hybrid (4d,3d) reduced-dimensionality 
+HN(CO)CA(CON)CA sequence. In this experiment, the Ca(i) resonance is modulated 
+with the frequency of the Ca(i-1) resonance, which helps in resolving the 
+ambiguity involved in connecting the Ca(i) and Ca(i-1) resonances for 
+overlapping NH roots. The experiment has limited sensitivity, and is only suited 
+for small or unfolded proteins. In a companion experiment, (4d,3d) 
+reduced-dimensionality HNCO(N)CA, the Ca(i) resonance is modulated with the 
+frequency of the CO(i-1) resonance, hence resolving the ambiguity existent in 
+pairing up the Ca(i) and CO(i-1) resonances for overlapping NH roots.
+
+DOI: 10.1007/s10858-010-9465-1
+PMCID: PMC3091507
+PMID: 21190062 [Indexed for MEDLINE]

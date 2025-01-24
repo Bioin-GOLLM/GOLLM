@@ -1,0 +1,44 @@
+1. Biochemistry. 2015 Apr 14;54(14):2346-59. doi: 10.1021/bi501401g. Epub 2015
+Apr  2.
+
+Molecular dynamics studies of modular polyketide synthase ketoreductase 
+stereospecificity.
+
+Mugnai ML(1), Shi Y(2), Keatinge-Clay AT(1)(3), Elber R(1)(4).
+
+Author information:
+(1)†Department of Chemistry, The University of Texas at Austin, Austin, Texas 
+78712, United States.
+(2)‡Department of Biomedical Engineering, The University of Texas at Austin, 
+Austin, Texas 78712, United States.
+(3)§Department of Molecular Biosciences, The University of Texas at Austin, 
+Austin, Texas 78712, United States.
+(4)∥Institute for Computational Engineering and Sciences, The University of 
+Texas at Austin, Austin, Texas 78712, United States.
+
+Ketoreductases (KRs) from modular polyketide synthases (PKSs) can perform 
+stereospecific catalysis, selecting a polyketide with a D- or L-α-methyl 
+substituent for NADPH-mediated reduction. In this report, molecular dynamics 
+(MD) simulations were performed to investigate the interactions that control 
+stereospecificity. We studied the A1-type KR from the second module of the 
+amphotericin PKS (A1), which is known to be stereospecific for a 
+D-α-methyl-substituted diketide substrate (dkD). MD simulations of two ternary 
+complexes comprised of the enzyme, NADPH, and either the correct substrate, dkD, 
+or its enantiomer (dkL) were performed. The coordinates for the A1/NADPH binary 
+complex were obtained from a crystal structure (PDB entry 3MJS), and substrates 
+were modeled in the binding pocket in conformations appropriate for reduction. 
+Simulations were intended to reproduce the initial weak binding of the 
+polyketide substrate to the enzyme. Long (tens of nanoseconds) MD simulations 
+show that the correct substrate is retained in a conformation closer to the 
+reactive configuration. Many short (up to a nanosecond) MD runs starting from 
+the initial structures display evidence that Q364, three residues N-terminal to 
+the catalytic tyrosine, forms a hydrogen bond to the incorrect dkL substrate to 
+yield an unreactive conformation that is more favorable than the reactive 
+configuration. This interaction is not as strong for dkD, as the D-α-methyl 
+substituent is positioned between the glutamine and the reactive site. This 
+result correlates with experimental findings [Zheng, J., et al. (2010) Structure 
+18, 913-922] in which a Q364H mutant was observed to lose stereospecificity.
+
+DOI: 10.1021/bi501401g
+PMCID: PMC4501267
+PMID: 25835227 [Indexed for MEDLINE]

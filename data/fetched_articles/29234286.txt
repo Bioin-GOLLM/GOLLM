@@ -1,0 +1,44 @@
+1. Front Physiol. 2017 Nov 28;8:947. doi: 10.3389/fphys.2017.00947. eCollection 
+2017.
+
+Identification of Biomarkers Correlated with the TNM Staging and Overall 
+Survival of Patients with Bladder Cancer.
+
+Li S(1)(2)(3), Liu X(3), Liu T(1), Meng X(3), Yin X(3), Fang C(3), Huang D(3), 
+Cao Y(3), Weng H(1), Zeng X(1)(3), Wang X(1)(3).
+
+Author information:
+(1)Department of Urology, Zhongnan Hospital of Wuhan University, Wuhan, China.
+(2)Department of Biological Repositories, Zhongnan Hospital of Wuhan University, 
+Wuhan, China.
+(3)Center for Evidence-Based and Translational Medicine, Zhongnan Hospital of 
+Wuhan University, Wuhan, China.
+
+Objective: To identify candidate biomarkers correlated with clinical prognosis 
+of patients with bladder cancer (BC). Methods: Weighted gene co-expression 
+network analysis was applied to build a co-expression network to identify hub 
+genes correlated with tumor node metastasis (TNM) staging of BC patients. 
+Functional enrichment analysis was conducted to functionally annotate the hub 
+genes. Protein-protein interaction network analysis of hub genes was performed 
+to identify the interactions among the hub genes. Survival analyses were 
+conducted to characterize the role of hub genes on the survival of BC patients. 
+Gene set enrichment analyses were conducted to find the potential mechanisms 
+involved in the tumor proliferation promoted by hub genes. Results: Based on the 
+results of topological overlap measure based clustering and the inclusion 
+criteria, top 50 hub genes were identified. Hub genes were enriched in cell 
+proliferation associated gene ontology terms (mitotic sister chromatid 
+segregation, mitotic cell cycle and, cell cycle, etc.) and Kyoto Encyclopedia of 
+Genes and Genomes (KEGG) pathways (cell cycle, Oocyte meiosis, etc.). 17 hub 
+genes were found to interact with ≥5 of the hub genes. Survival analysis of hub 
+genes suggested that lower expression of MMP11, COL5A2, CDC25B, TOP2A, CENPF, 
+CDCA3, TK1, TPX2, CDCA8, AEBP1, and FOXM1were associated with better overall 
+survival of BC patients. BC samples with higher expression of hub genes were 
+enriched in gene sets associated with P53 pathway, apical junction, mitotic 
+spindle, G2M checkpoint, and myogenesis, etc. Conclusions: We identified several 
+candidate biomarkers correlated with the TNM staging and overall survival of BC 
+patients. Accordingly, they might be used as potential diagnostic biomarkers and 
+therapeutic targets with clinical utility.
+
+DOI: 10.3389/fphys.2017.00947
+PMCID: PMC5712410
+PMID: 29234286

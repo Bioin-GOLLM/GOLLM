@@ -1,0 +1,56 @@
+1. Front Genet. 2020 Dec 21;11:597420. doi: 10.3389/fgene.2020.597420.
+eCollection  2020.
+
+Causal Evaluation of Laboratory Markers in Type 2 Diabetes on Cancer and 
+Vascular Diseases Using Various Mendelian Randomization Tools.
+
+Jin H(1)(2), Lee S(3), Won S(1)(4)(5).
+
+Author information:
+(1)Department of Public Health Sciences, Seoul National University, Seoul, South 
+Korea.
+(2)Department of Biostatistics, Medical Research Collaborating Center, Seoul 
+National University Boramae Hospital, Seoul, South Korea.
+(3)Department of Medical Consilience, Graduate School, Dankook University, 
+Yongin-si, South Korea.
+(4)Institute of Health and Environment, Seoul National University, Seoul, South 
+Korea.
+(5)RexSoft Corp., Seoul, South Korea.
+
+Multiple studies have demonstrated the effects of type 2 diabetes (T2D) on 
+various human diseases; however, most of these were observational 
+epidemiological studies that suffered from many potential biases including 
+reported confounding and reverse causations. In this article, we investigated 
+whether cancer and vascular disease can be affected by T2D-related traits, 
+including fasting plasma glucose (FPG), 2-h postprandial glucose (2h-PG), and 
+glycated hemoglobin A1c (HbA1c) levels, by using Mendelian randomization (MR). 
+The summary statistics for FPG, 2h-PG, and HbA1c level were obtained through 
+meta-analyses of large-scale genome-wide association studies that included data 
+from 133,010 nondiabetic individuals from collaborating Meta-analysis of Glucose 
+and Insulin Related Traits Consortium studies. Thereafter, based on the 
+statistical assumptions for MR analyses, the most reliable approaches including 
+inverse-variance-weighted (IVW), MR-Egger, MR-Egger with a simulation 
+extrapolation (SIMEX), weighted median, and MR-pleiotropy residual sum and 
+outlier (MR-PRESSO) methods were applied to identify traits affected by FPG, 
+2h-PG, and HbAlc. We found that coronary artery disease is affected by FPG, as 
+per the IVW [log odds ratio (logOR): 0.21; P = 0.012], MR-Egger (SIMEX) (logOR: 
+0.22; P = 0.014), MR-PRESSO (logOR: 0.18; P = 0.045), and weighted median 
+(logOR: 0.29; P < 0.001) methods but not as per the MR-Egger (logOR: 0.13; P = 
+0.426) approach. Furthermore, low-density lipoprotein cholesterol levels are 
+affected by HbA1c, as per the IVW [beta (B): 0.23; P = 0.015), MR-Egger (B: 
+0.45; P = 0.046), MR-Egger (SIMEX) (B: 0.27; P = 0.007), MR-PRESSO (B; 0.14; P = 
+0.010), and the weighted median (B: 0.15; P = 0.012] methods. Further studies of 
+the associated biological mechanisms are required to validate and understand the 
+disease-specific differences identified in the TD2-related causal effects of 
+each trait.
+
+Copyright © 2020 Jin, Lee and Won.
+
+DOI: 10.3389/fgene.2020.597420
+PMCID: PMC7780896
+PMID: 33408737
+
+Conflict of interest statement: SW was employed by the company, RexSoft. The 
+remaining authors declare that the research was conducted in the absence of any 
+commercial or financial relationships that could be construed as a potential 
+conflict of interest.

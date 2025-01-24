@@ -1,0 +1,38 @@
+1. PLoS One. 2013 Aug 5;8(8):e71191. doi: 10.1371/journal.pone.0071191. Print
+2013.
+
+Prioritizing disease candidate proteins in cardiomyopathy-specific 
+protein-protein interaction networks based on "guilt by association" analysis.
+
+Li W(1), Chen L, He W, Li W, Qu X, Liang B, Gao Q, Feng C, Jia X, Lv Y, Zhang S, 
+Li X.
+
+Author information:
+(1)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, Heilongjiang Province, China.
+
+The cardiomyopathies are a group of heart muscle diseases which can be inherited 
+(familial). Identifying potential disease-related proteins is important to 
+understand mechanisms of cardiomyopathies. Experimental identification of 
+cardiomyophthies is costly and labour-intensive. In contrast, bioinformatics 
+approach has a competitive advantage over experimental method. Based on "guilt 
+by association" analysis, we prioritized candidate proteins involving in human 
+cardiomyopathies. We first built weighted human cardiomyopathy-specific 
+protein-protein interaction networks for three subtypes of cardiomyopathies 
+using the known disease proteins from Online Mendelian Inheritance in Man as 
+seeds. We then developed a method in prioritizing disease candidate proteins to 
+rank candidate proteins in the network based on "guilt by association" analysis. 
+It was found that most candidate proteins with high scores shared 
+disease-related pathways with disease seed proteins. These top ranked candidate 
+proteins were related with the corresponding disease subtypes, and were 
+potential disease-related proteins. Cross-validation and comparison with other 
+methods indicated that our approach could be used for the identification of 
+potentially novel disease proteins, which may provide insights into 
+cardiomyopathy-related mechanisms in a more comprehensive and integrated way.
+
+DOI: 10.1371/journal.pone.0071191
+PMCID: PMC3733802
+PMID: 23940716 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

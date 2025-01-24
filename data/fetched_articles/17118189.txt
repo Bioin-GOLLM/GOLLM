@@ -1,0 +1,33 @@
+1. Algorithms Mol Biol. 2006 Nov 21;1:22. doi: 10.1186/1748-7188-1-22.
+
+SMOTIF: efficient structured pattern and profile motif search.
+
+Zhang Y(1), Zaki MJ.
+
+Author information:
+(1)Department of Computer Science, Rensselaer Polytechnic Institute, Troy, New 
+York 12180, USA. zhangy0@cs.rpi.edu
+
+BACKGROUND: A structured motif allows variable length gaps between several 
+components, where each component is a simple motif, which allows either no gaps 
+or only fixed length gaps. The motif can either be represented as a pattern or a 
+profile (also called positional weight matrix). We propose an efficient 
+algorithm, called SMOTIF, to solve the structured motif search problem, i.e., 
+given one or more sequences and a structured motif, SMOTIF searches the 
+sequences for all occurrences of the motif. Potential applications include 
+searching for long terminal repeat (LTR) retrotransposons and composite 
+regulatory binding sites in DNA sequences.
+RESULTS: SMOTIF can search for both pattern and profile motifs, and it is 
+efficient in terms of both time and space; it outperforms SMARTFINDER, a 
+state-of-the-art algorithm for structured motif search. Experimental results 
+show that SMOTIF is about 7 times faster and consumes 100 times less memory than 
+SMARTFINDER. It can effectively search for LTR retrotransposons and is well 
+suited to searching for motifs with long range gaps. It is also successful in 
+finding potential composite transcription factor binding sites.
+CONCLUSION: SMOTIF is a useful and efficient tool in searching for structured 
+pattern and profile motifs. The algorithm is available as open-source at: 
+http://www.cs.rpi.edu/~zaki/software/sMotif/.
+
+DOI: 10.1186/1748-7188-1-22
+PMCID: PMC1679804
+PMID: 17118189

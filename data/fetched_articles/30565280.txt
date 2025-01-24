@@ -1,0 +1,38 @@
+1. Stat Med. 2019 Apr 30;38(9):1529-1542. doi: 10.1002/sim.8066. Epub 2018 Dec
+18.
+
+Assessing the robustness of sisVIVE in a Mendelian randomization study to 
+estimate the causal effect of body mass index on income using multiple SNPs from 
+understanding society.
+
+Bao Y(1), Clarke PS(1), Smart M(1), Kumari M(1).
+
+Author information:
+(1)Institute for Social and Economic Research, University of Essex, Colchester, 
+UK.
+
+The "some invalid, some valid instrumental variable estimator" (sisVIVE) is a 
+lasso-based method for instrumental variables (IVs) regression of outcome on an 
+exposure. In principle, sisVIVE is robust to some of the IVs in the analysis 
+being invalid, in the sense of being related to the outcome variable through 
+pathways not mediated by the exposure. In this paper, we consider the 
+application of sisVIVE to a Mendelian randomization study in which multiple 
+genetic variants are used as IVs to estimate the causal effect of body mass 
+index on personal income in the presence of unobserved confounding. In addition 
+to analyzing data from the large-scale longitudinal household survey 
+Understanding Society, we conduct a simulation study to (a) assess the 
+performance of sisVIVE in relation to that of competing robust methods like 
+"MR-Egger" and "MR-Median" and (b) identify scenarios under which its absolute 
+performance is poor. We find that sisVIVE outperforms alternative robust 
+methods, in terms of mean-square error, across a wide range of scenarios, but 
+that its performance is poor in absolute terms when the presence of indirect 
+pleiotropy leads to failure of the "InSIDE" condition, which is not explicitly 
+required for identification. We argue that this is because the consistency 
+criterion for sisVIVE does not identify the true causal effect when InSIDE 
+fails.
+
+© 2018 The Authors. Statistics in Medicine Published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/sim.8066
+PMCID: PMC6492086
+PMID: 30565280 [Indexed for MEDLINE]

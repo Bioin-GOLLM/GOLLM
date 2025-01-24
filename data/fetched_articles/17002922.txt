@@ -1,0 +1,32 @@
+1. Transl Res. 2006 Oct;148(4):196-206. doi: 10.1016/j.trsl.2006.05.006.
+
+Mixture models of serum iron measures in population screening for 
+hemochromatosis and iron overload.
+
+McLaren CE(1), Li KT, McLaren GD, Gordeuk VR, Snively BM, Reboussin DM, Barton 
+JC, Acton RT, Dawkins FW, Harris EL, Eckfeldt JH, Moses GC, Adams PC.
+
+Author information:
+(1)Epidemiology Division, Department of Medicine, University of California, 
+Irvine, CA 92697, USA. cmclaren@uci.edu
+
+Homozygosity for the C282Y mutation of the hemochromatosis gene on chromosome 6p 
+(HFE) is a common genetic trait that increases susceptibility to iron overload. 
+The authors describe and apply methodology developed for the analysis of 
+phenotypic and genotypic data from 46,136 non-Hispanic Caucasians, a subset of 
+the multi-ethnic cohort enrolled in the Hemochromatosis and Iron Overload 
+Screening (HEIRS) Study. For analysis of the distribution of transferrin 
+saturation (TS), mixtures of normal distributions were considered and the 
+expectation-maximization (EM) algorithm was applied for parameter estimation. 
+Maximized log-likelihoods were compared, and significance was assessed by 
+resampling. Sensitivity, specificity, and predictive values from the modeled 
+subpopulations were compared with the actual observed genotypes for C282Y and 
+H63D mutations in the HFE gene. A strong association between HFE genotype and TS 
+subpopulations was found in these data collected from different geographic 
+regions, confirming the external validity of the statistical approach when 
+applied to population-based data. It was concluded that mixture modeling of 
+phenotypic data may provide a clinical guide for screening with gender-specific 
+thresholds to identify potential samples for genetic testing.
+
+DOI: 10.1016/j.trsl.2006.05.006
+PMID: 17002922 [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+1. Cell Syst. 2016 Aug;3(2):121-132. doi: 10.1016/j.cels.2016.06.010. Epub 2016
+Jul  21.
+
+Switch-like Transitions Insulate Network Motifs to Modularize Biological 
+Networks.
+
+Atay O(1), Doncic A(1), Skotheim JM(2).
+
+Author information:
+(1)Department of Biology, Stanford University, Stanford, CA 94305, USA.
+(2)Department of Biology, Stanford University, Stanford, CA 94305, USA. 
+Electronic address: skotheim@stanford.edu.
+
+Cellular decisions are made by complex networks that are difficult to analyze. 
+Although it is common to analyze smaller sub-networks known as network motifs, 
+it is unclear whether this is valid, because these motifs are embedded in 
+complex larger networks. Here, we address the general question of modularity by 
+examining the S. cerevisiae pheromone response. We demonstrate that the 
+feedforward motif controlling the cell-cycle inhibitor Far1 is insulated from 
+cell-cycle dynamics by the positive feedback switch that drives reentry to the 
+cell cycle. Before cells switch on positive feedback, the feedforward motif 
+model predicts the behavior of the larger network. Conversely, after the switch, 
+the feedforward motif is dismantled and has no discernable effect on the cell 
+cycle. When insulation is broken, the feedforward motif no longer predicts 
+network behavior. This work illustrates how, despite the interconnectivity of 
+networks, the activity of motifs can be insulated by switches that generate 
+well-defined cellular states.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cels.2016.06.010
+PMCID: PMC5001915
+PMID: 27453443 [Indexed for MEDLINE]

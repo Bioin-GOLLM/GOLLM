@@ -1,0 +1,55 @@
+1. Cancers (Basel). 2022 Aug 22;14(16):4052. doi: 10.3390/cancers14164052.
+
+Brain Tumor Characterization Using Radiogenomics in Artificial Intelligence 
+Framework.
+
+Jena B(1), Saxena S(1), Nayak GK(1), Balestrieri A(2), Gupta N(3), Khanna NN(4), 
+Laird JR(5), Kalra MK(6), Fouda MM(7), Saba L(2), Suri JS(8).
+
+Author information:
+(1)Department of CSE, International Institute of Information Technology, 
+Bhubaneswar 751003, India.
+(2)Department of Radiology, AOU, University of Cagliari, 09124 Cagliari, Italy.
+(3)Department of IT, Bharati Vidyapeeth's College of Engineering, New Delhi 
+110056, India.
+(4)Department of Cardiology, Indraprastha APOLLO Hospitals, New Delhi 110076, 
+India.
+(5)Heart and Vascular Institute, Adventist Health St. Helena, St. Helena, CA 
+94574, USA.
+(6)Department of Radiology, Massachusetts General Hospital, 55 Fruit Street, 
+Boston, MA 02114, USA.
+(7)Department of Electrical and Computer Engineering, Idaho State University, 
+Pocatello, ID 83209, USA.
+(8)Stroke Diagnosis and Monitoring Division, AtheroPoint™, Roseville, CA 95661, 
+USA.
+
+Brain tumor characterization (BTC) is the process of knowing the underlying 
+cause of brain tumors and their characteristics through various approaches such 
+as tumor segmentation, classification, detection, and risk analysis. The 
+substantial brain tumor characterization includes the identification of the 
+molecular signature of various useful genomes whose alteration causes the brain 
+tumor. The radiomics approach uses the radiological image for disease 
+characterization by extracting quantitative radiomics features in the artificial 
+intelligence (AI) environment. However, when considering a higher level of 
+disease characteristics such as genetic information and mutation status, the 
+combined study of "radiomics and genomics" has been considered under the 
+umbrella of "radiogenomics". Furthermore, AI in a radiogenomics' environment 
+offers benefits/advantages such as the finalized outcome of personalized 
+treatment and individualized medicine. The proposed study summarizes the brain 
+tumor's characterization in the prospect of an emerging field of research, i.e., 
+radiomics and radiogenomics in an AI environment, with the help of statistical 
+observation and risk-of-bias (RoB) analysis. The PRISMA search approach was used 
+to find 121 relevant studies for the proposed review using IEEE, Google Scholar, 
+PubMed, MDPI, and Scopus. Our findings indicate that both radiomics and 
+radiogenomics have been successfully applied aggressively to several oncology 
+applications with numerous advantages. Furthermore, under the AI paradigm, both 
+the conventional and deep radiomics features have made an impact on the 
+favorable outcomes of the radiogenomics approach of BTC. Furthermore, 
+risk-of-bias (RoB) analysis offers a better understanding of the architectures 
+with stronger benefits of AI by providing the bias involved in them.
+
+DOI: 10.3390/cancers14164052
+PMCID: PMC9406706
+PMID: 36011048
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,72 @@
+1. BMC Cancer. 2018 Dec 29;18(1):1299. doi: 10.1186/s12885-018-5142-7.
+
+KRas4B-PDE6δ complex stabilization by small molecules obtained by virtual 
+screening affects Ras signaling in pancreatic cancer.
+
+Casique-Aguirre D(1), Briseño-Díaz P(1), García-Gutiérrez P(2), la Rosa CHG(3), 
+Quintero-Barceinas RS(3), Rojo-Domínguez A(3), Vergara I(4), Medina LA(4), 
+Correa-Basurto J(5), Bello M(5), Hernández-Rivas R(1), Del RocioThompson-Bonilla 
+M(6), Vargas M(7).
+
+Author information:
+(1)Departamento de Biomedicina Molecular, Centro de Investigación y de Estudios 
+Avanzados del Instituto Politécnico Nacional (CINVESTAV-IPN), Av. I.P.N, 2508, 
+México City, Mexico.
+(2)Departamento de Química, Universidad Autónoma Metropolitana. Unidad 
+Iztapalapa, México City, Mexico.
+(3)Departamento de Ciencias Naturales, Universidad Autónoma Metropolitana. 
+Unidad Cuajimalpa, México City, Mexico.
+(4)Instituto Nacional de Cancerología, Unidad de Investigación Biomédica en 
+Cáncer, México City, Mexico.
+(5)Laboratorio de Modelado Molecular y Diseño de Fármacos de la Escuela Superior 
+de Medicina, Instituto Politécnico Nacional, México City, Mexico.
+(6)Investigación Biomédica y Trasnacional, Laboratorio de Medicina Genómica, 
+Hospital 1° de Octubre, ISSSTE, México City, Mexico.
+(7)Departamento de Biomedicina Molecular, Centro de Investigación y de Estudios 
+Avanzados del Instituto Politécnico Nacional (CINVESTAV-IPN), Av. I.P.N, 2508, 
+México City, Mexico. mavargas@cinvestav.mx.
+
+BACKGROUND: The GTPase KRas4B has been utilized as a principal target in the 
+development of anticancer drugs. PDE6δ transports KRas4B to the plasma membrane, 
+where it is released to activate various signaling pathways required for the 
+initiation and maintenance of cancer. Therefore, identifying new small molecules 
+that prevent activation of this GTPase by stabilizing the KRas4B-PDE6δ molecular 
+complex is a practical strategy to fight against cancer.
+METHODS: The crystal structure of the KRas4B-PDE6δ heterodimer was employed to 
+locate possible specific binding sites at the protein-protein interface region. 
+Virtual screening of Enamine-database compounds was performed on the located 
+potential binding sites to identify ligands able to simultaneously bind to the 
+KRas4B-PDE6δ heterodimer. A molecular dynamics approach was used to estimate the 
+binding free-energy of the complex. Cell viability and apoptosis were measured 
+by flow cytometry. G-LISA was used to measure Ras inactivation. Western blot was 
+used to measure AKT and ERK activation. MIA PaCa-2 cells implanted 
+subcutaneously into nude mice were treated with D14 or C22 and tumor volumes 
+were recorded.
+RESULTS: According to the binding affinity estimation, D14 and C22 stabilized 
+the protein-protein interaction in the KRas4B-PDE6δ complex based on in vitro 
+evaluation of the 38 compounds showing antineoplastic activity against 
+pancreatic MIA PaCa-2 cancer cells. In this work, we further investigated the 
+antineoplastic cellular properties of two of them, termed D14 and C22, which 
+reduced the viability in the human pancreatic cancer cells lines MIA PaCa-2, 
+PanC-1 and BxPC-3, but not in the normal pancreatic cell line hTERT-HPNE. 
+Compounds D14 and C22 induced cellular death via apoptosis. D14 and C22 
+significantly decreased Ras-GTP activity by 33% in MIA PaCa-2 cells. Moreover, 
+D14 decreased AKT phosphorylation by 70% and ERK phosphorylation by 51%, while 
+compound C22 reduced AKT phosphorylation by 60% and ERK phosphorylation by 36%. 
+In addition, compounds C22 and D14 significantly reduced tumor growth by 88.6 
+and 65.9%, respectively, in a mouse xenograft model.
+CONCLUSIONS: We identified two promising compounds, D14 and C22, that might be 
+useful as therapeutic drugs for pancreatic ductal adenocarcinoma treatment.
+
+DOI: 10.1186/s12885-018-5142-7
+PMCID: PMC6310981
+PMID: 30594165 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+Institutional Animal Care and Use Committee (IACUC) of CINVESTAV as the 
+regulatory office for the approval of research protocols involving the use of 
+laboratory animals has approved all mouse experiments(protocol number: 0201–16). 
+CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The authors 
+declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature 
+remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.

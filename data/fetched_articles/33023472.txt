@@ -1,0 +1,48 @@
+1. BMC Genomics. 2020 Oct 6;21(1):694. doi: 10.1186/s12864-020-07116-6.
+
+pH-dependent transcriptional profile changes in iron-deficient Arabidopsis 
+roots.
+
+Tsai HH(1), Schmidt W(2)(3)(4).
+
+Author information:
+(1)Institute of Plant and Microbial Biology, Academia Sinica, Taipei, 11529, 
+Taiwan.
+(2)Institute of Plant and Microbial Biology, Academia Sinica, Taipei, 11529, 
+Taiwan. wosh@gate.sinica.edu.tw.
+(3)Biotechnology Center, National Chung-Hsing University, Taichung, 40227, 
+Taiwan. wosh@gate.sinica.edu.tw.
+(4)Genome and Systems Biology Degree Program, College of Life Science, National 
+Taiwan University, Taipei, 10617, Taiwan. wosh@gate.sinica.edu.tw.
+
+BACKGROUND: Iron is an essential element for plants and abundantly present in 
+most mineral soils. The mobility of iron is, however, dependent on the redox 
+potential and hydrogen activity (pH) of the soil, factors that may limit its 
+availability to plants in particular at alkaline pHs. Iron deficiency triggers 
+pronounced changes in the transcriptional profile of plants, inducing processes 
+that aid in the acquisition, uptake, and translocation of iron. How ambient pH 
+impact the transcriptional iron deficiency response has not yet been elucidated 
+in detail.
+RESULTS: Here, we provide an RNA-seq data set that catalogs global gene 
+expression changes of iron-deficient plants grown at either optimal (5.5) or 
+high (7.0) pH. A suite of 857 genes changed significantly and more than twofold 
+in expression; only 54 genes of this suite were also differentially expressed 
+between iron-deficient and iron-sufficient plants grown at pH 5.5. Among the 
+high pH-responsive genes, 186 were earlier shown to be responsive to short-term 
+transfer to low pH, 91 genes of this subset were anti-directionally regulated by 
+high and low pH. The latter subset contained genes involved in cell wall 
+organization, auxin homeostasis, and potential hubs of yet undefined signaling 
+circuits. Growing iron-deficient plants at high pH also modulated the 
+transcriptional iron deficiency response observed at pH 5.5 by compromising the 
+enzymatic reduction of ferric chelates and favoring the production of 
+iron-mobilizing coumarins.
+CONCLUSIONS: It is concluded that ambient pH is an important determinant of 
+global gene expression which tunes iron acquisition to the prevailing edaphic 
+conditions.
+
+DOI: 10.1186/s12864-020-07116-6
+PMCID: PMC7539395
+PMID: 33023472 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

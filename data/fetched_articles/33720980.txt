@@ -1,0 +1,39 @@
+1. PLoS One. 2021 Mar 15;16(3):e0248592. doi: 10.1371/journal.pone.0248592. 
+eCollection 2021.
+
+An image segmentation technique with statistical strategies for pesticide 
+efficacy assessment.
+
+Kim SB(1), Kim DS(2), Mo X(1).
+
+Author information:
+(1)Department of Mathematics and Statistics, California State University, 
+Monterey Bay, Seaside, California, United States of America.
+(2)Department of Plant Sciences, University of California, Davis, Salinas, 
+California, United States of America.
+
+Image analysis is a useful technique to evaluate the efficacy of a treatment for 
+weed control. In this study, we address two practical challenges in the image 
+analysis. First, it is challenging to accurately quantify the efficacy of a 
+treatment when an entire experimental unit is not affected by the treatment. 
+Second, RGB codes, which can be used to identify weed growth in the image 
+analysis, may not be stable due to various surrounding factors, human errors, 
+and unknown reasons. To address the former challenge, the technique of image 
+segmentation is considered. To address the latter challenge, the proportion of 
+weed area is adjusted under a beta regression model. The beta regression is a 
+useful statistical method when the outcome variable (proportion) ranges between 
+zero and one. In this study, we attempt to accurately evaluate the efficacy of a 
+35% hydrogen peroxide (HP). The image segmentation was applied to separate two 
+zones, where the HP was directly applied (gray zone) and its surroundings 
+(nongray zone). The weed growth was monitored for five days after the treatment, 
+and the beta regression was implemented to compare the weed growth between the 
+gray zone and the control group and between the nongray zone and the control 
+group. The estimated treatment effect was substantially different after the 
+implementation of image segmentation and the adjustment of green area.
+
+DOI: 10.1371/journal.pone.0248592
+PMCID: PMC7959351
+PMID: 33720980 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

@@ -1,0 +1,51 @@
+1. Sci Rep. 2017 Jan 24;7:41034. doi: 10.1038/srep41034.
+
+A systematic SNP selection approach to identify mechanisms underlying disease 
+aetiology: linking height to post-menopausal breast and colorectal cancer risk.
+
+Elands RJ(1), Simons CC(1), Riemenschneider M(2)(3), Isaacs A(4)(5), Schouten 
+LJ(1), Verhage BA(1), Van Steen K(6), Godschalk RW(7), van den Brandt PA(1), 
+Stoll M(2)(5), Weijenberg MP(1).
+
+Author information:
+(1)Department of Epidemiology, GROW-School for Oncology and Developmental 
+Biology, Maastricht University, Maastricht, the Netherlands.
+(2)Institute of Human Genetics, Genetic Epidemiology, University of Münster, 
+Münster, Germany.
+(3)Department of Bioinformatics, Straubing Center of Science, Straubing, 
+Germany.
+(4)Department of Epidemiology, Genetic Epidemiology Unit, Erasmus Medical 
+Center, Rotterdam, the Netherlands.
+(5)Department of Biochemistry, Maastricht Centre for Systems Biology (MaCSBio), 
+CARIM-School for Cardiovascular Diseases, Maastricht University, Maastricht, the 
+Netherlands.
+(6)Department of Electrical Engineering and Computer Science, Montefiore 
+Institute, University of Liège, Liège, Belgium.
+(7)Department of Pharmacology and Toxicology, NUTRIM-School of Nutrition and 
+Translational Research in Metabolism, Maastricht University, Maastricht, the 
+Netherlands.
+
+Data from GWAS suggest that SNPs associated with complex diseases or traits tend 
+to co-segregate in regions of low recombination, harbouring functionally linked 
+gene clusters. This phenomenon allows for selecting a limited number of SNPs 
+from GWAS repositories for large-scale studies investigating shared mechanisms 
+between diseases. For example, we were interested in shared mechanisms between 
+adult-attained height and post-menopausal breast cancer (BC) and colorectal 
+cancer (CRC) risk, because height is a risk factor for these cancers, though 
+likely not a causal factor. Using SNPs from public GWAS repositories at 
+p-values < 1 × 10-5 and a genomic sliding window of 1 mega base pair, we 
+identified SNP clusters including at least one SNP associated with height and 
+one SNP associated with either post-menopausal BC or CRC risk (or both). SNPs 
+were annotated to genes using HapMap and GRAIL and analysed for significantly 
+overrepresented pathways using ConsensuspathDB. Twelve clusters including 56 
+SNPs annotated to 26 genes were prioritised because these included at least one 
+height- and one BC risk- or CRC risk-associated SNP annotated to the same gene. 
+Annotated genes were involved in Indian hedgehog signalling 
+(p-value = 7.78 × 10-7) and several cancer site-specific pathways. This 
+systematic approach identified a limited number of clustered SNPs, which 
+pinpoint potential shared mechanisms linking together the complex phenotypes 
+height, post-menopausal BC and CRC.
+
+DOI: 10.1038/srep41034
+PMCID: PMC5259777
+PMID: 28117334 [Indexed for MEDLINE]

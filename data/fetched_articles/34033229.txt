@@ -1,0 +1,56 @@
+1. Thorac Cancer. 2021 Jul;12(13):1995-2006. doi: 10.1111/1759-7714.14002. Epub 
+2021 May 25.
+
+Significance of tumor mutation burden and immune infiltration in thymic 
+epithelial tumors.
+
+Wang ZM(1)(2), Xu QR(3), Kaul D(4), Ismail M(1)(2), Badakhshi H(1)(5).
+
+Author information:
+(1)Charité - Universitätsmedizin Berlin, Corporate Member of Freie Universität 
+Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, 
+Germany.
+(2)Department of Thoracic Surgery, Klinikum Ernst von Bergmann, Academic 
+Hospital of Charité - Universitätsmedizin Berlin, Potsdam, Germany.
+(3)School of Medicine, Zhengzhou University, Zhengzhou, China.
+(4)Department of Radiation Oncology, Charité-Universitätsmedizin Humboldt 
+University Berlin, Berlin, Germany.
+(5)Department of Radiation Oncology, Klinikum Ernst von Bergmann, Academic 
+Hospital of Charité - Universitätsmedizin Berlin, Potsdam, Germany.
+
+BACKGROUND: Thymic epithelial tumors (TETs) are relatively rare malignant 
+thoracic tumors. Tumor mutation burden (TMB) and immune infiltration play 
+important roles in tumorigenesis.
+METHODS: Research data was obtained using the Cancer Genome Atlas (TCGA) 
+database to evaluate the landscape of tumor mutations, related factors, and 
+relationship of prognosis. The CIBERSORT algorithm was used to evaluate immune 
+cell infiltration in TETs and its relationship with TMB. Immune-related 
+differentially expressed genes (irDEGs) were identified. Hub irDEGs 
+independently related to prognosis were analyzed using univariate and 
+multivariate Cox proportional hazard models. A survival signature was 
+constructed from hub irDEGs.
+RESULTS: A total of 122 patients were included in this study. GTF2I was the most 
+common gene mutation. Higher TMB was significantly associated with the later 
+stage, more advanced pathological type, and older age. The overall survival (OS) 
+of patients in the low-TMB group was significantly better. There was no 
+significant correlation between TMB levels and PD-L1 expression. Enrichment 
+analysis showed that DEGs were mainly involved in the P13K-Akt signaling 
+pathway. There were significant differences in macrophage and other types of 
+immune cell infiltration between the high- and low-TMB groups. CCR5, FASLG, and 
+CD79A independently relating to prognosis were screened from 391 irDEGs. The 
+low-risk group had a significantly better prognosis than the high-risk group 
+based on the signature, which has a good predictive effect on OS.
+CONCLUSIONS: In this study, TETs patients with high TMB had a significantly poor 
+prognosis and an immune-related gene signature was found to effectively evaluate 
+the long-term prognosis.
+
+© 2021 The Authors. Thoracic Cancer published by China Lung Oncology Group and 
+John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1759-7714.14002
+PMCID: PMC8258363
+PMID: 34033229 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

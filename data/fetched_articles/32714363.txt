@@ -1,0 +1,57 @@
+1. Front Genet. 2020 Jun 24;11:542. doi: 10.3389/fgene.2020.00542. eCollection 
+2020.
+
+Identification of Four Potential Biomarkers Associated With Coronary Artery 
+Disease in Non-diabetic Patients by Gene Co-expression Network Analysis.
+
+Jiao M(1), Li J(1), Zhang Q(1), Xu X(2), Li R(3), Dong P(1), Meng C(1), Li Y(1), 
+Wang L(1), Qi W(1), Kang K(1), Wang H(4), Wang T(1).
+
+Author information:
+(1)Department of Cardiology, Affiliated Hospital of Weifang Medical University, 
+Weifang, China.
+(2)Department of Neurology, Affiliated Hospital of Weifang Medical University, 
+Weifang, China.
+(3)Graduate Program in Genetics, Genomics, and Bioinformatics, University of 
+California, Riverside, Riverside, CA, United States.
+(4)Division of Cardiology, Department of Internal Medicine, Tongji Hospital, 
+Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 
+China.
+
+BACKGROUND: Coronary artery disease (CAD) is a type of cardiovascular disease 
+that greatly hurts the health of human beings. Diabetic status is one of the 
+largest clinical factors affecting CAD-associated gene expression changes. Most 
+of the studies focus on diabetic patients, whereas few have been done for 
+non-diabetic patients. Since the pathophysiological processes may vary among 
+these patients, we cannot simply follow the standard based on the data from 
+diabetic patients. Therefore, the prognostic and predictive diagnostic 
+biomarkers for CAD in non-diabetic patient need to be fully recognized.
+MATERIALS AND METHODS: To screen out candidate genes associated with CAD in 
+non-diabetic patients, weighted gene co-expression network analysis (WGCNA) was 
+constructed to conduct an analysis of microarray expression profiling in 
+patients with CAD. First, the microarray data GSE20680 and GSE20681 were 
+downloaded from NCBI. We constructed co-expression modules via WGCNA after 
+excluding the diabetic patients. As a result, 18 co-expression modules were 
+screened out, including 1,225 differentially expressed genes (DEGs) that were 
+obtained from 152 patients (luminal stenosis ≥50% in at least one major vessel) 
+and 170 patients (stenosis of <50%). Subsequently, a Pearson's correlation 
+analysis was conducted between the modules and clinical traits. Then, a 
+functional enrichment analysis was conducted, and we used gene network analysis 
+to reveal hub genes. Last, we validated the hub genes with peripheral blood 
+samples in an independent patient cohort using RT-qPCR.
+RESULTS: The results showed that the midnight blue module and the yellow module 
+played vital roles in the pathogenesis of CAD in non-diabetic patients. 
+Additionally, CD40, F11R, TNRC18, and calcium/calmodulin-dependent protein 
+kinase type II gamma (CAMK2G) were screened out and validated using 
+enzyme-linked immunosorbent assay (ELISA) in an independent patient cohort and 
+immunohistochemical (IHC) staining in an atherosclerosis mouse model.
+CONCLUSION: Our findings demonstrate that hub genes, CD40, F11R, TNRC18, and 
+CAMK2G, are surrogate diagnostic biomarkers and/or therapeutic targets for CAD 
+in non-diabetic patients and require deeper validation.
+
+Copyright © 2020 Jiao, Li, Zhang, Xu, Li, Dong, Meng, Li, Wang, Qi, Kang, Wang 
+and Wang.
+
+DOI: 10.3389/fgene.2020.00542
+PMCID: PMC7344232
+PMID: 32714363

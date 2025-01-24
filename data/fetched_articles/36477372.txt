@@ -1,0 +1,44 @@
+1. Nucleic Acids Res. 2022 Nov 28;50(21):12344-12354. doi: 10.1093/nar/gkac1122.
+
+5-Methyl-cytosine stabilizes DNA but hinders DNA hybridization revealed by 
+magnetic tweezers and simulations.
+
+Zhao XC(1), Dong HL(2), Li XL(1), Yang HY(1), Chen XF(1), Dai L(3), Wu WQ(4), 
+Tan ZJ(2), Zhang XH(1).
+
+Author information:
+(1)The Institute for Advanced Studies, College of Life Sciences, State Key 
+Laboratory of Virology, Hubei Key Laboratory of Cell Homeostasis, Wuhan 
+University, Wuhan 430072, China.
+(2)Department of Physics and Key Laboratory of Artificial Micro & 
+Nano-structures of Ministry of Education, School of Physics and Technology, 
+Wuhan University, Wuhan 430072, China.
+(3)Department of Physics, City University of Hong Kong, Hong Kong 999077, China.
+(4)School of Life Sciences, State Key Laboratory of Crop Stress Adaptation and 
+Improvement, Key Laboratory of Plant Stress Biology, Henan University, 
+Kaifeng 475001, China.
+
+5-Methyl-cytosine (5mC) is one of the most important DNA modifications and plays 
+versatile biological roles. It is well known that 5mC stabilizes DNA duplexes. 
+However, it remains unclear how 5mC affects the kinetics of DNA melting and 
+hybridization. Here, we studied the kinetics of unzipping and rezipping using a 
+502-bp DNA hairpin by single-molecule magnetic tweezers. Under constant loading 
+rates, 5mC increases the unzipping force but counterintuitively decreases the 
+rezipping force at various salt and temperature conditions. Under constant 
+forces, the non-methylated DNA hops between metastable states during unzipping 
+and rezipping, which implies low energy barriers. Surprisingly, the 5mC DNA 
+can't rezip after fully unzipping unless much lower forces are applied, where it 
+rezips stochastically in a one-step manner, which implies 5mC kinetically 
+hinders DNA hybridization and high energy barriers in DNA hybridization. 
+All-atom molecular dynamics simulations reveal that the 5mC kinetically hinders 
+DNA hybridization due to steric effects rather than electrostatic effects caused 
+by the additional methyl groups of cytosines. Considering the possible high 
+speed of DNA unzipping and zipping during replication and transcription, our 
+findings provide new insights into the biological roles of 5mC.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac1122
+PMCID: PMC9757033
+PMID: 36477372 [Indexed for MEDLINE]

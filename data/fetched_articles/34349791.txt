@@ -1,0 +1,54 @@
+1. Front Genet. 2021 Jul 19;12:707713. doi: 10.3389/fgene.2021.707713.
+eCollection  2021.
+
+Identification of Candidate Blood mRNA Biomarkers in Intracerebral Hemorrhage 
+Using Integrated Microarray and Weighted Gene Co-expression Network Analysis.
+
+Jin F(1), Li L(1), Hao Y(1), Tang L(1), Wang Y(1), He Z(1).
+
+Author information:
+(1)Department of Neurology, The First Affiliated Hospital of China Medical 
+University, Shenyang, China.
+
+PURPOSE: Intracerebral hemorrhage (ICH) is a serious public health hazard due to 
+its high morbidity, disability, and mortality. Currently, the exact molecular 
+mechanisms of ICH are unknown. We tried to identify the ICH-related candidate 
+blood messenger RNA (mRNA) biomarkers by microarray analysis and weighted gene 
+co-expression network analysis (WGCNA).
+MATERIALS AND METHODS: We collected the blood samples from patients with ICH (n 
+= 4) and from vascular risk factor (VRF) controls (n = 4) and analyzed the mRNA 
+expression profiles by competitive endogenous RNA (ceRNA) microarray. 
+Differentially expressed genes (DEGs) were identified and then a weighted gene 
+co-expression network was constructed. Modules with clinical significance were 
+distinguished. Then, we downloaded two Gene Expression Omnibus (GEO) datasets 
+(GSE24265 and GSE125512). Candidate mRNAs were identified by taking the 
+intersection of the DEGs in our microarray, the interesting genes in the key 
+module, and the DEGs in GSE24265. Functional analysis involving Gene Ontology 
+(GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) and construction of a 
+protein-protein interaction (PPI) network were conducted.
+RESULTS: A total of 340 DEGs in our microarray were identified between the ICH 
+group and the control group. Among the eight gene modules established by WGCNA, 
+the yellow module containing 191 genes was the most strongly associated with 
+ICH. Four candidate mRNAs (C3AR1, PAWR, ARNTL2, and LDLRAD4) were identified. In 
+the early stage of ICH (within 24 h), C3AR1, PAWR, and ARNTL2 were highly 
+expressed in the perihematomal tissue, but with low expressions in peripheral 
+blood; in the late stage (72 h after the first blood draw), an obvious upward 
+trend of C3AR1 and PAWR in peripheral blood was seen. Functional analysis showed 
+that candidate mRNAs were concerned with multiple pathways, such as the Wnt 
+signaling pathway and calcium signaling pathway. They might affect the process 
+of ICH through neuroinflammation, cell apoptosis, and pyroptosis.
+CONCLUSION: We identified four candidate blood mRNAs (C3AR1, PAWR, ARNTL2, and 
+LDLRAD4) related to ICH. They showed different expression patterns in peripheral 
+blood and perihematomal tissues and changed with time. They might play important 
+roles in ICH through neuroinflammation, cell apoptosis, and pyroptosis and might 
+shed new light to novel biomarkers or therapeutic targets in ICH.
+
+Copyright © 2021 Jin, Li, Hao, Tang, Wang and He.
+
+DOI: 10.3389/fgene.2021.707713
+PMCID: PMC8327089
+PMID: 34349791
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

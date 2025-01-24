@@ -1,0 +1,61 @@
+1. PLoS One. 2021 May 3;16(5):e0245407. doi: 10.1371/journal.pone.0245407. 
+eCollection 2021.
+
+One step forward, two steps back: Transcriptional advancements and fermentation 
+phenomena in Actinobacillus succinogenes 130Z.
+
+Long DS(1), Immethun CM(2), Vallecilla-Yepez L(3), Wilkins MR(3)(4)(5), Saha 
+R(1)(2).
+
+Author information:
+(1)Complex Biosystems Program, University of Nebraska, Lincoln, Nebraska, United 
+States of America.
+(2)Department of Chemical and Biomolecular Engineering, University of Nebraska, 
+Lincoln, Nebraska, United States of America.
+(3)Department of Biological Systems Engineering, University of Nebraska, 
+Lincoln, Nebraska, United States of America.
+(4)Department of Food Science and Technology, University of Nebraska, Lincoln, 
+Nebraska, United States of America.
+(5)Industrial Agricultural Products Center, University of Nebraska, Lincoln, 
+Nebraska, United States of America.
+
+Within the field of bioproduction, non-model organisms offer promise as 
+bio-platform candidates. Non-model organisms can possess natural abilities to 
+consume complex feedstocks, produce industrially useful chemicals, and withstand 
+extreme environments that can be ideal for product extraction. However, 
+non-model organisms also come with unique challenges due to lack of 
+characterization. As a consequence, developing synthetic biology tools, 
+predicting growth behavior, and building computational models can be difficult. 
+There have been many advancements that have improved work with non-model 
+organisms to address broad limitations, however each organism can come with 
+unique surprises. Here we share our work in the non-model bacterium 
+Actinobacillus succinognes 130Z, which includes both advancements in synthetic 
+biology toolkit development and pitfalls in unpredictable fermentation 
+behaviors. To develop a synthetic biology "tool kit" for A. succinogenes, 
+information gleaned from a growth study and antibiotic screening was used to 
+characterize 22 promoters which demonstrated a 260-fold range of fluorescence 
+protein expression. The strongest of the promoters was incorporated into an 
+inducible system for tunable gene control in A. succinogenes using the promoter 
+for the lac operon as a template. This system flaunted a 481-fold range of 
+expression and no significant basal expression. These findings were accompanied 
+by unexpected changes in fermentation products characterized by a loss of 
+succinic acid and increase in lactic acid after approximately 10 months in the 
+lab. During evaluation of the fermentation shifts, new tests of the synthetic 
+biology tools in a succinic acid producing strain revealed a significant loss in 
+their functionality. Contamination and mutation were ruled out as causes and 
+further testing is needed to elucidate the driving factors. The significance of 
+this work is to share a successful tool development strategy that could be 
+employed in other non-model species, report on an unfortunate phenomenon that 
+needs addressed for further development of A. succinogenes, and provide a 
+cautionary tale for those undertaking non-model research. In sharing our 
+findings, we seek to provide tools and necessary information for further 
+development of A. succinogenes as a platform for bioproduction of succinic acid 
+and to illustrate the importance of diligent and long-term observation when 
+working with non-model bacteria.
+
+DOI: 10.1371/journal.pone.0245407
+PMCID: PMC8092802
+PMID: 33939701 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

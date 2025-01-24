@@ -1,0 +1,48 @@
+1. Biomed J. 2018 Apr;41(2):118-128. doi: 10.1016/j.bj.2018.04.002. Epub 2018 May
+ 21.
+
+Computational prediction of vaccine potential epitopes and 3-dimensional 
+structure of XAGE-1b for non-small cell lung cancer immunotherapy.
+
+Tarek MM(1), Shafei AE(2), Ali MA(2), Mansour MM(3).
+
+Author information:
+(1)Bioinformatics Department, Armed Forces College of Medicine (AFCM), Cairo, 
+Egypt. Electronic address: mohammadtareq459@gmail.com.
+(2)Biomedical Research Department, Armed Forces College of Medicine (AFCM), 
+Cairo, Egypt.
+(3)Ain Shams University (ASU), Faculty of Computer Information Sciences (FCIS), 
+Bioinformatics Program, Cairo, Egypt.
+
+BACKGROUND: XAGE-1b is shown to be overexpressed in lung adenocarcinoma and to 
+be a strong immunogenic antigen among non-small cell lung cancer (NSCLC) 
+patients. However, 3D structure of XAGE-1b is not available and its confirmation 
+has not been solved yet.
+METHODS: Multiple sequence alignment was run to select the most reliable 
+templates. Homology modeling technique was performed using computer-based tool 
+to generate 3-dimensional structure models, eight models were generated and 
+assessed on basis of local and global quality. Immune Epitope Database (IEDB) 
+tools were then used to determine potential B-Cell epitopes while NetMHCpan 
+algorithms were used to enhance the determination for potential epitopes of both 
+Cytotoxic T-lymphocytes and T-helper cells.
+RESULTS: Computational prediction was performed for B-Cell epitopes, prediction 
+results generated; 3 linear epitopes where XAGE-1b (13-21) possessed the best 
+score of 0.67, 5 discontinuous epitopes where XAGE-1b (40-52) possessed the best 
+score of 0.67 based on the predicted model of the finest quality. For a 
+potential vaccine design, computational prediction yielded potential Human 
+Leukocyte Antigen (HLA) class I epitopes including HLA-B*08:01-restricted 
+XAGE-1b (3-11) epitope which was the best with 0.2 percentile rank. Regarding 
+HLA Class II epitopes, HLA-DRB1*12:01-restricted XAGE-1b (25-33) was the most 
+antigenic epitope with 5.91 IC50 value. IC50 values were compared with 
+experimental values and population coverage percentages of epitopes were 
+computed.
+CONCLUSIONS: This study predicted a model of XAGE-1b tertiary structure which 
+could explain its antigenic function and facilitate usage of predicted peptides 
+for experimental validation towards designing immunotherapies against NSCLC.
+
+Copyright © 2018 Chang Gung University. Published by Elsevier B.V. All rights 
+reserved.
+
+DOI: 10.1016/j.bj.2018.04.002
+PMCID: PMC6138771
+PMID: 29866600 [Indexed for MEDLINE]

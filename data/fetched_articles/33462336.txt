@@ -1,0 +1,49 @@
+1. Sci Rep. 2021 Jan 18;11(1):1705. doi: 10.1038/s41598-021-81509-9.
+
+Protein co-expression networks identified from HOT lesions of ER+HER2-Ki-67high 
+luminal breast carcinomas.
+
+Yamada K(#)(1)(2), Nishimura T(#)(3), Wakiya M(#)(4), Satoh E(#)(5), Fukuda 
+T(#)(6), Amaya K(1), Bando Y(6), Hirano H(4), Ishikawa T(2).
+
+Author information:
+(1)Department of Breast Surgery, Tokyo Medical University Hachioji Medical 
+Centre, Tokyo, 193-0998, Japan.
+(2)Department of Breast Surgery, Tokyo Medical University Hospital, Tokyo, 
+160-0023, Japan.
+(3)Department of Translational Medicine Informatics, St. Marianna University 
+School of Medicine, Kanagawa, 216-8511, Japan. t-nisimura@marianna-u.ac.jp.
+(4)Department of Diagnostic Pathology, Tokyo Medical University Hachioji Medical 
+Centre, Tokyo, 193-0998, Japan.
+(5)Department of Pathology, Institute of Medical Science, Tokyo Medical 
+University, Tokyo, 160-0023, Japan.
+(6)Research and Development, Biosys Technologies Inc, Tokyo, 152-0031, Japan.
+(#)Contributed equally
+
+Patients with estrogen receptor-positive/human epidermal growth factor receptor 
+2-negative/Ki-67-high (ER+HER2-Ki-67high) luminal breast cancer have a worse 
+prognosis and do not respond to hormonal treatment and chemotherapy. This study 
+sought to identify disease-related protein networks significantly associated 
+with this subtype, by assessing in-depth proteomes of 10 lesions of high and low 
+Ki-67 values (HOT, five; COLD, five) microdissected from the five tumors. 
+Weighted correlation network analysis screened by over-representative analysis 
+identified the five modules significantly associated with the HOT lesions. 
+Pathway enrichment analysis, together with causal network analysis, revealed 
+pathways of ribosome-associated quality controls, heat shock response by 
+oxidative stress and hypoxia, angiogenesis, and oxidative phosphorylation. A 
+semi-quantitative correlation of key-protein expressions, protein co-regulation 
+analysis, and multivariate correlation analysis suggested co-regulations via 
+network-network interaction among the four HOT-characteristic modules. Predicted 
+highly activated master and upstream regulators were most characteristic to 
+ER-positive breast cancer and associated with oncogenic transformation, as well 
+as resistance to chemotherapy and endocrine therapy. Interestingly, inhibited 
+intervention causal networks of numerous chemical inhibitors were predicted 
+within the top 10 lists for the WM2 and WM5 modules, suggesting involvement of 
+potential therapeutic targets in those data-driven networks. Our findings may 
+help develop therapeutic strategies to benefit patients.
+
+DOI: 10.1038/s41598-021-81509-9
+PMCID: PMC7814020
+PMID: 33462336 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

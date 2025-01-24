@@ -1,0 +1,41 @@
+1. Cell Rep Methods. 2023 Jul 7;3(7):100522. doi: 10.1016/j.crmeth.2023.100522. 
+eCollection 2023 Jul 24.
+
+TRAPnSeq allows high-throughput profiling of antigen-specific antibody-secreting 
+cells.
+
+Asrat S(1), Devlin JC(1), Vecchione A(1), Klotz B(1), Setliff I(1), Srivastava 
+D(1), Limnander A(1), Rafique A(1), Adler C(1), Porter S(1), Murphy AJ(1), Atwal 
+GS(1), Sleeman MA(1), Lim WK(1), Orengo JM(1).
+
+Author information:
+(1)Regeneron Pharmaceuticals, Tarrytown, NY 10591, USA.
+
+Following activation by cognate antigen, B cells undergo fine-tuning of their 
+antigen receptors and may ultimately differentiate into antibody-secreting cells 
+(ASCs). While antigen-specific B cells that express surface receptors (B cell 
+receptors [BCRs]) can be readily cloned and sequenced following flow sorting, 
+antigen-specific ASCs that lack surface BCRs cannot be easily profiled. Here, we 
+report an approach, TRAPnSeq (antigen specificity mapping through immunoglobulin 
+[Ig] secretion TRAP and Sequencing), that allows capture of secreted antibodies 
+on the surface of ASCs, which in turn enables high-throughput screening of 
+single ASCs against large antigen panels. This approach incorporates flow 
+cytometry, standard microfluidic platforms, and DNA-barcoding technologies to 
+characterize antigen-specific ASCs through single-cell V(D)J, RNA, and antigen 
+barcode sequencing. We show the utility of TRAPnSeq by profiling 
+antigen-specific IgG and IgE ASCs from both mice and humans and highlight its 
+capacity to accelerate therapeutic antibody discovery from ASCs.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.crmeth.2023.100522
+PMCID: PMC10391570
+PMID: 37533642 [Indexed for MEDLINE]
+
+Conflict of interest statement: This study was sponsored by Regeneron 
+Pharmaceuticals, Inc. All authors are current or former employees of Regeneron 
+and may hold stock options in the company. S.A., J.C.D., A.V., B.K., I.S., 
+G.S.A., M.A.S., W.K.L., and J.M.O. are inventors on a pending US patent 
+application on TRAPnSeq (“Methods of Mapping Antigen Specificity to 
+Antibody-Secreting Cells”). A.J.M. is an inventor on a pending US patent 
+application (#16/363,774; “Humanized Rodents for Testing Therapeutic Agents”).

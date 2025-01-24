@@ -1,0 +1,41 @@
+1. J Chem Theory Comput. 2022 Jul 12;18(7):4515-4528. doi: 
+10.1021/acs.jctc.2c00291. Epub 2022 Jun 6.
+
+Studying the Dynamics of a Complex G-Quadruplex System: Insights into the 
+Comparison of MD and NMR Data.
+
+Castelli M(1), Doria F(1), Freccero M(1), Colombo G(1)(2), Moroni E(2).
+
+Author information:
+(1)Department of Chemistry, University of Pavia, V.le Taramelli 12, 27100 Pavia, 
+Italy.
+(2)Institute of Chemical Sciences and Technologies SCITEC-CNR, Via Mario Bianco, 
+9, 20131 Milano, Italy.
+
+Molecular dynamics (MD) simulations are coming of age in the study of nucleic 
+acids, including specific tertiary structures such as G-quadruplexes. While 
+being precious for providing structural and dynamic information inaccessible to 
+experiments at the atomistic level of resolution, MD simulations in this field 
+may still be limited by several factors. These include the force fields used, 
+different models for ion parameters, ionic strengths, and water models. We 
+address various aspects of this problem by analyzing and comparing 
+microsecond-long atomistic simulations of the G-quadruplex structure formed by 
+the human immunodeficiency virus long terminal repeat (HIV LTR)-III sequence for 
+which nuclear magnetic resonance (NMR) structures are available. The system is 
+studied in different conditions, systematically varying the ionic strengths, ion 
+numbers, and water models. We comparatively analyze the dynamic behavior of the 
+G-quadruplex motif in various conditions and assess the ability of each 
+simulation to satisfy the nuclear magnetic resonance (NMR)-derived experimental 
+constraints and structural parameters. The conditions taking into account 
+K+-ions to neutralize the system charge, mimicking the intracellular ionic 
+strength, and using the four-atom water model are found to be the best in 
+reproducing the experimental NMR constraints and data. Our analysis also reveals 
+that in all of the simulated environments residues belonging to the duplex 
+moiety of HIV LTR-III exhibit the highest flexibility.
+
+DOI: 10.1021/acs.jctc.2c00291
+PMCID: PMC9281369
+PMID: 35666124 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

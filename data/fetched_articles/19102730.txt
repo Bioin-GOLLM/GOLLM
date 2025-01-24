@@ -1,0 +1,36 @@
+1. BMC Genet. 2008 Dec 22;9:90. doi: 10.1186/1471-2156-9-90.
+
+A systematic search for SNPs/haplotypes associated with disease phenotypes using 
+a haplotype-based stepwise procedure.
+
+Yang Y(1), Li SS, Chien JW, Andriesen J, Zhao LP.
+
+Author information:
+(1)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 
+1100 Fairview Ave, N, Seattle, WA 98109, USA. yyang2@u.washington.edu
+
+BACKGROUND: Genotyping technologies enable us to genotype multiple Single 
+Nucleotide Polymorphisms (SNPs) within selected genes/regions, providing data 
+for haplotype association analysis. While haplotype-based association analysis 
+is powerful for detecting untyped causal alleles in linkage-disequilibrium (LD) 
+with neighboring SNPs/haplotypes, the inclusion of extraneous SNPs could reduce 
+its power by increasing the number of haplotypes with each additional SNP.
+METHODS: Here, we propose a haplotype-based stepwise procedure (HBSP) to 
+eliminate extraneous SNPs. To evaluate its properties, we applied HBSP to both 
+simulated and real data, generated from a study of genetic associations of the 
+bactericidal/permeability-increasing (BPI) gene with pulmonary function in a 
+cohort of patients following bone marrow transplantation.
+RESULTS: Under the null hypothesis, use of the HBSP gave results that retained 
+the desired false positive error rates when multiple comparisons were 
+considered. Under various alternative hypotheses, HBSP had adequate power to 
+detect modest genetic associations in case-control studies with 500, 1,000 or 
+2,000 subjects. In the current application, HBSP led to the identification of 
+two specific SNPs with a positive validation.
+CONCLUSION: These results demonstrate that HBSP retains the essence of 
+haplotype-based association analysis while improving analytic power by excluding 
+extraneous SNPs. Minimizing the number of SNPs also enables simpler 
+interpretation and more cost-effective applications.
+
+DOI: 10.1186/1471-2156-9-90
+PMCID: PMC2680203
+PMID: 19102730 [Indexed for MEDLINE]

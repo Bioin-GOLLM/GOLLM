@@ -1,0 +1,55 @@
+1. Am J Hum Genet. 2016 May 5;98(5):883-897. doi: 10.1016/j.ajhg.2016.03.007.
+Epub  2016 Apr 28.
+
+Integrative Multi-omic Analysis of Human Platelet eQTLs Reveals Alternative 
+Start Site in Mitofusin 2.
+
+Simon LM(1), Chen ES(2), Edelstein LC(3), Kong X(3), Bhatlekar S(3), Rigoutsos 
+I(4), Bray PF(5), Shaw CA(6).
+
+Author information:
+(1)Department of Structural and Computational Biology and Molecular Biophysics, 
+Baylor College of Medicine, Houston, TX 77030, USA; Department of Molecular and 
+Human Genetics, Baylor College of Medicine, Houston, TX 77030, USA.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX 77030, USA.
+(3)Cardeza Foundation for Hematologic Research and Department of Medicine, 
+Thomas Jefferson University, Philadelphia, PA 19107, USA.
+(4)Computational Medicine Center, Thomas Jefferson University, Philadelphia, PA 
+19107, USA.
+(5)Cardeza Foundation for Hematologic Research and Department of Medicine, 
+Thomas Jefferson University, Philadelphia, PA 19107, USA. Electronic address: 
+paul.bray@jefferson.edu.
+(6)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX 77030, USA; Department of Statistics, Rice University, Houston, TX 
+77251, USA. Electronic address: cashaw@bcm.edu.
+
+Platelets play a central role in ischemic cardiovascular events. Cardiovascular 
+disease (CVD) is a major cause of death worldwide. Numerous genome-wide 
+association studies (GWASs) have identified loci associated with CVD risk. 
+However, our understanding of how these variants contribute to disease is 
+limited. Using data from the platelet RNA and expression 1 (PRAX1) study, we 
+analyzed cis expression quantitative trait loci (eQTLs) in platelets from 154 
+normal human subjects. We confirmed these results in silico by performing 
+allele-specific expression (ASE) analysis, which demonstrated that the allelic 
+directionality of eQTLs and ASE patterns correlate significantly. Comparison of 
+platelet eQTLs with data from the Genotype-Tissue Expression (GTEx) project 
+revealed that a number of platelet eQTLs are platelet specific and that platelet 
+eQTL peaks localize to the gene body at a higher rate than eQTLs from other 
+tissues. Upon integration with data from previously published GWASs, we found 
+that the trait-associated variant rs1474868 coincides with the eQTL peak for 
+mitofusin 2 (MFN2). Additional experimental and computational analyses revealed 
+that this eQTL is linked to an unannotated alternate MFN2 start site 
+preferentially expressed in platelets. Integration of phenotype data from the 
+PRAX1 study showed that MFN2 expression levels were significantly associated 
+with platelet count. This study links the variant rs1474868 to a 
+platelet-specific regulatory role for MFN2 and demonstrates the utility of 
+integrating multi-omic data with eQTL analysis in disease-relevant tissues for 
+interpreting GWAS results.
+
+Copyright © 2016 The American Society of Human Genetics. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2016.03.007
+PMCID: PMC4863560
+PMID: 27132591 [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+1. Bioinform Biol Insights. 2010 Dec 12;4:137-46. doi: 10.4137/BBI.S6247.
+
+Computational Analysis of Molecular Interaction Networks Underlying Change of 
+HIV-1 Resistance to Selected Reverse Transcriptase Inhibitors.
+
+Kierczak M(1), Dramiński M, Koronacki J, Komorowski J.
+
+Author information:
+(1)The Linnaeus Centre for Bioinformatics, Uppsala University, 751-24 Uppsala, 
+Sweden.
+
+MOTIVATION: Despite more than two decades of research, HIV resistance to drugs 
+remains a serious obstacle in developing efficient AIDS treatments. Several 
+computational methods have been developed to predict resistance level from the 
+sequence of viral proteins such as reverse transcriptase (RT) or protease. These 
+methods, while powerful and accurate, give very little insight into the 
+molecular interactions that underly acquisition of drug 
+resistance/hypersusceptibility. Here, we attempt at filling this gap by using 
+our Monte Carlo feature selection and interdependency discovery method (MCFS-ID) 
+to elucidate molecular interaction networks that characterize viral strains with 
+altered drug resistance levels.
+RESULTS: We analyzed a number of HIV-1 RT sequences annotated with drug 
+resistance level using the MCFS-ID method. This let us expound interdependency 
+networks that characterize change of drug resistance to six selected RT 
+inhibitors: Abacavir, Lamivudine, Stavudine, Zidovudine, Tenofovir and 
+Nevirapine. The networks consider interdependencies at the level of 
+physicochemical properties of mutating amino acids, eg,: polarity. We mapped 
+each network on the 3D structure of RT in attempt to understand the molecular 
+meaning of interacting pairs. The discovered interactions describe several known 
+drug resistance mechanisms and, importantly, some previously unidentified ones. 
+Our approach can be easily applied to a whole range of problems from the domain 
+of protein engineering.
+AVAILABILITY: A portable Java implementation of our MCFS-ID method is freely 
+available for academic users and can be obtained at: 
+http://www.ipipan.eu/staff/m.draminski/software.htm.
+
+DOI: 10.4137/BBI.S6247
+PMCID: PMC3020081
+PMID: 21234299

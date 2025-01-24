@@ -1,0 +1,41 @@
+1. PLoS Comput Biol. 2017 Oct 24;13(10):e1005789. doi: 
+10.1371/journal.pcbi.1005789. eCollection 2017 Oct.
+
+Prediction of HIV-1 sensitivity to broadly neutralizing antibodies shows a trend 
+towards resistance over time.
+
+Hake A(1), Pfeifer N(1)(2)(3).
+
+Author information:
+(1)Department Computational Biology and Applied Algorithmics, Max Planck 
+Institute for Informatics, Saarland Informatics Campus, Saarbrücken, Germany.
+(2)Methods in Medical Informatics, Department of Computer Science, University of 
+Tübingen, Germany.
+(3)Medical Faculty, University of Tübingen, Tübingen, Germany.
+
+Treatment with broadly neutralizing antibodies (bNAbs) has proven effective 
+against HIV-1 infections in humanized mice, non-human primates, and humans. Due 
+to the high mutation rate of HIV-1, resistance testing of the patient's viral 
+strains to the bNAbs is still inevitable. So far, bNAb resistance can only be 
+tested in expensive and time-consuming neutralization experiments. Here, we 
+introduce well-performing computational models that predict the neutralization 
+response of HIV-1 to bNAbs given only the envelope sequence of the virus. Using 
+non-linear support vector machines based on a string kernel, the models learnt 
+even the important binding sites of bNAbs with more complex epitopes, i.e., the 
+CD4 binding site targeting bNAbs, proving thereby the biological relevance of 
+the models. To increase the interpretability of the models, we additionally 
+provide a new kind of motif logo for each query sequence, visualizing those 
+residues of the test sequence that influenced the prediction outcome the most. 
+Moreover, we predicted the neutralization sensitivity of around 34,000 HIV-1 
+samples from different time points to a broad range of bNAbs, enabling the first 
+analysis of HIV resistance to bNAbs on a global scale. The analysis showed for 
+many of the bNAbs a trend towards antibody resistance over time, which had 
+previously only been discovered for a small non-representative subset of the 
+global HIV-1 population.
+
+DOI: 10.1371/journal.pcbi.1005789
+PMCID: PMC5669501
+PMID: 29065122 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

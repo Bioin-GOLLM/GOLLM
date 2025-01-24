@@ -1,0 +1,50 @@
+1. ACS Catal. 2022 Feb 18;12(4):2381-2396. doi: 10.1021/acscatal.1c05508. Epub
+2022  Feb 1.
+
+In-depth Sequence-Function Characterization Reveals Multiple Pathways to Enhance 
+Enzymatic Activity.
+
+Trivedi VD(1), Chappell TC(1), Krishna NB(2), Shetty A(2), Sigamani GG(2), Mohan 
+K(1), Ramesh A(1), Pravin KR(2), Nair NU(1).
+
+Author information:
+(1)Department of Chemical and Biological Engineering, Tufts University, Medford, 
+USA 02155.
+(2)Kcat Enzymatic Private Limited, Bengaluru, Karnataka, India 560005.
+
+Deep mutational scanning (DMS) has recently emerged as a powerful method to 
+study protein sequence-function relationships but it has not been well-explored 
+as a guide to enzyme engineering and identifying pathways by which their 
+catalytic cycle may be improved. We report such a demonstration in this work 
+using a Phenylalanine ammonia-lyase (PAL), which deaminates L-phenylalanine to 
+trans-cinnamic acid and has widespread application in chemo-enzymatic synthesis, 
+agriculture, and medicine. In particular, the PAL from Anabaena variabilis 
+(AvPAL*) has garnered significant attention as the active ingredient in 
+Pegvaliase®, the only FDA-approved drug treating classical Phenylketonuria 
+(PKU). Although an extensive body of literature exists on the structure, 
+substrate-specificity, and catalytic cycle, protein-wide sequence determinants 
+of function remain unknown, as do intermediate reaction steps that limit 
+turnover frequency, all of which has hindered rational engineering of these 
+enzymes. Here, we created a detailed sequence-function landscape of AvPAL* by 
+performing DMS and revealed 112 mutations at 79 functionally relevant sites that 
+affect a positive change in enzyme fitness. Using fitness values and 
+structure-function analysis, we picked a subset of positions for comprehensive 
+single- and multi-site saturation mutagenesis and identified combinations of 
+mutations that led to improved reaction kinetics in cell-free and cellular 
+contexts. We then performed QM/MM and MD to understand the mechanistic role of 
+the most beneficial mutations and observed that different mutants confer 
+improvements via different mechanisms, including stabilizing transition and 
+intermediate states, improving substrate diffusion into the active site, and 
+decreasing product inhibition. This work demonstrates how DMS can be combined 
+with computational analysis to effectively identify significant mutations that 
+enhance enzyme activity along with the underlying mechanisms by which these 
+mutations confer their benefit.
+
+DOI: 10.1021/acscatal.1c05508
+PMCID: PMC10270700
+PMID: 37325394
+
+Conflict of interest statement: COMPETING INTERESTS. Authors (N.U.N., V.D.T., 
+T.C.C., K.M.) and Tufts University have applied for a patent on the workflow and 
+enhanced activity variants. N.U.N., V.D.T., and T.C.C. are cofounders of Enrich 
+Bio, Inc.

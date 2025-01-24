@@ -1,0 +1,36 @@
+1. Life (Basel). 2022 Feb 18;12(2):307. doi: 10.3390/life12020307.
+
+PRIP: A Protein-RNA Interface Predictor Based on Semantics of Sequences.
+
+Li Y(1), Lyu J(1), Wu Y(2), Liu Y(3), Huang G(1).
+
+Author information:
+(1)School of Electrical Engineering, Shaoyang University, Shaoyang 422000, 
+China.
+(2)Hunan Key Laboratory for Computation and Simulation in Science and 
+Engineering, Xiangtan University, Xiangtan 411105, China.
+(3)College of Information and Intelligence, Hunan Agricultural University, 
+Changsha 410128, China.
+
+RNA-protein interactions play an indispensable role in many biological 
+processes. Growing evidence has indicated that aberration of the RNA-protein 
+interaction is associated with many serious human diseases. The precise and 
+quick detection of RNA-protein interactions is crucial to finding new functions 
+and to uncovering the mechanism of interactions. Although many methods have been 
+presented to recognize RNA-binding sites, there is much room left for the 
+improvement of predictive accuracy. We present a sequence semantics-based method 
+(called PRIP) for predicting RNA-binding interfaces. The PRIP extracted semantic 
+embedding by pre-training the Word2vec with the corpus. Extreme gradient 
+boosting was employed to train a classifier. The PRIP obtained a SN of 0.73 over 
+the five-fold cross validation and a SN of 0.67 over the independent test, 
+outperforming the state-of-the-art methods. Compared with other methods, this 
+PRIP learned the hidden relations between words in the context. The analysis of 
+the semantics relationship implied that the semantics of some words were 
+specific to RNA-binding interfaces. This method is helpful to explore the 
+mechanism of RNA-protein interactions from a semantics point of view.
+
+DOI: 10.3390/life12020307
+PMCID: PMC8879494
+PMID: 35207594
+
+Conflict of interest statement: The authors declare no conflict of interest.

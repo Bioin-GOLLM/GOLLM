@@ -1,0 +1,44 @@
+1. Methods. 2019 Mar 1;156:16-24. doi: 10.1016/j.ymeth.2018.11.016. Epub 2018 Nov
+ 29.
+
+Current strategies for Site-Directed RNA Editing using ADARs.
+
+Montiel-Gonzalez MF(1), Diaz Quiroz JF(1), Rosenthal JJC(2).
+
+Author information:
+(1)The Eugene Bell Center, Marine Biological Laboratory, Woods Hole, MA, USA.
+(2)The Eugene Bell Center, Marine Biological Laboratory, Woods Hole, MA, USA. 
+Electronic address: jrosenthal@mbl.edu.
+
+Adenosine Deaminases that Act on RNA (ADARs) are a group of enzymes that 
+catalyze the conversion of adenosines (A's) to inosines (I's) in a process known 
+as RNA editing. Though ADARs can act on different types of RNA, editing events 
+in coding regions of mRNA are of particular interest as I's base pair like 
+guanosines (G's). Thus, every A-to-I change catalyzed by ADAR is read as an 
+A-to-G change during translation, potentially altering protein sequence and 
+function. This ability to re-code makes ADAR an attractive therapeutic tool to 
+correct genetic mutations within mRNA. The main challenge in doing so is to 
+re-direct ADAR's catalytic activity towards A's that are not naturally edited, a 
+process termed Site-Directed RNA Editing (SDRE). Recently, a handful of labs 
+have taken up this challenge and two basic strategies have emerged. The first 
+involves redirecting endogenous ADAR to new sites by making editable structures 
+using antisense RNA oligonucleotides. The second also utilizes antisense RNA 
+oligonucleotides, but it uses them as guides to deliver the catalytic domain of 
+engineered ADARs to new sites, much as CRISPR guides deliver Cas nucleases. In 
+fact, despite the intense current focus on CRISPR-Cas9 genome editing, SDRE 
+offers a number of distinct advantages. In the present review we will discuss 
+these strategies in greater detail, focusing on the concepts on which they are 
+based, how they were developed and tested, and their respective advantages and 
+disadvantages. Though the precise and efficient re-direction of ADAR activity 
+still remains a challenge, the systems that are being developed lay the 
+foundation for SDRE as a powerful tool for transient genome editing.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymeth.2018.11.016
+PMCID: PMC6814296
+PMID: 30502398 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest We declare a competing 
+financial interest. Maria Montiel-Gonzalez and Joshua Rosenthal hold a patent 
+titled: Site-Directed RNA Editing, publication number: US 9,650,627 B1.

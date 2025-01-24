@@ -1,0 +1,45 @@
+1. PLoS One. 2013 Nov 27;8(11):e80423. doi: 10.1371/journal.pone.0080423. 
+eCollection 2013.
+
+A novel pulse-chase SILAC strategy measures changes in protein decay and 
+synthesis rates induced by perturbation of proteostasis with an Hsp90 inhibitor.
+
+Fierro-Monti I(1), Racle J, Hernandez C, Waridel P, Hatzimanikatis V, Quadroni 
+M.
+
+Author information:
+(1)Center for Integrative Genomics, University of Lausanne, Lausanne, 
+Switzerland.
+
+Standard proteomics methods allow the relative quantitation of levels of 
+thousands of proteins in two or more samples. While such methods are invaluable 
+for defining the variations in protein concentrations which follow the 
+perturbation of a biological system, they do not offer information on the 
+mechanisms underlying such changes. Expanding on previous work [1], we developed 
+a pulse-chase (pc) variant of SILAC (stable isotope labeling by amino acids in 
+cell culture). pcSILAC can quantitate in one experiment and for two conditions 
+the relative levels of proteins newly synthesized in a given time as well as the 
+relative levels of remaining preexisting proteins. We validated the method 
+studying the drug-mediated inhibition of the Hsp90 molecular chaperone, which is 
+known to lead to increased synthesis of stress response proteins as well as the 
+increased decay of Hsp90 "clients". We showed that pcSILAC can give information 
+on changes in global cellular proteostasis induced by treatment with the 
+inhibitor, which are normally not captured by standard relative quantitation 
+techniques. Furthermore, we have developed a mathematical model and 
+computational framework that uses pcSILAC data to determine degradation 
+constants kd and synthesis rates Vs for proteins in both control and 
+drug-treated cells. The results show that Hsp90 inhibition induced a generalized 
+slowdown of protein synthesis and an increase in protein decay. Treatment with 
+the inhibitor also resulted in widespread protein-specific changes in relative 
+synthesis rates, together with variations in protein decay rates. The latter 
+were more restricted to individual proteins or protein families than the 
+variations in synthesis. Our results establish pcSILAC as a viable workflow for 
+the mechanistic dissection of changes in the proteome which follow 
+perturbations. Data are available via ProteomeXchange with identifier PXD000538.
+
+DOI: 10.1371/journal.pone.0080423
+PMCID: PMC3842330
+PMID: 24312217 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

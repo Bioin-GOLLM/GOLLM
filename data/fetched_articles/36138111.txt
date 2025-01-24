@@ -1,0 +1,63 @@
+1. Sci Rep. 2022 Sep 22;12(1):15817. doi: 10.1038/s41598-022-19708-1.
+
+A machine learning-based SNP-set analysis approach for identifying 
+disease-associated susceptibility loci.
+
+Silva PP(1)(2), Gaudillo JD(3)(4)(5), Vilela JA(6), Roxas-Villanueva RML(1)(2), 
+Tiangco BJ(7)(8), Domingo MR(9), Albia JR(1)(9)(10).
+
+Author information:
+(1)Data-Driven Research Laboratory (DARELab), Institute of Mathematical Sciences 
+and Physics, University of the Philippines Los Baños, 4031, Los Baños, Laguna, 
+Philippines.
+(2)Computational Interdisciplinary Research Laboratory (CINTERLabs), University 
+of the Philippines Los Baños, 4031, Los Baños, Laguna, Philippines.
+(3)Data-Driven Research Laboratory (DARELab), Institute of Mathematical Sciences 
+and Physics, University of the Philippines Los Baños, 4031, Los Baños, Laguna, 
+Philippines. jdgaudillo@up.edu.ph.
+(4)Computational Interdisciplinary Research Laboratory (CINTERLabs), University 
+of the Philippines Los Baños, 4031, Los Baños, Laguna, Philippines. 
+jdgaudillo@up.edu.ph.
+(5)Domingo AI Research Center (DARC Labs), 1606, Pasig City, Philippines. 
+jdgaudillo@up.edu.ph.
+(6)Philippine Genome Center Program for Agriculture, Office of the Vice 
+Chancellor for Research and Extension, University of the Philippines Los Baños, 
+4031, Los Baños, Laguna, Philippines.
+(7)National Institute of Health, UP College of Medicine, Taft Avenue, 1000, 
+Manila, Philippines.
+(8)Division of Medicine, The Medical City, 1605, Pasig, Philippines.
+(9)Domingo AI Research Center (DARC Labs), 1606, Pasig City, Philippines.
+(10)Venn Biosciences Corporation Dba InterVenn Biosciences, Metro Manila, 
+Philippines.
+
+Identifying disease-associated susceptibility loci is one of the most pressing 
+and crucial challenges in modeling complex diseases. Existing approaches to 
+biomarker discovery are subject to several limitations including underpowered 
+detection, neglect for variant interactions, and restrictive dependence on prior 
+biological knowledge. Addressing these challenges necessitates more ingenious 
+ways of approaching the "missing heritability" problem. This study aims to 
+discover disease-associated susceptibility loci by augmenting previous 
+genome-wide association study (GWAS) using the integration of random forest and 
+cluster analysis. The proposed integrated framework is applied to a hepatitis B 
+virus surface antigen (HBsAg) seroclearance GWAS data. Multiple cluster analyses 
+were performed on (1) single nucleotide polymorphisms (SNPs) considered 
+significant by GWAS and (2) SNPs with the highest feature importance scores 
+obtained using random forest. The resulting SNP-sets from the cluster analyses 
+were subsequently tested for trait-association. Three susceptibility loci 
+possibly associated with HBsAg seroclearance were identified: (1) SNP rs2399971, 
+(2) gene LINC00578, and (3) locus 11p15. SNP rs2399971 is a biomarker reported 
+in the literature to be significantly associated with HBsAg seroclearance in 
+patients who had received antiviral treatment. The latter two loci are linked 
+with diseases influenced by the presence of hepatitis B virus infection. These 
+findings demonstrate the potential of the proposed integrated framework in 
+identifying disease-associated susceptibility loci. With further validation, 
+results herein could aid in better understanding complex disease etiologies and 
+provide inputs for a more advanced disease risk assessment for patients.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-19708-1
+PMCID: PMC9499949
+PMID: 36138111 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

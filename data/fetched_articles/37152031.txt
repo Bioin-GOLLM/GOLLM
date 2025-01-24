@@ -1,0 +1,58 @@
+1. Front Oncol. 2023 Apr 20;13:1122210. doi: 10.3389/fonc.2023.1122210.
+eCollection  2023.
+
+Preoperative radiomic signature based on CT images for noninvasive evaluation of 
+localized nephroblastoma in pediatric patients.
+
+Ma XH(1), Yang J(2)(3), Jia X(1), Zhou HC(1), Liang JW(1), Ding YS(1), Shu Q(1), 
+Niu T(4)(5).
+
+Author information:
+(1)The Children's Hospital, Zhejiang University School of Medicine, National 
+Clinical Research Center for Child Health, Hangzhou, Zhejiang, China.
+(2)Women's Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, 
+China.
+(3)Institute of Translational Medicine, Zhejiang University, Hangzhou, Zhejiang, 
+China.
+(4)Institute of Biomedical Engineering, Shenzhen Bay Laboratory, Shenzhen, 
+China.
+(5)Peking University Aerospace School of Clinical Medicine, Aerospace Center 
+Hospital, Beijing, China.
+
+BACKGROUND: Nephron sparing nephrectomy may not reduce the prognosis of 
+nephroblastoma in the absence of involvement of the renal capsule, sinus 
+vessels, and lymph nodes, However, there is no accurate preoperative noninvasive 
+evaluation method at present.
+MATERIALS AND METHODS: 105 nephroblastoma patients underwent contrast-enhanced 
+CT scan between 2013 and 2020 in our hospital were retrospectively collected, 
+including 59 cases with localized stage and 46 cases with non-localized stage, 
+and then were divided into training cohort (n= 73) and validation cohort (n= 32) 
+according to the order of CT scanning time. After lesion segmentation and data 
+preprocessing, radiomic features were extracted from each volume of interest. 
+The multi-step procedure including Pearson correlation analysis and sequential 
+forward floating selection was performed to produce radiomic signature. 
+Prediction model was constructed using the radiomic signature and Logistic 
+Regression classifier for predicting the localized nephroblastoma in the 
+training cohort. Finally, the model performance was validated in the validation 
+cohort.
+RESULTS: A total of 1652 radiomic features have been extracted, from which TOP 
+10 features were selected as the radiomic signature. The area under the receiver 
+operating characteristic curve, accuracy, sensitivity and specificity of the 
+prediction model were 0.796, 0.795, 0.732 and 0.875 for the training cohort 
+respectively, and 0.710, 0.719, 0.611 and 0.857 for the validation cohort 
+respectively. The result comparison with prediction models composed of different 
+machine learning classifiers and different parameters also manifest the 
+effectiveness of our radiomic model.
+CONCLUSION: A logistic regression model based on radiomic features extracted 
+from preoperative CT images had good ability to noninvasively predict 
+nephroblastoma without renal capsule, sinus vessel, and lymph node involvement.
+
+Copyright © 2023 Ma, Yang, Jia, Zhou, Liang, Ding, Shu and Niu.
+
+DOI: 10.3389/fonc.2023.1122210
+PMCID: PMC10157206
+PMID: 37152031
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
