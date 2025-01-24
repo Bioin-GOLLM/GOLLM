@@ -1,0 +1,2 @@
+data/gene2pubtator3.gz filter=lfs diff=lfs merge=lfs -text
+data/mutation2pubtator3.gz filter=lfs diff=lfs merge=lfs -text
