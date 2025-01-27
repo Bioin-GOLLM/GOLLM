@@ -36,9 +36,9 @@ def main():
     
     subsets = make_subsets(file, num_subsets)
 
-    os.makedirs("data/subsets", exist_ok=True)
+    os.makedirs("data/marching_pmids_subsets", exist_ok=True)
     for i, subset in enumerate(subsets):
-        with open(f"data/subsets/subset_{i + 1}.txt", 'w') as f:
+        with open(f"data/marching_pmids_subsets/subset_{i + 1}.txt", 'w') as f:
             f.writelines(subset)
         print(f"Subset {i + 1} contains {len(subset)} lines")
     
