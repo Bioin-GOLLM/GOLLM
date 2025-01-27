@@ -1,0 +1,32 @@
+1. Nucleic Acids Res. 2013 Nov;41(20):9584-92. doi: 10.1093/nar/gkt714. Epub 2013
+ Aug 11.
+
+CRISPR/Cas9 systems targeting β-globin and CCR5 genes have substantial 
+off-target activity.
+
+Cradick TJ(1), Fine EJ, Antico CJ, Bao G.
+
+Author information:
+(1)Department of Biomedical Engineering, Georgia Institute of Technology and 
+Emory University, Atlanta, GA 30332, USA.
+
+The ability to precisely modify endogenous genes can significantly facilitate 
+biological studies and disease treatment, and the clustered regularly 
+interspaced short palindromic repeats (CRISPR) systems have the potential to be 
+powerful tools for genome engineering. However, the target specificity of CRISPR 
+systems is largely unknown. Here we demonstrate that CRISPR/Cas9 systems 
+targeting the human hemoglobin β and C-C chemokine receptor type 5 genes have 
+substantial off-target cleavage, especially within the hemoglobin δ and C-C 
+chemokine receptor type 2 genes, respectively, causing gross chromosomal 
+deletions. The guide strands of the CRISPR/Cas9 systems were designed to have a 
+range of mismatches with the sequences of potential off-target sites. Off-target 
+analysis was performed using the T7 endonuclease I mutation detection assay and 
+Sanger sequencing. We found that the repair of the on-and off-target cleavage 
+resulted in a wide variety of insertions, deletions and point mutations. 
+Therefore, CRISPR/Cas9 systems need to be carefully designed to avoid potential 
+off-target cleavage sites, including those with mismatches to the 12-bases 
+proximal to the guide strand protospacer-adjacent motif.
+
+DOI: 10.1093/nar/gkt714
+PMCID: PMC3814385
+PMID: 23939622 [Indexed for MEDLINE]

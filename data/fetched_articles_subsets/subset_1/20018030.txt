@@ -1,0 +1,29 @@
+1. BMC Proc. 2009 Dec 15;3 Suppl 7(Suppl 7):S39. doi: 10.1186/1753-6561-3-s7-s39.
+
+Non-redundant summary scores applied to the North American Rheumatoid Arthritis 
+Consortium dataset.
+
+Pankratz ND(1).
+
+Author information:
+(1)Department of Medical and Molecular Genetics, Indiana University, School of 
+Medicine, Indianapolis, Indiana 46202, USA. npankrat@iupui.edu.
+
+After performing a genome-wide association study, it is often difficult to know 
+which regions to follow up, especially when no one marker reaches genome-wide 
+significance. Researchers frequently focus on their top N findings, knowing that 
+true associations may be buried deeper in the list. Others focus on genes or 
+regions that have multiple markers showing evidence of association. However, 
+these markers are often in high linkage disequilibrium with one another (r2 > 
+0.80), which indicates that these additional markers are providing redundant 
+information. I propose a novel method that identifies regions with multiple 
+lines of evidence, by down-weighting the contribution of additional markers in 
+proportion to pairwise linkage disequilibrium. I have used this non-redundant 
+summary score in my analysis of the North American Rheumatoid Arthritis 
+Consortium dataset released as part of Genetic Analysis Workshop 16. Three 
+regions were identified that had a genome-wide empirical p-value less than 0.01, 
+including one novel region on chromosome 20 near the KCNB1 and PTGIS genes.
+
+DOI: 10.1186/1753-6561-3-s7-s39
+PMCID: PMC2795937
+PMID: 20018030

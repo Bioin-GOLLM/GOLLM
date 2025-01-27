@@ -1,0 +1,36 @@
+1. Microb Cell. 2023 Feb 28;10(4):78-87. doi: 10.15698/mic2023.04.794.
+eCollection  2023 Apr 3.
+
+A modular cloning (MoClo) toolkit for reliable intracellular protein targeting 
+in the yeast Saccharomyces cerevisiae.
+
+Simakin P(1), Koch C(1), Herrmann JM(1).
+
+Author information:
+(1)Cell Biology, University of Kaiserslautern, 67663 Kaiserslautern, Germany.
+
+Modular Cloning (MoClo) allows the combinatorial assembly of plasmids from 
+standardized genetic parts without the need of error-prone PCR reactions. It is 
+a very powerful strategy which enables highly flexible expression patterns 
+without the need of repetitive cloning procedures. In this study, we describe an 
+advanced MoClo toolkit that is designed for the baker's yeast Saccharomyces 
+cerevisiae and optimized for the targeting of proteins of interest to specific 
+cellular compartments. Comparing different targeting sequences, we developed 
+signals to direct proteins with high specificity to the different mitochondrial 
+subcompartments, such as the matrix and the intermembrane space (IMS). 
+Furthermore, we optimized the subcellular targeting by controlling expression 
+levels using a collection of different promoter cassettes; the MoClo strategy 
+allows it to generate arrays of expression plasmids in parallel to optimize gene 
+expression levels and reliable targeting for each given protein and cellular 
+compartment. Thus, the MoClo strategy enables the generation of 
+protein-expressing yeast plasmids that accurately target proteins of interest to 
+various cellular compartments.
+
+Copyright: © 2023 Simakin et al.
+
+DOI: 10.15698/mic2023.04.794
+PMCID: PMC10054711
+PMID: 37009624
+
+Conflict of interest statement: Conflict of Interest: The authors declare no 
+competing financial interests.
