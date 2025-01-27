@@ -1,0 +1,49 @@
+1. Sci Rep. 2021 Oct 13;11(1):20294. doi: 10.1038/s41598-021-99384-9.
+
+Computer-aided engineering of a branching sucrase for the glucodiversification 
+of a tetrasaccharide precursor of S. flexneri antigenic oligosaccharides.
+
+Benkoulouche M(#)(1), Ben Imeddourene A(#)(1), Barel LA(2)(3), Lefebvre D(1), 
+Fanuel M(4)(5), Rogniaux H(4)(5), Ropartz D(4)(5), Barbe S(1), Guieysse D(1), 
+Mulard LA(2), Remaud-Siméon M(1), Moulis C(1), André I(6).
+
+Author information:
+(1)Toulouse Biotechnology Institute, TBI, Université de Toulouse, CNRS, INRAE, 
+INSA, 135, Avenue de Rangueil, 31077, Toulouse Cedex 04, France.
+(2)Institut Pasteur, CNRS UMR3523 Unité de Chimie des Biomolécules, 28 Rue du Dr 
+Roux, 75724, Paris Cedex 15, France.
+(3)Université Paris Descartes, Sorbonne Paris Cité, Paris, France.
+(4)INRAE, UR BIA, 44316, Nantes, France.
+(5)INRAE, BIBS Facility, 44316, Nantes, France.
+(6)Toulouse Biotechnology Institute, TBI, Université de Toulouse, CNRS, INRAE, 
+INSA, 135, Avenue de Rangueil, 31077, Toulouse Cedex 04, France. 
+isabelle.andre@insa-toulouse.fr.
+(#)Contributed equally
+
+Enzyme engineering approaches have allowed to extend the collection of enzymatic 
+tools available for synthetic purposes. However, controlling the 
+regioselectivity of the reaction remains challenging, in particular when dealing 
+with carbohydrates bearing numerous reactive hydroxyl groups as substrates. 
+Here, we used a computer-aided design framework to engineer the active site of a 
+sucrose-active [Formula: see text]-transglucosylase for the 
+1,2-cis-glucosylation of a lightly protected chemically synthesized 
+tetrasaccharide, a common precursor for the synthesis of serotype-specific S. 
+flexneri O-antigen fragments. By targeting 27 amino acid positions of the 
+acceptor binding subsites of a GH70 branching sucrase, we used a 
+RosettaDesign-based approach to propose 49 mutants containing up to 15 mutations 
+scattered over the active site. Upon experimental evaluation, these mutants were 
+found to produce up to six distinct pentasaccharides, whereas only two were 
+synthesized by the parental enzyme. Interestingly, we showed that by introducing 
+specific mutations in the active site of a same enzyme scaffold, it is possible 
+to control the regiospecificity of the 1,2-cis glucosylation of the 
+tetrasaccharide acceptor and produce a unique diversity of pentasaccharide 
+bricks. This work offers novel opportunities for the development of highly 
+convergent chemo-enzymatic routes toward S. flexneri haptens.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-99384-9
+PMCID: PMC8514537
+PMID: 34645865 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

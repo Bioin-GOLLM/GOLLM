@@ -1,0 +1,67 @@
+1. Cell. 2017 Jun 1;169(6):1029-1041.e16. doi: 10.1016/j.cell.2017.05.024.
+
+Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields.
+
+Grossman N(1), Bono D(2), Dedic N(3), Kodandaramaiah SB(4), Rudenko A(5), Suk 
+HJ(6), Cassara AM(7), Neufeld E(7), Kuster N(8), Tsai LH(9), Pascual-Leone 
+A(10), Boyden ES(11).
+
+Author information:
+(1)Media Lab, MIT, Cambridge, MA 02139, USA; McGovern Institute for Brain 
+Research, MIT, Cambridge, MA 02139, USA; Berenson-Allen Center for Noninvasive 
+Brain Stimulation, Department of Neurology, Beth Israel Deaconess Medical 
+Center, Harvard Medical School, Boston, MA 02215, USA; Centre for Bio-Inspired 
+Technology, Department of Electrical and Electronic Engineering, Imperial 
+College London, SW7 0AZ London, UK.
+(2)Department of Materials Science and Engineering, MIT, Cambridge, MA 02139, 
+USA.
+(3)Picower Institute for Learning and Memory, MIT, Cambridge, MA 02139, USA.
+(4)Media Lab, MIT, Cambridge, MA 02139, USA; Department of Mechanical 
+Engineering, University of Minnesota, Twin Cities, Minneapolis, MN 55455, USA.
+(5)Picower Institute for Learning and Memory, MIT, Cambridge, MA 02139, USA; 
+Department of Biology, City College of the City University of York, New York, NY 
+10031, USA.
+(6)McGovern Institute for Brain Research, MIT, Cambridge, MA 02139, USA; 
+Harvard-MIT Division of Health Sciences and Technology, MIT, Cambridge, MA 
+02139, USA.
+(7)IT'IS Foundation for Research on Information Technologies in Society, 8004 
+Zurich, Switzerland.
+(8)IT'IS Foundation for Research on Information Technologies in Society, 8004 
+Zurich, Switzerland; Swiss Federal Institute of Technology (ETHZ), 8092 Zurich, 
+Switzerland.
+(9)Picower Institute for Learning and Memory, MIT, Cambridge, MA 02139, USA; 
+Broad Institute of Harvard University and MIT, Cambridge, MA 02142, USA.
+(10)Berenson-Allen Center for Noninvasive Brain Stimulation, Department of 
+Neurology, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, 
+MA 02215, USA.
+(11)Media Lab, MIT, Cambridge, MA 02139, USA; McGovern Institute for Brain 
+Research, MIT, Cambridge, MA 02139, USA; Broad Institute of Harvard University 
+and MIT, Cambridge, MA 02142, USA; Department of Biological Engineering, MIT, 
+Cambridge, MA 02139, USA; Department of Brain and Cognitive Sciences, MIT, 
+Cambridge, MA 02139, USA; Center for Neurobiological Engineering, MIT, 
+Cambridge, MA 02139, USA. Electronic address: esb@media.mit.edu.
+
+Comment in
+    Cell. 2017 Jun 1;169(6):977-978. doi: 10.1016/j.cell.2017.05.017.
+    Sci Transl Med. 2017 Jun 21;9(395):eaan6193. doi: 
+10.1126/scitranslmed.aan6193.
+    Mov Disord. 2017 Sep;32(9):1326. doi: 10.1002/mds.27111.
+
+We report a noninvasive strategy for electrically stimulating neurons at depth. 
+By delivering to the brain multiple electric fields at frequencies too high to 
+recruit neural firing, but which differ by a frequency within the dynamic range 
+of neural firing, we can electrically stimulate neurons throughout a region 
+where interference between the multiple fields results in a prominent electric 
+field envelope modulated at the difference frequency. We validated this temporal 
+interference (TI) concept via modeling and physics experiments, and verified 
+that neurons in the living mouse brain could follow the electric field envelope. 
+We demonstrate the utility of TI stimulation by stimulating neurons in the 
+hippocampus of living mice without recruiting neurons of the overlying cortex. 
+Finally, we show that by altering the currents delivered to a set of immobile 
+electrodes, we can steerably evoke different motor patterns in living mice.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2017.05.024
+PMCID: PMC5520675
+PMID: 28575667 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+1. J Biomol Struct Dyn. 2013;31(2):174-94. doi: 10.1080/07391102.2012.698381.
+Epub  2012 Jul 25.
+
+Comparative simulation studies of native and single-site mutant human 
+beta-defensin-1 peptides.
+
+Toubar RA(1), Zhmurov A, Barsegov V, Marx KA.
+
+Author information:
+(1)Department of Chemistry, University of Massachusetts Lowell, Lowell, MA 
+01854, USA.
+
+Human defensins play important roles in a broad range of biological functions, 
+such as microbial defense and immunity. Yet, little is known about their 
+molecular properties, i.e. secondary structure stability, structural 
+variability, important side chain interactions, surface charge distribution, and 
+resistance to thermal fluctuations, and how these properties are related to 
+their functions. To assess these factors, we studied the native human 
+β-defensin-1 monomer and dimer as well as several single-site mutants using 
+molecular dynamics simulations. The results showed that disulfide bonds are 
+important determinants in maintaining the defensins' structural integrity, as no 
+structural transitions were observed at 300 K and only minor structural 
+unfolding was detected upon heating to 500 K. The α-helix was less thermally 
+stable than the core β-sheet structure held together by hydrogen bonds and 
+hydrophobic interactions. The monomer α-helix stability was directly correlated, 
+whereas the end-to-end distance was inversely correlated to the experimentally 
+measured β-defensin-1 chemotactic activity, in the order: mutant 2 (Gln24Glu) > 
+mutant 3 (Lys31Ala) = wild type > mutant 1 (Asn4Ala). The structural stability 
+of the β-defensin-1 dimer species exhibited an inverse correlation to their 
+chemotactic activity. In dimers formed by mutants 2 and 3, we observed sliding 
+of one monomer upon the surface of the other in the absence of unbinding. This 
+dynamic sliding feature may enhance the molecular oligomerization of 
+β-defensin-1 peptides contributing to their antibacterial activity. It could 
+also help these peptides orient correctly in the CC chemokine receptor 6 binding 
+site, thereby initiating their chemotactic activity. In agreement with this 
+notion, the remarkable sliding behavior was observed only for the mutants with 
+the highest chemotactic activity.
+
+DOI: 10.1080/07391102.2012.698381
+PMID: 22830355 [Indexed for MEDLINE]

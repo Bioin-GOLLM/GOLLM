@@ -1,0 +1,50 @@
+1. Front Bioinform. 2023 Mar 3;3:1157956. doi: 10.3389/fbinf.2023.1157956. 
+eCollection 2023.
+
+Exploring microbial functional biodiversity at the protein family level-From 
+metagenomic sequence reads to annotated protein clusters.
+
+Baltoumas FA(1), Karatzas E(1), Paez-Espino D(2), Venetsianou NK(1), Aplakidou 
+E(1), Oulas A(3), Finn RD(4), Ovchinnikov S(5), Pafilis E(6), Kyrpides NC(2), 
+Pavlopoulos GA(1)(7)(8).
+
+Author information:
+(1)Institute for Fundamental Biomedical Research, BSRC "Alexander Fleming", 
+Vari, Greece.
+(2)Lawrence Berkeley National Laboratory, DOE Joint Genome Institute, Berkeley, 
+CA, United States.
+(3)The Cyprus Institute of Neurology and Genetics, Nicosia, Cyprus.
+(4)European Molecular Biology Laboratory, European Bioinformatics Institute 
+(EMBL-EBI), Wellcome Genome Campus, Cambridge, United Kingdom.
+(5)John Harvard Distinguished Science Fellowship Program, Harvard University, 
+Cambridge, MA, United States.
+(6)Institute of Marine Biology, Biotechnology and Aquaculture (IMBBC), Hellenic 
+Centre for Marine Research (HCMR), Heraklion, Greece.
+(7)Center of New Biotechnologies and Precision Medicine, Department of Medicine, 
+School of Health Sciences, National and Kapodistrian University of Athens, 
+Athens, Greece.
+(8)Hellenic Army Academy, Vari, Greece.
+
+Metagenomics has enabled accessing the genetic repertoire of natural microbial 
+communities. Metagenome shotgun sequencing has become the method of choice for 
+studying and classifying microorganisms from various environments. To this end, 
+several methods have been developed to process and analyze the sequence data 
+from raw reads to end-products such as predicted protein sequences or families. 
+In this article, we provide a thorough review to simplify such processes and 
+discuss the alternative methodologies that can be followed in order to explore 
+biodiversity at the protein family level. We provide details for analysis tools 
+and we comment on their scalability as well as their advantages and 
+disadvantages. Finally, we report the available data repositories and recommend 
+various approaches for protein family annotation related to phylogenetic 
+distribution, structure prediction and metadata enrichment.
+
+Copyright © 2023 Baltoumas, Karatzas, Paez-Espino, Venetsianou, Aplakidou, 
+Oulas, Finn, Ovchinnikov, Pafilis, Kyrpides and Pavlopoulos.
+
+DOI: 10.3389/fbinf.2023.1157956
+PMCID: PMC10029925
+PMID: 36959975
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

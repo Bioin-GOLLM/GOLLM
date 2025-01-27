@@ -1,0 +1,64 @@
+1. BMC Cancer. 2017 Nov 10;17(1):750. doi: 10.1186/s12885-017-3721-7.
+
+MicroRNA-195 acts as an anti-proliferative miRNA in human melanoma cells by 
+targeting Prohibitin 1.
+
+Cirilo PDR(1)(2)(3), de Sousa Andrade LN(1), Corrêa BRS(2)(4), Qiao M(2), Furuya 
+TK(1), Chammas R(1), Penalva LOF(5).
+
+Author information:
+(1)Instituto do Câncer do Estado de São Paulo, Centro de Investigação 
+Translacional em Oncologia, Laboratório de Oncologia Experimental, Av. Dr. 
+Arnaldo,251, São Paulo, SP, CEP 01246-000, Brazil.
+(2)The University of Texas Health Science Center at San Antonio, Children's 
+Cancer Research Institute, 7703 Floyd Curl Drive, San Antonio, TX, 78229-390, 
+USA.
+(3)Instituto Hermes Pardini, Setor de Pesquisa e Desenvolvimento, Av das Nações, 
+2448, Distrito Industrial, Vespasiano, MG, CEP 33200-000, Brazil.
+(4)Instituto Sírio-Libanês de Ensino e Pesquisa, Centro de Oncologia Molecular, 
+Rua Prof. Daher Cutait, 69, São Paulo, SP, CEP 01308-060, Brazil.
+(5)The University of Texas Health Science Center at San Antonio, Children's 
+Cancer Research Institute, 7703 Floyd Curl Drive, San Antonio, TX, 78229-390, 
+USA. penalva@uthscsa.edu.
+
+BACKGROUND: Melanoma is the most lethal type of skin cancer. Since 
+chemoresistance is a significant barrier, identification of regulators affecting 
+chemosensitivity is necessary in order to create new forms of intervention. 
+Prohibitin 1 (PHB1) can act as anti-apoptotic or tumor suppressor molecule, 
+depending on its subcellular localization. Our recent data shown that 
+accumulation of PHB1 protects melanoma cells from chemotherapy-induced cell 
+death. Lacking of post-transcriptional regulation of PHB1 could explain this 
+accumulation. Interestingly, most of melanoma patients have down-regulation of 
+microRNA-195. Here, we investigate the role of miR-195, its impact on PHB1 
+expression, and on chemosensitivity in melanoma cells.
+METHODS: TCGA-RNAseq data obtained from 341 melanoma patient samples as well as 
+a panel of melanoma cell lines were used in an expression correlation analysis 
+between PHB1 and predicted miRNAs. miR-195 impact on PHB1 mRNA and protein 
+levels and relevance of this regulation were investigated in UACC-62 and 
+SK-MEL-5 melanoma lines by RT-qPCR and western blot, luciferase reporter and 
+genetic rescue experiments. Cell proliferation, cell-cycle analysis and caspase 
+3/7 assay were performed to investigate the potential action of miR-195 as 
+chemosensitizer in melanoma cells treated with cisplatin and temozolomide.
+RESULTS: Analysis of the TCGA-RNAseq revealed a significant negative correlation 
+(Pearson) between miR-195 and PHB1 expression. Moreover, RT-qPCR data showed 
+that miR-195 is down-regulated while PHB1 is up-regulated in a collection of 
+melanoma cells. We demonstrated that miR-195 regulates PHB1 directly by RT-qPCR 
+and western blot in melanoma cells and luciferase assays. To establish PHB1 as a 
+relevant target of miR-195, we conducted rescue experiments in which we showed 
+that PHB1 transgenic expression could antagonize the suppressive effect miR-195 
+on the proliferation of melanoma cells. Finally, transfection experiments 
+combined with drug treatments performed in the UACC-62 and SK-MEL-5 melanoma 
+cells corroborated miR-195 as potential anti-proliferative agent, with potential 
+impact in sensitization of melanoma cell death.
+CONCLUSIONS: This study support the role of miR-195 as anti-proliferative miRNA 
+via targeting of PHB1 in melanoma cells.
+
+DOI: 10.1186/s12885-017-3721-7
+PMCID: PMC5681823
+PMID: 29126391 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

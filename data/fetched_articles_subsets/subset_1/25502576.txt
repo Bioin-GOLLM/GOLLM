@@ -1,0 +1,41 @@
+1. PLoS One. 2014 Dec 15;9(12):e111946. doi: 10.1371/journal.pone.0111946. 
+eCollection 2014.
+
+In silico models for dynamic connected cell cultures mimicking 
+hepatocyte-endothelial cell-adipocyte interaction circle.
+
+Andreoni C(1), Orsi G(1), De Maria C(2), Montemurro F(1), Vozzi G(2).
+
+Author information:
+(1)Research Center "E. Piaggio", University of Pisa, Pisa, Italy.
+(2)Research Center "E. Piaggio", University of Pisa, Pisa, Italy; Department of 
+Information Engineering, University of Pisa, Pisa, Italy.
+
+The biochemistry of a system made up of three kinds of cell is virtually 
+impossible to work out without the use of in silico models. Here, we deal with 
+homeostatic balance phenomena from a metabolic point of view and we present a 
+new computational model merging three single-cell models, already available from 
+our research group: the first model reproduced the metabolic behaviour of a 
+hepatocyte, the second one represented an endothelial cell, and the third one 
+described an adipocyte. Multiple interconnections were created among these three 
+models in order to mimic the main physiological interactions that are known for 
+the examined cell phenotypes. The ultimate aim was to recreate the 
+accomplishment of the homeostatic balance as it was observed for an in vitro 
+connected three-culture system concerning glucose and lipid metabolism in the 
+presence of the medium flow. The whole model was based on a modular approach and 
+on a set of nonlinear differential equations implemented in Simulink, applying 
+Michaelis-Menten kinetic laws and some energy balance considerations to the 
+studied metabolic pathways. Our in silico model was then validated against 
+experimental datasets coming from literature about the cited in vitro model. The 
+agreement between simulated and experimental results was good and the behaviour 
+of the connected culture system was reproduced through an adequate parameter 
+evaluation. The developed model may help other researchers to investigate 
+further about integrated metabolism and the regulation mechanisms underlying the 
+physiological homeostasis.
+
+DOI: 10.1371/journal.pone.0111946
+PMCID: PMC4266517
+PMID: 25502576 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

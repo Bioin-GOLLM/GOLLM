@@ -1,0 +1,43 @@
+1. Hum Mol Genet. 2019 Oct 1;28(19):3293-3300. doi: 10.1093/hmg/ddz155.
+
+Integrating Mendelian randomization and multiple-trait colocalization to uncover 
+cell-specific inflammatory drivers of autoimmune and atopic disease.
+
+McGowan LM(1), Davey Smith G(2), Gaunt TR(2), Richardson TG(2).
+
+Author information:
+(1)School of Physiology, Pharmacology and Neuroscience, Faculty of Life 
+Sciences, University of Bristol, Bristol, BS8 1TD, UK.
+(2)MRC Integrative Epidemiology Unit, Population Health Sciences Institute, 
+University of Bristol, Bristol, BS8 2BN, UK.
+
+Immune-mediated diseases (IMDs) arise when tolerance is lost and chronic 
+inflammation is targeted towards healthy tissues. Despite their growing 
+prevalence, therapies to treat IMDs are lacking. Cytokines and their receptors 
+orchestrate inflammatory responses by regulating elaborate signalling networks 
+across multiple cell types making it challenging to pinpoint therapeutically 
+relevant drivers of IMDs. We developed an analytical framework that integrates 
+Mendelian randomization (MR) and multiple-trait colocalization (moloc) analyses 
+to highlight putative cell-specific drivers of IMDs. MR evaluated causal 
+associations between the levels of 10 circulating cytokines and 9 IMDs within 
+human populations. Subsequently, we undertook moloc analyses to assess whether 
+IMD trait, cytokine protein and corresponding gene expression are driven by a 
+shared causal variant. Moreover, we leveraged gene expression data from three 
+separate cell types (monocytes, neutrophils and T cells) to discern whether 
+associations may be attributed to cell type-specific drivers of disease. MR 
+analyses supported a causal role for IL-18 in inflammatory bowel disease (IBD) 
+(P = 1.17 × 10-4) and eczema/dermatitis (P = 2.81 × 10-3), as well as 
+associations between IL-2rα and IL-6R with several other IMDs. Moloc 
+strengthened evidence of a causal association for these results, as well as 
+providing evidence of a monocyte and neutrophil-driven role for IL-18 in IBD 
+pathogenesis. In contrast, IL-2rα and IL-6R associations were found to be T cell 
+specific. Our analytical pipeline can help to elucidate putative molecular 
+pathways in the pathogeneses of IMDs, which could be applied to other disease 
+contexts.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/hmg/ddz155
+PMCID: PMC6859431
+PMID: 31276585 [Indexed for MEDLINE]

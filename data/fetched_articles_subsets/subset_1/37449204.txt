@@ -1,0 +1,54 @@
+1. Front Immunol. 2023 Jun 28;14:1087691. doi: 10.3389/fimmu.2023.1087691. 
+eCollection 2023.
+
+Identification of biomarkers related to sepsis diagnosis based on bioinformatics 
+and machine learning and experimental verification.
+
+Wang Q(1)(2), Wang C(1), Zhang W(1)(2), Tao Y(1)(2), Guo J(1)(2), Liu Y(1)(2), 
+Liu Z(1)(2), Liu D(1)(2), Mei J(2), Chen F(2).
+
+Author information:
+(1)Hebei University of Chinese Medicine, Shijiazhuang, China.
+(2)The First Affiliated Hospital ,Hebei University of Chinese Medicine, 
+Shijiazhuang, China.
+
+Sepsis is a systemic inflammatory response syndrome caused by bacteria and other 
+pathogenic microorganisms. Every year, approximately 31.5 million patients are 
+diagnosed with sepsis, and approximately 5.3 million patients succumb to the 
+disease. In this study, we identified biomarkers for diagnosing sepsis analyzed 
+the relationships between genes and Immune cells that were differentially 
+expressed in specimens from patients with sepsis compared to normal controls. 
+Finally, We verified its effectiveness through animal experiments. Specifically, 
+we analyzed datasets from four microarrays(GSE11755、GSE12624、GSE28750、GSE48080) 
+that included 106 blood specimens from patients with sepsis and 69 normal human 
+blood samples. SVM-RFE analysis and LASSO regression model were carried out to 
+screen possible markers. The composition of 22 immune cell components in 
+patients with sepsis were also determined using CIBERSORT. The expression level 
+of the biomarkers in Sepsis was examined by the use of qRT-PCR and Western Blot 
+(WB). We identified 50 differentially expressed genes between the cohorts, 
+including 2 significantly upregulated and 48 significantly downregulated genes, 
+and KEGG pathway analysis identified Salmonella infection, human T cell leukemia 
+virus 1 infection, Epstein-Barr virus infection, hepatitis B, lysosome and other 
+pathways that were significantly enriched in blood from patients with sepsis. 
+Ultimately, we identified COMMD9, CSF3R, and NUB1 as genes that could 
+potentially be used as biomarkers to predict sepsis, which we confirmed by ROC 
+analysis. Further, we identified a correlation between the expression of these 
+three genes and immune infiltrate composition. Immune cell infiltration analysis 
+revealed that COMMD9 was correlated with T cells regulatory (Tregs), T cells 
+follicular helper, T cells CD8, et al. CSF3R was correlated with T cells 
+regulatory (Tregs), T cells follicular helper, T cells CD8, et al. NUB1 was 
+correlated with T cells regulatory (Tregs), T cells gamma delta, T cells 
+follicular helper, et al. Taken together, our findings identify potential new 
+diagnostic markers for sepsis that shed light on novel mechanisms of disease 
+pathogenesis and, therefore, may offer opportunities for therapeutic 
+intervention.
+
+Copyright © 2023 Wang, Wang, Zhang, Tao, Guo, Liu, Liu, Liu, Mei and Chen.
+
+DOI: 10.3389/fimmu.2023.1087691
+PMCID: PMC10337583
+PMID: 37449204 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,56 @@
+1. Nat Genet. 2022 Mar;54(3):295-305. doi: 10.1038/s41588-022-01026-x. Epub 2022 
+Mar 10.
+
+Prediction of histone post-translational modification patterns based on nascent 
+transcription data.
+
+Wang Z(#)(1)(2), Chivu AG(#)(1)(3), Choate LA(1), Rice EJ(1), Miller DC(1), Chu 
+T(1), Chou SP(1), Kingsley NB(4), Petersen JL(5), Finno CJ(6), Bellone RR(4), 
+Antczak DF(1), Lis JT(3), Danko CG(7)(8).
+
+Author information:
+(1)Baker Institute for Animal Health, College of Veterinary Medicine, Cornell 
+University, Ithaca, NY, USA.
+(2)School of Software Technology, Dalian University of Technology, Dalian, 
+China.
+(3)Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, 
+USA.
+(4)Veterinary Genetics Laboratory, School of Veterinary Medicine, University of 
+California, Davis, Davis, CA, USA.
+(5)Department of Animal Science, University of Nebraska-Lincoln, Lincoln, NE, 
+USA.
+(6)Department of Population Health and Reproduction, University of California, 
+Davis, Davis, CA, USA.
+(7)Baker Institute for Animal Health, College of Veterinary Medicine, Cornell 
+University, Ithaca, NY, USA. dankoc@gmail.com.
+(8)Department of Biomedical Sciences, College of Veterinary Medicine, Cornell 
+University, Ithaca, NY, USA. dankoc@gmail.com.
+(#)Contributed equally
+
+Comment in
+    Nat Genet. 2022 Mar;54(3):223-224. doi: 10.1038/s41588-021-01004-9.
+
+The role of histone modifications in transcription remains incompletely 
+understood. Here, we examine the relationship between histone modifications and 
+transcription using experimental perturbations combined with sensitive 
+machine-learning tools. Transcription predicted the variation in active histone 
+marks and complex chromatin states, like bivalent promoters, down to 
+single-nucleosome resolution and at an accuracy that rivaled the correspondence 
+between independent ChIP-seq experiments. Blocking transcription rapidly removed 
+two punctate marks, H3K4me3 and H3K27ac, from chromatin indicating that 
+transcription is required for active histone modifications. Transcription was 
+also required for maintenance of H3K27me3, consistent with a role for RNA in 
+recruiting PRC2. A subset of DNase-I-hypersensitive sites were refractory to 
+prediction, precluding models where transcription initiates pervasively at any 
+open chromatin. Our results, in combination with past literature, support a 
+model in which active histone modifications serve a supportive, rather than an 
+essential regulatory, role in transcription.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41588-022-01026-x
+PMCID: PMC9444190
+PMID: 35273399 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests Statement The authors 
+declare no competing interests.

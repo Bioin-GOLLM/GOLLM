@@ -1,0 +1,65 @@
+1. BMC Genomics. 2018 Feb 14;19(1):145. doi: 10.1186/s12864-018-4515-2.
+
+Differential expression of mRNA isoforms in the skeletal muscle of pigs with 
+distinct growth and fatness profiles.
+
+Cardoso TF(1)(2), Quintanilla R(3), Castelló A(1)(4), González-Prendes R(1), 
+Amills M(5)(6), Cánovas Á(7).
+
+Author information:
+(1)Department of Animal Genetics, Centre for Research in Agricultural Genomics 
+(CRAG), CSIC-IRTA-UAB-UB, Campus de la Universitat Autònoma de Barcelona, 
+Bellaterra, 08193, Barcelona, Spain.
+(2)CAPES Foundation, Ministry of Education of Brazil, Brasilia D.F, 70.040-020, 
+Brazil.
+(3)Animal Breeding and Genetics Programme, Institute for Research and Technology 
+in Food and Agriculture (IRTA), Torre Marimon, 08140, Caldes de Montbui, Spain.
+(4)Departament de Ciència Animal i dels Aliments, Universitat Autònoma de 
+Barcelona, Bellaterra, 08193, Barcelona, Spain.
+(5)Department of Animal Genetics, Centre for Research in Agricultural Genomics 
+(CRAG), CSIC-IRTA-UAB-UB, Campus de la Universitat Autònoma de Barcelona, 
+Bellaterra, 08193, Barcelona, Spain. marcel.amills@uab.cat.
+(6)Departament de Ciència Animal i dels Aliments, Universitat Autònoma de 
+Barcelona, Bellaterra, 08193, Barcelona, Spain. marcel.amills@uab.cat.
+(7)Centre for Genetic Improvement of Livestock, Department of Animal 
+Biosciences, University of Guelph, Guelph, ON, Canada. acanovas@uoguelph.ca.
+
+BACKGROUND: The identification of genes differentially expressed in the skeletal 
+muscle of pigs displaying distinct growth and fatness profiles might contribute 
+to identify the genetic factors that influence the phenotypic variation of such 
+traits. So far, the majority of porcine transcriptomic studies have investigated 
+differences in gene expression at a global scale rather than at the mRNA isoform 
+level. In the current work, we have investigated the differential expression of 
+mRNA isoforms in the gluteus medius (GM) muscle of 52 Duroc HIGH (increased 
+backfat thickness, intramuscular fat and saturated and monounsaturated fatty 
+acids contents) and LOW pigs (opposite phenotype, with an increased 
+polyunsaturated fatty acids content).
+RESULTS: Our analysis revealed that 10.9% of genes expressed in the GM muscle 
+generate alternative mRNA isoforms, with an average of 2.9 transcripts per gene. 
+By using two different pipelines, one based on the CLC Genomics Workbench and 
+another one on the STAR, RSEM and DESeq2 softwares, we have identified 10 mRNA 
+isoforms that both pipelines categorize as differentially expressed in HIGH vs 
+LOW pigs (P-value < 0.01 and ±0.6 log2fold-change). Only five mRNA isoforms, 
+produced by the ITGA5, SEMA4D, LITAF, TIMP1 and ANXA2 genes, remain significant 
+after correction for multiple testing (q-value < 0.05 and ±0.6 log2fold-change), 
+being upregulated in HIGH pigs.
+CONCLUSIONS: The increased levels of specific ITGA5, LITAF, TIMP1 and ANXA2 mRNA 
+isoforms in HIGH pigs is consistent with reports indicating that the 
+overexpression of these four genes is associated with obesity and metabolic 
+disorders in humans. A broader knowledge about the functional attributes of 
+these mRNA variants would be fundamental to elucidate the consequences of 
+transcript diversity on the determinism of porcine phenotypes of economic 
+interest.
+
+DOI: 10.1186/s12864-018-4515-2
+PMCID: PMC5813380
+PMID: 29444639 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: 
+Animal care, management procedures and blood sampling were performed following 
+national guidelines for the Good Experimental Practices and they were approved 
+by the Ethical Committee of the Institut de Recerca i Tecnologia 
+Agroalimentàries (IRTA). CONSENT FOR PUBLICATION: Not applicable. COMPETING 
+INTERESTS: The authors declare no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

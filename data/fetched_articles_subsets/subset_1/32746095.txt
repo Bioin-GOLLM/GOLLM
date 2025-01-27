@@ -1,0 +1,32 @@
+1. IEEE Trans Med Imaging. 2020 Nov;39(11):3416-3428. doi: 
+10.1109/TMI.2020.2995510. Epub 2020 Oct 28.
+
+Associating Multi-Modal Brain Imaging Phenotypes and Genetic Risk Factors via a 
+Dirty Multi-Task Learning Method.
+
+Du L, Liu F, Liu K, Yao X, Risacher SL, Han J, Saykin AJ, Shen L.
+
+Brain imaging genetics becomes more and more important in brain science, which 
+integrates genetic variations and brain structures or functions to study the 
+genetic basis of brain disorders. The multi-modal imaging data collected by 
+different technologies, measuring the same brain distinctly, might carry 
+complementary information. Unfortunately, we do not know the extent to which the 
+phenotypic variance is shared among multiple imaging modalities, which further 
+might trace back to the complex genetic mechanism. In this paper, we propose a 
+novel dirty multi-task sparse canonical correlation analysis (SCCA) to study 
+imaging genetic problems with multi-modal brain imaging quantitative traits 
+(QTs) involved. The proposed method takes advantages of the multi-task learning 
+and parameter decomposition. It can not only identify the shared imaging QTs and 
+genetic loci across multiple modalities, but also identify the modality-specific 
+imaging QTs and genetic loci, exhibiting a flexible capability of identifying 
+complex multi-SNP-multi-QT associations. Using the state-of-the-art multi-view 
+SCCA and multi-task SCCA, the proposed method shows better or comparable 
+canonical correlation coefficients and canonical weights on both synthetic and 
+real neuroimaging genetic data. In addition, the identified modality-consistent 
+biomarkers, as well as the modality-specific biomarkers, provide meaningful and 
+interesting information, demonstrating the dirty multi-task SCCA could be a 
+powerful alternative method in multi-modal brain imaging genetics.
+
+DOI: 10.1109/TMI.2020.2995510
+PMCID: PMC7705646
+PMID: 32746095 [Indexed for MEDLINE]

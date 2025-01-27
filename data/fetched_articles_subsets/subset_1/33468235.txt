@@ -1,0 +1,48 @@
+1. Eur J Med Res. 2021 Jan 19;26(1):9. doi: 10.1186/s40001-021-00482-1.
+
+Prognostic role of PHYH for overall survival (OS) in clear cell renal cell 
+carcinoma (ccRCC).
+
+Zhengqi Q(1), Zezhi G(2), Lei J(2), He Q(2), Jinyao P(2), Ying A(2).
+
+Author information:
+(1)Guangdong Key Laboratory of Genome Stability and Human Disease Prevention, 
+Carson International Cancer Center, Department of Biochemistry and Molecular 
+Biology, School of Basic Medical Sciences, Health Science Center, Shenzhen 
+University, Shenzhen, 518060, China. caspiansev@163.com.
+(2)Guangdong Key Laboratory of Genome Stability and Human Disease Prevention, 
+Carson International Cancer Center, Department of Biochemistry and Molecular 
+Biology, School of Basic Medical Sciences, Health Science Center, Shenzhen 
+University, Shenzhen, 518060, China.
+
+This study attempts to evaluate the prognostic role of PHYH for overall survival 
+(OS) in clear cell renal cell carcinoma (ccRCC) by means of publicly available 
+data from The Cancer Genome Atlas (TCGA). Clinical pathologic features and PHYH 
+expression were downloaded from the TCGA database and relationships between them 
+were analyzed by univariate and multivariate Cox regression analyses. Gene Set 
+Enrichment Analysis (GSEA) and gene-gene interactions were also performed 
+between tissues with different PHYH expression levels. PHYH expression levels 
+were significantly lower in patient with ccRCC compared with normal tissues 
+(p = 1.156e-19). Kaplan-Meier survival analysis showed that high expression of 
+PHYH had a better prognosis than low expression (p = 9e-05). Moreover, PHYH 
+expression was also significantly associated with high grade (G2-4, p = 0.025), 
+high stage (StageIII & IV, p = 5.604e-05), and high level of stage_T (T3-4, 
+p = 4.373e-05). Univariate and multivariate Cox regression analyses indicated 
+that PHYH could be acted as an independent prognostic factor (p < 0.05). 
+Nomogram including clinical pathologic features and PHYH expression were also 
+provided. GSEA revealed that butanoate metabolism, histidine metabolism, 
+propanoate metabolism, pyruvate metabolism, tryptophan metabolism, PPAR 
+signalling pathway, and renin-angiotensin system were differentially enriched in 
+PHYH high-expression phenotype. ICGC database was utilized to verify the 
+expression level and survival benefit of PHYH (both p < 0.05). We suspect that 
+elevated PHYH expression may be served as a potential prognostic molecular 
+marker of better survival in ccRCC. Besides, alpha-oxidation was closely 
+regulated by PHYH, and PPAR signalling, pyruvate metabolism, butanoate 
+metabolism, and RAS might be the key pathways regulated by PHYH in CCRC.
+
+DOI: 10.1186/s40001-021-00482-1
+PMCID: PMC7816304
+PMID: 33468235 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,47 @@
+1. J Oncol. 2021 Oct 28;2021:3658196. doi: 10.1155/2021/3658196. eCollection
+2021.
+
+Ferroptosis-Associated Classifier and Indicator for Prognostic Prediction in 
+Cutaneous Melanoma.
+
+Zeng H(1), You C(2), Zhao L(3), Wang J(3), Ye X(2), Yang T(2), Wan C(2), Deng 
+L(4).
+
+Author information:
+(1)Department of Burn and Plastic Surgery, Ganzhou People's Hospital, The 
+Affiliated Ganzhou Hospital of Nanchang University, Ganzhou, China.
+(2)Department of Dermatology and Venereology, Candidate Branch of National 
+Clinical Research Centre for Skin and Immune Diseases, The First Affiliated 
+Hospital of Gannan Medical University, Ganzhou, China.
+(3)Department of Dermatology and Venereology, The General Hospital of Tianjin 
+Medical University, Tianjin, China.
+(4)Department of Gastrointestinal Surgery, The First Affiliated Hospital of 
+Gannan Medical University, Ganzhou, China.
+
+Ferroptosis plays a critical role in different types of cancers, but the 
+prognostic impact of ferroptosis in cutaneous melanoma remains lacking. 
+Therefore, ferroptosis-related genes (FRGs) were firstly obtained from the 
+FerrDb database and the differentially expressed FRGs were identified by the 
+"limma" algorithm. Next, the prognostic differentially expressed FRGs were 
+screened out by univariate Cox regression, which were subsequently used to 
+cluster melanomas into two subtypes (clusters A and B). Besides, the Boruta 
+algorithm and principal component analysis (PCA) were performed to build a 
+15-FRGs indicator, which can robustly predict patients' overall survival (OS) 
+and be considered as an independent prognostic factor in melanoma. The melanoma 
+patients were further divided into high- and low-FRGs score groups. The high 
+score group have a good prognosis, with higher T cell immune infiltrating and 
+lower mutation frequencies in NRAS, KRAS, and NF1. Finally, we discovered that 
+many immune processes and several chemotherapy drugs were closely associated 
+with FRGs score. Thus, our study provides a novel ferroptosis-associated 
+classifier and indicator to predict the prognosis of melanoma. Besides, we 
+identified several potential chemotherapy drugs to induce ferroptosis and could 
+supply additional effective treatments.
+
+Copyright © 2021 Hao Zeng et al.
+
+DOI: 10.1155/2021/3658196
+PMCID: PMC8568558
+PMID: 34745259
+
+Conflict of interest statement: The authors declare that they had no conflicts 
+of interest.

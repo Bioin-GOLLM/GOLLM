@@ -1,0 +1,56 @@
+1. Front Genet. 2022 Nov 22;13:1069112. doi: 10.3389/fgene.2022.1069112. 
+eCollection 2022.
+
+Improving the prediction for the response to radiotherapy of clinical tumor 
+samples by using combinatorial model of MicroRNA expression.
+
+Tang C(1), Qi J(1), Wu Y(1), Luo L(1), Wang Y(1), Wu Y(1), Shi X(1).
+
+Author information:
+(1)Radiation and Cancer Biology Laboratory, Radiation Oncology Center, Chongqing 
+Key Laboratory of Translational Research for Cancer Metastasis and 
+Individualized Treatment, Chongqing Cancer Hospital, Chongqing University Cancer 
+Hospital and Chongqing Cancer Institution, Chongqing, China.
+
+Purpose: Radiation therapy (RT) is one of the main treatments for cancer. The 
+response to radiotherapy varies widely between individuals and some patients 
+have poor response to RT treatment due to tumor radioresistance. Stratifying 
+patients according to molecular signatures of individual tumor characteristics 
+can improve clinical treatment. In here, we aimed to use clinical and genomic 
+databases to develop miRNA signatures that can predict response to radiotherapy 
+in various cancer types. Methods: We analyzed the miRNAs profiles using tumor 
+samples treated with RT across eight types of human cancers from TCGA database. 
+These samples were divided into response group (S, n = 224) and progressive 
+disease group (R, n = 134) based on RT response of tumors. To enhance the 
+discrimination for S and R samples, the predictive models based on binary 
+logistic regression were developed to identify the best combinations of multiple 
+miRNAs. Results: The miRNAs differentially expressed between the groups S and R 
+in each caner type were identified. Total 47 miRNAs were identified in eight 
+cancer types (p values <0.05, t-test), including several miRNAs previously 
+reported to be associated with radiotherapy sensitivity. Functional enrichment 
+analysis revealed that epithelial-to-mesenchymal transition (EMT), stem cell, 
+NF-κB signal, immune response, cell death, cell cycle, and DNA damage response 
+and DNA damage repair processes were significantly enriched. The 
+cancer-type-specific miRNA signatures were identified, which consist of 2-13 of 
+miRNAs in each caner type. Receiver operating characteristic (ROC) analyses 
+showed that the most of individual miRNAs were effective in distinguishing 
+responsive and non-responsive patients (the area under the curve (AUC) ranging 
+from 0.606 to 0.889). The patient stratification was further improved by 
+applying the combinatorial model of miRNA expression (AUC ranging from 0.711 to 
+0.992). Also, five miRNAs that were significantly associated with overall 
+survival were identified as prognostic miRNAs. Conclusion: These mRNA signatures 
+could be used as potential biomarkers selecting patients who will benefit from 
+radiotherapy. Our study identified a series of miRNA that were differentially 
+expressed between RT good responders and poor responders, providing useful clues 
+for further functional assays to demonstrate a possible regulatory role in 
+radioresistance.
+
+Copyright © 2022 Tang, Qi, Wu, Luo, Wang, Wu and Shi.
+
+DOI: 10.3389/fgene.2022.1069112
+PMCID: PMC9723130
+PMID: 36482894
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

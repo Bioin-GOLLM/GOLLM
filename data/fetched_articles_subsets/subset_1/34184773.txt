@@ -1,0 +1,42 @@
+1. Genet Epidemiol. 2021 Oct;45(7):710-720. doi: 10.1002/gepi.22423. Epub 2021
+Jun  29.
+
+Identifying genetic risk variants associated with brain volumetric phenotypes 
+via K-sample Ball Divergence method.
+
+Hu Y(1), Tan H(2), Li C(1), Zhang H(1).
+
+Author information:
+(1)Department of Biostatistics, Yale University School of Public Health, New 
+Haven, Connecticut, USA.
+(2)Department of Preventive Medicine, Shantou University Medical College, 
+Shantou, Guangdong, China.
+
+Regional human brain volumes including total area, average thickness, and total 
+volume are heritable and associated with neurological disorders. However, the 
+genetic architecture of brain structure and function is still largely unknown 
+and worthy of exploring. The Pediatric Imaging, Neurocognition, and Genetics 
+(PING) data set provides an excellent resource with genome-wide genetic data and 
+related neuroimaging data. In this study, we perform genome-wide association 
+studies (GWAS) of 315 brain volumetric phenotypes from the PING data set 
+including 1036 samples with 539,865 single-nucleotide polymorphisms (SNPs). We 
+introduce a nonparametric test based on K-sample Ball Divergence (KBD) to 
+identify genetic risk variants that influence regional brain volumes. We carry 
+out simulations to demonstrate that KBD is a powerful test for identifying 
+significant SNPs associated with multivariate phenotypes although controlling 
+the type I error rate. We successfully identify nine SNPs below a significance 
+level of 5 × 10-5 for the PING data. Among the nine identified genetic variants, 
+two SNPs rs486179 and rs562110 are located in the ADRA1A gene that is a 
+well-known risk factor of mental illness, such as schizophrenia and attention 
+deficit hyperactivity disorder. Our study suggests that the nonparametric test 
+KBD is an effective method for identifying genetic variants associated with 
+complex diseases in large-scale GWAS of multiple phenotypes.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/gepi.22423
+PMCID: PMC8434958
+PMID: 34184773 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest The authors declare no 
+conflict of interest.

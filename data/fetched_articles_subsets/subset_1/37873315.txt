@@ -1,0 +1,76 @@
+1. bioRxiv [Preprint]. 2023 Oct 5:2023.10.05.561040. doi: 
+10.1101/2023.10.05.561040.
+
+The overlapping genetic architecture of psychiatric disorders and cortical brain 
+structure.
+
+Sha Z(1)(2), Warrier V(3)(4), Bethlehem RAI(4), Schultz LM(5)(6), Merikangas 
+A(5)(6)(7), Sun KY(1)(2)(6), Gur RC(1)(8)(9), Gur RE(1)(8)(9), Shinohara 
+RT(10)(11), Seidlitz J(1)(2)(6), Almasy L(5)(6)(7), Andreassen OA(12), 
+Alexander-Bloch AF(1)(2)(6).
+
+Author information:
+(1)Department of Psychiatry, University of Pennsylvania, Philadelphia, PA, USA.
+(2)Department of Child and Adolescent Psychiatry and Behavioral Science, The 
+Children's Hospital of Philadelphia, Philadelphia, PA, USA.
+(3)Department of Psychiatry, University of Cambridge, Cambridge, UK.
+(4)Department of Psychology, University of Cambridge, Cambridge, UK.
+(5)Department of Biomedical and Health Informatics, Children's Hospital of 
+Philadelphia, Philadelphia, PA, USA.
+(6)Lifespan Brain Institute, The Children's Hospital of Philadelphia and Penn 
+Medicine, Philadelphia, PA, USA.
+(7)Department of Genetics, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, USA.
+(8)Department of Neurology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, 19104, USA.
+(9)Department of Radiology, Perelman School of Medicine, University of 
+Pennsylvania, Pennsylvania, PA, 19104, USA.
+(10)Penn Statistics in Imaging and Visualization Endeavor (PennSIVE), Department 
+of Biostatistics, Epidemiology, and Informatics, Perelman School of Medicine, 
+University of Pennsylvania, 423 Guardian Dr, Philadelphia, PA 19104, United 
+States.
+(11)Center for Biomedical Image Computing and Analytics (CBICA), Department of 
+Radiology, Perelman School of Medicine, United States.
+(12)NORMENT Centre, Division of Mental Health and Addiction, Oslo University 
+Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway.
+
+Both psychiatric vulnerability and cortical structure are shaped by the 
+cumulative effect of common genetic variants across the genome. However, the 
+shared genetic underpinnings between psychiatric disorders and brain structural 
+phenotypes, such as thickness and surface area of the cerebral cortex, remains 
+elusive. In this study, we employed pleiotropy-informed conjunctional false 
+discovery rate analysis to investigate shared loci across genome-wide 
+association scans of regional cortical thickness, surface area, and seven 
+psychiatric disorders in approximately 700,000 individuals of European ancestry. 
+Aggregating regional measures, we identified 50 genetic loci shared between 
+psychiatric disorders and surface area, as well as 26 genetic loci shared with 
+cortical thickness. Risk alleles exhibited bidirectional effects on both 
+cortical thickness and surface area, such that some risk alleles for each 
+disorder increased regional brain size while other risk alleles decreased 
+regional brain size. Due to bidirectional effects, in many cases we observed 
+extensive pleiotropy between an imaging phenotype and a psychiatric disorder 
+even in the absence of a significant genetic correlation between them. The 
+impact of genetic risk for psychiatric disorders on regional brain structure did 
+exhibit a consistent pattern across highly comorbid psychiatric disorders, with 
+80% of the genetic loci shared across multiple disorders displaying consistent 
+directions of effect. Cortical patterning of genetic overlap revealed a 
+hierarchical genetic architecture, with the association cortex and sensorimotor 
+cortex representing two extremes of shared genetic influence on psychiatric 
+disorders and brain structural variation. Integrating multi-scale functional 
+annotations and transcriptomic profiles, we observed that shared genetic loci 
+were enriched in active genomic regions, converged on neurobiological and 
+metabolic pathways, and showed differential expression in postmortem brain 
+tissue from individuals with psychiatric disorders. Cumulatively, these findings 
+provide a significant advance in our understanding of the overlapping polygenic 
+architecture between psychopathology and cortical brain structure.
+
+DOI: 10.1101/2023.10.05.561040
+PMCID: PMC10592957
+PMID: 37873315
+
+Conflict of interest statement: Conflict of Interest AFA-B receives consulting 
+income from Octave Bioscience. AFA-B, JS, and RAIB hold equity in and serve on 
+the board of Centile Bioscience. RTS receives consulting income from Octave 
+Bioscience and compensation for scientific reviewing from the American Medical 
+Association. OAA is a consultant to cortechs.ai, and has received speaker’s 
+honorarium from Lundbeck, Janssen, Sunovion.

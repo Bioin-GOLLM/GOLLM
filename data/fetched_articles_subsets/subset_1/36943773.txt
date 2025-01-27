@@ -1,0 +1,37 @@
+1. ACS Synth Biol. 2023 Apr 21;12(4):1119-1132. doi: 10.1021/acssynbio.2c00607. 
+Epub 2023 Mar 21.
+
+Design of Four Small-Molecule-Inducible Systems in the Yeast Chromosome, Applied 
+to Optimize Terpene Biosynthesis.
+
+Park JH(1), Bassalo MC(1), Lin GM(1), Chen Y(1), Doosthosseini H(1), Schmitz 
+J(2), Roubos JA(2), Voigt CA(1).
+
+Author information:
+(1)Synthetic Biology Center, Department of Biological Engineering, Massachusetts 
+Institute of Technology, 500 Technology Square, Cambridge, Massachusetts 02139, 
+United States.
+(2)DSM Science & Innovation, Biodata & Translational Sciences, P.O. Box 1, 2600 
+MA Delft, The Netherlands.
+
+The optimization of cellular functions often requires the balancing of gene 
+expression, but the physical construction and screening of alternative designs 
+are costly and time-consuming. Here, we construct a strain of Saccharomyces 
+cerevisiae that contains a "sensor array" containing bacterial regulators that 
+respond to four small-molecule inducers (vanillic acid, xylose, aTc, IPTG). Four 
+promoters can be independently controlled with low background and a 40- to 
+5000-fold dynamic range. These systems can be used to study the impact of 
+changing the level and timing of gene expression without requiring the 
+construction of multiple strains. We apply this approach to the optimization of 
+a four-gene heterologous pathway to the terpene linalool, which is a flavor and 
+precursor to energetic materials. Using this approach, we identify bottlenecks 
+in the metabolic pathway. This work can aid the rapid automated strain 
+development of yeasts for the bio-manufacturing of diverse products, including 
+chemicals, materials, fuels, and food ingredients.
+
+DOI: 10.1021/acssynbio.2c00607
+PMCID: PMC10127285
+PMID: 36943773 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

@@ -1,0 +1,34 @@
+1. Nucleic Acids Res. 2012 Jul;40(Web Server issue):W435-9. doi: 
+10.1093/nar/gks495. Epub 2012 Jun 4.
+
+PSC: protein surface classification.
+
+Tseng YY(1), Li WH.
+
+Author information:
+(1)Department of Ecology and Evolution, University of Chicago 1101 East 57th 
+Street, Chicago, IL 60637, USA. ytseng3@uchicago.edu
+
+We recently proposed to classify proteins by their functional surfaces. Using 
+the structural attributes of functional surfaces, we inferred the pairwise 
+relationships of proteins and constructed an expandable database of protein 
+surface classification (PSC). As the functional surface(s) of a protein is the 
+local region where the protein performs its function, our classification may 
+reflect the functional relationships among proteins. Currently, PSC contains a 
+library of 1974 surface types that include 25,857 functional surfaces identified 
+from 24,170 bound structures. The search tool in PSC empowers users to explore 
+related surfaces that share similar local structures and core functions. Each 
+functional surface is characterized by structural attributes, which are 
+geometric, physicochemical or evolutionary features. The attributes have been 
+normalized as descriptors and integrated to produce a profile for each 
+functional surface in PSC. In addition, binding ligands are recorded for 
+comparisons among homologs. PSC allows users to exploit related binding surfaces 
+to reveal the changes in functionally important residues on homologs that have 
+led to functional divergence during evolution. The substitutions at the key 
+residues of a spatial pattern may determine the functional evolution of a 
+protein. In PSC (http://pocket.uchicago.edu/psc/), a pool of changes in residues 
+on similar functional surfaces is provided.
+
+DOI: 10.1093/nar/gks495
+PMCID: PMC3394246
+PMID: 22669905 [Indexed for MEDLINE]

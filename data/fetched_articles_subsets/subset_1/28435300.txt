@@ -1,0 +1,34 @@
+1. Adv Appl Bioinform Chem. 2017 Apr 10;10:47-56. doi: 10.2147/AABC.S121245. 
+eCollection 2017.
+
+The identification of protein domains that mediate functional interactions 
+between Rab-GTPases and RabGAPs using 3D protein modeling.
+
+Davie JJ(1), Faitar SL(1).
+
+Author information:
+(1)Department of Biology and Mathematics, School of Arts, Sciences, and 
+Education, D'Youville College, Buffalo, NY, USA.
+
+Currently, time-consuming serial in vitro experimentation involving 
+immunocytochemistry or radiolabeled materials is required to identify which of 
+the numerous Rab-GTPases (Rab) and Rab-GTPase activating proteins (RabGAP) are 
+capable of functional interactions. These interactions are essential for 
+numerous cellular functions, and in silico methods of reducing in vitro trial 
+and error would accelerate the pace of research in cell biology. We have 
+utilized a combination of three-dimensional protein modeling and protein 
+bioinformatics to identify domains present in Rab proteins that are predictive 
+of their functional interaction with a specific RabGAP. The RabF2 and RabSF1 
+domains appear to play functional roles in mediating the interaction between 
+Rabs and RabGAPs. Moreover, the RabSF1 domain can be used to make in silico 
+predictions of functional Rab/RabGAP pairs. This method is expected to be a 
+broadly applicable tool for predicting protein-protein interactions where 
+existing crystal structures for homologs of the proteins of interest are 
+available.
+
+DOI: 10.2147/AABC.S121245
+PMCID: PMC5391865
+PMID: 28435300
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.

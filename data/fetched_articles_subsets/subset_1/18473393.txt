@@ -1,0 +1,37 @@
+1. Genet Epidemiol. 2008 Nov;32(7):627-37. doi: 10.1002/gepi.20340.
+
+Ordered-subset analysis (OSA) for family-based association mapping of complex 
+traits.
+
+Chung RH(1), Schmidt S, Martin ER, Hauser ER.
+
+Author information:
+(1)Center for Human Genetics, Duke University Medical Center, Durham, North 
+Carolina 27710, USA.
+
+Association analysis provides a powerful tool for complex disease gene mapping. 
+However, in the presence of genetic heterogeneity, the power for association 
+analysis can be low since only a fraction of the collected families may carry a 
+specific disease susceptibility allele. Ordered-subset analysis (OSA) is a 
+linkage test that can be powerful in the presence of genetic heterogeneity. OSA 
+uses trait-related covariates to identify a subset of families that provide the 
+most evidence for linkage. A similar strategy applied to genetic association 
+analysis would likely result in increased power to detect association. 
+Association in the presence of linkage (APL) is a family-based association test 
+(FBAT) for nuclear families with multiple affected siblings that properly infers 
+missing parental genotypes when linkage is present. We propose here APL-OSA, 
+which applies the OSA method to the APL statistic to identify a subset of 
+families that provide the most evidence for association. A permutation procedure 
+is used to approximate the distribution of the APL-OSA statistic under the null 
+hypothesis that there is no relationship between the family-specific covariate 
+and the family-specific evidence for allelic association. We performed a 
+comprehensive simulation study to verify that APL-OSA has the correct type I 
+error rate under the null hypothesis. This simulation study also showed that 
+APL-OSA can increase power relative to other commonly used association tests 
+(APL, FBAT and FBAT with covariate adjustment) in the presence of genetic 
+heterogeneity. Finally, we applied APL-OSA to a family study of age-related 
+macular degeneration, where cigarette smoking was used as a covariate.
+
+DOI: 10.1002/gepi.20340
+PMCID: PMC2582061
+PMID: 18473393 [Indexed for MEDLINE]

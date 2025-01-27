@@ -1,0 +1,48 @@
+1. Chem Sci. 2023 Apr 11;14(18):4681-4696. doi: 10.1039/d3sc00166k. eCollection 
+2023 May 10.
+
+Unraveling the catalytic mechanism of SARS-CoV-2 papain-like protease with 
+allosteric modulation of C270 mutation using multiscale computational 
+approaches.
+
+Shao Q(1)(2), Xiong M(1)(2), Li J(3), Hu H(4), Su H(1), Xu Y(1)(2)(3)(4).
+
+Author information:
+(1)State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences Shanghai 201203 China qshao@simm.ac.cn 
+ycxu@simm.ac.cn.
+(2)University of Chinese Academy of Sciences Beijing 100049 China.
+(3)School of Chinese Materia Medica, Nanjing University of Chinese Medicine 
+Nanjing 210023 China.
+(4)School of Pharmaceutical Science and Technology, Hangzhou Institute for 
+Advanced Study, University of Chinese Academy of Sciences Hangzhou 310024 China.
+
+Papain-like protease (PLpro) is a promising therapeutic target against 
+SARS-CoV-2, but its restricted S1/S2 subsites pose an obstacle in developing 
+active site-directed inhibitors. We have recently identified C270 as a novel 
+covalent allosteric site for SARS-CoV-2 PLpro inhibitors. Here we present a 
+theoretical investigation of the proteolysis reaction catalyzed by the wild-type 
+SARS-CoV-2 PLpro as well as the C270R mutant. Enhanced sampling MD simulations 
+were first performed to explore the influence of C270R mutation on the protease 
+dynamics, and sampled thermodynamically favorable conformations were then 
+submitted to MM/PBSA and QM/MM MD simulations for thorough characterization of 
+the protease-substrate binding and covalent reactions. The disclosed proteolysis 
+mechanism of PLpro, as characterized by the occurrence of proton transfer from 
+the catalytic C111 to H272 prior to the substrate binding and with deacylation 
+being the rate-determining step of the whole proteolysis process, is not 
+completely identical to that of the 3C-like protease, another key cysteine 
+protease of coronaviruses. The C270R mutation alters the structural dynamics of 
+the BL2 loop that indirectly impairs the catalytic function of H272 and reduces 
+the binding of the substrate with the protease, ultimately showing an inhibitory 
+effect on PLpro. Together, these results provide a comprehensive understanding 
+at the atomic level of the key aspects of SARS-CoV-2 PLpro proteolysis, 
+including the catalytic activity allosterically regulated by C270 modification, 
+which is crucial to the follow-up inhibitor design and development.
+
+This journal is © The Royal Society of Chemistry.
+
+DOI: 10.1039/d3sc00166k
+PMCID: PMC10171076
+PMID: 37181765
+
+Conflict of interest statement: There are no conflicts to declare.

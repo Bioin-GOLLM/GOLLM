@@ -1,0 +1,63 @@
+1. Hum Brain Mapp. 2019 Aug 15;40(12):3488-3507. doi: 10.1002/hbm.24611. Epub
+2019  Apr 29.
+
+Accelerated estimation and permutation inference for ACE modeling.
+
+Chen X(1)(2)(3)(4), Formisano E(2)(3), Blokland GAM(5)(6)(7), Strike LT(8), 
+McMahon KL(9), de Zubicaray GI(10), Thompson PM(11), Wright MJ(8)(9), Winkler 
+AM(12)(13), Ge T(5)(6)(14), Nichols TE(1)(15).
+
+Author information:
+(1)Department of Statistics, University of Warwick, Coventry, UK.
+(2)Department of Cognitive Neuroscience, Faculty of Psychology and Neuroscience, 
+Maastricht University, Maastricht, the Netherlands.
+(3)Maastricht Centre for Systems Biology (MaCSBio), Maastricht University, 
+Maastricht, the Netherlands.
+(4)Department of Biomedical Data Sciences, Leiden University Medical Center, 
+Leiden, the Netherlands.
+(5)Psychiatric and Neurodevelopmental Genetics Unit, Center for Genomic 
+Medicine, Massachusetts General Hospital, Boston, Massachusetts.
+(6)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, Massachusetts.
+(7)Department of Psychiatry, Massachusetts General Hospital, Harvard Medical 
+School, Boston, Massachusetts.
+(8)Queensland Brain Institute, University of Queensland, Brisbane, Queensland, 
+Australia.
+(9)Centre for Advanced Imaging, University of Queensland, Brisbane, Queensland, 
+Australia.
+(10)Faculty of Health and Institute of Health and Biomedical Innovation, 
+Queensland University of Technology, Brisbane, Queensland, Australia.
+(11)Imaging Genetics Center, University of Southern California, Los Angeles, 
+California.
+(12)Emotion and Development Branch, National Institute of Mental Health, 
+National Institutes of Health, Bethesda, Maryland.
+(13)Department of Psychiatry, Yale University School of Medicine, New Haven, 
+Connecticut.
+(14)Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General 
+Hospital, Charlestown, Massachusetts.
+(15)Oxford Big Data Institute, Li Ka Shing Centre for Health Information and 
+Discovery, Nuffield Department of Population Health, University of Oxford, 
+Oxford, UK.
+
+There are a wealth of tools for fitting linear models at each location in the 
+brain in neuroimaging analysis, and a wealth of genetic tools for estimating 
+heritability for a small number of phenotypes. But there remains a need for 
+computationally efficient neuroimaging genetic tools that can conduct analyses 
+at the brain-wide scale. Here we present a simple method for heritability 
+estimation on twins that replaces a variance component model-which requires 
+iterative optimisation-with a (noniterative) linear regression model, by 
+transforming data to squared twin-pair differences. We demonstrate that the 
+method has comparable bias, mean squared error, false positive risk, and power 
+to best practice maximum-likelihood-based methods, while requiring a small 
+fraction of the computation time. Combined with permutation, we call this 
+approach "Accelerated Permutation Inference for the ACE Model (APACE)" where ACE 
+refers to the additive genetic (A) effects, and common (C), and unique (E) 
+environmental influences on the trait. We show how the use of spatial statistics 
+like cluster size can dramatically improve power, and illustrate the method on a 
+heritability analysis of an fMRI working memory dataset.
+
+© 2019 The Authors. Human Brain Mapping published by Wiley Periodicals, Inc.
+
+DOI: 10.1002/hbm.24611
+PMCID: PMC6680147
+PMID: 31037793 [Indexed for MEDLINE]

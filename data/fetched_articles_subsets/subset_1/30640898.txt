@@ -1,0 +1,74 @@
+1. PLoS Comput Biol. 2019 Jan 14;15(1):e1006734. doi:
+10.1371/journal.pcbi.1006734.  eCollection 2019 Jan.
+
+PAIRUP-MS: Pathway analysis and imputation to relate unknowns in profiles from 
+mass spectrometry-based metabolite data.
+
+Hsu YH(1)(2)(3), Churchhouse C(4)(5), Pers TH(6)(7), Mercader JM(3)(8), Metspalu 
+A(9), Fischer K(9)(10), Fortney K(11), Morgen EK(11), Gonzalez C(12)(13), 
+Gonzalez ME(12)(13), Esko T(3)(9), Hirschhorn JN(1)(2)(3).
+
+Author information:
+(1)Department of Genetics, Harvard Medical School, Boston, Massachusetts, United 
+States of America.
+(2)Division of Endocrinology and Center for Basic and Translational Obesity 
+Research, Boston Children's Hospital, Boston, Massachusetts, United States of 
+America.
+(3)Programs in Metabolism and Medical & Population Genetics, Broad Institute of 
+Harvard and MIT, Cambridge, Massachusetts, United States of America.
+(4)Stanley Center for Psychiatric Research, Broad Institute of Harvard and MIT, 
+Cambridge, Massachusetts, United States of America.
+(5)Analytical and Translational Genomics Unit, Massachusetts General Hospital, 
+Boston, Massachusetts, United States of America.
+(6)Novo Nordisk Foundation Centre for Basic Metabolic Research, University of 
+Copenhagen, Copenhagen, Denmark.
+(7)Department of Epidemiology Research, Statens Serum Institut, Copenhagen, 
+Denmark.
+(8)Diabetes Unit and Center for Genomic Medicine, Massachusetts General 
+Hospital, Boston, Massachusetts, United States of America.
+(9)Estonian Genome Center, Institute of Genomics, University of Tartu, Tartu, 
+Estonia.
+(10)Institute of Mathematics and Statistics, University of Tartu, Tartu, 
+Estonia.
+(11)BioAge Labs, Richmond, CA, United States of America.
+(12)Instituto Nacional de Salud Publica, Cuernavaca, Morelos, Mexico.
+(13)Centro de Estudios en Diabetes, Mexico City, Mexico.
+
+Metabolomics is a powerful approach for discovering biomarkers and for 
+characterizing the biochemical consequences of genetic variation. While 
+untargeted metabolite profiling can measure thousands of signals in a single 
+experiment, many biologically meaningful signals cannot be readily identified as 
+known metabolites nor compared across datasets, making it difficult to infer 
+biology and to conduct well-powered meta-analyses across studies. To overcome 
+these challenges, we developed a suite of computational methods, PAIRUP-MS, to 
+match metabolite signals across mass spectrometry-based profiling datasets and 
+to generate metabolic pathway annotations for these signals. To pair up signals 
+measured in different datasets, where retention times (RT) are often not 
+comparable or even available, we implemented an imputation-based approach that 
+only requires mass-to-charge ratios (m/z). As validation, we treated each shared 
+known metabolite as an unmatched signal and showed that PAIRUP-MS correctly 
+matched 70-88% of these metabolites from among thousands of signals, equaling or 
+outperforming a standard m/z- and RT-based approach. We performed further 
+validation using genetic data: the most stringent set of matched signals and 
+shared knowns showed comparable consistency of genetic associations across 
+datasets. Next, we developed a pathway reconstitution method to annotate unknown 
+signals using curated metabolic pathways containing known metabolites. We 
+performed genetic validation for the generated annotations, showing that 
+annotated signals associated with gene variants were more likely to be enriched 
+for pathways functionally related to the genes compared to random expectation. 
+Finally, we applied PAIRUP-MS to study associations between metabolites and 
+genetic variants or body mass index (BMI) across multiple datasets, identifying 
+up to ~6 times more significant signals and many more BMI-associated pathways 
+compared to the standard practice of only analyzing known metabolites. These 
+results demonstrate that PAIRUP-MS enables analysis of unknown signals in a 
+robust, biologically meaningful manner and provides a path to more 
+comprehensive, well-powered studies of untargeted metabolomics data.
+
+DOI: 10.1371/journal.pcbi.1006734
+PMCID: PMC6347288
+PMID: 30640898 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: K.Fortney and E.K.M. 
+are affiliated with BioAge Labs, Inc.; J.N.H. serves on the Scientific Advisory 
+Board of Camp4 Therapeutics.

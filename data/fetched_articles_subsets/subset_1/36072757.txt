@@ -1,0 +1,36 @@
+1. STAR Protoc. 2022 Aug 29;3(3):101555. doi: 10.1016/j.xpro.2022.101555. 
+eCollection 2022 Sep 16.
+
+High-throughput scNMT protocol for multiomics profiling of single cells from 
+mouse brain and pancreatic organoids.
+
+Cerrizuela S(1), Kaya O(2), Kremer LPM(2), Sarvari A(2), Ellinger T(2), Straub 
+J(2), Brunken J(2), Sanz-Morejón A(2), Korkmaz A(2), Martín-Villalba A(3).
+
+Author information:
+(1)Molecular Neurobiology, German Cancer Research Center (DKFZ), 69120 
+Heidelberg, Germany. Electronic address: s.cerrizuela@dkfz-heidelberg.de.
+(2)Molecular Neurobiology, German Cancer Research Center (DKFZ), 69120 
+Heidelberg, Germany.
+(3)Molecular Neurobiology, German Cancer Research Center (DKFZ), 69120 
+Heidelberg, Germany. Electronic address: a.martin-villalba@dkfz-heidelberg.de.
+
+Single-cell nucleosome, methylome, and transcriptome (scNMT) sequencing is a 
+recently developed method that allows multiomics profiling of single cells. In 
+this scNMT protocol, we describe profiling of cells from mouse brain and 
+pancreatic organoids, using liquid handling platforms to increase throughput 
+from 96-well to 384-well plate format. Our approach miniaturizes reaction 
+volumes and incorporates the latest Smart-seq3 protocol to obtain higher numbers 
+of detected genes and genomic DNA (gDNA) CpGs per cell. We outline normalization 
+steps to optimally distribute per-cell sequencing depth. For complete details on 
+the use and execution of this protocol, please refer to Clark (2019), Clark 
+et al. (2018), and Clark et al., 2018, Hagemann-Jensen et al., 2020a, 
+Hagemann-Jensen et al., 2020b.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.xpro.2022.101555
+PMCID: PMC9441340
+PMID: 36072757 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

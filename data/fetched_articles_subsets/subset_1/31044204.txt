@@ -1,0 +1,45 @@
+1. Lab Chip. 2019 May 14;19(10):1877-1886. doi: 10.1039/c8lc01279b.
+
+Microfluidic on-demand engineering of exosomes towards cancer immunotherapy.
+
+Zhao Z(1), McGill J, Gamero-Kubota P, He M.
+
+Author information:
+(1)Department of Chemical and Petroleum Engineering, Bioengineering Program, 
+University of Kansas, Lawrence, Kansas, USA. meih@ku.edu.
+
+Extracellular vesicles (EVs), particularly exosomes (30-150 nm), are an emerging 
+delivery system in mediating cellular communications, which have been observed 
+for priming immune responses by presenting parent cell signaling proteins or 
+tumor antigens to immune cells. Therefore, preparation of antigenic exosomes 
+that can play therapeutic roles, particularly in cancer immunotherapy, is 
+emerging. However, standard benchtop methods (e.g., ultracentrifugation and 
+filtration) lack the ability to purify antigenic exosomes specifically among 
+other microvesicle subtypes, due to the non-selective and time-consuming (>10 h) 
+isolation protocols. Exosome engineering approaches, such as the transfection of 
+parent cells, also suffer from poor yields, low purity, and time-consuming 
+operations. In this paper, we introduce a streamlined microfluidic cell culture 
+platform for integration of harvesting, antigenic modification, and 
+photo-release of surface engineered exosomes in one workflow, which enables the 
+production of intact, MHC peptide surface engineered exosomes for cytolysis 
+activation. A PDMS microfluidic cell culture chip is simply cast from a 
+3D-printed mold. This proof-of-concept study demonstrated the enhanced ability 
+of harvested exosomes in antigen presentation and T cell activation, by 
+decorating melanoma tumor peptides on the exosome surface (e.g., gp-100, MART-1, 
+and MAGE-A3). Such surface engineered antigenic exosomes were harvested in 
+real-time from the on-chip culture of leukocytes isolated from human blood, 
+leading to much faster cellular uptake. The activation of gp100-specific CD8 T 
+cells which were purified from the spleen of 2 Pmel1 transgenic mice was 
+evaluated using surface engineered exosomes prepared from murine antigen 
+presenting cells. Antigen-specific CD8 T cell proliferation was significantly 
+induced by the engineered exosomes compared to that by native, non-engineered 
+exosomes. This microfluidic platform serves as an automated and highly 
+integrated cell culture device for rapid and real-time production of therapeutic 
+exosomes that could advance cancer immunotherapy.
+
+DOI: 10.1039/c8lc01279b
+PMCID: PMC6520140
+PMID: 31044204 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest There are no conflicts to 
+declare.

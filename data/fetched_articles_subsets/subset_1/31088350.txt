@@ -1,0 +1,52 @@
+1. BMC Bioinformatics. 2019 May 14;20(1):237. doi: 10.1186/s12859-019-2866-6.
+
+Variable cellular decision-making behavior in a constant synthetic network 
+topology.
+
+Shah NA(1), Sarkar CA(2).
+
+Author information:
+(1)Genomics and Computational Biology Graduate Group, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+(2)Department of Biomedical Engineering, College of Science and Engineering, 
+University of Minnesota, Minneapolis, MN, USA. csarkar@umn.edu.
+
+BACKGROUND: Modules of interacting components arranged in specific network 
+topologies have evolved to perform a diverse array of cellular functions. For a 
+network with a constant topological structure, its function within a cell may 
+still be tuned by changing the number of instances of a particular component 
+(e.g., gene copy number) or by modulating the intrinsic biochemical properties 
+of a component (e.g., binding strength or catalytic efficiency). How such 
+perturbations affect cellular response dynamics remains poorly understood. Here, 
+we explored these effects in a common decision-making motif, cross-antagonism 
+with autoregulation, by synthetically constructing this network in yeast.
+RESULTS: We employed the engineering design strategy of reuse to build this 
+topology with a single protein building block, TetR, creating necessary 
+components through TetR mutations and fusion partners. We then studied the 
+impact of several topology-preserving perturbations - strength of 
+cross-antagonism, number of operator sites in a promoter, and gene dosage - on 
+decision-making behavior. We found that reducing TetR repression strength, which 
+hinders cross-antagonism, resulted in a loss of mutually exclusive cell 
+responses. Unexpectedly, increasing the number of operator sites also impeded 
+decision-making exclusivity, which may be a consequence of the averaging effect 
+that arises when multiple transcriptional activators and repressors are 
+accommodated at a given locus. Stochastic simulations of this topology revealed 
+that, even for networks with high TetR repression strength and a low number of 
+operator sites, increasing gene dosage can reduce exclusivity in response 
+dynamics. We further demonstrated this result experimentally by quantifying gene 
+copy numbers in selected yeast clones with differing phenotypic responses.
+CONCLUSIONS: Our study illustrates how parameters that do not change the 
+topological structure of a decision-making network can nonetheless exert 
+significant influence on its response dynamics. These findings should further 
+inform the study of native motifs, including the effects of topology-preserving 
+mutations, and the robust engineering of synthetic networks.
+
+DOI: 10.1186/s12859-019-2866-6
+PMCID: PMC6515661
+PMID: 31088350 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

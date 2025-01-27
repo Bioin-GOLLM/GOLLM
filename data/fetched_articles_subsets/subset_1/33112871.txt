@@ -1,0 +1,49 @@
+1. PLoS One. 2020 Oct 28;15(10):e0240057. doi: 10.1371/journal.pone.0240057. 
+eCollection 2020.
+
+Central venous pressure estimation from ultrasound assessment of the jugular 
+venous pulse.
+
+Zamboni P(1), Malagoni AM(1), Menegatti E(1), Ragazzi R(2), Tavoni V(1), Tessari 
+M(1), Beggs CB(3).
+
+Author information:
+(1)HUB Center Regione Emilia Romagna for Venous and Lymphatics Disorders, 
+University Hospital of Ferrara, Ferrara, Italy.
+(2)Department of Morphology, Surgery and Experimental Medicine, University of 
+Ferrara, Ferrara, Italy.
+(3)Institute for Sport, Physical Activity and Leisure, Leeds Beckett University, 
+Leeds, United Kingdom.
+
+OBJECTIVES: Acquiring central venous pressure (CVP), an important clinical 
+parameter, requires an invasive procedure, which poses risk to patients. The aim 
+of the study was to develop a non-invasive methodology for determining mean-CVP 
+from ultrasound assessment of the jugular venous pulse.
+METHODS: In thirty-four adult patients (age = 60 ± 12 years; 10 males), CVP was 
+measured using a central venous catheter, with internal jugular vein (IJV) 
+cross-sectional area (CSA) variation along the cardiac beat acquired using 
+ultrasound. The resultant CVP and IJV-CSA signals were synchronized with 
+electrocardiogram (ECG) signals acquired from the patients. Autocorrelation 
+signals were derived from the IJV-CSA signals using algorithms in R (open-source 
+statistical software). The correlation r-values for successive lag intervals 
+were extracted and used to build a linear regression model in which mean-CVP was 
+the response variable and the lagging autocorrelation r-values and mean IJV-CSA, 
+were the predictor variables. The optimum model was identified using the minimum 
+AIC value and validated using 10-fold cross-validation.
+RESULTS: While the CVP and IJV-CSA signals were poorly correlated (mean r = 
+-0.018, SD = 0.357) due to the IJV-CSA signal lagging behind the CVP signal, 
+their autocorrelation counterparts were highly positively correlated (mean r = 
+0.725, SD = 0.215). Using the lagging autocorrelation r-values as predictors, 
+mean-CVP was predicted with reasonable accuracy (r2 = 0.612), with a 
+mean-absolute-error of 1.455 cmH2O, which rose to 2.436 cmH2O when 
+cross-validation was performed.
+CONCLUSIONS: Mean-CVP can be estimated non-invasively by using the lagged 
+autocorrelation r-values of the IJV-CSA signal. This new methodology may have 
+considerable potential as a clinical monitoring and diagnostic tool.
+
+DOI: 10.1371/journal.pone.0240057
+PMCID: PMC7592775
+PMID: 33112871 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

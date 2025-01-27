@@ -1,0 +1,40 @@
+1. Int J Mol Sci. 2019 Aug 11;20(16):3908. doi: 10.3390/ijms20163908.
+
+PTO-QuickStep: A Fast and Efficient Method for Cloning Random Mutagenesis 
+Libraries.
+
+Jajesniak P(1), Tee KL(2), Wong TS(3).
+
+Author information:
+(1)Department of Chemical & Biological Engineering and Advanced Biomanufacturing 
+Centre, University of Sheffield, Sir Robert Hadfield Building, Mappin Street, 
+Sheffield S1 3JD, UK.
+(2)Department of Chemical & Biological Engineering and Advanced Biomanufacturing 
+Centre, University of Sheffield, Sir Robert Hadfield Building, Mappin Street, 
+Sheffield S1 3JD, UK. k.tee@sheffield.ac.uk.
+(3)Department of Chemical & Biological Engineering and Advanced Biomanufacturing 
+Centre, University of Sheffield, Sir Robert Hadfield Building, Mappin Street, 
+Sheffield S1 3JD, UK. t.wong@sheffield.ac.uk.
+
+QuickStep is a cloning method that allows seamless point integration of a DNA 
+sequence at any position within a target plasmid using only Q5 High-Fidelity DNA 
+Polymerase and DpnI endonuclease. This efficient and cost-effective method 
+consists of two steps: two parallel asymmetric PCRs, followed by a 
+megaprimer-based whole-plasmid amplification. To further simplify the workflow, 
+enhance the efficiency, and increase the uptake of QuickStep, we replaced the 
+asymmetric PCRs with a conventional PCR that uses phosphorothioate (PTO) oligos 
+to generate megaprimers with 3' overhangs. The ease and speed of PTO-QuickStep 
+were demonstrated through (1) right-first-time cloning of a 1.8 kb gene fragment 
+into a pET vector and (2) creating a random mutagenesis library for directed 
+evolution. Unlike most ligation-free random mutagenesis library creation methods 
+(e.g., megaprimer PCR of whole plasmid [MEGAWHOP]), PTO-QuickStep does not 
+require the gene of interest to be precloned into an expression vector to 
+prepare a random mutagenesis library. Therefore, PTO-QuickStep is a simple, 
+reliable, and robust technique, adding to the ever-expanding molecular toolbox 
+of synthetic biology and expediting protein engineering via directed evolution.
+
+DOI: 10.3390/ijms20163908
+PMCID: PMC6720219
+PMID: 31405219 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

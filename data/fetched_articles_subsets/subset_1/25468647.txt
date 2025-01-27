@@ -1,0 +1,46 @@
+1. Mol Genet Metab. 2015 Jan;114(1):66-72. doi: 10.1016/j.ymgme.2014.11.003. Epub
+ 2014 Nov 8.
+
+Mathematical modeling of the insulin signal transduction pathway for prediction 
+of insulin sensitivity from expression data.
+
+Ho CK(1), Rahib L(1), Liao JC(2), Sriram G(3), Dipple KM(4).
+
+Author information:
+(1)Biomedical Engineering Interdepartmental Program, Henry Samueli School of 
+Engineering and Applied Science at UCLA, USA.
+(2)Biomedical Engineering Interdepartmental Program, Henry Samueli School of 
+Engineering and Applied Science at UCLA, USA; Department of Chemical and 
+Biomolecular Engineering, Henry Samueli School of Engineering and Applied 
+Science at UCLA, USA.
+(3)Department of Chemical and Biomolecular Engineering, Henry Samueli School of 
+Engineering and Applied Science at UCLA, USA; Department of Human Genetics, 
+David Geffen School of Medicine at UCLA, USA.
+(4)Biomedical Engineering Interdepartmental Program, Henry Samueli School of 
+Engineering and Applied Science at UCLA, USA; Department of Human Genetics, 
+David Geffen School of Medicine at UCLA, USA; Department of Pediatrics, David 
+Geffen School of Medicine at UCLA, USA; Mattel Children's Hospital at UCLA, USA. 
+Electronic address: kdipple@ucla.edu.
+
+Mathematical models of biological pathways facilitate a systems biology approach 
+to medicine. However, these models need to be updated to reflect the latest 
+available knowledge of the underlying pathways. We developed a mathematical 
+model of the insulin signal transduction pathway by expanding the last major 
+previously reported model and incorporating pathway components elucidated since 
+the original model was reported. Furthermore, we show that inputting gene 
+expression data of key components of the insulin signal transduction pathway 
+leads to sensible predictions of glucose clearance rates in agreement with 
+reported clinical measurements. In one set of simulations, our model predicted 
+that glycerol kinase knockout mice have reduced GLUT4 translocation, and 
+consequently, reduced glucose uptake. Additionally, a comparison of our extended 
+model with the original model showed that the added pathway components improve 
+simulations of glucose clearance rates. We anticipate this expanded model to be 
+a useful tool for predicting insulin sensitivity in mammalian tissues with 
+altered expression protein phosphorylation or mRNA levels of insulin signal 
+transduction pathway components.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymgme.2014.11.003
+PMCID: PMC4319670
+PMID: 25468647 [Indexed for MEDLINE]

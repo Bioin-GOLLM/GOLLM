@@ -1,0 +1,48 @@
+1. PeerJ Comput Sci. 2021 Aug 3;7:e658. doi: 10.7717/peerj-cs.658. eCollection 
+2021.
+
+Digital security vulnerabilities and threats implications for financial 
+institutions deploying digital technology platforms and application: FMEA and 
+FTOPSIS analysis.
+
+Edu AS(1), Agoyi M(2), Agozie D(1).
+
+Author information:
+(1)Management Information Systems, Cyprus International University, Nicosai, 
+Cyprus.
+(2)Information Technology, Cyprus International University, Nicosia, Cyprus.
+
+Digital disruptions have led to the integration of applications, platforms, and 
+infrastructure. They assist in business operations, promoting open digital 
+collaborations, and perhaps even the integration of the Internet of Things 
+(IoTs), Big Data Analytics, and Cloud Computing to support data sourcing, data 
+analytics, and storage synchronously on a single platform. Notwithstanding the 
+benefits derived from digital technology integration (including IoTs, Big Data 
+Analytics, and Cloud Computing), digital vulnerabilities and threats have become 
+a more significant concern for users. We addressed these challenges from an 
+information systems perspective and have noted that more research is needed 
+identifying potential vulnerabilities and threats affecting the integration of 
+IoTs, BDA and CC for data management. We conducted a step-by-step analysis of 
+the potential vulnerabilities and threats affecting the integration of IoTs, Big 
+Data Analytics, and Cloud Computing for data management. We combined 
+multi-dimensional analysis, Failure Mode Effect Analysis, and Fuzzy Technique 
+for Order of Preference by Similarity for Ideal Solution to evaluate and rank 
+the potential vulnerabilities and threats. We surveyed 234 security experts from 
+the banking industry with adequate knowledge in IoTs, Big Data Analytics, and 
+Cloud Computing. Based on the closeness of the coefficients, we determined that 
+insufficient use of backup electric generators, firewall protection failures, 
+and no information security audits are high-ranking vulnerabilities and threats 
+affecting integration. This study is an extension of discussions on the 
+integration of digital applications and platforms for data management and the 
+pervasive vulnerabilities and threats arising from that. A detailed review and 
+classification of these threats and vulnerabilities are vital for sustaining 
+businesses' digital integration.
+
+©2021 Edu et al.
+
+DOI: 10.7717/peerj-cs.658
+PMCID: PMC8356653
+PMID: 34435101
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.

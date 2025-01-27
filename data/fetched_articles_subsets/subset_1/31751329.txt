@@ -1,0 +1,42 @@
+1. PLoS Biol. 2019 Nov 21;17(11):e3000495. doi: 10.1371/journal.pbio.3000495. 
+eCollection 2019 Nov.
+
+Local vulnerability and global connectivity jointly shape neurodegenerative 
+disease propagation.
+
+Zheng YQ(1), Zhang Y(1)(2), Yau Y(1), Zeighami Y(1), Larcher K(1), Misic B(1), 
+Dagher A(1).
+
+Author information:
+(1)McConnell Brain Imaging Centre, Montréal Neurological Institute, McGill 
+University, Montréal, Quebec, Canada.
+(2)Centre de Recherche de I'Institut Universitaire de Gériatrie de Montréal, 
+Montréal, Canada.
+
+It is becoming increasingly clear that brain network organization shapes the 
+course and expression of neurodegenerative diseases. Parkinson disease (PD) is 
+marked by progressive spread of atrophy from the midbrain to subcortical 
+structures and, eventually, to the cerebral cortex. Recent discoveries suggest 
+that the neurodegenerative process involves the misfolding and prion-like 
+propagation of endogenous α-synuclein via axonal projections. However, the 
+mechanisms that translate local "synucleinopathy" to large-scale network 
+dysfunction and atrophy remain unknown. Here, we use an agent-based epidemic 
+spreading model to integrate structural connectivity, functional connectivity, 
+and gene expression and to predict sequential volume loss due to 
+neurodegeneration. The dynamic model replicates the spatial and temporal 
+patterning of empirical atrophy in PD and implicates the substantia nigra as the 
+disease epicenter. We reveal a significant role for both connectome topology and 
+geometry in shaping the distribution of atrophy. The model also demonstrates 
+that SNCA and GBA transcription influence α-synuclein concentration and local 
+regional vulnerability. Functional coactivation further amplifies the course set 
+by connectome architecture and gene expression. Altogether, these results 
+support the theory that the progression of PD is a multifactorial process that 
+depends on both cell-to-cell spreading of misfolded proteins and regional 
+vulnerability.
+
+DOI: 10.1371/journal.pbio.3000495
+PMCID: PMC6894889
+PMID: 31751329 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

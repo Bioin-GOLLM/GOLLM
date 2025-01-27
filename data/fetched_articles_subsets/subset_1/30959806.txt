@@ -1,0 +1,43 @@
+1. Int J Mol Sci. 2019 Apr 5;20(7):1704. doi: 10.3390/ijms20071704.
+
+Improved Prediction of Regulatory Element Using Hybrid Abelian Complexity 
+Features with DNA Sequences.
+
+Wu C(1), Chen J(2), Liu Y(3), Hu X(4).
+
+Author information:
+(1)College of Informatics, Agricultural Bioinformatics Key Laboratory of Hubei 
+Province, Huazhong Agricultural University, Wuhan 430070, China. 
+ccwu@mail.hzau.edu.cn.
+(2)College of Science, Huazhong Agricultural University, Wuhan 430070, China. 
+cj@mail.hzau.edu.cn.
+(3)College of Informatics, Agricultural Bioinformatics Key Laboratory of Hubei 
+Province, Huazhong Agricultural University, Wuhan 430070, China. 
+liuyunxia686@gmail.com.
+(4)College of Informatics, Agricultural Bioinformatics Key Laboratory of Hubei 
+Province, Huazhong Agricultural University, Wuhan 430070, China. 
+huxuehai@mail.hzau.edu.cn.
+
+Abstract: Deciphering the code of cis-regulatory element (CRE) is one of the 
+core issues of current biology. As an important category of CRE, enhancers play 
+crucial roles in gene transcriptional regulations in a distant manner. Further, 
+the disruption of an enhancer can cause abnormal transcription and, thus, 
+trigger human diseases, which means that its accurate identification is 
+currently of broad interest. Here, we introduce an innovative concept, i.e., 
+abelian complexity function (ACF), which is a more complex extension of the 
+classic subword complexity function, for a new coding of DNA sequences. After 
+feature selection by an upper bound estimation and integration with DNA 
+composition features, we developed an enhancer prediction model with hybrid 
+abelian complexity features (HACF). Compared with existing methods, HACF shows 
+consistently superior performance on three sources of enhancer datasets. We 
+tested the generalization ability of HACF by scanning human chromosome 22 to 
+validate previously reported super-enhancers. Meanwhile, we identified novel 
+candidate enhancers which have supports from enhancer-related ENCODE ChIP-seq 
+signals. In summary, HACF improves current enhancer prediction and may be 
+beneficial for further prioritization of functional noncoding variants.
+
+DOI: 10.3390/ijms20071704
+PMCID: PMC6480087
+PMID: 30959806 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

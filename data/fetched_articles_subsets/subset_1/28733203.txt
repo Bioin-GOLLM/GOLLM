@@ -1,0 +1,47 @@
+1. Toxicol Appl Pharmacol. 2017 Sep 1;330:93-99. doi: 10.1016/j.taap.2017.07.011.
+ Epub 2017 Jul 18.
+
+In silico pharmacogenetic approach: The natalizumab case study.
+
+Cavaliere F(1), Montanari E(2), Emerson A(3), Buschini A(4), Cozzini P(5).
+
+Author information:
+(1)Human Microbial, Geno-toxicology, and Plant Lab, Department of Chemistry, 
+Life Sciences and Environmental Sustainability, Parco Area delle Scienze 11/A, 
+43124 Parma, Italy.
+(2)Polo Neurologico Interaziendale, ASL Parma, Italy.
+(3)Supercomputing Applications and Innovation Dept (SCAI), CINECA, Via 
+Magnanelli, 6/3 40033 Casalecchio di Reno (BO), Italy.
+(4)Human Microbial, Geno-toxicology, and Plant Lab, Department of Chemistry, 
+Life Sciences and Environmental Sustainability, Parco Area delle Scienze 11/A, 
+43124 Parma, Italy. Electronic address: annamaria.buschini@unipr.it.
+(5)Molecular Modeling Lab, Food and Drug Department, University of Parma, Parco 
+Area delle Scienze 17/A, 43124 Parma, Italy. Electronic address: 
+pietro.cozzini@unipr.it.
+
+Natalizumab is a humanized monoclonal antibody to α4β1 integrin and is approved 
+for the treatment of Multiple Sclerosis. In patients there is a great variation 
+in drug response and there is much evidence that genetic contributors play an 
+important role in defining an individual's susceptibility. Natalizumab binds to 
+α4-residues Gln-152, Lys-201, Lys256, and these seem to be essential for its 
+activity. Studies on a range of species in disease model have showed a loss of 
+reactivity when any one of those three residues were different to human. Based 
+on these animal studies, we thought that the single nucleotide polymorphism in 
+the ITGA4 human gene causing a lysine to arginine transversion at amino acid 
+position 256 require further investigations in the context of individual drug 
+susceptibility. So, the aim of our study was to investigate the association 
+between this genetic polymorphism and the resistance to natalizumab. We had 
+applied molecular dynamics simulation to study the possible conformational 
+changes induced by Lys256Arg transversion on the overall structure of integrin 
+and we have analyzed the binding affinities of natalizumab in the non-mutated 
+and mutated structures through HINT score. We found that this SNP does not 
+affect the VLA4-natalizumab interaction. Instead, the binding affinities are 
+slightly higher in the mutated complex than in the wild-type. We reported one of 
+the first work in which MD simulation was applied in the pharmacogenetic 
+context, and this approach is rapid and cost effective, since a population 
+survey is carried out only after the positive prediction of simulation.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.taap.2017.07.011
+PMID: 28733203 [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+1. J Math Chem. 2011 Jan 1;49(1):251-275. doi: 10.1007/s10910-010-9744-9.
+
+Modeling the measurements of cellular fluxes in microbioreactor devices using 
+thin enzyme electrodes.
+
+Velkovsky M(1), Snider R, Cliffel DE, Wikswo JP.
+
+Author information:
+(1)Department of Physics and Astronomy, Vanderbilt University, Nashville, TN 
+37235, USA.
+
+An analytic approach to the modeling of stop-flow amperometric measurements of 
+cellular metabolism with thin glucose oxidase and lactate oxidase electrodes 
+would provide a mechanistic understanding of the various factors that affect the 
+measured signals. We divide the problem into two parts: (1) analytic formulas 
+that provide the boundary conditions for the substrate and the hydrogen peroxide 
+at the outer surface of the enzyme electrode layers and the electrode current 
+expressed through these boundary conditions, and (2) a simple diffusion problem 
+in the liquid compartment with the provided boundary conditions, which can be 
+solved analytically or numerically, depending on the geometry of the 
+compartment. The current in an amperometric stop-flow measurement of cellular 
+glucose or lactate consumption/excretion is obtained analytically for two 
+geometries, corresponding to devices developed at the Vanderbilt Institute for 
+Integrative Biosystems Research and Education: a multianalyte nanophysiometer 
+with effective one-dimensional diffusion and a multianalyte microphysiometer, 
+for which plentiful data for metabolic changes in cells are available. The data 
+are calibrated and fitted with the obtained time dependences to extract several 
+cellular fluxes. We conclude that the analytical approach is applicable to a 
+wide variety of measurement geometries and flow protocols.
+
+DOI: 10.1007/s10910-010-9744-9
+PMCID: PMC3768171
+PMID: 24031115

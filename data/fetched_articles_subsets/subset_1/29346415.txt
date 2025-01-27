@@ -1,0 +1,44 @@
+1. PLoS One. 2018 Jan 18;13(1):e0191503. doi: 10.1371/journal.pone.0191503. 
+eCollection 2018.
+
+Acute multi-sgRNA knockdown of KEOPS complex genes reproduces the microcephaly 
+phenotype of the stable knockout zebrafish model.
+
+Jobst-Schwan T(1), Schmidt JM(1), Schneider R(1), Hoogstraten CA(1), Ullmann 
+JFP(2), Schapiro D(1), Majmundar AJ(1), Kolb A(1), Eddy K(1), Shril S(1), Braun 
+DA(1), Poduri A(2), Hildebrandt F(1).
+
+Author information:
+(1)Department of Medicine, Boston Children's Hospital, Harvard Medical School, 
+Boston, Massachusetts, United States of America.
+(2)Epilepsy Genetics Program and F.M. Kirby Neurobiology Center, Department of 
+Neurology, Boston Children's Hospital, Harvard Medical School, Boston, 
+Massachusetts, United States of America.
+
+Until recently, morpholino oligonucleotides have been widely employed in 
+zebrafish as an acute and efficient loss-of-function assay. However, off-target 
+effects and reproducibility issues when compared to stable knockout lines have 
+compromised their further use. Here we employed an acute CRISPR/Cas approach 
+using multiple single guide RNAs targeting simultaneously different positions in 
+two exemplar genes (osgep or tprkb) to increase the likelihood of generating 
+mutations on both alleles in the injected F0 generation and to achieve a similar 
+effect as morpholinos but with the reproducibility of stable lines. This multi 
+single guide RNA approach resulted in median likelihoods for at least one 
+mutation on each allele of >99% and sgRNA specific insertion/deletion profiles 
+as revealed by deep-sequencing. Immunoblot showed a significant reduction for 
+Osgep and Tprkb proteins. For both genes, the acute multi-sgRNA knockout 
+recapitulated the microcephaly phenotype and reduction in survival that we 
+observed previously in stable knockout lines, though milder in the acute 
+multi-sgRNA knockout. Finally, we quantify the degree of mutagenesis by deep 
+sequencing, and provide a mathematical model to quantitate the chance for a 
+biallelic loss-of-function mutation. Our findings can be generalized to acute 
+and stable CRISPR/Cas targeting for any zebrafish gene of interest.
+
+DOI: 10.1371/journal.pone.0191503
+PMCID: PMC5773193
+PMID: 29346415 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Friedhelm Hildebrandt 
+receives royalties from Claritas and is a cofounder of Goldfinch-Bio. This does 
+not alter our adherence to PLOS ONE policies on sharing data and materials. No 
+other authors have competing financial interests.

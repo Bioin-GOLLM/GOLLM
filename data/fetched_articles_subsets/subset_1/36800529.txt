@@ -1,0 +1,42 @@
+1. Biotechnol J. 2023 May;18(5):e2200533. doi: 10.1002/biot.202200533. Epub 2023 
+Feb 28.
+
+Cas9-orthologue-mediated cytosine and adenine base editors recognizing NNAAAA 
+PAM sequences.
+
+Li M(1), Zhao Y(1), Xue X(1), Zhong J(1), Lin J(2)(3), Zhou J(1), Yu W(4), Chen 
+J(5), Qiao Y(2)(3).
+
+Author information:
+(1)Precise Genome Engineering Center, School of Life Sciences, Guangzhou 
+University, Guangzhou, China.
+(2)Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, 
+Shanghai, China.
+(3)Shanghai Institute of Precision Medicine, Shanghai, China.
+(4)School of Life Sciences, Guangzhou University, Guangzhou, China.
+(5)Department of Endocrinology, Qilu Hospital, Cheeloo College of Medicine, 
+Shandong University, Jinan, China.
+
+CRISPR/Cas9 system has been applied as an effective genome-targeting technology. 
+By fusing deaminases with Cas9 nickase (nCas9), various cytosine and adenine 
+base editors (CBEs and ABEs) have been successfully developed that can 
+efficiently induce nucleotide conversions and install pathogenic single 
+nucleotide variants (SNVs) in cultured cells and animal models. However, the 
+applications of BEs are frequently limited by the specific protospacer adjacent 
+motif (PAM) sequences and protein sizes. To expand the toolbox for BEs that can 
+recognize novel PAM sequences, we cloned a Cas9 ortholog from Streptococcus 
+sinensis (named as SsiCas9) with a smaller size and constructed it into APOBEC1- 
+or APOBEC3A-composed CBEs and TadA or TadA*-composed ABEs, which yield high 
+editing efficiencies, low off-targeting activities, and low indel rates in human 
+cells. Compared to PAMless SpRY Cas9-composed BE4max, SsiCas9-mediated BE4max 
+displayed higher editing efficiencies for targets with "NNAAAA" PAM sequences. 
+Moreover, SsiCas9-mediated BE4max induced highly efficient C-to-T conversions in 
+the mouse Ar gene (R841C) to introduce a human androgen resistance 
+syndrome-related mutation (AR R820C) in early mouse embryos. Thus, we developed 
+novel BEs mediated by SsiCas9, expanded the toolbox for base conversions, and 
+broadened the range of editable genomes in vitro and in vivo.
+
+© 2023 Wiley-VCH GmbH.
+
+DOI: 10.1002/biot.202200533
+PMID: 36800529 [Indexed for MEDLINE]

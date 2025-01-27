@@ -1,0 +1,35 @@
+1. Pharmacogenet Genomics. 2016 Apr;26(4):161-168. doi: 
+10.1097/FPC.0000000000000202.
+
+PGRNseq: a targeted capture sequencing panel for pharmacogenetic research and 
+implementation.
+
+Gordon AS(1), Fulton RS, Qin X, Mardis ER, Nickerson DA, Scherer S.
+
+Author information:
+(1)aDepartment of Genome Sciences, University of Washington, Seattle, Washington 
+bThe Baylor College of Medicine Human Genome Sequencing Center, Houston, Texas 
+cThe Genome Institute at Washington University, St Louis, Missouri, USA.
+
+OBJECTIVES: Although the costs associated with whole-genome and whole-exome 
+next-generation sequencing continue to decline, they remain prohibitively 
+expensive for large-scale studies of genetic variation. As an alternative, 
+custom-target sequencing has become a common methodology on the basis of its 
+favorable balance between cost, throughput, and deep coverage.
+METHODS: We have developed PGRNseq, a custom-capture panel of 84 genes with 
+associations to pharmacogenetic phenotypes, as a tool to explore the 
+relationship between drug response and genetic variation, both common and rare. 
+We utilized a set of 32 diverse HapMap trios and two clinical cohorts to assess 
+platform performance, accuracy, and ability to discover novel variation.
+RESULTS: We found that PGRNseq generates ultra-deep coverage data (mean=496x) 
+that are over 99.8% concordant with orthogonal datasets. In addition, in our 
+testing sets, PGRNseq identified many novel, rare variants of interest, 
+underscoring its value in both research and clinical settings.
+CONCLUSION: PGRNseq is an ideal platform for carrying out sequencing-based 
+analyses of pharmacogenetic variation in large cohorts. In addition, the high 
+accuracy associated with genotypes from PGRNseq highlight its utility as a 
+clinical test.
+
+DOI: 10.1097/FPC.0000000000000202
+PMCID: PMC4935646
+PMID: 26736087

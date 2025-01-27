@@ -1,0 +1,39 @@
+1. Sci Rep. 2021 Apr 7;11(1):7574. doi: 10.1038/s41598-021-87204-z.
+
+Analyzing effect of quadruple multiple sequence alignments on deep learning 
+based protein inter-residue distance prediction.
+
+Jain A(1), Terashi G(2), Kagaya Y(3), Maddhuri Venkata Subramaniya SR(1), 
+Christoffer C(1), Kihara D(4)(5).
+
+Author information:
+(1)Department of Computer Science, Purdue University, West Lafayette, IN, 47907, 
+USA.
+(2)Department of Biological Sciences, Purdue University, West Lafayette, IN, 
+47907, USA.
+(3)Graduate School of Information Sciences, Tohoku University, Sendai, Japan.
+(4)Department of Computer Science, Purdue University, West Lafayette, IN, 47907, 
+USA. dkihara@purdue.edu.
+(5)Department of Biological Sciences, Purdue University, West Lafayette, IN, 
+47907, USA. dkihara@purdue.edu.
+
+Protein 3D structure prediction has advanced significantly in recent years due 
+to improving contact prediction accuracy. This improvement has been largely due 
+to deep learning approaches that predict inter-residue contacts and, more 
+recently, distances using multiple sequence alignments (MSAs). In this work we 
+present AttentiveDist, a novel approach that uses different MSAs generated with 
+different E-values in a single model to increase the co-evolutionary information 
+provided to the model. To determine the importance of each MSA's feature at the 
+inter-residue level, we added an attention layer to the deep neural network. We 
+show that combining four MSAs of different E-value cutoffs improved the model 
+prediction performance as compared to single E-value MSA features. A further 
+improvement was observed when an attention layer was used and even more when 
+additional prediction tasks of bond angle predictions were added. The 
+improvement of distance predictions were successfully transferred to achieve 
+better protein tertiary structure modeling.
+
+DOI: 10.1038/s41598-021-87204-z
+PMCID: PMC8027171
+PMID: 33828153 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,40 @@
+1. Molecules. 2023 Aug 6;28(15):5914. doi: 10.3390/molecules28155914.
+
+Computer-Aided Drug Design of Novel Derivatives of 
+2-Amino-7,9-dihydro-8H-purin-8-one as Potent Pan-Janus JAK3 Inhibitors.
+
+Faris A(1), Ibrahim IM(2), Al Kamaly O(3), Saleh A(3), Elhallaoui M(1).
+
+Author information:
+(1)LIMAS, Department of Chemical Sciences, Faculty of Sciences Dhar El Mahraz, 
+Sidi Mohamed Ben Abdellah University, Fez 30000, Morocco.
+(2)Biophysics Department, Faculty of Science, Cairo University, Cairo 12613, 
+Egypt.
+(3)Department of Pharmaceutical Sciences, College of Pharmacy, Princess Nourah 
+Bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia.
+
+Rheumatoid arthritis (RA) remains one of the most prevalent autoimmune diseases 
+worldwide. Janus kinase 3 (JAK3) is an essential enzyme for treating autoimmune 
+diseases, including RA. Molecular modeling techniques play a crucial role in the 
+search for new drugs by reducing time delays. In this study, the 3D-QSAR 
+approach is employed to predict new JAK3 inhibitors. Two robust models, both 
+field-based with R2 = 0.93, R = 0.96, and Q2 = 87, and atom-based with R2 = 
+0.94, R = 0.97, and Q2 = 86, yielded good results by identifying groups that may 
+readily direct their interaction. A reliable pharmacophore model, DHRRR1, was 
+provided in this work to enable the clear characterization of chemical features, 
+leading to the design of 13 inhibitors with their pIC50 values. The DHRRR1 model 
+yielded a validation result with a ROC value of 0.87. Five promising inhibitors 
+were selected for further study based on an ADMET analysis of their 
+pharmacokinetic properties and covalent docking (CovDock). Compared to the 
+FDA-approved drug tofacitinib, the pharmaceutical features, binding affinity and 
+stability of the inhibitors were analyzed through CovDock, 300 ns molecular 
+dynamics simulations, free energy binding calculations and ADMET predictions. 
+The results show that the inhibitors have strong binding affinity, stability and 
+favorable pharmaceutical properties. The newly predicted molecules, as JAK3 
+inhibitors for the treatment of RA, are promising candidates for use as drugs.
+
+DOI: 10.3390/molecules28155914
+PMCID: PMC10473238
+PMID: 37570884 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

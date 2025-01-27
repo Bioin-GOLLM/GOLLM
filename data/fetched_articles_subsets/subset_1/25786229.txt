@@ -1,0 +1,54 @@
+1. PLoS One. 2015 Mar 18;10(3):e0119328. doi: 10.1371/journal.pone.0119328. 
+eCollection 2015.
+
+Cysteine Protease Profiles of the Medicinal Plant Calotropis procera R. Br. 
+revealed by de novo transcriptome analysis.
+
+Kwon CW(1), Park KM(1), Kang BC(2), Kweon DH(3), Kim MD(4), Shin SW(5), Je 
+YH(5), Chang PS(6).
+
+Author information:
+(1)Department of Agricultural Biotechnology, Seoul National University, Seoul, 
+Republic of Korea.
+(2)Department of Plant Science, Plant Genomics and Breeding Institute, and 
+Research Institute of Agriculture and Life Sciences, Seoul National University, 
+Seoul, Republic of Korea.
+(3)Department of Genetic Engineering and Center for Human Interface 
+Nanotechnology, Sungkyunkwan University, Suwon, Republic of Korea.
+(4)Department of Food Science and Biotechnology, Kangwon National University, 
+Chuncheon, Republic of Korea.
+(5)Department of Agricultural Biotechnology, and Research Institute of 
+Agriculture and Life Sciences, Seoul National University, Seoul, Republic of 
+Korea.
+(6)Department of Agricultural Biotechnology, Seoul National University, Seoul, 
+Republic of Korea; Center for Food and Bioconvergence, and Research Institute of 
+Agriculture and Life Sciences, Seoul National University, Seoul, Republic of 
+Korea.
+
+Calotropis procera R. Br., a traditional medicinal plant in India, is a 
+promising source of commercial proteases, because the cysteine proteases from 
+the plant exhibit high thermo-stability, broad pH optima, and plasma-clotting 
+activity. Though several proteases such as Procerain, Procerain B, CpCp-1, 
+CpCp-2, and CpCp-3 have been isolated and characterized, the information of 
+their transcripts is limited to cDNAs encoding their mature peptides. Due to 
+this limitation, in this study, to determine the cDNA sequences encoding full 
+open reading frame of these cysteine proteases, transcripts were sequenced with 
+an Illumina Hiseq2000 sequencer. A total of 171,253,393 clean reads were 
+assembled into 106,093 contigs with an average length of 1,614 bp and an N50 of 
+2,703 bp, and 70,797 contigs with an average length of 1,565 bp and N50 of 2,082 
+bp using Trinity and Velvet-Oases software, respectively. Among these contigs, 
+we found 20 unigenes related to papain-like cysteine proteases by BLASTX 
+analysis against a non-redundant NCBI protein database. Our expression analysis 
+revealed that the cysteine protease contains an N-terminal pro-peptide domain 
+(inhibitor region), which is necessary for correct folding and proteolytic 
+activity. It was evident that expression yields using an inducible T7 expression 
+system in Escherichia coli were considerably higher with the pro-peptide domain 
+than without the domain, which could contribute to molecular cloning of the 
+Calotropis procera protease as an active form with correct folding.
+
+DOI: 10.1371/journal.pone.0119328
+PMCID: PMC4365007
+PMID: 25786229 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

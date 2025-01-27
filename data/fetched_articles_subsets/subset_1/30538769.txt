@@ -1,0 +1,38 @@
+1. Comput Math Methods Med. 2018 Nov 14;2018:4253928. doi: 10.1155/2018/4253928. 
+eCollection 2018.
+
+Computational Prediction of the Combined Effect of CRT and LVAD on Cardiac 
+Electromechanical Delay in LBBB and RBBB.
+
+Heikhmakhtiar AK(1), Lim KM(1).
+
+Author information:
+(1)Department of IT Convergence Engineering, Kumoh National Institute of 
+Technology, Gumi 39177, Republic of Korea.
+
+Two case reports showed that the combination of CRT and LVAD benefits the 
+end-stage heart failure patients with prolonged QRS interval significantly. In 
+one of the reports, the patient had the LVAD removed due to the recovery of the 
+heart function. However, the quantification of the combined devices has yet to 
+be conducted. This study aimed at computationally predicting the effects of 
+CRT-only or combined with LVAD on electromechanical behaviour in the failing 
+ventricle with left bundle branch blocked (LBBB) and right bundle branch blocked 
+(RBBB) conditions. The subjects are normal sinus rhythm, LBBB, RBBB, LBBB with 
+CRT-only, RBBB with CRT-only, LBBB with CRT + LVAD, and RBBB with CRT + LVAD. 
+The results showed that the CRT-only shortened the total electrical activation 
+time (EAT) in the LBBB and RBBB conditions by 20.2% and 17.1%, respectively. The 
+CRT-only reduced the total mechanical activation time (MAT) and 
+electromechanical delay (EMD) of the ventricle under LBBB by 21.3% and 10.1%, 
+respectively. Furthermore, the CRT-only reduced the contractile adenosine 
+triphosphate (ATP) consumption by 5%, increased left ventricular (LV) pressure 
+by 6%, and enhanced cardiac output (CO) by 0.2 L/min under LBBB condition. 
+However, CRT-only barely affects the ventricle under RBBB condition. Under the 
+LBBB condition, CRT + LVAD increased LV pressure and CO by 10.5% and by 
+0.9 L/min, respectively. CRT + LVAD reduced ATP consumption by 15%, shortened 
+the MAT by 23.4%, and shortened the EMD by 15.2%. In conclusion, we 
+computationally predicted and quantified that the CRT + LVAD implementation is 
+superior to CRT-only implementation particularly in HF with LBBB condition.
+
+DOI: 10.1155/2018/4253928
+PMCID: PMC6261249
+PMID: 30538769 [Indexed for MEDLINE]

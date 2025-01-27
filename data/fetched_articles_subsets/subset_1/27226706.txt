@@ -1,0 +1,35 @@
+1. Cancer Inform. 2016 May 19;15:91-102. doi: 10.4137/CIN.S34141. eCollection
+2016.
+
+Bioinformatic Studies to Predict MicroRNAs with the Potential of Uncoupling RECK 
+Expression from Epithelial-Mesenchymal Transition in Cancer Cells.
+
+Wang Z(1), Murakami R(2), Yuki K(1), Yoshida Y(1), Noda M(3).
+
+Author information:
+(1)Laboratory for Malignancy Control Research, Medical Innovation Center, 
+Graduate School of Medicine, Kyoto University, Kyoto, Japan.
+(2)Department of Gynecology and Obstetrics, Graduate School of Medicine, Kyoto 
+University, Kyoto, Japan.
+(3)Laboratory for Malignancy Control Research, Medical Innovation Center, 
+Graduate School of Medicine, Kyoto University, Kyoto, Japan.; Department of 
+Molecular Oncology, Graduate School of Medicine, Kyoto University, Kyoto, Japan.
+
+RECK is downregulated in many tumors, and forced RECK expression in tumor cells 
+often results in suppression of malignant phenotypes. Recent findings suggest 
+that RECK is upregulated after epithelial-mesenchymal transition (EMT) in normal 
+epithelium-derived cells but not in cancer cells. Since several microRNAs (miRs) 
+are known to target RECK mRNA, we hypothesized that certain miR(s) may be 
+involved in this suppression of RECK upregulation after EMT in cancer cells. To 
+test this hypothesis, we used three approaches: (1) text mining to find miRs 
+relevant to EMT in cancer cells, (2) predicting miR targets using four 
+algorithms, and (3) comparing miR-seq data and RECK mRNA data using a novel 
+non-parametric method. These approaches identified the miR-183-96-182 cluster as 
+a strong candidate. We also looked for transcription factors and signaling 
+molecules that may promote cancer EMT, miR-183-96-182 upregulation, and RECK 
+downregulation. Here we describe our methods, findings, and a testable 
+hypothesis on how RECK expression could be regulated in cancer cells after EMT.
+
+DOI: 10.4137/CIN.S34141
+PMCID: PMC4874744
+PMID: 27226706

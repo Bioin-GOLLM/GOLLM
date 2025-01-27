@@ -1,0 +1,49 @@
+1. Front Oncol. 2023 Jan 12;12:1023833. doi: 10.3389/fonc.2022.1023833.
+eCollection  2022.
+
+A signature-based classification of lung adenocarcinoma that stratifies tumor 
+immunity.
+
+Zhang X(1), Jiang D(1), Li S(1), Zhang X(1), Zheng W(1), Cheng B(1).
+
+Author information:
+(1)Qilu Hospital of Shandong University, Cheeloo College of Medicine, Shandong 
+University, Jinan, China.
+
+BACKGROUND: Immune-related subgroup classification in immune checkpoint blockade 
+(ICB) therapy is largely inconclusive in lung adenocarcinoma (LUAD).
+MATERIALS AND METHODS: First, the single-sample Gene Set Enrichment Analysis 
+(ssGSEA) and K-means algorithms were used to identify immune-based subtypes for 
+the LUAD cohort based on the immunogenomic profiling of 29 immune signatures 
+from The Cancer Genome Atlas (TCGA) database (n = 504). Second, we examined the 
+prognostic and predictive value of immune-based subtypes using bioinformatics 
+analysis. Survival analysis and additional COX proportional hazards regression 
+analysis were conducted for LUAD. Then, the immune score, tumor-infiltrating 
+immune cells (TIICs), and immune checkpoint expression of the three subtypes 
+were analyzed. The Gene Ontology (GO) and Kyoto Encyclopedia of Genes and 
+Genomes (KEGG) of the differentially expressed genes (DEGs) between three 
+immune-based subtypes were subsequently analyzed for functional enrichment 
+pathways.
+RESULT: A total of three immune-based subtypes with distinct immune signatures 
+have been identified for LUAD and designated as cluster 1 (C1), cluster 2 (C2), 
+and cluster 3 (C3). Patients in C3 had higher stromal, immune, and ESTIMATE 
+scores, whereas those in C1 had the opposite. Patients in C1 had an enrichment 
+of macrophages M0 and activation of dendritic cells, whereas tumors in C3 had an 
+enrichment of CD8+ T cells, activation of CD4+ memory T cells, and macrophages 
+M1. C3 had a higher immune cell infiltration and a better survival prognosis 
+than other subtypes. Furthermore, patients in C3 had higher expression levels of 
+immune checkpoint proteins such as PD-L1, PD1, CTLA4, LAG3, IDO1, and HAVCR2. No 
+significant differences were found in cluster TMB scores. We also found that 
+immune-related pathways were enriched in C3.
+CONCLUSION: LUAD subtypes based on immune signatures may aid in the development 
+of novel treatment strategies for LUAD.
+
+Copyright © 2023 Zhang, Jiang, Li, Zhang, Zheng and Cheng.
+
+DOI: 10.3389/fonc.2022.1023833
+PMCID: PMC9878554
+PMID: 36713530
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

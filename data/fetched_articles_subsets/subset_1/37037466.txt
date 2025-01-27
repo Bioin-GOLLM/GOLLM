@@ -1,0 +1,42 @@
+1. Genomics Inform. 2023 Mar;21(1):e8. doi: 10.5808/gi.22072. Epub 2023 Mar 31.
+
+Prognostic biomarkers and molecular pathways mediating Helicobacter 
+pylori-induced gastric cancer: a network-biology approach.
+
+Kamarehei F(1), Saidijam M(2), Taherkhani A(2).
+
+Author information:
+(1)Department of Microbiology, Faculty of Medicine, Hamadan University of 
+Medical Sciences, Hamadan 6517838678, Iran.
+(2)Research Center for Molecular Medicine, Hamadan University of Medical 
+Sciences, Hamadan 6517838678, Iran.
+
+Cancer of the stomach is the second most frequent cancer-related death 
+worldwide. The survival rate of patients with gastric cancer (GC) remains 
+fragile. There is a requirement to discover biomarkers for prognosis approaches. 
+Helicobacter pylori in the stomach is closely associated with the progression of 
+GC. We identified the genes associated with poor/favorable prognosis in H. 
+pylori-induced GC. Multivariate statistical analysis was applied on the Gene 
+Expression Omnibus (GEO) dataset GSE54397 to identify differentially expressed 
+miRNAs (DEMs) in gastric tissues with H. pylori-induced cancer compared with the 
+H. pylori-positive with non-cancerous tissue. A protein interaction map (PIM) 
+was built and subjected to DEMs targets. The enriched pathways and biological 
+processes within the PIM were identified based on substantial clusters. 
+Thereafter, the most critical genes in the PIM were illustrated, and their 
+prognostic impact in GC was investigated. Considering p-value less than 0.01 and 
+|Log2 fold change| as >1, five microRNAs demonstrated significant changes among 
+the two groups. Gene functional analysis revealed that the ubiquitination 
+system, neddylation pathway, and ciliary process are primarily involved in H. 
+pylori-induced GC. Survival analysis illustrated that the overexpression of 
+DOCK4, GNAS, CTGF, TGF-b1, ESR1, SELE, TIMP3, SMARCE1, and TXNIP was associated 
+with poor prognosis, while increased MRPS5 expression was related to a favorable 
+prognosis in GC patients. DOCK4, GNAS, CTGF, TGF-b1, ESR1, SELE, TIMP3, SMARCE1, 
+TXNIP, and MRPS5 may be considered prognostic biomarkers for H. pylori-induced 
+GC. However, experimental validation is necessary in the future.
+
+DOI: 10.5808/gi.22072
+PMCID: PMC10085735
+PMID: 37037466
+
+Conflict of interest statement: Conflicts of Interest No potential conflict of 
+interest relevant to this article was reported.

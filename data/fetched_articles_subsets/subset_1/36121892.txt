@@ -1,0 +1,42 @@
+1. PLoS Comput Biol. 2022 Sep 19;18(9):e1009788. doi:
+10.1371/journal.pcbi.1009788.  eCollection 2022 Sep.
+
+A spatially resolved stochastic model reveals the role of supercoiling in 
+transcription regulation.
+
+Geng Y(1), Bohrer CH(2)(3), Yehya N(3), Hendrix H(3), Shachaf L(2), Liu J(4), 
+Xiao J(3), Roberts E(2).
+
+Author information:
+(1)Department of Biomedical Engineering, Johns Hopkins School of Medicine, 
+Baltimore, Maryland, United States of America.
+(2)Department of Biophysics, Johns Hopkins University, Baltimore, Maryland, 
+United States of America.
+(3)Department of Biophysics and Biophysical Chemistry, Johns Hopkins School of 
+Medicine, Baltimore, Maryland, United States of America.
+(4)Center for Cell Dynamics, Department of Cell Biology, Johns Hopkins 
+University School of Medicine, Baltimore, Maryland, United States of America.
+
+In Escherichia coli, translocation of RNA polymerase (RNAP) during transcription 
+introduces supercoiling to DNA, which influences the initiation and elongation 
+behaviors of RNAP. To quantify the role of supercoiling in transcription 
+regulation, we developed a spatially resolved supercoiling model of 
+transcription. The integrated model describes how RNAP activity feeds back with 
+the local DNA supercoiling and how this mechanochemical feedback controls 
+transcription, subject to topoisomerase activities and stochastic topological 
+domain formation. This model establishes that transcription-induced supercoiling 
+mediates the cooperation of co-transcribing RNAP molecules in highly expressed 
+genes, and this cooperation is achieved under moderate supercoiling diffusion 
+and high topoisomerase unbinding rates. It predicts that a topological domain 
+could serve as a transcription regulator, generating substantial transcriptional 
+noise. It also shows the relative orientation of two closely arranged genes 
+plays an important role in regulating their transcription. The model provides a 
+quantitative platform for investigating how genome organization impacts 
+transcription.
+
+DOI: 10.1371/journal.pcbi.1009788
+PMCID: PMC9522292
+PMID: 36121892 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

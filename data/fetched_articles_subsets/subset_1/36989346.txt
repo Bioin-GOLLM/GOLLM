@@ -1,0 +1,41 @@
+1. J Phys Chem B. 2023 Apr 13;127(14):3139-3150. doi: 10.1021/acs.jpcb.2c08650. 
+Epub 2023 Mar 29.
+
+Conserved Conformational Dynamics Reveal a Key Dynamic Residue in the Gatekeeper 
+Loop of Human Cyclophilins.
+
+Ahmed F(1)(2), Yao XQ(1), Hamelberg D(1).
+
+Author information:
+(1)Department of Chemistry, Georgia State University, Atlanta, Georgia 
+30302-3965, United States.
+(2)Agnes Scott College, Decatur, Georgia 30030, United States.
+
+Cyclophilins are ubiquitous human enzymes that catalyze peptidyl-prolyl 
+cis-trans isomerization in protein substrates. Of the 17 unique isoforms, five 
+closely related isoforms (CypA-E) are found in various environments and 
+participate in diverse cellular processes, yet all have similar structures and 
+the same core catalytic function. The question is what key residues are behind 
+the conserved function of these enzymes. Here, conformational dynamics are 
+compared across these isoforms to detect conserved dynamics essential for the 
+catalytic activity of cyclophilins. A set of key dynamic residues, defined by 
+the most dynamically conserved positions, are identified in the gatekeeper 2 
+region. The highly conserved glycine (Gly80) in this region is predicted to 
+underlie the local flexibility, which is further tested by molecular dynamics 
+simulations performed on mutants (G80A) of CypE and CypA. The mutation leads to 
+decreased flexibility of CypE and CypA during substrate binding but increased 
+flexibility during catalysis. Dynamical changes occur in the mutated region and 
+a distal loop downstream of the mutation site in sequence. Examinations of the 
+mutational effect on catalysis show that both mutated CypE and CypA exhibit 
+shifted binding free energies of the substrate under distinct isomer 
+conformations. The results suggest a loss of function in the mutated CypE and 
+CypA. These catalytic changes by the mutation are likely independent of the 
+substrate sequence, at least in CypA. Our work presents a method to identify 
+function-related key residues in proteins.
+
+DOI: 10.1021/acs.jpcb.2c08650
+PMCID: PMC10108351
+PMID: 36989346 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

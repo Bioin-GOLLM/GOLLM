@@ -1,0 +1,47 @@
+1. Nanoscale. 2020 Nov 7;12(41):21420-21428. doi: 10.1039/d0nr05390b. Epub 2020
+Oct  20.
+
+The dance of the nanobubbles: detecting acoustic backscatter from sub-micron 
+bubbles using ultra-high frequency acoustic microscopy.
+
+Moore MJ (1), Bodera F , Hernandez C , Shirazi N , Abenojar E , Exner AA , 
+Kolios MC .
+
+Author information:
+(1)Department of Physics, Ryerson University, Toronto, Canada. 
+mkolios@ryerson.ca.
+
+Nanobubbles have gained attention for their use as highly stable ultrasound (US) 
+contrast agents, but assessment of individual nanobubble size remains a 
+challenge. Current sizing techniques require either extensive sample preparation 
+or depend on assumed values of nanobubble density that are not well 
+characterized. An US based approach would be desirable; however, probing 
+individual nanobubbles using US transducers at clinical frequencies is not 
+feasible due to the comparatively long acoustic wavelengths employed. Here we 
+present a technique which can be used to estimate nano- or microbubble size by 
+virtue of the amount of motion detected in an M-Mode image acquired using an 
+acoustic microscope equipped with a 200 MHz transducer. A sample of a 
+bubble-containing solution is incorporated into a phantom composed of molten 
+agarose. The solidified agarose gel contains pores with well-defined sizes 
+dictated by the agarose concentration. Bubbles in the gel matrix that are 
+smaller in diameter than the gel pore size are capable of undergoing stochastic 
+motion which manifests as intensity fluctuations in M-Mode images. Conversely, 
+bubbles which are larger than the agarose pores become trapped and produce 
+static M-Mode intensity patterns. In this study, agarose gels with 
+concentrations ranging from 0.25% to 1.25% (mean pore sizes ranging from 2.68 μm 
+to 0.34 μm) were loaded with either nanobubbles (mean diameter 0.326 μm) or 
+microbubbles (mean diameter 2.71 μm) and imaged at 200 MHz. In the nanobubble 
+loaded gels, M-Mode fluctuations were clearly visible up to a gel concentration 
+of 1% (pore size of 0.39 μm). In contrast, the microbubble loaded gels exhibited 
+minimal M-Mode fluctuation even at agarose concentrations of 0.25% (2.68 μm pore 
+size). Autocorrelation curves generated from the M-Mode data demonstrated a 
+clear trend of curve flattening (loss of motion) when the pore size was 
+comparable to mean bubble diameter, indicating that individual bubbles trapped 
+in the agarose pores are the main source of acoustic backscatter. In the future, 
+decay parameters extracted from the autocorrelation curves could potentially be 
+used as indicators of mean bubble diameter for bubble populations of unknown 
+size.
+
+DOI: 10.1039/d0nr05390b
+PMCID: PMC7646462
+PMID: 33079108

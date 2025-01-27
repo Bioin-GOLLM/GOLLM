@@ -1,0 +1,36 @@
+1. ACS Synth Biol. 2022 Mar 18;11(3):1049-1059. doi: 10.1021/acssynbio.1c00490. 
+Epub 2022 Feb 17.
+
+Improving the Robustness of Engineered Bacteria to Nutrient Stress Using 
+Programmed Proteolysis.
+
+Szydlo K(1), Ignatova Z(1), Gorochowski TE(2).
+
+Author information:
+(1)Institute of Biochemistry and Molecular Biology, University of Hamburg, 
+20146, Hamburg, Germany.
+(2)School of Biological Sciences, University of Bristol, BS8 1TQ, Bristol, 
+United Kingdom.
+
+The use of short peptide tags in synthetic genetic circuits allows for the 
+tuning of gene expression dynamics and release of amino acid resources through 
+targeted protein degradation. Here, we use elements of the Escherichia coli and 
+Mesoplasma florum transfer-mRNA (tmRNA) ribosome rescue systems to compare 
+endogenous and foreign proteolysis systems in E. coli. We characterize the 
+performance and burden of each and show that, while both greatly shorten the 
+half-life of a tagged protein, the endogenous system is approximately 10 times 
+more efficient. On the basis of these results we then demonstrate using 
+mathematical modeling and experiments how proteolysis can improve cellular 
+robustness through targeted degradation of a reporter protein in auxotrophic 
+strains, providing a limited secondary source of essential amino acids that help 
+partially restore growth when nutrients become scarce. These findings provide 
+avenues for controlling the functional lifetime of engineered cells once 
+deployed and increasing their tolerance to fluctuations in nutrient 
+availability.
+
+DOI: 10.1021/acssynbio.1c00490
+PMCID: PMC9097571
+PMID: 35174698 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

@@ -1,0 +1,40 @@
+1. Syst Synth Biol. 2010 Mar;4(1):35-53. doi: 10.1007/s11693-009-9047-2. Epub
+2009  Dec 10.
+
+A new multicompartmental reaction-diffusion modeling method links transient 
+membrane attachment of E. coli MinE to E-ring formation.
+
+Arjunan SN, Tomita M.
+
+Many important cellular processes are regulated by reaction-diffusion (RD) of 
+molecules that takes place both in the cytoplasm and on the membrane. To model 
+and analyze such multicompartmental processes, we developed a lattice-based 
+Monte Carlo method, Spatiocyte that supports RD in volume and surface 
+compartments at single molecule resolution. Stochasticity in RD and the excluded 
+volume effect brought by intracellular molecular crowding, both of which can 
+significantly affect RD and thus, cellular processes, are also supported. We 
+verified the method by comparing simulation results of diffusion, irreversible 
+and reversible reactions with the predicted analytical and best available 
+numerical solutions. Moreover, to directly compare the localization patterns of 
+molecules in fluorescence microscopy images with simulation, we devised a 
+visualization method that mimics the microphotography process by showing the 
+trajectory of simulated molecules averaged according to the camera exposure 
+time. In the rod-shaped bacterium Escherichia coli, the division site is 
+suppressed at the cell poles by periodic pole-to-pole oscillations of the Min 
+proteins (MinC, MinD and MinE) arising from carefully orchestrated RD in both 
+cytoplasm and membrane compartments. Using Spatiocyte we could model and 
+reproduce the in vivo MinDE localization dynamics by accounting for the 
+previously reported properties of MinE. Our results suggest that the MinE ring, 
+which is essential in preventing polar septation, is largely composed of MinE 
+that is transiently attached to the membrane independently after recruited by 
+MinD. Overall, Spatiocyte allows simulation and visualization of complex spatial 
+and reaction-diffusion mediated cellular processes in volumes and surfaces. As 
+we showed, it can potentially provide mechanistic insights otherwise difficult 
+to obtain experimentally.
+ELECTRONIC SUPPLEMENTARY MATERIAL: The online version of this article 
+(doi:10.1007/s11693-009-9047-2) contains supplementary material, which is 
+available to authorized users.
+
+DOI: 10.1007/s11693-009-9047-2
+PMCID: PMC2816228
+PMID: 20012222

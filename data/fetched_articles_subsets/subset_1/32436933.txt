@@ -1,0 +1,27 @@
+1. Brief Bioinform. 2021 May 20;22(3):bbaa065. doi: 10.1093/bib/bbaa065.
+
+iWhale: a computational pipeline based on Docker and SCons for detection and 
+annotation of somatic variants in cancer WES data.
+
+Binatti A, Bresolin S, Bortoluzzi S, Coppe A.
+
+Whole exome sequencing (WES) is a powerful approach for discovering sequence 
+variants in cancer cells but its time effectiveness is limited by the complexity 
+and issues of WES data analysis. Here we present iWhale, a customizable pipeline 
+based on Docker and SCons, reliably detecting somatic variants by three 
+complementary callers (MuTect2, Strelka2 and VarScan2). The results are combined 
+to obtain a single variant call format file for each sample and variants are 
+annotated by integrating a wide range of information extracted from several 
+reference databases, ultimately allowing variant and gene prioritization 
+according to different criteria. iWhale allows users to conduct a complex series 
+of WES analyses with a powerful yet customizable and easy-to-use tool, running 
+on most operating systems (macOs, GNU/Linux and Windows). iWhale code is freely 
+available at https://github.com/alexcoppe/iWhale and the docker image is 
+downloadable from https://hub.docker.com/r/alexcoppe/iwhale.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbaa065
+PMCID: PMC8557746
+PMID: 32436933 [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+1. Sensors (Basel). 2023 Feb 6;23(4):1814. doi: 10.3390/s23041814.
+
+Physical Layer Authentication in Wireless Networks-Based Machine Learning 
+Approaches.
+
+Alhoraibi L(1), Alghazzawi D(1), Alhebshi R(1), Rabie OBJ(1).
+
+Author information:
+(1)Faculty of Computing and Information Technology, King Abdulaziz University, 
+Jeddah 21589, Saudi Arabia.
+
+The physical layer security of wireless networks is becoming increasingly 
+important because of the rapid development of wireless communications and the 
+increasing security threats. In addition, because of the open nature of the 
+wireless channel, authentication is a critical issue in wireless communications. 
+Physical layer authentication (PLA) is based on distinctive features to provide 
+information-theory security and low complexity. However, although many 
+researchers are interested in the PLA and how it might be used to improve 
+wireless security, there is surprisingly little literature on the subject, with 
+no systematic overview of the current state-of-the-art PLA and the main 
+foundations involved. Therefore, this paper aims to determine and systematically 
+compare existing studies in the physical layer authentication. This study showed 
+whether machine learning approaches in physical layer authentication models 
+increased wireless network security performance and demonstrated the latest 
+techniques used in PLA. Moreover, it identified issues and suggested directions 
+for future research. This study is valuable for researchers and security model 
+developers interested in using machine learning (ML) and deep learning (DL) 
+approaches for PLA in wireless communication systems in future research and 
+designs.
+
+DOI: 10.3390/s23041814
+PMCID: PMC9958609
+PMID: 36850412
+
+Conflict of interest statement: The authors declare no conflict of interest.

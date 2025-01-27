@@ -1,0 +1,42 @@
+1. G3 (Bethesda). 2016 Jul 7;6(7):2051-61. doi: 10.1534/g3.116.030601.
+
+CRISPR/Cas9-Mediated Insertion of loxP Sites in the Mouse Dock7 Gene Provides an 
+Effective Alternative to Use of Targeted Embryonic Stem Cells.
+
+Bishop KA(1), Harrington A(1), Kouranova E(2), Weinstein EJ(2), Rosen CJ(1), Cui 
+X(2), Liaw L(3).
+
+Author information:
+(1)Center for Molecular Medicine, Maine Medical Center Research Institute, 
+Scarborough, Maine 04074.
+(2)Horizon Discovery, St. Louis, Missouri 63146.
+(3)Center for Molecular Medicine, Maine Medical Center Research Institute, 
+Scarborough, Maine 04074 liawl@mmc.org.
+
+Targeted gene mutation in the mouse is a primary strategy to understand gene 
+function and relation to phenotype. The Knockout Mouse Project (KOMP) had an 
+initial goal to develop a public resource of mouse embryonic stem (ES) cell 
+clones that carry null mutations in all genes. Indeed, many useful novel mouse 
+models have been generated from publically accessible targeted mouse ES cell 
+lines. However, there are limitations, including incorrect targeting or cassette 
+structure, and difficulties with germline transmission of the allele from 
+chimeric mice. In our experience, using a small sample of targeted ES cell 
+clones, we were successful ∼50% of the time in generating germline transmission 
+of a correctly targeted allele. With the advent of CRISPR/Cas9 as a mouse genome 
+modification tool, we assessed the efficiency of creating a conditional targeted 
+allele in one gene, dedicator of cytokinesis 7 (Dock7), for which we were 
+unsuccessful in generating a null allele using a KOMP targeted ES cell clone. 
+The strategy was to insert loxP sites to flank either exons 3 and 4, or exons 3 
+through 7. By coinjecting Cas9 mRNA, validated sgRNAs, and oligonucleotide 
+donors into fertilized eggs from C57BL/6J mice, we obtained a variety of 
+alleles, including mice homozygous for the null alleles mediated by 
+nonhomologous end joining, alleles with one of the two desired loxP sites, and 
+correctly targeted alleles with both loxP sites. We also found frequent 
+mutations in the inserted loxP sequence, which is partly attributable to the 
+heterogeneity in the original oligonucleotide preparation.
+
+Copyright © 2016 Bishop et al.
+
+DOI: 10.1534/g3.116.030601
+PMCID: PMC4938658
+PMID: 27175020 [Indexed for MEDLINE]

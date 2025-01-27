@@ -1,0 +1,47 @@
+1. Plant Methods. 2005 Nov 9;1(1):10. doi: 10.1186/1746-4811-1-10.
+
+Using genomic DNA-based probe-selection to improve the sensitivity of 
+high-density oligonucleotide arrays when applied to heterologous species.
+
+Hammond JP(#)(1), Broadley MR(#)(2), Craigon DJ(3), Higgins J(3), Emmerson 
+ZF(3), Townsend HJ(3), White PJ(1), May ST(3).
+
+Author information:
+(1)Warwick HRI, University of Warwick, Wellesbourne, Warwick, CV35 9EF, UK.
+(2)Plant Sciences Division, School of Biosciences, University of Nottingham, 
+Sutton Bonington Campus, Loughborough, LE12 5RD, UK.
+(3)Nottingham Arabidopsis Stock Centre, School of Biosciences, University of 
+Nottingham, Sutton Bonington Campus, Loughborough, LE12 5RD, UK.
+(#)Contributed equally
+
+High-density oligonucleotide (oligo) arrays are a powerful tool for transcript 
+profiling. Arrays based on GeneChip technology are amongst the most widely used, 
+although GeneChip arrays are currently available for only a small number of 
+plant and animal species. Thus, we have developed a method to improve the 
+sensitivity of high-density oligonucleotide arrays when applied to heterologous 
+species and tested the method by analysing the transcriptome of Brassica 
+oleracea L., a species for which no GeneChip array is available, using a 
+GeneChip array designed for Arabidopsis thaliana (L.) Heynh. Genomic DNA from B. 
+oleracea was labelled and hybridised to the ATH1-121501 GeneChip array. 
+Arabidopsis thaliana probe-pairs that hybridised to the B. oleracea genomic DNA 
+on the basis of the perfect-match (PM) probe signal were then selected for 
+subsequent B. oleracea transcriptome analysis using a .cel file parser script to 
+generate probe mask files. The transcriptional response of B. oleracea to a 
+mineral nutrient (phosphorus; P) stress was quantified using probe mask files 
+generated for a wide range of gDNA hybridisation intensity thresholds. An 
+example probe mask file generated with a gDNA hybridisation intensity threshold 
+of 400 removed > 68 % of the available PM probes from the analysis but retained 
+>96 % of available A. thaliana probe-sets. Ninety-nine of these genes were then 
+identified as significantly regulated under P stress in B. oleracea, including 
+the homologues of P stress responsive genes in A. thaliana. Increasing the gDNA 
+hybridisation intensity thresholds up to 500 for probe-selection increased the 
+sensitivity of the GeneChip array to detect regulation of gene expression in B. 
+oleracea under P stress by up to 13-fold. Our open-source software to create 
+probe mask files is freely available 
+http://affymetrix.arabidopsis.info/xspecies/ and may be used to facilitate 
+transcriptomic analyses of a wide range of plant and animal species in the 
+absence of custom arrays.
+
+DOI: 10.1186/1746-4811-1-10
+PMCID: PMC1308859
+PMID: 16280083

@@ -1,0 +1,45 @@
+1. Adv Sci (Weinh). 2022 Dec;9(36):e2204453. doi: 10.1002/advs.202204453. Epub
+2022  Nov 13.
+
+Ultrafast Near-Ideal Phase-Change Memristive Physical Unclonable Functions 
+Driven by Amorphous State Variations.
+
+Go SX(1), Wang Q(1), Lim KG(1), Lee TH(2)(3), Bajalovic N(1), Loke DK(1).
+
+Author information:
+(1)Department of Science, Mathematics and Technology, Singapore University of 
+Technology and Design, Singapore, 487372, Singapore.
+(2)Department of Engineering, University of Cambridge, Trumpington Street, 
+Cambridge, CB2 1PZ, UK.
+(3)School of Materials Science and Engineering, Kyungpook National University, 
+Daegu, 41566, Republic of Korea.
+
+There is an ever-increasing demand for next-generation devices that do not 
+require passwords and are impervious to cloning. For traditional hardware 
+security solutions in edge computing devices, inherent limitations are addressed 
+by physical unclonable functions (PUF). However, realizing efficient roots of 
+trust for resource constrained hardware remains extremely challenging, despite 
+excellent demonstrations with conventional silicon circuits and archetypal oxide 
+memristor-based crossbars. An attractive, down-scalable approach to design 
+efficient cryptographic hardware is to harness memristive materials with a 
+large-degree-of-randomness in materials state variations, but this strategy is 
+still not well understood. Here, the utilization of high-degree-of-randomness 
+amorphous (A) state variations associated with different operating conditions 
+via thermal fluctuation effects is demonstrated, as well as an integrated 
+framework for in memory computing and next generation security primitives, viz., 
+APUF, for achieving secure key generation and device authentication. Near ideal 
+uniformity and uniqueness without additional initial writing overheads in weak 
+memristive A-PUF is achieved. In-memory computing empowers a strong exclusive OR 
+(XOR-) and-repeat A PUF construction to avoid machine learning attacks, while 
+rapid crystallization processes enable large-sized-key reconfigurability. These 
+findings pave the way for achieving a broadly applicable security primitive for 
+enhancing antipiracy of integrated systems and product authentication in supply 
+chains.
+
+© 2022 The Authors. Advanced Science published by Wiley-VCH GmbH.
+
+DOI: 10.1002/advs.202204453
+PMCID: PMC9798968
+PMID: 36372549
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,40 @@
+1. Hum Mutat. 2013 Jan;34(1):255-65. doi: 10.1002/humu.22214. Epub 2012 Oct 22.
+
+Calibration of multiple in silico tools for predicting pathogenicity of mismatch 
+repair gene missense substitutions.
+
+Thompson BA(1), Greenblatt MS, Vallee MP, Herkert JC, Tessereau C, Young EL, 
+Adzhubey IA, Li B, Bell R, Feng B, Mooney SD, Radivojac P, Sunyaev SR, Frebourg 
+T, Hofstra RM, Sijmons RH, Boucher K, Thomas A, Goldgar DE, Spurdle AB, 
+Tavtigian SV.
+
+Author information:
+(1)Queensland Institute of Medical Research, Herston, Brisbane, Australia.
+
+Classification of rare missense substitutions observed during genetic testing 
+for patient management is a considerable problem in clinical genetics. The 
+Bayesian integrated evaluation of unclassified variants is a solution originally 
+developed for BRCA1/2. Here, we take a step toward an analogous system for the 
+mismatch repair (MMR) genes (MLH1, MSH2, MSH6, and PMS2) that confer colon 
+cancer susceptibility in Lynch syndrome by calibrating in silico tools to 
+estimate prior probabilities of pathogenicity for MMR gene missense 
+substitutions. A qualitative five-class classification system was developed and 
+applied to 143 MMR missense variants. This identified 74 missense substitutions 
+suitable for calibration. These substitutions were scored using six different in 
+silico tools (Align-Grantham Variation Grantham Deviation, multivariate analysis 
+of protein polymorphisms [MAPP], MutPred, PolyPhen-2.1, Sorting Intolerant From 
+Tolerant, and Xvar), using curated MMR multiple sequence alignments where 
+possible. The output from each tool was calibrated by regression against the 
+classifications of the 74 missense substitutions; these calibrated outputs are 
+interpretable as prior probabilities of pathogenicity. MAPP was the most 
+accurate tool and MAPP + PolyPhen-2.1 provided the best-combined model (R(2)  = 
+0.62 and area under receiver operating characteristic = 0.93). The MAPP + 
+PolyPhen-2.1 output is sufficiently predictive to feed as a continuous variable 
+into the quantitative Bayesian integrated evaluation for clinical classification 
+of MMR gene missense substitutions.
+
+© 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/humu.22214
+PMCID: PMC4318556
+PMID: 22949387 [Indexed for MEDLINE]

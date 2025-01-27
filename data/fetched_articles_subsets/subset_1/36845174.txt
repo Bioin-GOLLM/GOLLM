@@ -1,0 +1,46 @@
+1. Front Bioeng Biotechnol. 2023 Feb 9;11:1125544. doi:
+10.3389/fbioe.2023.1125544.  eCollection 2023.
+
+In vivo implementation of a synthetic metabolic pathway for the 
+carbon-conserving conversion of glycolaldehyde to acetyl-CoA.
+
+Wagner N(1), Bade F(1), Straube E(1), Rabe K(1), Frazão CJR(1), Walther T(1).
+
+Author information:
+(1)TU Dresden, Institute of Natural Materials Technology, Dresden, Germany.
+
+Ethylene glycol (EG) derived from plastic waste or CO2 can serve as a substrate 
+for microbial production of value-added chemicals. Assimilation of EG proceeds 
+though the characteristic intermediate glycolaldehyde (GA). However, natural 
+metabolic pathways for GA assimilation have low carbon efficiency when producing 
+the metabolic precursor acetyl-CoA. In alternative, the reaction sequence 
+catalyzed by EG dehydrogenase, d-arabinose 5-phosphate aldolase, d-arabinose 
+5-phosphate isomerase, d-ribulose 5-phosphate 3-epimerase (Rpe), d-xylulose 
+5-phosphate phosphoketolase, and phosphate acetyltransferase may enable the 
+conversion of EG into acetyl-CoA without carbon loss. We investigated the 
+metabolic requirements for in vivo function of this pathway in Escherichia coli 
+by (over)expressing constituting enzymes in different combinations. Using 
+13C-tracer experiments, we first examined the conversion of EG to acetate via 
+the synthetic reaction sequence and showed that, in addition to heterologous 
+phosphoketolase, overexpression of all native enzymes except Rpe was required 
+for the pathway to function. Since acetyl-CoA could not be reliably quantified 
+by our LC/MS-method, the distribution of isotopologues in mevalonate, a stable 
+metabolite that is exclusively derived from this intermediate, was used to probe 
+the contribution of the synthetic pathway to biosynthesis of acetyl-CoA. We 
+detected strong incorporation of 13C carbon derived from labeled GA in all 
+intermediates of the synthetic pathway. In presence of unlabeled co-substrate 
+glycerol, 12.4% of the mevalonate (and therefore acetyl-CoA) was derived from 
+GA. The contribution of the synthetic pathway to acetyl-CoA production was 
+further increased to 16.1% by the additional expression of the native phosphate 
+acyltransferase enzyme. Finally, we demonstrated that conversion of EG to 
+mevalonate was feasible albeit at currently extremely small yields.
+
+Copyright © 2023 Wagner, Bade, Straube, Rabe, Frazão and Walther.
+
+DOI: 10.3389/fbioe.2023.1125544
+PMCID: PMC9947464
+PMID: 36845174
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

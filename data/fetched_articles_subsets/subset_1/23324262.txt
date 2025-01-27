@@ -1,0 +1,39 @@
+1. BMC Genomics. 2013 Jan 16;14:33. doi: 10.1186/1471-2164-14-33.
+
+Comparative gene expression between two yeast species.
+
+Guan Y(1), Dunham MJ, Troyanskaya OG, Caudy AA.
+
+Author information:
+(1)Lewis-Sigler Institute for Integrative Genomics, Princeton University, 
+Princeton, NJ 08544, USA.
+
+BACKGROUND: Comparative genomics brings insight into sequence evolution, but 
+even more may be learned by coupling sequence analyses with experimental tests 
+of gene function and regulation. However, the reliability of such comparisons is 
+often limited by biased sampling of expression conditions and incomplete 
+knowledge of gene functions across species. To address these challenges, we 
+previously systematically generated expression profiles in Saccharomyces bayanus 
+to maximize functional coverage as compared to an existing Saccharomyces 
+cerevisiae data repository.
+RESULTS: In this paper, we take advantage of these two data repositories to 
+compare patterns of ortholog expression in a wide variety of conditions. First, 
+we developed a scalable metric for expression divergence that enabled us to 
+detect a significant correlation between sequence and expression conservation on 
+the global level, which previous smaller-scale expression studies failed to 
+detect. Despite this global conservation trend, between-species gene expression 
+neighborhoods were less well-conserved than within-species comparisons across 
+different environmental perturbations, and approximately 4% of orthologs 
+exhibited a significant change in co-expression partners. Furthermore, our 
+analysis of matched perturbations collected in both species (such as diauxic 
+shift and cell cycle synchrony) demonstrated that approximately a quarter of 
+orthologs exhibit condition-specific expression pattern differences.
+CONCLUSIONS: Taken together, these analyses provide a global view of gene 
+expression patterns between two species, both in terms of the conditions and 
+timing of a gene's expression as well as co-expression partners. Our results 
+provide testable hypotheses that will direct future experiments to determine how 
+these changes may be specified in the genome.
+
+DOI: 10.1186/1471-2164-14-33
+PMCID: PMC3556494
+PMID: 23324262 [Indexed for MEDLINE]

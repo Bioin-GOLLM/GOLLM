@@ -1,0 +1,39 @@
+1. BMC Bioinformatics. 2016 Dec 22;17(Suppl 19):512. doi: 
+10.1186/s12859-016-1374-1.
+
+Molecular modeling and lead design of substituted zanamivir derivatives as 
+potent anti-influenza drugs.
+
+Dholakia D(1), Goyal S(2), Jamal S(2), Singh A(3), Das A(1), Grover A(4).
+
+Author information:
+(1)Department of Biotechnology, Delhi Technological University, New Delhi, 
+110042, India.
+(2)Department of Bioscience and Biotechnology, Banasthali University, Tonk, 
+Rajasthan, 304022, India.
+(3)Department of Biotechnology, TERI University, New Delhi, 110070, India.
+(4)School of Biotechnology, Jawaharlal Nehru University, New Delhi, 110067, 
+India. abhinavgr@gmail.com.
+
+BACKGROUND: Influenza virus spreads infection by two main surface glycoproteins, 
+namely hemagglutinin (HA) and neuraminidase (NA). NA cleaves the sialic acid 
+receptors eventually releasing newly formed virus particles which then invade 
+new cells. Inhibition of NA could limit the replication of virus to one round 
+which is insufficient to cause the disease.
+RESULTS: An experimentally reported series of acylguanidine zanamivir 
+derivatives was used to develop GQSAR model targeting NA in different strains of 
+influenza virus, H1N1 and H3N2. A combinatorial library was developed and their 
+inhibitory activities were predicted using the GQSAR model.
+CONCLUSION: The top leads were analyzed by docking which revealed the binding 
+modes of these inhibitors in the active site of NA (150-loop). The top compound 
+(AMA) was selected for carrying out molecular dynamics simulations for 15 ns 
+which provided insights into the time dependent dynamics of the designed leads. 
+AMA possessed a docking score of -8.26 Kcal/mol with H1N1 strain and -7.00 
+Kcal/mol with H3N2 strain. Ligand-bound complexes of both H1N1 and H3N2 were 
+observed to be stable for 11 ns and 7 ns respectively. ADME descriptors were 
+also calculated to study the pharmacokinetic properties of AMA which revealed 
+its drug-like properties.
+
+DOI: 10.1186/s12859-016-1374-1
+PMCID: PMC5259988
+PMID: 28155702 [Indexed for MEDLINE]

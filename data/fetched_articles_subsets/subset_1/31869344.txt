@@ -1,0 +1,59 @@
+1. PLoS Genet. 2019 Dec 23;15(12):e1008528. doi: 10.1371/journal.pgen.1008528. 
+eCollection 2019 Dec.
+
+A GWAS approach identifies Dapp1 as a determinant of air pollution-induced 
+airway hyperreactivity.
+
+Maazi H(1), Hartiala JA(2)(3), Suzuki Y(1), Crow AL(2)(3), Shafiei Jahani P(1), 
+Lam J(1), Patel N(1), Rigas D(1), Han Y(2)(3), Huang P(2)(3), Eskin E(4), Lusis 
+AJ(5)(6)(7), Gilliland FD(2), Akbari O(1), Allayee H(2)(3).
+
+Author information:
+(1)Departments of Molecular Microbiology and Immunology, Keck School of 
+Medicine, University of Southern California, Los Angeles, California, United 
+States of America.
+(2)Department of Preventive Medicine, Keck School of Medicine, University of 
+Southern California, Los Angeles, California, United States of America.
+(3)Department of Biochemistry & Molecular Medicine, Keck School of Medicine, 
+University of Southern California, Los Angeles, California, United States of 
+America.
+(4)Department of Computer Science and Inter-Departmental Program in 
+Bioinformatics, University of California, Los Angeles, Los Angeles, California, 
+United States of America.
+(5)Department of Human Genetics, David Geffen School of Medicine at UCLA, Los 
+Angeles, California, United States of America.
+(6)Department of Medicine, David Geffen School of Medicine at UCLA, Los Angeles, 
+California, United States of America.
+(7)Department of Microbiology, Immunology, and Molecular Genetics, David Geffen 
+School of Medicine at UCLA, Los Angeles, California, United States of America.
+
+Asthma is a chronic inflammatory disease of the airways with contributions from 
+genes, environmental exposures, and their interactions. While genome-wide 
+association studies (GWAS) in humans have identified ~200 susceptibility loci, 
+the genetic factors that modulate risk of asthma through gene-environment (GxE) 
+interactions remain poorly understood. Using the Hybrid Mouse Diversity Panel 
+(HMDP), we sought to identify the genetic determinants of airway hyperreactivity 
+(AHR) in response to diesel exhaust particles (DEP), a model traffic-related air 
+pollutant. As measured by invasive plethysmography, AHR under control and 
+DEP-exposed conditions varied 3-4-fold in over 100 inbred strains from the HMDP. 
+A GWAS with linear mixed models mapped two loci significantly associated with 
+lung resistance under control exposure to chromosomes 2 (p = 3.0x10-6) and 19 (p 
+= 5.6x10-7). The chromosome 19 locus harbors Il33 and is syntenic to asthma 
+association signals observed at the IL33 locus in humans. A GxE GWAS for 
+post-DEP exposure lung resistance identified a significantly associated locus on 
+chromosome 3 (p = 2.5x10-6). Among the genes at this locus is Dapp1, an adaptor 
+molecule expressed in immune-related and mucosal tissues, including the lung. 
+Dapp1-deficient mice exhibited significantly lower AHR than control mice but 
+only after DEP exposure, thus functionally validating Dapp1 as one of the genes 
+underlying the GxE association at this locus. In summary, our results indicate 
+that some of the genetic determinants for asthma-related phenotypes may be 
+shared between mice and humans, as well as the existence of GxE interactions in 
+mice that modulate lung function in response to air pollution exposures relevant 
+to humans.
+
+DOI: 10.1371/journal.pgen.1008528
+PMCID: PMC6944376
+PMID: 31869344 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

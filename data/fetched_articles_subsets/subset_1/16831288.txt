@@ -1,0 +1,30 @@
+1. Ai Zheng. 2006 Jul;25(7):906-10.
+
+[Screening and analysis of coding SNPs of HLA-DQA1 gene involved in 
+susceptibility for cervical cancer].
+
+[Article in Chinese]
+
+Li YY(1), Xing J, Zhao LS, Li YN, Wang YC, Zhang WM.
+
+Author information:
+(1)Laboratory of Molecular Biology, Basic Medical Research Center, Tianjin 
+Medical University, Tianjin 300070, P. R. China. yanyun_li@yeah.net
+
+BACKGROUND & OBJECTIVE: Polymorphisms of human leukocyte antigen (HLA) gene play 
+an important role in the development of cervical cancer. This study was to 
+screen single nucleotide polymorphisms (SNPs) of HLA-DQA1 gene involved in 
+susceptibility of cervical cancer by a bioinformatics approach, and analyze 
+their correlations to abnormal gene functions.
+METHODS: SNPs of HLA-DQA1 were screened from a public database dbSNP by SNPper 
+software, and relevant FASTA subsequences were also obtained from dbSNP. 
+PARSESNP software was used to analyze cSNPs.
+RESULTS: Two SNPs, rs9272693 and rs9272703, which may induce mis-sense mutation, 
+were identified in codon region of HLA-DQA1 gene. A PSSM difference>10 was used 
+to predict deleterious mutation.
+CONCLUSIONS: SNPper software in combination with PARSESNP software could be used 
+to analyze SNPs of HLA-DQA1 gene and select the variants in a conserved region, 
+and it provides an evaluation criterion. But the results need to be verified in 
+cervical cancer patients and control populations.
+
+PMID: 16831288 [Indexed for MEDLINE]

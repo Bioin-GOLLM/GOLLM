@@ -1,0 +1,65 @@
+1. Front Cell Neurosci. 2019 Oct 17;13:467. doi: 10.3389/fncel.2019.00467. 
+eCollection 2019.
+
+Automated Live-Cell Imaging of Synapses in Rat and Human Neuronal Cultures.
+
+Green MV(1), Pengo T(2), Raybuck JD(1), Naqvi T(3), McMullan HM(1), Hawkinson 
+JE(3), Marron Fernandez de Velasco E(1), Muntean BS(4), Martemyanov KA(4), 
+Satterfield R(5), Young SM Jr(6)(7), Thayer SA(1).
+
+Author information:
+(1)Department of Pharmacology, University of Minnesota Medical School, 
+Minneapolis, MN, United States.
+(2)Informatics Institute, University of Minnesota, Minneapolis, MN, United 
+States.
+(3)Institute for Therapeutics Discovery and Development, University of 
+Minnesota, Minneapolis, MN, United States.
+(4)Department of Neuroscience, Scripps Research Institute, Jupiter, FL, United 
+States.
+(5)Max Planck Florida Institute for Neuroscience, Jupiter, FL, United States.
+(6)Department of Anatomy and Cell Biology, Iowa Neuroscience Institute, 
+University of Iowa, Iowa City, IA, United States.
+(7)Department of Otolaryngology, University of Iowa, Iowa City, IA, United 
+States.
+
+Synapse loss and dendritic damage correlate with cognitive decline in many 
+neurodegenerative diseases, underlie neurodevelopmental disorders, and are 
+associated with environmental and drug-induced CNS toxicities. However, 
+screening assays designed to measure loss of synaptic connections between live 
+cells are lacking. Here, we describe the design and validation of automated 
+synaptic imaging assay (ASIA), an efficient approach to label, image, and 
+analyze synapses between live neurons. Using viral transduction to express 
+fluorescent proteins that label synapses and an automated computer-controlled 
+microscope, we developed a method to identify agents that regulate synapse 
+number. ASIA is compatible with both confocal and wide-field microscopy; 
+wide-field image acquisition is faster but requires a deconvolution step in the 
+analysis. Both types of images feed into batch processing analysis software that 
+can be run on ImageJ, CellProfiler, and MetaMorph platforms. Primary analysis 
+endpoints are the number of structural synapses and cell viability. Thus, overt 
+cell death is differentiated from subtle changes in synapse density, an 
+important distinction when studying neurodegenerative processes. In rat 
+hippocampal cultures treated for 24 h with 100 μM 2-bromopalmitic acid (2-BP), a 
+compound that prevents clustering of postsynaptic density 95 (PSD95), ASIA 
+reliably detected loss of postsynaptic density 95-enhanced green fluorescent 
+protein (PSD95-eGFP)-labeled synapses in the absence of cell death. In contrast, 
+treatment with 100 μM glutamate produced synapse loss and significant cell 
+death, determined from morphological changes in a binary image created from 
+co-expressed mCherry. Treatment with 3 mM lithium for 24 h significantly 
+increased the number of fluorescent puncta, showing that ASIA also detects 
+synaptogenesis. Proof of concept studies show that cell-specific promoters 
+enable the selective study of inhibitory or principal neurons and that 
+alternative reporter constructs enable quantification of GABAergic or 
+glutamatergic synapses. ASIA can also be used to study synapse loss between 
+human induced pluripotent stem cell (iPSC)-derived cortical neurons. Significant 
+synapse loss in the absence of cell death was detected in the iPSC-derived 
+neuronal cultures treated with either 100 μM 2-BP or 100 μM glutamate for 24 h, 
+while 300 μM glutamate produced synapse loss and cell death. ASIA shows promise 
+for identifying agents that evoke synaptic toxicities and screening for 
+compounds that prevent or reverse synapse loss.
+
+Copyright © 2019 Green, Pengo, Raybuck, Naqvi, McMullan, Hawkinson, Marron 
+Fernandez de Velasco, Muntean, Martemyanov, Satterfield, Young and Thayer.
+
+DOI: 10.3389/fncel.2019.00467
+PMCID: PMC6811609
+PMID: 31680875

@@ -1,0 +1,39 @@
+1. Hum Hered. 2016;81(2):117-126. doi: 10.1159/000448733. Epub 2017 Jan 12.
+
+Identifying Host Genetic Variants Associated with Microbiome Composition by 
+Testing Multiple Beta Diversity Matrices.
+
+Hua X(1), Goedert JJ, Landi MT, Shi J.
+
+Author information:
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institute of Health, Bethesda, Md., USA.
+
+OBJECTIVES: Host genetics have been recently reported to affect human microbiome 
+composition. We previously developed a statistical framework, microbiomeGWAS, to 
+identify host genetic variants associated with microbiome composition by testing 
+a distance matrix. However, statistical power depends on the choice of a 
+microbiome distance matrix. To achieve more robust statistical power, we aim to 
+extend microbiomeGWAS to test the association with many distance matrices, which 
+are defined based on multilevel taxa abundances and phylogenetic information.
+METHODS: The main challenge is to accurately and rapidly evaluate the 
+significance for millions of SNPs. We propose methods for approximating p values 
+by correcting for the multiple testing introduced by testing many distance 
+matrices and by correcting for the skewness and kurtosis of score statistics.
+RESULTS: The accuracy of p value approximation was verified by simulations. We 
+applied our method to a set of 147 lung cancer patients with 16S rRNA microbiome 
+profiles from nonmalignant lung tissues. We show that correcting for skewness 
+and kurtosis eliminated dramatic deviations in the quantile-quantile plot.
+CONCLUSION: We developed computationally efficient methods for identifying host 
+genetic variants associated with microbiome composition by testing many distance 
+matrices. The algorithms are implemented in the package microbiomeGWAS 
+(https://github.com/lsncibb/microbiomeGWAS).
+
+© 2017 S. Karger AG, Basel.
+
+DOI: 10.1159/000448733
+PMCID: PMC6540989
+PMID: 28076867 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Statement The authors declare no 
+conflict of interest.

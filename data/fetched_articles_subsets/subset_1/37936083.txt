@@ -1,0 +1,65 @@
+1. BMC Infect Dis. 2023 Nov 7;23(1):766. doi: 10.1186/s12879-023-08778-9.
+
+Causal effects of genetically vitamins and sepsis risk: a two-sample Mendelian 
+randomization study.
+
+Lou C(1), Meng Z(2), Shi Y(3), Zheng R(4), Pan J(5)(6)(7)(8), Qian S(9).
+
+Author information:
+(1)School of The First Clinical Medical Sciences, Wenzhou Medical University, 
+Wenzhou, 325000, China.
+(2)Department of Emergency, The Fourth Affiliated Hospital, Zhejiang University 
+School of Medicine, Yiwu, China.
+(3)Department of Anesthesiology, The First Affiliated Hospital of Wenzhou 
+Medical University, Wenzhou, 325000, China.
+(4)Department of Critical Care Medicine, Sir Run Run Shaw Hospital, School of 
+Medicine, Zhejiang University, Hangzhou, Zhejiang, 310016, China.
+(5)Department of Intensive Care Unit, The First Affiliated Hospital of Wenzhou 
+Medical University, Wenzhou, 325000, China. wmupanjingye@126.com.
+(6)Wenzhou Key Laboratory of Critical Care and Artificial Intelligence, Wenzhou, 
+China. wmupanjingye@126.com.
+(7)Key Laboratory of Intelligent Treatment and Life Support for Critical 
+Diseases of Zhejiang Provincial, Wenzhou, Zhejiang, 325000, People's Republic of 
+China. wmupanjingye@126.com.
+(8)Zhejiang Engineering Research Center for Hospital Emergency and Process 
+Digitization, Wenzhou, Zhejiang, 325000, China. wmupanjingye@126.com.
+(9)Department of Intensive Care Unit, The First Affiliated Hospital of Wenzhou 
+Medical University, Wenzhou, 325000, China. 284549910@qq.com.
+
+BACKGROUND: In recent years, observational studies have been conducted to 
+investigate the potential impact of vitamins on sepsis. However, many of these 
+studies have produced inconsistent results. Our Mendelian randomization (MR) 
+study aims to evaluate the causality between vitamins and sepsis from a genetic 
+perspective.
+METHODS: Our MR study was designed following the STROBE-MR guidelines. Genetic 
+instrumental variables for vitamins including folate, vitamin B12, B6, A 
+(Retinol), C, D, and K were obtained from previous genome-wide association 
+studies (GWAS) and MR studies. Five different sepsis severity levels were 
+included in the analysis. The genetic instrumental variables were screened for 
+potential confounders using PhenoScanner V2. MR analysis was performed using 
+MR-egger, inverse-variance weighted multiplicative random effects (IVW-RE), 
+inverse-variance weighted multiplicative fixed-effects (IVW-FE), and wald ratio 
+methods to assess the relationship between vitamins and sepsis. Sensitivity 
+analysis was performed using the MR-egger_intercept method, and the MR-PRESSO 
+package and Cochran's Q test were used to evaluate the heterogeneity of the 
+instrumental variables.
+RESULTS: Our MR study found no statistically significant association between 
+vitamins and sepsis risk, regardless of the type of vitamin (P-value > 0.05). 
+The odds ratios (ORs) for folate, vitamin B6, vitamin B12, vitamin A, vitamin D, 
+vitamin K, and vitamin C were 1.164 (95% CI: 0.895-1.514), 0.987 (95% CI: 
+0.969-1.005), 0.975 (95% CI: 0.914-1.041), 0.993 (95% CI: 0.797-1.238), 0.861 
+(95% CI: 0.522-1.42), 0.955 (95% CI: 0.86-1.059), and 1.049 (95% CI: 
+0.911-1.208), respectively. Similar results were observed in subgroups of 
+different sepsis severity levels.
+CONCLUSIONS: Our MR study found no evidence of a causal association between 
+vitamins and sepsis risk from a genetic perspective. Further randomized 
+controlled trials are necessary to confirm these results.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12879-023-08778-9
+PMCID: PMC10629037
+PMID: 37936083 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

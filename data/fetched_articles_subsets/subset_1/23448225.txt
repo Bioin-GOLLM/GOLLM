@@ -1,0 +1,36 @@
+1. BMC Genet. 2013 Mar 1;14:14. doi: 10.1186/1471-2156-14-14.
+
+A comparison of tests for Hardy-Weinberg Equilibrium in national genetic 
+household surveys.
+
+Li Y(1).
+
+Author information:
+(1)Joint Program in Survey Methodology, University of Maryland at College Park, 
+College Park, MD 20742, USA. yli@survey.umd.edu
+
+BACKGROUND: This study is motivated by National Household Surveys that collect 
+genetic data, in which complex samples (e.g. stratified multistage cluster 
+sample), partially from the same family, are selected. In addition to the 
+differential selection probabilities of selecting households and persons within 
+the sampled households, there are two levels of correlations of the collected 
+genetic data in National Genetic Household Surveys (NGHS). The first level of 
+correlation is induced by the hierarchical geographic clustered sampling of 
+households and the second level of correlation is induced by biological 
+inheritances from individuals sampled in the same household.
+RESULTS: To test for Hardy-Weinberg Equilibrium (HWE) in NGHS, two test 
+statistics, the CCS method [1] and the QS method [2], appear to be the only 
+existing methods that take account of both correlations. In this paper, I 
+evaluate both methods in terms of the test size and power under a variety of 
+complex designs with different weighting schemes and varying magnitudes of the 
+two correlation effects. Both methods are applied to a real data example from 
+the Hispanic Health and Nutrition Examination Survey with simulated genotype 
+data.
+CONCLUSIONS: The QS method maintains the nominal size well and consistently 
+achieves higher power than the CCS method in testing HWE under a variety of 
+sample designs, and therefore is recommended for testing HWE of genetic survey 
+data with complex designs.
+
+DOI: 10.1186/1471-2156-14-14
+PMCID: PMC3606615
+PMID: 23448225 [Indexed for MEDLINE]

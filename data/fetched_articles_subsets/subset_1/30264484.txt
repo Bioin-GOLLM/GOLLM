@@ -1,0 +1,37 @@
+1. J Mol Recognit. 2019 Mar;32(3):e2765. doi: 10.1002/jmr.2765. Epub 2018 Sep 27.
+
+pH-dependent conformational dynamics of beta-secretase 1: A molecular dynamics 
+study.
+
+Mermelstein DJ(1), McCammon JA(2), Walker RC(1)(3).
+
+Author information:
+(1)Department of Chemistry and Biochemistry, University of California San Diego, 
+La Jolla, California.
+(2)Department of Chemistry and Biochemistry, Department of Pharmacology, 
+University of California San Diego, La Jolla, California.
+(3)Department of Scientific Research Computing and Analytics, GlaxoSmithKline 
+PLC, Collegeville, Pennsylvania.
+
+Beta-secretase 1 (BACE-1) is an aspartyl protease implicated in the 
+overproduction of β-amyloid fibrils responsible for Alzheimer disease. The 
+process of β-amyloid genesis is known to be pH dependent, with an activity peak 
+between solution pH of 3.5 and 5.5. We have studied the pH-dependent dynamics of 
+BACE-1 to better understand the pH dependent mechanism. We have implemented 
+support for graphics processor unit (GPU) accelerated constant pH molecular 
+dynamics within the AMBER molecular dynamics software package and employed this 
+to determine the relative population of different aspartyl dyad protonation 
+states in the pH range of greatest β-amyloid production, followed by 
+conventional molecular dynamics to explore the differences among the various 
+aspartyl dyad protonation states. We observed a difference in dynamics between 
+double-protonated, mono-protonated, and double-deprotonated states over the 
+known pH range of higher activity. These differences include Tyr 71-aspartyl 
+dyad proximity and active water lifetime. This work indicates that Tyr 71 
+stabilizes catalytic water in the aspartyl dyad active site, enabling BACE-1 
+activity.
+
+© 2018 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jmr.2765
+PMCID: PMC6476308
+PMID: 30264484 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. J Chem Inf Model. 2023 Feb 27;63(4):1301-1312. doi: 10.1021/acs.jcim.2c01586. 
+Epub 2023 Feb 10.
+
+Mechanistic Modeling of Lys745 Sulfonylation in EGFR C797S Reveals Chemical 
+Determinants for Inhibitor Activity and Discriminates Reversible from 
+Irreversible Agents.
+
+Arafet K(1)(2), Scalvini L(1), Galvani F(1), Martí S(2), Moliner V(2), Mor 
+M(1)(3), Lodola A(1).
+
+Author information:
+(1)Dipartimento di Scienze degli Alimenti e del Farmaco, Università degli Studi 
+di Parma, Parco Area delle Scienze 27/A, I- 43124 Parma, Italy.
+(2)BioComp Group, Institute of Advanced Materials (INAM), Universitat Jaume I, 
+12071 Castelló, Spain.
+(3)Microbiome Research Hub, University of Parma, Parco Area delle Scienze 11/A, 
+I-43124 Parma, Italy.
+
+Targeted covalent inhibitors hold promise for drug discovery, particularly for 
+kinases. Targeting the catalytic lysine of epidermal growth factor receptor 
+(EGFR) has attracted attention as a new strategy to overcome resistance due to 
+the emergence of C797S mutation. Sulfonyl fluoride derivatives able to inhibit 
+EGFRL858R/T790M/C797S by sulfonylation of Lys745 have been reported. However, 
+atomistic details of this process are still poorly understood. Here, we describe 
+the mechanism of inhibition of an innovative class of compounds that covalently 
+engage the catalytic lysine of EGFR, through a sulfur(VI) fluoride exchange 
+(SuFEx) process, with the help of hybrid quantum mechanics/molecular mechanics 
+(QM/MM) and path collective variables (PCVs) approaches. Our simulations 
+identify the chemical determinants accounting for the irreversible activity of 
+agents targeting Lys745 and provide hints for the further optimization of 
+sulfonyl fluoride agents.
+
+DOI: 10.1021/acs.jcim.2c01586
+PMCID: PMC9976278
+PMID: 36762429 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

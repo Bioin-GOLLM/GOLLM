@@ -1,0 +1,39 @@
+1. Nucleic Acids Res. 2019 Dec 2;47(21):e140. doi: 10.1093/nar/gkz806.
+
+Next-generation forward genetic screens: using simulated data to improve the 
+design of mapping-by-sequencing experiments in Arabidopsis.
+
+Wilson-Sánchez D(1), Lup SD(1), Sarmiento-Mañús R(1), Ponce MR(1), Micol JL(1).
+
+Author information:
+(1)Instituto de Bioingeniería, Universidad Miguel Hernández, Campus de Elche, 
+03202 Elche, Spain.
+
+Forward genetic screens have successfully identified many genes and continue to 
+be powerful tools for dissecting biological processes in Arabidopsis and other 
+model species. Next-generation sequencing technologies have revolutionized the 
+time-consuming process of identifying the mutations that cause a phenotype of 
+interest. However, due to the cost of such mapping-by-sequencing experiments, 
+special attention should be paid to experimental design and technical decisions 
+so that the read data allows to map the desired mutation. Here, we simulated 
+different mapping-by-sequencing scenarios. We first evaluated which short-read 
+technology was best suited for analyzing gene-rich genomic regions in 
+Arabidopsis and determined the minimum sequencing depth required to confidently 
+call single nucleotide variants. We also designed ways to discriminate 
+mutagenesis-induced mutations from background Single Nucleotide Polymorphisms in 
+mutants isolated in Arabidopsis non-reference lines. In addition, we simulated 
+bulked segregant mapping populations for identifying point mutations and 
+monitored how the size of the mapping population and the sequencing depth affect 
+mapping precision. Finally, we provide the computational basis of a protocol 
+that we already used to map T-DNA insertions with paired-end Illumina-like 
+reads, using very low sequencing depths and pooling several mutants together; 
+this approach can also be used with single-end reads as well as to map any other 
+insertional mutagen. All these simulations proved useful for designing 
+experiments that allowed us to map several mutations in Arabidopsis.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkz806
+PMCID: PMC6868388
+PMID: 31544937 [Indexed for MEDLINE]

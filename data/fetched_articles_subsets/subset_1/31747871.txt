@@ -1,0 +1,63 @@
+1. BMC Genomics. 2019 Nov 20;20(1):878. doi: 10.1186/s12864-019-6265-1.
+
+Infection and RNA-seq analysis of a zebrafish tlr2 mutant shows a broad function 
+of this toll-like receptor in transcriptional and metabolic control and defense 
+to Mycobacterium marinum infection.
+
+Hu W(1), Yang S(1)(2), Shimada Y(1)(3), Münch M(4)(5), Marín-Juez R(1)(6), 
+Meijer AH(1), Spaink HP(7).
+
+Author information:
+(1)Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the 
+Netherlands.
+(2)Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, 
+Chinese Academy of Sciences, Shenzhen, 518055, China.
+(3)Department of Integrative Pharmacology, Mie University Graduate School of 
+Medicine, Tsu, Japan.
+(4)Mathematical Institute, Leiden University, Leiden, the Netherlands.
+(5)Department of Epidemiology & Biostatistics, Amsterdam Public Health Research 
+Institute, Amsterdam University Medical Center, Amsterdam, the Netherlands.
+(6)Department of Developmental Genetics, Max Planck Institute for Heart and Lung 
+Research, Ludwigstrasse 43, 61231, Bad Nauheim, Germany.
+(7)Institute of Biology, Leiden University, P.O. Box 9505, 2300 RA, Leiden, the 
+Netherlands. h.p.spaink@biology.leidenuniv.nl.
+
+BACKGROUND: The function of Toll-like receptor 2 (TLR2) in host defense against 
+pathogens, especially Mycobacterium tuberculosis (Mtb) is poorly understood. To 
+investigate the role of TLR2 during mycobacterial infection, we analyzed the 
+response of tlr2 zebrafish mutant larvae to infection with Mycobacterium marinum 
+(Mm), a close relative to Mtb, as a model for tuberculosis. We measured 
+infection phenotypes and transcriptome responses using RNA deep sequencing in 
+mutant and control larvae.
+RESULTS: tlr2 mutant embryos at 2 dpf do not show differences in numbers of 
+macrophages and neutrophils compared to control embryos. However, we found 
+substantial changes in gene expression in these mutants, particularly in 
+metabolic pathways, when compared with the heterozygote tlr2+/- control. At 
+4 days after Mm infection, the total bacterial burden and the presence of 
+extracellular bacteria were higher in tlr2-/- larvae than in tlr2+/-, or tlr2+/+ 
+larvae, whereas granuloma numbers were reduced, showing a function of Tlr2 in 
+zebrafish host defense. RNAseq analysis of infected tlr2-/- versus tlr2+/- shows 
+that the number of up-regulated and down-regulated genes in response to 
+infection was greatly diminished in tlr2 mutants by at least 2 fold and 10 fold, 
+respectively. Analysis of the transcriptome data and qPCR validation shows that 
+Mm infection of tlr2 mutants leads to decreased mRNA levels of genes involved in 
+inflammation and immune responses, including il1b, tnfb, cxcl11aa/ac, fosl1a, 
+and cebpb. Furthermore, RNAseq analyses revealed that the expression of genes 
+for Maf family transcription factors, vitamin D receptors, and Dicps proteins is 
+altered in tlr2 mutants with or without infection. In addition, the data 
+indicate a function of Tlr2 in the control of induction of cytokines and 
+chemokines, such as the CXCR3-CXCL11 signaling axis.
+CONCLUSION: The transcriptome and infection burden analyses show a function of 
+Tlr2 as a protective factor against mycobacteria. Transcriptome analysis 
+revealed tlr2-specific pathways involved in Mm infection, which are related to 
+responses to Mtb infection in human macrophages. Considering its dominant 
+function in control of transcriptional processes that govern defense responses 
+and metabolism, the TLR2 protein can be expected to be also of importance for 
+other infectious diseases and interactions with the microbiome.
+
+DOI: 10.1186/s12864-019-6265-1
+PMCID: PMC6869251
+PMID: 31747871 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

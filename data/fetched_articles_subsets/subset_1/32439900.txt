@@ -1,0 +1,362 @@
+1. Nat Commun. 2020 May 21;11(1):2542. doi: 10.1038/s41467-020-15706-x.
+
+Multi-ancestry GWAS of the electrocardiographic PR interval identifies 202 loci 
+underlying cardiac conduction.
+
+Ntalla I(#)(1), Weng LC(#)(2)(3), Cartwright JH(1), Hall AW(2)(3), 
+Sveinbjornsson G(4), Tucker NR(2)(3), Choi SH(3), Chaffin MD(3), Roselli 
+C(3)(5), Barnes MR(1)(6), Mifsud B(1)(7), Warren HR(1)(6), Hayward C(8), Marten 
+J(8), Cranley JJ(1), Concas MP(9), Gasparini P(9)(10), Boutin T(8), Kolcic 
+I(11), Polasek O(11)(12)(13), Rudan I(14), Araujo NM(15), Lima-Costa MF(16), 
+Ribeiro ALP(17), Souza RP(15), Tarazona-Santos E(15), Giedraitis V(18), 
+Ingelsson E(19)(20)(21)(22), Mahajan A(23), Morris AP(23)(24)(25), Del Greco M 
+F(26), Foco L(26), Gögele M(26), Hicks AA(26), Cook JP(24), Lind L(27), Lindgren 
+CM(28)(29)(30), Sundström J(31), Nelson CP(32)(33), Riaz MB(32)(33), Samani 
+NJ(32)(33), Sinagra G(34), Ulivi S(9), Kähönen M(35)(36), Mishra PP(37)(38), 
+Mononen N(37)(38), Nikus K(39)(40), Caulfield MJ(1)(6), Dominiczak A(41), 
+Padmanabhan S(41)(42), Montasser ME(43)(44), O'Connell JR(43)(44), Ryan 
+K(43)(44), Shuldiner AR(43)(44), Aeschbacher S(45), Conen D(45)(46), Risch 
+L(47)(48)(49), Thériault S(46)(50), Hutri-Kähönen N(51)(52), Lehtimäki 
+T(37)(38), Lyytikäinen LP(37)(38)(39), Raitakari OT(53)(54)(55), Barnes CLK(14), 
+Campbell H(14), Joshi PK(14), Wilson JF(8)(14), Isaacs A(56), Kors JA(57), van 
+Duijn CM(58), Huang PL(2), Gudnason V(59)(60), Harris TB(61), Launer LJ(61), 
+Smith AV(59)(62), Bottinger EP(63), Loos RJF(63)(64), Nadkarni GN(63), Preuss 
+MH(63), Correa A(65), Mei H(66), Wilson J(67), Meitinger T(68)(69)(70), 
+Müller-Nurasyid M(68)(71)(72)(73), Peters A(68)(74)(75), Waldenberger 
+M(68)(75)(76), Mangino M(77)(78), Spector TD(77), Rienstra M(5), van de Vegte 
+YJ(5), van der Harst P(5), Verweij N(5)(79), Kääb S(68)(73), Schramm 
+K(68)(71)(73), Sinner MF(68)(73), Strauch K(71)(72), Cutler MJ(80), Fatkin 
+D(81)(82)(83), London B(84), Olesen M(85)(86), Roden DM(87), Benjamin Shoemaker 
+M(88), Gustav Smith J(89), Biggs ML(90)(91), Bis JC(90), Brody JA(90), Psaty 
+BM(90)(92)(93), Rice K(91), Sotoodehnia N(90)(92)(94), De Grandi A(26), 
+Fuchsberger C(26), Pattaro C(26), Pramstaller PP(26), Ford I(95), Wouter Jukema 
+J(96)(97), Macfarlane PW(98), Trompet S(99), Dörr M(100)(101), Felix 
+SB(100)(101), Völker U(100)(102), Weiss S(100)(102), Havulinna AS(103)(104), 
+Jula A(103), Sääksjärvi K(103), Salomaa V(103), Guo X(105), Heckbert SR(106), 
+Lin HJ(105), Rotter JI(105), Taylor KD(105), Yao J(107), de Mutsert R(108), Maan 
+AC(96), Mook-Kanamori DO(108)(109), Noordam R(99), Cucca F(110), Ding J(111), 
+Lakatta EG(112), Qian Y(111), Tarasov KV(112), Levy D(113)(114), Lin 
+H(114)(115), Newton-Cheh CH(3)(116), Lunetta KL(114)(117), Murray AD(118), 
+Porteous DJ(119)(120), Smith BH(121), Stricker BH(122), Uitterlinden A(123), van 
+den Berg ME(122), Haessler J(124), Jackson RD(125), Kooperberg C(124), Peters 
+U(124), Reiner AP(124)(92), Whitsel EA(126), Alonso A(127), Arking DE(128), 
+Boerwinkle E(129), Ehret GB(130), Soliman EZ(131), Avery CL(132)(133), Gogarten 
+SM(91), Kerr KF(91), Laurie CC(91), Seyerle AA(134), Stilp A(91), Assa S(5), 
+Abdullah Said M(5), Yldau van der Ende M(5), Lambiase PD(135)(136), Orini 
+M(135)(137), Ramirez J(1)(136), Van Duijvenboden S(1)(136), Arnar 
+DO(4)(60)(138), Gudbjartsson DF(4)(139), Holm H(4), Sulem P(4), Thorleifsson 
+G(4), Thorolfsdottir RB(4)(60), Thorsteinsdottir U(4)(60), Benjamin 
+EJ(114)(140)(141), Tinker A(1)(6), Stefansson K(4)(60), Ellinor PT(2)(3)(142), 
+Jamshidi Y(143), Lubitz SA(144)(145)(146), Munroe PB(147)(148).
+
+Author information:
+(1)William Harvey Research Institute, Barts and The London School of Medicine 
+and Dentistry, Queen Mary University of London, London, UK.
+(2)Cardiovascular Research Center, Massachusetts General Hospital, Boston, MA, 
+USA.
+(3)Program in Medical and Population Genetics, The Broad Institute of MIT and 
+Harvard, Cambridge, MA, USA.
+(4)deCODE genetics/Amgen, Inc., Reykjavik, Iceland.
+(5)Department of Cardiology, University of Groningen, University Medical Center 
+Groningen, Groningen, The Netherlands.
+(6)National Institute for Health Research, Barts Cardiovascular Biomedical 
+Research Centre, Queen Mary University of London, London, UK.
+(7)College of Health and Life Sciences, Hamad Bin Khalifa University, Education 
+City, Doha, Qatar.
+(8)Medical Research Council Human Genetics Unit, Institute of Genetics and 
+Molecular Medicine, University of Edinburgh, Edinburgh, UK.
+(9)Institute for Maternal and Child Health-IRCCS 'Burlo Garofolo', Trieste, 
+Italy.
+(10)Department of Medicine, Surgery and Health Science, University of Trieste, 
+Trieste, Italy.
+(11)University of Split School of Medicine, Split, Croatia.
+(12)Clinical Hospital Centre Split, Split, Croatia.
+(13)Psychiatric Hospital Sveti Ivan, Zagreb, Croatia.
+(14)Centre for Global Health Research, Usher Institute of Population Health 
+Sciences and Informatics, University of Edinburgh, Edinburgh, UK.
+(15)Departamento de Biologia Geral, Universidade Federal de Minas Gerais, Belo 
+Horizonte, Minas Gerais, Brazil.
+(16)Rene Rachou Reserch Institute, Oswaldo Cruz Foundation, Belo Horizonte, 
+Minas Gerais, Brazil.
+(17)Hospital das Clínicas e Faculdade de Medicina, Universidade Federal de Minas 
+Gerais, Belo Horizonte, Minas Gerais, Brazil.
+(18)Department of Public Health, Geriatrics, Uppsala University, Uppsala, 
+Sweden.
+(19)Department of Medicine, Division of Cardiovascular Medicine, Stanford 
+University School of Medicine, Stanford, CA, USA.
+(20)Stanford Cardiovascular Institute, Stanford University, Stanford, CA, USA.
+(21)Stanford Diabetes Research Center, Stanford University, Stanford, CA, USA.
+(22)Department of Medical Sciences, Molecular Epidemiology and Science for Life 
+Laboratory, Uppsala University, Uppsala, Sweden.
+(23)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK.
+(24)Department of Biostatistics, University of Liverpool, Liverpool, UK.
+(25)Division of Musculoskeletal and Dermatological Sciences, University of 
+Manchester, Manchester, UK.
+(26)Institute for Biomedicine, Eurac Research, Affiliated Institute of the 
+University of Lübeck, Bolzano, Italy.
+(27)Medical Sciences, Uppsala University Hospital, Uppsala, Sweden.
+(28)Nuffield Department of Medicine, Li Ka Shing Centre for Health Information 
+and Discovery, Big Data Institute, University of Oxford, Oxford, UK.
+(29)Nuffield Department of Medicine, The Wellcome Centre for Human Genetics, 
+University of Oxford, Oxford, UK.
+(30)The Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(31)Department of Medical Sciences, Uppsala University, Uppsala, Sweden.
+(32)Department of Cardiovascular Sciences, Cardiovascular Research Centre, 
+Glenfield Hospital, University of Leicester, Leicester, UK.
+(33)NIHR Leicester Biomedical Research Centre, Glenfield Hospital, Groby Road, 
+Leicester, UK.
+(34)Cardiovascular Department, Azienda Ospedaliera Universitaria Integrata of 
+Trieste, Trieste, Italy.
+(35)Department of Clinical Physiology, Tampere University Hospital, Tampere, 
+Finland.
+(36)Department of Clinical Physiology, Faculty of Medicine and Health 
+Technology, Finnish Cardiovascular Research Center Tampere University, Tampere, 
+Finland.
+(37)Department of Clinical Chemistry, Fimlab Laboratories, Tampere, Finland.
+(38)Department of Clinical Chemistry, Faculty of Medicine and Health Technology, 
+Finnish Cardiovascular Research Center, Tampere University, Tampere, Finland.
+(39)Department of Cardiology, Heart Center, Tampere University Hospital, 
+Tampere, Finland.
+(40)Department of Cardiology, Finnish Cardiovascular Research Center, Faculty of 
+Medicine and Health Technology, Tampere University, Tampere, Finland.
+(41)Institute of Cardiovascular and Medical Sciences, College of Medical, 
+Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.
+(42)Institute of Cardiovascular and Medical Sciences, University of Glasgow, 
+Glasgow, UK.
+(43)Division of Endocrinology, Diabetes, and Nutrition, University of Maryland 
+School of Medicine, Baltimore, MD, USA.
+(44)Program for Personalized and Genomic Medicine, University of Maryland School 
+of Medicine, Baltimore, MD, USA.
+(45)Cardiology Division, University Hospital, Basel, Switzerland.
+(46)Population Health Research Institute, McMaster University, Hamilton, ON, 
+Canada.
+(47)Institute of Clinical Chemistry, Inselspital Bern, University Hospital, 
+University of Bern, Bern, Switzerland.
+(48)Labormedizinisches Zentrum Dr. Risch, Vaduz, Liechtenstein.
+(49)Private University of the Principality of Liechtenstein, Triesen, 
+Liechtenstein.
+(50)Department of Molecular Biology, Medical Biochemistry and Pathology, Laval 
+University, Quebec, QC, Canada.
+(51)Department of Pediatrics, Tampere University Hospital, Tampere, Finland.
+(52)Department of Pediatrics, Faculty of Medicine and Health Technology, Tampere 
+University, Tampere, Finland.
+(53)Department of Clinical Physiology and Nuclear Medicine, Turku University 
+Hospital, Turku, Finland.
+(54)Research Centre of Applied and Preventive Cardiovascular Medicine, 
+University of Turku, Turku, Finland.
+(55)Centre for Population Health Research, University of Turku and Turku 
+University Hospital, Turku, Finland.
+(56)CARIM School for Cardiovascular Diseases, Maastricht Center for Systems 
+Biology (MaCSBio), Department of Biochemistry, and Department of Physiology, 
+Maastricht University, Maastricht, The Netherlands.
+(57)Department of Medical Informatics Erasmus MC, University Medical Center 
+Rotterdam, Rotterdam, The Netherlands.
+(58)Genetic Epidemiology Unit, Department of Epidemiology, Erasmus University 
+Medical Center, Rotterdam, The Netherlands.
+(59)Icelandic Heart Association, Kopavogur, Iceland.
+(60)Faculty of Medicine, University of Iceland, Reykjavik, Iceland.
+(61)Laboratory of Epidemiology and Population Sciences, National Institute on 
+Aging, NIH, Baltimore, MD, USA.
+(62)School of Public Health, Department of Biostatistics, University of 
+Michigan, Ann Arbor, MI, USA.
+(63)The Charles Bronfman Institute for Personalized Medicine, Icahn School of 
+Medicine at Mount Sinai, New York, NY, USA.
+(64)The Mindich Child Health and Development Institute, Icahn School of Medicine 
+at Mount Sinai, New York, NY, USA.
+(65)Jackson Heart Study, Department of Medicine, University of Mississippi 
+Medical Center, Jackson, MS, USA.
+(66)Department of Data Science, University of Mississippi Medical Center, 
+Jackson, MS, USA.
+(67)Department of Physiology and Biophysics, University of Mississippi Medical 
+Center, Jackson, MS, USA.
+(68)DZHK (German Centre for Cardiovascular Research), Munich Heart Alliance, 
+Munich, Germany.
+(69)Institute of Human Genetics, Helmholtz Zentrum München - German Research 
+Center for Environmental Health, Neuherberg, Germany.
+(70)Institute of Human Genetics, Klinikum rechts der Isar, Technische 
+Universität München, Munich, Germany.
+(71)Institute of Genetic Epidemiology, Helmholtz Zentrum München - German 
+Research Center for Environmental Health, Neuherberg, Germany.
+(72)IBE, Faculty of Medicine, LMU Munich, Munich, Germany.
+(73)Department of Internal Medicine I (Cardiology), Hospital of the 
+Ludwig-Maximilians-University (LMU) Munich, Munich, Germany.
+(74)German Center for Diabetes Research, Neuherberg, Germany.
+(75)Institute of Epidemiology, Helmholtz Zentrum München-German Research Center 
+for Environmental Health, Neuherberg, Germany.
+(76)Research Unit of Molecular Epidemiology, Helmholtz Zentrum München-German 
+Research Center for Environmental Health, Neuherberg, Germany.
+(77)Department of Twin Research and Genetic Epidemiology, Kings College London, 
+London, UK.
+(78)NIHR Biomedical Research Centre at Guy's and St Thomas' Foundation Trust, 
+London, UK.
+(79)Genomics plc, Oxford, UK.
+(80)Intermountain Heart Institute, Intermountain Medical Center, Murray, UT, 
+USA.
+(81)Molecular Cardiology and Biophysics Division, Victor Chang Cardiac Research 
+Institute, Darlinghurst, NSW, Australia.
+(82)Cardiology Department, St. Vincent's Hospital, Darlinghurst, NSW, Australia.
+(83)St Vincent's Clinical School, Faculty of Medicine, UNSW Sydney, Kensington, 
+NSW, Australia.
+(84)Department of Cardiovascular Medicine, University of Iowa, Iowa City, IA, 
+USA.
+(85)Laboratory for Molecular Cardiology, Department of Cardiology, The Heart 
+Centre, Rigshospitalet, University Hospital of Copenhagen, Copenhagen, Denmark.
+(86)Department of Biomedical Sciences, University of Copenhagen, Copenhagen, 
+Denmark.
+(87)Departments of Medicine, Pharmacology, and Biomedical Informatics, 
+Vanderbilt University Medical Center, Nashville, TN, USA.
+(88)Department of Medicine, Vanderbilt University Medical Center, Nashville, TN, 
+USA.
+(89)Department of Cardiology, Clinical Sciences, Wallenberg Center for Molecular 
+Medicine, Lund University Diabetes Center, Lund University and Skane University 
+Hospital, Lund, Sweden.
+(90)Cardiovascular Health Research Unit, Department of Medicine, University of 
+Washington, Seattle, WA, USA.
+(91)Department of Biostatistics, University of Washington, Seattle, WA, USA.
+(92)Department of Epidemiology, University of Washington, Seattle, WA, USA.
+(93)Kaiser Permanente Washington Health Research Institute, Seattle, WA, USA.
+(94)Cardiology Division, University of Washington, Seattle, WA, USA.
+(95)Robertson Center for Biostatistics, University of Glasgow, Glasgow, UK.
+(96)Department of Cardiology, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(97)Einthoven Laboratory for Experimental Vascular Medicine, Leiden University 
+Medical Center, Leiden, The Netherlands.
+(98)Institute of Health and Wellbeing, College of Medical, Veterinary and Life 
+Sciences, University of Glasgow, Glasgow, UK.
+(99)Department of Internal Medicine, section of Gerontology and Geriatrics, 
+Leiden University Medical Center, Leiden, The Netherlands.
+(100)DZHK (German Centre for Cardiovascular Research), Greifswald, Germany.
+(101)Department of Internal Medicine B - Cardiology, Pneumology, Infectious 
+Diseases, Intensive Care Medicine, University Medicine Greifswald, Greifswald, 
+Germany.
+(102)Interfaculty Institute for Genetics and Functional Genomics; Department of 
+Functional Genomics; University Medicine and University of Greifswald, 
+Greifswald, Germany.
+(103)Finnish Institute for Health and Welfare, Helsinki, Finland.
+(104)Institute for Molecular Medicine Finland (FIMM), HiLIFE, University of 
+Helsinki, Helsinki, Finland.
+(105)Institute for Translational Genomics and Population Sciences and Department 
+of Pediatrics, Los Angeles Biomedical Research Institute at Harbor-UCLA Medical 
+Center, Torrance, CA, USA.
+(106)Cardiovascular Health Research Unit and Department of Epidemiology, 
+University of Washington, Seattle, WA, USA.
+(107)Institute for Translational Genomics and Population Sciences, Los Angeles 
+Biomedical Research Institute at Harbor-UCLA Medical Center, Torrance, CA, USA.
+(108)Department of Clinical Epidemiology, Leiden University Medical Center, 
+Leiden, The Netherlands.
+(109)Department of Public Health and Primary Care, Leiden University Medical 
+Center, Leiden, The Netherlands.
+(110)Department of Biomedical Sciences, University of Sassari, Sassari, Italy.
+(111)Laboratory of Genetics and Genomics, NIA/NIH, Baltimore, MD, USA.
+(112)Laboratory of Cardiovascular Science, NIA/NIH, Baltimore, MD, USA.
+(113)Population Sciences Branch, Division of Intramural Research, National 
+Heart, Lung, and Blood Institute, Bethesda, MD, USA.
+(114)National Heart Lung and Blood Institute's and Boston University's 
+Framingham Heart Study, Framingham, MA, USA.
+(115)Section of Computational Biomedicine, Department of Medicine, Boston 
+University School of Medicine, Boston, MA, USA.
+(116)Center for Human Genetic Research and Cardiovascular Research Center, 
+Harvard Medical School and Massachusetts General Hospital, Boston, MA, USA.
+(117)Department of Biostatistics, Boston University School of Public Health, 
+Boston, MA, USA.
+(118)The Institute of Medical Sciences, Aberdeen Biomedical Imaging Centre, 
+University of Aberdeen, Aberdeen, UK.
+(119)Centre for Genomic and Experimental Medicine, Institute of Genetics & 
+Molecular Medicine, University of Edinburgh, Western General Hospital, 
+Edinburgh, UK.
+(120)Centre for Cognitive Ageing and Cognitive Epidemiology, University of 
+Edinburgh, Edinburgh, UK.
+(121)Division of Population Health and Genomics, Ninewells Hospital and Medical 
+School, University of Dundee, Dundee, UK.
+(122)Department of Epidemiology Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+(123)Human Genotyping Facility Erasmus MC University Medical Center Rotterdam, 
+Rotterdam, The Netherlands.
+(124)Fred Hutchinson Cancer Research Center, Division of Public Health Sciences, 
+Seattle, WA, USA.
+(125)Division of Endocrinology, Diabetes and Metabolism, Ohio State University, 
+Columbus, OH, USA.
+(126)Departments of Epidemiology and Medicine, Gillings School of Global Public 
+Health and School of Medicine, University of North Carolina, Chapel Hill, NC, 
+USA.
+(127)Department of Epidemiology, Rollins School of Public Health, Emory 
+University, Atlanta, GA, USA.
+(128)McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(129)Human Genetics Center, University of Texas Health Science Center at 
+Houston, Houston, TX, USA.
+(130)Cardiology, Geneva University Hospitals, Geneva, Switzerland.
+(131)Epidemiological Cardiology Research Center, Wake Forest School of Medicine, 
+Winston-Salem, NC, USA.
+(132)Department of Epidemiology, University of North Carolina, Chapel Hill, NC, 
+USA.
+(133)Carolina Population Center, University of North Carolina, Chapel Hill, NC, 
+USA.
+(134)Division of Pharmaceutical Outcomes and Policy, University of North 
+Carolina, Chapel Hill, NC, USA.
+(135)Barts Heart Centre, St Bartholomews Hospital, London, UK.
+(136)Institute of Cardiovascular Science, University College London, London, UK.
+(137)Department of Mechanical Engineering, University College London, London, 
+UK.
+(138)Department of Medicine, Landspitali University Hospital, Reykjavik, 
+Iceland.
+(139)School of Engineering and Natural Sciences, University of Iceland, 
+Reykjavik, Iceland.
+(140)Section of Cardiovascular Medicine and Section of Preventive Medicine, 
+Department of Medicine, Boston University School of Medicine, Boston, MA, USA.
+(141)Department of Epidemiology, Boston University School of Public Health, 
+Boston, MA, USA.
+(142)Cardiac Arrhythmia Service, Massachusetts General Hospital, Boston, MA, 
+USA.
+(143)Genetics Research Centre, Molecular and Clinical Sciences Institute, St 
+George's, University of London, London, UK.
+(144)Cardiovascular Research Center, Massachusetts General Hospital, Boston, MA, 
+USA. slubitz@mgh.harvard.edu.
+(145)Program in Medical and Population Genetics, The Broad Institute of MIT and 
+Harvard, Cambridge, MA, USA. slubitz@mgh.harvard.edu.
+(146)Cardiac Arrhythmia Service, Massachusetts General Hospital, Boston, MA, 
+USA. slubitz@mgh.harvard.edu.
+(147)William Harvey Research Institute, Barts and The London School of Medicine 
+and Dentistry, Queen Mary University of London, London, UK. 
+p.b.munroe@qmul.ac.uk.
+(148)National Institute for Health Research, Barts Cardiovascular Biomedical 
+Research Centre, Queen Mary University of London, London, UK. 
+p.b.munroe@qmul.ac.uk.
+(#)Contributed equally
+
+The electrocardiographic PR interval reflects atrioventricular conduction, and 
+is associated with conduction abnormalities, pacemaker implantation, atrial 
+fibrillation (AF), and cardiovascular mortality. Here we report a multi-ancestry 
+(N = 293,051) genome-wide association meta-analysis for the PR interval, 
+discovering 202 loci of which 141 have not previously been reported. Variants at 
+identified loci increase the percentage of heritability explained, from 33.5% to 
+62.6%. We observe enrichment for cardiac muscle developmental/contractile and 
+cytoskeletal genes, highlighting key regulation processes for atrioventricular 
+conduction. Additionally, 8 loci not previously reported harbor genes underlying 
+inherited arrhythmic syndromes and/or cardiomyopathies suggesting a role for 
+these genes in cardiovascular pathology in the general population. We show that 
+polygenic predisposition to PR interval duration is an endophenotype for 
+cardiovascular disease, including distal conduction disease, AF, and 
+atrioventricular pre-excitation. These findings advance our understanding of the 
+polygenic basis of cardiac conduction, and the genetic relationship between PR 
+interval duration and cardiovascular disease.
+
+DOI: 10.1038/s41467-020-15706-x
+PMCID: PMC7242331
+PMID: 32439900 [Indexed for MEDLINE]
+
+Conflict of interest statement: I.N. became a full-time employee of Gilead 
+Sciences Ltd following submission of the manuscript. S.A.L. receives sponsored 
+research support from Bristol Myers Squibb/Pfizer, Bayer AG, and Boehringer 
+Ingelheim, and has consulted for Bristol Myers Squibb/Pfizer and Bayer AG. 
+P.T.E. is supported by a grant from Bayer AG to the Broad Institute focused on 
+the genetics and therapeutics of cardiovascular diseases. P.T.E. has also served 
+on advisory boards or consulted for Bayer AG, Quest Diagnostics, and Novartis. 
+M.J.C. is Chief Scientist for Genomics England, a UK Government company. B.M.P. 
+serves on the DSMB of a clinical trial funded by Zoll LifeCor and on the 
+Steering Committee of the Yale Open Data Access Project funded by Johnson & 
+Johnson. V.S. has participated in a conference trip sponsored by Novo Nordisk 
+and received a modest honorarium for participating in an advisory board meeting. 
+K.S., H.H., P.S., G.S., G.T., R.B.T., U.T., D.O.A., D.F.G. are employed by 
+deCODE genetics/Amgen Inc. E.I. is employed by GlaxoSmithKline. A.M. is employed 
+by Genentech Inc.

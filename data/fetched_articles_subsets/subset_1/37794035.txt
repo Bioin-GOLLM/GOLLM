@@ -1,0 +1,66 @@
+1. Nat Commun. 2023 Oct 4;14(1):6169. doi: 10.1038/s41467-023-41756-y.
+
+Glycoproteomic landscape and structural dynamics of TIM family immune 
+checkpoints enabled by mucinase SmE.
+
+Chongsaritsinsuk J(#)(1), Steigmeyer AD(#)(1), Mahoney KE(#)(1), Rosenfeld 
+MA(#)(2), Lucas TM(1), Smith CM(3), Li A(3), Ince D(1), Kearns FL(2), Battison 
+AS(1), Hollenhorst MA(4)(5)(6), Judy Shon D(4), Tiemeyer KH(4), Attah V(1), Kwon 
+C(1), Bertozzi CR(4)(7), Ferracane MJ(8), Lemmon MA(3), Amaro RE(2)(9), Malaker 
+SA(10).
+
+Author information:
+(1)Department of Chemistry, Yale University, New Haven, CT, 06511, USA.
+(2)Department of Chemistry and Biochemistry, University of California, San 
+Diego, La Jolla, CA, 92093, USA.
+(3)Yale Cancer Biology Institute and Department of Pharmacology, Yale University 
+School of Medicine, New Haven, CT, 06520, USA.
+(4)Department of Chemistry and Sarafan ChEM-H, Stanford University, Stanford, 
+CA, 94305, USA.
+(5)Department of Pathology, Stanford University, Stanford, CA, 94305, USA.
+(6)Department of Medicine, Division of Hematology, Stanford University, 
+Stanford, CA, 94305, USA.
+(7)Howard Hughes Medical Institute, Stanford University, Stanford, CA, 94305, 
+USA.
+(8)Department of Chemistry, University of Redlands, Redlands, CA, 92373, USA.
+(9)Glycobiology Research and Training Center, University of California, San 
+Diego, La Jolla, CA, 92093, USA.
+(10)Department of Chemistry, Yale University, New Haven, CT, 06511, USA. 
+stacy.malaker@yale.edu.
+(#)Contributed equally
+
+Update of
+    bioRxiv. 2023 Feb 03:2023.02.01.526488. doi: 10.1101/2023.02.01.526488.
+
+Mucin-domain glycoproteins are densely O-glycosylated and play critical roles in 
+a host of biological functions. In particular, the T cell immunoglobulin and 
+mucin-domain containing family of proteins (TIM-1, -3, -4) decorate immune cells 
+and act as key regulators in cellular immunity. However, their dense 
+O-glycosylation remains enigmatic, primarily due to the challenges associated 
+with studying mucin domains. Here, we demonstrate that the mucinase SmE has a 
+unique ability to cleave at residues bearing very complex glycans. SmE enables 
+improved mass spectrometric analysis of several mucins, including the entire TIM 
+family. With this information in-hand, we perform molecular dynamics (MD) 
+simulations of TIM-3 and -4 to understand how glycosylation affects structural 
+features of these proteins. Finally, we use these models to investigate the 
+functional relevance of glycosylation for TIM-3 function and ligand binding. 
+Overall, we present a powerful workflow to better understand the detailed 
+molecular structures and functions of the mucinome.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41467-023-41756-y
+PMCID: PMC10550946
+PMID: 37794035 [Indexed for MEDLINE]
+
+Conflict of interest statement: F.L.K. is a consultant for Protein Evolution, 
+Inc. M.A.H. received consulting fees from Dova Pharmaceuticals, Janssen 
+Pharmaceuticals, and Sonder Capital. C.R.B. is a co-founder and scientific 
+advisory board member of Lycia Therapeutics, Palleon Pharmaceuticals, Enable 
+Bioscience, Redwood Biosciences (a subsidiary of Catalent) OliLux Bio, Grace 
+Science LLC, and InterVenn Biosciences. S.A.M. is a consultant for InterVenn 
+Biosciences and Arkuda Therapeutics. S.A.M., D.J.S., and C.R.B. are coinventors 
+on a Stanford nonprovisional utility patent application that has been filed and 
+is pending in the US (number US20220003777) related to the use of mucinases for 
+mass spectrometry analysis of mucin-domain glycoproteins. The remaining 
+co-authors have no conflicts of interest to disclose.

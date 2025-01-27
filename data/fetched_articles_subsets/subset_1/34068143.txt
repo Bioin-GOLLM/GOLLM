@@ -1,0 +1,41 @@
+1. Int J Mol Sci. 2021 May 13;22(10):5158. doi: 10.3390/ijms22105158.
+
+Multi-Omics Perspective Reveals the Different Patterns of Tumor Immune 
+Microenvironment Based on Programmed Death Ligand 1 (PD-L1) Expression and 
+Predictor of Responses to Immune Checkpoint Blockade across Pan-Cancer.
+
+Huang K(1), Hu M(1), Chen J(1), Wei J(1), Qin J(1), Lin S(1), Du H(1).
+
+Author information:
+(1)School of Biology and Biological Engineering, South China University of 
+Technology, Guangzhou 510006, China.
+
+Immune checkpoint inhibitor (ICI) therapies have shown great promise in cancer 
+treatment. However, the intra-heterogeneity is a major barrier to reasonably 
+classifying the potential benefited patients. Comprehensive heterogeneity 
+analysis is needed to solve these clinical issues. In this study, the samples 
+from pan-cancer and independent breast cancer datasets were divided into four 
+tumor immune microenvironment (TIME) subtypes based on tumor programmed death 
+ligand 1 (PD-L1) expression level and tumor-infiltrating lymphocyte (TIL) state. 
+As the combination of the TIL Z score and PD-L1 expression showed superior 
+prediction of response to ICI in multiple data sets compared to other methods, 
+we used the TIL Z score and PD-L1 to classify samples. Therefore, samples were 
+divided by combined TIL Z score and PD-L1 to identify four TIME subtypes, 
+including type I (3.24%), type II (43.24%), type III (6.76%), and type IV 
+(46.76%). Type I was associated with favorable prognosis with more T and DC 
+cells, while type III had the poorest condition and composed a higher level of 
+activated mast cells. Furthermore, TIME subtypes exhibited a distinct genetic 
+and transcriptional feature: type III was observed to have the highest mutation 
+rate (77.92%), while co-mutations patterns were characteristic in type I, and 
+the PD-L1 positive subgroup showed higher carbohydrates, lipids, and xenobiotics 
+metabolism compared to others. Overall, we developed a robust method to classify 
+TIME and analyze the divergence of prognosis, immune cell composition, genomics, 
+and transcriptomics patterns among TIME subtypes, which potentially provides 
+insight for classification of TIME and a referrable theoretical basis for the 
+screening benefited groups in the ICI immunotherapy.
+
+DOI: 10.3390/ijms22105158
+PMCID: PMC8153013
+PMID: 34068143 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

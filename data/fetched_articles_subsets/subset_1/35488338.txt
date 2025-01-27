@@ -1,0 +1,66 @@
+1. Microb Cell Fact. 2022 Apr 29;21(1):74. doi: 10.1186/s12934-022-01801-9.
+
+Active secretion of a thermostable transglutaminase variant in Escherichia coli.
+
+Wang X(1)(2)(3), Zhao B(1)(2), Du J(1)(2), Xu Y(2), Zhu X(2), Zhou J(1)(2)(3), 
+Rao S(4), Du G(2)(5), Chen J(1)(2)(3), Liu S(6)(7).
+
+Author information:
+(1)National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan 
+University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China.
+(2)Science Center for Future Foods, Jiangnan University, 1800 Lihu Road, Wuxi, 
+214122, Jiangsu, China.
+(3)Jiangsu Provisional Research Center for Bioactive Product Processing 
+Technology, Jiangnan University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China.
+(4)College of Food Science and Engineering, Yangzhou University, Yangzhou, 
+214122, Jiangsu, China.
+(5)The Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of 
+Education, Jiangnan University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China.
+(6)National Engineering Laboratory for Cereal Fermentation Technology, Jiangnan 
+University, 1800 Lihu Road, Wuxi, 214122, Jiangsu, China. 
+liusong@jiangnan.edu.cn.
+(7)Science Center for Future Foods, Jiangnan University, 1800 Lihu Road, Wuxi, 
+214122, Jiangsu, China. liusong@jiangnan.edu.cn.
+
+BACKGROUND: Streptomyces mobaraenesis transglutaminase (smTG) is widely used to 
+generate protein crosslinking or attachment of small molecules. However, the low 
+thermostability is a main obstacle for smTG application. In addition, it is 
+still hard to achieve the secretory expression of active smTG in E. coli, which 
+benefits the enzyme evolution. In this study, a combined strategy was conducted 
+to improve the thermostability and secretory expression of active smTG in E. 
+coli.
+RESULTS: First, the thermostable S. mobaraenesis transglutaminase variant 
+S2P-S23V-Y24N-S199A-K294L (TGm1) was intracellularly expressed in pro-enzyme 
+form in E. coli. Fusing the pro-region of Streptomyces hygroscopicus 
+transglutaminase (proH) and TrxA achieved a 9.78 U/mL of intracellular smTG 
+activity, 1.37-fold higher than the TGm1 fused with its native pro-region. After 
+in vitro activation by dispase, the TGm1 with proH yielded FRAPD-TGm1, 
+exhibiting 0.95 ℃ and 94.25% increases in melting temperature and half-life at 
+60 ℃ compared to FRAP-TGm1 derived from the expression using its native 
+pro-region, respectively. Second, the TGm1 with proH was co-expressed with 
+transglutaminase activating protease and chaperones (DnaK, DnaJ, and GrpE) in E. 
+coli, achieving 9.51 U/mL of intracellular FRAPD-TGm1 without in vitro 
+activation. Third, the pelB signal peptide was used to mediate the secretory 
+expression of active TGm in E. coli, yielding 0.54 U/mL of the extracellular 
+FRAPD-TGm1. A script was developed to shuffle the codon of pelB and calculate 
+the corresponding mRNA folding energy. A 1.8-fold increase in the extracellular 
+expression of FRAPD-TGm1 was achieved by the Top-9 pelB sequence derived from 
+the coding sequences with the lowest mRNA folding energy. Last, deleting the 
+gene of Braun's lipoprotein further increased the extracellular yield of 
+FRAPD-TGm1 by 31.2%, reached 1.99 U/mL.
+CONCLUSIONS: The stabilized FRAPD-smTG here could benefit the enzyme application 
+in food and non-food sectors, while the E. coli system that enables secretory 
+expression of active smTG will facilitate the directed evolution for further 
+improved catalytic properties. The combined strategy (N-terminal modification, 
+co-expression with chaperones, mRNA folding energy optimization of signal 
+peptide, and lipoprotein deletion) may also improve the secretory expression of 
+other functional proteins in E. coli.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12934-022-01801-9
+PMCID: PMC9052465
+PMID: 35488338 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

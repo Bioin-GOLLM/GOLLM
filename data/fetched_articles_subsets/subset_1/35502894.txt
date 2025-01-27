@@ -1,0 +1,67 @@
+1. Elife. 2022 May 3;11:e76555. doi: 10.7554/eLife.76555.
+
+Metabolic basis for the evolution of a common pathogenic Pseudomonas aeruginosa 
+variant.
+
+Mould DL(1), Stevanovic M(1), Ashare A(1)(2), Schultz D(1), Hogan DA(1).
+
+Author information:
+(1)Department of Microbiology and Immunology, Geisel School of Medicine at 
+Dartmouth, Hanover, United States.
+(2)Department of Medicine, Dartmouth-Hitchock Medical Center, Lebanon, United 
+States.
+
+Microbes frequently evolve in reproducible ways. Here, we show that differences 
+in specific metabolic regulation rather than inter-strain interactions explain 
+the frequent presence of lasR loss-of-function (LOF) mutations in the bacterial 
+pathogen Pseudomonas aeruginosa. While LasR contributes to virulence through its 
+role in quorum sensing, lasR mutants have been associated with more severe 
+disease. A model based on the intrinsic growth kinetics for a wild type strain 
+and its LasR- derivative, in combination with an experimental evolution based 
+genetic screen and further genetics analyses, indicated that differences in 
+metabolism were sufficient to explain the rise of these common mutant types. The 
+evolution of LasR- lineages in laboratory and clinical isolates depended on 
+activity of the two-component system CbrAB, which modulates substrate 
+prioritization through the catabolite repression control pathway. LasR- lineages 
+frequently arise in cystic fibrosis lung infections and their detection 
+correlates with disease severity. Our analysis of bronchoalveolar lavage fluid 
+metabolomes identified compounds that negatively correlate with lung function, 
+and we show that these compounds support enhanced growth of LasR- cells in a 
+CbrB-controlled manner. We propose that in vivo metabolomes contribute to 
+pathogen evolution, which may influence the progression of disease and its 
+treatment.
+
+Plain Language Summary: Bacteria can evolve quickly, a skill that proves useful 
+in ever-changing environments. For example, individuals in many bacterial 
+species can start to work together under certain circumstances; this ability is 
+underpinned by a system called quorum sensing, which allows cells to detect 
+nearby conspecifics. However, species of harmful bacteria often lose their 
+quorum sensing abilities when they infect humans. This is the case for 
+Pseudomonas aeruginosa, which normally lives in the soil but can also cause 
+deadly conditions, especially in hospital settings. Patients often carry P. 
+aeruginosa with mutations that disable the quorum-sensing signal receptor LasR, 
+a molecular actor that can switch on many other genes in a cell. People who are 
+infected with P. aeruginosa strains carrying a damaged version of the lasR gene 
+are typically more ill and less likely to recover. Why this is the case – and in 
+fact, why genes associated with quorum sensing often lose function during 
+infection – is still unclear. To investigate this question, Mould et al. used 
+laboratory evolution experiments and computer models of P. aeruginosa growth to 
+understand how lasR mutant cells evolve. Differences in growth rates and ways to 
+use resources (rather than changes in cell-to-cell interactions) best explained 
+why lasR mutants become more successful. Further experiments narrowed down the 
+molecular cascade required for the rise of lasR mutants, identifying a pathway 
+that regulates how P. aeruginosa switches between different nutrient sources. 
+This work reveals a new connection between quorum sensing genes and nutrient 
+regulation in bacterial cells. Loss of functional LasR changes the way that 
+cells use nutrients, and thus will reshape how they interact with host cells and 
+other bacteria. This insight could lead to better ways to predict the outcomes 
+of bacterial infections and how to best treat them.
+
+© 2022, Mould et al.
+
+DOI: 10.7554/eLife.76555
+PMCID: PMC9224983
+PMID: 35502894 [Indexed for MEDLINE]
+
+Conflict of interest statement: DM, MS, AA, DS, DH No competing interests 
+declared

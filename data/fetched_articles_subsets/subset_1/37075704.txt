@@ -1,0 +1,50 @@
+1. Cell Rep Med. 2023 Apr 18;4(4):101016. doi: 10.1016/j.xcrm.2023.101016.
+
+Integration of deep learning-based histopathology and transcriptomics reveals 
+key genes associated with fibrogenesis in patients with advanced NASH.
+
+Conway J(1), Pouryahya M(1), Gindin Y(2), Pan DZ(2), Carrasco-Zevallos OM(1), 
+Mountain V(1), Subramanian GM(3), Montalto MC(1), Resnick M(1), Beck AH(1), Huss 
+RS(3), Myers RP(3), Taylor-Weiner A(1), Wapinski I(4), Chung C(5).
+
+Author information:
+(1)PathAI, Boston, MA, USA.
+(2)Gilead Sciences, Inc., Foster City, CA, USA.
+(3)OrsoBio, Palo Alto, CA, USA.
+(4)PathAI, Boston, MA, USA. Electronic address: ilan.wapinski@pathai.com.
+(5)Gilead Sciences, Inc., Foster City, CA, USA. Electronic address: 
+chuhanchung@inipharm.com.
+
+Nonalcoholic steatohepatitis (NASH) is the most common chronic liver disease 
+globally and a leading cause for liver transplantation in the US. Its 
+pathogenesis remains imprecisely defined. We combined two high-resolution 
+modalities to tissue samples from NASH clinical trials, machine learning 
+(ML)-based quantification of histological features and transcriptomics, to 
+identify genes that are associated with disease progression and clinical events. 
+A histopathology-driven 5-gene expression signature predicted disease 
+progression and clinical events in patients with NASH with F3 (pre-cirrhotic) 
+and F4 (cirrhotic) fibrosis. Notably, the Notch signaling pathway and genes 
+implicated in liver-related diseases were enriched in this expression signature. 
+In a validation cohort where pharmacologic intervention improved disease 
+histology, multiple Notch signaling components were suppressed.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.xcrm.2023.101016
+PMCID: PMC10140650
+PMID: 37075704 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests J.C. is an employee and 
+shareholder of PathAI, Inc. M.P. is a shareholder of PathAI, Inc. Y.G. is a 
+shareholder of Gilead Sciences, Inc. D.Z.P. is an employee of and shareholder of 
+Gilead Sciences, Inc. O.M.C.-Z. is a shareholder of PathAI, Inc. V.M. is an 
+employee and shareholder of PathAI, Inc. G.M.S. is an employee and shareholder 
+of OrsoBio, Inc., and a shareholder of Gilead Sciences, Inc. M.C.M. is an 
+employee and shareholder of PathAI, Inc. M.R. is an employee and shareholder of 
+PathAI, Inc. A.H.B. is a co-founder, employee, and shareholder of PathAI, Inc. 
+R.S.H. is an employee and shareholder of OrsoBio, Inc., and a shareholder of 
+Gilead Sciences, Inc. R.P.M. is an employee and shareholder of OrsoBio, Inc., 
+and a shareholder of Gilead Sciences, Inc. A.T.-W. is an employee and 
+shareholder of PathAI, Inc. I.W. is an employee and shareholder of PathAI, Inc. 
+C.C. is an employee and shareholder of Inipharm, Inc., and shareholder of Gilead 
+Sciences, Inc.

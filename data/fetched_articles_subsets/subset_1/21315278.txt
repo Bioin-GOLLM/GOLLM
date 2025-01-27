@@ -1,0 +1,44 @@
+1. Nucl Med Biol. 2011 Feb;38(2):223-33. doi: 10.1016/j.nucmedbio.2010.08.013.
+Epub  2010 Oct 27.
+
+Engineering an antibody with picomolar affinity to DOTA chelates of multiple 
+radionuclides for pretargeted radioimmunotherapy and imaging.
+
+Orcutt KD(1), Slusarczyk AL, Cieslewicz M, Ruiz-Yi B, Bhushan KR, Frangioni JV, 
+Wittrup KD.
+
+Author information:
+(1)Department of Chemical Engineering, Massachusetts Institute of Technology, 
+Cambridge, MA 02139, USA.
+
+INTRODUCTION: In pretargeted radioimmunotherapy (PRIT), a bifunctional antibody 
+is administered and allowed to pre-localize to tumor cells. Subsequently, a 
+chelated radionuclide is administered and captured by cell-bound antibody while 
+unbound hapten clears rapidly from the body. We aim to engineer high-affinity 
+binders to 1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid (DOTA) 
+chelates for use in PRIT applications.
+METHODS: We mathematically modeled antibody and hapten pharmacokinetics to 
+analyze hapten tumor retention as a function of hapten binding affinity. 
+Motivated by model predictions, we used directed evolution and yeast surface 
+display to affinity mature the 2D12.5 antibody to DOTA, reformatted as a single 
+chain variable fragment (scFv).
+RESULTS: Modeling predicts that for high antigen density and saturating bsAb 
+dose, a hapten-binding affinity of 100 pM is needed for near-maximal hapten 
+retention. We affinity matured 2D12.5 with an initial binding constant of about 
+10 nM to DOTA-yttrium chelates. Affinity maturation resulted in a 1000-fold 
+affinity improvement to biotinylated DOTA-yttrium, yielding an 8.2±1.9 picomolar 
+binder. The high-affinity scFv binds DOTA complexes of lutetium and gadolinium 
+with similar picomolar affinity and indium chelates with low nanomolar affinity. 
+When engineered into a bispecific antibody construct targeting carcinoembryonic 
+antigen, pretargeted high-affinity scFv results in significantly higher tumor 
+retention of a (111)In-DOTA hapten compared to pretargeted wild-type scFv in a 
+xenograft mouse model.
+CONCLUSIONS: We have engineered a versatile, high-affinity, DOTA-chelate-binding 
+scFv. We anticipate it will prove useful in developing pretargeted imaging and 
+therapy protocols to exploit the potential of a variety of radiometals.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nucmedbio.2010.08.013
+PMCID: PMC4033581
+PMID: 21315278 [Indexed for MEDLINE]

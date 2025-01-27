@@ -1,0 +1,61 @@
+1. Front Cardiovasc Med. 2022 Dec 16;9:1067760. doi: 10.3389/fcvm.2022.1067760. 
+eCollection 2022.
+
+Myocardial strain analysis of echocardiography based on deep learning.
+
+Deng Y(1)(2), Cai P(3), Zhang L(1), Cao X(1)(2), Chen Y(1), Jiang S(1), Zhuang 
+Z(4), Wang B(1).
+
+Author information:
+(1)Department of Cardiology, The First Affiliated Hospital of Shantou University 
+Medical College, Shantou, China.
+(2)Department of Preventive Medicine, Shantou University Medical College, 
+Shantou, China.
+(3)Ultrasound Division, The First Affiliated Hospital of Shantou University 
+Medical College, Shantou, China.
+(4)Department of Electronic Information Engineering, College of Engineering, 
+Shantou University, Shantou, China.
+
+BACKGROUND: Strain analysis provides more thorough spatiotemporal signatures for 
+myocardial contraction, which is helpful for early detection of cardiac 
+insufficiency. The use of deep learning (DL) to automatically measure myocardial 
+strain from echocardiogram videos has garnered recent attention. However, the 
+development of key techniques including segmentation and motion estimation 
+remains a challenge. In this work, we developed a novel DL-based framework for 
+myocardial segmentation and motion estimation to generate strain measures from 
+echocardiogram videos.
+METHODS: Three-dimensional (3D) Convolutional Neural Network (CNN) was developed 
+for myocardial segmentation and optical flow network for motion estimation. The 
+segmentation network was used to define the region of interest (ROI), and the 
+optical flow network was used to estimate the pixel motion in the ROI. We 
+performed a model architecture search to identify the optimal base architecture 
+for motion estimation. The final workflow design and associated hyperparameters 
+are the result of a careful implementation. In addition, we compared the DL 
+model with a traditional speck tracking algorithm on an independent, external 
+clinical data. Each video was double-blind measured by an ultrasound expert and 
+a DL expert using speck tracking echocardiography (STE) and DL method, 
+respectively.
+RESULTS: The DL method successfully performed automatic segmentation, motion 
+estimation, and global longitudinal strain (GLS) measurements in all 
+examinations. The 3D segmentation has better spatio-temporal smoothness, average 
+dice correlation reaches 0.82, and the effect of target frame is better than 
+that of previous 2D networks. The best motion estimation network achieved an 
+average end-point error of 0.05 ± 0.03 mm per frame, better than previously 
+reported state-of-the-art. The DL method showed no significant difference 
+relative to the traditional method in GLS measurement, Spearman correlation of 
+0.90 (p < 0.001) and mean bias -1.2 ± 1.5%.
+CONCLUSION: In conclusion, our method exhibits better segmentation and motion 
+estimation performance and demonstrates the feasibility of DL method for 
+automatic strain analysis. The DL approach helps reduce time consumption and 
+human effort, which holds great promise for translational research and precision 
+medicine efforts.
+
+Copyright © 2022 Deng, Cai, Zhang, Cao, Chen, Jiang, Zhuang and Wang.
+
+DOI: 10.3389/fcvm.2022.1067760
+PMCID: PMC9800889
+PMID: 36588559
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,32 @@
+1. PLoS One. 2013 Sep 2;8(9):e74320. doi: 10.1371/journal.pone.0074320.
+eCollection  2013.
+
+Hot spots in a network of functional sites.
+
+Ozbek P(1), Soner S, Haliloglu T.
+
+Author information:
+(1)Department of Bioengineering, Marmara University, Goztepe, Istanbul, Turkey.
+
+It is of significant interest to understand how proteins interact, which holds 
+the key phenomenon in biological functions. Using dynamic fluctuations in high 
+frequency modes, we show that the Gaussian Network Model (GNM) predicts hot spot 
+residues with success rates ranging between S 8-58%, C 84-95%, P 5-19% and A 
+81-92% on unbound structures and S 8-51%, C 97-99%, P 14-50%, A 94-97% on 
+complex structures for sensitivity, specificity, precision and accuracy, 
+respectively. High specificity and accuracy rates with a single property on 
+unbound protein structures suggest that hot spots are predefined in the dynamics 
+of unbound structures and forming the binding core of interfaces, whereas the 
+prediction of other functional residues with similar dynamic behavior explains 
+the lower precision values. The latter is demonstrated with the case studies; 
+ubiquitin, hen egg-white lysozyme and M2 proton channel. The dynamic 
+fluctuations suggest a pseudo network of residues with high frequency 
+fluctuations, which could be plausible for the mechanism of biological 
+interactions and allosteric regulation.
+
+DOI: 10.1371/journal.pone.0074320
+PMCID: PMC3759471
+PMID: 24023934 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

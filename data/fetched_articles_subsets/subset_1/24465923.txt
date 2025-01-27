@@ -1,0 +1,50 @@
+1. PLoS One. 2014 Jan 22;9(1):e86142. doi: 10.1371/journal.pone.0086142. 
+eCollection 2014.
+
+Identification of human disease genes from interactome network using graphlet 
+interaction.
+
+Wang XD(1), Huang JL(2), Yang L(3), Wei DQ(4), Qi YX(1), Jiang ZL(1).
+
+Author information:
+(1)Institute of Mechanobiology and Medical Engineering, School of Life Sciences 
+& Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+(2)Bioinformatics, Integrated Platform Science, GlaxoSmithKline Research and 
+Development China, Shanghai, China.
+(3)Bio-X Institutes, Key Laboratory for the Genetics of Developmental and 
+Neuropsychiatric Disorders, Shanghai Jiao Tong University, Shanghai, China.
+(4)State Key Laboratory of Microbial Metabolism, School of Life Sciences & 
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+
+Identifying genes related to human diseases, such as cancer and cardiovascular 
+disease, etc., is an important task in biomedical research because of its 
+applications in disease diagnosis and treatment. Interactome networks, 
+especially protein-protein interaction networks, had been used to disease genes 
+identification based on the hypothesis that strong candidate genes tend to 
+closely relate to each other in some kinds of measure on the network. We 
+proposed a new measure to analyze the relationship between network nodes which 
+was called graphlet interaction. The graphlet interaction contained 28 different 
+isomers. The results showed that the numbers of the graphlet interaction isomers 
+between disease genes in interactome networks were significantly larger than 
+random picked genes, while graphlet signatures were not. Then, we designed a new 
+type of score, based on the network properties, to identify disease genes using 
+graphlet interaction. The genes with higher scores were more likely to be 
+disease genes, and all candidate genes were ranked according to their scores. 
+Then the approach was evaluated by leave-one-out cross-validation. The precision 
+of the current approach achieved 90% at about 10% recall, which was apparently 
+higher than the previous three predominant algorithms, random walk, Endeavour 
+and neighborhood based method. Finally, the approach was applied to predict new 
+disease genes related to 4 common diseases, most of which were identified by 
+other independent experimental researches. In conclusion, we demonstrate that 
+the graphlet interaction is an effective tool to analyze the network properties 
+of disease genes, and the scores calculated by graphlet interaction is more 
+precise in identifying disease genes.
+
+DOI: 10.1371/journal.pone.0086142
+PMCID: PMC3899204
+PMID: 24465923 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: One author is an employee 
+of GlaxoSmithKline. However, this does not alter the authors' adherence to all 
+the PLOS ONE policies on sharing data and materials, as detailed online in the 
+guide for authors.

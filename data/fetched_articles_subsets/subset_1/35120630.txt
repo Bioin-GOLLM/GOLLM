@@ -1,0 +1,57 @@
+1. Am J Hum Genet. 2022 Mar 3;109(3):457-470. doi: 10.1016/j.ajhg.2022.01.006.
+Epub  2022 Feb 3.
+
+Analysis of missense variants in the human genome reveals widespread 
+gene-specific clustering and improves prediction of pathogenicity.
+
+Quinodoz M(1), Peter VG(2), Cisarova K(3), Royer-Bertrand B(3), Stenson PD(4), 
+Cooper DN(4), Unger S(3), Superti-Furga A(3), Rivolta C(5).
+
+Author information:
+(1)Institute of Molecular and Clinical Ophthalmology Basel, 4031 Basel, 
+Switzerland; Department of Ophthalmology, University of Basel, 4031 Basel, 
+Switzerland; Department of Genetics and Genome Biology, University of Leicester, 
+Leicester LE1 7RH, UK.
+(2)Institute of Molecular and Clinical Ophthalmology Basel, 4031 Basel, 
+Switzerland; Department of Ophthalmology, University of Basel, 4031 Basel, 
+Switzerland; Department of Genetics and Genome Biology, University of Leicester, 
+Leicester LE1 7RH, UK; Institute of Experimental Pathology, Lausanne University 
+Hospital (CHUV), 1011 Lausanne, Switzerland.
+(3)Division of Genetic Medicine, University of Lausanne and Lausanne University 
+Hospital (CHUV), 1011 Lausanne, Switzerland.
+(4)Institute of Medical Genetics, Cardiff University, Heath Park, Cardiff CF14 
+4XN, UK.
+(5)Institute of Molecular and Clinical Ophthalmology Basel, 4031 Basel, 
+Switzerland; Department of Ophthalmology, University of Basel, 4031 Basel, 
+Switzerland; Department of Genetics and Genome Biology, University of Leicester, 
+Leicester LE1 7RH, UK. Electronic address: carlo.rivolta@iob.ch.
+
+We used a machine learning approach to analyze the within-gene distribution of 
+missense variants observed in hereditary conditions and cancer. When applied to 
+840 genes from the ClinVar database, this approach detected a significant 
+non-random distribution of pathogenic and benign variants in 387 (46%) and 172 
+(20%) genes, respectively, revealing that variant clustering is widespread 
+across the human exome. This clustering likely occurs as a consequence of 
+mechanisms shaping pathogenicity at the protein level, as illustrated by the 
+overlap of some clusters with known functional domains. We then took advantage 
+of these findings to develop a pathogenicity predictor, MutScore, that 
+integrates qualitative features of DNA substitutions with the new additional 
+information derived from this positional clustering. Using a random forest 
+approach, MutScore was able to identify pathogenic missense mutations with very 
+high accuracy, outperforming existing predictive tools, especially for variants 
+associated with autosomal-dominant disease and cancer. Thus, the within-gene 
+clustering of pathogenic and benign DNA changes is an important and previously 
+underappreciated feature of the human exome, which can be harnessed to improve 
+the prediction of pathogenicity and disambiguation of DNA variants of uncertain 
+significance.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2022.01.006
+PMCID: PMC8948164
+PMID: 35120630 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests D.N.C. and P.D.S. 
+acknowledge QIAGEN Inc. for their financial support through a License Agreement 
+with Cardiff University. The other authors do not declare any conflicts of 
+interest.

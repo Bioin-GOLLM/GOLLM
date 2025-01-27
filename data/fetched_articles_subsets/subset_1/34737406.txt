@@ -1,0 +1,46 @@
+1. Sci Rep. 2021 Nov 4;11(1):21662. doi: 10.1038/s41598-021-01260-z.
+
+Selection and stability validation of reference gene candidates for 
+transcriptional analysis in Rousettus aegyptiacus.
+
+Friedrichs V(1), Balkema-Buschmann A(2), Dorhoi A(1)(3), Pei G(4).
+
+Author information:
+(1)Institute of Immunology, Friedrich-Loeffler-Institut, Greifswald-Insel Riems, 
+Germany.
+(2)Institute of Novel and Emerging Infectious Diseases, 
+Friedrich-Loeffler-Institut, Greifswald-Insel Riems, Germany.
+(3)Faculty of Mathematics and Natural Sciences, University of Greifswald, 
+Greifswald, Germany.
+(4)Institute of Immunology, Friedrich-Loeffler-Institut, Greifswald-Insel Riems, 
+Germany. Gang.Pei@fli.de.
+
+Bats are the only mammals capable of powered flight and their body temperature 
+can reach up to 42 °C during flight. Additionally, bats display robust type I 
+IFN interferon (IFN-I) responses and some species constitutively express IFN-α. 
+Reference genes with stable expression under temperature oscillations and IFN-I 
+release are therefore critical for normalization of quantitative 
+reverse-transcription polymerase chain reaction (qRT-PCR) data in bats. The 
+expression stability of reference genes in Rousettus aegyptiacus remains 
+elusive, although this species is frequently used in the infection research. We 
+selected ACTB, EEF1A1, GAPDH and PGK1 as candidate reference genes and evaluated 
+their expression stability in various tissues and cells from this model bat 
+species upon IFN-I treatment at 35 °C, 37 °C and 40 °C by qRT-PCR. We employed 
+two statistical algorithms, BestKeeper and NormFinder, and found that EEF1A1 
+exhibited the highest expression stability under all tested conditions. ACTB and 
+GAPDH displayed unstable expression upon temperature change and IFN-I treatment, 
+respectively. By normalizing to EEF1A1, we uncovered that GAPDH expression was 
+significantly induced by IFN-I in R. aegyptiacus. Our study identifies EEF1A1 as 
+the most suitable reference gene for qRT-PCR studies upon temperature changes 
+and IFN-I treatment and unveils the induction of GAPDH expression by IFN-I in R. 
+aegyptiacus. These findings are pertinent to other bat species and may be 
+relevant for non-volant mammals that show physiological fluctuations of core 
+body temperature.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01260-z
+PMCID: PMC8568961
+PMID: 34737406 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

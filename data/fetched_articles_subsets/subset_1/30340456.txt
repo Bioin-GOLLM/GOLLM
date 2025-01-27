@@ -1,0 +1,56 @@
+1. BMC Genomics. 2018 Oct 19;19(1):759. doi: 10.1186/s12864-018-5123-x.
+
+Big data analysis of human mitochondrial DNA substitution models: a regression 
+approach.
+
+Levinstein Hallak K(1), Tzur S(2), Rosset S(3).
+
+Author information:
+(1)Department of Statistics and Operations Research, School of Mathematical 
+Sciences, Tel-Aviv University, 6997801, Tel-Aviv, Israel.
+(2)Braun School of Public Health and Community Medicine, The Hebrew University 
+of Jerusalem, 9112102, Jerusalem, Israel.
+(3)Department of Statistics and Operations Research, School of Mathematical 
+Sciences, Tel-Aviv University, 6997801, Tel-Aviv, Israel. 
+saharon@post.tau.ac.il.
+
+BACKGROUND: We study Phylotree, a comprehensive representation of the phylogeny 
+of global human mitochondrial DNA (mtDNA) variations, to better understand the 
+mtDNA substitution mechanism and its most influential factors. We consider a 
+substitution model, where a set of genetic features may predict the rate at 
+which mtDNA substitutions occur. To find an appropriate model, an exhaustive 
+analysis on the effect of multiple factors on the substitution rate is performed 
+through Negative Binomial and Poisson regressions. We examine three different 
+inclusion options for each categorical factor: omission, inclusion as an 
+explanatory variable, and by-value partitioning. The examined factors include 
+genes, codon position, a CpG indicator, directionality, nucleotide, amino acid, 
+codon, and context (neighboring nucleotides), in addition to other site based 
+factors. Partitioning a model by a factor's value results in several sub-models 
+(one for each value), where the likelihoods of the sub-models can be combined to 
+form a score for the entire model. Eventually, the leading models are considered 
+as viable candidates for explaining mtDNA substitution rates.
+RESULTS: Initially, we introduce a novel clustering technique on genes, based on 
+three similarity tests between pairs of genes, supporting previous results 
+regarding gene functionalities in the mtDNA. These clusters are then used as a 
+factor in our models. We present leading models for the protein coding genes, 
+rRNA and tRNA genes and the control region, showing it is disadvantageous to 
+separate the models of transitions/transversions, or synonymous/non-synonymous 
+substitutions. We identify a context effect that cannot be attributed solely to 
+protein level constraints or CpG pairs. For protein-coding genes, we show that 
+the substitution model should be partitioned into sub-models according to the 
+codon position and input codon; additionally we confirm that gene identity and 
+cluster have no significant effect once the above factors are accounted for.
+CONCLUSIONS: We leverage the large, high-confidence Phylotree mtDNA phylogeny to 
+develop a new statistical approach. We model the substitution rates using 
+regressions, allowing consideration of many factors simultaneously. This admits 
+the use of model selection tools helping to identify the set of factors best 
+explaining the mutational dynamics when considered in tandem.
+
+DOI: 10.1186/s12864-018-5123-x
+PMCID: PMC6195736
+PMID: 30340456 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. COMPETING INTERESTS: The authors declare that they have no competing 
+interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.

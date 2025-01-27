@@ -1,0 +1,76 @@
+1. mBio. 2015 Nov 17;6(6):e01313-15. doi: 10.1128/mBio.01313-15.
+
+The Complete Genome Sequence of the Emerging Pathogen Mycobacterium haemophilum 
+Explains Its Unique Culture Requirements.
+
+Tufariello JM(1), Kerantzas CA(2), Vilchèze C(3), Calder RB(4), Nordberg EK(5), 
+Fischer JA(2), Hartman TE(2), Yang E(2), Driscoll T(6), Cole LE(2), Sebra R(7), 
+Maqbool SB(8), Wattam AR(5), Jacobs WR Jr(9).
+
+Author information:
+(1)Department of Microbiology and Immunology, Albert Einstein College of 
+Medicine, Bronx, New York, USA Department of Medicine, Albert Einstein College 
+of Medicine, Bronx, New York, USA jacobsw@hhmi.org 
+joann.tufariello@einstein.yu.edu.
+(2)Department of Microbiology and Immunology, Albert Einstein College of 
+Medicine, Bronx, New York, USA.
+(3)Department of Microbiology and Immunology, Albert Einstein College of 
+Medicine, Bronx, New York, USA Howard Hughes Medical Institute, Albert Einstein 
+College of Medicine, Bronx, New York, USA.
+(4)Division of Computational Genetics, Department of Genetics, Albert Einstein 
+College of Medicine, Bronx, New York, USA.
+(5)Virginia Bioinformatics Institute, Virginia Tech University, Blacksburg, 
+Virginia, USA.
+(6)Department of Biology (Microbial Metagenomics), West Virginia University, 
+Morgantown, Virginia, USA.
+(7)Department of Genetics and Genomic Sciences, Icahn School of Medicine, Mount 
+Sinai, New York, New York, USA.
+(8)Epigenomics Shared Facility, Albert Einstein College of Medicine, Bronx, New 
+York, USA.
+(9)Department of Microbiology and Immunology, Albert Einstein College of 
+Medicine, Bronx, New York, USA Howard Hughes Medical Institute, Albert Einstein 
+College of Medicine, Bronx, New York, USA jacobsw@hhmi.org 
+joann.tufariello@einstein.yu.edu.
+
+Mycobacterium haemophilum is an emerging pathogen associated with a variety of 
+clinical syndromes, most commonly skin infections in immunocompromised 
+individuals. M. haemophilum exhibits a unique requirement for iron 
+supplementation to support its growth in culture, but the basis for this 
+property and how it may shape pathogenesis is unclear. Using a combination of 
+Illumina, PacBio, and Sanger sequencing, the complete genome sequence of 
+M. haemophilum was determined. Guided by this sequence, experiments were 
+performed to define the basis for the unique growth requirements of 
+M. haemophilum. We found that M. haemophilum, unlike many other mycobacteria, is 
+unable to synthesize iron-binding siderophores known as mycobactins or to 
+utilize ferri-mycobactins to support growth. These differences correlate with 
+the absence of genes associated with mycobactin synthesis, secretion, and 
+uptake. In agreement with the ability of heme to promote growth, we identified 
+genes encoding heme uptake machinery. Consistent with its propensity to infect 
+the skin, we show at the whole-genome level the genetic closeness of 
+M. haemophilum with Mycobacterium leprae, an organism which cannot be cultivated 
+in vitro, and we identify genes uniquely shared by these organisms. Finally, we 
+identify means to express foreign genes in M. haemophilum. These data explain 
+the unique culture requirements for this important pathogen, provide a 
+foundation upon which the genome sequence can be exploited to improve 
+diagnostics and therapeutics, and suggest use of M. haemophilum as a tool to 
+elucidate functions of genes shared with M. leprae.
+IMPORTANCE: Mycobacterium haemophilum is an emerging pathogen with an unknown 
+natural reservoir that exhibits unique requirements for iron supplementation to 
+grow in vitro. Understanding the basis for this iron requirement is important 
+because it is fundamental to isolation of the organism from clinical samples and 
+environmental sources. Defining the molecular basis for M. haemophilium's growth 
+requirements will also shed new light on mycobacterial strategies to acquire 
+iron and can be exploited to define how differences in such strategies influence 
+pathogenesis. Here, through a combination of sequencing and experimental 
+approaches, we explain the basis for the iron requirement. We further 
+demonstrate the genetic closeness of M. haemophilum and Mycobacterium leprae, 
+the causative agent of leprosy which cannot be cultured in vitro, and we 
+demonstrate methods to genetically manipulate M. haemophilum. These findings 
+pave the way for the use of M. haemophilum as a model to elucidate functions of 
+genes shared with M. leprae.
+
+Copyright © 2015 Tufariello et al.
+
+DOI: 10.1128/mBio.01313-15
+PMCID: PMC4659460
+PMID: 26578674 [Indexed for MEDLINE]

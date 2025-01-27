@@ -1,0 +1,58 @@
+1. Curr Issues Mol Biol. 2023 Jul 14;45(7):5879-5901. doi: 10.3390/cimb45070372.
+
+Genome-Wide Mining of Selaginella moellendorffii for Hevein-like Lectins and 
+Their Potential Molecular Mimicry with SARS-CoV-2 Spike Glycoprotein.
+
+Alsolami A(1), Dirar AI(2), Konozy EHE(3)(4), Osman MEM(3), Ibrahim MA(5), 
+Alshammari KF(1), Alshammari F(6), Alazmi M(7), Said KB(8)(9).
+
+Author information:
+(1)Department of Internal Medicine, College of Medicine, University of Ha'il, 
+Ha'il 55476, Saudi Arabia.
+(2)Medicinal, Aromatic Plants and Traditional Medicine Research Institute 
+(MAPTRI), National Center for Research, Mek Nimr Street, Khartoum 11111, Sudan.
+(3)Department of Biotechnology, Africa City of Technology (ACT), Khartoum 11111, 
+Sudan.
+(4)Pharmaceutical Research and Development Centre, Faculty of Pharmacy, Karary 
+University, Omdurman, Khartoum 11111, Sudan.
+(5)Department of Data Science, King Abdullah International Medical Research 
+Center (KAIMRC), Riyadh 12211, Saudi Arabia.
+(6)Department of Dermatology, College of Medicine, University of Ha'il, Ha'il 
+55476, Saudi Arabia.
+(7)College of Computer Science and Engineering, University of Ha'il, Ha'il 
+81451, Saudi Arabia.
+(8)Department of Pathology and Microbiology, College of Medicine, University of 
+Ha'il, Ha'il 55476, Saudi Arabia.
+(9)Genomics, Bioinformatics and Systems Biology, Carleton University, 1125 
+Colonel-By Drive, Ottawa, ON K1S 5B6, Canada.
+
+Multidisciplinary research efforts on potential COVID-19 vaccine and therapeutic 
+candidates have increased since the pandemic outbreak of SARS-CoV-2 in 2019. 
+This search has become imperative due to the increasing emergences and limited 
+widely available medicines. The presence of bioactive anti-SARS-CoV-2 molecules 
+was examined from various plant sources. Among them is a group of proteins 
+called lectins that can bind carbohydrate moieties. In this article, we present 
+ten novel, chitin-specific Hevein-like lectins that were derived from 
+Selaginella moellendorffii v1.0's genome. The capacity of these lectin homologs 
+to bind with the spike protein of SARS-CoV-2 was examined. Using the HDOCK 
+server, 3D-modeled Hevein-domains were docked to the spike protein's receptor 
+binding domain (RBD). The Smo446851, Smo125663, and Smo99732 interacted with 
+Asn343-located complex N-glycan and RBD residues, respectively, with binding 
+free energies of -17.5, -13.0, and -26.5 Kcal/mol. The molecular dynamics 
+simulation using Desmond and the normal-state analyses via torsional coordinate 
+association for the Smo99732-RBD complex using iMODS is characterized by overall 
+higher stability and minimum deformity than the other lectin complexes. The 
+three lectins interacting with carbohydrates were docked against five individual 
+mutations that frequently occur in major SARS-CoV-2 variants. These were in the 
+spike protein's receptor-binding motif (RBM), while Smo125663 and Smo99732 only 
+interacted with the spike glycoprotein in a protein-protein manner. The 
+precursors for the Hevein-like homologs underwent additional characterization, 
+and their expressional profile in different tissues was studied. These in silico 
+findings offered potential lectin candidates targeting key N-glycan sites 
+crucial to the virus's virulence and infection.
+
+DOI: 10.3390/cimb45070372
+PMCID: PMC10378081
+PMID: 37504288
+
+Conflict of interest statement: The authors declare no conflict of interest.

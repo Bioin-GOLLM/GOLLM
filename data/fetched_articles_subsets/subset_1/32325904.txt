@@ -1,0 +1,36 @@
+1. Int J Mol Sci. 2020 Apr 19;21(8):2857. doi: 10.3390/ijms21082857.
+
+A Computational Probe into the Structure and Dynamics of the Full-Length 
+Toll-Like Receptor 3 in a Phospholipid Bilayer.
+
+Patra MC(1), Batool M(1), Haseeb M(1), Choi S(1).
+
+Author information:
+(1)Department of Molecular Science and Technology, Ajou University, 16499 Suwon, 
+Korea.
+
+Toll-like receptor 3 (TLR3) provides the host with antiviral defense by 
+initiating an immune signaling cascade for the production of type I interferons. 
+The X-ray structures of isolated TLR3 ectodomain (ECD) and transmembrane (TM) 
+domains have been reported; however, the structure of a membrane-solvated, 
+full-length receptor remains elusive. We investigated an all-residue TLR3 model 
+embedded inside a phospholipid bilayer using molecular dynamics simulations. The 
+TLR3-ECD exhibited a ~30°-35° tilt on the membrane due to the electrostatic 
+interaction between the N-terminal subdomain and phospholipid headgroups. 
+Although the movement of dsRNA did not affect the dimer integrity of TLR3, its 
+sugar-phosphate backbone was slightly distorted with the orientation of the ECD. 
+TM helices exhibited a noticeable tilt and curvature but maintained a consistent 
+crossing angle, avoiding the hydrophobic mismatch with the bilayer. Residues 
+from the αD helix and the CD and DE loops of the Toll/interleukin-1 receptor 
+(TIR) domains were partially absorbed into the lower leaflet of the bilayer. We 
+found that the previously unknown TLR3-TIR dimerization interface could be 
+stabilized by the reciprocal contact between αC and αD helices of one subunit 
+and the αC helix and the BB loop of the other. Overall, the present study can be 
+helpful to understand the signaling-competent form of TLR3 in physiological 
+environments.
+
+DOI: 10.3390/ijms21082857
+PMCID: PMC7215789
+PMID: 32325904 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

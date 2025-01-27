@@ -1,0 +1,57 @@
+1. Front Oncol. 2021 Sep 2;11:638362. doi: 10.3389/fonc.2021.638362. eCollection 
+2021.
+
+Computed Tomography-Based Radiomics Nomogram: Potential to Predict Local 
+Recurrence of Gastric Cancer After Radical Resection.
+
+Huang L(1), Feng B(1)(2), Li Y(3), Liu Y(2), Chen Y(2), Chen Q(1), Li C(2), 
+Huang W(1), Xue H(1), Li X(4), Zhou T(1), Li R(5), Long W(1), Feng ST(4).
+
+Author information:
+(1)Department of Radiology, Jiangmen Central Hospital, Jiangmen, China.
+(2)School of Electronic Information and Automation, Guilin University of 
+Aerospace Technology, Guilin, China.
+(3)Department of Radiology, The First Affiliated Hospital of Jinan University, 
+Guangzhou, China.
+(4)Department of Radiology, The First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China.
+(5)Department of Pathology, Jiangmen Central Hospital, Jiangmen, China.
+
+OBJECTIVE: Accurate prediction of postoperative recurrence risk of gastric 
+cancer (GC) is critical for individualized precision therapy. We aimed to 
+investigate whether a computed tomography (CT)-based radiomics nomogram can be 
+used as a tool for predicting the local recurrence (LR) of GC after radical 
+resection.
+MATERIALS AND METHODS: 342 patients (194 in the training cohort, 78 in the 
+internal validation cohort, and 70 in the external validation cohort) with 
+pathologically proven GC from two centers were included. Radiomics features were 
+extracted from the preoperative CT imaging. The clinical model, radiomics 
+signature, and radiomics nomogram, which incorporated the radiomics signature 
+and independent clinical risk factors, were developed and verified. Furthermore, 
+the performance of these three models was assessed by using the area under the 
+curve (AUC) of receiver operating characteristic (ROC) curve analysis and 
+decision curve analysis (DCA).
+RESULTS: The radiomics signature, which was comprised of two selected radiomics 
+features, namely, contrast_GLCM and dissimilarity_GLCM, showed better 
+performance than the clinical model in predicting the LR of GC, with AUC values 
+of 0.83 in the training cohort, 0.84 in the internal validation cohort, and 0.73 
+in the external cohort, respectively. By integrating the independent clinical 
+risk factors (N stage, bile acid duodenogastric reflux and nodular or irregular 
+outer layer of the gastric wall) into the radiomics signature, the radiomics 
+nomogram achieved the highest accuracy in predicting LR, with AUC values of 
+0.89, 0.89 and 0.80 in the three cohorts, respectively. DCA in the validation 
+cohort showed that radiomics nomogram added more net benefit than the clinical 
+model within the range of 0.01-0.98.
+CONCLUSION: The CT-based radiomics nomogram has the potential to predict the LR 
+of GC after radical resection.
+
+Copyright © 2021 Huang, Feng, Li, Liu, Chen, Chen, Li, Huang, Xue, Li, Zhou, Li, 
+Long and Feng.
+
+DOI: 10.3389/fonc.2021.638362
+PMCID: PMC8445075
+PMID: 34540653
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

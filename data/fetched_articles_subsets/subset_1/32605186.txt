@@ -1,0 +1,40 @@
+1. Materials (Basel). 2020 Jun 28;13(13):2897. doi: 10.3390/ma13132897.
+
+Multi-Response Optimization of Electrical Discharge Drilling Process of SS304 
+for Energy Efficiency, Product Quality, and Productivity.
+
+Nguyen TT(1)(2), Tran VT(3), Mia M(4).
+
+Author information:
+(1)Institute of Research and Development, Duy Tan University, 03 Quang Trung, Da 
+Nang 550000, Vietnam.
+(2)Department of Manufacturing Technology, Le Quy Don Technical University, 236 
+Hoang Quoc Viet, Ha Noi 100000, Vietnam.
+(3)Faculty of Mechanical Engineering, Industrial College, Thanh Vinh, Phu Tho 
+Town, Phu Tho 35000, Vietnam.
+(4)Department of Mechanical Engineering, Imperial College London, Exhibition 
+Road, South Kensington, London SW7 2AZ, UK.
+
+The electrical discharge drilling (EDD) process is an effective machining 
+approach to produce various holes in difficult-to-cut materials. However, the 
+energy efficiency of the EDD operation has not thoroughly been considered in 
+published works. The aim of the current work is to optimize varied parameters 
+for enhancing the material removal rate (MRR), saving drilled energy (ED), and 
+decreasing the expansion of the hole (HE) for the EDD process. Three advanced 
+factors, including the gap voltage adjustor (GAP), capacitance parallel 
+connection (CAP), and servo sensitivity selection (SV), are considered. The 
+predictive models of the performances were proposed with the support of the 
+adaptive neuro-based fuzzy inference system (ANFIS). An integrative approach 
+combining the analytic hierarchy process (AHP) and the neighborhood cultivation 
+genetic algorithm (NCGA) was employed to select optimal factors. The findings 
+revealed the optimal values of the CAP, GAP, and SV were 6, 5, and 4, 
+respectively. Moreover, the ED and HE were decreased by 16.78% and 28.68%, while 
+the MRR was enhanced by 89.72%, respectively, as compared to the common setting 
+values. The explored outcome can be employed as a technical solution to enhance 
+the energy efficiency, drilled quality, and productivity of the EDD operation.
+
+DOI: 10.3390/ma13132897
+PMCID: PMC7372438
+PMID: 32605186
+
+Conflict of interest statement: The authors declare no conflict of interest.

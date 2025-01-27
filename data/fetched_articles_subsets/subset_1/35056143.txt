@@ -1,0 +1,58 @@
+1. Pharmaceuticals (Basel). 2022 Jan 11;15(1):86. doi: 10.3390/ph15010086.
+
+In Silico-Based Discovery of Natural Anthraquinones with Potential against 
+Multidrug-Resistant E. coli.
+
+Alhadrami HA(1)(2)(3), Abdulaal WH(4), Hassan HM(5)(6), Alhakamy NA(7), Sayed 
+AM(5).
+
+Author information:
+(1)Department of Medical Laboratory Technology, Faculty of Applied Medical 
+Sciences, King Abdulaziz University, P.O. Box 80402, Jeddah 21589, Saudi Arabia.
+(2)Molecular Diagnostic Lab, King Abdulaziz University Hospital, King Abdulaziz 
+University, P.O. Box 80402, Jeddah 21589, Saudi Arabia.
+(3)Special Infectious Agent Unit, King Fahd Medical Research Center, King 
+Abdulaziz University, P.O. Box 80402, Jeddah 21589, Saudi Arabia.
+(4)Cancer and Mutagenesis Unit, Department of Biochemistry, Faculty of Science, 
+King Fahd Medical Research Center, King Abdulaziz University, P.O. Box 80402, 
+Jeddah 21589, Saudi Arabia.
+(5)Department of Pharmacognosy, Faculty of Pharmacy, Nahda University, Beni-Suef 
+62513, Egypt.
+(6)Department of Pharmacognosy, Faculty of Pharmacy, Beni-Suef University, 
+Beni-Suef 62511, Egypt.
+(7)Department of Pharmaceutics, Faculty of Pharmacy, King Abdulaziz University, 
+P.O. Box 80402, Jeddah 21589, Saudi Arabia.
+
+E. coli is a Gram-negative bacterium that causes different human infections. 
+Additionally, it resists common antibiotics due to its outer protective 
+membrane. Natural products have been proven to be efficient antibiotics. 
+However, plant natural products are far less explored in this regard. 
+Accordingly, over 16,000 structures covering almost all African medicinal plants 
+in AfroDb in a structural-based virtual screening were used to find efficient 
+anti-E. coli candidates. These drug-like structures were docked into the active 
+sites of two important molecular targets (i.e., E. coli's Ddl-B and Gyr-B). The 
+top-scoring hits (i.e., got docking scores < -10 kcal/mol) produced in the 
+initial virtual screening (0.15% of the database structures for Ddl-B and 0.17% 
+of the database structures for Gyr-B in the database) were further refined using 
+molecular dynamic simulation-based binding free energy (ΔG) calculation. 
+Anthraquinones were found to prevail among the retrieved hits. Accordingly, 
+readily available anthraquinone derivatives (10 hits) were selected, prepared, 
+and tested in vitro against Ddl-B, Gyr-B, multidrug-resistant (MDR) E. coli, 
+MRSA, and VRSA. A number of the tested derivatives demonstrated strong 
+micromolar enzyme inhibition and antibacterial activity against E. coli, MRSA, 
+and VRSA, with MIC values ranging from 2 to 64 µg/mL. Moreover, both E. coli's 
+Ddl-B and Gyr-B were inhibited by emodin and chrysophanol with IC50 values 
+comparable to the reference inhibitors (IC50 = 216 ± 5.6, 236 ± 8.9 and 0.81 ± 
+0.3, 1.5 ± 0.5 µM for Ddl-B and Gyr-B, respectively). All of the active 
+antibacterial anthraquinone hits showed low to moderate cellular cytotoxicity 
+(CC50 > 50 µM) against human normal fibroblasts (WI-38). Furthermore, molecular 
+dynamic simulation (MDS) experiments were carried out to reveal the binding 
+modes of these inhibitors inside the active site of each enzyme. The findings 
+presented in this study are regarded as a significant step toward developing 
+novel antibacterial agents against MDR strains.
+
+DOI: 10.3390/ph15010086
+PMCID: PMC8778091
+PMID: 35056143
+
+Conflict of interest statement: The authors declare no conflict of interest.

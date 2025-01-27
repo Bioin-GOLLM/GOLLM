@@ -1,0 +1,65 @@
+1. Genome Med. 2014 Oct 10;6(10):75. doi: 10.1186/s13073-014-0075-5. eCollection 
+2014.
+
+Alteration in basal and depolarization induced transcriptional network in iPSC 
+derived neurons from Timothy syndrome.
+
+Tian Y(1), Voineagu I(2), Paşca SP(3), Won H(4), Chandran V(4), Horvath S(5), 
+Dolmetsch RE(6), Geschwind DH(7).
+
+Author information:
+(1)Neurogenetics Program, Department of Neurology, Center for Autism Research 
+and Treatment, Semel Institute, David Geffen School of Medicine, University of 
+California, Los Angeles, CA 90095 USA ; Interdepartmental Ph.D. Program in 
+Bioinformatics, University of California, Los Angeles, CA 90095 USA.
+(2)School of Biotechnology and Biomolecular Sciences, University of New South 
+Wales, Sydney, NSW 2052 Australia.
+(3)Department of Psychiatry & Behavioral Sciences, Center for Sleep Sciences and 
+Medicine, Stanford University School of Medicine, Stanford, CA 94305 USA.
+(4)Neurogenetics Program, Department of Neurology, Center for Autism Research 
+and Treatment, Semel Institute, David Geffen School of Medicine, University of 
+California, Los Angeles, CA 90095 USA.
+(5)Department of Human Genetics, David Geffen Sch. of Medicine, UCLA, Los 
+Angeles, CA USA.
+(6)Department of Neurobiology, Stanford University, Stanford, CA 94305-5345 USA 
+; Novartis Institutes for Biomedical Research, Cambridge, MA 02139 USA.
+(7)Neurogenetics Program, Department of Neurology, Center for Autism Research 
+and Treatment, Semel Institute, David Geffen School of Medicine, University of 
+California, Los Angeles, CA 90095 USA ; Interdepartmental Ph.D. Program in 
+Bioinformatics, University of California, Los Angeles, CA 90095 USA ; Department 
+of Human Genetics, David Geffen Sch. of Medicine, UCLA, Los Angeles, CA USA.
+
+BACKGROUND: Common genetic variation and rare mutations in genes encoding 
+calcium channel subunits have pleiotropic effects on risk for multiple 
+neuropsychiatric disorders, including autism spectrum disorder (ASD) and 
+schizophrenia. To gain further mechanistic insights by extending previous gene 
+expression data, we constructed co-expression networks in Timothy syndrome (TS), 
+a monogenic condition with high penetrance for ASD, caused by mutations in the 
+L-type calcium channel, Cav1.2.
+METHODS: To identify patient-specific alterations in transcriptome organization, 
+we conducted a genome-wide weighted co-expression network analysis (WGCNA) on 
+neural progenitors and neurons from multiple lines of induced pluripotent stem 
+cells (iPSC) derived from normal and TS (G406R in CACNA1C) individuals. We 
+employed transcription factor binding site enrichment analysis to assess whether 
+TS associated co-expression changes reflect calcium-dependent co-regulation.
+RESULTS: We identified reproducible developmental and activity-dependent gene 
+co-expression modules conserved in patient and control cell lines. By comparing 
+cell lines from case and control subjects, we also identified co-expression 
+modules reflecting distinct aspects of TS, including intellectual disability and 
+ASD-related phenotypes. Moreover, by integrating co-expression with 
+transcription factor binding analysis, we showed the TS-associated 
+transcriptional changes were predicted to be co-regulated by calcium-dependent 
+transcriptional regulators, including NFAT, MEF2, CREB, and FOXO, thus providing 
+a mechanism by which altered Ca(2+) signaling in TS patients leads to the 
+observed molecular dysregulation.
+CONCLUSIONS: We applied WGCNA to construct co-expression networks related to 
+neural development and depolarization in iPSC-derived neural cells from TS and 
+control individuals for the first time. These analyses illustrate how a systems 
+biology approach based on gene networks can yield insights into the molecular 
+mechanisms of neural development and function, and provide clues as to the 
+functional impact of the downstream effects of Ca(2+) signaling dysregulation on 
+transcription.
+
+DOI: 10.1186/s13073-014-0075-5
+PMCID: PMC4213483
+PMID: 25360157

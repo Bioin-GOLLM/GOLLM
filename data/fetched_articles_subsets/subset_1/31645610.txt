@@ -1,0 +1,48 @@
+1. Sci Rep. 2019 Oct 23;9(1):15172. doi: 10.1038/s41598-019-51349-9.
+
+Regulatory Crosstalk of Doxorubicin, Estradiol and TNFα Combined Treatment in 
+Breast Cancer-derived Cell Lines.
+
+Nassiri I(1)(2), Inga A(3), Meškytė EM(4)(5), Alessandrini F(4), Ciribilli Y(4), 
+Priami C(6)(7).
+
+Author information:
+(1)Department of Oncology, MRC Weatherall Institute of Molecular Medicine, 
+University of Oxford, Oxford, UK.
+(2)The Microsoft Research - University of Trento Centre for Computational and 
+Systems Biology (COSBI), Rovereto, TN, Italy.
+(3)Laboratory of Transcriptional Networks, Department CIBIO, University of 
+Trento, 38123, Trento, Italy.
+(4)Laboratory of Molecular Cancer Genetics, Department CIBIO, University of 
+Trento, 38123, Trento, Italy.
+(5)Department of Biological Models, Life Sciences Centre, Institute of 
+Biochemistry, Vilnius University, Vilnius, Lithuania.
+(6)The Microsoft Research - University of Trento Centre for Computational and 
+Systems Biology (COSBI), Rovereto, TN, Italy. priami@cosbi.eu.
+(7)Dipartimento di Informatica, Università di Pisa, Pisa, Italy. 
+priami@cosbi.eu.
+
+We present a new model of ESR1 network regulation based on analysis of 
+Doxorubicin, Estradiol, and TNFα combination treatment in MCF-7. We used 
+Doxorubicin as a therapeutic agent, TNFα as marker and mediator of an 
+inflammatory microenvironment and 17β-Estradiol (E2) as an agonist of Estrogen 
+Receptors, known predisposing factor for hormone-driven breast cancer, whose 
+pharmacological inhibition reduces the risk of breast cancer recurrence. Based 
+on the results of transcriptomics analysis, we found 71 differentially expressed 
+genes that are specific for the combination treatment with 
+Doxorubicin + Estradiol + TNFα in comparison with single or double treatments. 
+The responsiveness to the triple treatment was examined for seven genes by qPCR, 
+of which six were validated, and then extended to four additional cell lines 
+differing for p53 and/or ER status. The results of differential regulation 
+enrichment analysis highlight the role of the ESR1 network that included 36 of 
+71 specific differentially expressed genes. We propose that the combined 
+activation of p53 and NF-kB transcription factors significantly influences 
+ligand-dependent, ER-driven transcriptional responses, also of the ESR1 gene 
+itself. These results provide a model of coordinated interaction of TFs to 
+explain the Doxorubicin, E2 and TNFα induced repression mechanisms.
+
+DOI: 10.1038/s41598-019-51349-9
+PMCID: PMC6811586
+PMID: 31645610 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

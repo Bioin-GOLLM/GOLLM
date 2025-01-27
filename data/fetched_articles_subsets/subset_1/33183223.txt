@@ -1,0 +1,54 @@
+1. BMC Bioinformatics. 2020 Nov 12;21(1):520. doi: 10.1186/s12859-020-03842-6.
+
+Quantitative Structure-Mutation-Activity Relationship Tests (QSMART) model for 
+protein kinase inhibitor response prediction.
+
+Huang LC(1), Yeung W(1), Wang Y(2), Cheng H(2), Venkat A(3), Li S(4), Ma P(2), 
+Rasheed K(4), Kannan N(5)(6).
+
+Author information:
+(1)Institute of Bioinformatics, University of Georgia, 120 Green St., Athens, 
+GA, 30602, USA.
+(2)Department of Statistics, University of Georgia, 310 Herty Drive, Athens, GA, 
+30602, USA.
+(3)Department of Biochemistry and Molecular Biology, 120 Green St., Athens, GA, 
+30602, USA.
+(4)Department of Computer Science, 415 Boyd Graduate Studies Research Center, 
+Athens, GA, 30602, USA.
+(5)Institute of Bioinformatics, University of Georgia, 120 Green St., Athens, 
+GA, 30602, USA. nkannan@uga.edu.
+(6)Department of Biochemistry and Molecular Biology, 120 Green St., Athens, GA, 
+30602, USA. nkannan@uga.edu.
+
+BACKGROUND: Protein kinases are a large family of druggable proteins that are 
+genomically and proteomically altered in many human cancers. Kinase-targeted 
+drugs are emerging as promising avenues for personalized medicine because of the 
+differential response shown by altered kinases to drug treatment in patients and 
+cell-based assays. However, an incomplete understanding of the relationships 
+connecting genome, proteome and drug sensitivity profiles present a major 
+bottleneck in targeting kinases for personalized medicine.
+RESULTS: In this study, we propose a multi-component Quantitative 
+Structure-Mutation-Activity Relationship Tests (QSMART) model and neural 
+networks framework for providing explainable models of protein kinase inhibition 
+and drug response ([Formula: see text]) profiles in cell lines. Using non-small 
+cell lung cancer as a case study, we show that interaction terms that capture 
+associations between drugs, pathways, and mutant kinases quantitatively 
+contribute to the response of two EGFR inhibitors (afatinib and lapatinib). In 
+particular, protein-protein interactions associated with the JNK apoptotic 
+pathway, associations between lung development and axon extension, and 
+interaction terms connecting drug substructures and the volume/charge of mutant 
+residues at specific structural locations contribute significantly to the 
+observed [Formula: see text] values in cell-based assays.
+CONCLUSIONS: By integrating multi-omics data in the QSMART model, we not only 
+predict drug responses in cancer cell lines with high accuracy but also identify 
+features and explainable interaction terms contributing to the accuracy. 
+Although we have tested our multi-component explainable framework on protein 
+kinase inhibitors, it can be extended across the proteome to investigate the 
+complex relationships connecting genotypes and drug sensitivity profiles.
+
+DOI: 10.1186/s12859-020-03842-6
+PMCID: PMC7664030
+PMID: 33183223 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

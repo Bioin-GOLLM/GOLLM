@@ -1,0 +1,60 @@
+1. Comput Biol Chem. 2018 Dec;77:207-213. doi:
+10.1016/j.compbiolchem.2018.10.001.  Epub 2018 Oct 12.
+
+The potential peptides against angiotensin-I converting enzyme through a virtual 
+tripeptide-constructing library.
+
+Panyayai T(1), Sangsawad P(2), Pacharawongsakda E(3), Sawatdichaikul O(4), 
+Tongsima S(5), Choowongkomon K(6).
+
+Author information:
+(1)Genetic Engineering Interdisciplinary Program, Graduate School, Kasetsart 
+University, 50 Ngam Wong Wan Rd, Bangkok, Chatuchak 10900, Thailand; Department 
+of Research and Development, Betagro Science Center Co. Ltd., 136 Moo 9, Klong 
+Nueng, Pathumthani 12120, Thailand.
+(2)Department of Research and Development, Betagro Science Center Co. Ltd., 136 
+Moo 9, Klong Nueng, Pathumthani 12120, Thailand.
+(3)Big Data Engineering Program, College of Innovative Technology and 
+Engineering, Dhurakij Pundit University, 110/1-4 Prachachuen Road, Laksi, 
+Bangkok 10210, Thailand.
+(4)Functional Food Unit, Department of Nutrition and Health, Institute of Food 
+Research and Product Development, Kasetsart University, Thailand.
+(5)Biostatistic and Bioinformatics Laboratory, Genome Technology Research Unit, 
+National Center for Genetic Engineering and Biotechnology (BIOTEC), 113 Thailand 
+Science Park, Phahonyothin Road Khlong Nueng, Khlong Luang, Pathum Thani, 
+121205, Thailand.
+(6)Department of Biochemistry, Faculty of Science, Kasetsart University, 50 
+Ngam, Wong Wan Rd, Bangkok, Chatuchak 10900, Thailand; Center for Advanced 
+Studies in Nanotechnology for Chemical, Food and Agricultural Industries, KU 
+Institute for Advanced Studies, Kasetsart University, Bangkok, Thailand. 
+Electronic address: fsciktc@ku.ac.th.
+
+Peptides derived from food proteins are promising bioactive source for 
+inhibiting Angiotensin-I converting enzyme (ACE) activity. Bioactive peptides 
+(BP) have received much attention, particularly from the pharmaceutical 
+industry. As they not only own potent properties but also possess less 
+side-effects than synthetic drugs. In this work, an 8000 possible tripeptides 
+library was constructed to predict the potential ACE inhibitory peptides by 
+using in silico tools. GOLD molecular docking was then applied to determine the 
+binding mode of action between ACE and each of tripeptide from this in-house 
+library. The first 662 high-ranking tripeptides by ChemScore were chosen to 
+create association rules of tripeptides-ACE complexes. An orientation pattern of 
+amino acid in the binding tunnel of ACE has been examined by frequency analysis. 
+The association rules (confident values over 90%) illustrated that hydrophobic 
+factor has been displayed as main components in the ACE tripeptides inhibitor 
+from four factors in equation, hydrophobic, aromatic, polar, charged. According 
+to in silico output, five tripeptides were chosen to test in vitro study of 
+ACE-inhibitory activity. The half-maximal inhibitory concentration (IC50) of 
+these selective five peptides, WCW, IWW, WWW, WWI and WLW for inhibiting ACE 
+were 49.50 ± 3.88 μM, 489.14 ± 8.84 μM, 536.02 ± 38.57 μM, 752.91 ± 41.89 μM and 
+1783 ± 0.113 μM, respectively. Molecular dynamics simulations approach was 
+applied to study the interaction of WCW (Trp-Cys-Trp) within ACE pocket site. 
+This ligand was stabilized by strong hydrogen bonding interactions with ACE 
+active site, Tyr523-Trp'1 (99.76%) and His353-Trp'1 (95.68%). Our computational 
+protocol could be considered as a new tool for identifying active peptide 
+against ACE from hydrolysated peptides of natural sources.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2018.10.001
+PMID: 30347317 [Indexed for MEDLINE]

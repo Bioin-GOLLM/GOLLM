@@ -1,0 +1,67 @@
+1. medRxiv [Preprint]. 2023 Sep 10:2023.09.08.23295248. doi: 
+10.1101/2023.09.08.23295248.
+
+A Nanopore sequencing-based pharmacogenomic panel to personalize tuberculosis 
+drug dosing.
+
+Verma R(1)(2)(3), da Silva KE(1), Rockwood N(4)(5)(6), Wasmann RE(7), Yende 
+N(8), Song T(8), Kim E(1), Denti P(7), Wilkinson RJ(4)(5)(9), Andrews JR(1).
+
+Author information:
+(1)Division of Infectious Diseases and Geographic Medicine, Stanford University 
+School of Medicine, California, USA.
+(2)Institute of Bioinformatics, International Tech Park, Bangalore, India.
+(3)Manipal Academy of Higher Education (MAHE), Manipal, Karnataka, India.
+(4)Center for Infectious Diseases Research in Africa, Institute of Infectious 
+Disease and Molecular Medicine and Dept. Medicine, University of Cape Town, 
+Observatory 7925, South Africa.
+(5)Department of Infectious Diseases, Imperial College, London, W12 0NN, United 
+Kingdom.
+(6)Department of Medical Microbiology and Immunology, Faculty of Medicine, 
+University of Colombo, Sri Lanka.
+(7)Division of Clinical Pharmacology, Department of Medicine, University of Cape 
+Town, Cape Town, South Africa.
+(8)Department of Pathology and Institute of Infectious Disease and Molecular 
+Medicine, University of Cape Town, Observatory 7925, South Africa.
+(9)Francis Crick Institute, London NW1 1AT, United Kingdom.
+
+Update in
+    Am J Respir Crit Care Med. 2024 Jun 15;209(12):1486-1496. doi: 
+10.1164/rccm.202309-1583OC.
+
+RATIONALE: Standardized dosing of anti-tubercular (TB) drugs leads to variable 
+plasma drug levels, which are associated with adverse drug reactions, delayed 
+treatment response, and relapse. Mutations in genes affecting drug metabolism 
+explain considerable interindividual pharmacokinetic variability; however, 
+pharmacogenomic (PGx) assays that predict metabolism of anti-TB drugs have been 
+lacking.
+OBJECTIVES: To develop a Nanopore sequencing panel and validate its performance 
+in active TB patients to personalize treatment dosing.
+MEASUREMENTS AND MAIN RESULTS: We developed a Nanopore sequencing panel 
+targeting 15 single nucleotide polymorphisms (SNP) in 5 genes affecting the 
+metabolism of isoniazid (INH), rifampin (RIF), linezolid and bedaquiline. For 
+validation, we sequenced DNA samples (n=48) from the 1000 genomes project and 
+compared variant calling accuracy with Illumina genome sequencing. We then 
+sequenced DNA samples from patients with active TB (n=100) from South Africa on 
+a MinION Mk1C and evaluated the relationship between genotypes and 
+pharmacokinetic parameters for INH and RIF.
+RESULTS: The PGx panel achieved 100% concordance with Illumina sequencing in 
+variant identification for the samples from the 1000 Genomes Project. In the 
+clinical cohort, coverage was >100x for 1498/1500 (99.8%) amplicons across the 
+100 samples. One third (33%) of participants were identified as slow, 47% were 
+intermediate and 20% were rapid isoniazid acetylators. Isoniazid clearance was 
+significantly impacted by acetylator status (p<0.0001) with median (IQR) 
+clearances of 11.2 L/h (9.3-13.4), 27.2 L/h (22.0-31.7), and 45.1 L/h 
+(34.1-51.1) in slow, intermediate, and rapid acetylators. Rifampin clearance was 
+17.3% (2.50-29.9) lower in individuals with homozygous AADAC rs1803155 G>A 
+substitutions (p=0.0015).
+CONCLUSION: Targeted sequencing can enable detection of polymorphisms 
+influencing TB drug metabolism on a low-cost, portable instrument to personalize 
+dosing for TB treatment or prevention.
+
+DOI: 10.1101/2023.09.08.23295248
+PMCID: PMC10508808
+PMID: 37732197
+
+Conflict of interest statement: Conflicts of Interest The authors declare no 
+conflict of interest.

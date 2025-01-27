@@ -1,0 +1,48 @@
+1. PLoS One. 2017 Apr 6;12(4):e0175185. doi: 10.1371/journal.pone.0175185. 
+eCollection 2017.
+
+An integrated method for the identification of novel genes related to oral 
+cancer.
+
+Chen L(1)(2), Yang J(1), Xing Z(3), Yuan F(4), Shu Y(3), Zhang Y(5), Kong X(3), 
+Huang T(3), Li H(6), Cai YD(1).
+
+Author information:
+(1)School of Life Sciences, Shanghai University, Shanghai, People's Republic of 
+China.
+(2)College of Information Engineering, Shanghai Maritime University, Shanghai, 
+People's Republic of China.
+(3)Institute of Health Sciences, Shanghai Institutes for Biological Sciences, 
+Chinese Academy of Sciences, Shanghai, People's Republic of China.
+(4)Department of Science & Technology, Binzhou Medical University Hospital, 
+Binzhou, Shandong, People's Republic of China.
+(5)School of Resources and Environment, Anhui Agricultural University, Hefei, 
+Anhui, People's Republic of China.
+(6)CAS Key Laboratory of Computational Biology, CAS-MPG Partner Institute for 
+Computational Biology, Shanghai Institutes for Biological Sciences, Chinese 
+Academy of Sciences, Shanghai, People's Republic of China.
+
+Cancer is a significant public health problem worldwide. Complete identification 
+of genes related to one type of cancer facilitates earlier diagnosis and 
+effective treatments. In this study, two widely used algorithms, the random walk 
+with restart algorithm and the shortest path algorithm, were adopted to 
+construct two parameterized computational methods, namely, an RWR-based method 
+and an SP-based method; based on these methods, an integrated method was 
+constructed for identifying novel disease genes. To validate the utility of the 
+integrated method, data for oral cancer were used, on which the RWR-based and 
+SP-based methods were trained, thereby building two optimal methods. The 
+integrated method combining these optimal methods was further adopted to 
+identify the novel genes of oral cancer. As a result, 85 novel genes were 
+inferred, among which eleven genes (e.g., MYD88, FGFR2, NF-κBIA) were identified 
+by both the RWR-based and SP-based methods, 70 genes (e.g., BMP4, IFNG, KITLG) 
+were discovered only by the RWR-based method and four genes (L1R1, MCM6, NOG and 
+CXCR3) were predicted only by the SP-based method. Extensive analyses indicate 
+that several novel genes have strong associations with cancers, indicating the 
+effectiveness of the integrated method for identifying disease genes.
+
+DOI: 10.1371/journal.pone.0175185
+PMCID: PMC5383255
+PMID: 28384236 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

@@ -1,0 +1,40 @@
+1. J Magn Reson. 2021 May;326:106937. doi: 10.1016/j.jmr.2021.106937. Epub 2021
+Feb  18.
+
+Optimal design of adaptively sampled NMR experiments for measurement of methyl 
+group dynamics with application to a ribosome-nascent chain complex.
+
+Waudby CA(1), Burridge C(2), Christodoulou J(3).
+
+Author information:
+(1)Department of Structural and Molecular Biology, UCL, Gower St, London WC1E 
+6BT, UK. Electronic address: c.waudby@ucl.ac.uk.
+(2)Department of Structural and Molecular Biology, UCL, Gower St, London WC1E 
+6BT, UK.
+(3)Department of Structural and Molecular Biology, UCL, Gower St, London WC1E 
+6BT, UK. Electronic address: j.christodoulou@ucl.ac.uk.
+
+NMR measurements of cross-correlated nuclear spin relaxation provide powerful 
+probes of polypeptide dynamics and rotational diffusion, free from contributions 
+due to chemical exchange or interactions with external spins. Here, we report on 
+the development of a sensitivity-optimized pulse sequence for the analysis of 
+the differential relaxation of transitions within isolated 13CH3 spin systems, 
+in order to characterise rotational diffusion and side chain order through the 
+product S2τc. We describe the application of optimal design theory to implement 
+a real-time 'on-the-fly' adaptive sampling scheme that maximizes the accuracy of 
+the measured parameters. The increase in sensitivity obtained using this 
+approach enables quantitative measurements of rotational diffusion within folded 
+states of translationally-arrested ribosome-nascent chain complexes of the FLN5 
+filamin domain, and can be used to place strong limits on interactions between 
+the domain and the ribosome surface.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jmr.2021.106937
+PMCID: PMC7613274
+PMID: 33706222 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

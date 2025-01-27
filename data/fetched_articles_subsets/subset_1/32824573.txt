@@ -1,0 +1,56 @@
+1. Genes (Basel). 2020 Aug 17;11(8):949. doi: 10.3390/genes11080949.
+
+Whole Genome Sequencing of SARS-CoV-2: Adapting Illumina Protocols for Quick and 
+Accurate Outbreak Investigation during a Pandemic.
+
+Pillay S(1), Giandhari J(1), Tegally H(1), Wilkinson E(1), Chimukangara 
+B(1)(2)(3), Lessells R(1)(4), Moosa Y(4), Mattison S(1), Gazy I(1), Fish M(1), 
+Singh L(1), Khanyile KS(1), San JE(1), Fonseca V(1)(5)(6), Giovanetti M(6), 
+Alcantara LC Jr(5)(6), de Oliveira T(1)(2)(7).
+
+Author information:
+(1)KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP), School of 
+Laboratory Medicine & Medical Sciences, University of KwaZulu-Natal, Durban 
+4001, South Africa.
+(2)Centre for AIDS Programme of Research in South Africa (CAPRISA), Durban 4001, 
+South Africa.
+(3)Department of Virology, National Health Laboratory Service, University of 
+KwaZulu-Natal, Durban 4001, South Africa.
+(4)Infectious Diseases Department, Nelson R Mandela School of Medicine, 
+University of KwaZulu-Natal, Durban 4001, South Africa.
+(5)Laboratorio de Genetica Celular e Molecular, ICB, Universidade Federal de 
+Minas Gerais, Belo Horizonte 31270-901, Brazil.
+(6)Laboratório de Flavivírus, Instituto Oswaldo Cruz Fiocruz, Rio de Janeiro 
+21045-900, Brazil.
+(7)Department of Global Health, University of Washington, Seattle, WA 98195, 
+USA.
+
+The COVID-19 pandemic has spread very fast around the world. A few days after 
+the first detected case in South Africa, an infection started in a large 
+hospital outbreak in Durban, KwaZulu-Natal (KZN). Phylogenetic analysis of 
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genomes can be used 
+to trace the path of transmission within a hospital. It can also identify the 
+source of the outbreak and provide lessons to improve infection prevention and 
+control strategies. This manuscript outlines the obstacles encountered in order 
+to genotype SARS-CoV-2 in near-real time during an urgent outbreak 
+investigation. This included problems with the length of the original genotyping 
+protocol, unavailability of reagents, and sample degradation and storage. 
+Despite this, three different library preparation methods for Illumina 
+sequencing were set up, and the hands-on library preparation time was decreased 
+from twelve to three hours, which enabled the outbreak investigation to be 
+completed in just a few weeks. Furthermore, the new protocols increased the 
+success rate of sequencing whole viral genomes. A simple bioinformatics workflow 
+for the assembly of high-quality genomes in near-real time was also fine-tuned. 
+In order to allow other laboratories to learn from our experience, all of the 
+library preparation and bioinformatics protocols are publicly available at 
+protocols.io and distributed to other laboratories of the Network for Genomics 
+Surveillance in South Africa (NGS-SA) consortium.
+
+DOI: 10.3390/genes11080949
+PMCID: PMC7464704
+PMID: 32824573 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.

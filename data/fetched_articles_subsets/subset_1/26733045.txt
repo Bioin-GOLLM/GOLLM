@@ -1,0 +1,31 @@
+1. BMC Med Inform Decis Mak. 2015;15 Suppl 5(Suppl 5):S2. doi: 
+10.1186/1472-6947-15-S5-S2. Epub 2015 Dec 21.
+
+Privacy-preserving GWAS analysis on federated genomic datasets.
+
+Constable SD, Tang Y, Wang S, Jiang X, Chapin S.
+
+BACKGROUND: The biomedical community benefits from the increasing availability 
+of genomic data to support meaningful scientific research, e.g., Genome-Wide 
+Association Studies (GWAS). However, high quality GWAS usually requires a large 
+amount of samples, which can grow beyond the capability of a single institution. 
+Federated genomic data analysis holds the promise of enabling cross-institution 
+collaboration for effective GWAS, but it raises concerns about patient privacy 
+and medical information confidentiality (as data are being exchanged across 
+institutional boundaries), which becomes an inhibiting factor for the practical 
+use.
+METHODS: We present a privacy-preserving GWAS framework on federated genomic 
+datasets. Our method is to layer the GWAS computations on top of secure 
+multi-party computation (MPC) systems. This approach allows two parties in a 
+distributed system to mutually perform secure GWAS computations, but without 
+exposing their private data outside.
+RESULTS: We demonstrate our technique by implementing a framework for minor 
+allele frequency counting and χ2 statistics calculation, one of typical 
+computations used in GWAS. For efficient prototyping, we use a state-of-the-art 
+MPC framework, i.e., Portable Circuit Format (PCF) 1. Our experimental results 
+show promise in realizing both efficient and secure cross-institution GWAS 
+computations.
+
+DOI: 10.1186/1472-6947-15-S5-S2
+PMCID: PMC4699163
+PMID: 26733045 [Indexed for MEDLINE]

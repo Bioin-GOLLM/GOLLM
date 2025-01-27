@@ -1,0 +1,35 @@
+1. BMC Bioinformatics. 2013 Jun 6;14:178. doi: 10.1186/1471-2105-14-178.
+
+Exploring the transcription factor activity in high-throughput gene expression 
+data using RLQ analysis.
+
+Baty F(1), Rüdiger J, Miglino N, Kern L, Borger P, Brutsche M.
+
+Author information:
+(1)Division of Pulmonary Medicine, Cantonal Hospital St, Gallen, 
+Rorschacherstrasse 95, CH-9007 St, Gallen, Switzerland. florent.baty@kssg.ch
+
+BACKGROUND: Interpretation of gene expression microarray data in the light of 
+external information on both columns and rows (experimental variables and gene 
+annotations) facilitates the extraction of pertinent information hidden in these 
+complex data. Biologists classically interpret genes of interest after 
+retrieving functional information from a subset of genes of interest. 
+Transcription factors play an important role in orchestrating the regulation of 
+gene expression. Their activity can be deduced by examining the presence of 
+putative transcription factors binding sites in the gene promoter regions.
+RESULTS: In this paper we present the multivariate statistical method RLQ which 
+aims to analyze microarray data where additional information is available on 
+both genes and samples. As an illustrative example, we applied RLQ methodology 
+to analyze transcription factor activity associated with the time-course effect 
+of steroids on the growth of primary human lung fibroblasts. RLQ could 
+successfully predict transcription factor activity, and could integrate various 
+other sources of external information in the main frame of the analysis. The 
+approach was validated by means of alternative statistical methods and 
+biological validation.
+CONCLUSIONS: RLQ provides an efficient way of extracting and visualizing 
+structures present in a gene expression dataset by directly modeling the link 
+between experimental variables and gene annotations.
+
+DOI: 10.1186/1471-2105-14-178
+PMCID: PMC3686578
+PMID: 23742070 [Indexed for MEDLINE]

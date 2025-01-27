@@ -1,0 +1,43 @@
+1. Sci Adv. 2022 Dec 9;8(49):eade1136. doi: 10.1126/sciadv.ade1136. Epub 2022 Dec
+ 7.
+
+Optogenetic polymerization and assembly of electrically functional polymers for 
+modulation of single-neuron excitability.
+
+Sessler CD(1)(2), Zhou Y(2)(3), Wang W(4), Hartley ND(2)(3), Fu Z(2)(3), 
+Graykowski D(2)(3), Sheng M(2)(3)(5), Wang X(1)(2)(3), Liu J(4).
+
+Author information:
+(1)Department of Chemistry, Massachusetts Institute of Technology, Cambridge, 
+MA, USA.
+(2)Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(3)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, 
+Cambridge, MA, USA.
+(4)Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard 
+University, Cambridge, MA, USA.
+(5)Department of Brain and Cognitive Sciences, Massachusetts Institute of 
+Technology, Cambridge, MA, USA.
+
+Erratum in
+    Sci Adv. 2023 Jun 30;9(26):eadj0413. doi: 10.1126/sciadv.adj0413.
+
+Ionic conductivity and membrane capacitance are two foundational parameters that 
+govern neuron excitability. Conventional optogenetics has emerged as a powerful 
+tool to temporarily manipulate membrane ionic conductivity in intact biological 
+systems. However, no analogous method exists for precisely manipulating cell 
+membrane capacitance to enable long-lasting modulation of neuronal excitability. 
+Genetically targetable chemical assembly of conductive and insulating polymers 
+can modulate cell membrane capacitance, but further development of this 
+technique has been hindered by poor spatiotemporal control of the polymer 
+deposition and cytotoxicity from the widely diffused peroxide. We address these 
+issues by harnessing genetically targetable photosensitizer proteins to assemble 
+electrically functional polymers in neurons with precise spatiotemporal control. 
+Using whole-cell patch-clamp recordings, we demonstrate that this optogenetic 
+polymerization can achieve stepwise modulation of both neuron membrane 
+capacitance and intrinsic excitability. Furthermore, cytotoxicity can be limited 
+by controlling light exposure, demonstrating a promising new method for 
+precisely modulating cell excitability.
+
+DOI: 10.1126/sciadv.ade1136
+PMCID: PMC9728971
+PMID: 36475786

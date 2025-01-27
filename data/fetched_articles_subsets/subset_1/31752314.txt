@@ -1,0 +1,40 @@
+1. Micromachines (Basel). 2019 Nov 19;10(11):793. doi: 10.3390/mi10110793.
+
+Tetrafluoroethylene-Propylene Elastomer for Fabrication of Microfluidic 
+Organs-on-Chips Resistant to Drug Absorption.
+
+Sano E(1), Mori C(1), Matsuoka N(2), Ozaki Y(1), Yagi K(2), Wada A(2), Tashima 
+K(2), Yamasaki S(2), Tanabe K(2), Yano K(1), Torisawa YS(1)(3).
+
+Author information:
+(1)Department of Micro Engineering, Kyoto University, Kyoto 615-8540, Japan.
+(2)AGC Inc, Tokyo 100-8405, Japan.
+(3)Hakubi Center for Advanced Research, Kyoto University, Kyoto 615-8540, Japan.
+
+Organs-on-chips are microfluidic devices typically fabricated from 
+polydimethylsiloxane (PDMS). Since PDMS has many attractive properties including 
+high optical clarity and compliance, PDMS is very useful for cell culture 
+applications; however, PDMS possesses a significant drawback in that small 
+hydrophobic molecules are strongly absorbed. This drawback hinders widespread 
+use of PDMS-based devices for drug discovery and development. Here, we describe 
+a microfluidic cell culture system made of a tetrafluoroethylene-propylene 
+(FEPM) elastomer. We demonstrated that FEPM does not absorb small hydrophobic 
+compounds including rhodamine B and three types of drugs, nifedipine, coumarin, 
+and Bay K8644, whereas PDMS absorbs them strongly. The device consists of two 
+FEPM layers of microchannels separated by a thin collagen vitrigel membrane. 
+Since FEPM is flexible and biocompatible, this microfluidic device can be used 
+to culture cells while applying mechanical strain. When human umbilical vein 
+endothelial cells (HUVECs) were subjected to cyclic strain (~10%) for 4 h in 
+this device, HUVECs reoriented and aligned perpendicularly in response to the 
+cyclic stretch. Moreover, we demonstrated that this device can be used to 
+replicate the epithelial-endothelial interface as well as to provide 
+physiological mechanical strain and fluid flow. This method offers a robust 
+platform to produce organs-on-chips for drug discovery and development.
+
+DOI: 10.3390/mi10110793
+PMCID: PMC6915658
+PMID: 31752314
+
+Conflict of interest statement: E.S., C.M., Y.O., K.Y. (Kayo Yano) and Y.-s.T. 
+has nothing to declare. N.M., K.Y. (Keisuke Yagi), A.W., K.T. (Koichi Tashima), 
+S.Y., and K.T. (Kana Tanabe) are employees of AGC Inc.

@@ -1,0 +1,50 @@
+1. PLoS One. 2015 May 6;10(5):e0126082. doi: 10.1371/journal.pone.0126082. 
+eCollection 2015.
+
+Drug repositioning for diabetes based on 'omics' data mining.
+
+Zhang M(1), Luo H(2), Xi Z(1), Rogaeva E(1).
+
+Author information:
+(1)Department of Medicine, Division of Neurology, Tanz Centre for Research in 
+Neurodegenerative Diseases, University of Toronto, 60 Leonard Street, Toronto, 
+Ontario, M5T 2S8, Canada.
+(2)University of Arkansas at Little Rock/University of Arkansas for Medical 
+Sciences Bioinformatics Graduate Program, 2801 S. University Ave., Little Rock, 
+AR, 72204, United States of America.
+
+Drug repositioning has shorter developmental time, lower cost and less safety 
+risk than traditional drug development process. The current study aims to 
+repurpose marketed drugs and clinical candidates for new indications in diabetes 
+treatment by mining clinical 'omics' data. We analyzed data from genome wide 
+association studies (GWAS), proteomics and metabolomics studies and revealed a 
+total of 992 proteins as potential anti-diabetic targets in human. Information 
+on the drugs that target these 992 proteins was retrieved from the Therapeutic 
+Target Database (TTD) and 108 of these proteins are drug targets with drug 
+projects information. Research and preclinical drug targets were excluded and 35 
+of the 108 proteins were selected as druggable proteins. Among them, five 
+proteins were known targets for treating diabetes. Based on the pathogenesis 
+knowledge gathered from the OMIM and PubMed databases, 12 protein targets of 58 
+drugs were found to have a new indication for treating diabetes. CMap 
+(connectivity map) was used to compare the gene expression patterns of cells 
+treated by these 58 drugs and that of cells treated by known anti-diabetic drugs 
+or diabetes risk causing compounds. As a result, 9 drugs were found to have the 
+potential to treat diabetes. Among the 9 drugs, 4 drugs (diflunisal, nabumetone, 
+niflumic acid and valdecoxib) targeting COX2 (prostaglandin G/H synthase 2) were 
+repurposed for treating type 1 diabetes, and 2 drugs (phenoxybenzamine and 
+idazoxan) targeting ADRA2A (Alpha-2A adrenergic receptor) had a new indication 
+for treating type 2 diabetes. These findings indicated that 'omics' data mining 
+based drug repositioning is a potentially powerful tool to discover novel 
+anti-diabetic indications from marketed drugs and clinical candidates. 
+Furthermore, the results of our study could be related to other disorders, such 
+as Alzheimer's disease.
+
+DOI: 10.1371/journal.pone.0126082
+PMCID: PMC4422696
+PMID: 25946000 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Ming Zhang and Zhengrui Xi 
+have one patent pending related to this research. The patent id and title are 
+2014104214974, and A Method of Drug Repositioning Using Omics Data. This 
+invention was disclosed on December 17th, 2014. This does not alter the authors' 
+adherence to all PLOS ONE policies on sharing data and materials.

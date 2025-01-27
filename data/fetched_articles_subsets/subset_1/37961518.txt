@@ -1,0 +1,55 @@
+1. bioRxiv [Preprint]. 2023 Oct 27:2023.10.25.564061. doi: 
+10.1101/2023.10.25.564061.
+
+Modular vector assembly enables rapid assessment of emerging CRISPR 
+technologies.
+
+McGee AV(1), Liu YV(1), Griffith AL(1), Szegletes ZM(1), Wen B(1), Kraus C(2), 
+Miller NW(1), Steger RJ(1), Velasco BE(1), Bosch JA(3), Zirin JD(3), Viswanatha 
+R(3), Sontheimer EJ(2)(4)(5), Goodale A(1), Greene MA(1), Green TM(1), Doench 
+JG(1).
+
+Author information:
+(1)Genetic Perturbation Platform, Broad Institute of MIT and Harvard, Cambridge, 
+MA 02142, USA.
+(2)RNA Therapeutics Institute, University of Massachusetts Chan Medical School, 
+Worcester, MA 01605, USA.
+(3)Department of Genetics, Blavatnik Institute, Harvard Medical School, Boston, 
+MA 02115, USA.
+(4)Program in Molecular Medicine, University of Massachusetts Chan Medical 
+School, Worcester, MA 01605, USA.
+(5)Li Weibo Institute for Rare Diseases Research, University of Massachusetts 
+Chan Medical School, Worcester, MA 01605, USA.
+
+Update in
+    Cell Genom. 2024 Mar 13;4(3):100519. doi: 10.1016/j.xgen.2024.100519.
+
+The diversity of CRISPR systems, coupled with scientific ingenuity, has led to 
+an explosion of applications; however, to test newly-described innovations in 
+their model systems, researchers typically embark on cumbersome, one-off cloning 
+projects to generate custom reagents that are optimized for their biological 
+questions. Here, we leverage Golden Gate cloning to create the Fragmid toolkit, 
+a modular set of CRISPR cassettes and delivery technologies, along with a web 
+portal, resulting in a combinatorial platform that enables scalable vector 
+assembly within days. We further demonstrate that multiple CRISPR technologies 
+can be assessed in parallel in a pooled screening format using this resource, 
+enabling the rapid optimization of both novel technologies and cellular models. 
+These results establish Fragmid as a robust system for the rapid design of 
+CRISPR vectors, and we anticipate that this assembly approach will be broadly 
+useful for systematic development, comparison, and dissemination of CRISPR 
+technologies.
+
+DOI: 10.1101/2023.10.25.564061
+PMCID: PMC10634825
+PMID: 37961518
+
+Conflict of interest statement: COMPETING INTERESTS EJS is a cofounder, 
+scientific advisor, and equity holder of Intellia Therapeutics, and a member of 
+the scientific advisory board of Tessera Therapeutics. JGD consults for 
+Microsoft Research, BioNTech, and Pfizer. JGD consults for and has equity in 
+Tango Therapeutics. JGD serves as a paid scientific advisor to the Laboratory 
+for Genomics Research, funded in part by GSK, and the Innovative Genomics 
+Institute, funded in part by Apple Tree Partners. JGD receives funding support 
+from the Functional Genomics Consortium: Abbvie, Bristol Myers Squibb, Janssen, 
+Merck, and Vir Biotechnology. JGD’s interests are reviewed and managed by the 
+Broad Institute in accordance with its conflict of interest policies.

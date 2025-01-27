@@ -1,0 +1,37 @@
+1. Front Oncol. 2019 Aug 27;9:773. doi: 10.3389/fonc.2019.00773. eCollection
+2019.
+
+Genome-Wide Profiling of Prognostic Alternative Splicing Pattern in Pancreatic 
+Cancer.
+
+Yu M(1), Hong W(2), Ruan S(1)(3), Guan R(1)(3), Tu L(1), Huang B(1)(3), Hou 
+B(1), Jian Z(1), Ma L(2), Jin H(1).
+
+Author information:
+(1)Department of General Surgery, Guangdong Provincial People's Hospital, 
+Guangdong Academy of Medical Sciences, Guangzhou, China.
+(2)Department of Medical Imaging, The First Affiliated Hospital of Guangdong 
+Pharmaceutical University, Guangzhou, China.
+(3)The Second School of Clinical Medicine, Southern Medical University, 
+Guangzhou, China.
+
+Alternative splicing (AS) has a critical role in tumor progression and 
+prognosis. Our study aimed to investigate pancreatic cancer-specific AS events 
+using RNA-seq data, gaining systematic insights into potential prognostic 
+predictors. We downloaded 10,623 genes with 45,313 pancreatic cancer-specific AS 
+events from the Cancer Genome Atlas (TCGA) and SpliceSeq database. Cox 
+univariate analyses of overall survival suggested there was a remarkable 
+association between 6,711 AS events and overall survival in pancreatic cancer 
+patients (P < 0.05). The area under the curves (AUC) of the receiver operator 
+characteristic curves (ROC) of risk score was 0.89 for final prognostic 
+predictor. Results indicated that AS events of DAZAP1, RBM4, ESRP1, QKI, and SF1 
+were significantly associated with overall survival. The results of FunRich 
+showed that transcription factors KLF7, GABPA, and SP1 were the most highly 
+related to survival-associated AS genes. Furthermore, using DriverDBv2, we 
+identified 13 driver genes associated with survival-associated AS events, 
+including TP53 and CDC27. Thus, we concluded that the aberrant AS patterns in 
+pancreatic cancer patients might serve as prognostic predictors.
+
+DOI: 10.3389/fonc.2019.00773
+PMCID: PMC6736558
+PMID: 31552163

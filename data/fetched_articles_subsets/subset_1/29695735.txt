@@ -1,0 +1,54 @@
+1. Sci Rep. 2018 Apr 25;8(1):6518. doi: 10.1038/s41598-018-24457-1.
+
+Integrative annotation and knowledge discovery of kinase post-translational 
+modifications and cancer-associated mutations through federated protein 
+ontologies and resources.
+
+Huang LC(1), Ross KE(2), Baffi TR(3), Drabkin H(4), Kochut KJ(5), Ruan Z(1), 
+D'Eustachio P(6), McSkimming D(7), Arighi C(8), Chen C(8), Natale DA(2), Smith 
+C(4), Gaudet P(9), Newton AC(3), Wu C(2)(8), Kannan N(10).
+
+Author information:
+(1)Institute of Bioinformatics, University of Georgia, Athens, GA, 30602, USA.
+(2)Protein Information Resource (PIR), Department of Biochemistry and Molecular 
+& Cellular Biology, Georgetown University Medical Center, Washington, DC, 20007, 
+USA.
+(3)Department of Pharmacology, University of California, San Diego, La Jolla, 
+CA, 92093, USA.
+(4)The Jackson Laboratory, Bar Harbor, ME, 04609, USA.
+(5)Department of Computer Science, University of Georgia, Athens, GA, 30602, 
+USA.
+(6)Department of Biochemistry & Molecular Pharmacology, NYU School of Medicine, 
+New York, NY, 10016, USA.
+(7)Genome, Environment, and Microbiome (GEM) Center of Excellence, University at 
+Buffalo, Buffalo, NY, 14203, USA.
+(8)Center for Bioinformatics and Computational Biology, University of Delaware, 
+Newark, DE, 19711, USA.
+(9)SIB Swiss Institute of Bioinformatics, Lausanne, 1015, Switzerland.
+(10)Institute of Bioinformatics, University of Georgia, Athens, GA, 30602, USA. 
+nkannan@uga.edu.
+
+Many bioinformatics resources with unique perspectives on the protein landscape 
+are currently available. However, generating new knowledge from these resources 
+requires interoperable workflows that support cross-resource queries. In this 
+study, we employ federated queries linking information from the Protein Kinase 
+Ontology, iPTMnet, Protein Ontology, neXtProt, and the Mouse Genome Informatics 
+to identify key knowledge gaps in the functional coverage of the human kinome 
+and prioritize understudied kinases, cancer variants and post-translational 
+modifications (PTMs) for functional studies. We identify 32 functional domains 
+enriched in cancer variants and PTMs and generate mechanistic hypotheses on 
+overlapping variant and PTM sites by aggregating information at the residue, 
+protein, pathway and species level from these resources. We experimentally test 
+the hypothesis that S768 phosphorylation in the C-helix of EGFR is inhibitory by 
+showing that oncogenic variants altering S768 phosphorylation increase basal 
+EGFR activity. In contrast, oncogenic variants altering conserved 
+phosphorylation sites in the 'hydrophobic motif' of PKCβII (S660F and S660C) are 
+loss-of-function in that they reduce kinase activity and enhance membrane 
+translocation. Our studies provide a framework for integrative, consistent, and 
+reproducible annotation of the cancer kinomes.
+
+DOI: 10.1038/s41598-018-24457-1
+PMCID: PMC5916945
+PMID: 29695735 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

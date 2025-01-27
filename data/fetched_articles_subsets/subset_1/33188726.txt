@@ -1,0 +1,50 @@
+1. Mol Oncol. 2021 Feb;15(2):487-502. doi: 10.1002/1878-0261.12853. Epub 2020 Nov
+ 28.
+
+Genome-scale CRISPR screening identifies cell cycle and protein ubiquitination 
+processes as druggable targets for erlotinib-resistant lung cancer.
+
+Lee J(1)(2), Choi A(3), Cho SY(4)(5), Jun Y(2)(6), Na D(7), Lee A(2), Jang 
+G(1)(2), Kwon JY(2)(6), Kim J(1)(2), Lee S(1)(2)(3), Lee C(1)(2)(6)(8).
+
+Author information:
+(1)Department of Life Science, Ewha Womans University, Seoul, Korea.
+(2)Ewha-JAX Cancer Immunotherapy Research Center, Ewha Womans University, Seoul, 
+Korea.
+(3)Department of Bio-Information Science, Ewha Womans University, Seoul, Korea.
+(4)Department of Biochemistry and Molecular Biology, Seoul National University 
+College of Medicine, Seoul, Korea.
+(5)Department of Biomedical Sciences, Seoul National University College of 
+Medicine, Korea.
+(6)The Jackson Laboratory for Genomic Medicine, Farmington, CT, USA.
+(7)Ewha Institute of Convergence Medicine, Ewha Womans University Mokdong 
+Hospital, Seoul, Korea.
+(8)Precision Medicine Center, The First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, China.
+
+Erlotinib is highly effective in lung cancer patients with epidermal growth 
+factor receptor (EGFR) mutations. However, despite initial favorable responses, 
+most patients rapidly develop resistance to erlotinib soon after the initial 
+treatment. This study aims to identify new genes and pathways associated with 
+erlotinib resistance mechanisms in order to develop novel therapeutic 
+strategies. Here, we induced knockout (KO) mutations in erlotinib-resistant 
+human lung cancer cells (NCI-H820) using a genome-scale CRISPR-Cas9 sgRNA 
+library to screen for genes involved in erlotinib susceptibility. The spectrum 
+of sgRNAs incorporated among erlotinib-treated cells was substantially different 
+to that of the untreated cells. Gene set analyses showed a significant depletion 
+of 'cell cycle process' and 'protein ubiquitination pathway' genes among 
+erlotinib-treated cells. Chemical inhibitors targeting genes in these two 
+pathways, such as nutlin-3 and carfilzomib, increased cancer cell death when 
+combined with erlotinib in both in vitro cell line and in vivo patient-derived 
+xenograft experiments. Therefore, we propose that targeting cell cycle processes 
+or protein ubiquitination pathways are promising treatment strategies for 
+overcoming resistance to EGFR inhibitors in lung cancer.
+
+© 2020 The Authors. Molecular Oncology published by John Wiley & Sons Ltd on 
+behalf of Federation of European Biochemical Societies.
+
+DOI: 10.1002/1878-0261.12853
+PMCID: PMC7858278
+PMID: 33188726 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

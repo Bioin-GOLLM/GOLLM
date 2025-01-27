@@ -1,0 +1,62 @@
+1. Radiother Oncol. 2020 Aug;149:55-62. doi: 10.1016/j.radonc.2020.04.054. Epub 
+2020 May 6.
+
+Ultra-high dose rate effect on circulating immune cells: A potential mechanism 
+for FLASH effect?
+
+Jin JY(1), Gu A(2), Wang W(3), Oleinick NL(3), Machtay M(4), Spring Kong FM(5).
+
+Author information:
+(1)Department of Radiation Oncology, University Hospitals, Cleveland Medical 
+Center, United States; Department of Radiation Oncology, Case Western Reserve 
+University School of Medicine, Cleveland, United States. Electronic address: 
+jian-yue.jin@UHhospitals.org.
+(2)Department of Radiation Oncology, Case Western Reserve University School of 
+Medicine, Cleveland, United States; Department of Radiation Oncology, Harbin 
+Medical University Cancer Hospital, China.
+(3)Department of Radiation Oncology, Case Western Reserve University School of 
+Medicine, Cleveland, United States.
+(4)Department of Radiation Oncology, University Hospitals, Cleveland Medical 
+Center, United States; Department of Radiation Oncology, Case Western Reserve 
+University School of Medicine, Cleveland, United States.
+(5)Department of Radiation Oncology, University Hospitals, Cleveland Medical 
+Center, United States; Department of Radiation Oncology, Case Western Reserve 
+University School of Medicine, Cleveland, United States; Departments of Clinical 
+Oncology, Hong Kong University Shenzhen Hospital, and Hong Kong University, Hong 
+Kong, China.
+
+PURPOSE: "FLASH" radiotherapy (RT) is a potential paradigm-changing RT 
+technology with marked tumor killing and normal tissue sparing. However, the 
+mechanism of the FLASH effect is not well understood. We hypothesize that the 
+ultra-high dose rate FLASH-RT significantly reduces the killing of circulating 
+immune cells which may partially contribute to the reported FLASH effect.
+METHODS: This computation study directly models the effect of radiation dose 
+rate on the killing of circulating immune cells. The model considers an 
+irradiated volume that takes up A% of cardiac output and contains B% of total 
+blood. The irradiated blood volume and dose were calculated for various A%, B%, 
+blood circulation time, and irradiation time (which depends on the dose rate). 
+The linear-quadratic model was used to calculate the extent of killing of 
+circulating immune cells at ultra-high vs. conventional dose rates.
+RESULTS: A strong sparing effect on circulating blood cells by FLASH-RT was 
+noticed; i.e., killing of circulating immune cells reduced from 90% to 100% at 
+conventional dose rates to 5-10% at ultra-high dose rates. The threshold FLASH 
+dose rate was determined to be ~40 Gy/s for mice in an average situation 
+(A% = 50%), consistent with the reported FLASH dose rate in animal studies, and 
+it was approximately one order of magnitude lower for humans than for mice. The 
+magnitude of this sparing effect increased with the dose/fraction, reached a 
+plateau at 30-50 Gy/fraction, and almost completely vanished at 2 Gy/fraction.
+CONCLUSION: We have calculated a strong sparing effect on circulating immune 
+cells by FLASH-RT, which may contribute to the reported FLASH effects in animal 
+studies.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.radonc.2020.04.054
+PMCID: PMC7442672
+PMID: 32387486 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest This work was 
+partially supported by the USA National Cancer Institute, National Institutes of 
+Health, R01 CA142840 (Kong). The authors declare that they have no other known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

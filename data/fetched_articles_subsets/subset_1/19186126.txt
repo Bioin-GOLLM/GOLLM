@@ -1,0 +1,40 @@
+1. Biophys J. 2009 Feb;96(3):858-74. doi: 10.1016/j.bpj.2008.10.041.
+
+Computational modeling of structurally conserved cancer mutations in the RET and 
+MET kinases: the impact on protein structure, dynamics, and stability.
+
+Dixit A(1), Torkamani A, Schork NJ, Verkhivker G.
+
+Author information:
+(1)Center for Bioinformatics, The University of Kansas, Lawrence, Kansas, USA.
+
+Structural and biochemical characterization of protein kinases that confer 
+oncogene addiction and harbor a large number of disease-associated mutations, 
+including RET and MET kinases, have provided insights into molecular mechanisms 
+associated with the protein kinase activation in human cancer. In this article, 
+structural modeling, molecular dynamics, and free energy simulations of a 
+structurally conserved mutational hotspot, shared by M918T in RET and M1250T in 
+MET kinases, are undertaken to quantify the molecular mechanism of activation 
+and the functional role of cancer mutations in altering protein kinase 
+structure, dynamics, and stability. The mechanistic basis of the activating RET 
+and MET cancer mutations may be driven by an appreciable free energy 
+destabilization of the inactive kinase state in the mutational forms. According 
+to our results, the locally enhanced mobility of the cancer mutants and a higher 
+conformational entropy are counterbalanced by a larger enthalpy loss and result 
+in the decreased thermodynamic stability. The computed protein stability 
+differences between the wild-type and cancer kinase mutants are consistent with 
+circular dichroism spectroscopy and differential scanning calorimetry 
+experiments. These results support the molecular mechanism of activation, which 
+causes a detrimental imbalance in the dynamic equilibrium shifted toward the 
+active form of the enzyme. Furthermore, computer simulations of the inhibitor 
+binding with the oncogenic and drug-resistant RET mutations have also provided a 
+plausible molecular rationale for the observed differences in the inhibition 
+profiles, which is consistent with the experimental data. Finally, structural 
+mapping of RET and MET cancer mutations and the computed protein stability 
+changes suggest a similar mechanism of activation, whereby the cancer mutations 
+which display the higher oncogenic activity tend to have the greatest 
+destabilization effect on the inactive kinase structure.
+
+DOI: 10.1016/j.bpj.2008.10.041
+PMCID: PMC2716637
+PMID: 19186126 [Indexed for MEDLINE]

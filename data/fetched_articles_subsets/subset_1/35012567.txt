@@ -1,0 +1,63 @@
+1. J Nanobiotechnology. 2022 Jan 10;20(1):30. doi: 10.1186/s12951-021-01213-8.
+
+3D hanging spheroid plate for high-throughput CAR T cell cytotoxicity assay.
+
+Chen Z(#)(1), Han S(#)(1), Sanny A(2), Chan DL(2), van Noort D(3)(4), Lim W(5), 
+Tan AH(6), Park S(7)(8)(9).
+
+Author information:
+(1)School of Mechanical Engineering, Sungkyunkwan University (SKKU), Suwon, 
+16419, South Korea.
+(2)Bioprocessing Technology Institute (BTI), Agency for Science, Technology and 
+Research (A*STAR), Singapore, 138668, Singapore.
+(3)Centro de Investigación en Bioingeniería, Universidad de Ingenieria y 
+Tecnologia - UTEC, Lima 04, Peru.
+(4)Biotechnology, Linköping University, SE-581 83, Linköping, Sweden.
+(5)Department of Biomedical Engineering, Sungkyunkwan University (SKKU), Suwon, 
+16419, South Korea.
+(6)Bioprocessing Technology Institute (BTI), Agency for Science, Technology and 
+Research (A*STAR), Singapore, 138668, Singapore. andy_tan@bti.a-star.edu.sg.
+(7)School of Mechanical Engineering, Sungkyunkwan University (SKKU), Suwon, 
+16419, South Korea. nanopark@skku.edu.
+(8)Department of Biomedical Engineering, Sungkyunkwan University (SKKU), Suwon, 
+16419, South Korea. nanopark@skku.edu.
+(9)Institute of Quantum Biophysics (IQB), Sungkyunkwan University (SKKU), Suwon, 
+16419, South Korea. nanopark@skku.edu.
+(#)Contributed equally
+
+BACKGROUND: Most high-throughput screening (HTS) systems studying the cytotoxic 
+effect of chimeric antigen receptor (CAR) T cells on tumor cells rely on 
+two-dimensional cell culture that does not recapitulate the tumor 
+microenvironment (TME). Tumor spheroids, however, can recapitulate the TME and 
+have been used for cytotoxicity assays of CAR T cells. But a major obstacle to 
+the use of tumor spheroids for cytotoxicity assays is the difficulty in 
+separating unbound CAR T and dead tumor cells from spheroids. Here, we present a 
+three-dimensional hanging spheroid plate (3DHSP), which facilitates the 
+formation of spheroids and the separation of unbound and dead cells from 
+spheroids during cytotoxicity assays.
+RESULTS: The 3DHSP is a 24-well plate, with each well composed of a hanging 
+dripper, spheroid wells, and waste wells. In the dripper, a tumor spheroid was 
+formed and mixed with CAR T cells. In the 3DHSP, droplets containing the 
+spheroids were deposited into the spheroid separation well, where unbound and 
+dead T and tumor cells were separated from the spheroid through a gap into the 
+waste well by tilting the 3DHSP by more than 20°. Human epidermal growth factor 
+receptor 2 (HER2)-positive tumor cells (BT474 and SKOV3) formed spheroids of 
+approximately 300-350 μm in diameter after 2 days in the 3DHSP. The cytotoxic 
+effects of T cells engineered to express CAR recognizing HER2 (HER2-CAR T cells) 
+on these spheroids were directly measured by optical imaging, without the use of 
+live/dead fluorescent staining of the cells. Our results suggest that the 3DHSP 
+could be incorporated into a HTS system to screen for CARs that enable T cells 
+to kill spheroids formed from a specific tumor type with high efficacy or for 
+spheroids consisting of tumor types that can be killed efficiently by T cells 
+bearing a specific CAR.
+CONCLUSIONS: The results suggest that the 3DHSP could be incorporated into a HTS 
+system for the cytotoxic effects of CAR T cells on tumor spheroids.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12951-021-01213-8
+PMCID: PMC8744335
+PMID: 35012567 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,51 @@
+1. Front Bioeng Biotechnol. 2023 May 31;11:1188119. doi: 
+10.3389/fbioe.2023.1188119. eCollection 2023.
+
+Conditional protein degradation in Yarrowia lipolytica using the auxin-inducible 
+degron.
+
+Han Z(1), Maruwan J(1), Tang Y(2), Su WW(1).
+
+Author information:
+(1)Department of Molecular Biosciences and Bioengineering, University of Hawai'i 
+at Manoa, Honolulu, HI, United States.
+(2)Department of Energy, Environmental and Chemical Engineering, Washington 
+University, Saint Louis, MO, United States.
+
+Conditional protein degradation is a powerful tool for controlled protein 
+knockdown. The auxin-inducible degron (AID) technology uses a plant auxin to 
+induce depletion of degron-tagged proteins, and it has been shown to be 
+functional in several non-plant eukaryotes. In this study, we demonstrated 
+AID-based protein knockdown in an industrially important oleaginous yeast 
+Yarrowia lipolytica. Using the mini-IAA7 (mIAA7) degron derived from Arabidopsis 
+IAA7, coupled with an Oryza sativa TIR1 (OsTIR1) plant auxin receptor F-box 
+protein (expressed from the copper-inducible MT2 promoter), C-terminal 
+degron-tagged superfolder GFP could be degraded in Yarrowia lipolytica upon 
+addition of copper and the synthetic auxin 1-Naphthaleneacetic acid (NAA). 
+However, leaky degradation of the degron-tagged GFP in the absence of NAA was 
+also noted. This NAA-independent degradation was largely eliminated by replacing 
+the wild-type OsTIR1 and NAA with the OsTIR1F74A variant and the auxin 
+derivative 5-Ad-IAA, respectively. Degradation of the degron-tagged GFP was 
+rapid and efficient. However, Western blot analysis revealed cellular 
+proteolytic cleavage within the mIAA7 degron sequence, leading to the production 
+of a GFP sub-population lacking an intact degron. The utility of the 
+mIAA7/OsTIR1F74A system was further explored in controlled degradation of a 
+metabolic enzyme, β-carotene ketolase, which converts β-carotene to 
+canthaxanthin via echinenone. This enzyme was tagged with the mIAA7 degron and 
+expressed in a β-carotene producing Y. lipolytica strain that also expressed 
+OsTIR1F74A controlled by the MT2 promoter. By adding copper and 5-Ad-IAA at the 
+time of culture inoculation, canthaxanthin production was found to be reduced by 
+about 50% on day five compared to the control culture without adding 5-Ad-IAA. 
+This is the first report that demonstrates the efficacy of the AID system in Y. 
+lipolytica. Further improvement of AID-based protein knockdown in Y. lipolytica 
+may be achieved by preventing proteolytic removal of the mIAA7 degron tag.
+
+Copyright © 2023 Han, Maruwan, Tang and Su.
+
+DOI: 10.3389/fbioe.2023.1188119
+PMCID: PMC10264656
+PMID: 37324427
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

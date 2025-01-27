@@ -1,0 +1,54 @@
+1. Sci Rep. 2022 Sep 30;12(1):16393. doi: 10.1038/s41598-022-20783-7.
+
+Panels of mRNAs and miRNAs for decoding molecular mechanisms of Renal Cell 
+Carcinoma (RCC) subtypes utilizing Artificial Intelligence approaches.
+
+Hosseiniyan Khatibi SM(1)(2)(3), Ardalan M(2), Teshnehlab M(4), Vahed SZ(5), 
+Pirmoradi S(6).
+
+Author information:
+(1)Clinical Research Development Unit of Tabriz Valiasr Hospital, Tabriz 
+University of Medical Sciences, Tabriz, Iran.
+(2)Kidney Research Center, Tabriz University of Medical Sciences, Daneshgah 
+Street, Tabriz, Postal Code 51665118, Iran.
+(3)Rahat Breath and Sleep Research Center, Tabriz University of Medical Science, 
+Tabriz, Iran.
+(4)Department of Electric and Computer Engineering, K.N. Toosi University of 
+Technology, Tehran, Iran.
+(5)Kidney Research Center, Tabriz University of Medical Sciences, Daneshgah 
+Street, Tabriz, Postal Code 51665118, Iran. sepide.zununi@gmail.com.
+(6)Clinical Research Development Unit of Tabriz Valiasr Hospital, Tabriz 
+University of Medical Sciences, Tabriz, Iran. said.pirmoradi@gmail.com.
+
+Renal Cell Carcinoma (RCC) encompasses three histological subtypes, including 
+clear cell RCC (KIRC), papillary RCC (KIRP), and chromophobe RCC (KICH) each of 
+which has different clinical courses, genetic/epigenetic drivers, and 
+therapeutic responses. This study aimed to identify the significant mRNAs and 
+microRNA panels involved in the pathogenesis of RCC subtypes. The mRNA and 
+microRNA transcripts profile were obtained from The Cancer Genome Atlas (TCGA), 
+which were included 611 ccRCC patients, 321 pRCC patients, and 89 chRCC patients 
+for mRNA data and 616 patients in the ccRCC subtype, 326 patients in the pRCC 
+subtype, and 91 patients in the chRCC for miRNA data, respectively. To identify 
+mRNAs and miRNAs, feature selection based on filter and graph algorithms was 
+applied. Then, a deep model was used to classify the subtypes of the RCC. 
+Finally, an association rule mining algorithm was used to disclose features with 
+significant roles to trigger molecular mechanisms to cause RCC subtypes. Panels 
+of 77 mRNAs and 73 miRNAs could discriminate the KIRC, KIRP, and KICH subtypes 
+from each other with 92% (F1-score ≥ 0.9, AUC ≥ 0.89) and 95% accuracy 
+(F1-score ≥ 0.93, AUC ≥ 0.95), respectively. The Association Rule Mining 
+analysis could identify miR-28 (repeat count = 2642) and CSN7A (repeat 
+count = 5794) along with the miR-125a (repeat count = 2591) and NMD3 (repeat 
+count = 2306) with the highest repeat counts, in the KIRC and KIRP rules, 
+respectively. This study found new panels of mRNAs and miRNAs to distinguish 
+among RCC subtypes, which were able to provide new insights into the underlying 
+responsible mechanisms for the initiation and progression of KIRC and KIRP. The 
+proposed mRNA and miRNA panels have a high potential to be as biomarkers of RCC 
+subtypes and should be examined in future clinical studies.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-20783-7
+PMCID: PMC9525704
+PMID: 36180558 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

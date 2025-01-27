@@ -1,0 +1,49 @@
+1. Front Genet. 2022 Sep 6;13:932763. doi: 10.3389/fgene.2022.932763. eCollection
+ 2022.
+
+Identification of a signature of evolutionarily conserved stress-induced 
+mutagenesis in cancer.
+
+Cisneros LH(1)(2), Vaske C(1), Bussey KJ(1)(2)(3).
+
+Author information:
+(1)NantOmics, LLC, Santa Cruz, CA, United States.
+(2)The Beyond Center for Fundamental Concepts in Science, Arizona State 
+University, Tempe, AZ, United States.
+(3)Precision Medicine, Midwestern University, Glendale, AZ, United States.
+
+The clustering of mutations observed in cancer cells is reminiscent of the 
+stress-induced mutagenesis (SIM) response in bacteria. Bacteria deploy SIM when 
+faced with DNA double-strand breaks in the presence of conditions that elicit an 
+SOS response. SIM employs DinB, the evolutionary precursor to human trans-lesion 
+synthesis (TLS) error-prone polymerases, and results in mutations concentrated 
+around DNA double-strand breaks with an abundance that decays with distance. We 
+performed a quantitative study on single nucleotide variant calls for 
+whole-genome sequencing data from 1950 tumors, non-inherited mutations from 129 
+normal samples, and acquired mutations in 3 cell line models of stress-induced 
+adaptive mutation. We introduce statistical methods to identify mutational 
+clusters, quantify their shapes and tease out the potential mechanism that 
+produced them. Our results show that mutations in both normal and cancer samples 
+are indeed clustered and have shapes indicative of SIM. Clusters in normal 
+samples occur more often in the same genomic location across samples than in 
+cancer suggesting loss of regulation over the mutational process during 
+carcinogenesis. Additionally, the signatures of TLS contribute the most to 
+mutational cluster formation in both patient samples as well as experimental 
+models of SIM. Furthermore, a measure of cluster shape heterogeneity was 
+associated with cancer patient survival with a hazard ratio of 5.744 (Cox 
+Proportional Hazard Regression, 95% CI: 1.824-18.09). Our results support the 
+conclusion that the ancient and evolutionary-conserved adaptive mutation 
+response found in bacteria is a source of genomic instability in cancer. 
+Biological adaptation through SIM might explain the ability of tumors to evolve 
+in the face of strong selective pressures such as treatment and suggests that 
+the conventional 'hit it hard' approaches to therapy could prove themselves 
+counterproductive.
+
+Copyright © 2022 Cisneros, Vaske and Bussey.
+
+DOI: 10.3389/fgene.2022.932763
+PMCID: PMC9488704
+PMID: 36147501
+
+Conflict of interest statement: LC, CV, and KB were employed by the company 
+NantOmics, LLC.

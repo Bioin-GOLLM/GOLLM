@@ -1,0 +1,61 @@
+1. Front Cardiovasc Med. 2022 Jul 7;9:850991. doi: 10.3389/fcvm.2022.850991. 
+eCollection 2022.
+
+Comprehensive Analysis of circRNA-miRNA-mRNA Regulatory Network and Novel 
+Potential Biomarkers in Acute Myocardial Infarction.
+
+Wu J(1)(2), Li C(1)(2), Lei Z(1)(2), Cai H(1)(2), Hu Y(1)(2), Zhu Y(1)(2), Zhang 
+T(1)(2), Zhu H(1)(2), Cao J(1)(2), Hu X(1)(2).
+
+Author information:
+(1)Department of Cardiology, Zhongnan Hospital of Wuhan University, Wuhan, 
+China.
+(2)Institute of Myocardial Injury and Repair, Wuhan University, Wuhan, China.
+
+BACKGROUND: Circular RNA (circRNA) plays an important role in the regulation of 
+gene expression and the occurrence of human diseases. However, studies on the 
+role of circRNA in acute myocardial infarction (AMI) are limited. This study was 
+performed to explore novel circRNA-related regulatory networks in AMI, aiming to 
+better understand the molecular mechanism of circRNAs involvement in AMI and 
+provide basis for further scientific research and clinical decision-making.
+METHODS: The AMI-related microarray datasets GSE160717 (circRNA), GSE31568 
+(miRNA), GSE61741 (miRNA), and GSE24519 (mRNA) were obtained from the Gene 
+Expression Omnibus (GEO) database. After differential expression analysis, the 
+regulatory relationships between these DERNAs were identified by online 
+databases circBank, circInteractome, miRDB, miRWalk, Targetscan, and then two 
+circRNA-miRNA-mRNA regulatory networks were constructed. Differentially 
+expressed genes (DEGs) in this network were selected followed by enrichment 
+analysis and protein-protein interaction (PPI) analysis. Hub genes were 
+identified using Cytohubba plug-in of Cytoscape software. Hub genes and hub 
+gene-related miRNAs were used for receiver operating characteristic curve (ROC) 
+analysis to identify potential biomarkers. The relative expression levels of 
+these biomarkers were further assessed by GSE31568 (miRNA) and GSE66360 (mRNA). 
+Finally, on the basis of the above analysis, myocardial hypoxia model was 
+constructed to verify the expression of Hub genes and related circRNAs.
+RESULTS: A total of 83 DEcircRNAs, 109 CoDEmiRNAs and 1204 DEGs were 
+significantly differentially expressed in these datasets. The up-regulated 
+circRNAs and down-regulated circRNAs were used to construct a circRNA-miRNA-mRNA 
+regulatory network respectively. These circRNA-related DEGs were mainly enriched 
+in the terms of "FOXO signaling pathway," "T cell receptor signaling pathway," 
+"MAPK signaling pathway," "Insulin resistance," "cAMP signaling pathway," and 
+"mTOR signaling pathway." The top 10 hub genes ATP2B2, KCNA1, GRIN2A, SCN2B, 
+GPM6A, CACNA1E, HDAC2, SRSF1, ANK2, and HNRNPA2B1 were identified from the PPI 
+network. Hub genes GPM6A, SRSF1, ANK2 and hub gene-related circRNAs 
+hsa_circ_0023461, hsa_circ_0004561, hsa_circ_0001147, hsa_circ_0004771, 
+hsa_circ_0061276, and hsa_circ_0045519 were identified as potential biomarkers 
+in AMI.
+CONCLUSION: In this study, the potential circRNAs associated with AMI were 
+identified and two circRNA-miRNA-mRNA regulatory networks were constructed. This 
+study explored the mechanism of circRNA involvement in AMI and provided new 
+clues for the selection of new diagnostic markers and therapeutic targets for 
+AMI.
+
+Copyright © 2022 Wu, Li, Lei, Cai, Hu, Zhu, Zhang, Zhu, Cao and Hu.
+
+DOI: 10.3389/fcvm.2022.850991
+PMCID: PMC9300925
+PMID: 35872921
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

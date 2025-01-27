@@ -1,0 +1,40 @@
+1. Sci Rep. 2023 Sep 26;13(1):16084. doi: 10.1038/s41598-023-43378-2.
+
+Deterministic field-free voltage-induced magnetization switching with 
+self-regulated precession for low-power memory.
+
+Sin S(1), Oh S(2).
+
+Author information:
+(1)Department of Electrical and Electronic Engineering, Hanyang University, 
+Ansan, 15588, Korea.
+(2)Department of Electrical and Electronic Engineering, Hanyang University, 
+Ansan, 15588, Korea. sroonter@hanyang.ac.kr.
+
+Spintronic devices are regarded as a promising solution for future computing and 
+memory technologies. They are non-volatile, resilient to radiation, and 
+compatible with the CMOS back-end process. However, the major drawbacks of 
+modern current-driven spintronic devices are the long switching delay and 
+relatively high power consumption. Recent progress in magnetoelectronics, 
+particularly in voltage-controlled magnetism reveals a possible solution. 
+Voltage-controlled magnetic anisotropy (VCMA) allows the manipulation of 
+interface-mediated perpendicular anisotropy energy. However, most VCMA-based 
+switching methods require pre-read operation, precise pulse-width control and 
+have high write error rate. This study proposes a novel deterministic 
+self-regulated precessional ferromagnet switching method, which overcomes these 
+issues. In the discussed method, energy symmetry is broken by a dependence of 
+MTJ resistance on the angle between magnetization vectors of free and pinned 
+layers. Hence, the method does not require an external magnetic field and large 
+electric current. The proposed method is verified through micromagnetic 
+simulations and benchmarked with other methods typically reported in the 
+literature. We report the write error rate is significantly improved compared to 
+other VCMA switching methods. Moreover, the mean energy consumption is as low as 
+38.22 fJ and the mean switching delay is 3.77 ns.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-43378-2
+PMCID: PMC10522764
+PMID: 37752252
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,50 @@
+1. BMC Biotechnol. 2012 Sep 21;12:65. doi: 10.1186/1472-6750-12-65.
+
+Short-chain fluorescent tryptophan tags for on-line detection of functional 
+recombinant proteins.
+
+Siepert EM(1), Gartz E, Tur MK, Delbrück H, Barth S, Büchs J.
+
+Author information:
+(1)Department of Experimental Medicine and Immunotherapy, Institute of Applied 
+Medical Engineering, Helmholtz Institute of RWTH Aachen University & Hospital, 
+Pauwelsstr 20, 52074 Aachen, Germany.
+
+BACKGROUND: Conventional fluorescent proteins, such as GFP, its derivatives and 
+flavin mononucleotide based fluorescent proteins (FbFPs) are often used as 
+fusion tags for detecting recombinant proteins during cultivation. These 
+reporter tags are state-of-the-art; however, they have some drawbacks, which can 
+make on-line monitoring challenging. It is discussed in the literature that the 
+large molecular size of proteins of the GFP family may stress the host cell 
+metabolism during production. In addition, fluorophore formation of GFP 
+derivatives is oxygen-dependent resulting in a lag-time between expression and 
+fluorescence detection and the maturation of the protein is suppressed under 
+oxygen-limited conditions. On the contrary, FbFPs are also applicable in an 
+oxygen-limited or even anaerobic environment but are still quite large (58% of 
+the size of GFP).
+RESULTS: As an alternative to common fluorescent tags we developed five novel 
+tags based on clustered tryptophan residues, called W-tags. They are only 5-11% 
+of the size of GFP. Based on the property of tryptophan to fluoresce in absence 
+of oxygen it is reasonable to assume that the functionality of our W-tags is 
+also given under anaerobic conditions. We fused these W-tags to a recombinant 
+protein model, the anti-CD30 receptor single-chain fragment variable antibody 
+(scFv) Ki-4(scFv) and the anti-MucI single-chain fragment variable M12(scFv). 
+During cultivation in Microtiter plates, the overall tryptophan fluorescence 
+intensity of all cultures was measured on-line for monitoring product formation 
+via the different W-tags. After correlation of the scattered light signal 
+representing biomass concentration and tryptophan fluorescence for the uninduced 
+cultures, the fluorescence originating from the biomass was subtracted from the 
+overall tryptophan signal. The resulting signal, thus, represents the product 
+fluorescence of the tagged and untagged antibody fragments. The product 
+fluorescence signal was increased. Antibodies with W-tags generated stronger 
+signals than the untagged construct.
+CONCLUSIONS: Our low-molecular-weight W-tags can be used to monitor the 
+production of antibody fragments on-line. The binding specificity of the 
+recombinant fusion protein is not affected, even though the binding activity 
+decreases slightly with increasing number of tryptophan residues in the W-tags. 
+Thus, the newly designed W-tags offer a versatile and generally applicable 
+alternative to current fluorescent fusion tags.
+
+DOI: 10.1186/1472-6750-12-65
+PMCID: PMC3544578
+PMID: 22999206 [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+1. Sci Rep. 2014 Apr 28;4:4815. doi: 10.1038/srep04815.
+
+Relating significance and relations of differentially expressed genes in 
+response to Aspergillus flavus infection in maize.
+
+Asters MC(1), Williams WP(2), Perkins AD(3), Mylroie JE(2), Windham GL(2), Shan 
+X(1).
+
+Author information:
+(1)Department of Biochemistry, Molecular Biology, Entomology, and Plant 
+Pathology, Mississippi State University, Mississippi State, Mississippi, USA.
+(2)Agricultural Research Service, United States Department of Agriculture, Corn 
+Host Plant Resistance Research Unit, Mississippi State, Mississippi, USA.
+(3)Department of Computer Science and Engineering, Mississippi State University, 
+Mississippi State, Mississippi, USA.
+
+Aspergillus flavus is a pathogenic fungus infecting maize and producing 
+aflatoxins that are health hazards to humans and animals. Characterizing host 
+defense mechanism and prioritizing candidate resistance genes are important to 
+the development of resistant maize germplasm. We investigated methods amenable 
+for the analysis of the significance and relations among maize candidate genes 
+based on the empirical gene expression data obtained by RT-qPCR technique from 
+maize inbred lines. We optimized a pipeline of analysis tools chosen from 
+various programs to provide rigorous statistical analysis and state of the art 
+data visualization. A network-based method was also explored to construct the 
+empirical gene expression relational structures. Maize genes at the centers in 
+the network were considered as important candidate genes for maize DNA marker 
+studies. The methods in this research can be used to analyze large RT-qPCR 
+datasets and establish complex empirical gene relational structures across 
+multiple experimental conditions.
+
+DOI: 10.1038/srep04815
+PMCID: PMC4001098
+PMID: 24770700 [Indexed for MEDLINE]

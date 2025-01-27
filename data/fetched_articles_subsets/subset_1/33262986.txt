@@ -1,0 +1,49 @@
+1. Front Cell Dev Biol. 2020 Nov 11;8:590903. doi: 10.3389/fcell.2020.590903. 
+eCollection 2020.
+
+Integrated Genetics and Micronutrient Data to Inform the Causal Association 
+Between Serum Calcium Levels and Ischemic Stroke.
+
+Meng Q(1), Huang L(2), Tao K(2), Liu Y(1), Jing J(1), Wang W(3), Qin H(2), Feng 
+D(2), Cai Q(2).
+
+Author information:
+(1)Department of Neurosurgery and Institute for Functional Brain Disorders, 
+Tangdu Hospital, Fourth Military Medical University, Xi'an, China.
+(2)Department of Neurosurgery, The First Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, China.
+(3)Department of Radiology & Functional and Molecular Imaging Key Lab of Shaanxi 
+Province, Tangdu Hospital, Fourth Military Medical University, Xi'an, China.
+
+Erratum in
+    Front Cell Dev Biol. 2020 Dec 18;8:634957. doi: 10.3389/fcell.2020.634957.
+
+There has been an increased interest for observational studies or randomized 
+controlled trials exploring the impact of calcium intake on cardiovascular 
+diseases (CVD) including coronary artery disease (CAD) and ischemic stroke (IS). 
+However, a direct relationship between total calcium intake and CVD has not been 
+well established and remains controversial. Mendelian randomization (MR) studies 
+have been performed to evaluate the causal association between serum calcium 
+levels and CAD risk and found that increased serum calcium levels could increase 
+the risk of CAD. However, MR analysis found no significant association between 
+genetically higher serum calcium levels and IS as well as its subtypes. Hence, 
+three MR studies reported inconsistent effects of serum calcium levels on CAD 
+and IS. Here, we performed an updated MR study to investigate the association of 
+serum calcium levels with the risk of IS using large-scale genome-wide 
+association study (GWAS) datasets. We selected 14 independent genetic variants 
+as the potential instrumental variables from a large-scale serum calcium GWAS 
+dataset and extracted summary statistics corresponding to the 14 serum calcium 
+genetic variants from the MEGASTROKE Consortium IS GWAS dataset. Interestingly, 
+we found a significant association between serum calcium levels and IS risk 
+using the robust inverse-variance weighted (IVW) and penalized robust IVW 
+methods, with β = 0.243 and P = 0.002. Importantly, the MR results from the 
+robust MR-Egger and penalized robust MR-Egger methods further supported the 
+causal association between serum calcium levels and IS risk, with β = 0.256 and 
+P = 0.005. Meanwhile, the estimates from other MR methods are also consistent 
+with the above findings.
+
+Copyright © 2020 Meng, Huang, Tao, Liu, Jing, Wang, Qin, Feng and Cai.
+
+DOI: 10.3389/fcell.2020.590903
+PMCID: PMC7686510
+PMID: 33262986

@@ -1,0 +1,49 @@
+1. medRxiv [Preprint]. 2023 Jun 4:2023.05.31.23290613. doi: 
+10.1101/2023.05.31.23290613.
+
+A non-enzymatic test for SARS-CoV-2 RNA using DNA nanoswitches.
+
+Vilcapoma J(1), Aliyeva A(1), Hayden A(1), Chandrasekaran AR(1), Zhou L(1), 
+Punnoose JA(1), Yang D(2)(3)(4), Hansen C(2)(3)(4), Shiu SC(1), Russell A(5), 
+George KS(5)(6), Wong WP(2)(3)(4), Halvorsen K(1).
+
+Author information:
+(1)The RNA Institute, University at Albany, State University of New York, 
+Albany, NY 12222.
+(2)Program in Cellular and Molecular Medicine, Boston Children's Hospital, 
+Boston, MA 02115.
+(3)Wyss Institute for Biologically Inspired Engineering, Harvard University, 
+Boston, MA 02115.
+(4)Department of Biological Chemistry and Molecular Pharmacology, Blavatnik 
+Institute, Harvard Medical School, Boston, MA 02115.
+(5)Laboratory of Viral Diseases, Wadsworth Center, New York State Department of 
+Health, Albany, NY 12208.
+(6)Department of Biomedical Science, University at Albany, State University of 
+New York, Albany, NY 12208.
+
+The emergence of a highly contagious novel coronavirus in 2019 led to an 
+unprecedented need for large scale diagnostic testing. The associated challenges 
+including reagent shortages, cost, deployment delays, and turnaround time have 
+all highlighted the need for an alternative suite of low-cost tests. Here, we 
+demonstrate a diagnostic test for SARS-CoV-2 RNA that provides direct detection 
+of viral RNA and eliminates the need for costly enzymes. We employ DNA 
+nanoswitches that respond to segments of the viral RNA by a change in shape that 
+is readable by gel electrophoresis. A new multi-targeting approach samples 120 
+different viral regions to improve the limit of detection and provide robust 
+detection of viral variants. We apply our approach to a cohort of clinical 
+samples, positively identifying a subset of samples with high viral loads. Since 
+our method directly detects multiple regions of viral RNA without amplification, 
+it eliminates the risk of amplicon contamination and renders the method less 
+susceptible to false positives. This new tool can benefit the COVID-19 pandemic 
+and future emerging outbreaks, providing a third option between 
+amplification-based RNA detection and protein antigen detection. Ultimately, we 
+believe this tool can be adapted both for low-resource onsite testing as well as 
+for monitoring viral loads in recovering patients.
+
+DOI: 10.1101/2023.05.31.23290613
+PMCID: PMC10312858
+PMID: 37398235
+
+Conflict of interest statement: Competing interests K.H. and W.P.W were joint 
+inventors of DNA nanoswitches and hold several patents on the core technology. 
+A.R.C., L.Z., D.Y., and C.H. are also inventors on nanoswitch related patents.

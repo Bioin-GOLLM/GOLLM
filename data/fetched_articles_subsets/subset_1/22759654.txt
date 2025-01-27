@@ -1,0 +1,36 @@
+1. BMC Genomics. 2012 Jun 18;13 Suppl 4(Suppl 4):S6. doi: 
+10.1186/1471-2164-13-S4-S6.
+
+Evaluating our ability to predict the structural disruption of RNA by SNPs.
+
+Ritz J(1), Martin JS, Laederach A.
+
+Author information:
+(1)Department of Biology, University of North Carolina, Chapel Hill, NC 27599, 
+USA.
+
+The structure of RiboNucleic Acid (RNA) has the potential to be altered by a 
+Single Nucleotide Polymorphism (SNP). Disease-associated SNPs mapping to 
+non-coding regions of the genome that are transcribed into RiboNucleic Acid 
+(RNA) can potentially affect cellular regulation (and cause disease) by altering 
+the structure of the transcript. We performed a large-scale meta-analysis of 
+Selective 2'-Hydroxyl Acylation analyzed by Primer Extension (SHAPE) data, which 
+probes the structure of RNA. We found that several single point mutations exist 
+that significantly disrupt RNA secondary structure in the five transcripts we 
+analyzed. Thus, every RNA that is transcribed has the potential to be a 
+"RiboSNitch;" where a SNP causes a large conformational change that alters 
+regulatory function. Predicting the SNPs that will have the largest effect on 
+RNA structure remains a contemporary computational challenge. We therefore 
+benchmarked the most popular RNA structure prediction algorithms for their 
+ability to identify mutations that maximally affect structure. We also evaluated 
+metrics for rank ordering the extent of the structural change. Although no 
+single algorithm/metric combination dramatically outperformed the others, small 
+differences in AUC (Area Under the Curve) values reveal that certain approaches 
+do provide better agreement with experiment. The experimental data we analyzed 
+nonetheless show that multiple single point mutations exist in all RNA 
+transcripts that significantly disrupt structure in agreement with the 
+predictions.
+
+DOI: 10.1186/1471-2164-13-S4-S6
+PMCID: PMC3303743
+PMID: 22759654 [Indexed for MEDLINE]

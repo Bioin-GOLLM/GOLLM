@@ -1,0 +1,59 @@
+1. Radiother Oncol. 2022 Feb;167:226-232. doi: 10.1016/j.radonc.2021.12.040. Epub
+ 2022 Jan 3.
+
+Germline variants disrupting microRNAs predict long-term genitourinary toxicity 
+after prostate cancer radiation.
+
+Kishan AU(1), Marco N(2), Schulz-Jaavall MB(3), Steinberg ML(4), Tran PT(5), 
+Juarez JE(4), Dang A(4), Telesca D(2), Lilleby WA(3), Weidhaas JB(4).
+
+Author information:
+(1)Department of Radiation Oncology, University of California, Los Angeles, 
+United States; Department of Urology, University of California, Los Angeles, 
+United States. Electronic address: aukishan@mednet.ucla.edu.
+(2)Department of Biostatistics, University of California Los Angeles Fielding 
+School of Public Health, Los Angeles, United States.
+(3)Department of Oncology, Oslo University Hospital, The Norwegian Radium 
+Hospital, Oslo, Norway.
+(4)Department of Radiation Oncology, University of California, Los Angeles, 
+United States.
+(5)Department of Radiation Oncology and Molecular Radiation Sciences, Johns 
+Hopkins University School of Medicine, Baltimore, United States.
+
+BACKGROUND AND PURPOSE: The purpose of this study was to determine whether 
+single nucleotide polymorphisms disrupting microRNA targets (mirSNPs) can serve 
+as predictive biomarkers for toxicity after radiotherapy for prostate cancer and 
+whether these may be differentially predictive depending on radiation 
+fractionation.
+MATERIALS AND METHODS: We identified 201 men treated with two forms of 
+definitive radiotherapy for prostate cancer at two institutions: 108 men 
+received conventionally-fractionated radiotherapy (CF-RT) and 93 received 
+stereotactic body radiotherapy (SBRT). Germline DNA was evaluated for the 
+presence of functional mirSNPs. Random forest, boosted trees and elastic net 
+models were developed to predict late grade ≥2 GU toxicity by the RTOG scale.
+RESULTS: The crude incidence of late grade ≥2 GU toxicity was 16% after CF-RT 
+and 15% after SBRT. An elastic net model based on 22 mirSNPs differentiated 
+CF-RT patients at high risk (71.5%) versus low risk (7.5%) for toxicity, with an 
+area under the curve (AUC) values of 0.76-0.81. An elastic net model based on 32 
+mirSNPs differentiated SBRT patients at high risk (64.7%) versus low risk (3.9%) 
+for toxicity, with an area under the curve (AUC) values of 0.81-0.87. These 
+models were specific to treatment type delivered. Prospective studies are 
+warranted to further validate these results.
+CONCLUSION: Predictive models using germline mirSNPs have high accuracy for 
+predicting late grade ≥2 GU toxicity after either CF-RT or SBRT, and are unique 
+for each treatment, suggesting that germline predictors of late radiation 
+sensitivity are fractionation-dependent. Prospective studies are warranted to 
+further validate these results.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.radonc.2021.12.040
+PMCID: PMC8979583
+PMID: 34990726 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest disclosures Dr. Kishan 
+reported receiving personal fees from ViewRay, Inc, Varian Medical Systems, Inc, 
+and Janssen Pharmaceuticals outside the submitted work, as well as research 
+funding from ViewRay. Dr. Weidhaas is a co-founder of MiraDx, a molecular 
+diagnostics company that owns IP related to microRNA binding site variants, some 
+of which were studied in this paper.

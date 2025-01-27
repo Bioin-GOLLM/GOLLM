@@ -1,0 +1,132 @@
+1. Med. 2022 Jul 8;3(7):481-518.e14. doi: 10.1016/j.medj.2022.05.002. Epub 2022
+May  31.
+
+Cross-tissue, single-cell stromal atlas identifies shared pathological 
+fibroblast phenotypes in four chronic inflammatory diseases.
+
+Korsunsky I(1), Wei K(2), Pohin M(3), Kim EY(4), Barone F(5), Major T(6), Taylor 
+E(6), Ravindran R(3), Kemble S(5), Watts GFM(2), Jonsson AH(2), Jeong Y(4), 
+Athar H(7), Windell D(3), Kang JB(1), Friedrich M(3), Turner J(6), Nayar S(8), 
+Fisher BA(9), Raza K(9), Marshall JL(5), Croft AP(5), Tamura T(4), Sholl LM(10), 
+Vivero M(10), Rosas IO(11), Bowman SJ(9), Coles M(3), Frei AP(12), Lassen K(12), 
+Filer A(8), Powrie F(13), Buckley CD(14), Brenner MB(15), Raychaudhuri S(16).
+
+Author information:
+(1)Division of Rheumatology, Inflammation, and Immunity, Brigham and Women's 
+Hospital and Harvard Medical School, Boston, MA 02115, USA; Center for Data 
+Sciences, Brigham and Women's Hospital, Boston, MA 02115, USA; Division of 
+Genetics, Department of Medicine, Brigham and Women's Hospital, Boston, MA 
+02115, USA; Department of Biomedical Informatics, Harvard Medical School, 
+Boston, MA 02115, USA; Program in Medical and Population Genetics, Broad 
+Institute of MIT and Harvard, Cambridge, MA 02141, USA.
+(2)Division of Rheumatology, Inflammation, and Immunity, Brigham and Women's 
+Hospital and Harvard Medical School, Boston, MA 02115, USA.
+(3)Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, 
+Rheumatology and Musculoskeletal Science, University of Oxford, Oxford OX3 7FY, 
+UK.
+(4)Harvard Medical School, Boston, MA 02115, USA; Division of Pulmonary and 
+Critical Care Medicine, Brigham and Women's Hospital, Boston, MA 02115, USA.
+(5)Rheumatology Research Group, Institute for Inflammation and Ageing, College 
+of Medical and Dental Sciences, University of Birmingham, Queen Elizabeth 
+Hospital, Birmingham B15 2WD, UK.
+(6)Rheumatology Research Group, Institute for Inflammation and Ageing, College 
+of Medical and Dental Sciences, University of Birmingham, Queen Elizabeth 
+Hospital, Birmingham B15 2WD, UK; Birmingham Tissue Analytics, Institute for 
+Inflammation and Ageing, NIHR Birmingham Biomedical Research Center and Clinical 
+Research Facility, University of Birmingham, Queen Elizabeth Hospital, 
+Birmingham B15 2TT, UK.
+(7)Division of Pulmonary and Critical Care Medicine, Brigham and Women's 
+Hospital, Boston, MA 02115, USA.
+(8)Rheumatology Research Group, Institute for Inflammation and Ageing, College 
+of Medical and Dental Sciences, University of Birmingham, Queen Elizabeth 
+Hospital, Birmingham B15 2WD, UK; Birmingham Tissue Analytics, Institute for 
+Inflammation and Ageing, NIHR Birmingham Biomedical Research Center and Clinical 
+Research Facility, University of Birmingham, Queen Elizabeth Hospital, 
+Birmingham B15 2TT, UK; NIHR Birmingham Biomedical Research Centre, University 
+Hospitals Birmingham NHS Foundation Trust, Birmingham B15 2TT, UK.
+(9)Rheumatology Research Group, Institute for Inflammation and Ageing, College 
+of Medical and Dental Sciences, University of Birmingham, Queen Elizabeth 
+Hospital, Birmingham B15 2WD, UK; NIHR Birmingham Biomedical Research Centre, 
+University Hospitals Birmingham NHS Foundation Trust, Birmingham B15 2TT, UK.
+(10)Department of Pathology, Brigham and Women's Hospital and Harvard Medical 
+School, Boston, MA 02115, USA.
+(11)Section of Pulmonary, Critical Care, and Sleep Medicine, Department of 
+Medicine, Baylor College of Medicine, Dallas, TX 75246, USA.
+(12)Roche Pharma Research and Early Development, Immunology, Infectious Diseases 
+and Ophthalmology (I2O) Discovery and Translational Area, Roche Innovation 
+Center Basel, Basel 4070, Switzerland.
+(13)Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, 
+Rheumatology and Musculoskeletal Science, University of Oxford, Oxford OX3 7FY, 
+UK. Electronic address: fiona.powrie@kennedy.ox.ac.uk.
+(14)Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, 
+Rheumatology and Musculoskeletal Science, University of Oxford, Oxford OX3 7FY, 
+UK; Rheumatology Research Group, Institute for Inflammation and Ageing, College 
+of Medical and Dental Sciences, University of Birmingham, Queen Elizabeth 
+Hospital, Birmingham B15 2WD, UK; NIHR Birmingham Biomedical Research Centre, 
+University Hospitals Birmingham NHS Foundation Trust, Birmingham B15 2TT, UK. 
+Electronic address: christopher.buckley@kennedy.ox.ac.uk.
+(15)Division of Rheumatology, Inflammation, and Immunity, Brigham and Women's 
+Hospital and Harvard Medical School, Boston, MA 02115, USA; Harvard Medical 
+School, Boston, MA 02115, USA. Electronic address: 
+mbrenner@research.bwh.harvard.edu.
+(16)Division of Rheumatology, Inflammation, and Immunity, Brigham and Women's 
+Hospital and Harvard Medical School, Boston, MA 02115, USA; Center for Data 
+Sciences, Brigham and Women's Hospital, Boston, MA 02115, USA; Division of 
+Genetics, Department of Medicine, Brigham and Women's Hospital, Boston, MA 
+02115, USA; Department of Biomedical Informatics, Harvard Medical School, 
+Boston, MA 02115, USA; Program in Medical and Population Genetics, Broad 
+Institute of MIT and Harvard, Cambridge, MA 02141, USA; Centre for Genetics and 
+Genomics Versus Arthritis, Centre for Musculoskeletal Research, Manchester 
+Academic Health Science Centre, The University of Manchester, Manchester M14 9PR 
+UK. Electronic address: soumya@broadinstitute.org.
+
+BACKGROUND: Pro-inflammatory fibroblasts are critical for pathogenesis in 
+rheumatoid arthritis, inflammatory bowel disease, interstitial lung disease, and 
+Sjögren's syndrome and represent a novel therapeutic target for chronic 
+inflammatory disease. However, the heterogeneity of fibroblast phenotypes, 
+exacerbated by the lack of a common cross-tissue taxonomy, has limited our 
+understanding of which pathways are shared by multiple diseases.
+METHODS: We profiled fibroblasts derived from inflamed and non-inflamed 
+synovium, intestine, lungs, and salivary glands from affected individuals with 
+single-cell RNA sequencing. We integrated all fibroblasts into a multi-tissue 
+atlas to characterize shared and tissue-specific phenotypes.
+FINDINGS: Two shared clusters, CXCL10+CCL19+ immune-interacting and 
+SPARC+COL3A1+ vascular-interacting fibroblasts, were expanded in all inflamed 
+tissues and mapped to dermal analogs in a public atopic dermatitis atlas. We 
+confirmed these human pro-inflammatory fibroblasts in animal models of lung, 
+joint, and intestinal inflammation.
+CONCLUSIONS: This work represents a thorough investigation into fibroblasts 
+across organ systems, individual donors, and disease states that reveals shared 
+pathogenic activation states across four chronic inflammatory diseases.
+FUNDING: Grant from F. Hoffmann-La Roche (Roche) AG.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.medj.2022.05.002
+PMCID: PMC9271637
+PMID: 35649411 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests E.Y.K. is a member of 
+the advisory board for Cell Reports Medicine. In disclosures unrelated to this 
+work, E.Y.K. is a member of the Steering Committees for and receives no 
+financial renumeration from NCT04409834 (Prevention of arteriovenous thrombotic 
+events in critically ill COVID-19 patients, TIMI group) and REMAP-CAP ACE2 
+renin-angiotensin system (RAS) modulation domain. E.Y.K. receives unrelated 
+research funding from Bayer AG. In the past, E.Y.K. received unrelated research 
+funding from Windtree Therapeutics. T.T. receives unrelated support from the 
+Zoll Foundation. K.W. is a consultant to Mestag and Gilead Sciences and reports 
+grant support from Gilead Sciences. S.R. is a scientific advisor for Rheos 
+Medicines, Janssen, and Pfizer and a founder of Mestag, Inc. Y.J. and H.A. 
+receive unrelated support from Bayer AG. M.B.B. is a consultant to GSK and 4FO 
+Ventures and a founder of Mestag Therapeutics. M.L.S. receives unrelated 
+research funding and institution consulting fees from Genentech, institution 
+consulting fees from Lilly, research funding from Bristol Myers Squibb, and 
+personal consulting fees from GV20 Therapeutics. M.C. is a co-founder of Mestag 
+Therapeutics and obtains grant funding from and has consulted for Hoffman 
+La-Roche. S.B. has provided paid consultancy services regarding Sjögren’s 
+syndrome clinical trial design for the following companies in the past 3 years: 
+Abbvie, AstraZeneca, BMS, Galapagos, Novartis, and Resolve Pharma. A.F. has 
+received personal renumerations from Abbvie, Roche, and Janssen in the last 2 
+years and institutional research funding from Roche, UCB, Nascient, Mestag, GSK, 
+and Janssen. A.P.F. and K.G.L. reported being employees of F. Hoffmann-La Roche 
+(Roche) AG.

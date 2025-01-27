@@ -1,0 +1,77 @@
+1. BMC Genomics. 2021 Aug 4;22(1):593. doi: 10.1186/s12864-021-07881-y.
+
+Comprehensive analysis of lncRNAs involved in skeletal muscle development in 
+ZBED6-knockout Bama pigs.
+
+Wang D(#)(1)(2), Pu Y(#)(1)(2), Li Y(#)(1)(2), Pan D(2)(3), Wang S(1)(2), Tian 
+W(2)(4), Ma Y(5)(6), Jiang L(7)(8).
+
+Author information:
+(1)Laboratory of Animal (Poultry) Genetics Breeding and Reproduction, Ministry 
+of Agriculture, Institute of Animal Sciences, Chinese Academy of Agricultural 
+Sciences (CAAS), Beijing, P. R. China.
+(2)National Germplasm Center of Domestic Animal Resources, Ministry of 
+Technology, Institute of Animal Sciences, Chinese Academy of Agricultural 
+Sciences (CAAS), Beijing, P.R. China.
+(3)Clinical Immunology Translational Medicine Key Laboratory of Sichuan 
+Province, Sichuan Academy of Medical Sciences & Sichuan Provincial People's 
+Hospital, 610072, Chengdu, China.
+(4)State Key Laboratory for Conservation and Utilization of Subtropical 
+Agro-bioresources, College of Animal Science and Technology, Guangxi University, 
+Nanning, P.R. China.
+(5)Laboratory of Animal (Poultry) Genetics Breeding and Reproduction, Ministry 
+of Agriculture, Institute of Animal Sciences, Chinese Academy of Agricultural 
+Sciences (CAAS), Beijing, P. R. China. yuehui.ma@263.net.
+(6)National Germplasm Center of Domestic Animal Resources, Ministry of 
+Technology, Institute of Animal Sciences, Chinese Academy of Agricultural 
+Sciences (CAAS), Beijing, P.R. China. yuehui.ma@263.net.
+(7)Laboratory of Animal (Poultry) Genetics Breeding and Reproduction, Ministry 
+of Agriculture, Institute of Animal Sciences, Chinese Academy of Agricultural 
+Sciences (CAAS), Beijing, P. R. China. jianglin@caas.cn.
+(8)National Germplasm Center of Domestic Animal Resources, Ministry of 
+Technology, Institute of Animal Sciences, Chinese Academy of Agricultural 
+Sciences (CAAS), Beijing, P.R. China. jianglin@caas.cn.
+(#)Contributed equally
+
+BACKGROUND: The mutation of insulin-like growth factor 2 (IGF2 mutation) that a 
+single-nucleotide substitution (G→A) in the third intron of IGF2 abrogates the 
+interaction with zinc finger BED-type containing 6 (ZBED6) and leads to 
+increased muscle mass in pigs. IGF2 mutation knock-in (IGF2 KI) and ZBED6 
+knockout (ZBED6 KO) lead to changes in IGF2 expression and increase muscle mass 
+in mice and pigs. Long noncoding RNAs (lncRNAs) may participate in numerous 
+biological processes, including skeletal muscle development. However, the role 
+of the ZBED6-lncRNA axis in skeletal muscle development is poorly characterized.
+RESULTS: In this study, we assembled transcriptomes using RNA-seq data published 
+in previous studies by our group and identified 11,408 known lncRNAs and 2269 
+potential lncRNAs in seven tissues, heart, longissimus dorsi, gastrocnemius 
+muscle, liver, spleen, lung and kidney, of ZBED6 KO (lean mass model) and WT 
+Bama pigs. ZBED6 affected the expression of 1570 lncRNAs (differentially 
+expressed lncRNAs [DE-lncRNAs]; log2-fold change ≥ 1, nominal p-value ≤ 0.05) in 
+the seven examined tissues. The expressed lncRNAs (FPKM > 0.1) exhibited 
+tissue-specific patterns in WT pigs. Specifically, 3410 lncRNAs were expressed 
+exclusively in only one tissue. Potential functions of lncRNAs were indirectly 
+predicted by searching their target cis- and trans-regulated protein-coding 
+genes. LncRNAs with tissue-specific expression influence numerous genes related 
+to tissue functions. Weighted gene coexpression network analysis (WGCNA) of 1570 
+DE-lncRNAs between WT and ZBED6 KO pigs was used to define the following six 
+lncRNA modules specific to different tissues: skeletal muscle, heart, lung, 
+spleen, kidney and liver modules. Furthermore, by conjoint analysis of 
+longissimus dorsi data (tissue-specific expression, muscle module and 
+DE-lncRNAs) and ChIP-PCR revealed NONSUSG002145.1 (adjusted p-values = 0.044), 
+which is coexpressed with the IGF2 gene and binding with ZBED6, may play 
+important roles in ZBED6 KO pig skeletal muscle development.
+CONCLUSIONS: These findings indicate that the identified lncRNAs may play 
+essential roles in tissue function and regulate the mechanism of ZBED6 action in 
+skeletal muscle development in pigs. To our knowledge, this is the first study 
+describing lncRNAs in ZBED6 KO pigs. These results may open new research 
+directions leading to a better understanding of the global functions of ZBED6 
+and of lncRNA functions in skeletal muscle development in pigs.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-07881-y
+PMCID: PMC8340374
+PMID: 34348644 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

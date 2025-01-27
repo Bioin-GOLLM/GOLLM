@@ -1,0 +1,43 @@
+1. Nat Commun. 2021 Mar 31;12(1):2010. doi: 10.1038/s41467-021-22293-y.
+
+A designer FG-Nup that reconstitutes the selective transport barrier of the 
+nuclear pore complex.
+
+Fragasso A(#)(1), de Vries HW(#)(2), Andersson J(3), van der Sluis EO(1), van 
+der Giessen E(2), Dahlin A(3), Onck PR(4), Dekker C(5).
+
+Author information:
+(1)Department of Bionanoscience, Kavli Institute of Nanoscience, Delft 
+University of Technology, Delft, The Netherlands.
+(2)Zernike Institute for Advanced Materials, University of Groningen, Groningen, 
+The Netherlands.
+(3)Department of Chemistry and Chemical Engineering, Chalmers University of 
+Technology, Gothenburg, Sweden.
+(4)Zernike Institute for Advanced Materials, University of Groningen, Groningen, 
+The Netherlands. p.r.onck@rug.nl.
+(5)Department of Bionanoscience, Kavli Institute of Nanoscience, Delft 
+University of Technology, Delft, The Netherlands. c.dekker@tudelft.nl.
+(#)Contributed equally
+
+Nuclear Pore Complexes (NPCs) regulate bidirectional transport between the 
+nucleus and the cytoplasm. Intrinsically disordered FG-Nups line the NPC lumen 
+and form a selective barrier, where transport of most proteins is inhibited 
+whereas specific transporter proteins freely pass. The mechanism underlying 
+selective transport through the NPC is still debated. Here, we reconstitute the 
+selective behaviour of the NPC bottom-up by introducing a rationally designed 
+artificial FG-Nup that mimics natural Nups. Using QCM-D, we measure selective 
+binding of the artificial FG-Nup brushes to the transport receptor Kap95 over 
+cytosolic proteins such as BSA. Solid-state nanopores with the artificial 
+FG-Nups lining their inner walls support fast translocation of Kap95 while 
+blocking BSA, thus demonstrating selectivity. Coarse-grained molecular dynamics 
+simulations highlight the formation of a selective meshwork with densities 
+comparable to native NPCs. Our findings show that simple design rules can 
+recapitulate the selective behaviour of native FG-Nups and demonstrate that no 
+specific spacer sequence nor a spatial segregation of different FG-motif types 
+are needed to create selective NPCs.
+
+DOI: 10.1038/s41467-021-22293-y
+PMCID: PMC8012357
+PMID: 33790297 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

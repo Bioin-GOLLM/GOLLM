@@ -1,0 +1,44 @@
+1. Biomed Res Int. 2017;2017:6132436. doi: 10.1155/2017/6132436. Epub 2017 Feb 1.
+
+Identifying and Analyzing Novel Epilepsy-Related Genes Using Random Walk with 
+Restart Algorithm.
+
+Guo W(1), Shang DM(1), Cao JH(2), Feng K(3), He YC(2), Jiang Y(4), Wang S(5), 
+Gao YF(2).
+
+Author information:
+(1)Department of Outpatient, China-Japan Union Hospital of Jilin University, 
+Changchun 130033, China.
+(2)Department of Neurosurgery, China-Japan Union Hospital of Jilin University, 
+Changchun 130033, China.
+(3)Department of Computer Science, Guangdong AIB Polytechnic, Guangzhou 510507, 
+China.
+(4)Department of Surgery, China-Japan Union Hospital of Jilin University, 
+Changchun 130033, China.
+(5)School of Life Sciences, Shanghai University, Shanghai 200444, China.
+
+As a pathological condition, epilepsy is caused by abnormal neuronal discharge 
+in brain which will temporarily disrupt the cerebral functions. Epilepsy is a 
+chronic disease which occurs in all ages and would seriously affect patients' 
+personal lives. Thus, it is highly required to develop effective medicines or 
+instruments to treat the disease. Identifying epilepsy-related genes is 
+essential in order to understand and treat the disease because the corresponding 
+proteins encoded by the epilepsy-related genes are candidates of the potential 
+drug targets. In this study, a pioneering computational workflow was proposed to 
+predict novel epilepsy-related genes using the random walk with restart (RWR) 
+algorithm. As reported in the literature RWR algorithm often produces a number 
+of false positive genes, and in this study a permutation test and functional 
+association tests were implemented to filter the genes identified by RWR 
+algorithm, which greatly reduce the number of suspected genes and result in only 
+thirty-three novel epilepsy genes. Finally, these novel genes were analyzed 
+based upon some recently published literatures. Our findings implicate that all 
+novel genes were closely related to epilepsy. It is believed that the proposed 
+workflow can also be applied to identify genes related to other diseases and 
+deepen our understanding of the mechanisms of these diseases.
+
+DOI: 10.1155/2017/6132436
+PMCID: PMC5309434
+PMID: 28255556 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interests regarding the publication of this article.

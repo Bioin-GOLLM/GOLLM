@@ -1,0 +1,32 @@
+1. Nucleic Acids Res. 2011 Jul;39(12):4917-27. doi: 10.1093/nar/gkr104. Epub 2011
+ Feb 26.
+
+Mapping the sequences of potential guanine quadruplex motifs.
+
+Todd AK(1), Neidle S.
+
+Author information:
+(1)CRUK Biomolecular Structure Group, The School of Pharmacy, University of 
+London, 29-39 Brunswick Square, London WC1N 1AX, UK.
+
+The knowledge that potential guanine quadruplex sequences (PQs) are non-randomly 
+distributed in relation to genomic features is now well established. However, 
+this is for a general potential quadruplex motif which is characterized by short 
+runs of guanine separated by loop regions, regardless of the nature of the loop 
+sequence. There have been no studies to date which map the distribution of PQs 
+in terms of primary sequence or which categorize PQs. To this end, we have 
+generated clusters of PQ sequence groups of various sizes and various degrees of 
+similarity for the non-template strand of introns in the human genome. We 
+started with 86 697 sequences, and successively merged them into groups based on 
+sequence similarity, carrying out 66 clustering cycles before convergence. We 
+have demonstrated here that by using complete linkage hierarchical agglomerative 
+clustering such PQ sequence categorization can be achieved. Our results give an 
+insight into sequence diversity and categories of PQ sequences which occur in 
+human intronic regions. We also highlight a number of clusters for which 
+interesting relationships among their members were immediately evident and other 
+clusters whose members seem unrelated, illustrating, we believe, a distinct role 
+for different sequence types.
+
+DOI: 10.1093/nar/gkr104
+PMCID: PMC3130275
+PMID: 21357607 [Indexed for MEDLINE]

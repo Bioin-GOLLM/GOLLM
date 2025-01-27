@@ -1,0 +1,51 @@
+1. PLoS One. 2013 Aug 5;8(8):e70687. doi: 10.1371/journal.pone.0070687. Print
+2013.
+
+Rapid global fitting of large fluorescence lifetime imaging microscopy datasets.
+
+Warren SC(1), Margineanu A, Alibhai D, Kelly DJ, Talbot C, Alexandrov Y, Munro 
+I, Katan M, Dunsby C, French PM.
+
+Author information:
+(1)Department of Chemistry, Institute for Chemical Biology, Imperial College 
+London, London, United Kingdom. sean.warren09@imperial.ac.uk
+
+Fluorescence lifetime imaging (FLIM) is widely applied to obtain quantitative 
+information from fluorescence signals, particularly using Förster Resonant 
+Energy Transfer (FRET) measurements to map, for example, protein-protein 
+interactions. Extracting FRET efficiencies or population fractions typically 
+entails fitting data to complex fluorescence decay models but such experiments 
+are frequently photon constrained, particularly for live cell or in vivo 
+imaging, and this leads to unacceptable errors when analysing data on a 
+pixel-wise basis. Lifetimes and population fractions may, however, be more 
+robustly extracted using global analysis to simultaneously fit the fluorescence 
+decay data of all pixels in an image or dataset to a multi-exponential model 
+under the assumption that the lifetime components are invariant across the image 
+(dataset). This approach is often considered to be prohibitively slow and/or 
+computationally expensive but we present here a computationally efficient global 
+analysis algorithm for the analysis of time-correlated single photon counting 
+(TCSPC) or time-gated FLIM data based on variable projection. It makes efficient 
+use of both computer processor and memory resources, requiring less than a 
+minute to analyse time series and multiwell plate datasets with hundreds of FLIM 
+images on standard personal computers. This lifetime analysis takes account of 
+repetitive excitation, including fluorescence photons excited by earlier pulses 
+contributing to the fit, and is able to accommodate time-varying backgrounds and 
+instrument response functions. We demonstrate that this global approach allows 
+us to readily fit time-resolved fluorescence data to complex models including a 
+four-exponential model of a FRET system, for which the FRET efficiencies of the 
+two species of a bi-exponential donor are linked, and polarisation-resolved 
+lifetime data, where a fluorescence intensity and bi-exponential anisotropy 
+decay model is applied to the analysis of live cell homo-FRET data. A software 
+package implementing this algorithm, FLIMfit, is available under an open source 
+licence through the Open Microscopy Environment.
+
+DOI: 10.1371/journal.pone.0070687
+PMCID: PMC3734241
+PMID: 23940626 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The historic experimental 
+data shown in Figures 1 and 4 was acquired as part of an earlier project that 
+was funded in part by a United Kingdom Technology Strategy Board Technology 
+Award (CHBT/007/00030, EP/C54269X), in partnership with AstraZeneca, GE 
+Healthcare, GSK, Kentech Instruments Ltd. This does not alter the authors’ 
+adherence to all the PLOS ONE policies on sharing data and materials.

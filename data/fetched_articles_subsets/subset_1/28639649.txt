@@ -1,0 +1,31 @@
+1. Chem Commun (Camb). 2017 Jul 4;53(54):7604-7607. doi: 10.1039/c7cc02270k.
+
+Computational design of cephradine synthase in a new scaffold identified from 
+structural databases.
+
+Huang X(1), Xue J, Zhu Y.
+
+Author information:
+(1)Department of Chemical Engineering, Tsinghua University, Beijing 100084, 
+People's Republic of China. yszhu@tsinghua.edu.cn.
+
+Computational enzyme design exhibits excellent performance for identifying 
+potential scaffolds from structural databases and creating new enzymatic 
+catalysts from naught. Using the active site-matching algorithm ProdaMatch, we 
+identified a new scaffold cocaine esterase from Rhodococcus sp. that showed 
+modest activity (kcat/Km = 0.018 M-1 s-1) towards the hydrolysis of β-lactam 
+antibiotic cephradine. The identified cocaine esterase scaffold afforded low 
+sequence identity (<30%) with the known β-lactam synthases, such as penicillin G 
+acylase or α-amino acid ester hydrolase, and was able to catalyze the 
+condensation reaction between d-dihydrophenylglycine methyl ester and 
+7-aminodesacetoxycephalosporanic acid to produce cephradine via a kinetically 
+controlled synthesis. By virtue of the computational enzyme design protocol, 
+hundreds of sequences were predicted in the cocaine esterase scaffold to promote 
+the catalytic activity towards the hydrolytic reaction of cephradine. Moreover, 
+a single mutant (F261T) was experimentally confirmed to have improved the 
+catalytic efficiency by ten times (kcat/Km = 0.193 M-1 s-1), indicating that the 
+novel scaffold cocaine esterase may be potentially redesigned to become an 
+industrially useful cephradine synthase.
+
+DOI: 10.1039/c7cc02270k
+PMID: 28639649 [Indexed for MEDLINE]

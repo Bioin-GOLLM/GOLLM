@@ -1,0 +1,47 @@
+1. iScience. 2023 Jan 13;26(2):105962. doi: 10.1016/j.isci.2023.105962.
+eCollection  2023 Feb 17.
+
+Distinct but interchangeable subpopulations of colorectal cancer cells with 
+different growth fates and drug sensitivity.
+
+Coppo R(1), Kondo J(1), Iida K(2), Okada M(2), Onuma K(1), Tanaka Y(3)(4), 
+Kamada M(5), Ohue M(6), Kawada K(7), Obama K(7), Inoue M(1).
+
+Author information:
+(1)Department of Clinical Bio-resource Research and Development, Graduate School 
+of Medicine, Kyoto University, Kyoto, Japan.
+(2)Institute for Protein Research, Osaka University, Suita, Osaka, Japan.
+(3)Graduate School of Pharmaceutical Sciences, Kyoto University, Kyoto, Japan.
+(4)RIKEN Center for Computational Science, HPC- and AI-driven Drug Development 
+Platform Division, Biomedical Computational Intelligence Unit, Hyogo, Japan.
+(5)Department of Biomedical Data Intelligence, Graduate School of Medicine, 
+Kyoto University, Kyoto, Japan.
+(6)Department of Gastroenterological Surgery, Osaka International Cancer 
+Institute, Osaka, Japan.
+(7)Department of Surgery, Graduate School of Medicine, Kyoto University, Kyoto, 
+Japan.
+
+Dynamic changes in cell properties lead to intratumor heterogeneity; however, 
+the mechanisms of nongenetic cellular plasticity remain elusive. When the fate 
+of each cell from colorectal cancer organoids was tracked through a clonogenic 
+growth assay, the cells showed a wide range of growth ability even within the 
+clonal organoids, consisting of distinct subpopulations; the cells generating 
+large spheroids and the cells generating small spheroids. The cells from the 
+small spheroids generated only small spheroids (S-pattern), while the cells from 
+the large spheroids generated both small and large spheroids (D-pattern), both 
+of which were tumorigenic. Transition from the S-pattern to the D-pattern 
+occurred by various extrinsic triggers, in which Notch signaling and Musashi-1 
+played a key role. The S-pattern spheroids were resistant to chemotherapy and 
+transited to the D-pattern upon drug treatment through Notch signaling. As the 
+transition is linked to the drug resistance, it can be a therapeutic target.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.isci.2023.105962
+PMCID: PMC9883198
+PMID: 36718360
+
+Conflict of interest statement: J.K., K.O., and M.I. belong to the Department of 
+Clinical Bio-resource Research and Development at Kyoto University, which is 
+sponsored by KBBM, Inc. M.I. is an inventor of the patents related to the CTOS 
+method.

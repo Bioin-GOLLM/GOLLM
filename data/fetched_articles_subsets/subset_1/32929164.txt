@@ -1,0 +1,63 @@
+1. Sci Rep. 2020 Sep 14;10(1):15026. doi: 10.1038/s41598-020-71693-5.
+
+Understanding and predicting ciprofloxacin minimum inhibitory concentration in 
+Escherichia coli with machine learning.
+
+Pataki BÁ(1)(2), Matamoros S(3), van der Putten BCL(3)(4), Remondini D(5), 
+Giampieri E(6), Aytan-Aktug D(7), Hendriksen RS(7), Lund O(8), Csabai I(9)(10), 
+Schultsz C(3)(4); SPS COMPARE ML-AMR group.
+
+Collaborators: Matamoros S, Janes V, Hendriksen RS, Lund O, Clausen P, Aarestrup 
+FM, Koopmans M, Pataki B, Visontai D, Stéger J, Szalai-Gindl JM, Csabai I, 
+Pakseresht N, Rossello M, Silvester N, Amid C, Cochrane G, Schultsz C, Pradel F, 
+Westeel E, Fuchs S, Kumar SM, Xavier BB, Ngoc MN, Remondini D, Giampieri E, 
+Pasquali F, Petrovska L, Ajayi D, Nielsen EM, Trung NV, Hoa NT, Ishii Y, Aoki K, 
+McDermott P.
+
+Author information:
+(1)Department of Physics of Complex Systems, ELTE Eötvös Loránd University, 
+Budapest, Hungary. patbaa@caesar.elte.hu.
+(2)Department of Computational Sciences, Wigner Research Centre for Physics of 
+the HAS, Budapest, Hungary. patbaa@caesar.elte.hu.
+(3)Department of Medical Microbiology, Amsterdam UMC, University of Amsterdam, 
+Amsterdam, The Netherlands.
+(4)Department of Global Health, Amsterdam Institute for Global Health and 
+Development, Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.
+(5)Department of Physics and Astronomy (DIFA), University of Bologna, Bologna, 
+Italy.
+(6)Department of Experimental, Diagnostic and Specialty Medicine (DIMES), 
+University of Bologna, Bologna, Italy.
+(7)National Food Institute, Technical University of Denmark, Lyngby, Denmark.
+(8)Department of Bioinformatics, Technical University of Denmark, Lyngby, 
+Denmark.
+(9)Department of Physics of Complex Systems, ELTE Eötvös Loránd University, 
+Budapest, Hungary.
+(10)Department of Computational Sciences, Wigner Research Centre for Physics of 
+the HAS, Budapest, Hungary.
+
+It is important that antibiotics prescriptions are based on antimicrobial 
+susceptibility data to ensure effective treatment outcomes. The increasing 
+availability of next-generation sequencing, bacterial whole genome sequencing 
+(WGS) can facilitate a more reliable and faster alternative to traditional 
+phenotyping for the detection and surveillance of AMR. This work proposes a 
+machine learning approach that can predict the minimum inhibitory concentration 
+(MIC) for a given antibiotic, here ciprofloxacin, on the basis of both 
+genome-wide mutation profiles and profiles of acquired antimicrobial resistance 
+genes. We analysed 704 Escherichia coli genomes combined with their respective 
+MIC measurements for ciprofloxacin originating from different countries. The 
+four most important predictors found by the model, mutations in gyrA residues 
+Ser83 and Asp87, a mutation in parC residue Ser80 and presence of the qnrS1 
+gene, have been experimentally validated before. Using only these four 
+predictors in a linear regression model, 65% and 93% of the test samples' MIC 
+were correctly predicted within a two- and a four-fold dilution range, 
+respectively. The presented work does not treat machine learning as a black box 
+model concept, but also identifies the genomic features that determine 
+susceptibility. The recent progress in WGS technology in combination with 
+machine learning analysis approaches indicates that in the near future WGS of 
+bacteria might become cheaper and faster than a MIC measurement.
+
+DOI: 10.1038/s41598-020-71693-5
+PMCID: PMC7490380
+PMID: 32929164 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

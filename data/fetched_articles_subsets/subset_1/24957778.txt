@@ -1,0 +1,48 @@
+1. Retrovirology. 2014 Jun 23;11:48. doi: 10.1186/1742-4690-11-48.
+
+Distinct HIV-1 entry phenotypes are associated with transmission, subtype 
+specificity, and resistance to broadly neutralizing antibodies.
+
+Chikere K, Webb NE, Chou T, Borm K, Sterjovski J, Gorry PR, Lee B(1).
+
+Author information:
+(1)Department of Microbiology, Immunology, and Molecular Genetics, Los Angeles, 
+USA. benhur.lee@mssm.edu.
+
+BACKGROUND: The efficiency of CD4/CCR5 mediated HIV-1 entry has important 
+implications for pathogenesis and transmission. The HIV-1 receptor affinity 
+profiling (Affinofile) system analyzes and quantifies the infectivity of HIV-1 
+envelopes (Envs) across a spectrum of CD4/CCR5 expression levels and distills 
+these data into a set of Affinofile metrics. The Affinofile system has shed 
+light on how differential CD4/CCR5 usage efficiencies contributes to an array of 
+Env phenotypes associated with cellular tropism, viral pathogenesis, and CCR5 
+inhibitor resistance. To facilitate more rapid, convenient, and robust analysis 
+of HIV-1 entry phenotypes, we engineered a reporter Affinofile system containing 
+a Tat- and Rev-dependent Gaussia luciferase-eGFP-Reporter (GGR) that is 
+compatible with the use of pseudotyped or replication competent viruses with or 
+without a virally encoded reporter gene. This GGR Affinofile system enabled a 
+higher throughput characterization of CD4/CCR5 usage efficiencies associated 
+with differential Env phenotypes.
+RESULTS: We first validated our GGR Affinofile system on isogenic JR-CSF Env 
+mutants that differ in their affinity for CD4 and/or CCR5. We established that 
+their GGR Affinofile metrics reflected their differential entry phenotypes on 
+primary PBMCs and CD4+ T-cell subsets. We then applied GGR Affinofile profiling 
+to reveal distinct entry phenotypes associated with transmission, subtype 
+specificity, and resistance to broadly neutralizing antibodies (BNAbs). First, 
+we profiled a panel of reference subtype B transmitted/founder (T/F) and chronic 
+Envs (n = 12) by analyzing the infectivity of each Env across 25 distinct 
+combinations of CD4/CCR5 expression levels. Affinofile metrics revealed that at 
+low CCR5 levels, our panel of subtype B T/F Envs was more dependent on high 
+levels of CD4 for HIV-1 entry compared to chronic Envs. Next, we analyzed a 
+reference panel of 28 acute/early subtype A-D Envs, and noted that subtype C 
+Envs could be distinguished from the other subtypes based on their infectivity 
+profiles and relevant Affinofile metrics. Lastly, mutations known to confer 
+resistance to VRC01 or PG6/PG19 BNAbs, when engineered into subtypes A-D Envs, 
+resulted in significantly decreased CD4/CCR5 usage efficiency.
+CONCLUSIONS: GGR Affinofile profiling reveals pathophysiological phenotypes 
+associated with varying HIV-1 entry efficiencies, and highlight the fitness 
+costs associated with resistance to some broadly neutralizing antibodies.
+
+DOI: 10.1186/1742-4690-11-48
+PMCID: PMC4230403
+PMID: 24957778 [Indexed for MEDLINE]

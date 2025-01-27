@@ -1,0 +1,52 @@
+1. Neuroimage Clin. 2013 Aug 13;3:171-9. doi: 10.1016/j.nicl.2013.08.001. 
+eCollection 2013.
+
+Quantification of multiple-sclerosis-related brain atrophy in two heterogeneous 
+MRI datasets using mixed-effects modeling.
+
+Jones BC(1), Nair G, Shea CD, Crainiceanu CM, Cortese IC, Reich DS.
+
+Author information:
+(1)Translational Neuroradiology Unit, National Institute of Neurological 
+Disorders and Stroke, NIH, 10 Center Drive MSC 1400, Building 10 Room 5C103, 
+Bethesda, MD 20892, USA ; Case Western Reserve University School of Medicine, 
+10900 Euclid Ave., Cleveland, OH 44106, USA.
+
+Brain atrophy, measured by MRI, has been proposed as a useful surrogate marker 
+for disease progression in multiple sclerosis (MS). However, it is 
+conventionally assumed that the accurate quantification of brain atrophy is made 
+difficult, if not impossible, by changes in the parameters of the MRI 
+acquisition, which are almost inevitable over the course of a longitudinal study 
+since MRI technology changes rapidly. This state of affairs can negatively 
+affect clinical trial design and limit the use of historical data. Here, we 
+investigate whether we can coherently estimate brain atrophy rates in a 
+heterogeneous MS sample via linear mixed-effects multivariable regression, 
+incorporating three critical assumptions: (1) using age at time of scanning, 
+rather than time since baseline, as the regressor of interest; (2) scanning 
+individuals with a variety of techniques; and (3) introducing a simple additive 
+correction for major differences in MRI protocol. We fit the model to several 
+measures of brain volume as the outcome in two MS populations: 1123 scans from 
+195 cases acquired for over approximately 7 years in two natural history 
+protocols (Cohort 1), and 1331 scans from 69 cases seen for over 11 years who 
+were primarily treated with two specific MS disease-modifying therapies (Cohort 
+2). We compared the mixed-effects model with additive correction for MRI 
+acquisition parameters to a model fit without this correction and performed 
+sample-size calculations to provide an estimate of the number of participants in 
+an MS clinical trial that might be required to see a therapeutic effect of 
+treatment using the approach described here. The results show that without the 
+additive correction for T1-weighted protocol parameters, atrophy was 
+underestimated and subject-specific estimates were more narrowly distributed 
+about the population mean. Ventricular CSF is the most consistently estimated 
+brain volume, with a mean of 2.8%/year increase in Cohort 1 and 4.4%/year 
+increase in Cohort 2. An interesting observation was that gray matter volume 
+decreased and white matter volume remained essentially unchanged in both 
+cohorts, suggesting that changes in ventricular CSF volume are a surrogate for 
+changes in gray matter volume. In conclusion, the mixed-effects modeling 
+framework presented here allows effective use of heterogeneously acquired and 
+historical data in the study of brain atrophy in MS, potentially simplifying the 
+design of future single- and multi-site clinical trials and natural history 
+studies.
+
+DOI: 10.1016/j.nicl.2013.08.001
+PMCID: PMC3791279
+PMID: 24179861

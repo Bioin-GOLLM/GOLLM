@@ -1,0 +1,43 @@
+1. Genome Biol. 2015 Jul 14;16(1):140. doi: 10.1186/s13059-015-0699-9.
+
+An integrative pan-cancer-wide analysis of epigenetic enzymes reveals universal 
+patterns of epigenomic deregulation in cancer.
+
+Yang Z(1), Jones A(2), Widschwendter M(2), Teschendorff AE(3)(4).
+
+Author information:
+(1)Key Laboratory of Computational Biology, CAS-MPG Partner Institute for 
+Computational Biology, 320 Yue Yang Road, Shanghai, 200031, China.
+(2)Department of Women's Cancer, University College London, 74 Huntley Street, 
+London, WC1E 6AU, UK.
+(3)Key Laboratory of Computational Biology, CAS-MPG Partner Institute for 
+Computational Biology, 320 Yue Yang Road, Shanghai, 200031, China. 
+a.teschendorff@ucl.ac.uk.
+(4)Statistical Cancer Genomics, Paul O'Gorman Building, UCL Cancer Institute, 
+University College London, 72 Huntley Street, London, WC1E 6BT, UK. 
+a.teschendorff@ucl.ac.uk.
+
+BACKGROUND: One of the most important recent findings in cancer genomics is the 
+identification of novel driver mutations which often target genes that regulate 
+genome-wide chromatin and DNA methylation marks. Little is known, however, as to 
+whether these genes exhibit patterns of epigenomic deregulation that transcend 
+cancer types.
+RESULTS: Here we conduct an integrative pan-cancer-wide analysis of matched 
+RNA-Seq and DNA methylation data across ten different cancer types. We identify 
+seven tumor suppressor and eleven oncogenic epigenetic enzymes which display 
+patterns of deregulation and association with genome-wide cancer DNA methylation 
+patterns, which are largely independent of cancer type. In doing so, we provide 
+evidence that genome-wide cancer hyper- and hypo- DNA methylation patterns are 
+independent processes, controlled by distinct sets of epigenetic enzyme genes. 
+Using causal network modeling, we predict a number of candidate drivers of 
+cancer DNA hypermethylation and hypomethylation. Finally, we show that the 
+genomic loci whose DNA methylation levels associate most strongly with 
+expression of these putative drivers are highly consistent across cancer types.
+CONCLUSIONS: This study demonstrates that there exist universal patterns of 
+epigenomic deregulation that transcend cancer types, and that intra-tumor levels 
+of genome-wide DNA hypomethylation and hypermethylation are controlled by 
+distinct processes.
+
+DOI: 10.1186/s13059-015-0699-9
+PMCID: PMC4501092
+PMID: 26169266 [Indexed for MEDLINE]

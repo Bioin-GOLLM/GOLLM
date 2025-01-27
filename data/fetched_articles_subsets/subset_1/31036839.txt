@@ -1,0 +1,46 @@
+1. Sci Rep. 2019 Apr 29;9(1):6627. doi: 10.1038/s41598-019-43004-0.
+
+Structural prerequisites for CRM1-dependent nuclear export signaling peptides: 
+accessibility, adapting conformation, and the stability at the binding site.
+
+Lee Y(1), Pei J(2), Baumhardt JM(3), Chook YM(3), Grishin NV(4)(5).
+
+Author information:
+(1)Department of Biophysics, University of Texas Southwestern Medical Center, 
+Dallas, TX, 75390, USA.
+(2)Howard Hughes Medical Institute, University of Texas Southwestern Medical 
+Center, Dallas, TX, 75390, USA.
+(3)Department of Pharmacology, University of Texas Southwestern Medical Center, 
+Dallas, TX, 75390, USA.
+(4)Department of Biophysics, University of Texas Southwestern Medical Center, 
+Dallas, TX, 75390, USA. grishin@chop.swmed.edu.
+(5)Howard Hughes Medical Institute, University of Texas Southwestern Medical 
+Center, Dallas, TX, 75390, USA. grishin@chop.swmed.edu.
+
+Nuclear export signal (NES) motifs function as essential regulators of the 
+subcellular location of proteins by interacting with the major nuclear exporter 
+protein, CRM1. Prediction of NES is of great interest in many aspects of 
+research including cancer, but currently available methods, which are mostly 
+based on the sequence-based approaches, have been suffered from high false 
+positive rates since the NES consensus patterns are quite commonly observed in 
+protein sequences. Therefore, finding a feature that can distinguish real NES 
+motifs from false positives is desired to improve the prediction power, but it 
+is quite challenging when only using the sequence. Here, we provide a 
+comprehensive table for the validated cargo proteins, containing the location of 
+the NES consensus patterns with the disordered propensity plots, known protein 
+domain information, and the predicted secondary structures. It could be useful 
+for determining the most plausible NES region in the context of the whole 
+protein sequence and suggests possibilities for some non-binders of the 
+annotated regions. In addition, using the currently available crystal structures 
+of CRM1 bound to various classes of NES peptides, we adopted, for the first 
+time, the structure-based prediction of the NES motifs bound to the CRM1's 
+binding groove. Combining sequence-based and structure-based predictions, we 
+suggest a novel and more straight-forward approach to identify CRM1-binding NES 
+sequences by analysis of their structural prerequisites and energetic evaluation 
+of the stability at the CRM1's binding site.
+
+DOI: 10.1038/s41598-019-43004-0
+PMCID: PMC6488578
+PMID: 31036839 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

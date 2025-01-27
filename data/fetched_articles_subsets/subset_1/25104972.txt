@@ -1,0 +1,54 @@
+1. J Biol Eng. 2014 Aug 1;8:19. doi: 10.1186/1754-1611-8-19. eCollection 2014.
+
+"NiCo Buster": engineering E. coli for fast and efficient capture of cobalt and 
+nickel.
+
+Duprey A(1)(2), Chansavang V(1), Frémion F(1), Gonthier C(1), Louis Y(3), 
+Lejeune P(2), Springer F(3), Desjardin V(3), Rodrigue A(#)(2), Dorel C(#)(3).
+
+Author information:
+(1)iGEM team INSA Lyon, Plateforme de Biologie de Synthèse, Département 
+Biosciences, INSA Lyon, 69621 Villeurbanne Cedex, France.
+(2)Université de Lyon, INSA-Lyon, Université Claude Bernard Lyon I, CNRS, MAP, 
+UMR5240, Villeurbanne F-69621, France.
+(3)Université de Lyon, INSA-Lyon, LGCIE, Villeurbanne F-69621, France.
+(#)Contributed equally
+
+BACKGROUND: Metal contamination is widespread and results from natural geogenic 
+and constantly increasing anthropogenic sources (mainly mining and extraction 
+activities, electroplating, battery and steel manufacturing or metal finishing). 
+Consequently, there is a growing need for methods to detoxify polluted 
+ecosystems. Industrial wastewater, surface water and ground water need to be 
+decontaminated to alleviate the contamination of soils and sediments and, 
+ultimately, the human food chain. In nuclear power plants, radioactive metals 
+are produced; these metals need to be removed from effluents before they are 
+released into the environment, not only for pollution prevention but also for 
+waste minimization. Many physicochemical methods have been developed for metal 
+removal from aqueous solutions, including chemical coagulation, adsorption, 
+extraction, ion exchange and membrane separation; however, these methods are 
+generally not metal selective. Bacteria, because they contain metal 
+transporters, provide a potentially competitive alternative to the current use 
+of expensive and high-volume ion-exchange resins.
+RESULTS: The feasibility of using bacterial biofilters as efficient tools for 
+nickel and cobalt ions specific remediation was investigated. Among the factors 
+susceptible to genetic modification in Escherichia coli, specific efflux and 
+sequestration systems were engineered to improve its metal sequestration 
+abilities. Genomic suppression of the RcnA nickel (Ni) and cobalt (Co) efflux 
+system was combined with the plasmid-controlled expression of a genetically 
+improved version of a specific metallic transporter, NiCoT, which originates 
+from Novosphingobium aromaticivorans. The resulting strain exhibited enhanced 
+nickel (II) and cobalt (II) uptake, with a maximum metal ion accumulation of 
+6 mg/g bacterial dry weight during 10 min of treatment. A synthetic adherence 
+operon was successfully introduced into the plasmid carrying the improved NiCoT 
+transporter, conferring the ability to form thick biofilm structures, especially 
+when exposed to nickel and cobalt metallic compounds.
+CONCLUSIONS: This study demonstrates the efficient use of genetic engineering to 
+increase metal sequestration and biofilm formation by E. coli. This method 
+allows Co and Ni contaminants to be sequestered while spatially confining the 
+bacteria to an abiotic support. Biofiltration of nickel (II) and cobalt (II) by 
+immobilized cells is therefore a promising option for treating these 
+contaminants at an industrial scale.
+
+DOI: 10.1186/1754-1611-8-19
+PMCID: PMC4124493
+PMID: 25104972

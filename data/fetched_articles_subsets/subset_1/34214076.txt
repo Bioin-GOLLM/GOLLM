@@ -1,0 +1,36 @@
+1. PLoS One. 2021 Jul 2;16(7):e0253771. doi: 10.1371/journal.pone.0253771. 
+eCollection 2021.
+
+Real-time UVMS torque distribution algorithm based on weighting matrix.
+
+Moon Y(1), Hong J(1), Jin S(2), Bae J(3), Seo T(1).
+
+Author information:
+(1)School of Mechanical Engineering, Hanyang University, Seoul, South Korea.
+(2)School of Mechanical Engineering, Pusan National University, Busan, South 
+Korea.
+(3)GRASP Lab, University of Pennsylvania, Philadelphia, PA, United States of 
+America.
+
+This study presents a real-time algorithm for even distributing the torque 
+burden on the parallel manipulator with an autonomous underwater vehicle (AUV) 
+through the cooperation of the AUV and manipulator. For the redundant resolution 
+of the underwater vehicle manipulator system (UVMS), we used the weighting 
+matrix of the weighted pseudo inverse for kinematic and dynamic modeling. We 
+made dynamic and kinematic modeling using the force distribution characteristics 
+of parallel manipulators. Using the parallel manipulator's model, the weighting 
+matrix was changed every second to share the manipulator torque with the AUV. 
+The Taguchi method was used to reduce the calculation time for real-time 
+calculation and to perform valve rotation operations with as little torque as 
+possible even in an underwater environment where it is difficult to determine 
+any cause of errors. To demonstrate the effectiveness of this algorithm, we 
+experimented with valve rotation in water using the UVMS. Analysis of the 
+experimental results revealed that the manipulator torque load was greatly 
+reduced due to the AUV load distribution.
+
+DOI: 10.1371/journal.pone.0253771
+PMCID: PMC8253443
+PMID: 34214076 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

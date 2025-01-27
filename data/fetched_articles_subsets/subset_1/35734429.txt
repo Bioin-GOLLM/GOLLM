@@ -1,0 +1,49 @@
+1. Front Genet. 2022 Jun 6;13:918983. doi: 10.3389/fgene.2022.918983. eCollection
+ 2022.
+
+N7-Methylguanosine Genes Related Prognostic Biomarker in Hepatocellular 
+Carcinoma.
+
+Regmi P(1), He ZQ(1), Lia T(2), Paudyal A(3), Li FY(1).
+
+Author information:
+(1)Department of Biliary Surgery, West China Hospital, Sichuan University, 
+Chengdu, China.
+(2)Department of Uro Surgery, West China Hospital, Sichuan University, Chengdu, 
+China.
+(3)Department of Dermatology, West China Hospital, Sichuan University, Chengdu, 
+China.
+
+Background: About 90% of liver cancer-related deaths are caused by 
+hepatocellular carcinoma (HCC). N7-methylguanosine (m7G) modification is 
+associated with the biological process and regulation of various diseases. To 
+the best of our knowledge, its role in the pathogenesis and prognosis of HCC has 
+not been thoroughly investigated. Aim: To identify N7-methylguanosine (m7G) 
+related prognostic biomarkers in HCC. Furthermore, we also studied the 
+association of m7G-related prognostic gene signature with immune infiltration in 
+HCC. Methods: The TCGA datasets were used as a training and GEO dataset 
+"GSE76427" for validation of the results. Statistical analyses were performed 
+using the R statistical software version 4.1.2. Results: Functional enrichment 
+analysis identified some pathogenesis related to HCC. We identified 3 
+m7G-related genes (CDK1, ANO1, and PDGFRA) as prognostic biomarkers for HCC. A 
+risk score was calculated from these 3 prognostic m7G-related genes which showed 
+the high-risk group had a significantly poorer prognosis than the low-risk group 
+in both training and validation datasets. The 3- and 5-years overall survival 
+was predicted better with the risk score than the ideal model in the entire 
+cohort in the predictive nomogram. Furthermore, immune checkpoint genes like 
+CTLA4, HAVCR2, LAG3, and TIGT were expressed significantly higher in the 
+high-risk group and the chemotherapy sensitivity analysis showed that the 
+high-risk groups were responsive to sorafenib treatment. Conclusion: These 3 m7G 
+genes related signature model can be used as prognostic biomarkers in HCC and a 
+guide for immunotherapy and chemotherapy response. Future clinical study on this 
+biomarker model is required to verify its clinical implications.
+
+Copyright © 2022 Regmi, He, Lia, Paudyal and Li.
+
+DOI: 10.3389/fgene.2022.918983
+PMCID: PMC9207530
+PMID: 35734429
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

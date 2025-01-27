@@ -1,0 +1,57 @@
+1. Cancer Gene Ther. 2023 Oct;30(10):1330-1345. doi: 10.1038/s41417-023-00640-z. 
+Epub 2023 Jul 7.
+
+A multi-omics integrative approach unravels novel genes and pathways associated 
+with senescence escape after targeted therapy in NRAS mutant melanoma.
+
+Gureghian V(1), Herbst H(1), Kozar I(2), Mihajlovic K(3), Malod-Dognin N(3), 
+Ceddia G(3), Angeli C(1), Margue C(1), Randic T(1), Philippidou D(1), Nomigni 
+MT(1), Hemedan A(4), Tranchevent LC(4), Longworth J(5), Bauer M(1), Badkas A(1), 
+Gaigneaux A(1), Muller A(6), Ostaszewski M(4), Tolle F(1), Pržulj N(#)(3)(7)(8), 
+Kreis S(#)(9).
+
+Author information:
+(1)Department of Life Sciences and Medicine, University of Luxembourg, 6, Avenue 
+du Swing, L-4367, Belvaux, Luxembourg.
+(2)Laboratoire National de Santé, Dudelange, Luxembourg.
+(3)Barcelona Supercomputing Center, 08034, Barcelona, Spain.
+(4)Luxembourg Centre for Systems Biomedicine, University of Luxembourg, 
+Esch-sur-Alzette, Luxembourg.
+(5)Experimental and Molecular Immunology, Department of Infection and Immunity, 
+Luxembourg Institute of Health, Esch-sur-Alzette, Luxembourg.
+(6)LuxGen, TMOH and Bioinformatics platform, Data Integration and Analysis unit, 
+Luxembourg Institute of Health, Esch-sur-Alzette, Luxembourg.
+(7)Department of Computer Science, University College London, London, WC1E 6BT, 
+UK.
+(8)ICREA, Pg. Lluís Companys 23, 08010, Barcelona, Spain.
+(9)Department of Life Sciences and Medicine, University of Luxembourg, 6, Avenue 
+du Swing, L-4367, Belvaux, Luxembourg. stephanie.kreis@uni.lu.
+(#)Contributed equally
+
+Therapy Induced Senescence (TIS) leads to sustained growth arrest of cancer 
+cells. The associated cytostasis has been shown to be reversible and cells 
+escaping senescence further enhance the aggressiveness of cancers. Chemicals 
+specifically targeting senescent cells, so-called senolytics, constitute a 
+promising avenue for improved cancer treatment in combination with targeted 
+therapies. Understanding how cancer cells evade senescence is needed to optimise 
+the clinical benefits of this therapeutic approach. Here we characterised the 
+response of three different NRAS mutant melanoma cell lines to a combination of 
+CDK4/6 and MEK inhibitors over 33 days. Transcriptomic data show that all cell 
+lines trigger a senescence programme coupled with strong induction of 
+interferons. Kinome profiling revealed the activation of Receptor Tyrosine 
+Kinases (RTKs) and enriched downstream signaling of neurotrophin, ErbB and 
+insulin pathways. Characterisation of the miRNA interactome associates 
+miR-211-5p with resistant phenotypes. Finally, iCell-based integration of bulk 
+and single-cell RNA-seq data identifies biological processes perturbed during 
+senescence and predicts 90 new genes involved in its escape. Overall, our data 
+associate insulin signaling with persistence of a senescent phenotype and 
+suggest a new role for interferon gamma in senescence escape through the 
+induction of EMT and the activation of ERK5 signaling.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41417-023-00640-z
+PMCID: PMC10581906
+PMID: 37420093 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

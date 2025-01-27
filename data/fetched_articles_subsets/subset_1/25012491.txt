@@ -1,0 +1,45 @@
+1. Microb Cell Fact. 2014 Jul 11;13(1):96. doi: 10.1186/s12934-014-0096-1.
+
+Improvement of L-phenylalanine production from glycerol by recombinant 
+Escherichia coli strains: the role of extra copies of glpK, glpX, and tktA 
+genes.
+
+Gottlieb K, Albermann C, Sprenger GA.
+
+BACKGROUND: For the production of L-phenylalanine (L-Phe), two molecules of 
+phosphoenolpyruvate (PEP) and one molecule erythrose-4-phosphate (E4P) are 
+necessary. PEP stems from glycolysis whereas E4P is formed in the pentose 
+phosphate pathway (PPP). Glucose, commonly used for L-Phe production with 
+recombinant E. coli, is taken up via the PEP-dependent phosphotransferase system 
+which delivers glucose-6-phosphate (G6P). G6P enters either glycolysis or the 
+PPP. In contrast, glycerol is phosphorylated by an ATP-dependent glycerol kinase 
+(GlpK) thus saving one PEP. However, two gluconeogenic reactions 
+(fructose-1,6-bisphosphate aldolase, fructose-1,6-bisphosphatase, FBPase) are 
+necessary for growth and provision of E4P. Glycerol has become an important 
+carbon source for biotechnology and reports on production of L-Phe from glycerol 
+are available. However, the influence of FBPase and transketolase reactions on 
+L-Phe production has not been reported.
+RESULTS: L-Phe productivity of parent strain FUS4/pF81 (plasmid-encoded genes 
+for aroF, aroB, aroL, pheA) was compared on glucose and glycerol as C sources. 
+On glucose, a maximal carbon recovery of 0.19 mM C(Phe)/C(Glucose) and a maximal 
+space-time-yield (STY) of 0.13 g l(-1) h(-1) was found. With glycerol, the 
+maximal carbon recovery was nearly the same (0.18 mM C(Phe)/C(Glycerol)), but 
+the maximal STY was higher (0.21 g l(-1) h(-1)). We raised the chromosomal gene 
+copy number of the genes glpK (encoding glycerol kinase), tktA (encoding 
+transketolase), and glpX (encoding fructose-1,6-bisphosphatase) individually. 
+Overexpression of glpK (or its feedback-resistant variant, glpK(G232D)) had 
+little effect on growth rate; L-Phe production was about 30% lower than in 
+FUS4/pF81. Whereas the overexpression of either glpX or tktA had minor effects 
+on productivity (0.20 mM C(Phe)/C(Glycerol); 0.25 g l(-1) h(-1) and 0.21 mM 
+C(Phe)/C(Glycerol); 0.23 g l(-1) h(-1), respectively), the combination of extra 
+genes of glpX and tktA together led to an increase in maximal STY of about 80% 
+(0.37 g l(-1) h(-1)) and a carbon recovery of 0.26 mM C(Phe)/C(Glycerol).
+CONCLUSIONS: Enhancing the gene copy numbers for glpX and tktA increased L-Phe 
+productivity from glycerol without affecting growth rate. Engineering of 
+glycerol metabolism towards L-Phe production in E. coli has to balance the 
+pathways of gluconeogenesis, glycolysis, and PPP to improve the supply of the 
+precursors, PEP and E4P.
+
+DOI: 10.1186/s12934-014-0096-1
+PMCID: PMC4227036
+PMID: 25012491 [Indexed for MEDLINE]

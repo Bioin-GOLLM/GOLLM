@@ -1,0 +1,33 @@
+1. J Comput Aided Mol Des. 2021 Jun;35(6):751-770. doi:
+10.1007/s10822-021-00393-7.  Epub 2021 Jun 10.
+
+Hampering the early aggregation of PrP-E200K protein by charge-based inhibitors: 
+a computational study.
+
+Agamennone M(1), Storchi L(1)(2), Marrone A(1), Paciotti R(3).
+
+Author information:
+(1)Department of Pharmacy, University "G d'Annunzio" of Chieti-Pescara, Chieti, 
+Italy.
+(2)Molecular Discovery Limited, Middlesex, London, UK.
+(3)Department of Pharmacy, University "G d'Annunzio" of Chieti-Pescara, Chieti, 
+Italy. r.paciotti@unich.it.
+
+A multilayered computational workflow was designed to identify a druggable 
+binding site on the surface of the E200K pathogenic mutant of the human prion 
+protein, and to investigate the effect of the binding of small molecules in the 
+inhibition of the early aggregation of this protein. At this purpose, we 
+developed an efficient computational tool to scan the molecular interaction 
+properties of a whole MD trajectory, thus leading to the characterization of 
+plausible binding regions on the surface of PrP-E200K. These structural data 
+were then employed to drive structure-based virtual screening and fragment-based 
+approaches to the seeking of small molecular binders of the PrP-E200K. Six 
+promising compounds were identified, and their binding stabilities were assessed 
+by MD simulations. Therefore, analyses of the molecular electrostatic potential 
+similarity between the bound complexes and unbound protein evidenced their 
+potential activity as charged-based inhibitors of the PrP-E200K early 
+aggregation.
+
+DOI: 10.1007/s10822-021-00393-7
+PMCID: PMC8213589
+PMID: 34110550 [Indexed for MEDLINE]

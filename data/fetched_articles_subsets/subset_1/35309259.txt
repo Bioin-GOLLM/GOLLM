@@ -1,0 +1,50 @@
+1. J Mol Liq. 2022 May 15;354:118901. doi: 10.1016/j.molliq.2022.118901. Epub
+2022  Mar 9.
+
+Molecular dynamics simulation approach for discovering potential inhibitors 
+against SARS-CoV-2: A structural review.
+
+Ghahremanian S(1), Rashidi MM(1)(2), Raeisi K(3), Toghraie D(4).
+
+Author information:
+(1)Institute of Fundamental and Frontier Sciences, University of Electronic 
+Science and Technology of China, Chengdu 610054, Sichuan, PR China.
+(2)Faculty of Mechanical and Industrial Engineering, Quchan University of 
+Technology, Quchan, Iran.
+(3)Department of Basic Science, Shahrekord Branch, Islamic Azad University, 
+Shahrekord, Iran.
+(4)Department of Mechanical Engineering, Khomeinishahr Branch, Islamic Azad 
+University, Khomeinishahr, Iran.
+
+Since the commencement of the novel Coronavirus, the disease has quickly turned 
+into a worldwide crisis so that there has been growing attention in discovering 
+possible hit compounds for tackling this pandemic. Discovering standard 
+treatment strategies is a serious challenge because little information is 
+available about this emerged infectious virus. Regarding the high impact of 
+time, applying computational procedures to choose promising drugs from a catalog 
+of licensed medications provides a precious chance for combat against the 
+life-threatening disorder of COVID-19. Molecular dynamics (MD) simulation is a 
+promising approach for assessing the binding affinity of ligand-receptor as well 
+as observing the conformational trajectory of docked complexes over time. Given 
+that many computational studies are performed using MD along with the molecular 
+docking on various candidates as antiviral inhibitors of COVID-19 protease, 
+there is a demand to conduct a comprehensive review of the most important 
+studies to reveal and compare the potential introduced agents that this study 
+covers this defect. In this context, the present review intends to prepare an 
+overview of these studies by considering RMSD, RMSF, radius of gyration, binding 
+free energy, and Solvent-Accessible Surface Area (SASA) as effective parameters 
+for evaluation. The outcomes will offer a road map for adjusting antiviral 
+inhibitors, which can facilitate the selection and development of drug 
+candidates for use in the medical therapy. Finally, the molecular modeling 
+approaches rendered by this study may be valuable for future computational 
+studies.
+
+© 2022 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.molliq.2022.118901
+PMCID: PMC8916543
+PMID: 35309259
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

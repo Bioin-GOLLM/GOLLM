@@ -1,0 +1,34 @@
+1. J Cheminform. 2014 May 30;6:31. doi: 10.1186/1758-2946-6-31. eCollection 2014.
+
+Efficient enumeration of monocyclic chemical graphs with given path frequencies.
+
+Suzuki M(1), Nagamochi H(1), Akutsu T(2).
+
+Author information:
+(1)Department of Applied Mathematics and Physics, Graduate School of 
+Informatics, Kyoto University Yoshida, 606-8501 Kyoto, Japan.
+(2)Bioinformatics Center, Institute for Chemical Research, Kyoto University, 
+Gokasho, Uji, 611-0011 Kyoto, Japan.
+
+BACKGROUND: The enumeration of chemical graphs (molecular graphs) satisfying 
+given constraints is one of the fundamental problems in chemoinformatics and 
+bioinformatics because it leads to a variety of useful applications including 
+structure determination and development of novel chemical compounds.
+RESULTS: We consider the problem of enumerating chemical graphs with monocyclic 
+structure (a graph structure that contains exactly one cycle) from a given set 
+of feature vectors, where a feature vector represents the frequency of the 
+prescribed paths in a chemical compound to be constructed and the set is 
+specified by a pair of upper and lower feature vectors. To enumerate all 
+tree-like (acyclic) chemical graphs from a given set of feature vectors, Shimizu 
+et al. and Suzuki et al. proposed efficient branch-and-bound algorithms based on 
+a fast tree enumeration algorithm. In this study, we devise a novel method for 
+extending these algorithms to enumeration of chemical graphs with monocyclic 
+structure by designing a fast algorithm for testing uniqueness. The results of 
+computational experiments reveal that the computational efficiency of the new 
+algorithm is as good as those for enumeration of tree-like chemical compounds.
+CONCLUSIONS: We succeed in expanding the class of chemical graphs that are able 
+to be enumerated efficiently.
+
+DOI: 10.1186/1758-2946-6-31
+PMCID: PMC4049473
+PMID: 24955135

@@ -1,0 +1,78 @@
+1. Neuroradiology. 2023 Mar;65(3):559-568. doi: 10.1007/s00234-022-03072-y. Epub 
+2022 Oct 27.
+
+A multi-reader comparison of normal-appearing white matter normalization 
+techniques for perfusion and diffusion MRI in brain tumors.
+
+Cho NS(1)(2)(3)(4), Hagiwara A(1)(2)(5), Sanvito F(1)(2)(6), Ellingson 
+BM(7)(8)(9)(10)(11).
+
+Author information:
+(1)Department of Radiological Sciences, David Geffen School of Medicine, 
+University of California, Los Angeles, Los Angeles, CA, USA.
+(2)UCLA Brain Tumor Imaging Laboratory (BTIL), Center for Computer Vision and 
+Imaging Biomarkers, University of California, Los Angeles, Los Angeles, CA, USA.
+(3)Department of Bioengineering, Henry Samueli School of Engineering and Applied 
+Science, University of California, Los Angeles, Los Angeles, CA, USA.
+(4)Medical Scientist Training Program, David Geffen School of Medicine, 
+University of California, Los Angeles, Los Angeles, CA, USA.
+(5)Department of Radiology, Juntendo University School of Medicine, Tokyo, 
+Japan.
+(6)Unit of Radiology, Department of Clinical, Surgical, Diagnostic, and 
+Pediatric Sciences, University of Pavia, Pavia, Italy.
+(7)Department of Radiological Sciences, David Geffen School of Medicine, 
+University of California, Los Angeles, Los Angeles, CA, USA. 
+bellingson@mednet.ucla.edu.
+(8)UCLA Brain Tumor Imaging Laboratory (BTIL), Center for Computer Vision and 
+Imaging Biomarkers, University of California, Los Angeles, Los Angeles, CA, USA. 
+bellingson@mednet.ucla.edu.
+(9)Department of Bioengineering, Henry Samueli School of Engineering and Applied 
+Science, University of California, Los Angeles, Los Angeles, CA, USA. 
+bellingson@mednet.ucla.edu.
+(10)Department of Neurosurgery, David Geffen School of Medicine, University of 
+California, Los Angeles, Los Angeles, CA, USA. bellingson@mednet.ucla.edu.
+(11)Department of Psychiatry and Biobehavioral Sciences, David Geffen School of 
+Medicine, University of California, Los Angeles, Los Angeles, CA, USA. 
+bellingson@mednet.ucla.edu.
+
+PURPOSE: There remains no consensus normal-appearing white matter (NAWM) 
+normalization method to compute normalized relative cerebral blood volume 
+(nrCBV) and apparent diffusion coefficient (nADC) in brain tumors. This reader 
+study explored nrCBV and nADC differences using different NAWM normalization 
+methods.
+METHODS: Thirty-five newly diagnosed glioma patients were studied. For each 
+patient, two readers created four NAWM regions of interests: (1) a single plane 
+in the centrum semiovale (CSOp), (2) 3 spheres in the centrum semiovale (CSOs), 
+(3) a single plane in the slice of the tumor center (TUMp), and (4) 3 spheres in 
+the slice of the tumor center (TUMs). Readers repeated NAWM segmentations 1 
+month later. Differences in nrCBV and nADC of the FLAIR hyperintense tumor, 
+inter-/intra-reader variability, and time to segment NAWM were assessed. As a 
+validation step, the diagnostic performance of each method for IDH-status 
+prediction was evaluated.
+RESULTS: Both readers obtained significantly different nrCBV (P < .001), nADC (P 
+< .001), and time to segment NAWM (P < .001) between the four normalization 
+methods. nrCBV and nADC were significantly different between CSO and TUM 
+methods, but not between planar and spherical methods in the same NAWM region. 
+Broadly, CSO methods were quicker than TUM methods, and spherical methods were 
+quicker than planar methods. For all normalization techniques, inter-reader 
+reproducibility and intra-reader repeatability were excellent (intraclass 
+correlation coefficient > 0.9), and the IDH-status predictive performance 
+remained similar.
+CONCLUSION: The selected NAWM region significantly impacts nrCBV and nADC 
+values. CSO methods, particularly CSOs, may be preferred because of time 
+reduction, similar reader variability, and similar diagnostic performance 
+compared to TUM methods.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00234-022-03072-y
+PMCID: PMC9905164
+PMID: 36301349 [Indexed for MEDLINE]
+
+Conflict of interest statement: BME, paid advisor and consultant for Medicenna, 
+MedQIA, Neosoma, Servier Pharmaceuticals, Siemens, Janssen, Imaging Endpoints, 
+Kazia, VBL, Oncoceutics/Chimerix, Sumitomo Dainippon Pharma Oncology, 
+ImmunoGenesis, Ellipses Pharma, Monteris, Global Coalition for Adaptive Research 
+(GCAR), Alpheus Medical, Inc., Curtana Pharma, and Sagimet Biosciences. Grant 
+funding is from Siemens, Servier/Agios, Neosoma, and Janssen. The other authors 
+declare no competing interests.

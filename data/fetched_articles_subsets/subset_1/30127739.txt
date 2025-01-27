@@ -1,0 +1,45 @@
+1. Front Pharmacol. 2018 Aug 6;9:841. doi: 10.3389/fphar.2018.00841. eCollection 
+2018.
+
+System Pharmacology-Based Strategy to Decode the Synergistic Mechanism of 
+Zhi-zhu Wan for Functional Dyspepsia.
+
+Wang C(1)(2), Ren Q(2), Chen XT(2)(3), Song ZQ(1), Ning ZC(1)(2), Gan JH(1), Ma 
+XL(1), Liang DR(1), Guan DG(2), Liu ZL(1), Lu AP(2).
+
+Author information:
+(1)Institute of Basic Theory for Chinese Medicine, China Academy of Chinese 
+Medical Sciences, Beijing, China.
+(2)Institute of Integrated Bioinformedicine and Translational Science, School of 
+Chinese Medicine, Hong Kong Baptist University, Hong Kong, Hong Kong.
+(3)Center of Bioinformatics, College of Life Science, Northwest A & F 
+University, Yangling, China.
+
+Functional dyspepsia (FD) is a widely prevalent gastrointestinal disorder 
+throughout the world, whereas the efficacy of current treatment in the Western 
+countries is limited. As the symptom is equivalent to the traditional Chinese 
+medicine (TCM) term "stuffiness and fullness," FD can be treated with Zhi-zhu 
+Wan (ZZW) which is a kind of Chinese patent medicine. However, the 
+"multi-component" and "multi-target" feature of Chinese patent medicine makes it 
+challenge to elucidate the potential therapeutic mechanisms of ZZW on FD. 
+Presently, a novel system pharmacology model including pharmacokinetic 
+parameters, pharmacological data, and component contribution score (CS) is 
+constructed to decipher the potential therapeutic mechanism of ZZW on FD. 
+Finally, 61 components with favorable pharmacokinetic profiles and biological 
+activities were obtained through ADME (absorption, distribution, metabolism, and 
+excretion) screening in silico. The related targets of these components are 
+identified by component targeting process followed by GO analysis and pathway 
+enrichment analysis. And systematic analysis found that through acting on the 
+target related to inflammation, gastrointestinal peristalsis, and mental 
+disorder, ZZW plays a synergistic and complementary effect on FD at the pathway 
+level. Furthermore, the component CS showed that 29 components contributed 
+90.18% of the total CS values of ZZW for the FD treatment, which suggested that 
+the effective therapeutic effects of ZZW for FD are derived from all active 
+components, not a few components. This study proposes the system pharmacology 
+method and discovers the potent combination therapeutic mechanisms of ZZW for 
+FD. This strategy will provide a reference method for other TCM mechanism 
+research.
+
+DOI: 10.3389/fphar.2018.00841
+PMCID: PMC6087764
+PMID: 30127739

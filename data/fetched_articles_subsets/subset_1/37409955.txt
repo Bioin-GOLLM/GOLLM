@@ -1,0 +1,57 @@
+1. Cancer Epidemiol Biomarkers Prev. 2023 Sep 1;32(9):1198-1207. doi: 
+10.1158/1055-9965.EPI-23-0309.
+
+Predicted Proteome Association Studies of Breast, Prostate, Ovarian, and 
+Endometrial Cancers Implicate Plasma Protein Regulation in Cancer 
+Susceptibility.
+
+Gregga I(1)(2), Pharoah PDP(3), Gayther SA(3), Manichaikul A(4), Im HK(5), Kar 
+SP(6), Schildkraut JM(7), Wheeler HE(1)(2).
+
+Author information:
+(1)Department of Biology, Loyola University Chicago, Chicago, Illinois.
+(2)Program in Bioinformatics, Loyola University Chicago, Chicago, Illinois.
+(3)Center for Bioinformatics and Functional Genomics, Department of Biomedical 
+Science, Cedars-Sinai Medical Center, Los Angeles, California.
+(4)Center for Public Health Genomics, University of Virginia, Charlottesville, 
+Virginia.
+(5)Section of Genetic Medicine, The University of Chicago, Chicago, Illinois.
+(6)Medical Research Council Integrative Epidemiology Unit, University of 
+Bristol, Bristol, UK.
+(7)Department of Epidemiology, Rollins School of Public Health, Emory 
+University, Atlanta, Georgia.
+
+BACKGROUND: Predicting protein levels from genotypes for proteome-wide 
+association studies (PWAS) may provide insight into the mechanisms underlying 
+cancer susceptibility.
+METHODS: We performed PWAS of breast, endometrial, ovarian, and prostate cancers 
+and their subtypes in several large European-ancestry discovery consortia 
+(effective sample size: 237,483 cases/317,006 controls) and tested the results 
+for replication in an independent European-ancestry GWAS (31,969 cases/410,350 
+controls). We performed PWAS using the cancer GWAS summary statistics and two 
+sets of plasma protein prediction models, followed by colocalization analysis.
+RESULTS: Using Atherosclerosis Risk in Communities (ARIC) models, we identified 
+93 protein-cancer associations [false discovery rate (FDR) < 0.05]. We then 
+performed a meta-analysis of the discovery and replication PWAS, resulting in 61 
+significant protein-cancer associations (FDR < 0.05). Ten of 15 protein-cancer 
+pairs that could be tested using Trans-Omics for Precision Medicine (TOPMed) 
+protein prediction models replicated with the same directions of effect in both 
+cancer GWAS (P < 0.05). To further support our results, we applied Bayesian 
+colocalization analysis and found colocalized SNPs for SERPINA3 protein levels 
+and prostate cancer (posterior probability, PP = 0.65) and SNUPN protein levels 
+and breast cancer (PP = 0.62).
+CONCLUSIONS: We used PWAS to identify potential biomarkers of hormone-related 
+cancer risk. SNPs in SERPINA3 and SNUPN did not reach genome-wide significance 
+for cancer in the original GWAS, highlighting the power of PWAS for novel locus 
+discovery, with the added advantage of providing directions of protein effect.
+IMPACT: PWAS and colocalization are promising methods to identify potential 
+molecular mechanisms underlying complex traits.
+
+©2023 American Association for Cancer Research.
+
+DOI: 10.1158/1055-9965.EPI-23-0309
+PMCID: PMC10528410
+PMID: 37409955 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no potential conflicts of 
+interest.

@@ -1,0 +1,57 @@
+1. Cell Rep. 2020 Dec 1;33(9):108467. doi: 10.1016/j.celrep.2020.108467.
+
+Optogenetic Tuning Reveals Rho Amplification-Dependent Dynamics of a Cell 
+Contraction Signal Network.
+
+Kamps D(1), Koch J(2), Juma VO(3), Campillo-Funollet E(3), Graessl M(2), 
+Banerjee S(1), Mazel T(1), Chen X(4), Wu YW(5), Portet S(6), Madzvamuse A(7), 
+Nalbant P(2), Dehmelt L(8).
+
+Author information:
+(1)Department of Systemic Cell Biology, Max Planck Institute of Molecular 
+Physiology, 44227 Dortmund, Germany; Faculty of Chemistry and Chemical Biology, 
+TU Dortmund University, 44227 Dortmund, Germany.
+(2)Department of Molecular Cell Biology, Center for Medical Biotechnology, 
+University of Duisburg-Essen, 45141 Essen, Germany.
+(3)Department of Mathematics, University of Sussex, Pevensey III, Brighton BN1 
+9QH, UK.
+(4)Chemical Genomics Centre of the Max-Planck Society, 44227 Dortmund, Germany; 
+The HIT Center for Life Sciences, Harbin Institute of Technology, Harbin, P.R. 
+China.
+(5)Chemical Genomics Centre of the Max-Planck Society, 44227 Dortmund, Germany; 
+Department of Chemistry, Umeå Centre for Microbial Research, Umeå University, 
+901 87 Umeå, Sweden.
+(6)Department of Mathematics, University of Manitoba, Winnipeg, MB R3T 2N2, 
+Canada.
+(7)Department of Mathematics, University of Sussex, Pevensey III, Brighton BN1 
+9QH, UK; Department of Mathematics, University of Johannesburg, South Africa; 
+Universita degli Studi di Bari Aldo Moro, Bari, Italy.
+(8)Department of Systemic Cell Biology, Max Planck Institute of Molecular 
+Physiology, 44227 Dortmund, Germany; Faculty of Chemistry and Chemical Biology, 
+TU Dortmund University, 44227 Dortmund, Germany. Electronic address: 
+leif.dehmelt@mpi-dortmund.mpg.de.
+
+Local cell contraction pulses play important roles in tissue and cell 
+morphogenesis. Here, we improve a chemo-optogenetic approach and apply it to 
+investigate the signal network that generates these pulses. We use these 
+measurements to derive and parameterize a system of ordinary differential 
+equations describing temporal signal network dynamics. Bifurcation analysis and 
+numerical simulations predict a strong dependence of oscillatory system dynamics 
+on the concentration of GEF-H1, an Lbc-type RhoGEF, which mediates the positive 
+feedback amplification of Rho activity. This prediction is confirmed 
+experimentally via optogenetic tuning of the effective GEF-H1 concentration in 
+individual living cells. Numerical simulations show that pulse amplitude is most 
+sensitive to external inputs into the myosin component at low GEF-H1 
+concentrations and that the spatial pulse width is dependent on GEF-H1 
+diffusion. Our study offers a theoretical framework to explain the emergence of 
+local cell contraction pulses and their modulation by biochemical and mechanical 
+signals.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2020.108467
+PMCID: PMC7710677
+PMID: 33264629 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no 
+competing interests.

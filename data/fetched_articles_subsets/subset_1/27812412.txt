@@ -1,0 +1,59 @@
+1. PeerJ. 2016 Oct 26;4:e2602. doi: 10.7717/peerj.2602. eCollection 2016.
+
+In silico study on anti-Chikungunya virus activity of hesperetin.
+
+Oo A(1), Hassandarvish P(1), Chin SP(2), Lee VS(2), Abu Bakar S(1), Zandi K(1).
+
+Author information:
+(1)Tropical Infectious Disease Research and Education Centre, Department of 
+Medical Microbiology Faculty of Medicine, University of Malaya , Kuala Lumpur , 
+Malaysia.
+(2)Department of Chemistry, University of Malaya , Kuala Lumpur , Malaysia.
+
+BACKGROUND: The re-emerging, Aedes spp. transmitted Chikungunya virus (CHIKV) 
+has recently caused large outbreaks in a wide geographical distribution of the 
+world including countries in Europe and America. Though fatalities associated 
+with this self-remitting disease were rarely reported, quality of patients' 
+lives have been severely diminished by polyarthralgia recurrence. Neither 
+effective antiviral treatment nor vaccines are available for CHIKV. Our previous 
+in vitro screening showed that hesperetin, a bioflavonoid exhibits inhibitory 
+effect on the virus intracellular replication. Here, we present a study using 
+the computational approach to identify possible target proteins for future 
+mechanistic studies of hesperetin.
+METHODS: 3D structures of CHIKV nsP2 (3TRK) and nsP3 (3GPG) were retrieved from 
+Protein Data Bank (PDB), whereas nsP1, nsP4 and cellular factor SPK2 were 
+modeled using Iterative Threading Assembly Refinement (I-TASSER) server based on 
+respective amino acids sequence. We performed molecular docking on hesperetin 
+against all four CHIKV non-structural proteins and SPK2. Proteins preparation 
+and subsequent molecular docking were performed using Discovery Studio 2.5 and 
+AutoDock Vina 1.5.6. The Lipinski's values of the ligand were computed and 
+compared with the available data from PubChem. Two non-structural proteins with 
+crystal structures 3GPG and 3TRK in complexed with hesperetin, demonstrated 
+favorable free energy of binding from the docking study, were further explored 
+using molecular dynamics (MD) simulations.
+RESULTS: We observed that hesperetin interacts with different types of proteins 
+involving hydrogen bonds, pi-pi effects, pi-cation bonding and pi-sigma 
+interactions with varying binding energies. Among all five tested proteins, our 
+compound has the highest binding affinity with 3GPG at -8.5 kcal/mol. The ligand 
+used in this study also matches the Lipinski's rule of five in addition to 
+exhibiting closely similar properties with that of in PubChem. The docking 
+simulation was performed to obtain a first guess of the binding structure of 
+hesperetin complex and subsequently analysed by MD simulations to assess the 
+reliability of the docking results. Root mean square deviation (RMSD) of the 
+simulated systems from MD simulations indicated that the hesperetin complex 
+remains stable within the simulation timescale.
+DISCUSSION: The ligand's tendencies of binding to the important proteins for 
+CHIKV replication were consistent with our previous in vitro screening which 
+showed its efficacy in blocking the virus intracellular replication. NsP3 serves 
+as the highest potential target protein for the compound's inhibitory effect, 
+while it is interesting to highlight the possibility of interrupting CHIKV 
+replication via interaction with host cellular factor. By complying the 
+Lipinski's rule of five, hesperetin exhibits drug-like properties which projects 
+its potential as a therapeutic option for CHIKV infection.
+
+DOI: 10.7717/peerj.2602
+PMCID: PMC5088613
+PMID: 27812412
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

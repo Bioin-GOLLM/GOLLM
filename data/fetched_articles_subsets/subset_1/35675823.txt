@@ -1,0 +1,39 @@
+1. Cell Syst. 2022 Jun 15;13(6):471-487.e8. doi: 10.1016/j.cels.2022.05.003. Epub
+ 2022 Jun 7.
+
+Granger-causal inference of the lamellipodial actin regulator hierarchy by live 
+cell imaging without perturbation.
+
+Noh J(1), Isogai T(1), Chi J(1), Bhatt K(1), Danuser G(2).
+
+Author information:
+(1)Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, 
+Dallas, TX 75390, USA.
+(2)Lyda Hill Department of Bioinformatics, UT Southwestern Medical Center, 
+Dallas, TX 75390, USA. Electronic address: gaudenz.danuser@utsouthwestern.edu.
+
+Many cell regulatory systems implicate nonlinearity and redundancy among 
+components. The regulatory network governing lamellipodial and lamellar actin 
+structures is prototypical of such a system, containing tens of actin-nucleating 
+and -modulating molecules with functional overlap and feedback loops. Due to 
+instantaneous and long-term compensation, phenotyping the system response to 
+perturbation provides limited information on the roles the targeted component 
+plays in the unperturbed system. Accordingly, how individual actin regulators 
+contribute to lamellipodial dynamics remains ambiguous. Here, we present a 
+perturbation-free reconstruction of cause-effect relations among actin 
+regulators by applying Granger-causal inference to constitutive image 
+fluctuations that indicate regulator recruitment as a proxy for activity. Our 
+analysis identifies distinct zones of actin regulator activation and of causal 
+effects on filament assembly and delineates actin-dependent and 
+actin-independent regulator roles in controlling edge motion. We propose that 
+edge motion is driven by assembly of two independently operating actin filament 
+systems.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cels.2022.05.003
+PMCID: PMC9271366
+PMID: 35675823 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

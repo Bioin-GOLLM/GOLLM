@@ -1,0 +1,57 @@
+1. Aging (Albany NY). 2023 Oct 31;15(21):11970-11984. doi: 10.18632/aging.205159.
+ Epub 2023 Oct 31.
+
+Identification of epithelial-mesenchymal transition-related biomarkers in lung 
+adenocarcinoma using bioinformatics and lab experiments.
+
+Cheng Y(1)(2), Shen Y(3), Fang Q(4), Duan S(1), Wang Y(1), Dai X(5), Chen Y(1).
+
+Author information:
+(1)Department of Thoracic Surgery, The Second Affiliated Hospital of Soochow 
+University, Suzhou, China.
+(2)Department of Cardiothoracic Surgery, People&#x2019;s Hospital of Chizhou, 
+Chizhou, China.
+(3)Department of Operation, The Second Affiliated Hospital of Soochow 
+University, Suzhou, China.
+(4)Department of Obstetrics, People&#x2019;s Hospital of Chizhou, Chizhou, 
+China.
+(5)Department of Pathology, The Second Affiliated Hospital of Soochow 
+University, Suzhou, China.
+
+BACKGROUND: Lung adenocarcinoma accounts for approximately 40% of lung cancer 
+cases and poses a serious threat to human health. Therefore, there is an urgent 
+need to identify central biomarkers in lung adenocarcinoma.
+METHODS: We first identified the EMT-associated genes in LUAD based on the TCGA 
+cohort. Then we screened these 90 EMT-associated genes using univariate Cox 
+regression analysis and LASSO regression analysis to develop a prognostic gene 
+signature in the training set. The predictive performance of the gene signature 
+was assessed in the validation set and multiple external test sets using the ROC 
+cure, C index and log-rank tests. RT-PCR, western blot, wound healing assays, 
+and siRNA methods were further used to investigate the role of PLEK2 in tumor 
+behaviors.
+RESULTS: Eight genes (CCNB1, PLEK2, DERL3, C1QTNF6, DLGAP5, HMMR, GJB3, and 
+SPOCK1) were eventually selected to develop an eight-gene signature. The 5-year 
+AUC of the gene signature has a robust predictive ability both for predicting 
+overall survival (0.774, 0.756, and 0.669 in the external test sets, 
+respectively), and for progression free survival (0.774, 0.746, and 0.755 in the 
+external test sets, respectively). C-index of the gene signature was 0.961 ± 
+0.005, 0.916 ± 0.011, and 0.868 ± 0.234 in the external test sets, respectively. 
+Four genes (C1QTNF6, DLGAP5, HMMR, and PLEK2) were identified as key genes in 
+LUAD progression, which were upregulated in the cancerous tissue compared with 
+in the normal tissue (P < 0.001), and correlated with an unwanted prognosis in 
+lung cancer (P < 0.05). PLEK2 was used as an example to explore its effect on 
+LUAD progression in vitro using RT-PCR, western blot, CCK8, si-RNA and wound 
+healing assay. Silencing of PLEK2 was shown to reduce proliferative and migrated 
+ability of lung cancer cells via prohibition of autophagy.
+CONCLUSIONS: This study developed a novel EMT-related gene signature benefiting 
+precision medicine, and identified four pivotal genes which can serve as 
+therapeutic targets in LUAD. Four key genes can serve as molecular targets for 
+patients with LUAD; silencing of PLEK2 was shown to reduce proliferative and 
+migrated ability of lung cancer cells via prohibition of autophagy.
+
+DOI: 10.18632/aging.205159
+PMCID: PMC10683598
+PMID: 37910672 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST: The authors declare that 
+they have no conflicts of interest.

@@ -1,0 +1,38 @@
+1. Sci Rep. 2016 Sep 7;6:32626. doi: 10.1038/srep32626.
+
+G-actin guides p53 nuclear transport: potential contribution of monomeric actin 
+in altered localization of mutant p53.
+
+Saha T(1), Guha D(1), Manna A(1), Panda AK(1), Bhat J(2), Chatterjee S(2), Sa 
+G(1).
+
+Author information:
+(1)Division of Molecular Medicine, Bose Institute, P-1/12, CIT Scheme VII M, 
+Kolkata-700054, India.
+(2)Division of Biophysics, Bose Institute, P-1/12, CIT Scheme VII M, 
+Kolkata-700054, India.
+
+p53 preserves genomic integrity by restricting anomaly at the gene level. Till 
+date, limited information is available for cytosol to nuclear shuttling of p53; 
+except microtubule-based trafficking route, which utilizes minus-end directed 
+motor dynein. The present study suggests that monomeric actin (G-actin) guides 
+p53 traffic towards the nucleus. Histidine-tag pull-down assay using purified 
+p53(1-393)-His and G-actin confirms direct physical association between p53 and 
+monomeric G-actin. Co-immunoprecipitation data supports the same. Confocal 
+imaging explores intense perinuclear colocalization between p53 and G-actin. To 
+address atomistic details of the complex, constraint-based docked model of 
+p53:G-actin complex was generated based on crystal structures. MD simulation 
+reveals that p53 DNA-binding domain arrests very well the G-actin protein. 
+Docking benchmark studies have been carried out for a known crystal structure, 
+1YCS (complex between p53DBD and BP2), which validates the docking protocol we 
+adopted. Co-immunoprecipitation study using "hot-spot" p53 mutants suggested 
+reduced G-actin association with cancer-associated p53 conformational mutants 
+(R175H and R249S). Considering these findings, we hypothesized that point 
+mutation in p53 structure, which diminishes p53:G-actin complexation results in 
+mutant p53 altered subcellular localization. Our model suggests p53Arg249 form 
+polar-contact with Arg357 of G-actin, which upon mutation, destabilizes 
+p53:G-actin interaction and results in cytoplasmic retention of p53R249S.
+
+DOI: 10.1038/srep32626
+PMCID: PMC5013524
+PMID: 27601274 [Indexed for MEDLINE]

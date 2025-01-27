@@ -1,0 +1,66 @@
+1. BMC Med. 2023 Jan 11;21(1):16. doi: 10.1186/s12916-022-02723-4.
+
+Identification of genetic variants associated with diabetic kidney disease in 
+multiple Korean cohorts via a genome-wide association study mega-analysis.
+
+Jin H(#)(1), Kim YA(#)(2), Lee Y(3), Kwon SH(3), Do AR(4), Seo S(5), Won 
+S(1)(5)(6), Seo JH(7).
+
+Author information:
+(1)Institute of Health and Environment, Seoul National University, Seoul, Korea.
+(2)Division of Endocrinology, Department of Internal Medicine, Veterans Health 
+Service Medical Center, Seoul, Korea.
+(3)Veterans Medical Research Institute, Veterans Health Service Medical Center, 
+Jinhwangdo-ro 61-gil 53, Gangdong-gu, Seoul, Korea.
+(4)Interdisciplinary Program of Bioinformatics, College of National Sciences, 
+Seoul National University, Seoul, South Korea.
+(5)Department of Public Health Science, Graduate School of Public Health, Seoul 
+National University, Seoul, Korea.
+(6)RexSoft Corps, Seoul, Korea.
+(7)Veterans Medical Research Institute, Veterans Health Service Medical Center, 
+Jinhwangdo-ro 61-gil 53, Gangdong-gu, Seoul, Korea. jazmin2@naver.com.
+(#)Contributed equally
+
+BACKGROUND: The pathogenesis of diabetic kidney disease (DKD) is complex, 
+involving metabolic and hemodynamic factors. Although DKD has been established 
+as a heritable disorder and several genetic studies have been conducted, the 
+identification of unique genetic variants for DKD is limited by its multiplex 
+classification based on the phenotypes of diabetes mellitus (DM) and chronic 
+kidney disease (CKD). Thus, we aimed to identify the genetic variants related to 
+DKD that differentiate it from type 2 DM and CKD.
+METHODS: We conducted a large-scale genome-wide association study mega-analysis, 
+combining Korean multi-cohorts using multinomial logistic regression. A total of 
+33,879 patients were classified into four groups-normal, DM without CKD, CKD 
+without DM, and DKD-and were further analyzed to identify novel 
+single-nucleotide polymorphisms (SNPs) associated with DKD. Additionally, 
+fine-mapping analysis was conducted to investigate whether the variants of 
+interest contribute to a trait. Conditional analyses adjusting for the effect of 
+type 1 DM (T1D)-associated HLA variants were also performed to remove 
+confounding factors of genetic association with T1D. Moreover, analysis of 
+expression quantitative trait loci (eQTL) was performed using the 
+Genotype-Tissue Expression project. Differentially expressed genes (DEGs) were 
+analyzed using the Gene Expression Omnibus database (GSE30529). The significant 
+eQTL DEGs were used to explore the predicted interaction networks using search 
+tools for the retrieval of interacting genes and proteins.
+RESULTS: We identified three novel SNPs [rs3128852 (P = 8.21×10-25), rs117744700 
+(P = 8.28×10-10), and rs28366355 (P = 2.04×10-8)] associated with DKD. Moreover, 
+the fine-mapping study validated the causal relationship between rs3128852 and 
+DKD. rs3128852 is an eQTL for TRIM27 in whole blood tissues and HLA-A in 
+adipose-subcutaneous tissues. rs28366355 is an eQTL for HLA-group genes present 
+in most tissues.
+CONCLUSIONS: We successfully identified SNPs (rs3128852, rs117744700, and 
+rs28366355) associated with DKD and verified the causal association between 
+rs3128852 and DKD. According to the in silico analysis, TRIM27 and HLA-A can 
+define DKD pathophysiology and are associated with immune response and 
+autophagy. However, further research is necessary to understand the mechanism of 
+immunity and autophagy in the pathophysiology of DKD and to prevent and treat 
+DKD.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12916-022-02723-4
+PMCID: PMC9832630
+PMID: 36627639 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

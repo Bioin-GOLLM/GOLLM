@@ -1,0 +1,35 @@
+1. Source Code Biol Med. 2014 Aug 17;9:18. doi: 10.1186/1751-0473-9-18.
+eCollection  2014.
+
+VIRAPOPS2 supports the influenza virus reassortments.
+
+Petitjean M(1), Vanet A(2).
+
+Author information:
+(1)Univ Paris Diderot, Sorbonne Paris Cité, F-75013 Paris, France ; MTI, INSERM 
+UMR-S 973, F-75013 Paris, France.
+(2)Univ Paris Diderot, Sorbonne Paris Cité, F-75013 Paris, France ; CNRS, 
+UMR7592, Institut Jacques Monod, F-75013 Paris, France ; Atelier de Bio 
+Informatique, F-75005 Paris, France.
+
+BACKGROUND: For over 400 years, due to the reassortment of their segmented 
+genomes, influenza viruses evolve extremely quickly and cause devastating 
+epidemics. This reassortment arises because two flu viruses can infect the same 
+cell and therefore the new virions' genomes will be composed of segment 
+reassortments of the two parental strains. A treatment developed against parents 
+could then be ineffective if the virions' genomes are different enough from 
+their parent's genomes. It is therefore essential to simulate such reassortment 
+phenomena to assess the risk of apparition of new flu strain.
+FINDINGS: So we decided to upgrade the forward simulator VIRAPOPS, containing 
+already the necessary options to handle non-segmented viral populations. This 
+new version can mimic single or successive reassortments, in birds, humans 
+and/or swines. Other options such as the ability to treat populations of 
+positive or negative sense viral RNAs, were also added. Finally, we propose 
+output options giving statistics of the results.
+CONCLUSION: In this paper we present a new version of VIRAPOPS which now manages 
+the viral segment reassortments and the negative sense single strain RNA 
+viruses, these two issues being the cause of serious public health problems.
+
+DOI: 10.1186/1751-0473-9-18
+PMCID: PMC4144320
+PMID: 25183993

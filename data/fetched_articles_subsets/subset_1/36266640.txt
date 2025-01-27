@@ -1,0 +1,53 @@
+1. BMC Endocr Disord. 2022 Oct 20;22(1):252. doi: 10.1186/s12902-022-01173-6.
+
+Comprehensive analysis of lncRNA-mediated ceRNA regulatory networks and key 
+genes associated with papillary thyroid cancer coexistent with Hashimoto's 
+thyroiditis.
+
+Zhang Y(1), Tian Y(2)(3).
+
+Author information:
+(1)Department of Ultrasound, Zhongnan Hospital of Wuhan University, No. 169, 
+East Lake Road, Wuchang District, Wuhan, Hubei, 430071, China.
+(2)Department of Ultrasound, Zhongnan Hospital of Wuhan University, No. 169, 
+East Lake Road, Wuchang District, Wuhan, Hubei, 430071, China. 
+tyl081300@163.com.
+(3)Department of Nuclear Medicine, Zhongnan Hospital of Wuhan University, Wuhan, 
+China. tyl081300@163.com.
+
+OBJECTIVE: The incidence of papillary thyroid cancer (PTC) concomitant with 
+Hashimoto's thyroiditis (HT) is gradually increasing over the past decades. This 
+study aims to identify differentially expressed lncRNAs between tumor tissues of 
+PTC with or without HT and further to confer a better understanding of 
+lncRNA-based competing endogenous RNA (ceRNA) network in PTC with HT.
+METHODS: GSE138198 containing tissue mRNA data and GSE192560 containing lncRNA 
+data were utilized to perform differentially expression analysis. The ceRNA 
+network was constructed based on miRNA-mRNA interactions merging with 
+lncRNA-microRNA interactions. Functional enrichment analysis and protein-protein 
+interaction (PPI) analysis were performed. The mRNA levels of core genes in the 
+PPI analysis in tumor tissues collected from 112 PTC patients including 35 cases 
+coexistent with HT were determined by quantitative real-time polymerase chain 
+reaction (qRT-PCR).
+RESULTS: A total of 57 genes and 40 lncRNAs, with value of |log2 fold change 
+(FC)|≥ 1 and the adjusted P-value < 0.05, were deemed as differentially 
+expressed genes and lncRNAs between PTC with and without HT. The pathways most 
+significantly enriched by differentially expressed genes between PTC with and 
+without HT were viral protein interaction with cytokine and cytokine receptor 
+and cytokine-cytokine receptor interaction. CXCL10, CXCL9, CCL5, FCGR3A, and 
+CCR2 owned degree values not less than 10 were deemed as core genes 
+differentially expressed between PTC with and without HT. A total of 76 pairs of 
+lncRNA-miRNA-mRNA ceRNA were obtained. Results of qRT-PCR partially demonstrated 
+the bioinformatics results that the mRNA levels of CXCL10, CXCL9, CCL5, and CCR2 
+were remarkably elevated in tumor tissues collected from PTC patients coexistent 
+with HT than those without HT (P < 0.001).
+CONCLUSION: Our study offers a better understanding of the lncRNA-related ceRNA 
+network involved in PTC with HT, providing novel key genes associated with PTC 
+coexistent with HT.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12902-022-01173-6
+PMCID: PMC9583512
+PMID: 36266640 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declared no conflict of interest.

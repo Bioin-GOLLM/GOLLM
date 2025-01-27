@@ -1,0 +1,30 @@
+1. Brief Bioinform. 2023 Mar 19;24(2):bbad004. doi: 10.1093/bib/bbad004.
+
+Sequence-based prediction of pH-dependent protein solubility using CamSol.
+
+Oeller M(1), Kang R(1), Bell R(1), Ausserwöger H(1), Sormanni P(1), Vendruscolo 
+M(1).
+
+Author information:
+(1)Centre for Misfolding Diseases, Yusuf Hamied Department of Chemistry, 
+University of Cambridge, Cambridge, UK.
+
+Solubility is a property of central importance for the use of proteins in 
+research in molecular and cell biology and in applications in biotechnology and 
+medicine. Since experimental methods for measuring protein solubility are 
+material intensive and time consuming, computational methods have recently 
+emerged to enable the rapid and inexpensive screening of solubility for large 
+libraries of proteins, as it is routinely required in development pipelines. 
+Here, we describe the development of one such method to include in the 
+predictions the effect of the pH on solubility. We illustrate the resulting 
+pH-dependent predictions on a variety of antibodies and other proteins to 
+demonstrate that these predictions achieve an accuracy comparable with that of 
+experimental methods. We make this method publicly available at 
+https://www-cohsoftware.ch.cam.ac.uk/index.php/camsolph, as the version 3.0 of 
+CamSol.
+
+© The Author(s) 2023. Published by Oxford University Press.
+
+DOI: 10.1093/bib/bbad004
+PMCID: PMC10025429
+PMID: 36719110 [Indexed for MEDLINE]

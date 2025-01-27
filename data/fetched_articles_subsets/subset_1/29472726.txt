@@ -1,0 +1,44 @@
+1. Sci Rep. 2018 Feb 22;8(1):3482. doi: 10.1038/s41598-018-21161-y.
+
+Combinatory use of distinct single-cell RNA-seq analytical platforms reveals the 
+heterogeneous transcriptome response.
+
+Kashima Y(1), Suzuki A(2), Liu Y(1), Hosokawa M(3), Matsunaga H(4), Shirai M(4), 
+Arikawa K(4), Sugano S(1), Kohno T(5), Takeyama H(3), Tsuchihara K(2), Suzuki 
+Y(6).
+
+Author information:
+(1)Department of Computational Biology and Medical Sciences, Graduate School of 
+Frontier Sciences, The University of Tokyo, Kashiwa, Chiba, 277-8562, Japan.
+(2)Division of Translational Genomics, The Exploratory Oncology Research and 
+Clinical Trial Center, National Cancer Center, Kashiwa, Chiba, 277-8577, Japan.
+(3)Department of Life Science and Medical Bioscience, Waseda University, 
+Shinjuku-ku, Tokyo, 162-8480, Japan.
+(4)Hitachi Ltd., Research & Development Group, Kokubunji-shi, Tokyo, 185-8601, 
+Japan.
+(5)Division of Genome Biology, National Cancer Center Research Institute, 
+Chuo-ku, Tokyo, 104-0045, Japan.
+(6)Department of Computational Biology and Medical Sciences, Graduate School of 
+Frontier Sciences, The University of Tokyo, Kashiwa, Chiba, 277-8562, Japan. 
+ysuzuki@hgc.jp.
+
+Single-cell RNA-seq is a powerful tool for revealing heterogeneity in cancer 
+cells. However, each of the current single-cell RNA-seq platforms has inherent 
+advantages and disadvantages. Here, we show that combining the different 
+single-cell RNA-seq platforms can be an effective approach to obtaining complete 
+information about expression differences and a sufficient cellular population to 
+understand transcriptional heterogeneity in cancers. We demonstrate that it is 
+possible to estimate missing expression information. We further demonstrate that 
+even in the cases where precise information for an individual gene cannot be 
+inferred, the activity of given transcriptional modules can be analyzed. 
+Interestingly, we found that two distinct transcriptional modules, one 
+associated with the Aurora kinase gene and the other with the DUSP gene, are 
+aberrantly regulated in a minor population of cells and may thus contribute to 
+the possible emergence of dormancy or eventual drug resistance within the 
+population.
+
+DOI: 10.1038/s41598-018-21161-y
+PMCID: PMC5823859
+PMID: 29472726 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

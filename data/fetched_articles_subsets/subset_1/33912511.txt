@@ -1,0 +1,51 @@
+1. Prostate Int. 2021 Mar;9(1):25-30. doi: 10.1016/j.prnil.2020.06.003. Epub 2020
+ Jul 30.
+
+Prostate cancer trajectory-map: clinical decision support system for prognosis 
+management of radical prostatectomy.
+
+Park J(1)(2), Rho MJ(2), Moon HW(3), Park YH(3), Kim CS(4), Jeon SS(5), Kang 
+M(5), Lee JY(3).
+
+Author information:
+(1)Department of Biomedicine & Health Sciences, College of Medicine, The 
+Catholic University of Korea, Seoul, Korea.
+(2)Catholic Cancer Research Institute, College of Medicine, The Catholic 
+University of Korea, Seoul, Korea.
+(3)Department of Urology, Seoul St. Mary's Hospital, College of Medicine, The 
+Catholic University of Korea, Seoul, Korea.
+(4)Department of Urology, Asan Medical Center, University of Ulsan College of 
+Medicine, Seoul, Korea.
+(5)Department of Urology, Samsung Medical Center, Sungkyunkwan University School 
+of Medicine, Seoul, Korea.
+
+PURPOSE: Prostate cancer has a low mortality rate and requires persistent 
+treatment; however, treatment decisions are challenging. Because prostate cancer 
+is complex, the outcomes warrant thorough follow-up evaluation for appropriate 
+treatment. Electronic health records (EHRs) do not present intuitive 
+information. This study aimed to develop a Clinical Decision Support System 
+(CDSS) for prognosis management of radical prostatectomy.
+METHODS: We used data from 5,199 prostate cancer patients from three hospitals' 
+EHRs in South Korea, comprising laboratory results, surgery, medication, and 
+radiation therapy. We used open source R for data preprocessing and development 
+of web-based visualization system. We also used R for automatic calculation 
+functionalities of two factors to visualize the data, e.g., Prostate-Specific 
+Antigen Doubling Time (PSADT), and four Biochemical Recurrence (BCR) 
+definitions: American Society of Therapeutic Radiology and Oncology (ASTRO), 
+Phoenix, consecutive PSA > 0.2 ng/mL, and PSA > 0.2 ng/mL.
+RESULTS: We developed the Prostate Cancer Trajectory Map (PCT-Map) as a CDSS for 
+intuitive visualization of serial data of PSA, testosterone, surgery, 
+medication, radiation therapy, BCR, and PSADT.
+CONCLUSIONS: The PCT-Map comprises functionalities for BCR and PSADT and 
+calculates and visualizes the newly added patient data automatically in a 
+PCT-Map data format, thus optimizing the visualization of patient data and 
+allowing clinicians to promptly access patient data to decide the appropriate 
+treatment.
+
+© 2020 Asian Pacific Prostate Society. Published services by Elsevier B.V.
+
+DOI: 10.1016/j.prnil.2020.06.003
+PMCID: PMC8053691
+PMID: 33912511
+
+Conflict of interest statement: The authors declare no conflict of interest.

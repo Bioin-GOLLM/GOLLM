@@ -1,0 +1,51 @@
+1. Elife. 2018 Mar 22;7:e35574. doi: 10.7554/eLife.35574.
+
+A gene-specific T2A-GAL4 library for Drosophila.
+
+Lee PT(1), Zirin J(2), Kanca O(1), Lin WW(1), Schulze KL(1)(3), Li-Kroeger D(1), 
+Tao R(2), Devereaux C(2), Hu Y(2), Chung V(2), Fang Y(1), He Y(1)(3), Pan 
+H(1)(3), Ge M(1), Zuo Z(1)(4), Housden BE(2), Mohr SE(2)(5), Yamamoto 
+S(1)(4)(6)(7), Levis RW(8), Spradling AC(8), Perrimon N(2)(5), Bellen 
+HJ(1)(3)(4)(6)(7).
+
+Author information:
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, United States.
+(2)Department of Genetics, Harvard Medical School, Boston, United States.
+(3)Howard Hughes Medical Institute, Baylor College of Medicine, Houston, United 
+States.
+(4)Jan and Dan Duncan Neurological Research Institute, Texas Children's 
+Hospital, Houston, United States.
+(5)Howard Hughes Medical Institute, Harvard Medical School, Boston, United 
+States.
+(6)Program in Developmental Biology, Baylor College of Medicine, Houston, United 
+States.
+(7)Department of Neuroscience, Baylor College of Medicine, Houston, United 
+States.
+(8)Department of Embryology, Howard Hughes Medical Institute, Carnegie 
+Institution for Science, Baltimore, United States.
+
+We generated a library of ~1000 Drosophila stocks in which we inserted a 
+construct in the intron of genes allowing expression of GAL4 under control of 
+endogenous promoters while arresting transcription with a polyadenylation signal 
+3' of the GAL4. This allows numerous applications. First, ~90% of insertions in 
+essential genes cause a severe loss-of-function phenotype, an effective way to 
+mutagenize genes. Interestingly, 12/14 chromosomes engineered through CRISPR do 
+not carry second-site lethal mutations. Second, 26/36 (70%) of lethal insertions 
+tested are rescued with a single UAS-cDNA construct. Third, loss-of-function 
+phenotypes associated with many GAL4 insertions can be reverted by excision with 
+UAS-flippase. Fourth, GAL4 driven UAS-GFP/RFP reports tissue and cell-type 
+specificity of gene expression with high sensitivity. We report the expression 
+of hundreds of genes not previously reported. Finally, inserted cassettes can be 
+replaced with GFP or any DNA. These stocks comprise a powerful resource for 
+assessing gene function.
+
+© 2018, Lee et al.
+
+DOI: 10.7554/eLife.35574
+PMCID: PMC5898912
+PMID: 29565247 [Indexed for MEDLINE]
+
+Conflict of interest statement: PL, JZ, OK, WL, KS, DL, RT, CD, YH, VC, YF, YH, 
+HP, MG, ZZ, BH, SM, SY, RL, NP No competing interests declared, AS, HB Reviewing 
+editor, eLife

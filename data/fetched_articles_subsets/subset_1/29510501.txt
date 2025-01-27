@@ -1,0 +1,43 @@
+1. Sensors (Basel). 2018 Mar 3;18(3):770. doi: 10.3390/s18030770.
+
+Forward Behavioral Modeling of a Three-Way Amplitude Modulator-Based Transmitter 
+Using an Augmented Memory Polynomial.
+
+Chatrath J(1), Aziz M(2), Helaoui M(3).
+
+Author information:
+(1)iRadio Lab, Department of Electrical and Computer Engineering, University of 
+Calgary, 2500 University Dr. NW, Calgary, AB T2N 1N4, Canada. 
+jatin.chatrath2@ucalgary.ca.
+(2)iRadio Lab, Department of Electrical and Computer Engineering, University of 
+Calgary, 2500 University Dr. NW, Calgary, AB T2N 1N4, Canada. azizm@ucalgary.ca.
+(3)iRadio Lab, Department of Electrical and Computer Engineering, University of 
+Calgary, 2500 University Dr. NW, Calgary, AB T2N 1N4, Canada. 
+mhelaoui@ucalgary.ca.
+
+Reconfigurable and multi-standard RF front-ends for wireless communication and 
+sensor networks have gained importance as building blocks for the Internet of 
+Things. Simpler and highly-efficient transmitter architectures, which can 
+transmit better quality signals with reduced impairments, are an important step 
+in this direction. In this regard, mixer-less transmitter architecture, namely, 
+the three-way amplitude modulator-based transmitter, avoids the use of imperfect 
+mixers and frequency up-converters, and their resulting distortions, leading to 
+an improved signal quality. In this work, an augmented memory polynomial-based 
+model for the behavioral modeling of such mixer-less transmitter architecture is 
+proposed. Extensive simulations and measurements have been carried out in order 
+to validate the accuracy of the proposed modeling strategy. The performance of 
+the proposed model is evaluated using normalized mean square error (NMSE) for 
+long-term evolution (LTE) signals. NMSE for a LTE signal of 1.4 MHz bandwidth 
+with 100,000 samples for digital combining and analog combining are recorded as 
+-36.41 dB and -36.9 dB, respectively. Similarly, for a 5 MHz signal the proposed 
+models achieves -31.93 dB and -32.08 dB NMSE using digital and analog combining, 
+respectively. For further validation of the proposed model, 
+amplitude-to-amplitude (AM-AM), amplitude-to-phase (AM-PM), and the spectral 
+response of the modeled and measured data are plotted, reasonably meeting the 
+desired modeling criteria.
+
+DOI: 10.3390/s18030770
+PMCID: PMC5876732
+PMID: 29510501
+
+Conflict of interest statement: The authors declare no conflict of interest.

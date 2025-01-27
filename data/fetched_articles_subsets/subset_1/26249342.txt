@@ -1,0 +1,26 @@
+1. Acta Crystallogr D Biol Crystallogr. 2015 Aug;71(Pt 8):1604-14. doi: 
+10.1107/S1399004715008263. Epub 2015 Jul 28.
+
+Detection of trans-cis flips and peptide-plane flips in protein structures.
+
+Touw WG(1), Joosten RP(2), Vriend G(1).
+
+Author information:
+(1)Centre for Molecular and Biomolecular Informatics, Radboud University Medical 
+Center, Geert Grooteplein-Zuid 26-28, 6525 GA Nijmegen, The Netherlands.
+(2)Department of Biochemistry, Netherlands Cancer Institute, Plesmanlaan 121, 
+1066 CX Amsterdam, The Netherlands.
+
+A coordinate-based method is presented to detect peptide bonds that need 
+correction either by a peptide-plane flip or by a trans-cis inversion of the 
+peptide bond. When applied to the whole Protein Data Bank, the method predicts 
+4617 trans-cis flips and many thousands of hitherto unknown peptide-plane flips. 
+A few examples are highlighted for which a correction of the peptide-plane 
+geometry leads to a correction of the understanding of the structure-function 
+relation. All data, including 1088 manually validated cases, are freely 
+available and the method is available from a web server, a web-service interface 
+and through WHAT_CHECK.
+
+DOI: 10.1107/S1399004715008263
+PMCID: PMC4528797
+PMID: 26249342 [Indexed for MEDLINE]

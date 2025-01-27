@@ -1,0 +1,47 @@
+1. J Mol Biol. 2008 Dec 31;384(5):1086-97. doi: 10.1016/j.jmb.2008.10.025. Epub 
+2008 Oct 17.
+
+Mismatched base-pair simulations for ASFV Pol X/DNA complexes help interpret 
+frequent G*G misincorporation.
+
+Sampoli Benítez BA(1), Arora K, Balistreri L, Schlick T.
+
+Author information:
+(1)Department of Natural Sciences and Mathematics, Marymount Manhattan College, 
+221 East 71st Street, New York, NY 10021, USA.
+
+DNA polymerase X (pol X) from the African swine fever virus is a 174-amino-acid 
+repair polymerase that likely participates in a viral base excision repair 
+mechanism, characterized by low fidelity. Surprisingly, pol X's insertion rate 
+of the G*G mispair is comparable to that of the four Watson-Crick base pairs. 
+This behavior is in contrast with another X-family polymerase, DNA polymerase 
+beta (pol beta), which inserts G*G mismatches poorly, and has higher DNA repair 
+fidelity. Using molecular dynamics simulations, we previously provided support 
+for an induced-fit mechanism for pol X in the presence of the correct incoming 
+nucleotide. Here, we perform molecular dynamics simulations of pol X/DNA 
+complexes with different incoming incorrect nucleotides in various orientations 
+[C*C, A*G, and G*G (anti) and A*G and G*G (syn)] and compare the results to 
+available kinetic data and prior modeling. Intriguingly, the simulations reveal 
+that the G*G mispair with the incoming nucleotide in the syn configuration 
+undergoes large-scale conformational changes similar to that observed in the 
+presence of correct base pair (G*C). The base pairing in the G*G mispair is 
+achieved via Hoogsteen hydrogen bonding with an overall geometry that is well 
+poised for catalysis. Simulations for other mismatched base pairs show that an 
+intermediate closed state is achieved for the A*G and G*G mispair with the 
+incoming dGTP in anti conformation, while the protein remains near the open 
+conformation for the C*C and the A*G syn mismatches. In addition, catalytic site 
+geometry and base pairing at the nascent template-incoming nucleotide 
+interaction reveal distortions and misalignments that range from moderate for 
+A*G anti to worst for the C*C complex. These results agree well with kinetic 
+data for pol X and provide a structural/dynamic basis to explain, at atomic 
+level, the fidelity of this polymerase compared with other members of the X 
+family. In particular, the more open and pliant active site of pol X, compared 
+to pol beta, allows pol X to accommodate bulkier mismatches such as guanine 
+opposite guanine, while the more structured and organized pol beta active site 
+imposes higher discrimination, which results in higher fidelity. The possibility 
+of syn conformers resonates with other low-fidelity enzymes such as Dpo4 (from 
+the Y family), which readily accommodate oxidative lesions.
+
+DOI: 10.1016/j.jmb.2008.10.025
+PMCID: PMC2644343
+PMID: 18955064 [Indexed for MEDLINE]

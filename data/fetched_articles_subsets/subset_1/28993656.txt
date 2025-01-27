@@ -1,0 +1,44 @@
+1. Sci Rep. 2017 Oct 9;7(1):12830. doi: 10.1038/s41598-017-13184-8.
+
+Multiple similarly effective solutions exist for biomedical feature selection 
+and classification problems.
+
+Liu J(1), Xu C(1), Yang W(1), Shu Y(1), Zheng W(2), Zhou F(3)(4).
+
+Author information:
+(1)College of Software, Jilin University, Changchun, Jilin, 130012, China.
+(2)College of Computer Science and Technology, and Key Laboratory of Symbolic 
+Computation and Knowledge Engineering of Ministry of Education, Jilin 
+University, Changchun, Jilin, 130012, China.
+(3)College of Software, Jilin University, Changchun, Jilin, 130012, China. 
+FengfengZhou@gmail.com.
+(4)College of Computer Science and Technology, and Key Laboratory of Symbolic 
+Computation and Knowledge Engineering of Ministry of Education, Jilin 
+University, Changchun, Jilin, 130012, China. FengfengZhou@gmail.com.
+
+Erratum in
+    Sci Rep. 2018 Jan 11;8(1):838. doi: 10.1038/s41598-018-19383-1.
+    Sci Rep. 2018 Mar 6;8(1):4218. doi: 10.1038/s41598-018-22352-3.
+
+Binary classification is a widely employed problem to facilitate the decisions 
+on various biomedical big data questions, such as clinical drug trials between 
+treated participants and controls, and genome-wide association studies (GWASs) 
+between participants with or without a phenotype. A machine learning model is 
+trained for this purpose by optimizing the power of discriminating samples from 
+two groups. However, most of the classification algorithms tend to generate one 
+locally optimal solution according to the input dataset and the mathematical 
+presumptions of the dataset. Here we demonstrated from the aspects of both 
+disease classification and feature selection that multiple different solutions 
+may have similar classification performances. So the existing machine learning 
+algorithms may have ignored a horde of fishes by catching only a good one. Since 
+most of the existing machine learning algorithms generate a solution by 
+optimizing a mathematical goal, it may be essential for understanding the 
+biological mechanisms for the investigated classification question, by 
+considering both the generated solution and the ignored ones.
+
+DOI: 10.1038/s41598-017-13184-8
+PMCID: PMC5634418
+PMID: 28993656
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

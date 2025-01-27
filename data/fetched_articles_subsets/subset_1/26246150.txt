@@ -1,0 +1,64 @@
+1. Microb Cell Fact. 2015 Aug 7;14:113. doi: 10.1186/s12934-015-0304-7.
+
+An artificial neural network for membrane-bound catechol-O-methyltransferase 
+biosynthesis with Pichia pastoris methanol-induced cultures.
+
+Pedro AQ(1), Martins LM(2), Dias JM(3), Bonifácio MJ(4), Queiroz JA(5), 
+Passarinha LA(6).
+
+Author information:
+(1)CICS-UBI, Centro de Investigação em Ciências da Saúde, Universidade da Beira 
+Interior, Avenida Infante D. Henrique, 6201-001, Covilhã, Portugal. 
+apedro@fcsaude.ubi.pt.
+(2)CICS-UBI, Centro de Investigação em Ciências da Saúde, Universidade da Beira 
+Interior, Avenida Infante D. Henrique, 6201-001, Covilhã, Portugal. 
+lmcmartins1@hotmail.com.
+(3)Department of Biochemistry, Cambridge System Biology Centre, University of 
+Cambridge, Sanger Building, 80 Tennis Court Road, Cambridge, CB2 1GA, UK. 
+jml96@cam.ac.uk.
+(4)Departamento de Investigação e Desenvolvimento, Bial, 4745-457, São Mamede do 
+Coronado, Portugal. mjoao.bonifacio@bial.com.
+(5)CICS-UBI, Centro de Investigação em Ciências da Saúde, Universidade da Beira 
+Interior, Avenida Infante D. Henrique, 6201-001, Covilhã, Portugal. 
+jqueiroz@ubi.pt.
+(6)CICS-UBI, Centro de Investigação em Ciências da Saúde, Universidade da Beira 
+Interior, Avenida Infante D. Henrique, 6201-001, Covilhã, Portugal. 
+lpassarinha@fcsaude.ubi.pt.
+
+BACKGROUND: Membrane proteins are important drug targets in many human diseases 
+and gathering structural information regarding these proteins encourages the 
+pharmaceutical industry to develop new molecules using structure-based drug 
+design studies. Specifically, membrane-bound catechol-O-methyltransferase 
+(MBCOMT) is an integral membrane protein that catalyzes the methylation of 
+catechol substrates and has been linked to several diseases such as Parkinson's 
+disease and Schizophrenia. Thereby, improvements in the clinical outcome of the 
+therapy to these diseases may come from structure-based drug design where 
+reaching MBCOMT samples in milligram quantities are crucial for acquiring 
+structural information regarding this target protein. Therefore, the main aim of 
+this work was to optimize the temperature, dimethylsulfoxide (DMSO) 
+concentration and the methanol flow-rate for the biosynthesis of recombinant 
+MBCOMT by Pichia pastoris bioreactor methanol-induced cultures using artificial 
+neural networks (ANN).
+RESULTS: The optimization trials intended to evaluate MBCOMT expression by P. 
+pastoris bioreactor cultures led to the development of a first standard strategy 
+for MBCOMT bioreactor biosynthesis with a batch growth on glycerol until the 
+dissolved oxygen spike, 3 h of glycerol feeding and 12 h of methanol induction. 
+The ANN modeling of the aforementioned fermentation parameters predicted a 
+maximum MBCOMT specific activity of 384.8 nmol/h/mg of protein at 30°C, 2.9 
+mL/L/H methanol constant flow-rate and with the addition of 6% (v/v) DMSO with 
+almost 90% of healthy cells at the end of the induction phase. These results 
+allowed an improvement of MBCOMT specific activity of 6.4-fold in comparison to 
+that from the small-scale biosynthesis in baffled shake-flasks.
+CONCLUSIONS: The ANN model was able to describe the effects of temperature, DMSO 
+concentration and methanol flow-rate on MBCOMT specific activity, as shown by 
+the good fitness between predicted and observed values. This experimental 
+procedure highlights the potential role of chemical chaperones such as DMSO in 
+improving yields of recombinant membrane proteins with a different topology than 
+G-coupled receptors. Finally, the proposed ANN shows that the manipulation of 
+classic fermentation parameters coupled with the addition of specific molecules 
+can open and reinforce new perspectives in the optimization of P. pastoris 
+bioprocesses for membrane proteins biosynthesis.
+
+DOI: 10.1186/s12934-015-0304-7
+PMCID: PMC4527236
+PMID: 26246150 [Indexed for MEDLINE]

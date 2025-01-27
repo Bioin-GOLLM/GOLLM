@@ -1,0 +1,54 @@
+1. BMC Cancer. 2023 Oct 18;23(1):997. doi: 10.1186/s12885-023-11490-1.
+
+S100P as a potential biomarker for immunosuppressive microenvironment in 
+pancreatic cancer: a bioinformatics analysis and in vitro study.
+
+Hao W(1), Zhang Y(1), Dou J(1), Cui P(1), Zhu J(2).
+
+Author information:
+(1)Department of gastroenterology, the First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, 450052, Henan, China.
+(2)Department of Pharmacy, the First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, 450052, Henan, China. jicunzhu1101@163.com.
+
+BACKGROUND: Immunosuppression is a significant factor contributing to the poor 
+prognosis of cancer. S100P, a member of the S100 protein family, has been 
+implicated in various cancers. However, its role in the tumor microenvironment 
+(TME) of pancreatic cancer remains unclear. This study aimed to investigate the 
+potential impact of S100P on TME characteristics in patients with pancreatic 
+cancer.
+METHODS: Multiple data (including microarray, RNA-Seq, and scRNA-Seq) were 
+obtained from public databases. The expression pattern of S100P was 
+comprehensively evaluated in RNA-Seq data and validated in four different 
+microarray datasets. Prognostic value was assessed through Kaplan-Meier plotter 
+and Cox regression analyses. Immune infiltration levels were determined using 
+the ESTIMATE and ssGSEA algorithms and validated at the single-cell level. 
+Spearman correlation test was used to examine the correlation between S100P 
+expression and immune checkpoint genes, and tumor mutation burden (TMB). DNA 
+methylation analysis was performed to investigate the change in mRNA expression. 
+Reverse transcription PCR (RT-PCR) and immunohistochemical (IHC) were utilized 
+to validate the expression using five cell lines and 60 pancreatic cancer 
+tissues.
+RESULTS: This study found that S100P was differentially expressed in pancreatic 
+cancer and was associated with poor prognosis (P < 0.05). Notably, S100P 
+exhibited a significant negative-correlation with immune cell infiltration, 
+particularly CD8 + T cells. Furthermore, a close association between S100P and 
+immunotherapy was observed, as it strongly correlated with TMB and the 
+expression levels of TIGIT, HAVCR2, CTLA4, and BTLA (P < 0.05). Intriguingly, 
+higher S100P expression demonstrated a negative correlation with methylation 
+levels (cg14323984, cg27027375, cg14900031, cg14140379, cg25083732, cg07210669, 
+cg26233331, and cg22266967), which were associated with CD8 + T cells. In vitro 
+RT-PCR validated upregulated S100P expression across all five pancreatic cancer 
+cell lines, and IHC confirmed high S100P levels in pancreatic cancer tissues 
+(P < 0.05).
+CONCLUSION: These findings suggest that S100P could serve as a promising 
+biomarker for immunosuppressive microenvironment, which may provide a novel 
+therapeutic way for pancreatic cancer.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12885-023-11490-1
+PMCID: PMC10585823
+PMID: 37853345 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

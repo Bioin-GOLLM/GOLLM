@@ -1,0 +1,42 @@
+1. Cancers (Basel). 2023 Apr 13;15(8):2290. doi: 10.3390/cancers15082290.
+
+Deep Learning Approaches to Osteosarcoma Diagnosis and Classification: A 
+Comparative Methodological Approach.
+
+Vezakis IA(1), Lambrou GI(1)(2)(3), Matsopoulos GK(1).
+
+Author information:
+(1)Biomedical Engineering Laboratory, School of Electrical & Computer 
+Engineering, National Technical University of Athens, 9 Iroon Polytechniou St., 
+15780 Athens, Greece.
+(2)Choremeio Research Laboratory, First Department of Pediatrics, National and 
+Kapodistrian University of Athens, Thivon & Levadeias 8, 11527 Athens, Greece.
+(3)University Research Institute of Maternal and Child Health & Precision 
+Medicine, National and Kapodistrian University of Athens, Thivon & Levadeias 8, 
+11527 Athens, Greece.
+
+BACKGROUND: Osteosarcoma is the most common primary malignancy of the bone, 
+being most prevalent in childhood and adolescence. Despite recent progress in 
+diagnostic methods, histopathology remains the gold standard for disease staging 
+and therapy decisions. Machine learning and deep learning methods have shown 
+potential for evaluating and classifying histopathological cross-sections.
+METHODS: This study used publicly available images of osteosarcoma 
+cross-sections to analyze and compare the performance of state-of-the-art deep 
+neural networks for histopathological evaluation of osteosarcomas.
+RESULTS: The classification performance did not necessarily improve when using 
+larger networks on our dataset. In fact, the smallest network combined with the 
+smallest image input size achieved the best overall performance. When trained 
+using 5-fold cross-validation, the MobileNetV2 network achieved 91% overall 
+accuracy.
+CONCLUSIONS: The present study highlights the importance of careful selection of 
+network and input image size. Our results indicate that a larger number of 
+parameters is not always better, and the best results can be achieved on smaller 
+and more efficient networks. The identification of an optimal network and 
+training configuration could greatly improve the accuracy of osteosarcoma 
+diagnoses and ultimately lead to better disease outcomes for patients.
+
+DOI: 10.3390/cancers15082290
+PMCID: PMC10136449
+PMID: 37190217
+
+Conflict of interest statement: The authors declare no conflict of interest.

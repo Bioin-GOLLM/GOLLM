@@ -1,0 +1,54 @@
+1. Front Neurol. 2023 Mar 2;14:1130378. doi: 10.3389/fneur.2023.1130378. 
+eCollection 2023.
+
+Identification and validation of ferroptosis-related hub genes in obstructive 
+sleep apnea syndrome.
+
+Liu P(1), Zhao D(1), Pan Z(1), Tang W(2), Chen H(1), Hu K(1).
+
+Author information:
+(1)Department of Respiratory and Critical Care Medicine, Renmin Hospital of 
+Wuhan University, Wuhan, China.
+(2)Department of Radiology, The Central Hospital of Enshi Tujia and Miao 
+Autonomous Prefecture, Enshi, China.
+
+BACKGROUND: By 2020, the prevalence of Obstructive Sleep Apnea Syndrome (OSAS) 
+in the US has reached 26. 6-43.2% in men and 8.7-27.8% in women. OSAS promotes 
+hypertension, diabetes, and tumor growth through unknown means. Chronic 
+intermittent hypoxia (CIH), sleep fragmentation, and increased pleural pressure 
+are central mechanisms of OSAS complications. CIH exacerbates ferroptosis, which 
+is closely related to malignancies. The mechanism of ferroptosis in OSAS disease 
+progression remains unknown.
+METHODS: OSAS-related datasets (GSE135917 and GSE38792) were obtained from the 
+GEO. Differentially expressed genes (DEGs) were screened using the R software 
+and intersected with the ferroptosis database (FerrDb V2) to get 
+ferroptosis-related DEGs (f-DEGs). GO, DO, KEGG, and GSEA enrichment were 
+performed, a PPI network was constructed and hub genes were screened. The TCGA 
+database was used to obtain the thyroid cancer (THCA) gene expression profile, 
+and hub genes were analyzed for differential and survival analysis. The 
+mechanism was investigated using GSEA and immune infiltration. The hub genes 
+were validated with RT-qPCR, IHC, and other datasets. Sprague-Dawley rats were 
+randomly separated into normoxia and CIH groups. ROS, MDA, and GSH methods were 
+used to detect CIH-induced ferroptosis and oxidative stress.
+RESULTS: GSEA revealed a statistically significant difference in ferroptosis in 
+OSAS (FDR < 0.05). HIF1A, ATM, HSPA5, MAPK8, MAPK14, TLR4, and CREB1 were 
+identified as hub genes among 3,144 DEGs and 74 f-DEGs. HIF1A and ATM were the 
+only two validated genes. F-DEGs were mainly enriched in THCA. HIF1A 
+overexpression in THCA promotes its development. HIF1A is associated with CD8 T 
+cells and macrophages, which may affect the immunological milieu. The result 
+found CIH increased ROS and MDA while lowering GSH indicating that it could 
+cause ferroptosis. In OSAS patients, non-invasive ventilation did not affect 
+HIF1A and ATM expression. Carvedilol, hydralazine, and caffeine may be important 
+in the treatment of OSAS since they suppress HIF1A and ATM.
+CONCLUSIONS: Our findings revealed that the genes HIF1A and ATM are highly 
+expressed in OSAS, and can serve as biomarkers and targets for OSAS.
+
+Copyright © 2023 Liu, Zhao, Pan, Tang, Chen and Hu.
+
+DOI: 10.3389/fneur.2023.1130378
+PMCID: PMC10018165
+PMID: 36937508
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

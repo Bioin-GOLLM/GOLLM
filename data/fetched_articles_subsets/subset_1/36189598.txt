@@ -1,0 +1,49 @@
+1. J Alzheimers Dis. 2022;90(2):783-794. doi: 10.3233/JAD-220701.
+
+Prediction of Alzheimer's Disease Using Patterns of Methylation Levels in Key 
+Immunologic-Related Genes.
+
+Lin J(1)(2), Yang S(1)(2), Wang C(1)(2), Yu E(1)(2), Zhu Z(1)(2), Shi J(1)(2), 
+Li X(1)(2), Xin J(1)(2), Chen X(1)(2), Pan X(1)(2)(3).
+
+Author information:
+(1)Department of Neurology, Center for Cognitive Neurology, Institute of 
+Clinical Neurology, Fujian Institute of Geriatrics, Fujian Medical University 
+Union Hospital, Fuzhou, China.
+(2)Fujian Key Laboratory of Molecular Neurology, Fujian Medical University, 
+Fuzhou, China.
+(3)Key Laboratory of Brain Aging and Neurodegenerative Diseases, Fujian Medical 
+University, Fuzhou, China.
+
+BACKGROUND: DNA methylation is expected to become a kind of new diagnosis and 
+treatment method of Alzheimer's disease (AD). Neuroinflammation- and 
+immune-related pathways represent one of the major genetic risk factors for AD.
+OBJECTIVE: We aimed to investigate DNA methylation levels of 7 key 
+immunologic-related genes in peripheral blood and appraise their applicability 
+in the diagnosis of AD.
+METHODS: Methylation levels were obtained from 222 participants (101 AD, 72 MCI, 
+49 non-cognitively impaired controls). Logistic regression models for diagnosing 
+AD were established after least absolute shrinkage and selection operator 
+(LASSO) and best subset selection (BSS), evaluated by respondent working curve 
+and decision curve analysis for sensitivity.
+RESULTS: Six differentially methylated positions (DMPs) in the MCI group and 64 
+in the AD group were found, respectively. Among them, there were 2 DMPs in the 
+MCI group and 30 DMPs in the AD group independent of age, gender, and APOE4 
+carriers (p <  0.05). AD diagnostic prediction models differentiated AD from 
+normal controls both in a training dataset (LASSO: 8 markers, including 
+methylation levels at ABCA7 1040077, CNR1 88166293, CX3CR1 39322324, LRRK2 
+40618505, LRRK2 40618493, NGFR 49496745, TARDBP 11070956, TARDBP 11070840 area 
+under the curve [AUC] = 0.81; BSS: 2 markers, including methylation levels at 
+ABCA7 1040077 and CX3CR1 39322324, AUC = 0.80) and a testing dataset 
+(AUC = 0.84, AUC = 0.82, respectively).
+CONCLUSION: Our work indicated that methylation levels of 7 key 
+immunologic-related genes (ABCA7, CNR1, CX3CR1, CSF1R, LRRK2, NGFR, and TARDBP) 
+in peripheral blood was altered in AD and the models including methylation of 
+immunologic-related genes biomarkers improved prediction of AD.
+
+DOI: 10.3233/JAD-220701
+PMCID: PMC9697046
+PMID: 36189598 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors’ disclosures available online 
+(https://www.j-alz.com/manuscript-disclosures/22-0701r1).

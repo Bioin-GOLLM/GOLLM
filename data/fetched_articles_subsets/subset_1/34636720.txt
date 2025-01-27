@@ -1,0 +1,70 @@
+1. Elife. 2021 Oct 12;10:e70317. doi: 10.7554/eLife.70317.
+
+Switch-like and persistent memory formation in individual Drosophila larvae.
+
+Lesar A(1), Tahir J(1), Wolk J(1), Gershow M(1)(2)(3).
+
+Author information:
+(1)Department of Physics, New York University, New York, United States.
+(2)Center for Neural Science, New York University, New York, United States.
+(3)NYU Neuroscience Institute, New York University Langone Medical Center, New 
+York, United States.
+
+Associative learning allows animals to use past experience to predict future 
+events. The circuits underlying memory formation support immediate and sustained 
+changes in function, often in response to a single example. Larval Drosophila is 
+a genetic model for memory formation that can be accessed at molecular, 
+synaptic, cellular, and circuit levels, often simultaneously, but existing 
+behavioral assays for larval learning and memory do not address individual 
+animals, and it has been difficult to form long-lasting memories, especially 
+those requiring synaptic reorganization. We demonstrate a new assay for learning 
+and memory capable of tracking the changing preferences of individual larvae. We 
+use this assay to explore how activation of a pair of reward neurons changes the 
+response to the innately aversive gas carbon dioxide (CO2). We confirm that when 
+coupled to CO2 presentation in appropriate temporal sequence, optogenetic reward 
+reduces avoidance of CO2. We find that learning is switch-like: all-or-none and 
+quantized in two states. Memories can be extinguished by repeated unrewarded 
+exposure to CO2 but are stabilized against extinction by repeated training or 
+overnight consolidation. Finally, we demonstrate long-lasting protein synthesis 
+dependent and independent memory formation.
+
+Plain Language Summary: Brains learn from experience. They take events from the 
+past, link them together, and use them to predict the future. This is true for 
+fruit flies, Drosophila melanogaster, as well as for humans. One of the main 
+questions in the field of neuroscience is, how does this kind of associative 
+learning happen? Fruit fly larvae can learn to associate a certain smell with a 
+sugar reward. When a group of larvae learn to associate a smell with sugar, most 
+but not all of them will approach that smell in the future. This shows 
+associative learning in action, but it raises a big question. Did the larvae 
+that failed to approach the smell fail to learn, or did they just happen to make 
+a mistake finding the smell? Given another chance, would exactly the same larvae 
+approach the smell as the first time? In other words, did all the larvae learn a 
+little, or did some larvae learn completely and others learn nothing? To find 
+out, Lesar et al. built a computer-controlled maze to test whether individual 
+fruit fly larvae liked or avoided a smell. Whenever a larva reached the middle 
+of the Y-shaped maze, it could choose to go down one of two remaining corridors. 
+One corridor contained air and the other carbon dioxide, a gas they would 
+naturally avoid. Lesar et al. taught each larva to like carbon dioxide by 
+activating reward neurons in its brain while filling the maze with carbon 
+dioxide gas. Studying each larva as it navigated the maze revealed that they 
+learn in a single jump, a 'lightbulb moment'. When Lesar et al. activated the 
+reward neurons, the larva either ‘got it’ and stopped avoiding carbon dioxide 
+altogether, or it did not. In the second case, it behaved as if it had received 
+no training at all. Classic and modern experiments on people suggest that humans 
+might also learn in jumps, but research on our own brains is challenging. Fruit 
+flies are an excellent model organism to study memory formation because they are 
+easy to breed, and it is easy to manipulate their genetic code. Work in flies 
+has already revealed many of the genes and cells responsible for learning and 
+memory. But, to find the specific brain changes that explain learning, 
+researchers need to know whether the animals they are examining have actually 
+learned something. This new maze could help researchers to identify those 
+individuals, making it easier to find out exactly how associative learning 
+works.
+
+© 2021, Lesar et al.
+
+DOI: 10.7554/eLife.70317
+PMCID: PMC8510578
+PMID: 34636720 [Indexed for MEDLINE]
+
+Conflict of interest statement: AL, JT, JW, MG No competing interests declared

@@ -1,0 +1,63 @@
+1. EBioMedicine. 2023 Apr;90:104497. doi: 10.1016/j.ebiom.2023.104497. Epub 2023 
+Mar 1.
+
+Cell-free DNA methylation biomarker for the diagnosis of papillary thyroid 
+carcinoma.
+
+Hong S(1), Lin B(2), Xu M(3), Zhang Q(4), Huo Z(1), Su M(3), Ma C(3), Liang 
+J(5), Yu S(1), He Q(3), Su Z(3), Li Y(1), Liu R(3), Guo Z(6), Lv W(7), Xiao 
+H(8).
+
+Author information:
+(1)Department of endocrinology, The First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China.
+(2)Department of Thyroid Surgery, The First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China.
+(3)Singlera Genomics (Shanghai) Ltd., Shanghai, China.
+(4)Department of Head and Neck Surgery, State Key Laboratory of Oncology in 
+South China, Sun Yat-sen University Cancer Center, Guangzhou, China.
+(5)Department of Medical Ultrasonics, Institute of Diagnostic and Interventional 
+Ultrasound, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, 
+China.
+(6)Department of Head and Neck Surgery, State Key Laboratory of Oncology in 
+South China, Sun Yat-sen University Cancer Center, Guangzhou, China. Electronic 
+address: guozhm@sysucc.org.cn.
+(7)Department of Thyroid Surgery, The First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China. Electronic address: lvwm@mail.sysu.edu.cn.
+(8)Department of endocrinology, The First Affiliated Hospital of Sun Yat-sen 
+University, Guangzhou, China. Electronic address: xiaohp@mail.sysu.edu.cn.
+
+BACKGROUND: Cell-free DNA (cfDNA) is being explored as biomarker for 
+non-invasive diagnosis of cancer. We aimed to establish a cfDNA-based DNA 
+methylation marker panel to differentially diagnose papillary thyroid carcinoma 
+(PTC) from benign thyroid nodule (BTN).
+METHODS: 220 PTC- and 188 BTN patients were enrolled. Methylation markers of PTC 
+were identified from patients' tissue and plasma by reduced representation 
+bisulfite sequencing and methylation haplotype analyses. They were combined with 
+PTC markers from literatures and were tested on additional PTC and BTN samples 
+to verify PTC-detecting ability using targeted methylation sequencing. Top 
+markers were developed into ThyMet and were tested in 113 PTC and 88 BTN cases 
+to train and validate a PTC-plasma classifier. Integration of ThyMet and thyroid 
+ultrasonography was explored to improve accuracy.
+FINDINGS: From 859 potential PTC plasma-discriminating markers that include 81 
+markers identified by us, the top 98 most PTC plasma-discriminating markers were 
+selected for ThyMet. A 6-marker ThyMet classifier for PTC plasma was trained. In 
+validation it achieved an Area Under the Curve (AUC) of 0.828, similar to 
+thyroid ultrasonography (0.833) but at higher specificity (0.722 and 0.625 for 
+ThyMet and ultrasonography, respectively). A combinatorial classifier by them, 
+ThyMet-US, improved AUC to 0.923 (sensitivity = 0.957, specificity = 0.708).
+INTERPRETATION: The ThyMet classifier improved the specificity of 
+differentiating PTC from BTN over ultrasonography. The combinatorial ThyMet-US 
+classifier may be effective in preoperative diagnosis of PTC.
+FUNDING: This work was supported by the grants from National Natural Science 
+Foundation of China (82072956 and 81772850).
+
+Copyright © 2023 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2023.104497
+PMCID: PMC9996242
+PMID: 36868052 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests M.X., M.S., C.M., Q.H., 
+Z.S. and R.L. are employees of Singlera Genomics (Shanghai) Ltd. All other 
+authors declare no competing interests.

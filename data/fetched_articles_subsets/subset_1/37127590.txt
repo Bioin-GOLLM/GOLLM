@@ -1,0 +1,63 @@
+1. BMC Genomics. 2023 May 1;24(1):225. doi: 10.1186/s12864-023-09259-8.
+
+High-resolution structural variants catalogue in a large-scale whole genome 
+sequenced bovine family cohort data.
+
+Lee YL(1)(2), Bosse M(3), Takeda H(4), Moreira GCM(4), Karim L(5), Druet T(4), 
+Oget-Ebrad C(4), Coppieters W(4)(5), Veerkamp RF(3), Groenen MAM(3), Georges 
+M(4), Bouwman AC(3), Charlier C(4).
+
+Author information:
+(1)Animal Breeding and Genomics, Wageningen University & Research, Wageningen, 
+the Netherlands. younglim.lee@uliege.be.
+(2)Unit of Animal Genomics, Faculty of Veterinary Medicine, GIGA-R &, University 
+of Liège, Liège, Belgium. younglim.lee@uliege.be.
+(3)Animal Breeding and Genomics, Wageningen University & Research, Wageningen, 
+the Netherlands.
+(4)Unit of Animal Genomics, Faculty of Veterinary Medicine, GIGA-R &, University 
+of Liège, Liège, Belgium.
+(5)GIGA Institute, GIGA Genomics Platform, University of Liège, Liège, Belgium.
+
+BACKGROUND: Structural variants (SVs) are chromosomal segments that differ 
+between genomes, such as deletions, duplications, insertions, inversions and 
+translocations. The genomics revolution enabled the discovery of sub-microscopic 
+SVs via array and whole-genome sequencing (WGS) data, paving the way to unravel 
+the functional impact of SVs. Recent human expression QTL mapping studies 
+demonstrated that SVs play a disproportionally large role in altering gene 
+expression, underlining the importance of including SVs in genetic analyses. 
+Therefore, this study aimed to generate and explore a high-quality bovine SV 
+catalogue exploiting a unique cattle family cohort data (total 266 samples, 
+forming 127 trios).
+RESULTS: We curated 13,731 SVs segregating in the population, consisting of 
+12,201 deletions, 1,509 duplications, and 21 multi-allelic CNVs (> 50-bp). Of 
+these, we validated a subset of copy number variants (CNVs) utilising a direct 
+genotyping approach in an independent cohort, indicating that at least 62% of 
+the CNVs are true variants, segregating in the population. Among gene-disrupting 
+SVs, we prioritised two likely high impact duplications, encompassing ORM1 and 
+POPDC3 genes, respectively. Liver expression QTL mapping results revealed that 
+these duplications are likely causing altered gene expression, confirming the 
+functional importance of SVs. Although most of the accurately genotyped CNVs are 
+tagged by single nucleotide polymorphisms (SNPs) ascertained in WGS data, most 
+CNVs were not captured by individual SNPs obtained from a 50K genotyping array.
+CONCLUSION: We generated a high-quality SV catalogue exploiting unique whole 
+genome sequenced bovine family cohort data. Two high impact duplications 
+upregulating the ORM1 and POPDC3 are putative candidates for postpartum feed 
+intake and hoof health traits, thus warranting further investigation. Generally, 
+CNVs were in low LD with SNPs on the 50K array. Hence, it remains crucial to 
+incorporate CNVs via means other than tagging SNPs, such as investigation of 
+tagging haplotypes, direct imputation of CNVs, or direct genotyping as done in 
+the current study. The SV catalogue and the custom genotyping array generated in 
+the current study will serve as valuable resources accelerating utilisation of 
+full spectrum of genetic variants in bovine genomes.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12864-023-09259-8
+PMCID: PMC10152703
+PMID: 37127590 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that this study received 
+funding from CRV B.V., Cobb, Hendrix Genetics, and TopigsNorsvin. MAMG is a 
+member of the editorial board (Associate Editor) of BMC Genomics journal. All 
+authors declare that the results are presented in full and as such present no 
+conflict of interest.

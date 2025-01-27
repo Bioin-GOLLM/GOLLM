@@ -1,0 +1,35 @@
+1. Int J Biol Sci. 2011;7(7):992-1002. doi: 10.7150/ijbs.7.992. Epub 2011 Aug 13.
+
+Identification of candidate genes related to bovine marbling using 
+protein-protein interaction networks.
+
+Lim D(1), Kim NK, Park HS, Lee SH, Cho YM, Oh SJ, Kim TH, Kim H.
+
+Author information:
+(1)Division of Animal Genomics and Bioinformatics, National Institute of Animal 
+Science, Rural Development Administration, Suwon, Republic of Korea.
+
+Complex traits are determined by the combined effects of many loci and are 
+affected by gene networks or biological pathways. Systems biology approaches 
+have an important role in the identification of candidate genes related to 
+complex diseases or traits at the system level. The present study systemically 
+analyzed genes associated with bovine marbling score and identified their 
+relationships. The candidate nodes were obtained using MedScan text-mining tools 
+and linked by protein-protein interaction (PPI) from the Human Protein Reference 
+Database (HPRD). To determine key node of marbling, the degree and betweenness 
+centrality (BC) were used. The hub nodes and biological pathways of our network 
+are consistent with the previous reports about marbling traits, and also suggest 
+unknown candidate genes associated with intramuscular fat. Five nodes were 
+identified as hub genes, which was consistent with the network analysis using 
+quantitative reverse-transcription PCR (qRT-PCR). Key nodes of the PPI network 
+have positive roles (PPARγ, C/EBPα, and RUNX1T1) and negative roles (RXRA, 
+CAMK2A) in the development of intramuscular fat by several adipogenesis-related 
+pathways. This study provides genetic information for identifying candidate 
+genes for the marbling trait in bovine.
+
+DOI: 10.7150/ijbs.7.992
+PMCID: PMC3164149
+PMID: 21912507 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interests: The authors have declared 
+that no conflict of interest exists.

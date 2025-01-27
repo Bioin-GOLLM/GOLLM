@@ -1,0 +1,48 @@
+1. J Math Neurosci. 2020 Jun 15;10(1):10. doi: 10.1186/s13408-020-00087-8.
+
+Methods to assess binocular rivalry with periodic stimuli.
+
+Darki F(1), Rankin J(2).
+
+Author information:
+(1)Department of Mathematics, College of Engineering, Mathematics & Physical 
+Sciences, University of Exeter, Exeter, UK. fd303@exeter.ac.uk.
+(2)Department of Mathematics, College of Engineering, Mathematics & Physical 
+Sciences, University of Exeter, Exeter, UK.
+
+Binocular rivalry occurs when the two eyes are presented with incompatible 
+stimuli and perception alternates between these two stimuli. This phenomenon has 
+been investigated in two types of experiments: (1) Traditional experiments where 
+the stimulus is fixed, (2) eye-swap experiments in which the stimulus 
+periodically swaps between eyes many times per second (Logothetis et al. in 
+Nature 380(6575):621-624, 1996). In spite of the rapid swapping between eyes, 
+perception can be stable for many seconds with specific stimulus parameter 
+configurations. Wilson introduced a two-stage, hierarchical model to explain 
+both types of experiments (Wilson in Proc. Natl. Acad. Sci. 100(24):14499-14503, 
+2003). Wilson's model and other rivalry models have been only studied with 
+bifurcation analysis for fixed inputs and different types of dynamical behavior 
+that can occur with periodically forcing inputs have not been investigated. Here 
+we report (1) a more complete description of the complex dynamics in the 
+unforced Wilson model, (2) a bifurcation analysis with periodic forcing. 
+Previously, bifurcation analysis of the Wilson model with fixed inputs has 
+revealed three main types of dynamical behaviors: Winner-takes-all (WTA), 
+Rivalry oscillations (RIV), Simultaneous activity (SIM). Our results have 
+revealed richer dynamics including mixed-mode oscillations (MMOs) and a 
+period-doubling cascade, which corresponds to low-amplitude WTA (LAWTA) 
+oscillations. On the other hand, studying rivalry models with numerical 
+continuation shows that periodic forcing with high frequency (e.g. 18 Hz, known 
+as flicker) modulates the three main types of behaviors that occur with fixed 
+inputs with forcing frequency (WTA-Mod, RIV-Mod, SIM-Mod). However, dynamical 
+behavior will be different with low frequency periodic forcing (around 1.5 Hz, 
+so-called swap). In addition to WTA-Mod and SIM-Mod, cycle skipping, multi-cycle 
+skipping and chaotic dynamics are found. This research provides a framework for 
+either assessing binocular rivalry models to check consistency with empirical 
+results, or for better understanding neural dynamics and mechanisms necessary to 
+implement a minimal binocular rivalry model.
+
+DOI: 10.1186/s13408-020-00087-8
+PMCID: PMC7295892
+PMID: 32542516
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,34 @@
+1. J Chem Theory Comput. 2009 Nov 10;5(11):3105-13. doi: 10.1021/ct9001575. Epub 
+2009 Oct 9.
+
+An Improved Reaction Coordinate for Nucleic Acid Base Flipping Studies.
+
+Song K(1), Campbell AJ(1), Bergonzo C(1), de Los Santos C(1), Grollman AP(1), 
+Simmerling C(1).
+
+Author information:
+(1)Department of Chemistry, Department of Pharmacological Sciences, and Center 
+for Structural Biology, Stony Brook University, Stony Brook, New York 
+11794-3400.
+
+Base flipping is a common strategy utilized by many enzymes to gain access to 
+the functional groups of nucleic acid bases in duplex DNA which are otherwise 
+protected by the DNA backbone and hydrogen bonding with their partner bases. 
+Several X-ray crystallography studies have revealed flipped conformations of 
+nucleotides bound to enzymes. However, little is known about the base-flipping 
+process itself, even less about the role of the enzymes. Computational studies 
+have used umbrella sampling to elicit the free energy profile of the 
+base-flipping process using a pseudodihedral angle to represent the reaction 
+coordinate. In this study, we have used an unrestrained trajectory in which a 
+flipped base spontaneously reinserted into the helix in order to evaluate and 
+improve the previously defined pseudodihedral angle. Our modified pseudodihedral 
+angles use a new atom selection to improve the numerical stability of the 
+restraints and also provide better correlation to the extent of flipping 
+observed in simulations. Furthermore, on the basis of the comparison of 
+potential of mean force (PMF) generated using different reaction coordinates, we 
+observed that the shape of a flipping PMF profile is strongly dependent on the 
+definition of the reaction coordinate, even for the same data set.
+
+DOI: 10.1021/ct9001575
+PMCID: PMC5442445
+PMID: 26609990

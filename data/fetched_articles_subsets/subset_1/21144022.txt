@@ -1,0 +1,37 @@
+1. BMC Bioinformatics. 2010 Dec 13;11:597. doi: 10.1186/1471-2105-11-597.
+
+Extending pathways and processes using molecular interaction networks to analyse 
+cancer genome data.
+
+Glaab E(1), Baudot A, Krasnogor N, Valencia A.
+
+Author information:
+(1)Nottingham University, UK.
+
+BACKGROUND: Cellular processes and pathways, whose deregulation may contribute 
+to the development of cancers, are often represented as cascades of proteins 
+transmitting a signal from the cell surface to the nucleus. However, recent 
+functional genomic experiments have identified thousands of interactions for the 
+signalling canonical proteins, challenging the traditional view of pathways as 
+independent functional entities. Combining information from pathway databases 
+and interaction networks obtained from functional genomic experiments is 
+therefore a promising strategy to obtain more robust pathway and process 
+representations, facilitating the study of cancer-related pathways.
+RESULTS: We present a methodology for extending pre-defined protein sets 
+representing cellular pathways and processes by mapping them onto a 
+protein-protein interaction network, and extending them to include densely 
+interconnected interaction partners. The added proteins display distinctive 
+network topological features and molecular function annotations, and can be 
+proposed as putative new components, and/or as regulators of the communication 
+between the different cellular processes. Finally, these extended pathways and 
+processes are used to analyse their enrichment in pancreatic mutated genes. 
+Significant associations between mutated genes and certain processes are 
+identified, enabling an analysis of the influence of previously non-annotated 
+cancer mutated genes.
+CONCLUSIONS: The proposed method for extending cellular pathways helps to 
+explain the functions of cancer mutated genes by exploiting the synergies of 
+canonical knowledge and large-scale interaction data.
+
+DOI: 10.1186/1471-2105-11-597
+PMCID: PMC3017081
+PMID: 21144022 [Indexed for MEDLINE]

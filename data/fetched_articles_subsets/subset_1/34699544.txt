@@ -1,0 +1,49 @@
+1. PLoS One. 2021 Oct 26;16(10):e0258741. doi: 10.1371/journal.pone.0258741. 
+eCollection 2021.
+
+A signature based on 11 autophagy genes for prognosis prediction of colorectal 
+cancer.
+
+Chen S(1)(2), Wang Y(3), Wang B(1)(2), Zhang L(1)(2), Su Y(1)(2), Xu M(1)(2), 
+Zhang M(1)(2).
+
+Author information:
+(1)Department of colorectal Surgery, Tianjin Union Medical Center, Tianjin, P.R. 
+China.
+(2)Tianjin Institute of Coloproctology, Tianjin, P.R. China.
+(3)Department of Traditional Chinese Medicine, Shanghai Pudong New Area People's 
+Hospital, Shanghai, P.R. China.
+
+AIM: To develop an autophagy-gene-based signature that could help to anticipate 
+the therapeutic effects of Colorectal Cancer (CRC).
+METHODS: We downloaded the gene expression profiles of CRC samples from the 
+Cancer Genome Atlas (TCGA) and the Gene Expression Omnibus (GEO) datasets. Genes 
+with significant prognostic value in CRC were screened through univariate Cox 
+regression analysis, while the LASSO Cox regression method was applied to screen 
+optimal genes to construct the autophagy-related prognostic signature.
+RESULTS: 11 autophagy genes were identified and selected for the establishment 
+of prognosis prediction model for CRC patients. The CRC patients were classified 
+into the low- and high-risk groups according to the optimal cutoff value. The 
+time-dependent ROC curves indicated the good performance of this model in 
+prognosis prediction, with AUC values of 0.66, 0.66, and 0.67 at 1, 3 and 5 
+years for TCGA samples, as well as AUC values of 0.63, 0.65 and 0.64 for GEO 
+samples, respectively. The multivariate Cox regression analysis results 
+confirmed risk score as the independent marker for prognosis prediction in CRC. 
+Besides, the constructed nomogram also had high predictive value. The results 
+analysis on the tumor infiltrating immune cells (TIICs) relative ratios and mRNA 
+levels of key immune checkpoint receptors indicated the signature was closely 
+related to immune microenvironment of CRC in the context of TIICs and immune 
+checkpoint receptors' mRNA level. The proportion of MSI-L + MSI-H in the 
+high-risk group was higher than that in the low-risk group. Moreover, the tumor 
+purity was evaluated by estimate function package suggested that lower tumor 
+purity in CRC might lead to a poorer prognosis.
+CONCLUSION: The autophagy-related features obtained in this study were able to 
+divide the CRC patients into low- and high-risk groups, which should be 
+contribute to the decision-making of CRC treatment.
+
+DOI: 10.1371/journal.pone.0258741
+PMCID: PMC8547631
+PMID: 34699544 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

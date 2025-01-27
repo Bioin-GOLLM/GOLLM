@@ -1,0 +1,47 @@
+1. J Biomol Struct Dyn. 2024 Nov;42(18):9753-9766. doi: 
+10.1080/07391102.2023.2252908. Epub 2023 Aug 30.
+
+Unraveling the impact of ORF3a Q57H mutation on SARS-CoV-2: insights from 
+molecular dynamics.
+
+Islam MJ(1), Alom MS(2)(3), Hossain MS(1), Ali MA(4), Akter S(1), Islam S(1), 
+Ullah MO(1), Halim MA(4).
+
+Author information:
+(1)Division of Infectious Diseases and Division of Computer Aided Drug Design, 
+The Red-Green Research Centre, BICCB, Dhaka, Bangladesh.
+(2)Ohio State Biochemistry Program, The Ohio State University, Columbus, Ohio, 
+USA.
+(3)Center for RNA Biology, The Ohio State University, Columbus, Ohio, USA.
+(4)Department of Chemistry and Biochemistry, Kennesaw State University, 
+Kennesaw, Georgia, USA.
+
+ORF3a is a conserved accessory protein of SARS-CoV-2, linked to viral infection 
+and pathogenesis, with acquired mutations at various locations. Previous studies 
+have shown that the occurrence of the Q57H mutation is higher in comparison to 
+other positions in ORF3a. This mutation is known to induce conformational 
+changes, yet the extent of structural alteration and its role in the viral 
+adaptation process remain unknown. Here we performed molecular dynamics (MD) 
+simulations of wt-ORF3a, Q57H, and Q57A mutants to analyze structural changes 
+caused by mutations compared to the native protein. The MD analysis revealed 
+that Q57H and Q57A mutants show significant structural changes in the dimer 
+conformation than the wt-ORF3a. This dimer conformer narrows down the ion 
+channel cavity, which reduces Na + or K + permeability leading to decrease the 
+antigenic response that can help the virus to escape the host immune system. 
+Non-bonding interaction analysis shows the Q57H mutant has more interacting 
+residues, resulting in more stability within dimer conformation than the 
+wt-ORF3a and Q57A. Moreover, both mutant dimers (Q57H and Q57A) form a novel 
+salt-bridge interaction at the same position between A:Asp142 and B:Lys61, 
+whereas such an interaction is absent in the wt-ORF3a dimer. We have also 
+noticed that the TM3 domain's flexibility in Q57H is increased because of strong 
+inter-domain interactions of TM1 and TM2 within the dimer conformation. These 
+unusual interactions and flexibility of Q57H mutant can have significant impacts 
+on the SARS-CoV-2 adaptations, virulence, transmission, and immune system 
+evasion. Our findings are consistent with the previous experimental data and 
+provided details information on the structural perturbation in ORF3a caused by 
+mutations, which can help better understand the structural change at the 
+molecular level as well as the reason for the high virulence properties of this 
+variant.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2023.2252908
+PMID: 37649361 [Indexed for MEDLINE]

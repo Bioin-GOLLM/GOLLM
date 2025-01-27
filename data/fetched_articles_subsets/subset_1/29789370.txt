@@ -1,0 +1,59 @@
+1. mBio. 2018 May 22;9(3):e00809-18. doi: 10.1128/mBio.00809-18.
+
+A Single-Domain Response Regulator Functions as an Integrating Hub To Coordinate 
+General Stress Response and Development in Alphaproteobacteria.
+
+Lori C(1), Kaczmarczyk A(#)(1), de Jong I(#)(1), Jenal U(2).
+
+Author information:
+(1)Focal Area of Infection Biology, Biozentrum, University of Basel, Basel, 
+Switzerland.
+(2)Focal Area of Infection Biology, Biozentrum, University of Basel, Basel, 
+Switzerland urs.jenal@unibas.ch.
+(#)Contributed equally
+
+Erratum in
+    mBio. 2018 Sep 4;9(5):e01534-18. doi: 10.1128/mBio.01534-18.
+
+The alphaproteobacterial general stress response is governed by a conserved 
+partner-switching mechanism that is triggered by phosphorylation of the response 
+regulator PhyR. In the model organism Caulobacter crescentus, PhyR was proposed 
+to be phosphorylated by the histidine kinase PhyK, but biochemical evidence in 
+support of such a role of PhyK is missing. Here, we identify a single-domain 
+response regulator, MrrA, that is essential for general stress response 
+activation in C. crescentus We demonstrate that PhyK does not function as a 
+kinase but accepts phosphoryl groups from MrrA and passes them on to PhyR, 
+adopting the role of a histidine phosphotransferase. MrrA is phosphorylated by 
+at least six histidine kinases that likely serve as stress sensors. MrrA also 
+transfers phosphate to LovK, a histidine kinase involved in C. crescentus 
+holdfast production and attachment, which also negatively regulates the general 
+stress response. We show that LovK together with the response regulator LovR 
+acts as a phosphate sink to redirect phosphate flux away from the PhyKR branch. 
+In agreement with the biochemical data, an mrrA mutant is unable to activate the 
+general stress response and shows a hyperattachment phenotype, which is linked 
+to decreased expression of the major holdfast inhibitory protein HfiA. We 
+propose that MrrA serves as a central phosphorylation hub that coordinates the 
+general stress response with C. crescentus development and other adaptive 
+behaviors. The characteristic bow-tie architecture of this phosphorylation 
+network with MrrA as the central knot may expedite the evolvability and 
+species-specific niche adaptation of this group of bacteria.IMPORTANCE 
+Two-component systems (TCSs) consisting of a histidine kinase and a cognate 
+response regulator are predominant signal transduction systems in bacteria. To 
+avoid cross talk, TCSs are generally thought to be highly insulated from each 
+other. However, this notion is based largely on studies of the HisKA subfamily 
+of histidine kinases, while little information is available for the HWE and 
+HisKA2 subfamilies. The latter have been implicated in the alphaproteobacterial 
+general stress response. Here, we show that in the model organism Caulobacter 
+crescentus an atypical FATGUY-type single-domain response regulator, MrrA, is 
+highly promiscuous in accepting and transferring phosphoryl groups from and to 
+multiple up- and downstream kinases, challenging the current view of strictly 
+insulated TCSs. Instead, we propose that FATGUY response regulators have evolved 
+in alphaproteobacteria as central phosphorylation hubs to broadly sample 
+information and distribute phosphoryl groups between the general stress response 
+pathway and other TCSs, thereby coordinating multiple cellular behaviors.
+
+Copyright © 2018 Lori et al.
+
+DOI: 10.1128/mBio.00809-18
+PMCID: PMC5964349
+PMID: 29789370 [Indexed for MEDLINE]

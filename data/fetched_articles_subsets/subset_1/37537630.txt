@@ -1,0 +1,70 @@
+1. Cancer Cell Int. 2023 Aug 3;23(1):154. doi: 10.1186/s12935-023-03006-5.
+
+Decoding the prognostic significance of integrator complex subunit 9 (INTS9) in 
+glioma: links to TP53 mutations, E2F signaling, and inflammatory 
+microenvironments.
+
+Lin YC(1)(2), Chang PC(3), Hueng DY(2)(3)(4), Huang SM(2)(3)(5), Li YF(6)(7)(8).
+
+Author information:
+(1)Department of Pathology and Laboratory Medicine, Taoyuan Armed Forces General 
+Hospital, Taoyuan, 325, Taiwan, Republic of China.
+(2)Graduate Institute of Medical Sciences, National Defense Medical Center, 
+Taipe, 114, Taiwan, Republic of China.
+(3)Graduate Institute of Life Sciences, National Defense Medical Center, Taipe, 
+114, Taiwan, Republic of China.
+(4)Department of Neurologic Surgery, Tri-Service General Hospital, National 
+Defense Medical Center, Taipe, 114, Taiwan, Republic of China.
+(5)Department of Biochemistry, National Defense Medical Center, Taipe, 114, 
+Taiwan, Republic of China.
+(6)Graduate Institute of Medical Sciences, National Defense Medical Center, 
+Taipe, 114, Taiwan, Republic of China. liyaofeng1109@gmail.com.
+(7)Graduate Institute of Life Sciences, National Defense Medical Center, Taipe, 
+114, Taiwan, Republic of China. liyaofeng1109@gmail.com.
+(8)Department of Pathology, Tri-Service General Hospital, National Defense 
+Medical Center, Taipe, 114, Taiwan, Republic of China. liyaofeng1109@gmail.com.
+
+INTRODUCTION: Gliomas, a type of brain neoplasm, are prevalent and often fatal. 
+Molecular diagnostics have improved understanding, but treatment options are 
+limited. This study investigates the role of INTS9 in processing small nuclear 
+RNA (snRNA), which is crucial to generating mature messenger RNA (mRNA). We aim 
+to employ advanced bioinformatics analyses with large-scale databases and 
+conduct functional experiments to elucidate its potential role in glioma 
+therapeutics.
+MATERIALS AND METHODS: We collected genomic, proteomic, and 
+Whole-Exon-Sequencing data from The Cancer Genome Atlas (TCGA) and Chinese 
+Glioma Genome Atlas (CGGA) for bioinformatic analyses. Then, we validated INTS9 
+protein expression through immunohistochemistry and assessed its correlation 
+with P53 and KI67 protein expression. Gene Set Enrichment Analysis (GSEA) was 
+performed to identify altered signaling pathways, and functional experiments 
+were conducted on three cell lines treated with siINTS9. Then, we also 
+investigate the impacts of tumor heterogeneity on INTS9 expression by 
+integrating single-cell sequencing, 12-cell state prediction, and CIBERSORT 
+analyses. Finally, we also observed longitudinal changes in INTS9 using the 
+Glioma Longitudinal Analysis (GLASS) dataset.
+RESULTS: Our findings showed increased INTS9 levels in tumor tissue compared to 
+non-neoplastic components, correlating with high tumor grading and proliferation 
+index. TP53 mutation was the most notable factor associated with upregulated 
+INTS9, along with other potential contributors, such as combined chromosome 7 
+gain/10 loss, TERT promoter mutation, and increased Tumor Mutational Burden 
+(TMB). In GSEA analyses, we also linked INTS9 with enhanced cell proliferation 
+and inflammation signaling. Downregulating INTS9 impacted cellular proliferation 
+and cell cycle regulation during the function validation. In the context of the 
+12 cell states, INTS9 correlated with tumor-stem and tumor-proliferative-stem 
+cells. CIBERSORT analyses revealed increased INTS9 associated with increased 
+macrophage M0 and M2 but depletion of monocytes. Longitudinally, we also noticed 
+that the INTS9 expression declined during recurrence in IDH wildtype.
+CONCLUSION: This study assessed the role of INTS9 protein in glioma development 
+and its potential as a therapeutic target. Results indicated elevated INTS9 
+levels were linked to increased proliferation capacity, higher tumor grading, 
+and poorer prognosis, potentially resulting from TP53 mutations. This research 
+highlights the potential of INTS9 as a promising target for glioma treatment.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12935-023-03006-5
+PMCID: PMC10401760
+PMID: 37537630
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+authors declare no competing interests.

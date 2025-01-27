@@ -1,0 +1,39 @@
+1. Sensors (Basel). 2021 Dec 10;21(24):8275. doi: 10.3390/s21248275.
+
+A Novel Mobile Device-Based Approach to Quantitative Mobility Measurements for 
+Power Wheelchair Users.
+
+Fu J(1), Zhang S(1), Wang H(2), Zhao YD(3), Qian G(1).
+
+Author information:
+(1)Department of Computer Science, University of Central Oklahoma, Edmond, OK 
+73034, USA.
+(2)Department of Rehabilitation Science, University of Oklahoma Health Sciences 
+Center, Oklahoma City, OK 73104, USA.
+(3)Department of Biostatistics and Epidemiology, University of Oklahoma Health 
+Sciences Center, Oklahoma City, OK 73104, USA.
+
+This study is motivated by the fact that there are currently no widely used 
+applications available to quantitatively measure a power wheelchair user's 
+mobility, which is an important indicator of quality of life. To address this 
+issue, we propose an approach that allows power wheelchair users to use their 
+own mobile devices, e.g., a smartphone or smartwatch, to non-intrusively collect 
+mobility data in their daily life. However, the convenience of data collection 
+brings substantial challenges in data analysis because the data patterns 
+associated with wheelchair maneuvers are not as strong as other activities, 
+e.g., walking, running, etc. In addition, the built-in sensors in different 
+mobile devices create significant heterogeneity in terms of sensitivity, noise 
+patterns, sampling settings, etc. To address the aforementioned challenges, we 
+developed a novel approach composed of algorithms that work collaboratively to 
+reduce noise, identify patterns intrinsic to wheelchair maneuvers, and finalize 
+mobility analysis by removing spikes and dips caused by abrupt maneuver changes. 
+We conducted a series of experiments to evaluate the proposed approach. 
+Experimental results showed that our approach could accurately determine 
+wheelchair maneuvers regardless of the models and placements of the mobile 
+devices.
+
+DOI: 10.3390/s21248275
+PMCID: PMC8705856
+PMID: 34960371 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

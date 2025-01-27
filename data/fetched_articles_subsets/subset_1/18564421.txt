@@ -1,0 +1,45 @@
+1. BMC Syst Biol. 2008 Jun 18;2:51. doi: 10.1186/1752-0509-2-51.
+
+Time-resolved metabolomics reveals metabolic modulation in rice foliage.
+
+Sato S(1), Arita M, Soga T, Nishioka T, Tomita M.
+
+Author information:
+(1)Institute for Advanced Biosciences, Keio University, Tsuruoka, Japan. 
+n03615ss@sfc.keio.ac.jp
+
+BACKGROUND: To elucidate the interaction of dynamics among modules that 
+constitute biological systems, comprehensive datasets obtained from "omics" 
+technologies have been used. In recent plant metabolomics approaches, the 
+reconstruction of metabolic correlation networks has been attempted using 
+statistical techniques. However, the results were unsatisfactory and effective 
+data-mining techniques that apply appropriate comprehensive datasets are needed.
+RESULTS: Using capillary electrophoresis mass spectrometry (CE-MS) and capillary 
+electrophoresis diode-array detection (CE-DAD), we analyzed the dynamic changes 
+in the level of 56 basic metabolites in plant foliage (Oryza sativa L. ssp. 
+japonica) at hourly intervals over a 24-hr period. Unsupervised clustering of 
+comprehensive metabolic profiles using Kohonen's self-organizing map (SOM) 
+allowed classification of the biochemical pathways activated by the light and 
+dark cycle. The carbon and nitrogen (C/N) metabolism in both periods was also 
+visualized as a phenotypic linkage map that connects network modules on the 
+basis of traditional metabolic pathways rather than pairwise correlations among 
+metabolites. The regulatory networks of C/N assimilation/dissimilation at each 
+time point were consistent with previous works on plant metabolism. In response 
+to environmental stress, glutathione and spermidine fluctuated synchronously 
+with their regulatory targets. Adenine nucleosides and nicotinamide coenzymes 
+were regulated by phosphorylation and dephosphorylation. We also demonstrated 
+that SOM analysis was applicable to the estimation of unidentifiable metabolites 
+in metabolome analysis. Hierarchical clustering of a correlation coefficient 
+matrix could help identify the bottleneck enzymes that regulate metabolic 
+networks.
+CONCLUSION: Our results showed that our SOM analysis with appropriate metabolic 
+time-courses effectively revealed the synchronous dynamics among metabolic 
+modules and elucidated the underlying biochemical functions. The application of 
+discrimination of unidentified metabolites and the identification of bottleneck 
+enzymatic steps even to non-targeted comprehensive analysis promise to 
+facilitate an understanding of large-scale interactions among components in 
+biological systems.
+
+DOI: 10.1186/1752-0509-2-51
+PMCID: PMC2442833
+PMID: 18564421 [Indexed for MEDLINE]

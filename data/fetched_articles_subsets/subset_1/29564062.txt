@@ -1,0 +1,48 @@
+1. Gastroenterol Hepatol Bed Bench. 2018 Winter;11(1):27-33.
+
+Protein-protein interaction analysis of Alzheimer`s disease and NAFLD based on 
+systems biology methods unhide common ancestor pathways.
+
+Karbalaei R(1), Allahyari M(2), Rezaei-Tavirani M(1), Asadzadeh-Aghdaei H(3), 
+Zali MR(4).
+
+Author information:
+(1)Proteomics Research Center, Faculty of Paramedical Sciences, Shahid Beheshti 
+University of Medical Sciences, Tehran, Iran.
+(2)Drug Design and Bioinformatics Unit, Medical Biotechnology Department, 
+Biotechnology Research Center, Pasteur Institute of Iran, Tehran, Iran.
+(3)Basic and Molecular Epidemiology of Gastrointestinal Disorders Research 
+Center, Research Institute for Gastroenterology and Liver Diseases, Shahid 
+Beheshti University of Medical Sciences, Tehran, Iran.
+(4)Gastroenterology and Liver Diseases Research Center, Research Institute for 
+Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran.
+
+AIM: Analysis reconstruction networks from two diseases, NAFLD and Alzheimer`s 
+diseases and their relationship based on systems biology methods.
+BACKGROUND: NAFLD and Alzheimer`s diseases are two complex diseases, with 
+progressive prevalence and high cost for countries. There are some reports on 
+relation and same spreading pathways of these two diseases. In addition, they 
+have some similar risk factors, exclusively lifestyle such as feeding, exercises 
+and so on. Therefore, systems biology approach can help to discover their 
+relationship.
+METHODS: DisGeNET and STRING databases were sources of disease genes and 
+constructing networks. Three plugins of Cytoscape software, including 
+ClusterONE, ClueGO and CluePedia, were used to analyze and cluster networks and 
+enrichment of pathways. An R package used to define best centrality method. 
+Finally, based on degree and Betweenness, hubs and bottleneck nodes were 
+defined.
+RESULTS: Common genes between NAFLD and Alzheimer`s disease were 190 genes that 
+used construct a network with STRING database. The resulting network contained 
+182 nodes and 2591 edges and comprises from four clusters. Enrichment of these 
+clusters separately lead to carbohydrate metabolism, long chain fatty acid and 
+regulation of JAK-STAT and IL-17 signaling pathways, respectively. Also seven 
+genes selected as hub-bottleneck include: IL6, AKT1, TP53, TNF, JUN, VEGFA and 
+PPARG. Enrichment of these proteins and their first neighbors in network by OMIM 
+database lead to diabetes and obesity as ancestors of NAFLD and AD.
+CONCLUSION: Systems biology methods, specifically PPI networks, can be useful 
+for analyzing complicated related diseases. Finding Hub and bottleneck proteins 
+should be the goal of drug designing and introducing disease markers.
+
+PMCID: PMC5849115
+PMID: 29564062

@@ -1,0 +1,49 @@
+1. Biomed Res Int. 2020 May 15;2020:3872314. doi: 10.1155/2020/3872314.
+eCollection  2020.
+
+Noninvasive Prediction of TERT Promoter Mutations in High-Grade Glioma by 
+Radiomics Analysis Based on Multiparameter MRI.
+
+Tian H(1), Wu H(1), Wu G(1), Xu G(1).
+
+Author information:
+(1)Department of Radiology, Zhongnan Hospital of Wuhan University, Wuhan 430071, 
+China.
+
+OBJECTIVES: To investigate the predictors of telomerase reverse transcriptase 
+(TERT) promoter mutations in adults suffered from high-grade glioma (HGG) 
+through radiomics analysis, develop a noninvasive approach to evaluate TERT 
+promoter mutations.
+METHODS: 126 adult patients with HGG (88 in the training cohort and 38 in the 
+validation cohort) were retrospectively enrolled. Totally 5064 radiomics 
+features were, respectively, extracted from three VOIs (necrosis, enhanced, and 
+edema) in MRI. Firstly, an optimal radiomics signature (Radscore) was 
+established based on LASSO regression. Secondly, univariate and multivariate 
+logistic regression analyses were performed to investigate important potential 
+variables as predictors of TERT promoter mutations. Besides, multiparameter 
+models were established and evaluated. Eventually, an optimal model was 
+visualized as radiomics nomogram for clinical evaluations.
+RESULTS: 6 radiomics features were selected to build Radscore signature through 
+LASSO regression. Among them, 5 were from necrotic VOIs and 1 was from enhanced 
+ones. With univariate and multivariate analysis, necrotic volume percentages of 
+core (CNV), Age, Cho/Cr, Lac, and Radscore were significantly higher in TERTm 
+than in TERTw (p < 0.05). 4 models were built in our study. Compared with Model 
+B (Age, Cho/Cr, Lac, and Radscore), Model A (Age, Cho/Cr, Lac, Radscore, and 
+CNV) has a larger AUC in both training (0.955 vs. 0.917, p = 0.049) and 
+validation (0.889 vs. 0.868, p = 0.039) cohorts. It also has higher performances 
+in net reclassification improvement (NRI), integrated discrimination improvement 
+(IDI), and decision curve analysis (DCA) evaluation. Conclusively, Model A was 
+visualized as a radiomics nomogram. Calibration curve shows a good agreement 
+between estimated and actual probabilities.
+CONCLUSIONS: Age, Cho/Cr, Lac, CNV, and Radscore are important indicators for 
+TERT promoter mutation predictions in HGG. Tumor necrosis seems to be closely 
+related to TERT promoter mutations. Radiomics nomogram based on multiparameter 
+MRI and CNV has higher prediction accuracies.
+
+Copyright © 2020 Hongan Tian et al.
+
+DOI: 10.1155/2020/3872314
+PMCID: PMC7245686
+PMID: 32509858 [Indexed for MEDLINE]
+
+Conflict of interest statement: All the authors declare no conflict of interest.

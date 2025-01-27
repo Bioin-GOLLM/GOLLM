@@ -1,0 +1,61 @@
+1. Front Genet. 2023 Jan 4;13:1058668. doi: 10.3389/fgene.2022.1058668.
+eCollection  2022.
+
+Identification of extremely GC-rich micro RNAs for RT-qPCR data normalization in 
+human plasma.
+
+Baumann V(1), Athanasiou AT(1), Faridani OR(2)(3), Schwerdtfeger AR(4), Wallner 
+B(5), Steinborn R(1)(6).
+
+Author information:
+(1)Genomics Core Facility, VetCore, University of Veterinary Medicine, Vienna, 
+Austria.
+(2)Garvan Institute of Medical Research, Sydney, NSW, Australia.
+(3)Lowy Cancer Research Centre, School of Biomedical Sciences, University of New 
+South Wales, Sydney, NSW, Australia.
+(4)Institute of Psychology, Karl-Franzens-University Graz, Graz, Austria.
+(5)Department of Behavioral and Cognitive Biology, University of Vienna, Vienna, 
+Austria.
+(6)Department of Microbiology, Immunobiology and Genetics, University of Vienna, 
+Vienna, Austria.
+
+Erratum in
+    Front Genet. 2023 May 31;14:1216150. doi: 10.3389/fgene.2023.1216150.
+
+We aimed at extending the repertoire of high-quality miRNA normalizers for 
+reverse transcription-quantitative PCR (RT-qPCR) of human plasma with special 
+emphasis on the extremely guanine-cytosine-rich portion of the miRNome. For 
+high-throughput selection of stable candidates, microarray technology was 
+preferred over small-RNA sequencing (sRNA-seq) since the latter underrepresented 
+miRNAs with a guanine-cytosine (GC) content of at least 75% (p = 0.0002, n = 2). 
+miRNA abundances measured on the microarray were ranked for consistency and 
+uniformity using nine normalization approaches. The eleven most stable sequences 
+included miRNAs of moderate, but also extreme GC content (45%-65%: miR-320d, 
+miR-425-5p, miR-185-5p, miR-486-5p; 80%-95%: miR-1915-3p, miR-3656-5p, 
+miR-3665-5p, miR-3960-5p, miR-4488-5p, miR-4497 and miR-4787-5p). In contrast, 
+the seven extremely GC-rich miRNAs were not found in the two plasma miRNomes 
+screened by sRNA-seq. Stem-loop RT-qPCR was employed for stability verification 
+in 32 plasma samples of healthy male Caucasians (age range: 18-55 years). In 
+general, inter-individual variance of miRNA abundance was low or very low as 
+indicated by coefficient of variation (CV) values of 0.6%-8.2%. miR-3665 and 
+miR-1915-3p outperformed in this analysis (CVs: 0.6 and 2.4%, respectively). The 
+eight most stable sequences included four extremely GC-rich miRNAs (miR-1915-3p, 
+miR-3665, miR-4787-5p and miR-4497). The best-performing duo normalization 
+factor (NF) for the condition of human plasma, miR-320d and miR-4787-5p, also 
+included a GC-extreme miRNA. In summary, the identification of extremely 
+guanine-cytosine-rich plasma normalizers will help to increase accuracy of 
+PCR-based miRNA quantification, thus raise the potential that miRNAs become 
+markers for psychological stress reactions or early and precise diagnosis of 
+clinical phenotypes. The novel miRNAs might also be useful for orthologous 
+contexts considering their conservation in related animal genomes.
+
+Copyright © 2023 Baumann, Athanasiou, Faridani, Schwerdtfeger, Wallner and 
+Steinborn.
+
+DOI: 10.3389/fgene.2022.1058668
+PMCID: PMC9846067
+PMID: 36685854
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

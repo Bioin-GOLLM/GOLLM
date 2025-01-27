@@ -1,0 +1,74 @@
+1. Int J Mol Sci. 2023 Feb 14;24(4):3814. doi: 10.3390/ijms24043814.
+
+Renin-Angiotensin-Aldosterone System Inhibitors and Development of Gynecologic 
+Cancers: A 23 Million Individual Population-Based Study.
+
+Nguyen NTH(1)(2), Nguyen PA(3)(4), Huang CW(5), Wang CH(6)(7), Lin MC(6)(8)(9), 
+Hsu MH(3)(10), Bao HB(2)(11), Chien SC(5)(6), Yang HC(4)(5)(6)(12).
+
+Author information:
+(1)School of Health Care Administration, College of Management, Taipei Medical 
+University, Taipei 11031, Taiwan.
+(2)Health Personnel Training Institute, University of Medicine and Pharmacy, Hue 
+University, Hue 491-20, Vietnam.
+(3)Clinical Data Center, Office of Data Science, Taipei Medical University, 
+Taipei 106339, Taiwan.
+(4)Clinical Big Data Research Center, Taipei Medical University Hospital, Taipei 
+11031, Taiwan.
+(5)International Center for Health Information Technology (ICHIT), College of 
+Medical Science and Technology, Taipei Medical University, Taipei 106339, 
+Taiwan.
+(6)Graduate Institute of Biomedical Informatics, College of Medical Science and 
+Technology, Taipei Medical University, Taipei 106339, Taiwan.
+(7)Biomedical Informatics & Data Science (BIDS) Section, School of Medicine, 
+Johns Hopkins University, 2024 E Monument St, Suite 1-200, Baltimore, MD 21205, 
+USA.
+(8)Department of Neurosurgery, Shuang Ho Hospital, Taipei Medical University, 
+New Taipei City 235041, Taiwan.
+(9)Taipei Neuroscience Institute, Taipei Medical University, Taipei 11031, 
+Taiwan.
+(10)Graduate Institute of Data Science, College of Management, Taipei Medical 
+University, Taipei 11031, Taiwan.
+(11)Internal Medicine Department, University of Medicine and Pharmacy, Hue 
+University, Hue 491-20, Vietnam.
+(12)Research Center of Big Data and Meta-Analysis, Wan Fang Hospital, Taipei 
+Medical University, Taipei 116079, Taiwan.
+
+The chronic receipt of renin-angiotensin-aldosterone system (RAAS) inhibitors 
+including angiotensin-converting enzyme inhibitors (ACEIs) and angiotensin 
+receptor blockers (ARBs) have been assumed to be associated with a significant 
+decrease in overall gynecologic cancer risks. This study aimed to investigate 
+the associations of long-term RAAS inhibitors use with gynecologic cancer risks. 
+A large population-based case-control study was conducted from claim databases 
+of Taiwan's Health and Welfare Data Science Center (2000-2016) and linked with 
+Taiwan Cancer Registry (1979-2016). Each eligible case was matched with four 
+controls using propensity matching score method for age, sex, month, and year of 
+diagnosis. We applied conditional logistic regression with 95% confidence 
+intervals to identify the associations of RAAS inhibitors use with gynecologic 
+cancer risks. The statistical significance threshold was p < 0.05. A total of 
+97,736 gynecologic cancer cases were identified and matched with 390,944 
+controls. The adjusted odds ratio for RAAS inhibitors use and overall 
+gynecologic cancer was 0.87 (95% CI: 0.85-0.89). Cervical cancer risk was found 
+to be significantly decreased in the groups aged 20-39 years (aOR: 0.70, 95% CI: 
+0.58-0.85), 40-64 years (aOR: 0.77, 95% CI: 0.74-0.81), ≥65 years (aOR: 0.87, 
+95% CI: 0.83-0.91), and overall (aOR: 0.81, 95% CI: 0.79-0.84). Ovarian cancer 
+risk was significantly lower in the groups aged 40-64 years (aOR: 0.76, 95% CI: 
+0.69-0.82), ≥65 years (aOR: 0.83, 95% CI: 0.75-092), and overall (aOR: 0.79, 95% 
+CI: 0.74-0.84). However, a significantly increased endometrial cancer risk was 
+observed in users aged 20-39 years (aOR: 2.54, 95% CI: 1.79-3.61), 40-64 years 
+(aOR: 1.08, 95% CI: 1.02-1.14), and overall (aOR: 1.06, 95% CI: 1.01-1.11). 
+There were significantly reduced risks of gynecologic cancers with ACEIs users 
+in the groups aged 40-64 years (aOR: 0.88, 95% CI: 0.84-0.91), ≥65 years (aOR: 
+0.87, 95% CI: 0.83-0.90), and overall (aOR: 0.88, 95% CI: 0.85-0.80), and ARBs 
+users aged 40-64 years (aOR: 0.91, 95% CI: 0.86-0.95). Our case-control study 
+demonstrated that RAAS inhibitors use was associated with a significant decrease 
+in overall gynecologic cancer risks. RAAS inhibitors exposure had lower 
+associations with cervical and ovarian cancer risks, and increased endometrial 
+cancer risk. ACEIs/ARBs use was found to have a preventive effect against 
+gynecologic cancers. Future clinical research is needed to establish causality.
+
+DOI: 10.3390/ijms24043814
+PMCID: PMC9968233
+PMID: 36835224 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest.

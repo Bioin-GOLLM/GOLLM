@@ -1,0 +1,50 @@
+1. Front Physiol. 2021 May 13;12:650449. doi: 10.3389/fphys.2021.650449. 
+eCollection 2021.
+
+Computational Modeling for Antiarrhythmic Drugs for Atrial Fibrillation 
+According to Genotype.
+
+Hwang I(1), Jin Z(1), Park JW(1), Kwon OS(1), Lim B(1), Hong M(1), Kim M(1), Yu 
+HT(1), Kim TH(1), Uhm JS(1), Joung B(1), Lee MH(1), Pak HN(1).
+
+Author information:
+(1)Yonsei University Health System, Seoul, South Korea.
+
+Erratum in
+    Front Physiol. 2022 Dec 02;13:991997. doi: 10.3389/fphys.2022.991997.
+
+Background: The efficacy of antiarrhythmic drugs (AAD) can vary in patients with 
+atrial fibrillation (AF), and the PITX2 gene affects the responsiveness of AADs. 
+We explored the virtual AAD (V-AAD) responses between wild-type and PITX2 
++/--deficient AF conditions by realistic in silico AF modeling. Methods: We 
+tested the V-AADs in AF modeling integrated with patients' 3D-computed 
+tomography and 3D-electroanatomical mapping, acquired in 25 patients (68% male, 
+59.8 ± 9.8 years old, 32.0% paroxysmal type). The ion currents for the PITX2 +/- 
+deficiency and each AAD (amiodarone, sotalol, dronedarone, flecainide, and 
+propafenone) were defined based on previous publications. Results: We compared 
+the wild-type and PITX2 +/- deficiency in terms of the action potential duration 
+(APD90), conduction velocity (CV), maximal slope of restitution (Smax), and 
+wave-dynamic parameters, such as the dominant frequency (DF), phase 
+singularities (PS), and AF termination rates according to the V-AADs. The PITX2 
++/--deficient model exhibited a shorter APD90 (p < 0.001), a lower Smax (p < 
+0.001), mean DF (p = 0.012), PS number (p < 0.001), and a longer AF cycle length 
+(AFCL, p = 0.011). Five V-AADs changed the electrophysiology in a dose-dependent 
+manner. AAD-induced AFCL lengthening (p < 0.001) and reductions in the CV (p = 
+0.033), peak DF (p < 0.001), and PS number (p < 0.001) were more significant in 
+PITX2 +/--deficient than wild-type AF. PITX2 +/--deficient AF was easier to 
+terminate with class IC AADs than the wild-type AF (p = 0.018). Conclusions: The 
+computational modeling-guided AAD test was feasible for evaluating the efficacy 
+of multiple AADs in patients with AF. AF wave-dynamic and electrophysiological 
+characteristics are different among the PITX2-deficient and the wild-type 
+genotype models.
+
+Copyright © 2021 Hwang, Park, Kwon, Lim, Hong, Kim, Yu, Kim, Uhm, Joung, Lee and 
+Pak.
+
+DOI: 10.3389/fphys.2021.650449
+PMCID: PMC8155488
+PMID: 34054570
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

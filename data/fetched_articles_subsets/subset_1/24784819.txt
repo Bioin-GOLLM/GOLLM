@@ -1,0 +1,55 @@
+1. Nat Protoc. 2014;9(6):1213-28. doi: 10.1038/nprot.2014.080. Epub 2014 May 1.
+
+Deep brain optical measurements of cell type-specific neural activity in 
+behaving mice.
+
+Cui G(1), Jun SB(2), Jin X(3), Luo G(1), Pham MD(1), Lovinger DM(4), Vogel 
+SS(5), Costa RM(6).
+
+Author information:
+(1)Section on In Vivo Neural Function, Laboratory for Integrative Neuroscience, 
+National Institute on Alcohol Abuse and Alcoholism, National Institutes of 
+Health, Bethesda, Maryland, USA.
+(2)Department of Electronics Engineering, Ewha Womans University, Seoul, Korea.
+(3)1] Section on In Vivo Neural Function, Laboratory for Integrative 
+Neuroscience, National Institute on Alcohol Abuse and Alcoholism, National 
+Institutes of Health, Bethesda, Maryland, USA. [2] Molecular Neurobiology 
+Laboratory, The Salk Institute for Biological Studies, La Jolla, California, 
+USA.
+(4)1] Section on In Vivo Neural Function, Laboratory for Integrative 
+Neuroscience, National Institute on Alcohol Abuse and Alcoholism, National 
+Institutes of Health, Bethesda, Maryland, USA. [2] Section on Synaptic 
+Pharmacology, Laboratory for Integrative Neuroscience, National Institute on 
+Alcohol Abuse and Alcoholism, National Institutes of Health, Bethesda, Maryland, 
+USA.
+(5)Section on Cellular Biophotonics, Laboratory for Molecular Physiology, 
+National Institute on Alcohol Abuse and Alcoholism, National Institutes of 
+Health, Bethesda, Maryland, USA.
+(6)1] Section on In Vivo Neural Function, Laboratory for Integrative 
+Neuroscience, National Institute on Alcohol Abuse and Alcoholism, National 
+Institutes of Health, Bethesda, Maryland, USA. [2] Champalimaud Neuroscience 
+Programme at Instituto Gulbenkian de Ciência, Oeiras, Portugal. [3] Champalimaud 
+Centre for the Unknown, Lisbon, Portugal.
+
+Recent advances in genetically encoded fluorescent sensors enable the monitoring 
+of cellular events from genetically defined groups of neurons in vivo. In this 
+protocol, we describe how to use a time-correlated single-photon counting 
+(TCSPC)-based fiber optics system to measure the intensity, emission spectra and 
+lifetime of fluorescent biosensors expressed in deep brain structures in freely 
+moving mice. When combined with Cre-dependent selective expression of 
+genetically encoded Ca(2+) indicators (GECIs), this system can be used to 
+measure the average neural activity from a specific population of cells in mice 
+performing complex behavioral tasks. As an example, we used viral expression of 
+GCaMPs in striatal projection neurons (SPNs) and recorded the fluorescence 
+changes associated with calcium spikes from mice performing a lever-pressing 
+operant task. The whole procedure, consisting of virus injection, behavior 
+training and optical recording, takes 3-4 weeks to complete. With minor 
+adaptations, this protocol can also be applied to recording cellular events from 
+other cell types in deep brain regions, such as dopaminergic neurons in the 
+ventral tegmental area. The simultaneously recorded fluorescence signals and 
+behavior events can be used to explore the relationship between the neural 
+activity of specific brain circuits and behavior.
+
+DOI: 10.1038/nprot.2014.080
+PMCID: PMC4100551
+PMID: 24784819 [Indexed for MEDLINE]

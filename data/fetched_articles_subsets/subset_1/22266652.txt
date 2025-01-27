@@ -1,0 +1,33 @@
+1. Nucleic Acids Res. 2012 May;40(9):3834-48. doi: 10.1093/nar/gks005. Epub 2012 
+Jan 20.
+
+A computational pipeline to discover highly phylogenetically informative genes 
+in sequenced genomes: application to Saccharomyces cerevisiae natural strains.
+
+Ramazzotti M(1), Berná L, Stefanini I, Cavalieri D.
+
+Author information:
+(1)Department of Preclinical and Clinical Pharmacology, University of Florence, 
+Viale G. Pieraccini 6, 50139 Firenze, Italy.
+
+The quest for genes representing genetic relationships of strains or individuals 
+within populations and their evolutionary history is acquiring a novel dimension 
+of complexity with the advancement of next-generation sequencing (NGS) 
+technologies. In fact, sequencing an entire genome uncovers genetic variation in 
+coding and non-coding regions and offers the possibility of studying 
+Saccharomyces cerevisiae populations at the strain level. Nevertheless, the 
+disadvantageous cost-benefit ratio (the amount of details disclosed by NGS 
+against the time-expensive and expertise-demanding data assembly process) still 
+precludes the application of these techniques to the routinely assignment of 
+yeast strains, making the selection of the most reliable molecular markers 
+greatly desirable. In this work we propose an original computational approach to 
+discover genes that can be used as a descriptor of the population structure. We 
+found 13 genes whose variability can be used to recapitulate the phylogeny 
+obtained from genome-wide sequences. The same approach that we prove to be 
+successful in yeasts can be generalized to any other population of individuals 
+given the availability of high-quality genomic sequences and of a clear 
+population structure to be targeted.
+
+DOI: 10.1093/nar/gks005
+PMCID: PMC3351171
+PMID: 22266652 [Indexed for MEDLINE]

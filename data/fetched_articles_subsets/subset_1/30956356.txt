@@ -1,0 +1,48 @@
+1. Math Program. 2018;171(1):433-461. doi: 10.1007/s10107-017-1199-3. Epub 2017
+Nov  14.
+
+New algorithms for maximum disjoint paths based on tree-likeness.
+
+Fleszar K(1), Mnich M(2)(3), Spoerhase J(4).
+
+Author information:
+(1)1Department 1: Algorithms and Complexity, Max-Planck-Institut für Informatik, 
+Campus E1 4, 66123 Saarbrücken, Germany.
+(2)2Department of Quantitative Economics, Maastricht University, P.O. Box 616, 
+6200 MD Maastricht, The Netherlands.
+(3)3Institut für Informatik, Universität Bonn, Friedrich-Ebert-Allee 144, 53113 
+Bonn, Germany.
+(4)4Lehrstuhl für Informatik I, Universität Würzburg, Am Hubland, 97074 
+Würzburg, Germany.
+
+We study the classical  NP -hard problems of finding maximum-size subsets from 
+given sets of k terminal pairs that can be routed via edge-disjoint paths 
+(MaxEDP) or node-disjoint paths (MaxNDP) in a given graph. The approximability 
+of MaxEDP/MaxNDP is currently not well understood; the best known lower bound 
+is  [Formula: see text] , assuming  NP ⊈ DTIME(nO(logn)) . This constitutes a 
+significant gap to the best known approximation upper bound of  [Formula: see 
+text] due to Chekuri et al. (Theory Comput 2:137-146, 2006), and closing this 
+gap is currently one of the big open problems in approximation algorithms. In 
+their seminal paper, Raghavan and Thompson (Combinatorica 7(4):365-374, 1987) 
+introduce the technique of randomized rounding for LPs; their technique gives 
+an  O(1) -approximation when edges (or nodes) may be used by  
+O(log,n,/,log,log,n) paths. In this paper, we strengthen the fundamental results 
+above. We provide new bounds formulated in terms of the feedback vertex set 
+number r of a graph, which measures its vertex deletion distance to a forest. In 
+particular, we obtain the following results:For MaxEDP, we give an  [Formula: 
+see text] -approximation algorithm. Up to a logarithmic factor, our result 
+strengthens the best known ratio  [Formula: see text] due to Chekuri et al., as  
+r ≤ n .Further, we show how to route  Ω(OPT∗) pairs with congestion bounded by  
+O(log(kr)/loglog(kr)) , strengthening the bound obtained by the classic approach 
+of Raghavan and Thompson.For MaxNDP, we give an algorithm that gives the optimal 
+answer in time  (k+r)O(r) · n . This is a substantial improvement on the run 
+time of  2krO(r) · n , which can be obtained via an algorithm by Scheffler. We 
+complement these positive results by proving that MaxEDP is  NP -hard even for  
+r = 1 , and MaxNDP is  W[1] -hard when r is the parameter. This shows that 
+neither problem is fixed-parameter tractable in r unless  FPT = W[1] and that 
+our approximability results are relevant even for very small constant values 
+of r.
+
+DOI: 10.1007/s10107-017-1199-3
+PMCID: PMC6417437
+PMID: 30956356

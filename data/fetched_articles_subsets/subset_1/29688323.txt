@@ -1,0 +1,47 @@
+1. Gigascience. 2018 May 1;7(5):giy047. doi: 10.1093/gigascience/giy047.
+
+SILAC-based phosphoproteomics reveals new PP2A-Cdc55-regulated processes in 
+budding yeast.
+
+Baro B(1), Játiva S(1), Calabria I(1), Vinaixa J(1), Bech-Serra JJ(2), de 
+LaTorre C(2), Rodrigues J(3), Hernáez ML(4), Gil C(4), Barceló-Batllori S(2), 
+Larsen MR(5), Queralt E(1).
+
+Author information:
+(1)Cell Cycle Group, Cancer Epigenetics and Biology Program, Institut 
+d'Investigacions Biomèdica de Bellvitge (IDIBELL), L'Hospitalet de Llobregat, 
+Barcelona, Spain.
+(2)IDIBELL Proteomics Unit, Institut d'Investigacions Biomèdica de Bellvitge, 
+L'Hospitalet de Llobregat, Barcelona, Spain.
+(3)Structural Biology Department, School of Medicine, Stanford, California, USA.
+(4)Proteomics Unit, Parque Científico de Madrid, Facultad de Farmacia, 
+Universidad Complutense de Madrid, Madrid, Spain.
+(5)Department of Biochemistry and Molecular Biology, Odense M, Denmark.
+
+BACKGROUND: Protein phosphatase 2A (PP2A) is a family of conserved 
+serine/threonine phosphatases involved in several essential aspects of cell 
+growth and proliferation. PP2ACdc55 phosphatase has been extensively related to 
+cell cycle events in budding yeast; however, few PP2ACdc55 substrates have been 
+identified. Here, we performed a quantitative mass spectrometry approach to 
+reveal new substrates of PP2ACdc55 phosphatase and new PP2A-related processes in 
+mitotic arrested cells.
+RESULTS: We identified 62 statistically significant PP2ACdc55 substrates 
+involved mainly in actin-cytoskeleton organization. In addition, we validated 
+new PP2ACdc55 substrates such as Slk19 and Lte1, involved in early and late 
+anaphase pathways, and Zeo1, a component of the cell wall integrity pathway. 
+Finally, we constructed docking models of Cdc55 and its substrate Mob1. We found 
+that the predominant interface on Cdc55 is mediated by a protruding loop 
+consisting of residues 84-90, thus highlighting the relevance of these 
+aminoacids for substrate interaction.
+CONCLUSIONS: We used phosphoproteomics of Cdc55-deficient cells to uncover new 
+PP2ACdc55 substrates and functions in mitosis. As expected, several 
+hyperphosphorylated proteins corresponded to Cdk1-dependent substrates, although 
+other kinases' consensus motifs were also enriched in our dataset, suggesting 
+that PP2ACdc55 counteracts and regulates other kinases distinct from Cdk1. 
+Indeed, Pkc1 emerged as a novel node of PP2ACdc55 regulation, highlighting a 
+major role of PP2ACdc55 in actin cytoskeleton and cytokinesis, gene ontology 
+terms significantly enriched in the PP2ACdc55-dependent phosphoproteome.
+
+DOI: 10.1093/gigascience/giy047
+PMCID: PMC5967524
+PMID: 29688323 [Indexed for MEDLINE]

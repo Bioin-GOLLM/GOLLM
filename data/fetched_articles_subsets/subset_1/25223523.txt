@@ -1,0 +1,47 @@
+1. Abdom Imaging. 2015 Mar;40(3):578-86. doi: 10.1007/s00261-014-0246-2.
+
+Comparison of calculated and acquired high b value diffusion-weighted imaging in 
+prostate cancer.
+
+Grant KB(1), Agarwal HK, Shih JH, Bernardo M, Pang Y, Daar D, Merino MJ, Wood 
+BJ, Pinto PA, Choyke PL, Turkbey B.
+
+Author information:
+(1)Molecular Imaging Program, National Cancer Institute (NCI), NIH 10 Center Dr, 
+MSC 1182, Bldg 10, Room B3B85, Bethesda, MD, 20892-1088, USA.
+
+PURPOSE: To determine whether the performance of calculated high b value 
+diffusion-weighted images (DWI) derived from regular lower b value DWI using 
+exponential diffusion decay models (intravoxel incoherent motion = IVIM and 
+diffusional kurtosis = DK) is comparable to acquired high b value DWI in 
+prostate cancer detection.
+MATERIALS AND METHODS: One hundred six patients underwent diagnostic 
+multiparametric prostate MRI at 3T using an endorectal coil. Five b value (b = 
+0, 188, 375, 563, 750 s/mm(2)) DWI and high b value (b = 0, 1000 and 2000 
+s/mm(2)) DWI were acquired. Calculated high b value (b = 1000 s/mm(2) and b = 
+2000 s/mm(2)) DWI were derived from the DWI dataset using DK and IVIM models. 
+Calculated and acquired high b value DWI images were compared for lesion 
+visibility and image quality by two experienced radiologists (1 and 6 years of 
+experience). GEE with Wald test was used to compare the image quality among the 
+four calculated high b value DWI by comparing the proportion of lesions in each 
+model which were comparable to the acquired images. This comparison was done for 
+all lesions and by lesion location (PZ or CG; low apical/anterior or 
+apical/mid/base)
+RESULTS: More lesions were visible on acquired b = 2000 s/mm(2) compared to b = 
+1000 s/mm(2) DWI. Calculated high b value DWI using the IVIM model had 
+approximately the same number of lesions as acquired high b value DWI, whereas 
+the DK model had fewer lesions than acquired images. The image quality of 
+calculated high b value DWI was comparable to that of acquired images, and the 
+highest quality images were obtained with b1000IVIM. The image quality of 
+calculated b1000IVIM was the same as that of acquired DWI in apical/mid/base 
+(98%) locations and comparable in low apical and anterior (95.4%) locations. The 
+image quality of calculated b2000IVIM was inferior in both apical/mid/base 
+(86.2%) locations and comparable in low apical and anterior (83.9%) locations.
+CONCLUSION: Calculated high b value DWI obtained using IVIM model has same 
+lesion visibility as that of acquired DWI. The image quality of calculated high 
+b value DWI relative to corresponding acquired DWI decreases with increase in b 
+value.
+
+DOI: 10.1007/s00261-014-0246-2
+PMCID: PMC5540661
+PMID: 25223523 [Indexed for MEDLINE]

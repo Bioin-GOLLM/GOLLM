@@ -1,0 +1,42 @@
+1. Algorithms Mol Biol. 2012 May 2;7(1):10. doi: 10.1186/1748-7188-7-10.
+
+Pattern matching through Chaos Game Representation: bridging numerical and 
+discrete data structures for biological sequence analysis.
+
+Vinga S(1), Carvalho AM, Francisco AP, Russo LM, Almeida JS.
+
+Author information:
+(1)Instituto de Engenharia de Sistemas e Computadores: Investigação e 
+Desenvolvimento (INESC-ID), R, Alves Redol 9, 1000-029 Lisboa, Portugal. 
+svinga@kdbio.inesc-id.pt.
+
+BACKGROUND: Chaos Game Representation (CGR) is an iterated function that 
+bijectively maps discrete sequences into a continuous domain. As a result, 
+discrete sequences can be object of statistical and topological analyses 
+otherwise reserved to numerical systems. Characteristically, CGR coordinates of 
+substrings sharing an L-long suffix will be located within 2-L distance of each 
+other. In the two decades since its original proposal, CGR has been generalized 
+beyond its original focus on genomic sequences and has been successfully applied 
+to a wide range of problems in bioinformatics. This report explores the 
+possibility that it can be further extended to approach algorithms that rely on 
+discrete, graph-based representations.
+RESULTS: The exploratory analysis described here consisted of selecting 
+foundational string problems and refactoring them using CGR-based algorithms. We 
+found that CGR can take the role of suffix trees and emulate sophisticated 
+string algorithms, efficiently solving exact and approximate string matching 
+problems such as finding all palindromes and tandem repeats, and matching with 
+mismatches. The common feature of these problems is that they use longest common 
+extension (LCE) queries as subtasks of their procedures, which we show to have a 
+constant time solution with CGR. Additionally, we show that CGR can be used as a 
+rolling hash function within the Rabin-Karp algorithm.
+CONCLUSIONS: The analysis of biological sequences relies on algorithmic 
+foundations facing mounting challenges, both logistic (performance) and 
+analytical (lack of unifying mathematical framework). CGR is found to provide 
+the latter and to promise the former: graph-based data structures for sequence 
+analysis operations are entailed by numerical-based data structures produced by 
+CGR maps, providing a unifying analytical framework for a diversity of pattern 
+matching problems.
+
+DOI: 10.1186/1748-7188-7-10
+PMCID: PMC3402988
+PMID: 22551152

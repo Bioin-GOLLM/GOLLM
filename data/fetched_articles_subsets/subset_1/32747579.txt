@@ -1,0 +1,51 @@
+1. Proc Natl Acad Sci U S A. 2020 Aug 18;117(33):19705-19712. doi: 
+10.1073/pnas.1922158117. Epub 2020 Aug 3.
+
+A TDDFT investigation of the Photosystem II reaction center: Insights into the 
+precursors to charge separation.
+
+Kavanagh MA(1)(2), Karlsson JKG(3), Colburn JD(4), Barter LMC(5)(2), Gould 
+IR(5)(2).
+
+Author information:
+(1)Department of Chemistry, Molecular Sciences Research Hub, Imperial College 
+London, W12 0BZ London, United Kingdom.
+(2)Institute of Chemical Biology, Molecular Sciences Research Hub, Imperial 
+College London, W12 0BZ London, United Kingdom.
+(3)Molecular Photonics Laboratory, School of Natural and Environmental Sciences, 
+Newcastle University, Newcastle Upon Tyne NE1 7RU, United Kingdom.
+(4)School of Chemistry, University of St. Andrews, St. Andrews KY16 9ST, 
+Scotland.
+(5)Department of Chemistry, Molecular Sciences Research Hub, Imperial College 
+London, W12 0BZ London, United Kingdom; l.barter@imperial.ac.uk 
+i.gould@imperial.ac.uk.
+
+Photosystem II (PS II) captures solar energy and directs charge separation (CS) 
+across the thylakoid membrane during photosynthesis. The highly oxidizing, 
+charge-separated state generated within its reaction center (RC) drives water 
+oxidation. Spectroscopic studies on PS II RCs are difficult to interpret due to 
+large spectral congestion, necessitating modeling to elucidate key spectral 
+features. Herein, we present results from time-dependent density functional 
+theory (TDDFT) calculations on the largest PS II RC model reported to date. This 
+model explicitly includes six RC chromophores and both the chlorin phytol chains 
+and the amino acid residues <6 Å from the pigments' porphyrin ring centers. 
+Comparing our wild-type model results with calculations on mutant D1-His-198-Ala 
+and D2-His-197-Ala RCs, our simulated absorption-difference spectra reproduce 
+experimentally observed shifts in known chlorophyll absorption bands, 
+demonstrating the predictive capabilities of this model. We find that inclusion 
+of both nearby residues and phytol chains is necessary to reproduce this 
+behavior. Our calculations provide a unique opportunity to observe the molecular 
+orbitals that contribute to the excited states that are precursors to CS. 
+Strikingly, we observe two high oscillator strength, low-lying states, in which 
+molecular orbitals are delocalized over ChlD1 and PheD1 as well as one weaker 
+oscillator strength state with molecular orbitals delocalized over the P 
+chlorophylls. Both these configurations are a match for previously identified 
+exciton-charge transfer states (ChlD1+PheD1-)* and (PD2+PD1-)*. Our results 
+demonstrate the power of TDDFT as a tool, for studies of natural photosynthesis, 
+or indeed future studies of artificial photosynthetic complexes.
+
+Copyright © 2020 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1922158117
+PMCID: PMC7443915
+PMID: 32747579 [Indexed for MEDLINE]

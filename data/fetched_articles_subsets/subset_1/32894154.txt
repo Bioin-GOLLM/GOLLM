@@ -1,0 +1,54 @@
+1. J Transl Med. 2020 Sep 7;18(1):347. doi: 10.1186/s12967-020-02490-x.
+
+Prediction of drug-target interactions from multi-molecular network based on 
+LINE network representation method.
+
+Ji BY(1)(2), You ZH(3)(4), Jiang HJ(1)(2), Guo ZH(1)(2), Zheng K(5).
+
+Author information:
+(1)Xinjiang Technical Institutes of Physics and Chemistry, Chinese Academy of 
+Sciences, Urumqi, 830011, China.
+(2)University of Chinese Academy of Sciences, Beijing, 100049, China.
+(3)Xinjiang Technical Institutes of Physics and Chemistry, Chinese Academy of 
+Sciences, Urumqi, 830011, China. zhuhongyou@ms.xjb.ac.cn.
+(4)University of Chinese Academy of Sciences, Beijing, 100049, China. 
+zhuhongyou@ms.xjb.ac.cn.
+(5)School of Computer Science and Engineering, Cen-tral South University, 
+Changsha, 410083, China.
+
+BACKGROUND: The prediction of potential drug-target interactions (DTIs) not only 
+provides a better comprehension of biological processes but also is critical for 
+identifying new drugs. However, due to the disadvantages of expensive and high 
+time-consuming traditional experiments, only a small section of interactions 
+between drugs and targets in the database were verified experimentally. 
+Therefore, it is meaningful and important to develop new computational methods 
+with good performance for DTIs prediction. At present, many existing 
+computational methods only utilize the single type of interactions between drugs 
+and proteins without paying attention to the associations and influences with 
+other types of molecules.
+METHODS: In this work, we developed a novel network embedding-based 
+heterogeneous information integration model to predict potential drug-target 
+interactions. Firstly, a heterogeneous multi-molecuar information network is 
+built by combining the known associations among protein, drug, lncRNA, disease, 
+and miRNA. Secondly, the Large-scale Information Network Embedding (LINE) model 
+is used to learn behavior information (associations with other nodes) of drugs 
+and proteins in the network. Hence, the known drug-protein interaction pairs can 
+be represented as a combination of attribute information (e.g. protein sequences 
+information and drug molecular fingerprints) and behavior information of 
+themselves. Thirdly, the Random Forest classifier is used for training and 
+prediction.
+RESULTS: In the results, under the five-fold cross validation, our method 
+obtained 85.83% prediction accuracy with 80.47% sensitivity at the AUC of 
+92.33%. Moreover, in the case studies of three common drugs, the top 10 
+candidate targets have 8 (Caffeine), 7 (Clozapine) and 6 (Pioglitazone) are 
+respectively verified to be associated with corresponding drugs.
+CONCLUSIONS: In short, these results indicate that our method can be a powerful 
+tool for predicting potential drug-target interactions and finding unknown 
+targets for certain drugs or unknown drugs for certain targets.
+
+DOI: 10.1186/s12967-020-02490-x
+PMCID: PMC7487884
+PMID: 32894154 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

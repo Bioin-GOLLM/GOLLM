@@ -1,0 +1,48 @@
+1. Ophthalmol Sci. 2022 Jun;2(2):100160. doi: 10.1016/j.xops.2022.100160.
+
+Machine learning OCT predictors of progression from intermediate age-related 
+macular degeneration to geographic atrophy and vision loss.
+
+Lad E(1), Sleiman K(1)(2), Banks DL(3), Hariharan S(3), Clemons T(4), Herrmann 
+R(5), Dauletbekov D(5), Giani A(5), Chong V(5), Chew EY(6), Toth CA(1)(7).
+
+Author information:
+(1)Department of Ophthalmology, Duke University Medical Center, Durham, NC, USA.
+(2)The Statistical Consulting Center, Maa Data Group, Beirut, Lebanon.
+(3)Department of Statistical Science, Duke University, Durham, NC, USA.
+(4)The Emmes Corporation, Rockville, MD, USA.
+(5)Boehringer Ingelheim International GmBH, Ingelheim am Rhein, Germany.
+(6)National Eye Institute, National Institutes of Health, Bethesda, MD, USA.
+(7)Department of Biomedical Engineering, Duke University, Durham, NC, USA.
+
+OBJECTIVE: To describe optical coherence tomography (SD-OCT) features, age, 
+gender, and systemic variables that may be used in machine/deep learning studies 
+to identify high-risk patient subpopulations with high risk of progression to 
+geographic atrophy (GA) and visual acuity (VA) loss in the short term.
+DESIGN: prospective, longitudinal study.
+SUBJECTS: We analyzed imaging data from patients with iAMD (N= 316) enrolled in 
+Age-Related Eye Disease Study 2 (AREDS2) Ancillary SD-OCT with adequate SD-OCT 
+imaging for repeated measures.
+METHODS: Qualitative and quantitative multimodal variables from the database 
+were derived at each yearly visit over 5 years. Based on statistical analyses 
+developed in the field of cardiology, an algorithm was developed and used to 
+select person-years without GA on colour fundus photography or SD-OCT at 
+baseline. The analysis employed machine learning approaches to generate 
+classification trees. Eyes were stratified as low, average, above average and 
+high risk in 1 or 2 years, based on OCT and demographic features by the risk of 
+GA development or decreased VA by 5+ and 10+ letters.
+MAIN OUTCOME MEASURES: new onset of SD-OCT-determined GA and VA loss.
+RESULTS: We identified multiple retinal and subretinal SD-OCT and demographic 
+features from the baseline visit, each of which independently conveyed low to 
+high risk of new-onset GA or VA loss on each of the follow-up visits at 1 or 2 
+years.
+CONCLUSION: We propose a risk-stratified classification of iAMD based on the 
+combination of OCT-derived retinal features, age, gender and systemic variables 
+for progression to OCT-determined GA and/or VA loss. After external validation, 
+the composite early endpoints may be used as exclusion or inclusion criteria for 
+future clinical studies of iAMD focused on prevention of GA progression or VA 
+loss.
+
+DOI: 10.1016/j.xops.2022.100160
+PMCID: PMC9161427
+PMID: 35662803

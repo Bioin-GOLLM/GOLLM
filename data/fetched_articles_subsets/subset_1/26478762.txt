@@ -1,0 +1,39 @@
+1. Ann Appl Stat. 2015 Jun;9(2):640-664. doi: 10.1214/15-AOAS808.
+
+BAYESIAN GROUP LASSO FOR NONPARAMETRIC VARYING-COEFFICIENT MODELS WITH 
+APPLICATION TO FUNCTIONAL GENOME-WIDE ASSOCIATION STUDIES.
+
+Li J(1), Wang Z(2), Li R(3), Wu R(4).
+
+Author information:
+(1)Department of Applied and Computational, Mathematics and Statistics, The 
+University of Notre Dame, Notre Dame, IN 46556. jli7@nd.edu.
+(2)Center for Computational Biology, Beijing Forestry University, Beijing, China 
+100083. zhongwang@bjfu.edu.cn.
+(3)Department of Statistics, The Methodology Center, The Pennsylvania State 
+University, University Park, PA 16802. rli@stat.psu.edu.
+(4)Center for Statistical Genetics, The Pennsylvania State University, Hershey, 
+PA 17033. rwu@hes.hmc.psu.edu.
+
+Although genome-wide association studies (GWAS) have proven powerful for 
+comprehending the genetic architecture of complex traits, they are challenged by 
+a high dimension of single-nucleotide polymorphisms (SNPs) as predictors, the 
+presence of complex environmental factors, and longitudinal or functional 
+natures of many complex traits or diseases. To address these challenges, we 
+propose a high-dimensional varying-coefficient model for incorporating 
+functional aspects of phenotypic traits into GWAS to formulate a so-called 
+functional GWAS or fGWAS. Bayesian group lasso and the associated MCMC 
+algorithms are developed to identify significant SNPs and estimate how they 
+affect longitudinal traits through time-varying genetic actions. The model is 
+generalized to analyze the genetic control of complex traits using 
+subject-specific sparse longitudinal data. The statistical properties of the new 
+model are investigated through simulation studies. We use the new model to 
+analyze a real GWAS data set from the Framingham Heart Study, leading to the 
+identification of several significant SNPs associated with age-specific changes 
+of body mass index. The fGWAS model, equipped with Bayesian group lassso, will 
+provide a useful tool for genetic and developmental analysis of complex traits 
+or diseases.
+
+DOI: 10.1214/15-AOAS808
+PMCID: PMC4605444
+PMID: 26478762

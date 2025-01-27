@@ -1,0 +1,44 @@
+1. PLoS One. 2019 Jul 11;14(7):e0219715. doi: 10.1371/journal.pone.0219715. 
+eCollection 2019.
+
+A new toolkit for gene tagging in Candida albicans containing recyclable 
+markers.
+
+Dueñas-Santero E(1), Santos-Almeida A(1), Rojo-Dominguez P(2), Del Rey F(1), 
+Correa-Bordes J(2), Vázquez de Aldana CR(1).
+
+Author information:
+(1)Instituto de Biología Funcional y Genómica (IBFG), Consejo Superior de 
+Investigaciones Científicas/Universidad de Salamanca, Salamanca, Spain.
+(2)Departamento de Ciencias Biomédicas, Universidad de Extremadura, Badajoz, 
+Spain.
+
+Gene manipulation and epitope tagging are essential tools for understanding the 
+molecular function of specific genes. The opportunistic human pathogen Candida 
+albicans is a diploid fungus that utilizes a non-canonical genetic code. Since 
+selection markers available in this organism are scarce, several tools based on 
+recyclable markers have been developed for gene disruption, such as the Clox 
+system. This system relies on the Cre recombinase, which recycles selection 
+markers flanked by loxP sites with high efficiency, facilitating single marker 
+or multi-marker recycling. However, PCR-based modules for epitope tagging, such 
+the pFA-modules, mainly use limited non-recyclable auxotrophic markers. To solve 
+this problem, we have used a Gibson assembly strategy to construct a set of new 
+plasmids where the auxotrophic markers of the pFA vectors were swapped with five 
+recyclable marker modules of the Clox system, enhancing the versatility of the 
+pFA plasmids. This new toolkit, named pFA-Clox, is composed of 36 new vectors 
+for gene disruption and epitope tagging (GFP, 3xGFP, mCherry, 3xHA, 5xmyc and 
+TAP). These plasmids contain the dominant NAT1 marker, as well as URA3, HIS1 and 
+ARG4 cassettes, thereby permitting functional analysis of laboratory strains as 
+well as clinical isolates of C. albicans. In summary, we have adapted the Clox 
+system to the pFA-backbone vectors. Thus, the set of primers used for the 
+amplification of previously published pFA modules can also be utilized in this 
+new pFA-Clox system. Therefore, this new toolkit harbors the advantages of both 
+systems, allowing accelerated gene modification strategies that could reduce 
+time and costs in strain construction for C. albicans.
+
+DOI: 10.1371/journal.pone.0219715
+PMCID: PMC6622542
+PMID: 31295309 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

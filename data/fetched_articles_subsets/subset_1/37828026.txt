@@ -1,0 +1,77 @@
+1. Nat Commun. 2023 Oct 12;14(1):6422. doi: 10.1038/s41467-023-42156-y.
+
+Oncogenic context shapes the fitness landscape of tumor suppression.
+
+Blair LM(#)(1), Juan JM(#)(1), Sebastian L(1), Tran VB(1), Nie W(1), Wall GD(1), 
+Gerceker M(1), Lai IK(1), Apilado EA(1), Grenot G(1), Amar D(1)(2)(3), Foggetti 
+G(4), Do Carmo M(5), Ugur Z(4), Deng D(6), Chenchik A(6), Paz Zafra M(7)(8)(9), 
+Dow LE(7)(10)(11), Politi K(4)(5)(12), MacQuitty JJ(1), Petrov DA(13)(14), 
+Winslow MM(15)(16), Rosen MJ(17), Winters IP(18).
+
+Author information:
+(1)D2G Oncology, Mountain View, CA, USA.
+(2)Department of Biomedical Data Science, Stanford University School of 
+Medicine, Stanford, CA, USA.
+(3)Department of Cardiovascular Medicine and the Cardiovascular Institute, 
+Stanford University School of Medicine, Stanford, CA, USA.
+(4)Yale Cancer Center, Yale School of Medicine, New Haven, CT, USA.
+(5)Department of Pathology, Yale School of Medicine, New Haven, CT, USA.
+(6)Cellecta, Mountain View, CA, USA.
+(7)Sandra and Edward Meyer Cancer Center, Department of Medicine, Weill Cornell 
+Medicine, New York, NY, USA.
+(8)Excellence Research Unit "Modeling Nature" (MNat), University of Granada, 
+E-18016, Granada, Spain.
+(9)Instituto de Investigación Biosanitaria de Granada (ibs.GRANADA), E-18071, 
+Granada, Spain.
+(10)Weill Cornell Graduate School of Medical Sciences, Weill Cornell Medicine, 
+New York, NY, USA.
+(11)Department of Medicine, Weill Cornell Medicine, New York, NY, USA.
+(12)Section of Medical Oncology, Department of Internal Medicine, Yale School of 
+Medicine, New Haven, CT, USA.
+(13)Department of Biology, Stanford University, Stanford, CA, USA.
+(14)Chan Zuckerberg BioHub, San Francisco, CA, USA.
+(15)Department of Genetics, Stanford University School of Medicine, Stanford, 
+CA, USA.
+(16)Department of Pathology, Stanford University School of Medicine, Stanford, 
+CA, USA.
+(17)D2G Oncology, Mountain View, CA, USA. mike@d2g-oncology.com.
+(18)D2G Oncology, Mountain View, CA, USA. ian@d2g-oncology.com.
+(#)Contributed equally
+
+Tumors acquire alterations in oncogenes and tumor suppressor genes in an 
+adaptive walk through the fitness landscape of tumorigenesis. However, the 
+interactions between oncogenes and tumor suppressor genes that shape this 
+landscape remain poorly resolved and cannot be revealed by human cancer genomics 
+alone. Here, we use a multiplexed, autochthonous mouse platform to model and 
+quantify the initiation and growth of more than one hundred genotypes of lung 
+tumors across four oncogenic contexts: KRAS G12D, KRAS G12C, BRAF V600E, and 
+EGFR L858R. We show that the fitness landscape is rugged-the effect of tumor 
+suppressor inactivation often switches between beneficial and deleterious 
+depending on the oncogenic context-and shows no evidence of diminishing-returns 
+epistasis within variants of the same oncogene. These findings argue against a 
+simple linear signaling relationship amongst these three oncogenes and imply a 
+critical role for off-axis signaling in determining the fitness effects of 
+inactivating tumor suppressors.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41467-023-42156-y
+PMCID: PMC10570323
+PMID: 37828026 [Indexed for MEDLINE]
+
+Conflict of interest statement: L.M.B., J.M.J., L.S., V.B.T., G.D.W., M.G., 
+I.K.L., E.A.A., G.G., D.A., J.J.M., and M.J.R. are current or former employees 
+and shareholders of D2G Oncology. I.P.W. is a co-founder, employee, and 
+shareholder of D2G Oncology. D.A.P. and M.M.W. are co-founders, shareholders, 
+members of the board of directors, and compensated scientific advisors of D2G 
+Oncology. I.P.W., D.A.P., and M.M.W. are co-inventors of patents relating to 
+technologies for autochthonous mouse models of human cancer, which D2G Oncology 
+has exclusively licensed from Stanford University. D.D. and A.C. are employees 
+and shareholders of Cellecta. L.E.D. is a scientific advisor and holds equity in 
+Mirimus. L.E.D., M.P.Z., and Cornell University have licensed the technology 
+described in this manuscript. K.P. is co-inventor on a patent related to EGFR 
+T790M mutation testing issued, licensed, and with royalties paid from 
+MSKCC/MolecularMD. K.P. reports grants to her institution from Boehringer 
+Ingelheim, AstraZeneca, Roche/Genentech, and D2G Oncology, and consulting fees 
+from AstraZeneca and Janssen. The remaining authors declare no competing 
+financial interests.

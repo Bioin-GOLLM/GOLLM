@@ -1,0 +1,37 @@
+1. Genome Biol. 2006;7(7):R65. doi: 10.1186/gb-2006-7-7-R65.
+
+Phylogenetically widespread alternative splicing at unusual GYNGYN donors.
+
+Hiller M(1), Huse K, Szafranski K, Rosenstiel P, Schreiber S, Backofen R, 
+Platzer M.
+
+Author information:
+(1)Institute of Computer Science, Albert-Ludwigs-University Freiburg, 
+Georges-Koehler-Allee 106, 79110 Freiburg, Germany. 
+hiller@informatik.uni-freiburg.de
+
+BACKGROUND: Splice donor sites have a highly conserved GT or GC dinucleotide and 
+an extended intronic consensus sequence GTRAGT that reflects the sequence 
+complementarity to the U1 snRNA. Here, we focus on unusual donor sites with the 
+motif GYNGYN (Y stands for C or T; N stands for A, C, G, or T).
+RESULTS: While only one GY functions as a splice donor for the majority of these 
+splice sites in human, we provide computational and experimental evidence that 
+110 (1.3%) allow alternative splicing at both GY donors. The resulting splice 
+forms differ in only three nucleotides, which results mostly in the 
+insertion/deletion of one amino acid. However, we also report the insertion of a 
+stop codon in four cases. Investigating what distinguishes alternatively from 
+not alternatively spliced GYNGYN donors, we found differences in the binding to 
+U1 snRNA, a strong correlation between U1 snRNA binding strength and the 
+preferred donor, over-represented sequence motifs in the adjacent introns, and a 
+higher conservation of the exonic and intronic flanks between human and mouse. 
+Extending our genome-wide analysis to seven other eukaryotic species, we found 
+alternatively spliced GYNGYN donors in all species from mouse to Caenorhabditis 
+elegans and even in Arabidopsis thaliana. Experimental verification of a 
+conserved GTAGTT donor of the STAT3 gene in human and mouse reveals a remarkably 
+similar ratio of alternatively spliced transcripts in both species.
+CONCLUSION: In contrast to alternative splicing in general, GYNGYN donors in 
+addition to NAGNAG acceptors enable subtle protein variations.
+
+DOI: 10.1186/gb-2006-7-7-R65
+PMCID: PMC1779574
+PMID: 16869967 [Indexed for MEDLINE]

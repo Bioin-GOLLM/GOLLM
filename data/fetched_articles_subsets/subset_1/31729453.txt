@@ -1,0 +1,62 @@
+1. Sci Rep. 2019 Nov 15;9(1):16891. doi: 10.1038/s41598-019-53202-5.
+
+Machine Learning to Quantitate Neutrophil NETosis.
+
+Elsherif L(1)(2), Sciaky N(3), Metts CA(4), Modasshir M(5), Rekleitis I(5), 
+Burris CA(6), Walker JA(4), Ramadan N(4), Leisner TM(4), Holly SP(7), Cowles 
+MW(8), Ataga KI(9)(10), Cooper JN(6), Parise LV(4)(11)(12).
+
+Author information:
+(1)Department of Biochemistry and Biophysics, University of North Carolina, 
+Chapel Hill, NC, 27599, USA. lelsheri@uthsc.edu.
+(2)Department of Medicine, University of Tennessee Health Science Center, 956 
+Court Avenue B330, Memphis, TN, 38163-2116, USA. lelsheri@uthsc.edu.
+(3)Department of Pharmacology, University of North Carolina, Chapel Hill, NC, 
+27599, USA.
+(4)Department of Biochemistry and Biophysics, University of North Carolina, 
+Chapel Hill, NC, 27599, USA.
+(5)Department of Computer Science and Engineering, College of Engineering and 
+Computing, University of South Carolina, Columbia, SC, 29208, USA.
+(6)Department of Mathematics, College of Arts and Sciences, University of South 
+Carolina, Columbia, SC, 29208, USA.
+(7)Department of Pharmaceutical Sciences, Campbell University, Buies Creek, NC, 
+27506, USA.
+(8)EpiCypher, Inc. Durham, Durham, NC, 27709, USA.
+(9)Department of Medicine, University of North Carolina, Chapel Hill, NC, 27599, 
+USA.
+(10)Department of Medicine, University of Tennessee Health Science Center, 956 
+Court Avenue D324, Memphis, TN, 38163-2116, USA.
+(11)Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel 
+Hill, NC, 27599, USA.
+(12)UNC Blood Research Center, University of North Carolina, Chapel Hill, NC, 
+27599, USA.
+
+We introduce machine learning (ML) to perform classification and quantitation of 
+images of nuclei from human blood neutrophils. Here we assessed the use of 
+convolutional neural networks (CNNs) using free, open source software to 
+accurately quantitate neutrophil NETosis, a recently discovered process involved 
+in multiple human diseases. CNNs achieved >94% in performance accuracy in 
+differentiating NETotic from non-NETotic cells and vastly facilitated 
+dose-response analysis and screening of the NETotic response in neutrophils from 
+patients. Using only features learned from nuclear morphology, CNNs can 
+distinguish between NETosis and necrosis and between distinct NETosis signaling 
+pathways, making them a precise tool for NETosis detection. Furthermore, by 
+using CNNs and tools to determine object dispersion, we uncovered differences in 
+NETotic nuclei clustering between major NETosis pathways that is useful in 
+understanding NETosis signaling events. Our study also shows that neutrophils 
+from patients with sickle cell disease were unresponsive to one of two major 
+NETosis pathways. Thus, we demonstrate the design, performance, and 
+implementation of ML tools for rapid quantitative and qualitative cell analysis 
+in basic science.
+
+DOI: 10.1038/s41598-019-53202-5
+PMCID: PMC6858304
+PMID: 31729453 [Indexed for MEDLINE]
+
+Conflict of interest statement: US Patent 10,303,923. Applicants: University of 
+North Carolina at Chapel Hill and University of South Carolina at Columbia. 
+Inventors: Leslie V. Parise, Noah Sciaky, Laila Elsherif and Joshua N. Cooper. 
+Status: Allowed. Aspects of the manuscript covered in patent: customizing 
+convolutional neural networks for the quantification of NETosis in human 
+neutrophils in vitro. C.A.M., M.M., I.R., C.A.B., J.A.W., N.R., T.M.L., S.P.H., 
+M.W.C. and K.I.A. declare no competing interests.

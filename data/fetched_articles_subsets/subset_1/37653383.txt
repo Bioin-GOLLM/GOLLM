@@ -1,0 +1,81 @@
+1. BMC Pregnancy Childbirth. 2023 Aug 31;23(1):628. doi: 
+10.1186/s12884-023-05919-5.
+
+Establishment of the early prediction models of low-birth-weight reveals 
+influential genetic and environmental factors: a prospective cohort study.
+
+Mizuno S(1), Nagaie S(1), Tamiya G(2), Kuriyama S(3), Obara T(3), Ishikuro M(3), 
+Tanaka H(4), Kinoshita K(5), Sugawara J(6)(7)(8), Yamamoto M(9)(10), Yaegashi 
+N(6), Ogishima S(11).
+
+Author information:
+(1)Department of Informatics for Genomic Medicine, Group of Integrated Database 
+Systems, Tohoku Medical Megabank Organization, Tohoku University, 2-1, 
+Seiryo-Machi, Aoba-Ku, Sendai, Miyagi, 980-8575, Japan.
+(2)Department of Statistical Genetics and Genomics, Group of Disease Risk 
+Prediction, Tohoku Medical Megabank Organization, Tohoku University, Miyagi, 
+Japan.
+(3)Department of Molecular Epidemiology, Group of the Birth and Three-Generation 
+Cohort Study, Tohoku Medical Megabank Organization, Tohoku University, Miyagi, 
+Japan.
+(4)Medical Data Science Promotion, Tokyo Medical and Dental University, Tokyo, 
+Japan.
+(5)Department of Statistical Genetics and Genomics, Group of Systems 
+Bioinformatics, Tohoku Medical Megabank Organization, Tohoku University, Miyagi, 
+Japan.
+(6)Department of Gynecology and Obstetrics, Tohoku University Graduate School of 
+Medicine, Tohoku University, Miyagi, Japan.
+(7)Department of Feto-Maternal Medical Science, Group of Community Medical 
+Supports, Tohoku Medical Megabank Organization, Tohoku University, Miyagi, 
+Japan.
+(8)Suzuki Memorial Hospital 3-5-5, Satonomori, Iwanumashi, Miyagi, 989-2481, 
+Japan.
+(9)Department of Medical Biochemistry, Graduate School of Medicine, Tohoku 
+University, Sendai, Japan.
+(10)Department of Integrative Genomics, Tohoku Medical Megabank Organization, 
+Tohoku University, Miyagi, Japan.
+(11)Department of Informatics for Genomic Medicine, Group of Integrated Database 
+Systems, Tohoku Medical Megabank Organization, Tohoku University, 2-1, 
+Seiryo-Machi, Aoba-Ku, Sendai, Miyagi, 980-8575, Japan. 
+ogishima@megabank.tohoku.ac.jp.
+
+BACKGROUND: Low birth weight (LBW) is a leading cause of neonatal morbidity and 
+mortality, and increases various disease risks across life stages. Prediction 
+models of LBW have been developed before, but have limitations including small 
+sample sizes, absence of genetic factors and no stratification of neonate into 
+preterm and term birth groups. In this study, we challenged the development of 
+early prediction models of LBW based on environmental and genetic factors in 
+preterm and term birth groups, and clarified influential variables for LBW 
+prediction.
+METHODS: We selected 22,711 neonates, their 21,581 mothers and 8,593 fathers 
+from the Tohoku Medical Megabank Project Birth and Three-Generation cohort 
+study. To establish early prediction models of LBW for preterm birth and term 
+birth groups, we trained AI-based models using genetic and environmental factors 
+of lifestyles. We then clarified influential environmental and genetic factors 
+for predicting LBW in the term and preterm groups.
+RESULTS: We identified 2,327 (10.22%) LBW neonates consisting of 1,077 preterm 
+births and 1,248 term births. Our early prediction models archived the area 
+under curve 0.96 and 0.95 for term LBW and preterm LBW models, respectively. We 
+revealed that environmental factors regarding eating habits and genetic features 
+related to fetal growth were influential for predicting LBW in the term LBW 
+model. On the other hand, we identified that genomic features related to 
+toll-like receptor regulations and infection reactions are influential genetic 
+factors for prediction in the preterm LBW model.
+CONCLUSIONS: We developed precise early prediction models of LBW based on 
+lifestyle factors in the term birth group and genetic factors in the preterm 
+birth group. Because of its accuracy and generalisability, our prediction model 
+could contribute to risk assessment of LBW in the early stage of pregnancy and 
+control LBW risk in the term birth group. Our prediction model could also 
+contribute to precise prediction of LBW based on genetic factors in the preterm 
+birth group. We then identified parental genetic and maternal environmental 
+factors during pregnancy influencing LBW prediction, which are major targets for 
+understanding the LBW to address serious burdens on newborns' health throughout 
+life.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12884-023-05919-5
+PMCID: PMC10472725
+PMID: 37653383 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

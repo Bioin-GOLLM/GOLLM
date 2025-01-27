@@ -1,0 +1,56 @@
+1. BMC Cancer. 2021 Apr 9;21(1):379. doi: 10.1186/s12885-021-08083-1.
+
+Gene expression and immune infiltration in melanoma patients with different 
+mutation burden.
+
+Wang L(1)(2), Chen F(3), Liu R(1), Shi L(3), Zhao G(3), Yan Z(4).
+
+Author information:
+(1)Cancer Center, The Second Affiliated Hospital of Chongqing Medical 
+University, Chongqing, 400010, China.
+(2)Unit 32357 of People's Liberation Army, Pujiang, Sichuan, 611630, China.
+(3)Department of Orthopedics, The Second Affiliated Hospital of Chongqing 
+Medical University, No.76 Linjiang Road, Yuzhong District, Chongqing, 400010, 
+China.
+(4)Department of Orthopedics, The Second Affiliated Hospital of Chongqing 
+Medical University, No.76 Linjiang Road, Yuzhong District, Chongqing, 400010, 
+China. yanzj@hospital.cqmu.edu.cn.
+
+BACKGROUND: Immunotherapy is a vital component in cancer treatment. However, due 
+to the complex genetic bases of cancer, a clear prediction index for efficacy 
+has not been established. Tumor mutation burden (TMB) is one of the essential 
+factors that affect immunotherapeutic efficacies, but it has not been determined 
+whether the mutation is associated with the survival of Skin Cutaneous Melanoma 
+(SKCM) patients. This study aimed at evaluating the correlation between TMB and 
+immune infiltration.
+METHODS: Somatic mutation profiles (n = 467), transcriptome data (n = 471), and 
+their clinical information (n = 447) of all SKCM samples were downloaded from 
+The Cancer Genome Atlas (TCGA) database. For each sample, TMB was calculated as 
+the number of variants per megabase. Based on K-M survival analysis, they were 
+allocated into the high-TMB and low-TMB groups (the optimal cutoff was 
+determined by the 'surv_cutpoint' algorithm of survival R package). Then, Gene 
+ontology (GO) and Gene Set Enrichment Analyses (GSEA) were performed, with 
+immune-associated biological pathways found to be significantly enriched in the 
+low-TMB group. Therefore, immune genes that were differentially expressed 
+between the two groups were evaluated in Cox regression to determine their 
+prognostic values, and a four-gene TMB immune prognostic model (TMB-IP) was 
+constructed.
+RESULTS: Elevated TMB levels were associated with better survival outcomes in 
+SKCM patients. Based on the cutoff value in OS analysis, they were divided into 
+high-TMB and low-TMB groups. GSEA revealed that the low-TMB group was associated 
+with immunity while intersection analysis revealed that there were 38 
+differentially expressed immune-related genes between the two groups. Four 
+TMB-associated immune genes were used to construct a TMB-IP model. The AUC of 
+the ROC curve of this model reached a maximum of 0.75 (95%CI, 0.66-0.85) for OS 
+outcomes. Validation in each clinical subgroup confirmed the efficacy of the 
+model to distinguish between high and low TMB-IP score patients.
+CONCLUSIONS: In SKCM patients, low TMB was associated with worse survival 
+outcomes and enriched immune-associated pathways. The four TMB-associated immune 
+genes model can effectively distinguish between high and low-risk patients.
+
+DOI: 10.1186/s12885-021-08083-1
+PMCID: PMC8034108
+PMID: 33836680 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,42 @@
+1. BMC Med Genet. 2009 Sep 9;10:86. doi: 10.1186/1471-2350-10-86.
+
+Genome-wide association reveals three SNPs associated with sporadic amyotrophic 
+lateral sclerosis through a two-locus analysis.
+
+Sha Q(1), Zhang Z, Schymick JC, Traynor BJ, Zhang S.
+
+Author information:
+(1)Department of Mathematical Sciences, Michigan Technological University, 
+Houghton, MI, USA. qsha@mtu.edu
+
+BACKGROUND: Amyotrophic lateral sclerosis (ALS) is a fatal, degenerative 
+neuromuscular disease characterized by a progressive loss of voluntary motor 
+activity. About 95% of ALS patients are in "sporadic form"-meaning their disease 
+is not associated with a family history of the disease. To date, the genetic 
+factors of the sporadic form of ALS are poorly understood.
+METHODS: We proposed a two-stage approach based on seventeen biological 
+plausible models to search for two-locus combinations that have significant 
+joint effects to the disease in a genome-wide association study (GWAS). We used 
+a two-stage strategy to reduce the computational burden associated with 
+performing an exhaustive two-locus search across the genome. In the first stage, 
+all SNPs were screened using a single-marker test. In the second stage, all 
+pairs made from the 1000 SNPs with the lowest p-values from the first stage were 
+evaluated under each of the 17 two-locus models.
+RESULTS: we performed the two-stage approach on a GWAS data set of sporadic ALS 
+from the SNP Database at the NINDS Human Genetics Resource Center DNA and Cell 
+Line Repository http://ccr.coriell.org/ninds/. Our two-locus analysis showed 
+that two two-locus combinations--rs4363506 (SNP1) and rs3733242 (SNP2), and 
+rs4363506 and rs16984239 (SNP3) -- were significantly associated with sporadic 
+ALS. After adjusting for multiple tests and multiple models, the combination of 
+SNP1 and SNP2 had a p-value of 0.032 under the Dom intersection Dom epistatic 
+model; SNP1 and SNP3 had a p-value of 0.042 under the Dom x Dom multiplicative 
+model.
+CONCLUSION: The proposed two-stage analytical method can be used to search for 
+joint effects of genes in GWAS. The two-stage strategy decreased the 
+computational time and the multiple testing burdens associated with GWAS. We 
+have also observed that the loci identified by our two-stage strategy can not be 
+detected by single-locus tests.
+
+DOI: 10.1186/1471-2350-10-86
+PMCID: PMC2752455
+PMID: 19740415 [Indexed for MEDLINE]

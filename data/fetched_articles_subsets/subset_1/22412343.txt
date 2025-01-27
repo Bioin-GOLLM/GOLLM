@@ -1,0 +1,24 @@
+1. Sensors (Basel). 2009;9(5):3908-41. doi: 10.3390/s90503908. Epub 2009 May 25.
+
+Dynamic hierarchical sleep scheduling for wireless ad-hoc sensor networks.
+
+Wen CY(1), Chen YC.
+
+Author information:
+(1)Department of Electrical Engineering, Graduate Institute of Communication 
+Engineering, National Chung Hsing University, Taichung 402, Taiwan; E-Mail: 
+d9664106@mail.nchu.edu.tw.
+
+This paper presents two scheduling management schemes for wireless sensor 
+networks, which manage the sensors by utilizing the hierarchical network 
+structure and allocate network resources efficiently. A local criterion is used 
+to simultaneously establish the sensing coverage and connectivity such that 
+dynamic cluster-based sleep scheduling can be achieved. The proposed schemes are 
+simulated and analyzed to abstract the network behaviors in a number of 
+settings. The experimental results show that the proposed algorithms provide 
+efficient network power control and can achieve high scalability in wireless 
+sensor networks.
+
+DOI: 10.3390/s90503908
+PMCID: PMC3297158
+PMID: 22412343

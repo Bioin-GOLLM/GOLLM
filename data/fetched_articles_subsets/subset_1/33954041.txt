@@ -1,0 +1,59 @@
+1. PeerJ. 2021 Apr 15;9:e11203. doi: 10.7717/peerj.11203. eCollection 2021.
+
+Bioinformatics analysis for the identification of differentially expressed genes 
+and related signaling pathways in H. pylori-CagA transfected gastric cancer 
+cells.
+
+Chen D(#)(1), Li C(1), Zhao Y(1), Zhou J(1), Wang Q(1), Xie Y(#)(1).
+
+Author information:
+(1)Key Laboratory of Endemic and Ethnic Diseases , Ministry of Education, 
+Guizhou Medical University, Guiyang, China.
+(#)Contributed equally
+
+AIM: Helicobacter pylori cytotoxin-associated protein A (CagA) is an important 
+virulence factor known to induce gastric cancer development. However, the cause 
+and the underlying molecular events of CagA induction remain unclear. Here, we 
+applied integrated bioinformatics to identify the key genes involved in the 
+process of CagA-induced gastric epithelial cell inflammation and can ceration to 
+comprehend the potential molecular mechanisms involved.
+MATERIALS AND METHODS: AGS cells were transected with pcDNA3.1 and 
+pcDNA3.1::CagA for 24 h. The transfected cells were subjected to transcriptome 
+sequencing to obtain the expressed genes. Differentially expressed genes (DEG) 
+with adjusted P value < 0.05, - logFC -> 2 were screened, and the R package was 
+applied for gene ontology (GO) enrichment and the Kyoto Encyclopedia of Genes 
+and Genomes (KEGG) pathway analysis. The differential gene protein-protein 
+interaction (PPI) network was constructed using the STRING Cytoscape 
+application, which conducted visual analysis to create the key function networks 
+and identify the key genes. Next, the Kaplan-Meier plotter survival analysis 
+tool was employed to analyze the survival of the key genes derived from the PPI 
+network. Further analysis of the key gene expressions in gastric cancer and 
+normal tissues were performed based on The Cancer Genome Atlas (TCGA) database 
+and RT-qPCR verification.
+RESULTS: After transfection of AGS cells, the cell morphology changes in a 
+hummingbird shape and causes the level of CagA phosphorylation to increase. 
+Transcriptomics identified 6882 DEG, of which 4052 were upregulated and 2830 
+were downregulated, among which q-value < 0.05, FC > 2, and FC under the 
+condition of ≤2. Accordingly, 1062 DEG were screened, of which 594 were 
+upregulated and 468 were downregulated. The DEG participated in a total of 151 
+biological processes, 56 cell components, and 40 molecular functions. The KEGG 
+pathway analysis revealed that the DEG were involved in 21 pathways. The PPI 
+network analysis revealed three highly interconnected clusters. In addition, 30 
+DEG with the highest degree were analyzed in the TCGA database. As a result, 12 
+DEG were found to be highly expressed in gastric cancer, while seven DEG were 
+related to the poor prognosis of gastric cancer. RT-qPCR verification results 
+showed that Helicobacter pylori CagA caused up-regulation of BPTF, caspase3, 
+CDH1, CTNNB1, and POLR2A expression.
+CONCLUSION: The current comprehensive analysis provides new insights for 
+exploring the effect of CagA in human gastric cancer, which could help us 
+understand the molecular mechanism underlying the occurrence and development of 
+gastric cancer caused by Helicobacter pylori.
+
+©2021 Chen et al.
+
+DOI: 10.7717/peerj.11203
+PMCID: PMC8053379
+PMID: 33954041
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.

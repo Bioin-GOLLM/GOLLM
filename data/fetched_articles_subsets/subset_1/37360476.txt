@@ -1,0 +1,46 @@
+1. ACS Omega. 2023 Jun 6;8(24):21438-21449. doi: 10.1021/acsomega.2c08156. 
+eCollection 2023 Jun 20.
+
+Understanding the Structure-Activity Relationship through Density Functional 
+Theory: A Simple Method Predicts Relative Binding Free Energies of Metalloenzyme 
+Fragment-like Inhibitors.
+
+Vasile S(1), Roos K(1).
+
+Author information:
+(1)Department of Cell and Molecular Biology, Uppsala University, Uppsala 751 23, 
+Sweden.
+
+Despite being involved in several human diseases, metalloenzymes are targeted by 
+a small percentage of FDA-approved drugs. Development of novel and efficient 
+inhibitors is required, as the chemical space of metal binding groups (MBGs) is 
+currently limited to four main classes. The use of computational chemistry 
+methods in drug discovery has gained momentum thanks to accurate estimates of 
+binding modes and binding free energies of ligands to receptors. However, exact 
+predictions of binding free energies in metalloenzymes are challenging due to 
+the occurrence of nonclassical phenomena and interactions that common force 
+field-based methods are unable to correctly describe. In this regard, we applied 
+density functional theory (DFT) to predict the binding free energies and to 
+understand the structure-activity relationship of metalloenzyme fragment-like 
+inhibitors. We tested this method on a set of small-molecule inhibitors with 
+different electronic properties and coordinating two Mn2+ ions in the binding 
+site of the influenza RNA polymerase PAN endonuclease. We modeled the binding 
+site using only atoms from the first coordination shell, hence reducing the 
+computational cost. Thanks to the explicit treatment of electrons by DFT, we 
+highlighted the main contributions to the binding free energies and the 
+electronic features differentiating strong and weak inhibitors, achieving good 
+qualitative correlation with the experimentally determined affinities. By 
+introducing automated docking, we explored alternative ways to coordinate the 
+metal centers and we identified 70% of the highest affinity inhibitors. This 
+methodology provides a fast and predictive tool for the identification of key 
+features of metalloenzyme MBGs, which can be useful for the design of new and 
+efficient drugs targeting these ubiquitous proteins.
+
+© 2023 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/acsomega.2c08156
+PMCID: PMC10285960
+PMID: 37360476
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

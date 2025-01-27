@@ -1,0 +1,58 @@
+1. Clin Chem. 2015 Jan;61(1):267-77. doi: 10.1373/clinchem.2014.228361. Epub 2014
+ Oct 8.
+
+Single-tube, highly parallel mutation enrichment in cancer gene panels by use of 
+temperature-tolerant COLD-PCR.
+
+Castellanos-Rizaldos E(1), Richardson K(2), Lin R(2), Wu G(2), Makrigiorgos 
+MG(3).
+
+Author information:
+(1)Division of DNA Repair and Genome Stability and.
+(2)Transgenomic Inc., Omaha, NE.
+(3)Division of DNA Repair and Genome Stability and Division of Medical Physics 
+and Biophysics, Department of Radiation Oncology, Dana-Farber Cancer Institute, 
+Harvard Medical School, Boston, MA; mmakrigiorgos@lroc.harvard.edu.
+
+BACKGROUND: Multiplexed detection of low-level mutations presents a technical 
+challenge for many technologies, including cancer gene panels used for 
+targeted-resequencing. Analysis of mutations below approximately 2%-5% abundance 
+in tumors with heterogeneity, samples with stromal contamination, or biofluids 
+is problematic owing to increased noise from sequencing errors. Technologies 
+that reduce noise via deep sequencing unavoidably reduce throughput and increase 
+cost. Here we provide proof of principle that coamplification at lower 
+denaturation temperature (COLD)-PCR technology enables multiplex low-level 
+mutation detection in cancer gene panels while retaining throughput.
+METHODS: We have developed a multiplex temperature-tolerant COLD-PCR 
+(fast-TT-COLD-PCR) approach that uses cancer gene panels developed for massively 
+parallel sequencing. After multiplex preamplification from genomic DNA, we 
+attach tails to all amplicons and perform fast-TT-COLD-PCR. This approach 
+gradually increases denaturation temperatures in a step-wise fashion, such that 
+all possible denaturation temperatures are encompassed. By introducing modified 
+nucleotides, fast-COLD-PCR is adapted to enrich for melting temperature 
+(Tm)-increasing mutations over all amplicons, in a single tube. Therefore, in 
+separate reactions, both Tm-decreasing and Tm-increasing mutations are enriched.
+RESULTS: Using custom-made and commercial gene panels containing 8, 50, 190, or 
+16 000 amplicons, we demonstrate that fast-TT-COLD-PCR enriches mutations on all 
+examined targets simultaneously. Incorporation of deoxyinosine triphosphate 
+(dITP)/2,6-diaminopurine triphosphate (dDTP) in place of deoxyguanosine 
+triphosphate (dGTP)/deoxyadenosine triphosphate (dATP) enables enrichment of 
+Tm-increasing mutations. Serial dilution experiments demonstrate a limit of 
+detection of approximately 0.01%-0.1% mutation abundance by use of Ion-Torrent 
+and 0.1%-0.3% by use of Sanger sequencing.
+CONCLUSIONS: Fast-TT-COLD-PCR improves the limit of detection of cancer gene 
+panels by enabling mutation enrichment in multiplex, single-tube reactions. This 
+novel adaptation of COLD-PCR converts subclonal mutations to clonal, thereby 
+facilitating detection and subsequent mutation sequencing.
+
+© 2014 American Association for Clinical Chemistry.
+
+DOI: 10.1373/clinchem.2014.228361
+PMCID: PMC4281501
+PMID: 25297854 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST STATEMENT: COLD-PCR is a 
+technology owned by the Dana-Farber Cancer Institute and licensed, in part, to 
+Transgenomic Inc. The manuscript has not been published previously and is not 
+being considered concurrently by another journal. All authors and acknowledged 
+contributors have read and approved the manuscript.

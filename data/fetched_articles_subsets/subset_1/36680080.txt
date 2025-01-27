@@ -1,0 +1,50 @@
+1. Viruses. 2022 Dec 22;15(1):40. doi: 10.3390/v15010040.
+
+A Customized Monkeypox Virus Genomic Database (MPXV DB v1.0) for Rapid Sequence 
+Analysis and Phylogenomic Discoveries in CLC Microbial Genomics.
+
+Shen-Gunther J(1), Cai H(2)(3), Wang Y(2)(3).
+
+Author information:
+(1)Department of Clinical Investigation, Gynecologic Oncology & Clinical 
+Investigation, Brooke Army Medical Center, Fort Sam Houston, TX 78234, USA.
+(2)Department of Molecular Microbiology and Immunology, University of Texas at 
+San Antonio, San Antonio, TX 78249, USA.
+(3)South Texas Center for Emerging Infectious Diseases, University of Texas at 
+San Antonio, San Antonio, TX 78249, USA.
+
+Monkeypox has been a neglected, zoonotic tropical disease for over 50 years. 
+Since the 2022 global outbreak, hundreds of human clinical samples have been 
+subjected to next-generation sequencing (NGS) worldwide with raw data deposited 
+in public repositories. However, sequence analysis for in-depth investigation of 
+viral evolution remains hindered by the lack of a curated, whole genome 
+Monkeypox virus (MPXV) database (DB) and efficient bioinformatics pipelines. To 
+address this, we developed a customized MPXV DB for integration with 
+"ready-to-use" workflows in the CLC Microbial Genomics Module for whole genomic 
+and metagenomic analysis. After database construction (218 MPXV genomes), whole 
+genome alignment, pairwise comparison, and evolutionary analysis of all genomes 
+were analyzed to autogenerate tabular outputs and visual displays (collective 
+runtime: 16 min). The clinical utility of the MPXV DB was demonstrated by using 
+a Chimpanzee fecal, hybrid-capture NGS dataset (publicly available) for 
+metagenomic, phylogenomic, and viral/host integration analysis. The clinically 
+relevant MPXV DB embedded in CLC workflows proved to be a rapid method of 
+sequence analysis useful for phylogenomic exploration and a wide range of 
+applications in translational science.
+
+DOI: 10.3390/v15010040
+PMCID: PMC9861985
+PMID: 36680080 [Indexed for MEDLINE]
+
+Conflict of interest statement: The Defense Health Agency (DHA) of the U.S. 
+Department of Defense has licensed the customized MPXV v1.0 and MOCVA v1.0 
+databases described herein to QIAGEN Digital Insights. The inventor of the 
+customized taxonomy is J.SG. No potential conflicts of interest were disclosed 
+by the other authors. The funders had no role in the design of the study; in the 
+collection, analyses, or interpretation of data; in the writing of the 
+manuscript, or in the decision to publish the results. This paper has undergone 
+PAO review at Brooke Army Medical Center and was cleared for publication. The 
+view(s) expressed herein are those of the authors and do not reflect the 
+official policy or position of Brooke Army Medical Center, the United States 
+Army Medical Department, the United States Army Office of the Surgeon General, 
+the Department of the Army, the Defense Health Agency, the Department of Defense 
+or the United States Government.

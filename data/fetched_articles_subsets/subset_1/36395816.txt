@@ -1,0 +1,36 @@
+1. Nucleic Acids Res. 2023 Jan 11;51(1):e6. doi: 10.1093/nar/gkac988.
+
+ViLoN-a multi-layer network approach to data integration demonstrated for 
+patient stratification.
+
+Kańduła MM(1)(2), Aldoshin AD(1), Singh S(1)(3), Kolaczyk ED(4), Kreil DP(1).
+
+Author information:
+(1)Institute of Molecular Biotechnology, Boku University Vienna, Austria.
+(2)Janssen Pharmaceutica NV, Beerse, Belgium.
+(3)Department of Biological Sciences and Bioengineering, Indian Institute of 
+Technology Kanpur, Kanpur, India.
+(4)Department of Mathematics and Statistics, McGill University, Canada.
+
+With more and more data being collected, modern network representations exploit 
+the complementary nature of different data sources as well as similarities 
+across patients. We here introduce the Variation of information fused Layers of 
+Networks algorithm (ViLoN), a novel network-based approach for the integration 
+of multiple molecular profiles. As a key innovation, it directly incorporates 
+prior functional knowledge (KEGG, GO). In the constructed network of patients, 
+patients are represented by networks of pathways, comprising genes that are 
+linked by common functions and joint regulation in the disease. Patient 
+stratification remains a key challenge both in the clinic and for research on 
+disease mechanisms and treatments. We thus validated ViLoN for patient 
+stratification on multiple data type combinations (gene expression, methylation, 
+copy number), showing substantial improvements and consistently competitive 
+performance for all. Notably, the incorporation of prior functional knowledge 
+was critical for good results in the smaller cohorts (rectum adenocarcinoma: 90, 
+esophageal carcinoma: 180), where alternative methods failed.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac988
+PMCID: PMC9841426
+PMID: 36395816 [Indexed for MEDLINE]

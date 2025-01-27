@@ -1,0 +1,71 @@
+1. Nature. 2023 Aug;620(7976):1089-1100. doi: 10.1038/s41586-023-06415-8. Epub
+2023  Jul 11.
+
+De novo design of protein structure and function with RFdiffusion.
+
+Watson JL(#)(1)(2), Juergens D(#)(1)(2)(3), Bennett NR(#)(1)(2)(3), Trippe 
+BL(#)(2)(4)(5), Yim J(#)(2)(6), Eisenach HE(#)(1)(2), Ahern W(#)(1)(2)(7), Borst 
+AJ(1)(2), Ragotte RJ(1)(2), Milles LF(1)(2), Wicky BIM(1)(2), Hanikel N(1)(2), 
+Pellock SJ(1)(2), Courbet A(1)(2)(8), Sheffler W(1)(2), Wang J(1)(2), Venkatesh 
+P(1)(2)(9), Sappington I(1)(2)(9), Torres SV(1)(2)(9), Lauko A(1)(2)(9), De 
+Bortoli V(8), Mathieu E(10), Ovchinnikov S(11)(12), Barzilay R(6), Jaakkola 
+TS(6), DiMaio F(1)(2), Baek M(13), Baker D(14)(15)(16).
+
+Author information:
+(1)Department of Biochemistry, University of Washington, Seattle, WA, USA.
+(2)Institute for Protein Design, University of Washington, Seattle, WA, USA.
+(3)Graduate Program in Molecular Engineering, University of Washington, Seattle, 
+WA, USA.
+(4)Columbia University, Department of Statistics, New York, NY, USA.
+(5)Irving Institute for Cancer Dynamics, Columbia University, New York, NY, USA.
+(6)Massachusetts Institute of Technology, Cambridge, MA, USA.
+(7)Paul G. Allen School of Computer Science and Engineering, University of 
+Washington, Seattle, WA, USA.
+(8)National Centre for Scientific Research, École Normale Supérieure rue d'Ulm, 
+Paris, France.
+(9)Graduate Program in Biological Physics, Structure and Design, University of 
+Washington, Seattle, WA, USA.
+(10)Department of Engineering, University of Cambridge, Cambridge, UK.
+(11)Faculty of Applied Sciences, Harvard University, Cambridge, MA, USA.
+(12)John Harvard Distinguished Science Fellowship, Harvard University, 
+Cambridge, MA, USA.
+(13)School of Biological Sciences, Seoul National University, Seoul, Republic of 
+Korea.
+(14)Department of Biochemistry, University of Washington, Seattle, WA, USA. 
+dabaker@uw.edu.
+(15)Institute for Protein Design, University of Washington, Seattle, WA, USA. 
+dabaker@uw.edu.
+(16)Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA. 
+dabaker@uw.edu.
+(#)Contributed equally
+
+There has been considerable recent progress in designing new proteins using 
+deep-learning methods1-9. Despite this progress, a general deep-learning 
+framework for protein design that enables solution of a wide range of design 
+challenges, including de novo binder design and design of higher-order symmetric 
+architectures, has yet to be described. Diffusion models10,11 have had 
+considerable success in image and language generative modelling but limited 
+success when applied to protein modelling, probably due to the complexity of 
+protein backbone geometry and sequence-structure relationships. Here we show 
+that by fine-tuning the RoseTTAFold structure prediction network on protein 
+structure denoising tasks, we obtain a generative model of protein backbones 
+that achieves outstanding performance on unconditional and topology-constrained 
+protein monomer design, protein binder design, symmetric oligomer design, enzyme 
+active site scaffolding and symmetric motif scaffolding for therapeutic and 
+metal-binding protein design. We demonstrate the power and generality of the 
+method, called RoseTTAFold diffusion (RFdiffusion), by experimentally 
+characterizing the structures and functions of hundreds of designed symmetric 
+assemblies, metal-binding proteins and protein binders. The accuracy of 
+RFdiffusion is confirmed by the cryogenic electron microscopy structure of a 
+designed binder in complex with influenza haemagglutinin that is nearly 
+identical to the design model. In a manner analogous to networks that produce 
+images from user-specified inputs, RFdiffusion enables the design of diverse 
+functional proteins from simple molecular specifications.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41586-023-06415-8
+PMCID: PMC10468394
+PMID: 37433327 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

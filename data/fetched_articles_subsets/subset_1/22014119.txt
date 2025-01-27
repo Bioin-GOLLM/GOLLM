@@ -1,0 +1,46 @@
+1. Microb Cell Fact. 2011 Oct 20;10:83. doi: 10.1186/1475-2859-10-83.
+
+Regulation of mtl operon promoter of Bacillus subtilis: requirements of its use 
+in expression vectors.
+
+Heravi KM(1), Wenzel M, Altenbuchner J.
+
+Author information:
+(1)Institut für Industrielle Genetik, Universität Stuttgart, Germany.
+
+BACKGROUND: Several vector systems have been developed to express any gene 
+desired to be studied in Bacillus subtilis. Among them, the transcriptionally 
+regulated promoters involved in carbohydrate utilization are a research 
+priority. Expression systems based on Bacillus promoters for xylose, maltose, 
+and mannose utilization, as well as on the heterologous E. coli lactose 
+promoter, have been successfully constructed. The promoter of the mtlAFD operon 
+for utilization of mannitol is another promising candidate for its use in 
+expression vectors. In this study, we investigated the regulation of the mtl 
+genes in order to identify the elements needed to construct a strong mannitol 
+inducible expression system in B. subtilis.
+RESULTS: Regulation of the promoters of mtlAFD operon (P(mtlA)) and mtlR 
+(P(mtlR)) encoding the activator were investigated by fusion to lacZ. 
+Identification of the P(mtlA) and P(mtlR) transcription start sites revealed the 
+σ(A) like promoter structures. Also, the operator of P(mtlA) was determined by 
+shortening, nucleotide exchange, and alignment of P(mtlA) and P(mtlR) operator 
+regions. Deletion of the mannitol-specific PTS genes (mtlAF) resulted in P(mtlA) 
+constitutive expression demonstrating the inhibitory effect of EIICB(Mtl) and 
+EIIA(Mtl) on MtlR in the absence of mannitol. Disruption of mtlD made the cells 
+sensitive to mannitol and glucitol. Both P(mtlA) and P(mtlR) were influenced by 
+carbon catabolite repression (CCR). However, a CcpA deficient mutant showed only 
+a slight reduction in P(mtlR) catabolite repression. Similarly, using P(groE) as 
+a constitutive promoter, putative cre sites of P(mtlA) and P(mtlR) slightly 
+reduced the promoter activity in the presence of glucose. In contrast, glucose 
+repression of P(mtlA) and P(mtlR) was completely abolished in a ΔptsG mutant and 
+significantly reduced in a MtlR (H342D) mutant.
+CONCLUSIONS: The mtl operon promoter (P(mtlA)) is a strong promoter that reached 
+a maximum of 13,000 Miller units with lacZ as a reporter on low copy plasmids. 
+It is tightly regulated by just one copy of the mtlR gene on the chromosome and 
+subject to CCR. CCR can be switched off by mutations in MtlR and the glucose 
+transporter. These properties and the low costs of the inducers, i.e. mannitol 
+and glucitol, make the promoter ideal for designing regulated expression 
+systems.
+
+DOI: 10.1186/1475-2859-10-83
+PMCID: PMC3217849
+PMID: 22014119 [Indexed for MEDLINE]

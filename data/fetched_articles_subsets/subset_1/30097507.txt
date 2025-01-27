@@ -1,0 +1,74 @@
+1. EMBO Mol Med. 2018 Sep;10(9):e8428. doi: 10.15252/emmm.201708428.
+
+Comparative proteomics reveals a diagnostic signature for pulmonary 
+head-and-neck cancer metastasis.
+
+Bohnenberger H(1), Kaderali L(2), Ströbel P(1), Yepes D(3)(4), Plessmann U(5), 
+Dharia NV(6)(7)(8), Yao S(1), Heydt C(9), Merkelbach-Bruse S(9), Emmert A(10), 
+Hoffmann J(1), Bodemeyer J(1), Reuter-Jessen K(1), Lois AM(1), Dröge LH(11), 
+Baumeister P(12), Walz C(13), Biggemann L(14), Walter R(3), Häupl B(3)(4), 
+Comoglio F(15)(16), Pan KT(5), Scheich S(3), Lenz C(5)(17), Küffer S(1), Bremmer 
+F(1), Kitz J(1), Sitte M(18), Beißbarth T(18), Hinterthaner M(10), Sebastian 
+M(3), Lotz J(14)(19), Schildhaus HU(1), Wolff H(20)(21), Danner BC(10), Brandts 
+C(3)(4), Büttner R(9), Canis M(12), Stegmaier K(6)(7)(8), Serve H(3)(4), Urlaub 
+H(5)(14), Oellerich T(22)(4).
+
+Author information:
+(1)Institute of Pathology, University Medical Center, Göttingen, Germany.
+(2)Institute of Bioinformatics, University Medicine Greifswald, Greifswald, 
+Germany.
+(3)Department of Medicine II, Hematology/Oncology, Goethe University, Frankfurt, 
+Germany.
+(4)German Cancer Research Center, German Cancer Consortium, Heidelberg, Germany.
+(5)Bioanalytical Mass Spectrometry Group, Max Planck Institute for Biophysical 
+Chemistry, Göttingen, Germany.
+(6)Department of Pediatric Oncology, Dana-Farber Cancer Institute, Boston, MA, 
+USA.
+(7)Division of Pediatric Hematology/Oncology, Boston Childrens Hospital, Boston, 
+MA, USA.
+(8)The Broad Institute, Cambridge, MA, USA.
+(9)Institute of Pathology, University Hospital Cologne, University of Cologne, 
+Köln, Germany.
+(10)Department of Thoracic and Cardiovascular Surgery, University Medical 
+Center, Göttingen, Germany.
+(11)Department of Radiooncology, University Medical Center, Göttingen, Germany.
+(12)Department of Otorhinolaryngology, University Hospital Munich, 
+Ludwig-Maximilian-University München, München, Germany.
+(13)Institute of Pathology, Faculty of Medicine, LMU Munich, Munich, Germany.
+(14)Institute for Diagnostic and Interventional Radiology, University Medical 
+Center, Göttingen, Germany.
+(15)Department of Haematology, University of Cambridge, Cambridge, UK.
+(16)Cambridge Institute for Medical Research, Wellcome Trust/MRC Stem Cell 
+Institute, Cambridge, UK.
+(17)Bioanalytics, University Medical Center, Göttingen, Germany.
+(18)Institute of Medical Statistics, University Medical Center, Göttingen, 
+Germany.
+(19)German Cardiovascular Research Center, Deutsches Zentrum für 
+Herz-Kreislaufforschung (DZHK), Partnersite Göttingen, Germany.
+(20)University Medical Center, Göttingen, Germany.
+(21)Department of Radiooncology, University Medical Center, Regensburg, Germany.
+(22)Department of Medicine II, Hematology/Oncology, Goethe University, 
+Frankfurt, Germany thomas.oellerich@kgu.de.
+
+Patients with head-and-neck cancer can develop both lung metastasis and primary 
+lung cancer during the course of their disease. Despite the clinical importance 
+of discrimination, reliable diagnostic biomarkers are still lacking. Here, we 
+have characterised a cohort of squamous cell lung (SQCLC) and head-and-neck 
+(HNSCC) carcinomas by quantitative proteomics. In a training cohort, we 
+quantified 4,957 proteins in 44 SQCLC and 30 HNSCC tumours. A total of 518 
+proteins were found to be differentially expressed between SQCLC and HNSCC, and 
+some of these were identified as genetic dependencies in either of the two 
+tumour types. Using supervised machine learning, we inferred a proteomic 
+signature for the classification of squamous cell carcinomas as either SQCLC or 
+HNSCC, with diagnostic accuracies of 90.5% and 86.8% in cross- and independent 
+validations, respectively. Furthermore, application of this signature to a 
+cohort of pulmonary squamous cell carcinomas of unknown origin leads to a 
+significant prognostic separation. This study not only provides a diagnostic 
+proteomic signature for classification of secondary lung tumours in HNSCC 
+patients, but also represents a proteomic resource for HNSCC and SQCLC.
+
+© 2018 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/emmm.201708428
+PMCID: PMC6127892
+PMID: 30097507 [Indexed for MEDLINE]

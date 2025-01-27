@@ -1,0 +1,67 @@
+1. Front Oncol. 2022 Mar 15;12:790713. doi: 10.3389/fonc.2022.790713. eCollection
+ 2022.
+
+Exploration of the Potential Mechanism of Qi Yin San Liang San Decoction in the 
+Treatment of EGFRI-Related Adverse Skin Reactions Using Network Pharmacology and 
+In Vitro Experiments.
+
+Wang Y(1), Zhang Y(1), Ding C(2), Jia C(1), Zhang H(1), Peng T(3), Cheng S(1), 
+Chen W(3), Tan Y(2), Wang X(1), Liu Z(2), Wei P(1), Wang X(4), Jiang M(2), Hua 
+Q(2).
+
+Author information:
+(1)School of Tradition Chinese Medicine, Beijing University of Chinese Medicine, 
+Beijing, China.
+(2)School of Life Scienses, Beijing University of Chinese Medicine, Beijing, 
+China.
+(3)School of Acupuncture-moxibustion and Tuina, Beijing University of Chinese 
+Medicine, Beijing, China.
+(4)Department of Pharmacy, Beijing Tsinghua Changgung Hospital, School of 
+Clinical Medicine, Tsinghua University, Beijing, China.
+
+BACKGROUND: Adverse skin reactions are the most common side effects of epidermal 
+growth factor receptor inhibitors (EGFRIs) in the treatment of cancer, 
+significantly affecting the survival rate and quality of life of patients. Qi 
+Yin San Liang San Decoction (QYSLS) comes from folk prescription and is 
+currently used in the clinical treatment of adverse skin reactions caused by 
+EGFRIs. However, its therapeutic mechanism remains unclear.
+OBJECTIVES: To explore the potential mechanism of QYSLS in the treatment of 
+adverse skin reactions caused by EGFR inhibition using network pharmacology and 
+experimental research.
+METHODS: First, we verified the effectiveness of QYSLS in vivo using model mice. 
+Second, the related targets of adverse skin reactions associated with EGFR 
+inhibition were predicted by the Gene Expression Omnibus (GEO) database, and 
+effective components and predictive targets of QYSLS were analyzed by 
+Traditional Chinese Medicine Systems Pharmacology (TCMSP) and Batman-TCM 
+databases. Gene ontology and Kyoto Encyclopedia of Genes and Genomes pathway 
+analyses were performed via the Bioconductor (R) V3.8 bioinformatics software. 
+Molecular docking studies verified the selected key ingredients and targets. 
+Finally, the results of network pharmacology were verified by in vitro 
+experiments.
+RESULTS: In the in vivo mouse model, QYSLS effectively reduced the occurrence of 
+skin side effects. Network pharmacological results showed that the active 
+ingredient luteolin, quercetin, licochalcone a, and kaempferol and the effective 
+targets prostaglandin-endoperoxide synthase 2 (PTGS2), matrix metallopeptidase 9 
+(MMP9), and C-C motif chemokine ligand 2 (CCL2) were related to the 
+interleukin-17 (IL-17) and tumor necrosis factor (TNF) pathway. Subsequently, 
+the related active compounds and targets were verified using HaCaT cells as an 
+in vitro adverse reaction model. The results showed that luteolin and quercetin 
+increased the expression of PTGS2 and MMP9 and reduced the expression of CCL2 in 
+HaCaT cells treated with gefitinib.
+CONCLUSIONS: The results revealed that QYSLS effectively treats EGFRI-related 
+adverse skin reactions through multi-target and multi-pathway mechanisms. 
+Luteolin and quercetin may be the core active ingredients of QYSLS in the 
+treatment of EGFRI-related adverse skin reactions, and their therapeutic effects 
+are potentially mediated through PTGS2, CCL2, and MMP9 in the IL-17 and TNF 
+signaling pathway.
+
+Copyright © 2022 Wang, Zhang, Ding, Jia, Zhang, Peng, Cheng, Chen, Tan, Wang, 
+Liu, Wei, Wang, Jiang and Hua.
+
+DOI: 10.3389/fonc.2022.790713
+PMCID: PMC8964498
+PMID: 35372072
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

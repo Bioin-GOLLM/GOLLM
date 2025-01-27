@@ -1,0 +1,49 @@
+1. BMC Genomics. 2016 Aug 5;17:560. doi: 10.1186/s12864-016-2842-8.
+
+Disrupted cooperation between transcription factors across diverse cancer types.
+
+Wang J(1), Liu Q(1)(2), Sun J(3), Shyr Y(4)(5)(6).
+
+Author information:
+(1)Center for Quantitative Sciences, Vanderbilt University School of Medicine, 
+Nashville, TN, USA.
+(2)Department of Biomedical Informatics, Vanderbilt University School of 
+Medicine, Nashville, TN, USA.
+(3)School of Biomedical Informatics, The University of Texas Health Science 
+Center at Houston, Houston, TX, USA.
+(4)Center for Quantitative Sciences, Vanderbilt University School of Medicine, 
+Nashville, TN, USA. yu.shyr@vanderbilt.edu.
+(5)Department of Cancer Biology, Vanderbilt University School of Medicine, 
+Nashville, TN, USA. yu.shyr@vanderbilt.edu.
+(6)Department of Biostatistics, Vanderbilt University School of Medicine, 
+Nashville, TN, USA. yu.shyr@vanderbilt.edu.
+
+BACKGROUND: Transcription Factors (TFs), essential for many cellular processes, 
+generally work coordinately to induce transcriptional change in response to 
+internal and external signals. Disrupted cooperation between TFs, leading to 
+dysregulation of target genes, contributes to the pathogenesis of many diseases, 
+including cancer. Although the aberrant activation of individual TFs and the 
+functional effects have been widely studied, the perturbation of TF 
+cooperativity in cancer has rarely been explored.
+RESULTS: We used TF co-expression as proxy as cooperativity and performed a 
+large-scale study on disrupted TF cooperation across seven cancer types. While 
+the connectivity of downstream effectors, like metabolic genes and TF targets, 
+were more or similarly disrupted than/with non-TFs, the cooperativity of TFs 
+(upstream regulators) were consistently less disturbed in all studied cancer 
+types. Highly coordinated TFs in normal, however, generally lost that 
+cooperation in cancer. Although different types of cancer shared very few TF 
+pairs with highly disrupted cooperation, the cooperativity of interferon 
+regulatory factors (IRF) was highly disrupted in six cancer types. Specifically, 
+the cooperativity of IRF8 was highly perturbed in lung cancer, which was further 
+validated by two independent lung squamous cell carcinoma (LUSC) and lung 
+adenocarcinoma (LUAD) datasets. More interestingly, the cooperativity of IRF8 
+was markedly associated with tumor progression and even contributed to the 
+patient survival independent of tumor stage.
+CONCLUSIONS: Our findings underscore the far more important role of TF 
+cooperativity in tumorigenesis than previously appreciated. Disrupted 
+cooperation of TFs provides potential clinical utility as prognostic markers for 
+predicting the patient survival.
+
+DOI: 10.1186/s12864-016-2842-8
+PMCID: PMC4975902
+PMID: 27496222 [Indexed for MEDLINE]

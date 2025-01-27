@@ -1,0 +1,41 @@
+1. Sci Rep. 2023 Sep 12;13(1):15045. doi: 10.1038/s41598-023-42402-9.
+
+An improved VSG control strategy based on transient electromagnetic power 
+compensation.
+
+Gao C(1), Wang W(2), Huang C(3), Zheng W(4).
+
+Author information:
+(1)College of Electrical and Automation Engineering, Liaoning Institute of 
+Science and Technology, Benxi, CO 117004, China. gaochangwei2008@163.com.
+(2)College of Electrical and Automation Engineering, Liaoning Institute of 
+Science and Technology, Benxi, CO 117004, China.
+(3)School of Electrical Engineering, Shenyang University of Technology, 
+Shenyang, CO 110870, China.
+(4)Yingkou Power Supply Company, Yingkou, CO 115002, China.
+
+Virtual synchronous generator (VSG) not only increases the inertia of 
+grid-connected system, but also brings the problem of active power oscillation 
+under grid disturbance. Therefore, VSG control strategy and system model order 
+reduction method with transient electromagnetic power compensation are proposed. 
+The closed-loop active power small signal model of the system is established, 
+and the influence of transient electromagnetic power compensation on the power 
+stability of VSG is analyzed based on root locus method. By removing the items 
+which have little influence on the stability of the system in the small signal 
+model, the order is reduced to obtain the equivalent second-order model of the 
+system. According to the second-order model, the quantitative design criteria of 
+the system parameters are given. The proposed transient electromagnetic power 
+compensation strategy not only increases the transient equivalent damping of the 
+system, but also does not affect the primary frequency modulation 
+characteristics and will not cause large overshoot of the output active power. 
+The experimental results are consistent with the theoretical analysis, which 
+testify the effectiveness and correctness of the system control strategy and the 
+model reduction method.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41598-023-42402-9
+PMCID: PMC10497587
+PMID: 37700158
+
+Conflict of interest statement: The authors declare no competing interests.

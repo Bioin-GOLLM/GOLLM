@@ -1,0 +1,64 @@
+1. Sci Rep. 2022 Sep 3;12(1):15041. doi: 10.1038/s41598-022-19214-4.
+
+Applying Mendelian randomization to appraise causality in relationships between 
+smoking, depression and inflammation.
+
+Galan D(#)(1), Perry BI(#)(2)(3), Warrier V(2), Davidson CC(2), Stupart O(2), 
+Easton D(1), Khandaker GM(2)(3)(4)(5)(6), Murray GK(7)(8)(9).
+
+Author information:
+(1)Department of Public Health and Primary Care, University of Cambridge, 
+Cambridge, UK.
+(2)Department of Psychiatry, University of Cambridge, Cambridge, UK.
+(3)Cambridgeshire and Peterborough NHS Foundation Trust, Cambridge, UK.
+(4)MRC Integrative Epidemiology Unit, Population Health Sciences, Bristol 
+Medical School, University of Bristol, Bristol, UK.
+(5)Centre for Academic Mental Health, Population Health Sciences, Bristol 
+Medical School, University of Bristol, Bristol, UK.
+(6)Avon and Wiltshire Mental Health Partnership NHS Trust, Bristol, UK.
+(7)Department of Psychiatry, University of Cambridge, Cambridge, UK. 
+gm285@cam.ac.uk.
+(8)Cambridgeshire and Peterborough NHS Foundation Trust, Cambridge, UK. 
+gm285@cam.ac.uk.
+(9)Program in Complex Trait Genomics, Institute of Molecular Bioscience, 
+University of Queensland, Brisbane, Australia. gm285@cam.ac.uk.
+(#)Contributed equally
+
+Smoking, inflammation and depression commonly co-occur and may be 
+mechanistically linked. However, key questions remain around the direction of 
+association and the influence of residual confounding. We aimed to characterize 
+the association between lifetime smoking and depression, as well as to assess 
+the role that genetically-predicted C-reactive protein (CRP) level, (an 
+archetypal generalized inflammatory marker) and/or IL-6 activity, as a potential 
+explanation for this association. We performed inverse variance weighted 
+Mendelian randomization (MR) analyses using recently published summary-level 
+GWAS data for lifetime smoking index, CRP levels, and depression. A subset of 
+inflammatory-related genetic variants from the lifetime smoking GWAS were also 
+used to assess the potential inflammatory causal pathways between smoking and 
+depression. The analysis indicated reciprocal relationships of lifetime smoking 
+with depression (ORSmk-Dep = 2.01, 95% CI 1.71-2.37, p < 0.001; 
+ORDep-Smk = 1.09, 95% CI 1.06-1.13, p < 0.001), CRP levels and IL-6 activity 
+(ORSmk-CRP = 1.40, 95% CI 1.21-1.55, p < 0.001; ORCRP-Smk = 1.03, 95% CI 
+1.02-1.05, p < 0.001, ORIL-6/CRP-Smk = 1.06 (1.03-1.09), p < 0.001). These 
+associations were also supported by the majority of the robust MR methods 
+performed. We did not find evidence for a reciprocal relationship between CRP 
+levels (using > 500 genetic instruments for CRP) and depression 
+(ORCRP-Dep = 1.01, 95% CI 0.99-1.04; ORDep-CRP = 1.03, 95% CI 0.99-1.07). We 
+observed little variation in the IVW estimates between smoking and depression 
+when we limited the genetic variants assessed to those related to measures of 
+generalized inflammation, but we found evidence for an attenuation of the 
+smoking-depression association in multivariable mendelian randomization when 
+adjusting for IL-6 activity, suggesting that the IL-6 pathway may be at least in 
+part responsible for the association of smoking and depression. Our study 
+supports potential bidirectional causal associations between lifetime smoking 
+and depression which may be at least in part explained by the IL-6 signalling 
+pathway. The IL-6 pathway may represent a putative therapeutic target for 
+smoking and to mitigate the effects of smoking on depression.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-19214-4
+PMCID: PMC9440889
+PMID: 36057695 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

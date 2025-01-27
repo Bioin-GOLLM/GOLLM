@@ -1,0 +1,45 @@
+1. Sci Rep. 2021 Feb 18;11(1):4055. doi: 10.1038/s41598-021-83619-w.
+
+Identification of novel neuroblastoma biomarkers in urine samples.
+
+Yokota K(1), Uchida H(2), Sakairi M(3)(4), Abe M(3), Tanaka Y(1), Tainaka T(1), 
+Shirota C(1), Sumida W(1), Oshima K(1), Makita S(1), Amano H(1), Hinoki A(1)(4).
+
+Author information:
+(1)Department of Paediatric Surgery, Nagoya University Graduate School of 
+Medicine, 65 Tsurumai, Showa, Nagoya, 466-8550, Japan.
+(2)Department of Paediatric Surgery, Nagoya University Graduate School of 
+Medicine, 65 Tsurumai, Showa, Nagoya, 466-8550, Japan. 
+hiro2013@med.nagoya-u.ac.jp.
+(3)Hitachi, Ltd., R & D Group, Centre for Exploratory Research, Tokyo, 185-8601, 
+Japan.
+(4)Department of Rare/Intractable Cancer Analysis Research, Nagoya University 
+Graduate School of Medicine, Nagoya, 466-8550, Japan.
+
+Urine is a complex liquid containing numerous small molecular metabolites. The 
+ability to non-invasively test for cancer biomarkers in urine is especially 
+beneficial for screening child patients. This study attempted to identify 
+neuroblastoma biomarkers by comprehensively analysing urinary metabolite samples 
+from children. A total of 87 urine samples were collected from 54 participants 
+(15 children with neuroblastoma and 39 without cancer) and used to perform a 
+comprehensive analysis. Urine metabolites were extracted using liquid 
+chromatography/mass spectrometry and analysed by Metabolon, Inc. Biomarker 
+candidates were extracted using the Wilcoxon rank sum test, random forest method 
+(RF), and orthogonal partial least squares discriminant analysis (OPLS-DA). RF 
+identified three important metabolic pathways in 15 samples from children with 
+neuroblastoma. One metabolite was selected from each of the three identified 
+pathways and combined to create a biomarker candidate (3-MTS, CTN, and COR) that 
+represented each of the three pathways; using this candidate, all 15 cases were 
+accurately distinguishable from the control group. Two cases in which known 
+biomarkers were negative tested positive using this new biomarker. Furthermore, 
+the predictive value did not decrease in cases with a low therapeutic effect. 
+This approach could be effectively applied to identify biomarkers for other 
+cancer types.
+
+DOI: 10.1038/s41598-021-83619-w
+PMCID: PMC7892837
+PMID: 33603049 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Uchida received joint research funding with 
+Hitachi, Ltd [Grant number 2617Dm-08b]. All other authors have no conflict of 
+interest to declare.

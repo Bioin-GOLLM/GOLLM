@@ -1,0 +1,46 @@
+1. Indian J Clin Biochem. 2023 Jul;38(3):361-373. doi:
+10.1007/s12291-022-01056-6.  Epub 2022 Jul 5.
+
+Identification of Cyanobacteria-Based Natural Inhibitors Against SARS-CoV-2 
+Druggable Target ACE2 Using Molecular Docking Study, ADME and Toxicity Analysis.
+
+Sahu N(1), Mishra S(1), Kesheri M(1), Kanchan S(1), Sinha RP(1).
+
+Author information:
+(1)Varanasi, 221005 India Laboratory of Photobiology and Molecular Microbiology, 
+Centre of Advanced Study in Botany, Banaras Hindu University.
+
+In 2019-2020, the novel "severe acute respiratory syndrome coronavirus-2 
+(SARS-CoV-2)" had emerged as the biggest challenge for humanity, causing 
+"coronavirus disease 19 (COVID-19)". Scientists around the world have been 
+putting continuous efforts to unfold potential inhibitors of SARS-CoV-2. We have 
+performed computational studies that help us to identify cyanobacterial 
+photoprotective compounds as potential inhibitors against SARS-CoV-2 druggable 
+target human angiotensin-converting enzyme (ACE2), which plays a vital role in 
+the attachment and entry of the virus into the cell. Blocking the 
+receptor-binding domain of ACE2 can prevent the access of the virus into the 
+compartment. A molecular docking study was performed between photoprotective 
+compounds mycosporine-like amino acids, scytonemins and ACE2 protein using 
+AutoDock tools. Among sixteen molecularly docked metabolites, seven compounds 
+were selected with binding energy < 6.8 kcal/mol. Afterwards, drug-likeness and 
+toxicity of the top candidate were predicted using Swiss ADME and Pro Tox-II 
+online servers. All top hits show desirable drug-likeness properties, but 
+toxicity pattern analysis discloses the toxic effect of scytonemin and its 
+derivatives, resulting in the elimination from the screening pipeline. Further 
+molecular interaction study of the rest two ligands, mycosporine-glycine-valine 
+and shinorine with ACE2 was performed using PyMol, Biovia Discovery studio and 
+LigPlot+. Lastly biological activity of both the ligands was predicted by using 
+the PASS online server. Combining the docking score and other studied 
+properties, we believe that mycosporine-glycine-valine and shinorine have 
+potential to be potent inhibitors of ACE2 and can be explored further to use 
+against COVID-19.
+
+© The Author(s), under exclusive licence to Association of Clinical Biochemists 
+of India 2022.
+
+DOI: 10.1007/s12291-022-01056-6
+PMCID: PMC9255548
+PMID: 35812791
+
+Conflict of interest statement: Conflict of interestThe authors declare no 
+conflict of interest.

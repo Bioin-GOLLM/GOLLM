@@ -1,0 +1,43 @@
+1. Nat Commun. 2021 Mar 23;12(1):1846. doi: 10.1038/s41467-021-22134-y.
+
+Robust and flexible platform for directed evolution of yeast genetic switches.
+
+Tominaga M(1), Nozaki K(1), Umeno D(2), Ishii J(3)(4), Kondo A(1)(5)(6)(7).
+
+Author information:
+(1)Graduate School of Science, Technology and Innovation, Kobe University, Kobe, 
+Japan.
+(2)Department of Applied Chemistry and Biotechnology, Faculty of Engineering, 
+Chiba University, Chiba, Japan.
+(3)Graduate School of Science, Technology and Innovation, Kobe University, Kobe, 
+Japan. junjun@port.kobe-u.ac.jp.
+(4)Engineering Biology Research Center, Kobe University, Kobe, Japan. 
+junjun@port.kobe-u.ac.jp.
+(5)Engineering Biology Research Center, Kobe University, Kobe, Japan.
+(6)Department of Chemical Science and Engineering, Faculty of Engineering, Kobe 
+University, Kobe, Japan.
+(7)Center for Sustainable Resource Science, RIKEN, Yokohama, Japan.
+
+A wide repertoire of genetic switches has accelerated prokaryotic synthetic 
+biology, while eukaryotic synthetic biology has lagged in the model organism 
+Saccharomyces cerevisiae. Eukaryotic genetic switches are larger and more 
+complex than prokaryotic ones, complicating the rational design and evolution of 
+them. Here, we present a robust workflow for the creation and evolution of yeast 
+genetic switches. The selector system was designed so that both ON- and 
+OFF-state selection of genetic switches is completed solely by liquid handling, 
+and it enabled parallel screen/selection of different motifs with different 
+selection conditions. Because selection threshold of both ON- and OFF-state 
+selection can be flexibly tuned, the desired selection conditions can be rapidly 
+pinned down for individual directed evolution experiments without a prior 
+knowledge either on the library population. The system's utility was 
+demonstrated using 20 independent directed evolution experiments, yielding 
+genetic switches with elevated inducer sensitivities, inverted switching 
+behaviours, sensory functions, and improved signal-to-noise ratio (>100-fold 
+induction). The resulting yeast genetic switches were readily integrated, in a 
+plug-and-play manner, into an AND-gated carotenoid biosynthesis pathway.
+
+DOI: 10.1038/s41467-021-22134-y
+PMCID: PMC7988172
+PMID: 33758180 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

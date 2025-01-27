@@ -1,0 +1,47 @@
+1. Cancers (Basel). 2023 May 28;15(11):2957. doi: 10.3390/cancers15112957.
+
+Polygenic Risk Score Predicts Modified Risk in BRCA1 Pathogenic Variant 
+c.4035del and c.5266dup Carriers in Breast Cancer Patients.
+
+Berga-Švītiņa E(1)(2), Maksimenko J(2)(3), Miklaševičs E(2)(4), Fischer K(5)(6), 
+Vilne B(1), Mägi R(5).
+
+Author information:
+(1)Bioinformatics Lab, Rīga Stradiņš University, Dzirciema Street 16, LV-1007 
+Riga, Latvia.
+(2)Institute of Oncology, Rīga Stradiņš University, Pilsoņu Street 13, Block 13, 
+LV-1002 Riga, Latvia.
+(3)Pauls Stradiņš Clinical University Hospital, Pilsoņu Street 13, LV-1002 Riga, 
+Latvia.
+(4)Department of Biology and Microbiology, Rīga Stradiņš University, LV-1007 
+Riga, Latvia.
+(5)Institute of Genomics, University of Tartu, Riia 23b, 51010 Tartu, Estonia.
+(6)Institute of Mathematics and Statistics, University of Tartu, Narva mnt 18, 
+51009 Tartu, Estonia.
+
+The aim of this study was to assess the power of the polygenic risk score (PRS) 
+in estimating the overall genetic risk of women carrying germline BRCA1 
+pathogenic variants (PVs) c.4035del or c.5266dup to develop breast (BC) or 
+ovarian cancer (OC) due to additional genetic variations. In this study, PRSs 
+previously developed from two joint models using summary statistics of 
+age-at-onset (BayesW model) and case-control data (BayesRR-RC model) from a 
+genome-wide association analysis (GWAS) were applied to 406 germline BRCA1 PV 
+(c.4035del or c.5266dup) carriers affected by BC or OC, compared with unaffected 
+individuals. A binomial logistic regression model was used to assess the 
+association of PRS with BC or OC development risk. We observed that the 
+best-fitting BayesW PRS model effectively predicted the individual's BC risk (OR 
+= 1.37; 95% CI = 1.03-1.81, p = 0.02905 with AUC = 0.759). However, none of the 
+applied PRS models was a good predictor of OC risk. The best-fitted PRS model 
+(BayesW) contributed to assessing the risk of developing BC for germline BRCA1 
+PV (c.4035del or c.5266dup) carriers and may facilitate more precise and timely 
+patient stratification and decision-making to improve the current BC treatment 
+or even prevention strategies.
+
+DOI: 10.3390/cancers15112957
+PMCID: PMC10252024
+PMID: 37296919
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.

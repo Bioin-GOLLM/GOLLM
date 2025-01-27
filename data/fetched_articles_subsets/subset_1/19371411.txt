@@ -1,0 +1,34 @@
+1. BMC Bioinformatics. 2009 Apr 16;10:108. doi: 10.1186/1471-2105-10-108.
+
+dbSMR: a novel resource of genome-wide SNPs affecting microRNA mediated 
+regulation.
+
+Hariharan M(1), Scaria V, Brahmachari SK.
+
+Author information:
+(1)GN Ramachandran Knowledge Center for Genome Informatics, Institute of 
+Genomics and Integrative Biology (CSIR), Delhi, India. mh.manoj@gmail.com
+
+BACKGROUND: MicroRNAs (miRNAs) regulate several biological processes through 
+post-transcriptional gene silencing. The efficiency of binding of miRNAs to 
+target transcripts depends on the sequence as well as intramolecular structure 
+of the transcript. Single Nucleotide Polymorphisms (SNPs) can contribute to 
+alterations in the structure of regions flanking them, thereby influencing the 
+accessibility for miRNA binding.
+DESCRIPTION: The entire human genome was analyzed for SNPs in and around 
+predicted miRNA target sites. Polymorphisms within 200 nucleotides that could 
+alter the intramolecular structure at the target site, thereby altering 
+regulation were annotated. Collated information was ported in a MySQL database 
+with a user-friendly interface accessible through the URL: 
+(http://miracle.igib.res.in/dbSMR).
+CONCLUSION: The database has a user-friendly interface where the information can 
+be queried using either the gene name, microRNA name, polymorphism ID or 
+transcript ID. Combination queries using 'AND' or 'OR' is also possible along 
+with specifying the degree of change of intramolecular bonding with and without 
+the polymorphism. Such a resource would enable researchers address questions 
+like the role of regulatory SNPs in the 3' UTRs and population specific 
+regulatory modulations in the context of microRNA targets.
+
+DOI: 10.1186/1471-2105-10-108
+PMCID: PMC2676258
+PMID: 19371411 [Indexed for MEDLINE]

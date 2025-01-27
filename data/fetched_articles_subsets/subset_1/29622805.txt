@@ -1,0 +1,40 @@
+1. Nat Protoc. 2018 May;13(5):927-945. doi: 10.1038/nprot.2018.016. Epub 2018 Apr
+ 5.
+
+Generation and customization of biosynthetic excitable tissues for 
+electrophysiological studies and cell-based therapies.
+
+Nguyen HX(1), Kirkton RD(1), Bursac N(1).
+
+Author information:
+(1)Department of Biomedical Engineering, Duke University, Durham, North 
+Carolina, USA.
+
+We describe a two-stage protocol to generate electrically excitable and actively 
+conducting cell networks with stable and customizable electrophysiological 
+phenotypes. Using this method, we have engineered monoclonally derived excitable 
+tissues as a robust and reproducible platform to investigate how specific ion 
+channels and mutations affect action potential (AP) shape and conduction. In the 
+first stage of the protocol, we combine computational modeling, site-directed 
+mutagenesis, and electrophysiological techniques to derive optimal sets of 
+mammalian and/or prokaryotic ion channels that produce specific AP shape and 
+conduction characteristics. In the second stage of the protocol, selected ion 
+channels are stably expressed in unexcitable human cells by means of viral or 
+nonviral delivery, followed by flow cytometry or antibiotic selection to purify 
+the desired phenotype. This protocol can be used with traditional heterologous 
+expression systems or primary excitable cells, and application of this method to 
+primary fibroblasts may enable an alternative approach to cardiac cell therapy. 
+Compared with existing methods, this protocol generates a well-defined, 
+relatively homogeneous electrophysiological phenotype of excitable cells that 
+facilitates experimental and computational studies of AP conduction and can 
+decrease arrhythmogenic risk upon cell transplantation. Although basic cell 
+culture and molecular biology techniques are sufficient to generate excitable 
+tissues using the described protocol, experience with patch-clamp techniques is 
+required to characterize and optimize derived cell populations.
+
+DOI: 10.1038/nprot.2018.016
+PMCID: PMC6050172
+PMID: 29622805 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING INTERESTS The authors declare no 
+competing interests.

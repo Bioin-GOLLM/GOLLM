@@ -1,0 +1,55 @@
+1. bioRxiv [Preprint]. 2023 Apr 11:2023.04.10.536331. doi: 
+10.1101/2023.04.10.536331.
+
+DNA Repair Function Scores for 2172 Variants in the BRCA1 Amino-Terminus.
+
+Diabate M(1), Islam MM(1), Nagy G(1), Banerjee T(1), Dhar S(1), Smith N(2)(3), 
+Adamovich AI(1), Starita LM(2)(3), Parvin JD(1).
+
+Author information:
+(1)The Ohio State University, Department of Biomedical Informatics, and The Ohio 
+State University Comprehensive Center, Columbus, OH 43210.
+(2)The University of Washington, Department of Genome Sciences, Seattle, WA 
+98195.
+(3)Brotman Baty Institute for Precision Medicine, Seattle WA, 98195.
+
+Update in
+    PLoS Genet. 2023 Aug 14;19(8):e1010739. doi: 10.1371/journal.pgen.1010739.
+
+Single nucleotide variants are the most frequent type of sequence changes 
+detected in the genome and these are frequently variants of uncertain 
+significance (VUS). VUS are changes in DNA for which disease risk association is 
+unknown. Thus, methods that classify the functional impact of a VUS can be used 
+as evidence for variant interpretation. In the case of the breast and ovarian 
+cancer specific tumor suppressor protein, BRCA1, pathogenic missense variants 
+frequently score as loss of function in an assay for homology-directed repair 
+(HDR) of DNA double-strand breaks. We previously published functional results 
+using a multiplexed assay for 1056 amino acid substitutions residues 2-192 in 
+the amino terminus of BRCA1. In this study, we have re-assessed the data from 
+this multiplexed assay using an improved analysis pipeline. These new analysis 
+methods yield functional scores for more variants in the first 192 amino acids 
+of BRCA1, plus we report new results for BRCA1 amino acid residues 193-302. We 
+now present the functional classification of 2172 BRCA1 variants in BRCA1 
+residues 2-302 using the multiplexed HDR assay. Comparison of the functional 
+determinations of the missense variants with clinically known benign or 
+pathogenic variants indicated 93% sensitivity and 100% specificity for this 
+assay. The results from BRCA1 variants tested in this assay are a resource for 
+clinical geneticists for evidence to evaluate VUS in BRCA1 .
+AUTHOR SUMMARY: Most missense substitutions in BRCA1 are variants of unknown 
+significance (VUS), and individuals with a VUS in BRCA1 cannot know from genetic 
+information alone whether this variant predisposes to breast or ovarian cancer. 
+We apply a multiplexed functional assay for homology directed repair of DNA 
+double strand breaks to assess variant impact on this important BRCA1 protein 
+function. We analyzed 2172 variants in the amino-terminus of BRCA1 and 
+demonstrate that variants that are known as pathogenic have a loss of function 
+in the DNA repair assay. Conversely, variants that are known to be benign are 
+functionally normal in the multiplexed assay. We suggest that these functional 
+determinations of BRCA1 variants can be used to augment the information that 
+clinical cancer geneticists provide to patients who have a VUS in BRCA1 .
+
+DOI: 10.1101/2023.04.10.536331
+PMCID: PMC10120616
+PMID: 37090572
+
+Conflict of interest statement: DECLARATION OF INTERESTS The authors declare no 
+competing interests.

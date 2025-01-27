@@ -1,0 +1,51 @@
+1. Front Oncol. 2023 Jan 10;12:1091767. doi: 10.3389/fonc.2022.1091767.
+eCollection  2022.
+
+Efficient feature extraction from highly sparse binary genotype data for cancer 
+prognosis prediction using an auto-encoder.
+
+Shen J(1)(2), Li H(1)(2), Yu X(2)(3), Bai L(1)(2), Dong Y(1)(2), Cao J(4), Lu 
+K(5), Tang Z(1)(2).
+
+Author information:
+(1)Department of Biostatistics, School of Public Health, Medical College of 
+Soochow University, Suzhou, China.
+(2)Jiangsu Key Laboratory of Preventive and Translational Medicine for Geriatric 
+Diseases, Medical College of Soochow University, Suzhou, China.
+(3)Center for Genetic Epidemiology and Genomics, School of Public Health, 
+Medical College of Soochow University, Suzhou, China.
+(4)School of Radiation Medicine and Protection and Collaborative Innovation 
+Center of Radiation Medicine of Jiangsu Higher Education Institutions, Soochow 
+University, Suzhou, China.
+(5)Department of Orthopedics, Affiliated Kunshan Hospital of Jiangsu University, 
+Suzhou, China.
+
+Genomics involving tens of thousands of genes is a complex system determining 
+phenotype. An interesting and vital issue is how to integrate highly sparse 
+genetic genomics data with a mass of minor effects into a prediction model for 
+improving prediction power. We find that the deep learning method can work well 
+to extract features by transforming highly sparse dichotomous data to 
+lower-dimensional continuous data in a non-linear way. This may provide benefits 
+in risk prediction-associated genotype data. We developed a multi-stage strategy 
+to extract information from highly sparse binary genotype data and applied it 
+for cancer prognosis. Specifically, we first reduced the size of binary 
+biomarkers via a univariable regression model to a moderate size. Then, a 
+trainable auto-encoder was used to learn compact features from the reduced data. 
+Next, we performed a LASSO problem process to select the optimal combination of 
+extracted features. Lastly, we applied such feature combination to real cancer 
+prognostic models and evaluated the raw predictive effect of the models. The 
+results indicated that these compressed transformation features could better 
+improve the model's original predictive performance and might avoid an 
+overfitting problem. This idea may be enlightening for everyone involved in 
+cancer research, risk reduction, treatment, and patient care via integrating 
+genomics data.
+
+Copyright © 2023 Shen, Li, Yu, Bai, Dong, Cao, Lu and Tang.
+
+DOI: 10.3389/fonc.2022.1091767
+PMCID: PMC9872139
+PMID: 36703783
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

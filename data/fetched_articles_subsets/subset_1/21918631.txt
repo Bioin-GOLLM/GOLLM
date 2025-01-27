@@ -1,0 +1,42 @@
+1. Adv Appl Bioinform Chem. 2010;3:97-110. doi: 10.2147/AABC.S14368. Epub 2010
+Dec  7.
+
+A kinetic platform for in silico modeling of the metabolic dynamics in 
+Escherichia coli.
+
+Barve A(1), Gupta A, Solapure SM, Kumar A, Ramachandran V, Seshadri K, Vali S, 
+Datta S.
+
+Author information:
+(1)Cellworks Research India Pvt. Ltd, Bangalore, India.
+
+BACKGROUND: A prerequisite for a successful design and discovery of an 
+antibacterial drug is the identification of essential targets as well as potent 
+inhibitors that adversely affect the survival of bacteria. In order to 
+understand how intracellular perturbations occur due to inhibition of essential 
+metabolic pathways, we have built, through the use of ordinary differential 
+equations, a mathematical model of 8 major Escherichia coli pathways.
+RESULTS: Individual in vitro enzyme kinetic parameters published in the 
+literature were used to build the network of pathways in such a way that the 
+flux distribution matched that reported from whole cells. Gene regulation at the 
+transcription level as well as feedback regulation of enzyme activity was 
+incorporated as reported in the literature. The unknown kinetic parameters were 
+estimated by trial and error through simulations by observing network stability. 
+Metabolites, whose biosynthetic pathways were not represented in this platform, 
+were provided at a fixed concentration. Unutilized products were maintained at a 
+fixed concentration by removing excess quantities from the platform. This 
+approach enabled us to achieve steady state levels of all the metabolites in the 
+cell. The output of various simulations correlated well with those previously 
+published.
+CONCLUSION: Such a virtual platform can be exploited for target identification 
+through assessment of their vulnerability, desirable mode of target enzyme 
+inhibition, and metabolite profiling to ascribe mechanism of action following a 
+specific target inhibition. Vulnerability of targets in the biosynthetic pathway 
+of coenzyme A was evaluated using this platform. In addition, we also report the 
+utility of this platform in understanding the impact of a physiologically 
+relevant carbon source, glucose versus acetate, on metabolite profiles of 
+bacterial pathogens.
+
+DOI: 10.2147/AABC.S14368
+PMCID: PMC3170011
+PMID: 21918631

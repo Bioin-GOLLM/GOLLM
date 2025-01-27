@@ -1,0 +1,63 @@
+1. Nat Commun. 2023 Apr 6;14(1):1933. doi: 10.1038/s41467-023-37593-8.
+
+Mapping the landscape of genetic dependencies in chordoma.
+
+Sharifnia T(#)(1), Wawer MJ(#)(2)(3), Goodale A(2), Lee Y(2), Kazachkova 
+M(2)(4), Dempster JM(2), Muller S(2), Levy J(5)(6), Freed DM(5), Sommer J(5), 
+Kalfon J(2), Vazquez F(2), Hahn WC(2)(7), Root DE(2), Clemons PA(2), Schreiber 
+SL(8)(9).
+
+Author information:
+(1)Broad Institute of Harvard and MIT, Cambridge, MA, 02142, USA. 
+tanaz@broadinstitute.org.
+(2)Broad Institute of Harvard and MIT, Cambridge, MA, 02142, USA.
+(3)Kojin Therapeutics, Boston, MA, 02210, USA.
+(4)University of California San Diego, La Jolla, CA, 92093, USA.
+(5)Chordoma Foundation, Durham, NC, 27702, USA.
+(6)Melanoma Research Alliance, Washington, D.C., 20005, USA.
+(7)Dana-Farber Cancer Institute, Boston, MA, 02215, USA.
+(8)Broad Institute of Harvard and MIT, Cambridge, MA, 02142, USA. 
+stuart_schreiber@harvard.edu.
+(9)Harvard University, Cambridge, MA, 02138, USA. stuart_schreiber@harvard.edu.
+(#)Contributed equally
+
+Identifying the spectrum of genes required for cancer cell survival can reveal 
+essential cancer circuitry and therapeutic targets, but such a map remains 
+incomplete for many cancer types. We apply genome-scale CRISPR-Cas9 
+loss-of-function screens to map the landscape of selectively essential genes in 
+chordoma, a bone cancer with few validated targets. This approach confirms a 
+known chordoma dependency, TBXT (T; brachyury), and identifies a range of 
+additional dependencies, including PTPN11, ADAR, PRKRA, LUC7L2, SRRM2, SLC2A1, 
+SLC7A5, FANCM, and THAP1. CDK6, SOX9, and EGFR, genes previously implicated in 
+chordoma biology, are also recovered. We find genomic and transcriptomic 
+features that predict specific dependencies, including interferon-stimulated 
+gene expression, which correlates with ADAR dependence and is elevated in 
+chordoma. Validating the therapeutic relevance of dependencies, small-molecule 
+inhibitors of SHP2, encoded by PTPN11, have potent preclinical efficacy against 
+chordoma. Our results generate an emerging map of chordoma dependencies to 
+enable biological and therapeutic hypotheses.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41467-023-37593-8
+PMCID: PMC10079670
+PMID: 37024492 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.J.W. is an employee and shareholder of Kojin 
+Therapeutics. D.M.F. is a consultant for Incyclix Bio. F.V. receives research 
+support from the Dependency Map Consortium, Bristol Myers Squibb, Novo Ventures, 
+and Riva therapeutics, has participated in an advisory board of GSK, and has 
+shares and is a consultant for Riva Therapeutics. D.E.R. receives research 
+funding from members of the Functional Genomics Consortium (Abbvie, 
+Bristol-Myers Squibb, Jannsen, Merck, Vir), and is a director of Addgene, Inc. 
+W.C.H. is a consultant for ThermoFisher, Solasta, MPM Capital, Frontier 
+Medicines, Tyra Biosciences, RAPPTA Therapeutics, KSQ Therapeutics, Jubilant 
+Therapeutics, Function Oncology, Calyx, and Serinus Biosciences. P.A.C. is an 
+advisor to Pfizer, Inc., Belharra Therapeutics, and Magnet Biomedicine. S.L.S. 
+is a shareholder and serves on the Board of Directors of Kojin Therapeutics; is 
+a shareholder and advises Jnana Therapeutics, Kisbee Therapeutics, Belharra 
+Therapeutics, Magnet Biomedicine, Exo Therapeutics, Eikonizo Therapeutics, and 
+Replay Bio; advises Vividian Therapeutics, Eisai Co., Ltd., Ono Pharma 
+Foundation, F-Prime Capital Partners, and the Genomics Institute of the Novartis 
+Research Foundation; and is a Novartis Faculty Scholar. The remaining authors 
+declare no competing interests.

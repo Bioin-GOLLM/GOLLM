@@ -1,0 +1,81 @@
+1. Elife. 2022 Aug 5;11:e74810. doi: 10.7554/eLife.74810.
+
+Allosteric stabilization of calcium and phosphoinositide dual binding engages 
+several synaptotagmins in fast exocytosis.
+
+Kobbersmed JRL(#)(1)(2), Berns MMM(#)(2)(3), Ditlevsen S(1), Sørensen JB(2), 
+Walter AM(2)(3).
+
+Author information:
+(1)Department of Mathematical Sciences, University of Copenhagen, Copenhagen, 
+Denmark.
+(2)Department of Neuroscience, University of Copenhagen, Copenhagen, Denmark.
+(3)Molecular and Theoretical Neuroscience, Leibniz-Institut für Molekulare 
+Pharmakologie, FMP im CharitéCrossOver, Berlin, Germany.
+(#)Contributed equally
+
+Synaptic communication relies on the fusion of synaptic vesicles with the plasma 
+membrane, which leads to neurotransmitter release. This exocytosis is triggered 
+by brief and local elevations of intracellular Ca2+ with remarkably high 
+sensitivity. How this is molecularly achieved is unknown. While synaptotagmins 
+confer the Ca2+ sensitivity of neurotransmitter exocytosis, biochemical 
+measurements reported Ca2+ affinities too low to account for synaptic function. 
+However, synaptotagmin's Ca2+ affinity increases upon binding the plasma 
+membrane phospholipid PI(4,5)P2 and, vice versa, Ca2+ binding increases 
+synaptotagmin's PI(4,5)P2 affinity, indicating a stabilization of the 
+Ca2+/PI(4,5)P2 dual-bound state. Here, we devise a molecular exocytosis model 
+based on this positive allosteric stabilization and the assumptions that (1.) 
+synaptotagmin Ca2+/PI(4,5)P2 dual binding lowers the energy barrier for vesicle 
+fusion and that (2.) the effect of multiple synaptotagmins on the energy barrier 
+is additive. The model, which relies on biochemically measured Ca2+/PI(4,5)P2 
+affinities and protein copy numbers, reproduced the steep Ca2+ dependency of 
+neurotransmitter release. Our results indicate that each synaptotagmin engaging 
+in Ca2+/PI(4,5)P2 dual-binding lowers the energy barrier for vesicle fusion by 
+~5 kBT and that allosteric stabilization of this state enables the synchronized 
+engagement of several (typically three) synaptotagmins for fast exocytosis. 
+Furthermore, we show that mutations altering synaptotagmin's allosteric 
+properties may show dominant-negative effects, even though synaptotagmins act 
+independently on the energy barrier, and that dynamic changes of local PI(4,5)P2 
+(e.g. upon vesicle movement) dramatically impact synaptic responses. We conclude 
+that allosterically stabilized Ca2+/PI(4,5)P2 dual binding enables 
+synaptotagmins to exert their coordinated function in neurotransmission.
+
+Plain Language Summary: For our brains and nervous systems to work properly, the 
+nerve cells within them must be able to ‘talk’ to each other. They do this by 
+releasing chemical signals called neurotransmitters which other cells can detect 
+and respond to. Neurotransmitters are packaged in tiny membrane-bound spheres 
+called vesicles. When a cell of the nervous system needs to send a signal to its 
+neighbours, the vesicles fuse with the outer membrane of the cell, discharging 
+their chemical contents for other cells to detect. The initial trigger for 
+neurotransmitter release is a short, fast increase in the amount of calcium ions 
+inside the signalling cell. One of the main proteins that helps regulate this 
+process is synaptotagmin which binds to calcium and gives vesicles the signal to 
+start unloading their chemicals. Despite acting as a calcium sensor, 
+synaptotagmin actually has a very low affinity for calcium ions by itself, 
+meaning that it would not be efficient for the protein to respond alone. 
+Synpatotagmin is more likely to bind to calcium if it is attached to a molecule 
+called PIP2, which is found in the membranes of cells The effect also occurs in 
+reverse, as the binding of calcium to synaptotagmin increases the protein’s 
+affinity for PIP2. However, how these three molecules – synaptotagmin, PIP2, and 
+calcium – work together to achieve the physiological release of 
+neurotransmitters is poorly understood. To help answer this question, 
+Kobbersmed, Berns et al. set up a computer simulation of ‘virtual vesicles’ 
+using available experimental data on synaptotagmin’s affinity with calcium and 
+PIP2. In this simulation, synaptotagmin could only trigger the release of 
+neurotransmitters when bound to both calcium and PIP2. The model also showed 
+that each ‘complex’ of synaptotagmin/calcium/PIP2 made the vesicles more likely 
+to fuse with the outer membrane of the cell – to the extent that only a handful 
+of synaptotagmin molecules were needed to start neurotransmitter release from a 
+single vesicle. These results shed new light on a biological process central to 
+the way nerve cells communicate with each other. In the future, Kobbersmed, 
+Berns et al. hope that this insight will help us to understand the cause of 
+diseases where communication in the nervous system is impaired.
+
+© 2022, Kobbersmed, Berns et al.
+
+DOI: 10.7554/eLife.74810
+PMCID: PMC9489213
+PMID: 35929728 [Indexed for MEDLINE]
+
+Conflict of interest statement: JK, MB, SD, JS, AW No competing interests 
+declared

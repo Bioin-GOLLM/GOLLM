@@ -1,0 +1,49 @@
+1. Pharmaceuticals (Basel). 2022 Oct 13;15(10):1260. doi: 10.3390/ph15101260.
+
+Optimization of Resveratrol Used as a Scaffold to Design Histone Deacetylase 
+(HDAC-1 and HDAC-2) Inhibitors.
+
+Urias BS(1), Pavan AR(1)(2), Albuquerque GR(1), Prokopczyk IM(1), Alves TMF(1), 
+de Melo TRF(1), Sartori GR(3)(4), da Silva JHM(3), Chin CM(1), Santos JLD(1).
+
+Author information:
+(1)School of Pharmaceutical Sciences, São Paulo State University (UNESP), 
+Araraquara 14800-903, SP, Brazil.
+(2)Institute of Chemistry, São Paulo State University (UNESP), Araraquara 
+14800-060, SP, Brazil.
+(3)Laboratory of Structural and Functional Biology Applied to 
+Biopharmaceuticals, Oswaldo Cruz Foundation (Fiocruz), Eusébio 61773-270, CE, 
+Brazil.
+(4)Postgraduate Program in Computational and Systems Biology, Oswaldo Cruz 
+Foundation (Fiocruz), Rio de Janeiro 21040-222, RJ, Brazil.
+
+Histone deacetylases (HDAC) are epigenetic enzymes responsible for repressing 
+gene expression through the deacetylation of histone lysine residues. Therefore, 
+inhibition of HDACs has become an interesting approach for the treatment of 
+several diseases, including cancer, hematology, neurodegenerative, immune 
+diseases, bacterial infections, and more. Resveratrol (RVT) has pleiotropic 
+effects, including pan-inhibition of HDAC isoforms; however, its ability to 
+interfere with membranes requires additional optimization to eliminate 
+nonspecific and off-target effects. Thus, to explore RVT as a scaffold, we 
+designed a series of novel HDAC-1 and -2 inhibitors containing the 
+2-aminobenzamide subunit. Using molecular modeling, all compounds, except 
+unsaturated compounds (4) and (7), exhibited a similar mode of interaction at 
+the active sites of HDAC 1 and 2. The docking score values obtained from the 
+study ranged from -12.780 to -10.967 Kcal/mol. All compounds were synthesized, 
+with overall yields ranging from 33% to 67.3%. In an initial screening, 
+compounds (4), (5), (7), and (20)-(26), showed enzymatic inhibitory effects 
+ranging from 1 to 96% and 6 to 93% against HDAC-1 and HDAC-2, respectively. 
+Compound (5), the most promising HDAC inhibitor in this series, was selected for 
+IC50 assays, resulting in IC50 values of 0.44 µM and 0.37 µM against HDAC-1 and 
+HDAC-2, respectively. In a panel of selectivity against HDACs 3-11, compound (5) 
+presented selectivity towards Class I, mainly HDAC-1, 2, and 3. All compounds 
+exhibited suitable physicochemical and ADMET properties as determined using in 
+silico simulations. In conclusion, the optimization of the RVT structure allows 
+the design of selective HDAC inhibitors, mainly targeting HDAC-1 and HDAC-2 
+isoforms.
+
+DOI: 10.3390/ph15101260
+PMCID: PMC9611521
+PMID: 36297372
+
+Conflict of interest statement: The authors declare no conflict of interest.

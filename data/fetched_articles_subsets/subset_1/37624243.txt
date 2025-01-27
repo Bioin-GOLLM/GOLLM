@@ -1,0 +1,45 @@
+1. Toxins (Basel). 2023 Aug 2;15(8):486. doi: 10.3390/toxins15080486.
+
+Mycolactone A vs. B: Multiscale Simulations Reveal the Roles of Localization and 
+Association in Isomer-Specific Toxicity.
+
+Nguyen JDM(1), da Hora GCA(1), Swanson JMJ(1).
+
+Author information:
+(1)Department of Chemistry, University of Utah, Salt Lake City, UT 84112, USA.
+
+Update of
+    bioRxiv. 2023 May 22:2023.05.19.541532. doi: 10.1101/2023.05.19.541532.
+
+Mycolactone is an exotoxin produced by Mycobacterium ulcerans that causes the 
+neglected tropical skin disease Buruli ulcer. This toxin inhibits the Sec61 
+translocon in the endoplasmic reticulum (ER), preventing the host cell from 
+producing several secretory and transmembrane proteins, resulting in cytotoxic 
+and immunomodulatory effects. Interestingly, only one of the two dominant 
+isoforms of mycolactone is cytotoxic. Here, we investigate the origin of this 
+specificity by performing extensive molecular dynamics (MD) simulations with 
+enhanced free energy sampling to query the association trends of the two 
+isoforms with both the Sec61 translocon, using two distinct cryo-electron 
+microscopy (cryo-EM) models as references, and the ER membrane, which serves as 
+a toxin reservoir prior to association. Our results suggest that mycolactone B 
+(the cytotoxic isoform) has a stronger association with the ER membrane than 
+mycolactone A due to more favorable interactions with membrane lipids and water 
+molecules. This could increase the reservoir of toxin proximal to the Sec61 
+translocon. In one model of Sec61 inhibited by mycolactone, we find that isomer 
+B interacts more closely with residues thought to play a key role in signal 
+peptide recognition and, thus, are essential for subsequent protein 
+translocation. In the other model, we find that isomer B interacts more closely 
+with the lumenal and lateral gates of the translocon, the dynamics of which are 
+essential for protein translocation. These interactions induce a more closed 
+conformation, which has been suggested to block signal peptide insertion and 
+subsequent protein translocation. Collectively, these findings suggest that 
+isomer B's unique cytotoxicity is a consequence of both increased localization 
+to the ER membrane and channel-locking association with the Sec61 translocon, 
+facets that could be targeted in the development of Buruli Ulcer diagnostics and 
+Sec61-targeted therapeutics.
+
+DOI: 10.3390/toxins15080486
+PMCID: PMC10467071
+PMID: 37624243 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

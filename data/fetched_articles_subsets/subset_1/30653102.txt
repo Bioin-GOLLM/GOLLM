@@ -1,0 +1,45 @@
+1. Medicine (Baltimore). 2019 Jan;98(3):e13975. doi: 10.1097/MD.0000000000013975.
+
+Coverage rate of ADME genes from commercial sequencing arrays.
+
+Zaid N(1)(2), Limami Y(3), Senhaji N(4), Errafiy N(5), Khalki L(5), Bakri Y(6), 
+Zaid Y(3), Amzazi S(1)(2).
+
+Author information:
+(1)Faculty of Sciences, Mohammed V University, Rabat.
+(2)Biochemistry and Immunology Laboratory, Rabat.
+(3)Research Center, Abulcasis University of Health Sciences, Rabat.
+(4)Faculty of Medicine and Pharmacy of Casablanca, Laboratory of Genetics and 
+Molecular pathologies, Hassan II University.
+(5)Mohammed VI University of Health Sciences (UM6SS), Casablanca.
+(6)Faculty of Sciences, Laboratory of Biology of Human Pathology, Center of 
+Genomics of Human Pathologies, Mohammed V University, Rabat, Morocco.
+
+Pharmacogenomics offers remarkable potential for the rapid translation of 
+discoveries into changes in clinical practice. In the present work, we are 
+interested in evaluating the ability of commercially available genome-wide 
+association sequencing chips to cover genes that have high pharmacogenomics 
+potential.We used a set of 2794 variations within 369 absorption, distribution, 
+metabolism, and elimination (ADME) genes of interest, as previously defined in 
+collaboration with the Pharma ADME consortium. We have compared the Illumina 
+TrueSeq and both Agilent SureSelect and HaloPlex sequencing technologies. We 
+have developed Python scripts to evaluate the coverage for each of these 
+products. In particular, we considered a specific list of 155 allelic variants 
+in 34 genes which present high pharmacogenomics potential. Both the theoretical 
+and practical coverage was assessed.Given the need to have a good coverage to 
+establish confidently the functionality of an enzyme, the observed rates are 
+unlikely to provide sufficient evidence for pharmacogenomics studies. We 
+assessed the coverage using enrichment technology for exome sequencing using the 
+Illumina Trueseq exome, Agilent SureSelectXT1 V4 and V5, and Haloplex exome, 
+which offer a coverage of 96.12%, 91.61%, and 88.38%, respectively.Although 
+pharmacogenomic advances had been limited in the past due in part to the lack of 
+coverage of commercial genotyping chips, it is anticipated that future studies 
+that make use of new sequencing technologies should offer a greater potential 
+for discovery.
+
+DOI: 10.1097/MD.0000000000013975
+PMCID: PMC6370070
+PMID: 30653102 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.

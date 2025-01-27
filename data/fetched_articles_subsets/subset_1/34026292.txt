@@ -1,0 +1,53 @@
+1. J Adv Res. 2020 Dec 7;30:147-158. doi: 10.1016/j.jare.2020.12.003. eCollection
+ 2021 May.
+
+Rare variants discovery by extensive whole-genome sequencing of the Han Chinese 
+population in Taiwan: Applications to cardiovascular medicine.
+
+Juang JJ(1), Lu TP(2), Su MW(3), Lin CW(3), Yang JH(4), Chu HW(3), Chen CH(4), 
+Hsiao YW(2), Lee CY(5), Chiang LM(5), Yu QY(2), Hsiao CK(2), Chen CJ(1), Wu 
+PE(4), Pai CH(3), Chuang EY(5), Shen CY(3)(4).
+
+Author information:
+(1)Cardiovascular Center and Division of Cardiology, Department of Internal 
+Medicine, National Taiwan University Hospital and National Taiwan University 
+College of Medicine, Taipei 10002, Taiwan.
+(2)Department of Public Health, Institute of Epidemiology and Preventative 
+Medicine and Graduate Institute of Biomedical Electronics and Bioinformatics, 
+National Taiwan University, Taipei 10617, Taiwan.
+(3)Taiwan Biobank, Taiwan.
+(4)Institute of Biomedical Sciences, Academia Sinica, Taipei 11574, Taiwan.
+(5)Graduate Institute of Biomedical Electronics and Bioinformatics, National 
+Taiwan University, Taipei 10617, Taiwan.
+
+INTRODUCTION: A population-specific genomic reference is important for research 
+and clinical practice, yet it remains unavailable for Han Chinese (HC) in 
+Taiwan.
+OBJECTIVES: We report the first whole genome sequencing (WGS) database of HC 
+(1000 Taiwanese genome (1KTW-WGS)) and demonstrate several applications to 
+cardiovascular medicine.
+METHODS: Whole genomes of 997 HC were sequenced to at least 30X depth. A total 
+of 20,117 relatively healthy HC individuals were genotyped using a customized 
+Axiom GWAS array. We performed a genome-wide genotype imputation technique using 
+IMPUTE2.
+RESULTS: We identified 26.7 million single-nucleotide variants (SNVs) and 4.2 
+million insertions-deletions. Of the SNVs, 16.1% were novel relative to dbSNP 
+(build 152), and 34.2% were novel relative to gnomAD. A total of 18,450 healthy 
+HC individuals were genotyped using a customized Genome-Wide Association Study 
+(GWAS) array. We identified hypertension-associated variants and developed a 
+hypertension prediction model based on the correlation between the WGS data and 
+GWAS data (combined clinical and genetic models, AUC 0.887), and also identified 
+3 novel hyperlipidemia-associated variants. Each individual carried an average 
+of 16.42 (SD = 3.72) disease-causing variants. Additionally, we established an 
+online SCN5A (an important cardiac gene) database that can be used to explore 
+racial differences. Finally, pharmacogenetics studies identified HC 
+population-specific SNVs in genes (CYP2C9 and VKORC1) involved in drug 
+metabolism and blood clotting.
+CONCLUSION: This research demonstrates the benefits of constructing a 
+population-specific genomic reference database for precision medicine.
+
+© 2020 The Authors. Published by Elsevier B.V. on behalf of Cairo University.
+
+DOI: 10.1016/j.jare.2020.12.003
+PMCID: PMC8132201
+PMID: 34026292 [Indexed for MEDLINE]

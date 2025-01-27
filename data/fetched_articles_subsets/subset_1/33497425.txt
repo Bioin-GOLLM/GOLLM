@@ -1,0 +1,69 @@
+1. JMIR Bioinform Biotechnol. 2021 Jan 22;2(1):e25995. doi: 10.2196/25995. 
+eCollection 2021 Jan-Dec.
+
+Isolating SARS-CoV-2 Strains From Countries in the Same Meridian: Genome 
+Evolutionary Analysis.
+
+Mastriani E(#)(1)(2), Rakov AV(3), Liu SL(1)(2)(4).
+
+Author information:
+(1)Systemomics Center, College of Pharmacy, Genomics Research Center, 
+State-Province Key Laboratories of Biomedicine-Pharmaceutics of China, Harbin 
+Medical University, Harbin, China.
+(2)HMU-UCCSM Centre for Infection and Genomics, Harbin Medical University, 
+Harbin, China.
+(3)Somov Institute of Epidemiology and Microbiology, Vladivostok, Russian 
+Federation.
+(4)Department of Microbiology, Immunology and Infectious Diseases, University of 
+Calgary, Calgary, AB, Canada.
+(#)Contributed equally
+
+BACKGROUND: COVID-19, caused by the novel SARS-CoV-2, is considered the most 
+threatening respiratory infection in the world, with over 40 million people 
+infected and over 0.934 million related deaths reported worldwide. It is 
+speculated that epidemiological and clinical features of COVID-19 may differ 
+across countries or continents. Genomic comparison of 48,635 SARS-CoV-2 genomes 
+has shown that the average number of mutations per sample was 7.23, and most 
+SARS-CoV-2 strains belong to one of 3 clades characterized by geographic and 
+genomic specificity: Europe, Asia, and North America.
+OBJECTIVE: The aim of this study was to compare the genomes of SARS-CoV-2 
+strains isolated from Italy, Sweden, and Congo, that is, 3 different countries 
+in the same meridian (longitude) but with different climate conditions, and from 
+Brazil (as an outgroup country), to analyze similarities or differences in 
+patterns of possible evolutionary pressure signatures in their genomes.
+METHODS: We obtained data from the Global Initiative on Sharing All Influenza 
+Data repository by sampling all genomes available on that date. Using HyPhy, we 
+achieved the recombination analysis by genetic algorithm recombination detection 
+method, trimming, removal of the stop codons, and phylogenetic tree and mixed 
+effects model of evolution analyses. We also performed secondary structure 
+prediction analysis for both sequences (mutated and wild-type) and "disorder" 
+and "transmembrane" analyses of the protein. We analyzed both protein structures 
+with an ab initio approach to predict their ontologies and 3D structures.
+RESULTS: Evolutionary analysis revealed that codon 9628 is under episodic 
+selective pressure for all SARS-CoV-2 strains isolated from the 4 countries, 
+suggesting it is a key site for virus evolution. Codon 9628 encodes the P0DTD3 
+(Y14_SARS2) uncharacterized protein 14. Further investigation showed that the 
+codon mutation was responsible for helical modification in the secondary 
+structure. The codon was positioned in the more ordered region of the gene 
+(41-59) and near to the area acting as the transmembrane (54-67), suggesting its 
+involvement in the attachment phase of the virus. The predicted protein 
+structures of both wild-type and mutated P0DTD3 confirmed the importance of the 
+codon to define the protein structure. Moreover, ontological analysis of the 
+protein emphasized that the mutation enhances the binding probability.
+CONCLUSIONS: Our results suggest that RNA secondary structure may be affected 
+and, consequently, the protein product changes T (threonine) to G (glycine) in 
+position 50 of the protein. This position is located close to the predicted 
+transmembrane region. Mutation analysis revealed that the change from G 
+(glycine) to D (aspartic acid) may confer a new function to the protein-binding 
+activity, which in turn may be responsible for attaching the virus to human 
+eukaryotic cells. These findings can help design in vitro experiments and 
+possibly facilitate a vaccine design and successful antiviral strategies.
+
+©Emilio Mastriani, Alexey V Rakov, Shu-Lin Liu. Originally published in JMIR 
+Research Protocols (http://www.researchprotocols.org), 22.01.2021.
+
+DOI: 10.2196/25995
+PMCID: PMC7837406
+PMID: 33497425
+
+Conflict of interest statement: Conflicts of Interest: None declared.

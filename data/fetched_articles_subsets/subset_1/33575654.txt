@@ -1,0 +1,41 @@
+1. NAR Genom Bioinform. 2021 Feb 9;3(1):lqab002. doi: 10.1093/nargab/lqab002. 
+eCollection 2021 Mar.
+
+Increased yields of duplex sequencing data by a series of quality control tools.
+
+Povysil G(1), Heinzl M(1), Salazar R(1), Stoler N(2), Nekrutenko A(2), 
+Tiemann-Boege I(1).
+
+Author information:
+(1)Institute of Biophysics, Johannes Kepler University, 4020 Linz, Austria.
+(2)Graduate Program in Bioinformatics and Genomics, The Huck Institutes for Life 
+Sciences, The Pennsylvania State University, University Park, PA 16802, USA.
+
+Erratum in
+    NAR Genom Bioinform. 2021 Mar 01;3(1):lqab014. doi: 10.1093/nargab/lqab014.
+
+Duplex sequencing is currently the most reliable method to identify ultra-low 
+frequency DNA variants by grouping sequence reads derived from the same DNA 
+molecule into families with information on the forward and reverse strand. 
+However, only a small proportion of reads are assembled into duplex consensus 
+sequences (DCS), and reads with potentially valuable information are discarded 
+at different steps of the bioinformatics pipeline, especially reads without a 
+family. We developed a bioinformatics toolset that analyses the tag and family 
+composition with the purpose to understand data loss and implement modifications 
+to maximize the data output for the variant calling. Specifically, our tools 
+show that tags contain polymerase chain reaction and sequencing errors that 
+contribute to data loss and lower DCS yields. Our tools also identified 
+chimeras, which likely reflect barcode collisions. Finally, we also developed a 
+tool that re-examines variant calls from raw reads and provides different 
+summary data that categorizes the confidence level of a variant call by a 
+tier-based system. With this tool, we can include reads without a family and 
+check the reliability of the call, that increases substantially the sequencing 
+depth for variant calling, a particular important advantage for low-input 
+samples or low-coverage regions.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of NAR 
+Genomics and Bioinformatics.
+
+DOI: 10.1093/nargab/lqab002
+PMCID: PMC7872198
+PMID: 33575654

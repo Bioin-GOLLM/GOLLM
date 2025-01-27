@@ -1,0 +1,33 @@
+1. J Chem Inf Model. 2022 May 23;62(10):2280-2292. doi: 10.1021/acs.jcim.1c01311.
+ Epub 2022 May 2.
+
+Incorporating Target-Specific Pharmacophoric Information into Deep Generative 
+Models for Fragment Elaboration.
+
+Hadfield TE(1), Imrie F(1), Merritt A(2), Birchall K(2), Deane CM(1).
+
+Author information:
+(1)Oxford Protein Informatics Group, Department of Statistics, University of 
+Oxford, Oxford OX1 3LB, United Kingdom.
+(2)LifeArc, SBC Open Innovation Campus, Stevenage SG1 2FX, United Kingdom.
+
+Despite recent interest in deep generative models for scaffold elaboration, 
+their applicability to fragment-to-lead campaigns has so far been limited. This 
+is primarily due to their inability to account for local protein structure or a 
+user's design hypothesis. We propose a novel method for fragment elaboration, 
+STRIFE, that overcomes these issues. STRIFE takes as input fragment hotspot maps 
+(FHMs) extracted from a protein target and processes them to provide meaningful 
+and interpretable structural information to its generative model, which in turn 
+is able to rapidly generate elaborations with complementary pharmacophores to 
+the protein. In a large-scale evaluation, STRIFE outperforms existing, 
+structure-unaware, fragment elaboration methods in proposing highly 
+ligand-efficient elaborations. In addition to automatically extracting 
+pharmacophoric information from a protein target's FHM, STRIFE optionally allows 
+the user to specify their own design hypotheses.
+
+DOI: 10.1021/acs.jcim.1c01311
+PMCID: PMC9131447
+PMID: 35499971 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

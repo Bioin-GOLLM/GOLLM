@@ -1,0 +1,53 @@
+1. Genet Sel Evol. 2017 Jun 15;49(1):49. doi: 10.1186/s12711-017-0325-2.
+
+Tag SNP selection for prediction of tick resistance in Brazilian Braford and 
+Hereford cattle breeds using Bayesian methods.
+
+Sollero BP(1), Junqueira VS(2), Gomes CCG(3), Caetano AR(4), Cardoso FF(3)(5).
+
+Author information:
+(1)Embrapa Pecuária Sul, Caixa Postal 242 - BR 153 - Km 633, Bagé, Rio Grande do 
+Sul, 96.401-970, Brazil. bruna.sollero@embrapa.br.
+(2)Departamento de Zootecnia, Universidade Federal de Viçosa, Avenida Peter 
+Henry Rolfs, s/n - Campus Universitário, Viçosa, Minas Gerais, 36.570-000, 
+Brazil.
+(3)Embrapa Pecuária Sul, Caixa Postal 242 - BR 153 - Km 633, Bagé, Rio Grande do 
+Sul, 96.401-970, Brazil.
+(4)Embrapa Recursos Genéticos e Biotecnologia, Parque Estacao Biologica Final 
+Av. W/5 Norte, Brasilia-DF, C.P. 02372, Brasília, Distrito Federal, 70770-917, 
+Brazil.
+(5)Universidade Federal de Pelotas, Capão do Leão, Rio Grande do Sul, 
+96.000-010, Brazil.
+
+BACKGROUND: Cattle resistance to ticks is known to be under genetic control with 
+a complex biological mechanism within and among breeds. Our aim was to identify 
+genomic segments and tag single nucleotide polymorphisms (SNPs) associated with 
+tick-resistance in Hereford and Braford cattle. The predictive performance of a 
+very low-density tag SNP panel was estimated and compared with results obtained 
+with a 50 K SNP dataset.
+RESULTS: BayesB (π = 0.99) was initially applied in a genome-wide association 
+study (GWAS) for this complex trait by using deregressed estimated breeding 
+values for tick counts and 41,045 SNP genotypes from 3455 animals raised in 
+southern Brazil. To estimate the combined effect of a genomic region that is 
+potentially associated with quantitative trait loci (QTL), 2519 non-overlapping 
+1-Mb windows that varied in SNP number were defined, with the top 48 windows 
+including 914 SNPs and explaining more than 20% of the estimated genetic 
+variance for tick resistance. Subsequently, the most informative SNPs were 
+selected based on Bayesian parameters (model frequency and t-like statistics), 
+linkage disequilibrium and minor allele frequency to propose a very low-density 
+58-SNP panel. Some of these tag SNPs mapped close to or within genes and 
+pseudogenes that are functionally related to tick resistance. Prediction ability 
+of this SNP panel was investigated by cross-validation using K-means and random 
+clustering and a BayesA model to predict direct genomic values. Accuracies from 
+these cross-validations were 0.27 ± 0.09 and 0.30 ± 0.09 for the K-means and 
+random clustering groups, respectively, compared to respective values of 
+0.37 ± 0.08 and 0.43 ± 0.08 when using all 41,045 SNPs and BayesB with π = 0.99, 
+or of 0.28 ± 0.07 and 0.40 ± 0.08 with π = 0.999.
+CONCLUSIONS: Bayesian GWAS model parameters can be used to select tag SNPs for a 
+very low-density panel, which will include SNPs that are potentially linked to 
+functional genes. It can be useful for cost-effective genomic selection tools, 
+when one or a few key complex traits are of interest.
+
+DOI: 10.1186/s12711-017-0325-2
+PMCID: PMC5471684
+PMID: 28619006 [Indexed for MEDLINE]

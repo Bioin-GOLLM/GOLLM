@@ -1,0 +1,44 @@
+1. Int J Mol Sci. 2022 Oct 28;23(21):13098. doi: 10.3390/ijms232113098.
+
+Dual Inhibitors of AChE and BACE-1 for Reducing Aβ in Alzheimer's Disease: From 
+In Silico to In Vivo.
+
+Stern N(1), Gacs A(2), Tátrai E(2)(3), Flachner B(4), Hajdú I(4)(5), Dobi K(4), 
+Bágyi I(4), Dormán G(4), Lőrincz Z(4), Cseh S(4), Kígyós A(3), Tóvári J(3)(6), 
+Goldblum A(1).
+
+Author information:
+(1)Molecular Modeling and Drug Design Lab, Institute for Drug Research, The 
+Hebrew University of Jerusalem, Jerusalem 9112001, Israel.
+(2)Department of Experimental Pharmacology, National Institute of Oncology, 
+H-1122 Budapest, Hungary.
+(3)KINETO Lab Ltd., H-1032 Budapest, Hungary.
+(4)TargetEx Ltd., H-2120 Dunakeszi, Hungary.
+(5)Institute of Enzymology, Research Centre for Natural Sciences, Hungarian 
+Academy of Sciences, H-1117 Budapest, Hungary.
+(6)Department of Tumor Biology, National Korányi Institute of TB and 
+Pulmonology, H-1121 Budapest, Hungary.
+
+Alzheimer's disease (AD) is a complex and widespread condition, still not fully 
+understood and with no cure yet. Amyloid beta (Aβ) peptide is suspected to be a 
+major cause of AD, and therefore, simultaneously blocking its formation and 
+aggregation by inhibition of the enzymes BACE-1 (β-secretase) and AChE 
+(acetylcholinesterase) by a single inhibitor may be an effective therapeutic 
+approach, as compared to blocking one of these targets or by combining two 
+drugs, one for each of these targets. We used our ISE algorithm to model each of 
+the AChE peripheral site inhibitors and BACE-1 inhibitors, on the basis of 
+published data, and constructed classification models for each. Subsequently, we 
+screened large molecular databases with both models. Top scored molecules were 
+docked into AChE and BACE-1 crystal structures, and 36 Molecules with the best 
+weighted scores (based on ISE indexes and docking results) were sent for 
+inhibition studies on the two enzymes. Two of them inhibited both AChE (IC50 
+between 4-7 μM) and BACE-1 (IC50 between 50-65 μM). Two additional molecules 
+inhibited only AChE, and another two molecules inhibited only BACE-1. 
+Preliminary testing of inhibition by F681-0222 (molecule 2) on APPswe/PS1dE9 
+transgenic mice shows a reduction in brain tissue of soluble Aβ42.
+
+DOI: 10.3390/ijms232113098
+PMCID: PMC9655245
+PMID: 36361906 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare no conflict of interest.

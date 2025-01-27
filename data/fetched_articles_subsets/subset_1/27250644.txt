@@ -1,0 +1,38 @@
+1. Mol Biosyst. 2016 Jul 19;12(8):2519-31. doi: 10.1039/c6mb00066e.
+
+Identification of novel selective MMP-9 inhibitors as potential anti-metastatic 
+lead using structure-based hierarchical virtual screening and molecular dynamics 
+simulation.
+
+Kalva S(1), Agrawal N(1), Skelton AA(1), Saleena LM(2).
+
+Author information:
+(1)Department of Pharmacy, University of Kwazulu Natal, Durban, South Africa.
+(2)Department of Bioinformatics, School of Bioengineering, SRM University, 
+Kancheepuram, Tamil nadu, India. saleena.m@ktr.srmuniv.ac.in.
+
+MMP-9 is an attractive target for the development of new anticancer drugs. In 
+the current study, pharmacophore modeling was employed using two highly active 
+and selective gelatinase inhibitors obtained from two X-ray crystal structures 
+(PDB IDs: and ) to identify novel selective MMP-9 inhibitors. The derived model 
+was refined manually and also validated by the GH scoring method. The refined 
+pharmacophore model, ADRR, was able to retrieve 86% of actives with a GH score 
+of 0.774, indicating that the model was capable of retrieving the active MMP-9 
+inhibitors. ADRR was used to screen 2 838 166 unique structures. Hit filtration 
+was carried out using a fitness score >1.5 and drug-likeness properties. 
+Hierarchical clustering generates 33 clusters based on diversity. A total of 33 
+molecules were obtained and these molecules were taken for cross-docking studies 
+with 5 subtype MMPs. Among 33 tested, 2 molecules, P10A-0000088030 (Lig-1) and 
+P10A-0001383812 (Lig-2), were found to have the highest docking scores (-8.59 
+kcal mol(-1) and -8.27 kcal mol(-1)) towards MMP-9 compared with the other MMPs. 
+Further MM-GBSA analysis was performed for two hits with 5 subtype MMPs to 
+reveal the essential features that contribute to selectivity. The results showed 
+that van der Waals contributions play a central role in determining the 
+selectivity of MMP-9 inhibitors. Molecular dynamics studies were carried out for 
+total time of 330 ns to assess the stability of ligands at the active site. MD 
+analysis showed that binding of Lig-1 with MMP-9 is stable compared to that with 
+Lig-2. Hence, we suggest the Lig-1 compound as a good lead in designing novel 
+potent inhibitors of MMP-9.
+
+DOI: 10.1039/c6mb00066e
+PMID: 27250644 [Indexed for MEDLINE]

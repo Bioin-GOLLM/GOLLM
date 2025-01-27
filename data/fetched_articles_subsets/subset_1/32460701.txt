@@ -1,0 +1,47 @@
+1. BMC Cardiovasc Disord. 2020 May 27;20(1):249. doi: 10.1186/s12872-020-01519-9.
+
+Predicting the occurrence of venous thromboembolism: construction and 
+verification of risk warning model.
+
+Shen C(1), Ge B(2), Liu X(1), Chen H(3), Qin Y(1), Shen H(4).
+
+Author information:
+(1)Department of Nursing, Affiliated Hospital of Nantong University, 20 Xisi 
+Road, Nantong City, 226000, Jiangsu, China.
+(2)School of Nursing, Suzhou Vocational Health College, 28 Kehua Road, Suzhou 
+City, 215009, Jiangsu, China.
+(3)Department of Information, Affiliated Hospital of Nantong University, 20 Xisi 
+Road, Nantong City, 226000, Jiangsu, China.
+(4)Department of Nursing, Affiliated Hospital of Nantong University, 20 Xisi 
+Road, Nantong City, 226000, Jiangsu, China. 1092520947@qq.com.
+
+BACKGROUND: The onset of venous thromboembolism is insidious and the prognosis 
+is poor. In this study, we aimed to construct a VTE risk warning model and 
+testified its clinical application value.
+METHODS: Preliminary construction of the VTE risk warning model was carried out 
+according to the independent risk warning indicators of VTE screened by Logistic 
+regression analysis. The truncated value of screening VTE was obtained and the 
+model was evaluated. ROC curve analysis was used to compare the test of Caprini 
+risk assessment scale and VTE risk warning model. The cut-off value of the VTE 
+risk warning model was used to evaluate the test effectiveness of the model for 
+VTE patients with validation data set.
+RESULTS: The VTE risk warning model is p = ex / (1+ ex), x = - 4.840 + 2.557 • 
+X10(1) + 1.432 • X14(1) + 2.977 • X15(1) + 3.445 • X18(1) + 1.086 • 
+X25(1) + 0.249 • X34 + 0.282 • X41. ROC curve results show that: AUC (95%CI), 
+cutoff value, sensitivity, specificity, accuracy, Youden index, Caprini risk 
+assessment scale is 0.596 (0.552, 0.638), 5, 26.07, 96.50, 61.3%, 0.226, VTE 
+risk warning model is 0.960 (0.940, 0.976), 0.438, 92.61, 91.83, 92.2%, 0.844, 
+respectively, with statistically significant differences (Z = 14.521, 
+P < 0.0001). The accuracy and Youden index of VTE screening using VTE risk 
+warning model were 81.8 and 62.5%, respectively.
+CONCLUSIONS: VTE risk warning model had high accuracy in predicting VTE 
+occurrence in hospitalized patients. Its test performance was better than 
+Caprini risk assessment scale. It also had high test performance in external 
+population.
+
+DOI: 10.1186/s12872-020-01519-9
+PMCID: PMC7251685
+PMID: 32460701 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

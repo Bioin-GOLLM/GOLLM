@@ -1,0 +1,45 @@
+1. Trials. 2014 Aug 7;15:314. doi: 10.1186/1745-6215-15-314.
+
+An approach to trial design and analysis in the era of non-proportional hazards 
+of the treatment effect.
+
+Royston P(1), Parmar MK.
+
+Author information:
+(1)MRC Clinical Trials Unit at UCL, Aviation House, 125 Kingsway, London WC2B 
+6NH, UK. j.royston@ucl.ac.uk.
+
+BACKGROUND: Most randomized controlled trials with a time-to-event outcome are 
+designed and analysed under the proportional hazards assumption, with a target 
+hazard ratio for the treatment effect in mind. However, the hazards may be 
+non-proportional. We address how to design a trial under such conditions, and 
+how to analyse the results.
+METHODS: We propose to extend the usual approach, a logrank test, to also 
+include the Grambsch-Therneau test of proportional hazards. We test the 
+resulting composite null hypothesis using a joint test for the hazard ratio and 
+for time-dependent behaviour of the hazard ratio. We compute the power and 
+sample size for the logrank test under proportional hazards, and from that we 
+compute the power of the joint test. For the estimation of relevant quantities 
+from the trial data, various models could be used; we advocate adopting a 
+pre-specified flexible parametric survival model that supports time-dependent 
+behaviour of the hazard ratio.
+RESULTS: We present the mathematics for calculating the power and sample size 
+for the joint test. We illustrate the methodology in real data from two 
+randomized trials, one in ovarian cancer and the other in treating cellulitis. 
+We show selected estimates and their uncertainty derived from the advocated 
+flexible parametric model. We demonstrate in a small simulation study that when 
+a treatment effect either increases or decreases over time, the joint test can 
+outperform the logrank test in the presence of both patterns of non-proportional 
+hazards.
+CONCLUSIONS: Those designing and analysing trials in the era of non-proportional 
+hazards need to acknowledge that a more complex type of treatment effect is 
+becoming more common. Our method for the design of the trial retains the tools 
+familiar in the standard methodology based on the logrank test, and extends it 
+to incorporate a joint test of the null hypothesis with power against 
+non-proportional hazards. For the analysis of trial data, we propose the use of 
+a pre-specified flexible parametric model that can represent a time-dependent 
+hazard ratio if one is present.
+
+DOI: 10.1186/1745-6215-15-314
+PMCID: PMC4133607
+PMID: 25098243 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+1. Commun Biol. 2019 Jul 19;2:267. doi: 10.1038/s42003-019-0519-y. eCollection 
+2019.
+
+Amplification-free library preparation with SAFE Hi-C uses ligation products for 
+deep sequencing to improve traditional Hi-C analysis.
+
+Niu L(#)(1)(2), Shen W(#)(3)(4), Huang Y(#)(1), He N(1), Zhang Y(1), Sun J(1), 
+Wan J(3)(4), Jiang D(1), Yang M(1), Tse YC(1), Li L(3)(4), Hou C(1).
+
+Author information:
+(1)1Department of Biology, Southern University of Science and Technology, 518055 
+Shenzhen, China.
+(2)2Department of Biology, Nankai University, 300071 Tianjin, China.
+(3)3Department of Bioinformatics, Huazhong Agricultural University, 430070 
+Wuhan, China.
+(4)4Hubei Key Laboratory of Agricultural Bioinformatics, Huazhong Agricultural 
+University, 430070 Wuhan, China.
+(#)Contributed equally
+
+PCR amplification of Hi-C libraries introduces unusable duplicates and results 
+in a biased representation of chromatin interactions. We present a simplified, 
+fast, and economically efficient Hi-C library preparation procedure, SAFE Hi-C, 
+which generates sufficient non-amplified ligation products for deep sequencing 
+from 30 million Drosophila cells. Comprehensive analysis of the resulting data 
+shows that amplification-free Hi-C preserves higher complexity of chromatin 
+interaction and lowers sequencing depth for the same number of unique paired 
+reads. For human cells which have a large genome, SAFE Hi-C recovers enough 
+ligated fragments for direct high-throughput sequencing without amplification 
+from as few as 250,000 cells. Comparison with published in situ Hi-C data from 
+millions of human cells demonstrates that amplification introduces 
+distance-dependent amplification bias, which results in an increased background 
+noise level against genomic distance. With amplification bias avoided, SAFE Hi-C 
+may produce a chromatin interaction network more faithfully reflecting the real 
+three-dimensional genomic architecture.
+
+DOI: 10.1038/s42003-019-0519-y
+PMCID: PMC6642088
+PMID: 31341966 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests.

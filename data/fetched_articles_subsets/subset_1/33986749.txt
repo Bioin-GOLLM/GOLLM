@@ -1,0 +1,46 @@
+1. Front Immunol. 2021 Apr 23;12:658372. doi: 10.3389/fimmu.2021.658372. 
+eCollection 2021.
+
+ARTEMIS: A Novel Mass-Spec Platform for HLA-Restricted Self and 
+Disease-Associated Peptide Discovery.
+
+Finton KAK(1), Brusniak MY(2), Jones LA(3), Lin C(3), Fioré-Gartland AJ(4), 
+Brock C(1), Gafken PR(3), Strong RK(1).
+
+Author information:
+(1)Division of Basic Science, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, United States.
+(2)Clinical Research Division, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, United States.
+(3)Proteomics Shared Resource, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, United States.
+(4)Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research 
+Center, Seattle, WA, United States.
+
+Conventional immunoprecipitation/mass spectroscopy identification of 
+HLA-restricted peptides remains the purview of specializing laboratories, due to 
+the complexity of the methodology, and requires computational post-analysis to 
+assign peptides to individual alleles when using pan-HLA antibodies. We have 
+addressed these limitations with ARTEMIS: a simple, robust, and flexible 
+platform for peptide discovery across ligandomes, optionally including specific 
+proteins-of-interest, that combines novel, secreted HLA-I discovery reagents 
+spanning multiple alleles, optimized lentiviral transduction, and streamlined 
+affinity-tag purification to improve upon conventional methods. This platform 
+fills a middle ground between existing techniques: sensitive and adaptable, but 
+easy and affordable enough to be widely employed by general laboratories. We 
+used ARTEMIS to catalog allele-specific ligandomes from HEK293 cells for seven 
+classical HLA alleles and compared results across replicates, against 
+computational predictions, and against high-quality conventional datasets. We 
+also applied ARTEMIS to identify potentially useful, novel HLA-restricted 
+peptide targets from oncovirus oncoproteins and tumor-associated antigens.
+
+Copyright © 2021 Finton, Brusniak, Jones, Lin, Fioré-Gartland, Brock, Gafken and 
+Strong.
+
+DOI: 10.3389/fimmu.2021.658372
+PMCID: PMC8111693
+PMID: 33986749 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

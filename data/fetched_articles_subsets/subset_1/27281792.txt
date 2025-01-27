@@ -1,0 +1,42 @@
+1. Math Med Biol. 2017 Sep 1;34(3):313-333. doi: 10.1093/imammb/dqw010.
+
+Renal medullary and urinary oxygen tension during cardiopulmonary bypass in the 
+rat.
+
+Sgouralis I(1), Evans RG(2), Layton AT(3).
+
+Author information:
+(1)National Institute for Mathematical and Biological Synthesis, NIMBioS, 
+Knoxville, TN 37996, USA.
+(2)Cardiovascular Disease Program, Bioscience Discovery Institute and Department 
+of Physiology, Monash University, Monash, Clayton, VIC 3800, Australia.
+(3)Department of Mathematics, Duke University, Duke, Durham, NC 27708, USA.
+
+Renal hypoxia could result from a mismatch in renal oxygen supply and demand, 
+particularly in the renal medulla. Medullary hypoxic damage is believed to give 
+rise to acute kidney injury, which is a prevalent complication of cardiac 
+surgery performed on cardiopulmonary bypass (CPB). To determine the mechanisms 
+that could lead to medullary hypoxia during CPB in the rat kidney, we developed 
+a mathematical model which incorporates (i) autoregulation of renal blood flow 
+and glomerular filtration rate, (ii) detailed oxygen transport and utilization 
+in the renal medulla and (iii) oxygen transport along the ureter. Within the 
+outer medulla, the lowest interstitial tissue P$_{\rm O2}$, which is an 
+indicator of renal hypoxia, is predicted near the thick ascending limbs. 
+Interstitial tissue P$_{\rm O2}$ exhibits a general decrease along the inner 
+medullary axis, but urine P$_{\rm O2}$ increases significantly along the ureter. 
+Thus, bladder urinary P$_{\rm O2}$ is predicted to be substantially higher than 
+medullary P$_{\rm O2}$. The model is used to identify the phase of cardiac 
+surgery performed on CPB that is associated with the highest risk for hypoxic 
+kidney injury. Simulation results indicate that the outer medulla's 
+vulnerability to hypoxic injury depends, in part, on the extent to which 
+medullary blood flow is autoregulated. With imperfect medullary blood flow 
+autoregulation, the model predicts that the rewarming phase of CPB, in which 
+medullary blood flow is low but medullary oxygen consumption remains high, is 
+the phase in which the kidney is most likely to suffer hypoxic injury.
+
+© The authors 2016. Published by Oxford University Press on behalf of the 
+Institute of Mathematics and its Applications. All rights reserved.
+
+DOI: 10.1093/imammb/dqw010
+PMCID: PMC5432426
+PMID: 27281792 [Indexed for MEDLINE]

@@ -1,0 +1,51 @@
+1. BMC Genomics. 2010 Dec 22;11:723. doi: 10.1186/1471-2164-11-723.
+
+Whole genome sequencing of Saccharomyces cerevisiae: from genotype to phenotype 
+for improved metabolic engineering applications.
+
+Otero JM(1), Vongsangnak W, Asadollahi MA, Olivares-Hernandes R, Maury J, 
+Farinelli L, Barlocher L, Osterås M, Schalk M, Clark A, Nielsen J.
+
+Author information:
+(1)Department of Chemical and Biological Engineering, Chalmers University of 
+Technology, SE-41296 Gothenburg, Sweden. nielsenj@chalmers.se
+
+BACKGROUND: The need for rapid and efficient microbial cell factory design and 
+construction are possible through the enabling technology, metabolic 
+engineering, which is now being facilitated by systems biology approaches. 
+Metabolic engineering is often complimented by directed evolution, where 
+selective pressure is applied to a partially genetically engineered strain to 
+confer a desirable phenotype. The exact genetic modification or resulting 
+genotype that leads to the improved phenotype is often not identified or 
+understood to enable further metabolic engineering.
+RESULTS: In this work we performed whole genome high-throughput sequencing and 
+annotation can be used to identify single nucleotide polymorphisms (SNPs) 
+between Saccharomyces cerevisiae strains S288c and CEN.PK113-7D. The yeast 
+strain S288c was the first eukaryote sequenced, serving as the reference genome 
+for the Saccharomyces Genome Database, while CEN.PK113-7D is a preferred 
+laboratory strain for industrial biotechnology research. A total of 13,787 
+high-quality SNPs were detected between both strains (reference strain: S288c). 
+Considering only metabolic genes (782 of 5,596 annotated genes), a total of 219 
+metabolism specific SNPs are distributed across 158 metabolic genes, with 85 of 
+the SNPs being nonsynonymous (e.g., encoding amino acid modifications). Amongst 
+metabolic SNPs detected, there was pathway enrichment in the galactose uptake 
+pathway (GAL1, GAL10) and ergosterol biosynthetic pathway (ERG8, ERG9). 
+Physiological characterization confirmed a strong deficiency in galactose uptake 
+and metabolism in S288c compared to CEN.PK113-7D, and similarly, ergosterol 
+content in CEN.PK113-7D was significantly higher in both glucose and galactose 
+supplemented cultivations compared to S288c. Furthermore, DNA microarray 
+profiling of S288c and CEN.PK113-7D in both glucose and galactose batch cultures 
+did not provide a clear hypothesis for major phenotypes observed, suggesting 
+that genotype to phenotype correlations are manifested post-transcriptionally or 
+post-translationally either through protein concentration and/or function.
+CONCLUSIONS: With an intensifying need for microbial cell factories that produce 
+a wide array of target compounds, whole genome high-throughput sequencing and 
+annotation for SNP detection can aid in better reducing and defining the 
+metabolic landscape. This work demonstrates direct correlations between genotype 
+and phenotype that provides clear and high-probability of success metabolic 
+engineering targets. The genome sequence, annotation, and a SNP viewer of 
+CEN.PK113-7D are deposited at http://www.sysbio.se/cenpk.
+
+DOI: 10.1186/1471-2164-11-723
+PMCID: PMC3022925
+PMID: 21176163 [Indexed for MEDLINE]

@@ -1,0 +1,63 @@
+1. Genes (Basel). 2020 Dec 22;12(1):1. doi: 10.3390/genes12010001.
+
+Whole Exome Sequencing Identifies Novel De Novo Variants Interacting with Six 
+Gene Networks in Autism Spectrum Disorder.
+
+Kim N(1)(2), Kim KH(1)(2), Lim WJ(1)(2), Kim J(3), Kim SA(4), Yoo HJ(5)(6).
+
+Author information:
+(1)Genome Editing Research Center, Korea Research Institute of Bioscience and 
+Biotechnology (KRIBB), Daejeon 34141, Korea.
+(2)Department of Bioinformatics, KRIBB School of Bioscience, Korea University of 
+Science and Technology (UST), Daejeon 34141, Korea.
+(3)Quantitative Biomedical Research Center, Department of Clinical Sciences, 
+University of Texas Southwestern Medical Center, Dallas, TX 75390, USA.
+(4)Department of Pharmacology, School of Medicine, Eulji University, Daejeon 
+34824, Korea.
+(5)Department of Psychiatry, College of Medicine, Seoul National University, 
+Seoul 03080, Korea.
+(6)Department of Psychiatry, Seoul National University Bundang Hospital, 
+Gyeonggi 13620, Korea.
+
+Autism spectrum disorder (ASD) is a highly heritable condition caused by a 
+combination of environmental and genetic factors such as de novo and inherited 
+variants, as well as rare or common variants among hundreds of related genes. 
+Previous genome-wide association studies have identified susceptibility genes; 
+however, most ASD-associated genes remain undiscovered. This study aimed to 
+examine rare de novo variants to identify genetic risk factors of ASD using 
+whole exome sequencing (WES), functional characterization, and genetic network 
+analyses of identified variants using Korean familial dataset. We recruited 
+children with ASD and their biological parents. The clinical best estimate 
+diagnosis of ASD was made according to the Diagnostic and Statistical Manual of 
+Mental Disorders (DSM-5TM), using comprehensive diagnostic instruments. The 
+final analyses included a total of 151 individuals from 51 families. Variants 
+were identified and filtered using the GATK Best Practices for bioinformatics 
+analysis, followed by genome alignments and annotation to the reference genome 
+assembly GRCh37 (liftover to GRCh38), and further annotated using dbSNP 154 
+build databases. To evaluate allele frequencies of de novo variants, we used the 
+dbSNP, gnomAD exome v2.1.1, and genome v3.0. We used Ingenuity Pathway Analysis 
+(IPA, Qiagen) software to construct networks using all identified de novo 
+variants with known autism-related genes to find probable relationships. We 
+identified 36 de novo variants with potential relations to ASD; 27 missense, two 
+silent, one nonsense, one splice region, one splice site, one 5' UTR, and one 
+intronic SNV and two frameshift deletions. We identified six networks with 
+functional relationships. Among the interactions between de novo variants, the 
+IPA assay found that the NF-κB signaling pathway and its interacting genes were 
+commonly observed at two networks. The relatively small cohort size may affect 
+the results of novel ASD genes with de novo variants described in our findings. 
+We did not conduct functional experiments in this study. Because of the 
+diversity and heterogeneity of ASD, the primary purpose of this study was to 
+investigate probable causative relationships between novel de novo variants and 
+known autism genes. Additionally, we based functional relationships with known 
+genes on network analysis rather than on statistical analysis. We identified new 
+variants that may underlie genetic factors contributing to ASD in Korean 
+families using WES and genetic network analyses. We observed novel de novo 
+variants that might be functionally linked to ASD, of which the variants 
+interact with six genetic networks.
+
+DOI: 10.3390/genes12010001
+PMCID: PMC7822011
+PMID: 33374967 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

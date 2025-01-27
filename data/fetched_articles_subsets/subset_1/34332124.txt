@@ -1,0 +1,62 @@
+1. Mol Cell Proteomics. 2021;20:100128. doi: 10.1016/j.mcpro.2021.100128. Epub
+2021  Jul 29.
+
+A Toolbox for Efficient Proximity-Dependent Biotinylation in Zebrafish Embryos.
+
+Rosenthal SM(1), Misra T(2), Abdouni H(3), Branon TC(4), Ting AY(5), Scott 
+IC(6), Gingras AC(7).
+
+Author information:
+(1)Department of Molecular Genetics, University of Toronto, Toronto, Ontario, 
+Canada; Program in Developmental and Stem Cell Biology, The Hospital for Sick 
+Children, Toronto, Ontario, Canada; Lunenfeld-Tanenbaum Research Institute at 
+Mount Sinai Hospital, Sinai Health, Toronto, Ontario, Canada.
+(2)Program in Developmental and Stem Cell Biology, The Hospital for Sick 
+Children, Toronto, Ontario, Canada.
+(3)Lunenfeld-Tanenbaum Research Institute at Mount Sinai Hospital, Sinai Health, 
+Toronto, Ontario, Canada.
+(4)Department of Genetics, Stanford University, Stanford, California, USA; 
+Department of Biology, Stanford University, Stanford, California, USA; 
+Department of Chemistry, Stanford University, Stanford, California, USA; 
+Department of Chemistry, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts, USA.
+(5)Department of Genetics, Stanford University, Stanford, California, USA; 
+Department of Biology, Stanford University, Stanford, California, USA; 
+Department of Chemistry, Stanford University, Stanford, California, USA; Chan 
+Zuckerberg Biohub, San Francisco, California, USA.
+(6)Department of Molecular Genetics, University of Toronto, Toronto, Ontario, 
+Canada; Program in Developmental and Stem Cell Biology, The Hospital for Sick 
+Children, Toronto, Ontario, Canada. Electronic address: ian.scott@sickkids.ca.
+(7)Department of Molecular Genetics, University of Toronto, Toronto, Ontario, 
+Canada; Lunenfeld-Tanenbaum Research Institute at Mount Sinai Hospital, Sinai 
+Health, Toronto, Ontario, Canada. Electronic address: gingras@lunenfeld.ca.
+
+Understanding how proteins are organized in compartments is essential to 
+elucidating their function. While proximity-dependent approaches such as BioID 
+have enabled a massive increase in information about organelles, protein 
+complexes, and other structures in cell culture, to date there have been only a 
+few studies on living vertebrates. Here, we adapted proximity labeling for 
+protein discovery in vivo in the vertebrate model organism, zebrafish. Using 
+lamin A (LMNA) as bait and green fluorescent protein (GFP) as a negative 
+control, we developed, optimized, and benchmarked in vivo TurboID and miniTurbo 
+labeling in early zebrafish embryos. We developed both an mRNA injection 
+protocol and a transgenic system in which transgene expression is controlled by 
+a heat shock promoter. In both cases, biotin is provided directly in the egg 
+water, and we demonstrate that 12 h of labeling are sufficient for biotinylation 
+of prey proteins, which should permit time-resolved analysis of development. 
+After statistical scoring, we found that the proximal partners of LMNA detected 
+in each system were enriched for nuclear envelope and nuclear membrane proteins 
+and included many orthologs of human proteins identified as proximity partners 
+of lamin A in mammalian cell culture. The tools and protocols developed here 
+will allow zebrafish researchers to complement genetic tools with powerful 
+proteomics approaches.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcpro.2021.100128
+PMCID: PMC8383115
+PMID: 34332124 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare that 
+they have no known competing financial interests or personal relationships that 
+could have appeared to influence the work reported in this paper.

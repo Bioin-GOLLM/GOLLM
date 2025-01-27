@@ -1,0 +1,78 @@
+1. Elife. 2020 Dec 2;9:e61271. doi: 10.7554/eLife.61271.
+
+Fitness variation across subtle environmental perturbations reveals local 
+modularity and global pleiotropy of adaptation.
+
+Kinsler G(#)(1), Geiler-Samerotte K(#)(1)(2), Petrov DA(1).
+
+Author information:
+(1)Department of Biology, Stanford University, Stanford, United States.
+(2)Center for Mechanisms of Evolution, School of Life Sciences, Arizona State 
+University, Tempe, United States.
+(#)Contributed equally
+
+Building a genotype-phenotype-fitness map of adaptation is a central goal in 
+evolutionary biology. It is difficult even when adaptive mutations are known 
+because it is hard to enumerate which phenotypes make these mutations adaptive. 
+We address this problem by first quantifying how the fitness of hundreds of 
+adaptive yeast mutants responds to subtle environmental shifts. We then model 
+the number of phenotypes these mutations collectively influence by decomposing 
+these patterns of fitness variation. We find that a small number of inferred 
+phenotypes can predict fitness of the adaptive mutations near their original 
+glucose-limited evolution condition. Importantly, inferred phenotypes that 
+matter little to fitness at or near the evolution condition can matter strongly 
+in distant environments. This suggests that adaptive mutations are locally 
+modular - affecting a small number of phenotypes that matter to fitness in the 
+environment where they evolved - yet globally pleiotropic - affecting additional 
+phenotypes that may reduce or improve fitness in new environments.
+
+Plain Language Summary: One of the goals of evolutionary biology is to 
+understand the relationship between genotype, phenotype, and fitness. An 
+organism's genes – its genotype – determine its physical and behavioral traits – 
+its phenotype. Phenotypes, in turn, affect the organisms’ chances of survival 
+and reproduction – its fitness. However, mapping the relationships among these 
+three variables is far from easy. Recently researchers have become able to 
+identify many genetic mutations that increase an organism's fitness, but it is 
+more difficult to work out how these mutations affect an organism’s phenotype, 
+and why they are beneficial. The mutations that help organisms thrive in a 
+particular environment are often limited to a handful of genes that affect 
+similar biological processes. For example, microbes that grow in environments 
+with limited sugar tend to accumulate mutations in genes involved in systems 
+that determine whether to grow fast and carelessly or to be careful in case the 
+sugar is never replenished. It is possible that these mutations all affect the 
+same one or two phenotypes, such as the decision to grow or to hunker down. If 
+this were the case, researchers should be able to easily predict how well these 
+organisms adapt to new environments. However, it is possible that specific 
+mutations affect several phenotypes, but these extra effects remain invisible 
+until the environment changes and these phenotypes are revealed. To explore this 
+possibility, Kinsler, Geiler-Samerotte, and Petrov obtained hundreds of 
+individual yeast strains that each contained a different mutation that improved 
+the yeast's fitness in a low sugar environment. They placed these strains into 
+similar environments and measured their fitness. The patterns observed were used 
+to build several models that predicted how many phenotypes each mutation must 
+affect to explain the changes in fitness. Kinsler, Geiler-Samerotte and Petrov 
+found that the model in which only five phenotypes were affected by the 
+mutations was able to predict the fitness of the yeast in low-sugar 
+environments. However, to predict the fitness of the same mutations in 
+environments that were very different, the model had to include eight 
+phenotypes. This suggests that although the mutations that helped yeast do well 
+in the low sugar environment were similar in their benefits in this environment, 
+they were not truly all the same. In fact, some mutations were quite different 
+from the others in terms of their hidden phenotypic effects. The hidden effects 
+of mutations can be positive or negative. One mutation might cause an organism 
+to die in a new environment, whereas another might allow it to thrive. 
+Understanding how this works has implications not only for evolutionary biology, 
+but also for medical research. Pathogens that cause infection, and cells that 
+cause cancer, often accumulate mutations in small numbers of crucial genes. 
+Understanding how these mutations affect phenotypes that become important as the 
+environment changes – for instance as the cells encounter new challenges as a 
+tumor grows – and whether different mutations have different hidden effects, 
+could improve treatments in the future.
+
+© 2020, Kinsler et al.
+
+DOI: 10.7554/eLife.61271
+PMCID: PMC7880691
+PMID: 33263280 [Indexed for MEDLINE]
+
+Conflict of interest statement: GK, KG, DP No competing interests declared

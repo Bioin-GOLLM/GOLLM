@@ -1,0 +1,64 @@
+1. J Mol Graph Model. 2021 Dec;109:108035. doi: 10.1016/j.jmgm.2021.108035. Epub 
+2021 Sep 17.
+
+E484K mutation in SARS-CoV-2 RBD enhances binding affinity with hACE2 but 
+reduces interactions with neutralizing antibodies and nanobodies: Binding free 
+energy calculation studies.
+
+Wang WB(1), Liang Y(2), Jin YQ(2), Zhang J(2), Su JG(3), Li QM(4).
+
+Author information:
+(1)Key Laboratory for Microstructural Material Physics of Hebei Province, School 
+of Science, Yanshan University, Qinhuangdao, 066004, China.
+(2)The Sixth Laboratory, National Vaccine and Serum Institute, Beijing, 101111, 
+China.
+(3)Key Laboratory for Microstructural Material Physics of Hebei Province, School 
+of Science, Yanshan University, Qinhuangdao, 066004, China; The Sixth 
+Laboratory, National Vaccine and Serum Institute, Beijing, 101111, China. 
+Electronic address: jiguosu@ysu.edu.cn.
+(4)The Sixth Laboratory, National Vaccine and Serum Institute, Beijing, 101111, 
+China. Electronic address: liqiming189@163.com.
+
+The pandemic of the COVID-19 disease caused by SARS-CoV-2 has led to more than 
+200 million infections and over 4 million deaths worldwide. The progress in the 
+developments of effective vaccines and neutralizing antibody therapeutics brings 
+hopes to eliminate the threat of COVID-19. However, SARS-CoV-2 continues to 
+mutate, and several new variants have been emerged. Among the various 
+naturally-occurring mutations, the E484K mutation shared by many variants 
+attracted serious concerns, which may potentially enhance the receptor binding 
+affinity and reduce the immune response. In the present study, the molecular 
+mechanism behind the impacts of E484K mutation on the binding affinity of the 
+receptor-binding domain (RBD) with the receptor human angiotensin-converting 
+enzyme 2 (hACE2) was investigated by using the molecular dynamics (MD) 
+simulations combined with the molecular mechanics-generalized Born surface area 
+(MMGBSA) method. Our results indicate that the E484K mutation results in more 
+favorable electrostatic interactions compensating the burial of the charged and 
+polar groups upon the binding of RBD with hACE2, which significantly improves 
+the RBD-hACE2 binding affinity. Besides that, the E484K mutation also causes the 
+conformational rearrangements of the loop region containing the mutant residue, 
+which leads to tighter binding interface of RBD with hACE2 and formation of some 
+new hydrogen bonds. The tighter binding interface and the new hydrogen bonds 
+formation also contribute to the improved binding affinity of RBD to the 
+receptor hACE2. In addition, six neutralizing antibodies and nanobodies 
+complexed with RBD were selected to explore the effects of E484K mutation on the 
+recognition of these antibodies to RBD. The simulation results show that the 
+E484K mutation significantly reduces the binding affinities to RBD for most of 
+the studied neutralizing antibodies/nanobodies, and the decrease in the binding 
+affinities is mainly owing to the unfavorable electrostatic interactions caused 
+by the mutation. Our studies revealed that the E484K mutation may improve the 
+binding affinity between RBD and the receptor hACE2, implying more 
+transmissibility of the E484K-containing variants, and weaken the binding 
+affinities between RBD and the studied neutralizing antibodies/nanobodies, 
+indicating reduced effectiveness of these antibodies/nanobodies. Our results 
+provide valuable information for the effective vaccine development and 
+antibody/nanobody drug design.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jmgm.2021.108035
+PMCID: PMC8447841
+PMID: 34562851 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

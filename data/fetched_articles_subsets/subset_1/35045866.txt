@@ -1,0 +1,66 @@
+1. Clin Epigenetics. 2022 Jan 19;14(1):11. doi: 10.1186/s13148-022-01232-8.
+
+A deep learning model for early risk prediction of heart failure with preserved 
+ejection fraction by DNA methylation profiles combined with clinical features.
+
+Zhao X(1)(2), Sui Y(1)(2), Ruan X(1), Wang X(1)(2), He K(3)(4), Dong W(5), Qu 
+H(6)(7), Fang X(8)(9).
+
+Author information:
+(1)CAS Key Laboratory of Genome Science and Information, Beijing Key Laboratory 
+of Genome and Precision Medicine Technologies, Beijing Institute of Genomics, 
+Chinese Academy of Sciences/China National Center for Bioinformation, Beijing, 
+100101, China.
+(2)University of the Chinese Academy of Sciences, Beijing, 100049, China.
+(3)Beijing Key Laboratory of Chronic Heart Failure Precision Medicine, Chinese 
+PLA General Hospital, Beijing, 100853, China.
+(4)Core Laboratory of Translational Medicine, Chinese PLA General Hospital, 
+Beijing, 100853, China.
+(5)Senior Department of Cardiology, the Sixth Medical Center of PLA General 
+Hospital, Beijing, 100037, China. dongwei@301hospital.com.cn.
+(6)CAS Key Laboratory of Genome Science and Information, Beijing Key Laboratory 
+of Genome and Precision Medicine Technologies, Beijing Institute of Genomics, 
+Chinese Academy of Sciences/China National Center for Bioinformation, Beijing, 
+100101, China. quhongzhu@big.ac.cn.
+(7)University of the Chinese Academy of Sciences, Beijing, 100049, China. 
+quhongzhu@big.ac.cn.
+(8)CAS Key Laboratory of Genome Science and Information, Beijing Key Laboratory 
+of Genome and Precision Medicine Technologies, Beijing Institute of Genomics, 
+Chinese Academy of Sciences/China National Center for Bioinformation, Beijing, 
+100101, China. fangxd@big.ac.cn.
+(9)University of the Chinese Academy of Sciences, Beijing, 100049, China. 
+fangxd@big.ac.cn.
+
+BACKGROUND: Heart failure with preserved ejection fraction (HFpEF), affected 
+collectively by genetic and environmental factors, is the common subtype of 
+chronic heart failure. Although the available risk assessment methods for HFpEF 
+have achieved some progress, they were based on clinical or genetic features 
+alone. Here, we have developed a deep learning framework, HFmeRisk, using both 5 
+clinical features and 25 DNA methylation loci to predict the early risk of HFpEF 
+in the Framingham Heart Study Cohort.
+RESULTS: The framework incorporates Least Absolute Shrinkage and Selection 
+Operator and Extreme Gradient Boosting-based feature selection, as well as a 
+Factorization-Machine based neural network-based recommender system. Model 
+discrimination and calibration were assessed using the AUC and Hosmer-Lemeshow 
+test. HFmeRisk, including 25 CpGs and 5 clinical features, have achieved the AUC 
+of 0.90 (95% confidence interval 0.88-0.92) and Hosmer-Lemeshow statistic was 
+6.17 (P = 0.632), which outperformed models with clinical characteristics or DNA 
+methylation levels alone, published chronic heart failure risk prediction models 
+and other benchmark machine learning models. Out of them, the DNA methylation 
+levels of two CpGs were significantly correlated with the paired transcriptome 
+levels (R < -0.3, P < 0.05). Besides, DNA methylation locus in HFmeRisk were 
+associated with intercellular signaling and interaction, amino acid metabolism, 
+transport and activation and the clinical variables were all related with the 
+mechanism of occurrence of HFpEF. Together, these findings give new evidence 
+into the HFmeRisk model.
+CONCLUSION: Our study proposes an early risk assessment framework for HFpEF 
+integrating both clinical and epigenetic features, providing a promising path 
+for clinical decision making.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13148-022-01232-8
+PMCID: PMC8772140
+PMID: 35045866 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

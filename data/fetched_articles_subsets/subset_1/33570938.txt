@@ -1,0 +1,47 @@
+1. J Chem Inf Model. 2021 Mar 22;61(3):1354-1367. doi: 10.1021/acs.jcim.0c01407. 
+Epub 2021 Feb 11.
+
+Structural Mechanism of ω-Currents in a Mutated Kv7.2 Voltage Sensor Domain from 
+Molecular Dynamics Simulations.
+
+Alberini G(1)(2), Benfenati F(1)(3), Maragliano L(1)(4).
+
+Author information:
+(1)Center for Synaptic Neuroscience and Technology (NSYN@UniGe), Istituto 
+Italiano di Tecnologia, Largo Rosanna Benzi, 10, 16132 Genova, Italy.
+(2)Department of Experimental Medicine, Università degli Studi di Genova, Viale 
+Benedetto XV, 3, 16132 Genova, Italy.
+(3)IRCCS Ospedale Policlinico San Martino, Largo Rosanna Benzi, 10, 16132 
+Genova, Italy.
+(4)Department of Life and Environmental Sciences, Polytechnic University of 
+Marche, Via Brecce Bianche, 60131 Ancona, Italy.
+
+Activation of voltage-gated ion channels is regulated by conformational changes 
+of the voltage sensor domains (VSDs), four water- and ion-impermeable modules 
+peripheral to the central, permeable pore domain. Anomalous currents, defined as 
+ω-currents, have been recorded in response to mutations of residues on the VSD 
+S4 helix and associated with ion fluxes through the VSDs. In humans, gene 
+defects in the potassium channel Kv7.2 result in a broad range of epileptic 
+disorders, from benign neonatal seizures to severe epileptic encephalopathies. 
+Experimental evidence suggests that the R207Q mutation in S4, associated with 
+peripheral nerve hyperexcitability, induces ω-currents at depolarized 
+potentials, but the fine structural details are still elusive. In this work, we 
+use atom-detailed molecular dynamics simulations and a refined model structure 
+of the Kv7.2 VSD in the active conformation in a membrane/water environment to 
+study the effect of R207Q and four additional mutations of proven clinical 
+importance. Our results demonstrate that the R207Q mutant shows the most 
+pronounced increase of hydration in the internal VSD cavity, a feature favoring 
+the occurrence of ω-currents. Free energy and kinetics calculations of sodium 
+permeation through the native and mutated VSD indicate as more favorable the 
+formation of a cationic current in the latter. Overall, our simulations 
+establish a mechanistic linkage between genetic variations and their 
+physiological outcome, by providing a computational description that includes 
+both thermodynamic and kinetic features of ion permeation associated with 
+ω-currents.
+
+DOI: 10.1021/acs.jcim.0c01407
+PMCID: PMC8023575
+PMID: 33570938 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

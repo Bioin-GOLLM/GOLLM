@@ -1,0 +1,46 @@
+1. PLoS Comput Biol. 2018 Mar 5;14(3):e1006024. doi:
+10.1371/journal.pcbi.1006024.  eCollection 2018 Mar.
+
+Free energy profiles for unwrapping the outer superhelical turn of nucleosomal 
+DNA.
+
+Kono H(1), Sakuraba S(2), Ishida H(1).
+
+Author information:
+(1)Molecular Modeling and Simulation Group, Department of Quantum Beam Life 
+Science, National Institutes for Quantum and Radiological Science and 
+Technology, Umemidai, Kizugawa, Kyoto, Japan.
+(2)Graduate School of Frontier Sciences, The University of Tokyo, Kashiwanoha, 
+Kashiwa, Chiba, Japan.
+
+Erratum in
+    PLoS Comput Biol. 2019 Oct 9;15(10):e1007439. doi: 
+10.1371/journal.pcbi.1007439.
+
+The eukaryotic genome is packaged into a nucleus in the form of chromatin. The 
+fundamental structural unit of chromatin is a protein-DNA complex, the 
+nucleosome, where 146 or 147 base pairs of DNA wrap 1.75 times around a histone 
+core. To function in cellular processes, however, nucleosomal DNA must be 
+unwrapped. Although this unwrapping has been experimentally investigated, 
+details of the process at an atomic level are not yet well understood. Here, we 
+used molecular dynamics simulation with an enhanced sampling method to calculate 
+the free energy profiles for unwrapping the outer superhelical turn of 
+nucleosomal DNA. A free energy change of about 11.5 kcal/mol for the unwrapping 
+agrees well with values obtained in single molecule experiments. This simulation 
+revealed a variety of conformational states, indicating there are many potential 
+paths to outer superhelicdal turn unwrapping, but the dominant path is likely 
+asymmetric. At one end of the DNA, the first five bps unwrap, after which a 
+second five bps unwrap at the same end with no increase in free energy. The 
+unwrapping then starts at the other end of the DNA, where 10 bps are unwrapped. 
+During further unwrapping of 15 bps, the unwrapping advances at one of the ends, 
+after which the other end of the DNA unwraps to complete the unwrapping of the 
+outer superhelical turn. These results provide insight into the construction, 
+disruption, and repositioning of nucleosomes, which are continuously ongoing 
+during cellular processes.
+
+DOI: 10.1371/journal.pcbi.1006024
+PMCID: PMC5854429
+PMID: 29505570 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

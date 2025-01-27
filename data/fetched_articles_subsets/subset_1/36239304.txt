@@ -1,0 +1,76 @@
+1. J Chem Inf Model. 2022 Dec 26;62(24):6825-6843. doi: 10.1021/acs.jcim.2c00596.
+ Epub 2022 Oct 14.
+
+Discovery of New Zika Protease and Polymerase Inhibitors through the Open 
+Science Collaboration Project OpenZika.
+
+Mottin M(1)(2), de Paula Sousa BK(1), de Moraes Roso Mesquita NC(3), de Oliveira 
+KIZ(3), Noske GD(3), Sartori GR(4), de Oliveira Albuquerque A(4), Urbina F(5), 
+Puhl AC(5), Moreira-Filho JT(1), Souza GE(3), Guido RVC(3), Muratov E(6)(7), 
+Neves BJ(1), Martins da Silva JH(4), Clark AE(8), Siqueira-Neto JL(8), Perryman 
+AL(9)(10), Oliva G(3), Ekins S(5), Andrade CH(1).
+
+Author information:
+(1)Laboratory of Molecular Modeling and Drug Design (LabMol), Faculdade de 
+Farmácia, Universidade Federal de Goiás, Goiânia, GO74605-170, Brazil.
+(2)Pathogen-Host Interface Laboratory, Department of Cell Biology, University of 
+Brasilia, Brasilia70910-900, Brazil.
+(3)São Carlos Institute of Physics, University of São Paulo, Avenida João 
+Dagnone, 1100, São Carlos, São Paulo13563-120, Brazil.
+(4)Fundação Oswaldo Cruz, Ceará61773-270, Brazil.
+(5)Collaborations Pharmaceuticals, Inc., Raleigh, North Carolina27606, United 
+States.
+(6)University of North Carolina at Chapel Hill, Chapel Hill, North 
+Carolina27599, United States.
+(7)Universidade Federal da Paraíba, Joao Pessoa, PB58051-900, Brazil.
+(8)Skaggs School of Pharmacy and Pharmaceutical Sciences, University of 
+California San Diego, La Jolla, California92093, United States.
+(9)Department of Pharmacology, Physiology and Neuroscience, Rutgers 
+University-New Jersey Medical School, Newark, New Jersey07103, United States.
+(10)Repare Therapeutics, 7210 Rue Frederick-Banting, Suite 100, Montreal, QCH4S 
+2A1, Canada.
+
+The Zika virus (ZIKV) is a neurotropic arbovirus considered a global threat to 
+public health. Although there have been several efforts in drug discovery 
+projects for ZIKV in recent years, there are still no antiviral drugs approved 
+to date. Here, we describe the results of a global collaborative crowdsourced 
+open science project, the OpenZika project, from IBM's World Community Grid 
+(WCG), which integrates different computational and experimental strategies for 
+advancing a drug candidate for ZIKV. Initially, molecular docking protocols were 
+developed to identify potential inhibitors of ZIKV NS5 RNA-dependent RNA 
+polymerase (NS5 RdRp), NS3 protease (NS2B-NS3pro), and NS3 helicase (NS3hel). 
+Then, a machine learning (ML) model was built to distinguish active vs inactive 
+compounds for the cytoprotective effect against ZIKV infection. We performed 
+three independent target-based virtual screening campaigns (NS5 RdRp, 
+NS2B-NS3pro, and NS3hel), followed by predictions by the ML model and other 
+filters, and prioritized a total of 61 compounds for further testing in 
+enzymatic and phenotypic assays. This yielded five non-nucleoside compounds 
+which showed inhibitory activity against ZIKV NS5 RdRp in enzymatic assays (IC50 
+range from 0.61 to 17 μM). Two compounds thermally destabilized NS3hel and 
+showed binding affinity in the micromolar range (Kd range from 9 to 35 μM). 
+Moreover, the compounds LabMol-301 inhibited both NS5 RdRp and NS2B-NS3pro (IC50 
+of 0.8 and 7.4 μM, respectively) and LabMol-212 thermally destabilized the ZIKV 
+NS3hel (Kd of 35 μM). Both also protected cells from death induced by ZIKV 
+infection in in vitro cell-based assays. However, while eight compounds 
+(including LabMol-301 and LabMol-212) showed a cytoprotective effect and 
+prevented ZIKV-induced cell death, agreeing with our ML model for prediction of 
+this cytoprotective effect, no compound showed a direct antiviral effect against 
+ZIKV. Thus, the new scaffolds discovered here are promising hits for future 
+structural optimization and for advancing the discovery of further drug 
+candidates for ZIKV. Furthermore, this work has demonstrated the importance of 
+the integration of computational and experimental approaches, as well as the 
+potential of large-scale collaborative networks to advance drug discovery 
+projects for neglected diseases and emerging viruses, despite the lack of 
+available direct antiviral activity and cytoprotective effect data, that 
+reflects on the assertiveness of the computational predictions. The importance 
+of these efforts rests with the need to be prepared for future viral epidemic 
+and pandemic outbreaks.
+
+DOI: 10.1021/acs.jcim.2c00596
+PMCID: PMC9923514
+PMID: 36239304 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interest S.E. is founder and 
+owner of Collaborations Pharmaceuticals, A.C.P. and F.U. is employee of 
+Collaborations Pharmaceuticals, Inc. The remaining authors declare that there 
+are no conflicts of interest.

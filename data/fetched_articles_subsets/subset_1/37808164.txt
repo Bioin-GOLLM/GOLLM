@@ -1,0 +1,41 @@
+1. Open Med (Wars). 2023 Oct 5;18(1):20230806. doi: 10.1515/med-2023-0806. 
+eCollection 2023.
+
+Analysis of two-gene signatures and related drugs in small-cell lung cancer by 
+bioinformatics.
+
+Li Y(1), Zhou X(2), Lyu Z(1)(3).
+
+Author information:
+(1)The School of Clinical Medicine, Fujian Medical University, Fuzhou, China.
+(2)Medical College, Shantou University, Shantou, China.
+(3)Department of Senior Cadres Ward, Zhongshan Hospital of Xiamen University, 
+School of Medicine, Xiamen University, Xiamen, China.
+
+Small-cell lung cancer (SCLC) has a poor prognosis and can be diagnosed with 
+systemic metastases. Nevertheless, the molecular mechanisms underlying the 
+development of SCLC are unclear, requiring further investigation. The current 
+research aims to identify relevant biomarkers and available drugs to treat SCLC. 
+The bioinformatics analysis comprised three Gene Expression Omnibus datasets 
+(including GSE2149507, GSE6044, and GSE30219). Using the limma R package, we 
+discovered differentially expressed genes (DEGs) in the current work. Gene 
+Ontology and Kyoto Encyclopedia of Genes and Genomes analyses were made by 
+adopting the DAVID website. The DEG protein-protein interaction network was 
+built based on the Search Tool for the Retrieval of Interacting Genes/Proteins 
+website and visualized using the CytoHubba plugin in Cytoscape, aiming to screen 
+the top ten hub genes. Quantitative real-time polymerase chain reaction was 
+adopted for verifying the level of the top ten hub genes. Finally, the potential 
+drugs were screened and identified using the QuartataWeb database. Totally 195 
+upregulated and 167 downregulated DEGs were determined. The ten hub genes were 
+NCAPG, BUB1B, TOP2A, CCNA2, NUSAP1, UBE2C, AURKB, RRM2, CDK1, and KIF11. Ten 
+FDA-approved drugs were screened. Finally, two genes and related drugs screened 
+could be the prospective drug targets for SCLC treatment.
+
+© 2023 the author(s), published by De Gruyter.
+
+DOI: 10.1515/med-2023-0806
+PMCID: PMC10560035
+PMID: 37808164
+
+Conflict of interest statement: Conflict of interest: The authors declare that 
+there are no conflicts of interest in this work.

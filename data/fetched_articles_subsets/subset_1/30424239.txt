@@ -1,0 +1,45 @@
+1. Micromachines (Basel). 2018 Jun 19;9(6):306. doi: 10.3390/mi9060306.
+
+Rapid Detection and Trapping of Extracellular Vesicles by Electrokinetic 
+Concentration for Liquid Biopsy on Chip.
+
+Cheung LS(1), Sahloul S(2), Orozaliev A(3), Song YA(4)(5).
+
+Author information:
+(1)Division of Engineering, New York University Abu Dhabi, PO Box 129188, Abu 
+Dhabi, UAE. lsc6@nyu.edu.
+(2)Division of Engineering, New York University Abu Dhabi, PO Box 129188, Abu 
+Dhabi, UAE. sms30@nyu.edu.
+(3)Division of Engineering, New York University Abu Dhabi, PO Box 129188, Abu 
+Dhabi, UAE. ajymurat.orozaliev@nyu.edu.
+(4)Division of Engineering, New York University Abu Dhabi, PO Box 129188, Abu 
+Dhabi, UAE. rafael.song@nyu.edu.
+(5)Department of Chemical and Biomolecular Engineering, New York University 
+Tandon School of Engineering, Brooklyn, NY 11201, USA. rafael.song@nyu.edu.
+
+Exosomes have gained immense importance since their proteomic and genetic 
+contents could potentially be used for disease diagnostics, monitoring of cancer 
+progression, metastasis, and drug efficacy. However, establishing the clinical 
+utility of exosomes has been restricted due to small sizes and high sample loss 
+from extensive sample preparation. Sample loss is particularly critical for body 
+fluids limited in volume and difficult to access, e.g., cerebrospinal fluid. We 
+present a microfluidic technique that locally enhances the concentration of 
+extracellular vesicles extracted from MDA-MB-231 human breast cancer cell lines 
+by using an ion concentration polarization (ICP)-based electrokinetic 
+concentrator. Our design incorporates a trapping mechanism near the conductive 
+polymer membrane; therefore, we can preconcentrate and capture extracellular 
+vesicles simultaneously. Compared with standard fluorescence detection, our 
+method increased the limit of detection (LOD) of extracellular vesicles by two 
+orders of magnitude in 30 min. Our concentrator increased the extracellular 
+vesicle concentration for 5.0 × 10⁷ particles/1 mL (LOD), 5.0 × 10⁸ particles/1 
+mL, and 5.0 × 10⁸ particles/1 mL by ~100-fold each within 30 min using 45 V. 
+This study demonstrates an alternative platform to simultaneously preconcentrate 
+and capture extracellular vesicles that can be incorporated as part of a liquid 
+biopsy-on-a-chip system for the detection of exosomal biomarkers and analysis of 
+their contents for early cancer diagnosis.
+
+DOI: 10.3390/mi9060306
+PMCID: PMC6187315
+PMID: 30424239
+
+Conflict of interest statement: The authors declare no conflict of interest.

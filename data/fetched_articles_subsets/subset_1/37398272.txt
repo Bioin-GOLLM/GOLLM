@@ -1,0 +1,41 @@
+1. bioRxiv [Preprint]. 2023 Jun 14:2023.06.13.541482. doi: 
+10.1101/2023.06.13.541482.
+
+Functional glycoproteomics by integrated network assembly and partitioning.
+
+Griffin ME(1)(2), Thompson JW(1)(2), Xiao Y(1)(2), Sweredoski MJ(3), Aksenfeld 
+RB(1), Jensen EH(1), Koldobskaya Y(1), Schacht AL(1), Kim TD(1), Choudhry P(1), 
+Lomenick B(3), Garbis SD(3), Moradian A(3), Hsieh-Wilson LC(1)(4).
+
+Author information:
+(1)Division of Chemistry and Chemical Engineering, California Institute of 
+Technology, Pasadena, CA 91125, USA.
+(2)Co-first author.
+(3)Proteome Exploration Laboratory, Beckman Institute, California Institute of 
+Technology, Pasadena, CA 91125, USA.
+(4)Lead contact.
+
+The post-translational modification (PTM) of proteins by O-linked 
+β-N-acetyl-D-glucosamine (O-GlcNAcylation) is widespread across the proteome 
+during the lifespan of all multicellular organisms. However, nearly all 
+functional studies have focused on individual protein modifications, overlooking 
+the multitude of simultaneous O-GlcNAcylation events that work together to 
+coordinate cellular activities. Here, we describe Networking of Interactors and 
+SubstratEs (NISE), a novel, systems-level approach to rapidly and 
+comprehensively monitor O-GlcNAcylation across the proteome. Our method 
+integrates affinity purification-mass spectrometry (AP-MS) and site-specific 
+chemoproteomic technologies with network generation and unsupervised 
+partitioning to connect potential upstream regulators with downstream targets of 
+O-GlcNAcylation. The resulting network provides a data-rich framework that 
+reveals both conserved activities of O-GlcNAcylation such as epigenetic 
+regulation as well as tissue-specific functions like synaptic morphology. Beyond 
+O-GlcNAc, this holistic and unbiased systems-level approach provides a broadly 
+applicable framework to study PTMs and discover their diverse roles in specific 
+cell types and biological states.
+
+DOI: 10.1101/2023.06.13.541482
+PMCID: PMC10312638
+PMID: 37398272
+
+Conflict of interest statement: DECLARATION OF INTERESTS S.D.G. is founder and 
+CEO/CTO of Proteas Bioanalytics, Inc.

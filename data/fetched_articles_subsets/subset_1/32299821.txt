@@ -1,0 +1,69 @@
+1. Clin Cancer Res. 2020 Jul 1;26(13):3248-3258. doi: 
+10.1158/1078-0432.CCR-19-3313. Epub 2020 Apr 16.
+
+A Multianalyte Panel Consisting of Extracellular Vesicle miRNAs and mRNAs, 
+cfDNA, and CA19-9 Shows Utility for Diagnosis and Staging of Pancreatic Ductal 
+Adenocarcinoma.
+
+Yang Z(#)(1), LaRiviere MJ(#)(2), Ko J(#)(3), Till JE(4), Christensen T(4), Yee 
+SS(4), Black TA(4), Tien K(4), Lin A(3), Shen H(3), Bhagwat N(5), Herman D(6), 
+Adallah A(3), O'Hara MH(4), Vollmer CM(7), Katona BW(5), Stanger BZ(5), Issadore 
+D(3)(8), Carpenter EL(9).
+
+Author information:
+(1)Department of Mechanical Engineering and Applied Mechanics, School of 
+Engineering and Applied Science, University of Pennsylvania, Philadelphia, 
+Pennsylvania.
+(2)Department of Radiation Oncology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, Pennsylvania.
+(3)Department of Bioengineering, School of Engineering and Applied Science, 
+University of Pennsylvania, Philadelphia, Pennsylvania.
+(4)Division of Hematology-Oncology, Department of Medicine, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania.
+(5)Division of Gastroenterology, Department of Medicine, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania.
+(6)Department of Pathology and Laboratory Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, Pennsylvania.
+(7)Division of General Surgery, Department of Surgery, Hospital of the 
+University of Pennsylvania, Philadelphia, Pennsylvania.
+(8)Department of Electrical and Systems Engineering, School of Engineering and 
+Applied Science, University of Pennsylvania, Philadelphia, Pennsylvania.
+(9)Division of Hematology-Oncology, Department of Medicine, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania. 
+erical@upenn.edu.
+(#)Contributed equally
+
+PURPOSE: To determine whether a multianalyte liquid biopsy can improve the 
+detection and staging of pancreatic ductal adenocarcinoma (PDAC).
+EXPERIMENTAL DESIGN: We analyzed plasma from 204 subjects (71 healthy, 44 
+non-PDAC pancreatic disease, and 89 PDAC) for the following biomarkers: 
+tumor-associated extracellular vesicle miRNA and mRNA isolated on a nanomagnetic 
+platform that we developed and measured by next-generation sequencing or qPCR, 
+circulating cell-free DNA (ccfDNA) concentration measured by qPCR, ccfDNA KRAS 
+G12D/V/R mutations detected by droplet digital PCR, and CA19-9 measured by 
+electrochemiluminescence immunoassay. We applied machine learning to training 
+sets and subsequently evaluated model performance in independent, user-blinded 
+test sets.
+RESULTS: To identify patients with PDAC versus those without, we generated a 
+classification model using a training set of 47 subjects (20 PDAC and 27 
+noncancer). When applied to a blinded test set (N = 136), the model achieved an 
+AUC of 0.95 and accuracy of 92%, superior to the best individual biomarker, 
+CA19-9 (89%). We next used a cohort of 20 patients with PDAC to train our model 
+for disease staging and applied it to a blinded test set of 25 patients 
+clinically staged by imaging as metastasis-free, including 9 subsequently 
+determined to have had occult metastasis. Our workflow achieved significantly 
+higher accuracy for disease staging (84%) than imaging alone (accuracy = 64%; P 
+< 0.05).
+CONCLUSIONS: Algorithmically combining blood-based biomarkers may improve PDAC 
+diagnostic accuracy and preoperative identification of nonmetastatic patients 
+best suited for surgery, although larger validation studies are necessary.
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-19-3313
+PMCID: PMC7334066
+PMID: 32299821 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: David Issadore is one of 
+the founders of Chip Diagnostics and holds equity in the company. Aside from Dr. 
+Issadore, the rest of the authors declare no potential conflicts of interest.

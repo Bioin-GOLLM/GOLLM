@@ -1,0 +1,43 @@
+1. BMC Complement Med Ther. 2020 Mar 23;20(1):95. doi:
+10.1186/s12906-020-02885-9.
+
+A network pharmacology study on the Tripteryguim wilfordii Hook for treatment of 
+Crohn's disease.
+
+Zhang J(1), Huang Q(1), Zhao R(1), Ma Z(2).
+
+Author information:
+(1)Department of Pharmacy, Sir Run Run Shaw Hospital, School of Medicine, 
+Zhejiang University, 3 East Qingchun Road, Hangzhou, 310016, China.
+(2)Department of Clinical Pharmacology, Key Laboratory of Clinical Cancer 
+Pharmacology and Toxicology Research of Zhejiang Province, Affiliated Hangzhou 
+First People's Hospital, Zhejiang University School of Medicine, Hangzhou, 
+Zhejiang, 310006, People's Republic of China. zhiyuan_ma@zju.edu.cn.
+
+BACKGROUND: To explore the mechanism of action of Tripterygium wilfordii Hook 
+(TWH) in the treatment of Crohn's disease (CD) by network pharmacology.
+METHODS: Traditional Chinese Medicine Systems Pharmacology database and analysis 
+platform (TCMSP) was used to obtain the active constituents and targets of TWH. 
+"Crohn's disease" was used as a search term to search for related targets of CD 
+from GeneCards database and OMIM database, thereby obtaining the targets of TWH 
+against CD. The Cytoscape 3.7.1 software was used to construct a Chinese 
+medicine compound-target network and STRING database to construct a 
+protein-protein interaction network (PPI). The DAVID 6.8 online tool was used to 
+perform gene ontology (GO) and kyoto encyclopedia of genes and genome (KEGG) 
+pathway enrichment analysis of overlapping targets.
+RESULTS: The database results showed that there were 30 active ingredients (14 
+key active ingredients) in TWH and 36 targets were screened out for CD 
+treatment. Network analysis indicated that main targets of main active 
+components of TWH were target genes such as VEGFA, MAPK8 and CASP3, which are 
+involved in the regulation of cancer pathway, TNF signal pathway, hepatitis B 
+pathway, apoptosis pathway, NF-kappa B signal pathway and so forth.
+CONCLUSIONS: TWH can play a multi-target and multi-channel synergistic treatment 
+of CD by anti-angiogenesis, anti-apoptosis, anti-inflammation and immune 
+regulation.
+
+DOI: 10.1186/s12906-020-02885-9
+PMCID: PMC7092476
+PMID: 32293395 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

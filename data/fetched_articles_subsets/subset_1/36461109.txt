@@ -1,0 +1,43 @@
+1. BMC Pharmacol Toxicol. 2022 Dec 2;23(1):91. doi: 10.1186/s40360-022-00627-w.
+
+Potential antiviral peptides targeting the SARS-CoV-2 spike protein.
+
+Khater I(1), Nassar A(2)(3).
+
+Author information:
+(1)Biophysics Department, Faculty of Science, Cairo University, Giza, Egypt.
+(2)Biophysics Department, Faculty of Science, Cairo University, Giza, Egypt. 
+aaya_nassar@cu.edu.eg.
+(3)Department of Clinical Research and Leadership, School of Medicine and Health 
+Sciences, George Washington University, Washington DC, USA. 
+aaya_nassar@cu.edu.eg.
+
+BACKGROUND: The coronavirus disease caused by the severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2) infection became an international pandemic 
+and created a public health crisis. The binding of the viral Spike glycoprotein 
+to the human cell receptor angiotensin-converting enzyme 2 (ACE2) initiates 
+viral infection. The development of efficient treatments to combat coronavirus 
+disease is considered essential.
+METHODS: An in silico approach was employed to design amino acid peptide 
+inhibitor against the receptor-binding domain (RBD) of the SARS-CoV-2 spike 
+protein. The designed inhibitor (SARS-CoV-2 PEP 49) consists of amino acids with 
+the α1 helix and the β4 - β5 sheets of ACE2. The PEP-FOLD3 web tool was used to 
+create the 3D structures of the peptide amino acids. Analyzing the interaction 
+between ACE2 and the RBD of the Spike protein for three protein data bank 
+entries (6M0J, 7C8D, and 7A95) indicated that the interacting amino acids were 
+contained inside two regions of ACE2: the α1 helical protease domain (PD) and 
+the β4 - β5 sheets.
+RESULTS: Molecular docking analysis of the designed inhibitor demonstrated that 
+SARS-CoV-2 PEP 49 attaches directly to the ACE2 binding site of the Spike 
+protein with a binding affinity greater than the ACE2, implying that the 
+SARS-CoV-2 PEP 49 model may be useful as a potential RBD binding blocker.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s40360-022-00627-w
+PMCID: PMC9716172
+PMID: 36461109 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

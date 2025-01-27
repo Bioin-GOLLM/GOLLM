@@ -1,0 +1,52 @@
+1. Bioorg Med Chem. 2016 Oct 15;24(20):4812-4825. doi: 10.1016/j.bmc.2016.06.034.
+ Epub 2016 Jun 18.
+
+Parametrization of halogen bonds in the CHARMM general force field: Improved 
+treatment of ligand-protein interactions.
+
+Soteras Gutiérrez I(1), Lin FY(2), Vanommeslaeghe K(3), Lemkul JA(2), Armacost 
+KA(4), Brooks CL 3rd(4), MacKerell AD Jr(5).
+
+Author information:
+(1)Life Sciences Department, Barcelona Supercomputing Center, Jordi Girona 29, 
+Barcelona 08034, Spain.
+(2)Computer-Aided Drug Design Center, Department of Pharmaceutical Sciences, 
+School of Pharmacy, University of Maryland, Baltimore, MD 21201, United States.
+(3)Computer-Aided Drug Design Center, Department of Pharmaceutical Sciences, 
+School of Pharmacy, University of Maryland, Baltimore, MD 21201, United States; 
+Department of Analytical Chemistry and Pharmaceutical Technology (FABI), Center 
+for Pharmaceutical Research (CePhaR), Vrije Universiteit Brussel (VUB), 
+Laarbeeklaan 103, B-1090 Brussels, Belgium.
+(4)Department of Chemistry and Biophysics, University of Michigan, 930 North 
+University Avenue, Ann Arbor, MI 48109, United States.
+(5)Computer-Aided Drug Design Center, Department of Pharmaceutical Sciences, 
+School of Pharmacy, University of Maryland, Baltimore, MD 21201, United States. 
+Electronic address: alex@outerbanks.umaryland.edu.
+
+A halogen bond is a highly directional, non-covalent interaction between a 
+halogen atom and another electronegative atom. It arises due to the formation of 
+a small region of positive electrostatic potential opposite the covalent bond to 
+the halogen, called the 'sigma hole.' Empirical force fields in which the 
+electrostatic interactions are represented by atom-centered point charges cannot 
+capture this effect because halogen atoms usually carry a negative charge and 
+therefore interact unfavorably with other electronegative atoms. A strategy to 
+overcome this problem is to attach a positively charged virtual particle to the 
+halogen. In this work, we extend the additive CHARMM General Force Field 
+(CGenFF) to include such interactions in model systems of phenyl-X, with X being 
+Cl, Br or I including di- and trihalogenated species. The charges, Lennard-Jones 
+parameters, and halogen-virtual particle distances were optimized to reproduce 
+the orientation dependence of quantum mechanical interaction energies with 
+water, acetone, and N-methylacetamide as well as experimental pure liquid 
+properties and relative hydration free energies with respect to benzene. The 
+resulting parameters were validated in molecular dynamics simulations on 
+small-molecule crystals and on solvated protein-ligand complexes containing 
+halogenated compounds. The inclusion of positive virtual sites leads to better 
+agreement across experimental observables, including preservation of ligand 
+binding poses as a direct result of the improved representation of halogen 
+bonding.
+
+Copyright © 2016. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.bmc.2016.06.034
+PMCID: PMC5053860
+PMID: 27353885 [Indexed for MEDLINE]

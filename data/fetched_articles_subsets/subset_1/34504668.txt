@@ -1,0 +1,44 @@
+1. Comput Struct Biotechnol J. 2021 Aug 17;19:4759-4769. doi: 
+10.1016/j.csbj.2021.08.022. eCollection 2021.
+
+Protein-gene Expression Nexus: Comprehensive characterization of human cancer 
+cell lines with proteogenomic analysis.
+
+Hyung D(1), Baek MJ(1), Lee J(1), Cho J(1), Kim HS(1), Park C(1), Cho SY(1)(2).
+
+Author information:
+(1)National Cancer Center, 323 Ilsan-ro, Goyang-si, Gyeonggi-do 10408, Republic 
+of Korea.
+(2)Department of Molecular and Life Science, Hanyang University, Ansan 15588, 
+Republic of Korea.
+
+Researchers have gained new therapeutic insights using multi-omics platform 
+approaches to study DNA, RNA, and proteins of comprehensively characterized 
+human cancer cell lines. To improve our understanding of the molecular features 
+associated with oncogenic modulation in cancer, we proposed a proteogenomic 
+database for human cancer cell lines, called Protein-gene Expression Nexus 
+(PEN). We have expanded the characterization of cancer cell lines to include 
+genetic, mRNA, and protein data of 145 cancer cell lines from various public 
+studies. PEN contains proteomic and phosphoproteomic data on 4,129,728 peptides, 
+13,862 proteins, 7,138 phosphorylation site-associated genomic variations, 117 
+studies, and 12 cancer. We analyzed functional characterizations along with the 
+integrated datasets, such as cis/trans association for copy number alteration 
+(CNA), single amino acid variation for coding genes, post-translation 
+modification site variation for Single Amino Acid Variation, and novel peptide 
+expression for noncoding regions and fusion genes. PEN provides a user-friendly 
+interface for searching, browsing, and downloading data and also supports the 
+visualization of genome-wide association between CNA and expression, novel 
+peptide landscape, mRNA-protein abundance, and functional annotation. Together, 
+this dataset and PEN data portal provide a resource to accelerate cancer 
+research using model cancer cell lines. PEN is freely accessible at 
+http://combio.snu.ac.kr/pen.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.csbj.2021.08.022
+PMCID: PMC8405889
+PMID: 34504668
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

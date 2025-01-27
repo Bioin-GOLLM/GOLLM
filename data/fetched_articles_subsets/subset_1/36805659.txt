@@ -1,0 +1,37 @@
+1. G3 (Bethesda). 2023 May 2;13(5):jkad041. doi: 10.1093/g3journal/jkad041.
+
+FLInt: single shot safe harbor transgene integration via Fluorescent Landmark 
+Interference.
+
+Malaiwong N(1), Porta-de-la-Riva M, Krieg M.
+
+Author information:
+(1)Institut de Ciències Fotòniques (ICFO), 08860 Castelldefels, Spain.
+
+The stable incorporation of transgenes and recombinant DNA material into the 
+host genome is a bottleneck in many bioengineering applications. Due to the low 
+efficiency, identifying the transgenic animals is often a needle in the 
+haystack. Thus, optimal conditions require efficient screening procedures, but 
+also known and safe landing sites that do not interfere with host expression, 
+low input material and strong expression from the new locus. Here, we leverage 
+an existing library of ≈300 different loci coding for fluorescent markers that 
+are distributed over all 6 chromosomes in Caenorhabditis elegans as safe harbors 
+for versatile transgene integration sites using CRISPR/Cas9. We demonstrated 
+that a single crRNA was sufficient for cleavage of the target region and 
+integration of the transgene of interest, which can be easily followed by loss 
+of the fluorescent marker. The same loci can also be used for extrachromosomal 
+landing sites and as co-CRISPR markers without affecting body morphology or 
+animal behavior. Thus, our method overcomes the uncertainty of transgene 
+location during random mutagenesis, facilitates easy screening through 
+fluorescence interference and can be used as co-CRISPR markers without further 
+influence in phenotypes.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+Genetics Society of America.
+
+DOI: 10.1093/g3journal/jkad041
+PMCID: PMC10151404
+PMID: 36805659 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest statement The authors 
+identify no conflict of interest.

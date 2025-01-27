@@ -1,0 +1,36 @@
+1. STAR Protoc. 2023 Sep 15;4(3):102535. doi: 10.1016/j.xpro.2023.102535. Epub
+2023  Sep 7.
+
+Single-embryo RNA sequencing for continuous and sex-specific gene expression 
+analysis on Drosophila.
+
+Pérez-Mojica JE(1), Enders L(2), Lau KH(3), Lempradl A(4).
+
+Author information:
+(1)Department of Metabolism and Nutritional Programming, Van Andel Institute, 
+Grand Rapids, MI 49503, USA. Electronic address: eduardo.perezmojica@vai.org.
+(2)Department of Epigenetics, Max Planck Institute of Immunobiology and 
+Epigenetics, 79108 Freiburg im Breisgau, Germany.
+(3)Bioinformatics and Biostatistics Core, Van Andel Institute, Grand Rapids, MI 
+49503, USA.
+(4)Department of Metabolism and Nutritional Programming, Van Andel Institute, 
+Grand Rapids, MI 49503, USA. Electronic address: heidi.lempradl@vai.org.
+
+Exploring early embryonic gene expression is challenging due to the rate of 
+development and the limited material available. Here, we present a protocol for 
+ordering Drosophila embryos along a developmental pseudo-time trajectory and 
+determining the sex of the embryos using RNA-seq data. We describe steps for 
+sample collection, RNA isolation, RNA-seq, and RNA-seq data processing. We then 
+detail the establishment of a continuous transcriptome dataset for assessing 
+gene expression throughout early development and in a sex-specific manner. For 
+complete details on the use and execution of this protocol, please refer to 
+Pérez-Mojica et al.1.
+
+Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.xpro.2023.102535
+PMCID: PMC10493594
+PMID: 37682716 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

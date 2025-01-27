@@ -1,0 +1,58 @@
+1. BMC Genomics. 2015 Nov 21;16:985. doi: 10.1186/s12864-015-2183-z.
+
+Comparative transcriptome analysis of lufenuron-resistant and susceptible 
+strains of Spodoptera frugiperda (Lepidoptera: Noctuidae).
+
+do Nascimento AR(1), Fresia P(2), Cônsoli FL(3), Omoto C(4).
+
+Author information:
+(1)Departamento de Entomologia e Acarologia, Escola Superior de Agricultura 
+"Luiz de Queiroz", Universidade de São Paulo, Piracicaba, São Paulo, 13418-900, 
+Brazil. nascimento_arb@yahoo.com.br.
+(2)Departamento de Entomologia e Acarologia, Escola Superior de Agricultura 
+"Luiz de Queiroz", Universidade de São Paulo, Piracicaba, São Paulo, 13418-900, 
+Brazil. pfresia@gmail.com.
+(3)Departamento de Entomologia e Acarologia, Escola Superior de Agricultura 
+"Luiz de Queiroz", Universidade de São Paulo, Piracicaba, São Paulo, 13418-900, 
+Brazil. fconsoli@usp.br.
+(4)Departamento de Entomologia e Acarologia, Escola Superior de Agricultura 
+"Luiz de Queiroz", Universidade de São Paulo, Piracicaba, São Paulo, 13418-900, 
+Brazil. celso.omoto@usp.br.
+
+BACKGROUND: The evolution of insecticide resistance in Spodoptera frugiperda 
+(Lepidoptera: Noctuidae) has resulted in large economic losses and disturbances 
+to the environment and agroecosystems. Resistance to lufenuron, a chitin 
+biosynthesis inhibitor insecticide, was recently documented in Brazilian 
+populations of S. frugiperda. Thus, we utilized large-scale cDNA sequencing 
+(RNA-Seq analysis) to compare the pattern of gene expression between 
+lufenuron-resistant (LUF-R) and susceptible (LUF-S) S. larvae in an attempt to 
+identify the molecular basis behind the resistance mechanism(s) of S. frugiperda 
+to this insecticide.
+RESULTS: A transcriptome was assembled using approximately 19.6 million 100 
+bp-long single-end reads, which generated 18,506 transcripts with a N50 of 996 
+bp. A search against the NCBI non-redundant database generated 51.1% (9,457) 
+functionally annotated transcripts. A large portion of the alignments were 
+homologous to insects, with the majority (45%) being similar to sequences of 
+Bombyx mori (Lepidoptera: Bombycidae). Moreover, 10% of the alignments were 
+similar to sequences of various species of Spodoptera (Lepidoptera: Noctuidae), 
+with 3% of them being similar to sequences of S. frugiperda. A comparative 
+analysis of the gene expression between LUF-R and LUF-S S. frugiperda larvae 
+identified 940 differentially expressed transcripts (p ≤ 0.05, t-test; fold 
+change ≥ 4). Six of them were associated with cuticle metabolism. Of those, four 
+were overexpressed in LUF-R larvae. The machinery involved with the 
+detoxification process was represented by 35 differentially expressed 
+transcripts; 24 of them belonging to P450 monooxygenases, four to 
+glutathione-S-transferases, six to carboxylases and one to sulfotransferases. 
+RNA-Seq analysis was validated for a number of selected candidate transcripts by 
+using quantitative real time PCR (qPCR).
+CONCLUSIONS: The gene expression profile of LUF-R larvae of S. frugiperda 
+differs from LUF-S larvae. In general, gene expression is much higher in 
+resistant larvae when compared to the susceptible ones, particularly for those 
+genes involved with pathways for xenobiotic detoxification, mainly represented 
+by P450 monooxygenases transcripts. Our data indicate that enzymes involved with 
+the detoxification process, and mostly the P450, are one of the resistance 
+mechanisms employed by the LUF-R S. frugiperda larvae against lufenuron.
+
+DOI: 10.1186/s12864-015-2183-z
+PMCID: PMC4654862
+PMID: 26589731 [Indexed for MEDLINE]

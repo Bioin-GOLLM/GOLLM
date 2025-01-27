@@ -1,0 +1,54 @@
+1. PNAS Nexus. 2022 May 16;1(2):pgac059. doi: 10.1093/pnasnexus/pgac059. 
+eCollection 2022 May.
+
+A chemoproteoinformatics approach demonstrates that aspirin increases 
+sensitivity to MEK inhibition by directly binding to RPS5.
+
+Watanabe M(1), Boku S(1)(2), Kobayashi K(3), Kurumida Y(3), Sukeno M(4), Masuda 
+M(1), Mizushima K(5), Kato C(6), Iizumi Y(1), Hirota K(7), Naito Y(5), Mutoh 
+M(1), Kameda T(3), Sakai T(4).
+
+Author information:
+(1)Department of Molecular-Targeting Prevention, Kyoto Prefectural University of 
+Medicine, 602-8566 Kyoto, Japan.
+(2)Cancer Treatment Center, Kansai Medical University Hospital, 573-1010 Osaka, 
+Japan.
+(3)Artificial Intelligence Research Center, National Institute of Advanced 
+Industrial Science and Technology (AIST), 135-0064 Tokyo, Japan.
+(4)Department of Drug Discovery Medicine, Kyoto Prefectural University of 
+Medicine, 602-8566 Kyoto, Japan.
+(5)Department of Human Immunology and Nutrition Science, Kyoto Prefectural 
+University of Medicine, 602-8566 Kyoto, Japan.
+(6)Department of Endocrine and Breast Surgery, Kyoto Prefectural University of 
+Medicine, 602-8566 Kyoto, Japan.
+(7)Department of Human Stress Response Science, Institute of Biomedical Science, 
+Kansai Medical University, 573-1010 Osaka, Japan.
+
+MEK inhibitors are among the most successful molecularly targeted agents used as 
+cancer therapeutics. However, to treat cancer more efficiently, resistance to 
+MEK inhibitor-induced cell death must be overcome. Although previous genetic 
+approaches based on comprehensive gene expression analysis or RNAi libraries led 
+to the discovery of factors involved in intrinsic resistance to MEK inhibitors, 
+a feasible combined treatment with the MEK inhibitor has not yet been developed. 
+Here, we show that a chemoproteoinformatics approach identifies ligands 
+overcoming the resistance to cell death induced by MEK inhibition as well as the 
+target molecule conferring this resistance. First, we used natural products, 
+perillyl alcohol and sesaminol, which induced cell death in combination with the 
+MEK inhibitor trametinib, as chemical probes, and identified ribosomal protein 
+S5 (RPS5) as their common target protein. Consistently, trametinib induced cell 
+death in RPS5-depleted cancer cells via upregulation of the apoptotic proteins 
+BIM and PUMA. Using molecular docking and molecular dynamics (MD) simulations, 
+we then screened FDA- and EMA-approved drugs for RPS5-binding ligands and found 
+that acetylsalicylic acid (ASA, also known as aspirin) directly bound to RPS5, 
+resulting in upregulation of BIM and PUMA and induction of cell death in 
+combination with trametinib. Our chemoproteoinformatics approach demonstrates 
+that RPS5 confers resistance to MEK inhibitor-induced cell death, and that 
+aspirin could be repurposed to sensitize cells to MEK inhibition by binding to 
+RPS5.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+National Academy of Sciences.
+
+DOI: 10.1093/pnasnexus/pgac059
+PMCID: PMC9802315
+PMID: 36713317

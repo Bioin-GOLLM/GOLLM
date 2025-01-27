@@ -1,0 +1,47 @@
+1. Nat Biotechnol. 2020 May;38(5):620-628. doi: 10.1038/s41587-020-0414-6. Epub 
+2020 Feb 10.
+
+Evaluation and minimization of Cas9-independent off-target DNA editing by 
+cytosine base editors.
+
+Doman JL(#)(1)(2)(3), Raguram A(#)(1)(2)(3), Newby GA(1)(2)(3), Liu DR(4)(5)(6).
+
+Author information:
+(1)Merkin Institute of Transformative Technologies in Healthcare, Broad 
+Institute of Harvard and MIT, Cambridge, MA, USA.
+(2)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+MA, USA.
+(3)Howard Hughes Medical Institute, Harvard University, Cambridge, MA, USA.
+(4)Merkin Institute of Transformative Technologies in Healthcare, Broad 
+Institute of Harvard and MIT, Cambridge, MA, USA. drliu@fas.harvard.edu.
+(5)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+MA, USA. drliu@fas.harvard.edu.
+(6)Howard Hughes Medical Institute, Harvard University, Cambridge, MA, USA. 
+drliu@fas.harvard.edu.
+(#)Contributed equally
+
+Cytosine base editors (CBEs) enable targeted C•G-to-T•A conversions in genomic 
+DNA. Recent studies report that BE3, the original CBE, induces a low frequency 
+of genome-wide Cas9-independent off-target C•G-to-T•A mutation in mouse embryos 
+and in rice. Here we develop multiple rapid, cost-effective methods to screen 
+the propensity of different CBEs to induce Cas9-independent deamination in 
+Escherichia coli and in human cells. We use these assays to identify CBEs with 
+reduced Cas9-independent deamination and validate via whole-genome sequencing 
+that YE1, a narrowed-window CBE variant, displays background levels of 
+Cas9-independent off-target editing. We engineered YE1 variants that retain the 
+substrate-targeting scope of high-activity CBEs while maintaining minimal 
+Cas9-independent off-target editing. The suite of CBEs characterized and 
+engineered in this study collectively offer ~10-100-fold lower average 
+Cas9-independent off-target DNA editing while maintaining robust on-target 
+editing at most positions targetable by canonical CBEs, and thus are especially 
+promising for applications in which off-target editing must be minimized.
+
+DOI: 10.1038/s41587-020-0414-6
+PMCID: PMC7335424
+PMID: 32042165 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare 
+competing financial interests. D.R.L. is a consultant and cofounder of Editas 
+Medicine, Pairwise Plants, Beam Therapeutics, and Prime Medicine, companies that 
+use genome editing. J.L.D., A.R., and D.R.L. through the Broad Institute have 
+filed patent applications on aspects of this work.

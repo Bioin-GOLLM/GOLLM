@@ -1,0 +1,42 @@
+1. PLoS Pathog. 2021 Sep 20;17(9):e1009940. doi: 10.1371/journal.ppat.1009940. 
+eCollection 2021 Sep.
+
+PCV2 targets cGAS to inhibit type I interferon induction to promote other DNA 
+virus infection.
+
+Wang Z(1), Chen J(1), Wu X(1), Ma D(1), Zhang X(1), Li R(1), Han C(1), Liu H(1), 
+Yin X(1), Du Q(1), Tong D(1), Huang Y(1).
+
+Author information:
+(1)College of Veterinary Medicine, Northwest A&F University, Yangling, China.
+
+Viruses use diverse strategies to impair the antiviral immunity of host in order 
+to promote infection and pathogenesis. Herein, we found that PCV2 infection 
+promotes the infection of DNA viruses through inhibiting IFN-β induction in vivo 
+and in vitro. In the early phase of infection, PCV2 promotes the phosphorylation 
+of cGAS at S278 via activation of PI3K/Akt signaling, which directly silences 
+the catalytic activity of cGAS. Subsequently, phosphorylation of cGAS at S278 
+can facilitate the K48-linked poly-ubiquitination of cGAS at K389, which can 
+been served as a signal for recognizing by the ubiquitin-binding domain of 
+histone deacetylase 6 (HDAC6), to promote the translocation of 
+K48-ubiquitinated-cGAS from cytosol to autolysosome depending on the deacetylase 
+activity of HDAC6, thereby eventually resulting in a markedly increased cGAS 
+degradation in PCV2 infection-induced autophagic cells relative to Earle's 
+Balanced Salt Solution (EBSS)-induced autophagic cells (a typical starving 
+autophagy). Importantly, we found that PCV2 Cap and its binding protein gC1qR 
+act as predominant regulators to promote porcine cGAS phosphorylation and HDAC6 
+activation through mediating PI3K/AKT signaling and PKCδ signaling activation. 
+Based on this finding, gC1qR-binding activity deficient PCV2 mutant (PCV2RmA) 
+indeed shows a weakened inhibitory effect on IFN-β induction and a weaker boost 
+effect for other DNA viruses infection compared to wild-type PCV2. Collectively, 
+our findings illuminate a systematic regulation mechanism by which porcine 
+circovirus counteracts the cGAS-STING signaling pathway to inhibit the type I 
+interferon induction and promote DNA virus infection, and identify gC1qR as an 
+important regulator for the immunosuppression induced by PCV2.
+
+DOI: 10.1371/journal.ppat.1009940
+PMCID: PMC8483418
+PMID: 34543359 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

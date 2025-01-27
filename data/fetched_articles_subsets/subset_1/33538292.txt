@@ -1,0 +1,52 @@
+1. Bioinformatics. 2021 Aug 9;37(15):2095-2102. doi: 
+10.1093/bioinformatics/btab068.
+
+Accurate haplotype-resolved assembly reveals the origin of structural variants 
+for human trios.
+
+Xu M(1)(2), Guo L(1)(3), Du X(1)(2), Li L(1)(4), Peters BA(2)(5), Deng L(1), 
+Wang O(2), Chen F(6), Wang J(1), Jiang Z(1), Han J(1), Ni M(1)(2), Yang H(2), Xu 
+X(2), Liu X(1)(2)(7), Huang J(8), Fan G(1)(2)(7).
+
+Author information:
+(1)BGI-QingDao, Qingdao 266555, China.
+(2)BGI-Shenzhen, Shenzhen 518083, China.
+(3)BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 
+518083, China.
+(4)School of Future Technology, University of Chinese Academy of Sciences, 
+Beijing 101408, China.
+(5)Complete Genomics Inc., 2904 Orchard Pkwy, San Jose, CA 95134, USA.
+(6)MGI, BGI-Shenzhen, Shenzhen 518083, China.
+(7)State Key Laboratory of Agricultural Genomics, BGI-Shenzhen, Shenzhen 518083, 
+China.
+(8)National Institutes for food and drug Control (NIFDC), No. 2 Tiantan Xili, 
+Dongcheng District, Beijing 10050, China.
+
+MOTIVATION: Achieving a near complete understanding of how the genome of an 
+individual affects the phenotypes of that individual requires deciphering the 
+order of variations along homologous chromosomes in species with diploid 
+genomes. However, true diploid assembly of long-range haplotypes remains 
+challenging.
+RESULTS: To address this, we have developed Haplotype-resolved Assembly for 
+Synthetic long reads using a Trio-binning strategy, or HAST, which uses parental 
+information to classify reads into maternal or paternal. Once sorted, these 
+reads are used to independently de novo assemble the parent-specific haplotypes. 
+We applied HAST to cobarcoded second-generation sequencing data from an Asian 
+individual, resulting in a haplotype assembly covering 94.7% of the reference 
+genome with a scaffold N50 longer than 11 Mb. The high haplotyping precision 
+(∼99.7%) and recall (∼95.9%) represents a substantial improvement over the 
+commonly used tool for assembling cobarcoded reads (Supernova), and is 
+comparable to a trio-binning-based third generation long-read-based assembly 
+method (TrioCanu) but with a significantly higher single-base accuracy [up to 
+99.99997% (Q65)]. This makes HAST a superior tool for accurate haplotyping and 
+future haplotype-based studies.
+AVAILABILITY AND IMPLEMENTATION: The code of the analysis is available at 
+https://github.com/BGI-Qingdao/HAST.
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics 
+online.
+
+© The Author(s) 2021. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btab068
+PMCID: PMC8613828
+PMID: 33538292

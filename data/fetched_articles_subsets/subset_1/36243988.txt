@@ -1,0 +1,45 @@
+1. Nucleic Acids Res. 2023 Jan 6;51(D1):D835-D844. doi: 10.1093/nar/gkac895.
+
+Brain Catalog: a comprehensive resource for the genetic landscape of 
+brain-related traits.
+
+Pan S(1)(2), Kang H(1)(2), Liu X(1)(3), Lin S(1)(2), Yuan N(1), Zhang Z(4), Bao 
+Y(3)(4), Jia P(1).
+
+Author information:
+(1)CAS Key Laboratory of Genomic and Precision Medicine, Beijing Institute of 
+Genomics, Chinese Academy of Sciences and China National Center for 
+Bioinformation, Beijing 100101, China.
+(2)College of Life Sciences, University of Chinese Academy of Sciences, Beijing 
+100101, China.
+(3)School of Future Technology, University of Chinese Academy of Sciences, 
+Beijing 100101, China.
+(4)National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy 
+of Sciences and China National Center for Bioinformation, Beijing 100101, China.
+
+A broad range of complex phenotypes are related to dysfunctions in brain 
+(hereafter referred to as brain-related traits), including various mental and 
+behavioral disorders and diseases of the nervous system. These traits in general 
+share overlapping symptoms, pathogenesis, and genetic components. Here, we 
+present Brain Catalog (https://ngdc.cncb.ac.cn/braincatalog), a comprehensive 
+database aiming to delineate the genetic components of more than 500 GWAS 
+summary statistics datasets for brain-related traits from multiple aspects. 
+First, Brain Catalog provides results of candidate causal variants, causal 
+genes, and functional tissues and cell types for each trait identified by 
+multiple methods using comprehensive annotation datasets (58 QTL datasets 
+spanning 6 types of QTLs). Second, Brain Catalog estimates the SNP-based 
+heritability, the partitioning heritability based on functional annotations, and 
+genetic correlations among traits. Finally, through bidirectional Mendelian 
+randomization analyses, Brain Catalog presents inference of risk factors that 
+are likely causal to each trait. In conclusion, Brain Catalog presents a 
+one-stop shop for the genetic components of brain-related traits, potentially 
+serving as a valuable resource for worldwide researchers to advance the 
+understanding of how GWAS signals may contribute to the biological etiology of 
+brain-related traits.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac895
+PMCID: PMC9825493
+PMID: 36243988 [Indexed for MEDLINE]

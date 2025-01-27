@@ -1,0 +1,40 @@
+1. Int J Mol Sci. 2021 Feb 3;22(4):1536. doi: 10.3390/ijms22041536.
+
+A Mechanistic Model of NMDA and AMPA Receptor-Mediated Synaptic Transmission in 
+Individual Hippocampal CA3-CA1 Synapses: A Computational Multiscale Approach.
+
+Micheli P(1), Ribeiro R(1)(2), Giorgetti A(1)(2).
+
+Author information:
+(1)Department of Biotechnology, University of Verona, 37134 Verona, Italy.
+(2)Institute for Neuroscience and Medicine (INM-9) and Institute for Advanced 
+Simulations (IAS-5), "Computational Biomedicine", Forschungszentrum Jülich, 
+52428 Jülich, Germany.
+
+Inside hippocampal circuits, neuroplasticity events that individual cells may 
+undergo during synaptic transmissions occur in the form of Long-Term 
+Potentiation (LTP) and Long-Term Depression (LTD). The high density of NMDA 
+receptors expressed on the surface of the dendritic CA1 spines confers to 
+hippocampal CA3-CA1 synapses the ability to easily undergo NMDA-mediated LTP and 
+LTD, which is essential for some forms of explicit learning in mammals. 
+Providing a comprehensive kinetic model that can be used for running computer 
+simulations of the synaptic transmission process is currently a major challenge. 
+Here, we propose a compartmentalized kinetic model for CA3-CA1 synaptic 
+transmission. Our major goal was to tune our model in order to predict the 
+functional impact caused by disease associated variants of NMDA receptors 
+related to severe cognitive impairment. Indeed, for variants Glu413Gly and 
+Cys461Phe, our model predicts negative shifts in the glutamate affinity and 
+changes in the kinetic behavior, consistent with experimental data. These 
+results point to the predictive power of this multiscale viewpoint, which aims 
+to integrate the quantitative kinetic description of large interaction networks 
+typical of system biology approaches with a focus on the quality of a few, key, 
+molecular interactions typical of structural biology ones.
+
+DOI: 10.3390/ijms22041536
+PMCID: PMC7913719
+PMID: 33546429 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

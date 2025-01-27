@@ -1,0 +1,35 @@
+1. Nucleic Acids Res. 2022 Jul 8;50(12):e67. doi: 10.1093/nar/gkac173.
+
+Expanding the DNA-encoded library toolbox: identifying small molecules targeting 
+RNA.
+
+Chen Q(1), Li Y(1), Lin C(1), Chen L(1), Luo H(1), Xia S(1), Liu C(1), Cheng 
+X(1), Liu C(1), Li J(1), Dou D(1).
+
+Author information:
+(1)HitGen Inc., Shuangliu District, Chengdu, China.
+
+DNA-encoded library (DEL) technology is a powerful tool for small molecule 
+identification in drug discovery, yet the reported DEL selection strategies were 
+applied primarily on protein targets in either purified form or in cellular 
+context. To expand the application of this technology, we employed DEL selection 
+on an RNA target HIV-1 TAR (trans-acting responsive region), but found that the 
+majority of signals were resulted from false positive DNA-RNA binding. We thus 
+developed an optimized selection strategy utilizing RNA patches and competitive 
+elution to minimize unwanted DNA binding, followed by k-mer analysis and motif 
+search to differentiate false positive signal. This optimized strategy resulted 
+in a very clean background in a DEL selection against Escherichia coli FMN 
+Riboswitch, and the enriched compounds were determined with double digit 
+nanomolar binding affinity, as well as similar potency in functional FMN 
+competition assay. These results demonstrated the feasibility of small molecule 
+identification against RNA targets using DEL selection. The developed 
+experimental and computational strategy provided a promising opportunity for RNA 
+ligand screening and expanded the application of DEL selection to a much wider 
+context in drug discovery.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac173
+PMCID: PMC9262588
+PMID: 35288754 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+1. bioRxiv [Preprint]. 2020 May 15:2020.05.15.098616. doi: 
+10.1101/2020.05.15.098616.
+
+SARS-CoV2 (COVID-19) Structural/Evolution Dynamicome: Insights into functional 
+evolution and human genomics.
+
+Gupta R, Charron J, Stenger CL, Painter J, Steward H, Cook TW, Faber W, Frisch 
+A, Lind E, Bauss J, Li X, Sirpilla O, Soehnlen X, Underwood A, Hinds D, Morris 
+M, Lamb N, Carcillo JA, Bupp C, Uhal BD, Rajasekaran S, Prokop JW.
+
+Update in
+    J Biol Chem. 2020 Aug 14;295(33):11742-11753. doi: 10.1074/jbc.RA120.014873.
+
+The SARS-CoV-2 pandemic, starting in 2019, has challenged the speed at which 
+labs perform science, ranging from discoveries of the viral composition to 
+handling health outcomes in humans. The small ~30kb single-stranded RNA genome 
+of Coronaviruses makes them adept at cross species spread and drift, increasing 
+their probability to cause pandemics. However, this small genome also allows for 
+a robust understanding of all proteins coded by the virus. We employed protein 
+modeling, molecular dynamic simulations, evolutionary mapping, and 3D printing 
+to gain a full proteome and dynamicome understanding of SARS-CoV-2. The Viral 
+Integrated Structural Evolution Dynamic Database (VIStEDD) has been established 
+(prokoplab.com/vistedd), opening future discoveries and educational usage. In 
+this paper, we highlight VIStEDD usage for nsp6, Nucleocapsid (N), and Spike (S) 
+surface glycoprotein. For both nsp6 and N we reveal highly conserved surface 
+amino acids that likely drive protein-protein interactions. In characterizing 
+viral S protein, we have developed a quantitative dynamics cross correlation 
+matrix insight into interaction with the ACE2/SLC6A19 dimer complex. From this 
+quantitative matrix, we elucidated 47 potential functional missense variants 
+from population genomic databases within ACE2/SLC6A19/TMPRSS2, warranting 
+genomic enrichment analyses in SARS-CoV-2 patients. Moreover, these variants 
+have ultralow frequency, but can exist as hemizygous in males for ACE2, which 
+falls on the X-chromosome. Two noncoding variants (rs4646118 and rs143185769) 
+found in ~9% of African descent individuals for ACE2 may regulate expression and 
+be related to increased susceptibility of African Americans to SARS-CoV-2. This 
+powerful database of SARS-CoV-2 can aid in research progress in the ongoing 
+pandemic.
+
+DOI: 10.1101/2020.05.15.098616
+PMCID: PMC7263544
+PMID: 32511397

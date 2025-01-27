@@ -1,0 +1,39 @@
+1. Pharmaceutics. 2023 Jul 5;15(7):1891. doi: 10.3390/pharmaceutics15071891.
+
+Montelukast and Telmisartan as Inhibitors of SARS-CoV-2 Omicron Variant.
+
+Mulgaonkar N(1), Wang H(1), Zhang J(1), Roundy CM(2), Tang W(2), Chaki SP(3), 
+Pauvolid-Corrêa A(4), Hamer GL(2), Fernando S(1).
+
+Author information:
+(1)Biological and Agricultural Engineering Department, Texas A&M University, 
+College Station, TX 77843, USA.
+(2)Department of Entomology, Texas A&M University, College Station, TX 77843, 
+USA.
+(3)Texas A&M Global Health Research Complex, Division of Research, Texas A&M 
+University, College Station, TX 77843, USA.
+(4)Department of Veterinary Integrative Biosciences, Texas A&M University, 
+College Station, TX 77843, USA.
+
+Earlier studies with montelukast (M) and telmisartan (T) have revealed their 
+potential antiviral properties against SARS-CoV-2 wild-type (WT) but have not 
+assessed their efficacy against emerging Variants of Concern (VOCs) such as 
+Omicron. Our research fills this gap by investigating these drugs' impact on 
+VOCs, a topic that current scientific literature has largely overlooked. We 
+employed computational methodologies, including molecular mechanics and machine 
+learning tools, to identify drugs that could potentially disrupt the SARS-CoV-2 
+spike RBD-ACE2 protein interaction. This led to the identification of two 
+FDA-approved small molecule drugs, M and T, conventionally used for treating 
+asthma and hypertension, respectively. Our study presents an additional 
+potential use for these drugs as antivirals. Our results show that both M and T 
+can inhibit not only the WT SARS-CoV-2 but also, in the case of M, the Omicron 
+variant, without reaching cytotoxic concentrations. This novel finding fills an 
+existing gap in the literature and introduces the possibility of repurposing 
+these drugs for SARS-CoV-2 VOCs, an essential step in responding to the evolving 
+global pandemic.
+
+DOI: 10.3390/pharmaceutics15071891
+PMCID: PMC10385313
+PMID: 37514075
+
+Conflict of interest statement: The authors declare no conflict of interest.

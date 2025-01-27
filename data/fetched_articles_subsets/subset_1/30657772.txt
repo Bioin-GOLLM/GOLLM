@@ -1,0 +1,58 @@
+1. PLoS Genet. 2019 Jan 18;15(1):e1007819. doi: 10.1371/journal.pgen.1007819. 
+eCollection 2019 Jan.
+
+The complex architecture and epigenomic impact of plant T-DNA insertions.
+
+Jupe F(1), Rivkin AC(1), Michael TP(2), Zander M(1)(3)(4), Motley ST(2), 
+Sandoval JP(1), Slotkin RK(5), Chen H(1), Castanon R(1), Nery JR(1), Ecker 
+JR(1)(3)(4).
+
+Author information:
+(1)Genomic Analysis Laboratory, Salk Institute for Biological Studies, La Jolla, 
+CA, United States of America.
+(2)J. Craig Venter Institute, La Jolla, CA, United States of America.
+(3)Plant Biology Laboratory, Salk Institute for Biological Studies, La Jolla, 
+CA, United States of America.
+(4)Howard Hughes Medical Institute, Salk Institute for Biological Studies, La 
+Jolla, CA, United States of America.
+(5)Donald Danforth Plant Science Center, St. Louis, MO, United States of 
+America.
+
+The bacterium Agrobacterium tumefaciens has been the workhorse in plant genome 
+engineering. Customized replacement of native tumor-inducing (Ti) plasmid 
+elements enabled insertion of a sequence of interest called Transfer-DNA (T-DNA) 
+into any plant genome. Although these transfer mechanisms are well understood, 
+detailed understanding of structure and epigenomic status of insertion events 
+was limited by current technologies. Here we applied two single-molecule 
+technologies and analyzed Arabidopsis thaliana lines from three widely used 
+T-DNA insertion collections (SALK, SAIL and WISC). Optical maps for four 
+randomly selected T-DNA lines revealed between one and seven 
+insertions/rearrangements, and the length of individual insertions from 27 to 
+236 kilobases. De novo nanopore sequencing-based assemblies for two segregating 
+lines partially resolved T-DNA structures and revealed multiple translocations 
+and exchange of chromosome arm ends. For the current TAIR10 reference genome, 
+nanopore contigs corrected 83% of non-centromeric misassemblies. The 
+unprecedented contiguous nucleotide-level resolution enabled an in-depth study 
+of the epigenome at T-DNA insertion sites. SALK_059379 line T-DNA insertions 
+were enriched for 24nt small interfering RNAs (siRNA) and dense cytosine DNA 
+methylation, resulting in transgene silencing via the RNA-directed DNA 
+methylation pathway. In contrast, SAIL_232 line T-DNA insertions are 
+predominantly targeted by 21/22nt siRNAs, with DNA methylation and silencing 
+limited to a reporter, but not the resistance gene. Additionally, we profiled 
+the H3K4me3, H3K27me3 and H2A.Z chromatin environments around T-DNA insertions 
+using ChIP-seq in SALK_059379, SAIL_232 and five additional T-DNA lines. We 
+discovered various effect s ranging from complete loss of chromatin marks to the 
+de novo incorporation of H2A.Z and trimethylation of H3K4 and H3K27 around the 
+T-DNA integration sites. This study provides new insights into the structural 
+impact of inserting foreign fragments into plant genomes and demonstrates the 
+utility of state-of-the-art long-range sequencing technologies to rapidly 
+identify unanticipated genomic changes.
+
+DOI: 10.1371/journal.pgen.1007819
+PMCID: PMC6338467
+PMID: 30657772 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: FJ is an employee of 
+Bayer Crop Science. JRE serves on the scientific advisory boards of Cibus, Zymo 
+Research and Pathway Genomics Inc.

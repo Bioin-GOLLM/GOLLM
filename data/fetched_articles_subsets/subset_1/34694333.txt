@@ -1,0 +1,40 @@
+1. Bioinformatics. 2022 Jan 12;38(3):694-702. doi:
+10.1093/bioinformatics/btab737.
+
+DeepTrio: a ternary prediction system for protein-protein interaction using mask 
+multiple parallel convolutional neural networks.
+
+Hu X(1), Feng C(1), Zhou Y(1), Harrison A(2), Chen M(1)(3).
+
+Author information:
+(1)Department of Bioinformatics, College of Life Sciences, Zhejiang University, 
+Hangzhou 310058, China.
+(2)Department of Mathematical Sciences, University of Essex, Colchester CO4 3SQ, 
+UK.
+(3)Biomedical Big Data Center, the First Affiliated Hospital, Zhejiang 
+University School of Medicine; Institute of Hematology, Zhejiang University, 
+Hangzhou 310058, China.
+
+MOTIVATION: Protein-protein interaction (PPI), as a relative property, is 
+determined by two binding proteins, which brings a great challenge to design an 
+expert model with an unbiased learning architecture and a superior 
+generalization performance. Additionally, few efforts have been made to allow 
+PPI predictors to discriminate between relative properties and intrinsic 
+properties.
+RESULTS: We present a sequence-based approach, DeepTrio, for PPI prediction 
+using mask multiple parallel convolutional neural networks. Experimental 
+evaluations show that DeepTrio achieves a better performance over several 
+state-of-the-art methods in terms of various quality metrics. Besides, DeepTrio 
+is extended to provide additional insights into the contribution of each input 
+neuron to the prediction results.
+AVAILABILITY AND IMPLEMENTATION: We provide an online application at 
+http://bis.zju.edu.cn/deeptrio. The DeepTrio models and training data are 
+deposited at https://github.com/huxiaoti/deeptrio.git.
+SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics 
+online.
+
+© The Author(s) 2021. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btab737
+PMCID: PMC8756175
+PMID: 34694333 [Indexed for MEDLINE]

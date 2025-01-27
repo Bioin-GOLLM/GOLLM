@@ -1,0 +1,100 @@
+1. Genet Epidemiol. 2019 Jun;43(4):449-457. doi: 10.1002/gepi.22187. Epub 2019
+Jan  19.
+
+A large-scale exome array analysis of venous thromboembolism.
+
+Lindström S(1)(2), Brody JA(3), Turman C(4), Germain M(5), Bartz TM(3)(6), Smith 
+EN(7)(8), Chen MH(9), Puurunen M(10), Chasman D(11), Hassler J(2), Pankratz 
+N(12), Basu S(13), Guan W(13), Gyorgy B(14)(15), Ibrahim M(16)(17)(18), Empana 
+JP(19)(20), Olaso R(21), Jackson R(22), Braekkan SK(23), McKnight B(6), Deleuze 
+JF(21), O'Donnell CJ(24), Jouven X(19)(25), Frazer KA(7)(8)(26), Psaty 
+BM(1)(3)(27)(28), Wiggins KL(3), Taylor K(29), Reiner AP(1), Heckbert SR(1), 
+Kooperberg C(2), Ridker P(11), Hansen JB(8)(23), Tang W(30), Johnson AD(9), 
+Morange PE(16)(17)(18), Trégouët DA(5), Kraft P(4)(31), Smith NL(1)(28)(32), 
+Kabrhel C(33)(34)(35); INVENT Consortium.
+
+Author information:
+(1)Department of Epidemiology, University of Washington, Seattle, Washington.
+(2)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, 
+Seattle, Washington.
+(3)Department of Medicine, University of Washington, Seattle, Washington.
+(4)Department of Epidemiology, Harvard TH Chan School of Public Health, Boston, 
+Massachusetts.
+(5)University of Bordeaux, Inserm 1219, Bordeaux Population Health Research 
+Center, Bordeaux, France.
+(6)Department of Biostatistics, University of Washington, Seattle, Washington.
+(7)Department of Pediatrics, Rady Children's Hospital, University of California, 
+San Diego, California.
+(8)Department of Clinical Medicine, UiT-The Arctic University of Norway, K.G. 
+Jebsen Thrombosis Research and Expertise Center (TREC), Tromsø, Norway.
+(9)Population Sciences Branch, National Heart, Lung and Blood Institute's The 
+Framingham Heart Study, Framingham, Massachusetts.
+(10)School of Medicine, Boston University, Boston, Massachusetts.
+(11)Division of Preventive Medicine, Brigham and Women's Hospital, Boston, 
+Massachusetts.
+(12)Department of Laboratory Medicine and Pathology, School of Medicine, 
+University of Minnesota, Minneapolis, Minnesota.
+(13)Division of Biostatistics, School of Public Health, University of Minnesota, 
+Minneapolis, Minnesota.
+(14)Team Genomics & Pathophysiology of Cardiovascular Diseases, Sorbonne 
+Universités, UPMC Univ. Paris 06, INSERM, UMR_S 1166, Paris, France.
+(15)ICAN Institute for Cardiometabolism and Nutrition, Paris, France.
+(16)Laboratory of Haematology, La Timone Hospital, Marseille, France.
+(17)Aix-Marseille University, INSERM, INSERM, INRA, C2VN, Marseille, France.
+(18)CRB Assistance Publique Hopitaux de Marseille HemoVasc, Marseille, France.
+(19)Department of Epidemiology, Université Paris Descartes, Sorbonne Paris Cité, 
+INSERM UMR_S 970, Paris, France.
+(20)Faculté de Médecine, Université Paris Descartes, Sorbonne Paris Cité, Paris, 
+France.
+(21)Centre National de Recherche en Génomique Humaine (CNRGH), Direction de la 
+Recherche Fondamentale, CEA, Institut de Biologie François Jacob, Evry, France.
+(22)Ohio State University, Columbus, Ohio.
+(23)Division of Internal Medicine, University Hospital of North Norway, Tromsø, 
+Norway.
+(24)Department of Cardiology, Boston Veteran's Administration Healthcare, 
+Boston, Massachusetts.
+(25)Department of Cardiology, Georges Pompidou European Hospital, APHP, Paris, 
+France.
+(26)Institute for Genomic Medicine, University of California, San Diego, 
+California.
+(27)Department of Health Services, University of Washington, Seattle, 
+Washington.
+(28)Kaiser Permanente Washington Research Institute, Seattle, Washington.
+(29)LA BioMed, Torrance, California.
+(30)Division of Epidemiology and Community Health, University of Minnesota, 
+Minneapolis, Minnesota.
+(31)Department of Biostatistics, Harvard TH Chan School of Public Health, 
+Boston, Massachusetts.
+(32)Department of Veteran Affairs Office of Research and Development, Seattle 
+Epidemiologic Research and Information Center, Seattle, Washington.
+(33)Department of Emergency Medicine, Center for Vascular Emergencies, 
+Massachusetts General Hospital, Boston, Massachusetts.
+(34)Channing Network Medicine, Brigham and Women's Hospital, Boston, 
+Massachusetts.
+(35)Harvard Medical School, Boston, Massachusetts.
+
+Although recent Genome-Wide Association Studies have identified novel 
+associations for common variants, there has been no comprehensive exome-wide 
+search for low-frequency variants that affect the risk of venous thromboembolism 
+(VTE). We conducted a meta-analysis of 11 studies comprising 8,332 cases and 
+16,087 controls of European ancestry and 382 cases and 1,476 controls of African 
+American ancestry genotyped with the Illumina HumanExome BeadChip. We used the 
+seqMeta package in R to conduct single variant and gene-based rare variant 
+tests. In the single variant analysis, we limited our analysis to the 64,794 
+variants with at least 40 minor alleles across studies (minor allele frequency 
+[MAF] ~0.08%). We confirmed associations with previously identified VTE loci, 
+including ABO, F5, F11, and FGA. After adjusting for multiple testing, we 
+observed no novel significant findings in single variant or gene-based analysis. 
+Given our sample size, we had greater than 80% power to detect minimum odds 
+ratios greater than 1.5 and 1.8 for a single variant with MAF of 0.01 and 0.005, 
+respectively. Larger studies and sequence data may be needed to identify novel 
+low-frequency and rare variants associated with VTE risk.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/gepi.22187
+PMCID: PMC6520188
+PMID: 30659681 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICT OF INTEREST: No authors report a 
+conflict of interest related to this work.

@@ -1,0 +1,37 @@
+1. ACS Omega. 2018 Feb 9;3(2):1770-1782. doi: 10.1021/acsomega.7b01723.
+eCollection  2018 Feb 28.
+
+Further Insight into the Interactions of the Cytotoxic Macrolides Laulimalide 
+and Peloruside A with Their Common Binding Site.
+
+Castro-Alvarez A(1), Pineda O(1), Vilarrasa J(1).
+
+Author information:
+(1)Organic Chemistry Section, Facultat de Química, Universitat de Barcelona, 
+Diagonal 645, 08028 Barcelona, Catalonia, Spain.
+
+The binding site of the macrolides laulimalide and peloruside A, which is 
+different from that of the clinically useful drugs paclitaxel/taxol and 
+ixabepilone (tax site), is known to be between two adjacent β-tubulin units (ext 
+site). Here, we report our study of the binding of these molecules to an 
+α1β1/α2β2-tubulin "tetramer" model. AutoDock 4.2.6//AutoDock Vina dockings 
+predicted that the affinities of laulimalide and peloruside A for the tax site 
+are quite similar to those for the ext site. However, molecular dynamics (MD) 
+simulations indicated that only when these two ligands are located at the ext 
+site, there are contacts that help stabilize the system, favoring the β1/β2 
+interactions. The binding affinity of laulimalide for this site is stronger than 
+that of peloruside A, but this is compensated for by additional β1/β2 contacts 
+that are induced by peloruside A. MD studies also suggested that epothilones at 
+the tax site and either laulimalide or peloruside A at the ext site cause 
+similar stabilizing effects (mainly linking the M-loop of β1 and loop H1-B2 of 
+β2). In a "hexamer" model (3 units of αβ-tubulin), the effects are confirmed. 
+Metadynamics simulations of laulimalide and peloruside A, which are reported for 
+the first time, suggest that peloruside A produces a stronger change in the 
+M-loop, which explains the stabilization of the β1/β2 interaction.
+
+DOI: 10.1021/acsomega.7b01723
+PMCID: PMC6641392
+PMID: 31458493
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

@@ -1,0 +1,78 @@
+1. Genome Res. 2013 Jul;23(7):1130-41. doi: 10.1101/gr.155127.113. Epub 2013 Apr
+9.
+
+Maps of open chromatin highlight cell type-restricted patterns of regulatory 
+sequence variation at hematological trait loci.
+
+Paul DS(1), Albers CA, Rendon A, Voss K, Stephens J; HaemGen Consortium; van der 
+Harst P, Chambers JC, Soranzo N, Ouwehand WH, Deloukas P.
+
+Collaborators: Akkerman JW, Albers CA, Algra A, Al-Hussani A, Allayee H, Anni F, 
+Asselbergs FW, Attwood A, Balkau B, Bandinelli S, Bastardot F, Basu S, 
+Baumeister SE, Beckmann J, Benyamin B, Biino G, Bis JC, Bomba L, Bonnefond A, 
+Boomsma DI, Bradley JR, Cambien F, Chambers JC, Ciullo M, Cookson WO, Cucca F, 
+Cvejic A, D'Adamo AP, Danesh J, Danjou F, Das D, Davies G, de Bakker PI, de Boer 
+RA, de Geus EJ, Deary IJ, Dedoussis GV, Deloukas P, Dimitriou M, Dina C, Döring 
+A, Elling U, Ellinghaus D, Elliott P, Engström G, Erdmann J, Esko T, Evans DM, 
+Eyjolfsson GI, Falchi M, Feng W, Ferreira MA, Ferrucci L, Fischer K, Folsom AR, 
+Fortina P, Franke A, Franke L, Frazer IH, Froguel P, Galanello R, Ganesh SK, 
+Garner SF, Gasparini P, Genser B, Gibson QD, Gieger C, Girotto G, Glazer NL, 
+Gögele M, Goodall AH, Greinacher A, Gudbjartsson DF, Hammond C, Harris SE, 
+Hartiala J, Hartikainen AL, Hazen SL, Heckbert SR, Hedblad B, Hengstenberg C, 
+Hersch M, Hicks AA, Holm H, Hottenga JJ, Illig T, Jarvelin MR, Jolley J, Jupe S, 
+Kähönen M, Kamatani N, Kanoni S, Kema IP, Kemp JP, Khadake J, Khaw KT, Kleber 
+ME, Kooner JS, Kovacs P, Kühnel B, Kyrtsonis MC, Labrune Y, Lagou V, Langenberg 
+C, Lehtimäki T, Li X, Liang L, Lloyd-Jones H, Loos RJ, Lopez LM, Lumley T, 
+Lyytikäinen LP, Maerz W, Mägi R, Mangino M, Martin NG, Maschio A, Mateo Leach I, 
+McKnight B, Meacham S, Medland SE, Meisinger C, Melander O, Memari Y, Metspalu 
+A, Miller K, Mitchell BD, Moffatt MF, Montgomery GW, Moore C, Murgia F, Nakamura 
+Y, Nauck M, Navis G, Nolte IM, Nöthlings U, Nutile T, Okada Y, Olafsson I, 
+Onundarson PT, O'Reilly PF, Ouwehand WH, Parracciani D, Parsa A, Paul DS, 
+Penninger JM, Penninx BW, Pirastu M, Pirastu N, Pistis G, Porcu E, Portas L, 
+Porteous D, Pouta A, Pramstaller PP, Prokopenko I, Psaty BM, Pullat J, 
+Radhakrishnan A, Raitakari O, Ramirez-Solis R, Rendon A, Ried JS, Ring SM, 
+Robino A, Rotter JI, Ruggiero D, Ruokonen A, Sala C, Saluments A, Samani NJ, 
+Sambrook J, Sanna S, Schlessinger D, Schmidt CO, Schreiber S, Schunkert H, Scott 
+J, Sehmi J, Serbanovic-Canic J, Shin SY, Shuldiner AR, Sladek R, Smit JH, Smith 
+GD, Smith JG, Smith NL, Snieder H, Soranzo N, Sorice R, Spector TD, Starr JM, 
+Stefansson K, Stemple D, Stephens J, Stumvoll M, Sulem P, Takahashi A, Tan ST, 
+Tanaka T, Tang C, Tang W, Tang WH, Taylor K, Tenesa A, Teumer A, Thein SL, 
+Thorsteinsdottir U, Toniolo D, Tönjes A, Traglia M, Uda M, Ulivi S, van der 
+Harst P, van der Schoot E, van Gilst WH, van Pelt LJ, van Veldhuisen DJ, Verweij 
+N, Visscher PM, Völker U, Vollenweider P, Voss K, Wareham NJ, Wernisch L, Westra 
+HJ, Whitfield JB, Wichmann HE, Wiggins KL, Willemsen G, Winkelmann BR, 
+Wirnsberger G, Wolffenbuttel BH, Yang J, Yang TP, Zhang JH, Zhao JH, Zitting P, 
+Zwaginga JJ.
+
+Author information:
+(1)Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1SA, United Kingdom. 
+d.paul@ucl.ac.uk
+
+Nearly three-quarters of the 143 genetic signals associated with platelet and 
+erythrocyte phenotypes identified by meta-analyses of genome-wide association 
+(GWA) studies are located at non-protein-coding regions. Here, we assessed the 
+role of candidate regulatory variants associated with cell type-restricted, 
+closely related hematological quantitative traits in biologically relevant 
+hematopoietic cell types. We used formaldehyde-assisted isolation of regulatory 
+elements followed by next-generation sequencing (FAIRE-seq) to map regions of 
+open chromatin in three primary human blood cells of the myeloid lineage. In the 
+precursors of platelets and erythrocytes, as well as in monocytes, we found that 
+open chromatin signatures reflect the corresponding hematopoietic lineages of 
+the studied cell types and associate with the cell type-specific gene expression 
+patterns. Dependent on their signal strength, open chromatin regions showed 
+correlation with promoter and enhancer histone marks, distance to the 
+transcription start site, and ontology classes of nearby genes. Cell 
+type-restricted regions of open chromatin were enriched in sequence variants 
+associated with hematological indices. The majority (63.6%) of such candidate 
+functional variants at platelet quantitative trait loci (QTLs) coincided with 
+binding sites of five transcription factors key in regulating megakaryopoiesis. 
+We experimentally tested 13 candidate regulatory variants at 10 platelet QTLs 
+and found that 10 (76.9%) affected protein binding, suggesting that this is a 
+frequent mechanism by which regulatory variants influence quantitative trait 
+levels. Our findings demonstrate that combining large-scale GWA data with open 
+chromatin profiles of relevant cell types can be a powerful means of dissecting 
+the genetic architecture of closely related quantitative traits.
+
+DOI: 10.1101/gr.155127.113
+PMCID: PMC3698506
+PMID: 23570689 [Indexed for MEDLINE]

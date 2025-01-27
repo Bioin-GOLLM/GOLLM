@@ -1,0 +1,63 @@
+1. Science. 2020 Nov 13;370(6518):eaba7612. doi: 10.1126/science.aba7612.
+
+A human cell atlas of fetal chromatin accessibility.
+
+Domcke S(#)(1), Hill AJ(#)(1), Daza RM(#)(1), Cao J(1), O'Day DR(2), Pliner 
+HA(3), Aldinger KA(2)(4), Pokholok D(5), Zhang F(5), Milbank JH(1), Zager 
+MA(3)(6), Glass IA(2)(3)(4), Steemers FJ(5), Doherty D(2)(3)(4), Trapnell 
+C(7)(3)(8), Cusanovich DA(7)(9)(10), Shendure J(7)(3)(8)(11).
+
+Author information:
+(1)Department of Genome Sciences, University of Washington School of Medicine, 
+Seattle, WA, USA.
+(2)Department of Pediatrics, University of Washington School of Medicine, 
+Seattle, WA, USA.
+(3)Brotman Baty Institute for Precision Medicine, Seattle, WA, USA.
+(4)Center for Integrative Brain Research, Seattle Children's Research Institute, 
+Seattle, WA, USA.
+(5)Illumina, San Diego, CA, USA.
+(6)Center for Data Visualization, Fred Hutchinson Cancer Research Center, 
+Seattle, WA, USA.
+(7)Department of Genome Sciences, University of Washington School of Medicine, 
+Seattle, WA, USA. darrenc@email.arizona.edu coletrap@uw.edu shendure@uw.edu.
+(8)Allen Discovery Center for Cell Lineage Tracing, Seattle, WA, USA.
+(9)Department of Cellular and Molecular Medicine, University of Arizona, Tucson, 
+AZ, USA.
+(10)Asthma and Airway Disease Research Center, University of Arizona, Tucson, 
+AZ, USA.
+(11)Howard Hughes Medical Institute, Seattle, WA, USA.
+(#)Contributed equally
+
+Comment in
+    Nature. 2021 Feb;590(7844):43-44. doi: 10.1038/d41586-021-00142-8.
+
+The chromatin landscape underlying the specification of human cell types is of 
+fundamental interest. We generated human cell atlases of chromatin accessibility 
+and gene expression in fetal tissues. For chromatin accessibility, we devised a 
+three-level combinatorial indexing assay and applied it to 53 samples 
+representing 15 organs, profiling ~800,000 single cells. We leveraged cell types 
+defined by gene expression to annotate these data and cataloged hundreds of 
+thousands of candidate regulatory elements that exhibit cell type-specific 
+chromatin accessibility. We investigated the properties of lineage-specific 
+transcription factors (such as POU2F1 in neurons), organ-specific 
+specializations of broadly distributed cell types (such as blood and 
+endothelial), and cell type-specific enrichments of complex trait heritability. 
+These data represent a rich resource for the exploration of in vivo human gene 
+regulation in diverse tissues and cell types.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American 
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/science.aba7612
+PMCID: PMC7785298
+PMID: 33184180 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: D.P., F.Z. and F.J.S. 
+declare competing financial interests in the form of stock ownership and paid 
+employment by Illumina, Inc. J.S. has competing financial interests (paid 
+consulting and/or equity) with Guardant Health, Maze Therapeutics, Camp4 
+Therapeutics, Nanostring, Phase Genomics, Adaptive Biotechnologies, and Stratos 
+Genomics. One or more embodiments of one or more patents and patent applications 
+filed by Illumina and UW may encompass the methods, reagents, and data disclosed 
+in this manuscript.

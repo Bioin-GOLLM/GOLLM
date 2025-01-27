@@ -1,0 +1,61 @@
+1. Genome Res. 2022 Apr;32(4):778-790. doi: 10.1101/gr.276069.121. Epub 2022 Feb 
+24.
+
+An association test of the spatial distribution of rare missense variants within 
+protein structures identifies Alzheimer's disease-related patterns.
+
+Jin B(1), Capra JA(2), Benchek P(3), Wheeler N(3), Naj AC(4), Hamilton-Nelson 
+KL(5), Farrell JJ(6), Leung YY(4), Kunkle B(5)(7), Vadarajan B(8), Schellenberg 
+GD(4), Mayeux R(8), Wang LS(4), Farrer LA(6), Pericak-Vance MA(5)(7), Martin 
+ER(5)(7), Haines JL(3), Crawford DC(3), Bush WS(3).
+
+Author information:
+(1)Graduate Program in Systems Biology and Bioinformatics, Department of 
+Nutrition, School of Medicine, Case Western Reserve University, Cleveland, Ohio 
+44106, USA.
+(2)The Bakar Computational Health Sciences Institute, Department of Epidemiology 
+and Biostatistics, University of California San Francisco, San Francisco, 
+California 94143, USA.
+(3)Cleveland Institute for Computational Biology, Department for Population and 
+Quantitative Health Sciences, Case Western Reserve University, Cleveland, Ohio 
+44106, USA.
+(4)Department of Pathology and Laboratory Medicine, Penn Neurodegeneration 
+Genomics Center, Perelman School of Medicine, University of Pennsylvania, 
+Philadelphia, Pennsylvania 19104, USA.
+(5)The John P. Hussman Institute for Human Genomics, Miller School of Medicine, 
+University of Miami, Miami, Florida 33136, USA.
+(6)Department of Medicine (Biomedical Genetics), Boston University School of 
+Medicine, Boston, Massachusetts 02118, USA.
+(7)Dr. John T. Macdonald Foundation, Department of Human Genetics, Miller School 
+of Medicine, University of Miami, Miami, Florida 33136, USA.
+(8)Taub Institute for Research on Alzheimer's Disease and the Aging Brain, 
+Department of Neurology, Gertrude H. Sergievsky Center, Department of Neurology, 
+Columbia University, New York, New York 10032, USA.
+
+More than 90% of genetic variants are rare in most modern sequencing studies, 
+such as the Alzheimer's Disease Sequencing Project (ADSP) whole-exome sequencing 
+(WES) data. Furthermore, 54% of the rare variants in ADSP WES are singletons. 
+However, both single variant and unit-based tests are limited in their 
+statistical power to detect an association between rare variants and phenotypes. 
+To best use missense rare variants and investigate their biological effect, we 
+examine their association with phenotypes in the context of protein structures. 
+We developed a protein structure-based approach, protein optimized kernel 
+evaluation of missense nucleotides (POKEMON), which evaluates rare missense 
+variants based on their spatial distribution within a protein rather than their 
+allele frequency. The hypothesis behind this test is that the three-dimensional 
+spatial distribution of variants within a protein structure provides functional 
+context to power an association test. POKEMON identified three candidate genes 
+(TREM2, SORL1, and EXOC3L4) and another suggestive gene from the ADSP WES data. 
+For TREM2 and SORL1, two known Alzheimer's disease (AD) genes, the signal from 
+the spatial cluster is stable even if we exclude known AD risk variants, 
+indicating the presence of additional low-frequency risk variants within these 
+genes. EXOC3L4 is a novel AD risk gene that has a cluster of variants primarily 
+shared by case subjects around the Sec6 domain. This cluster is also validated 
+in an independent replication data set and a validation data set with a larger 
+sample size.
+
+© 2022 Jin et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.276069.121
+PMCID: PMC8997344
+PMID: 35210353 [Indexed for MEDLINE]

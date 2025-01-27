@@ -1,0 +1,38 @@
+1. IEEE Trans Biomed Eng. 2021 Jan;68(1):90-98. doi: 10.1109/TBME.2020.2996825. 
+Epub 2020 Dec 21.
+
+Broadband Dielectric Properties of Ex Vivo Bovine Liver Tissue Characterized at 
+Ablative Temperatures.
+
+Fallahi H, Sebek J, Prakash P.
+
+OBJECTIVE: To investigate the thermal and frequency dependence of dielectric 
+properties of ex vivo liver tissue - relative permittivity and effective 
+conductivity - over the frequency range 500 MHz to 6 GHz and temperatures 
+ranging from 20 to 130 °C.
+METHODS: We measured the dielectric properties of fresh ex vivo bovine liver 
+tissue using the open-ended coaxial probe method (n = 15 samples). Numerical 
+optimization techniques were utilized to obtain parametric models for 
+characterizing changes in broadband dielectric properties as a function of 
+temperature and thermal isoeffective dose. The effect of heating tissue at rates 
+over the range 6.4-16.9 °C/min was studied. The measured dielectric properties 
+were used in simulations of microwave ablation to assess changes in simulated 
+antenna return loss compared to experimental measurements.
+RESULTS: Across all frequencies, both relative permittivity and effective 
+conductivity dropped sharply over the temperature range 89 - 107 °C. Below 
+91 °C, the slope of the effective conductivity changes from positive values at 
+lower frequencies (0.5-1.64 GHz) to negative values at higher frequencies 
+(1.64-6 GHz). The maximum achieved correlation values between transient 
+reflection coefficients from measurements and simulations ranged between 0.83 - 
+0.89 and 0.68 - 0.91, respectively, when using temperature-dependent and 
+thermal-dose dependent dielectric property parameterizations.
+CONCLUSION: We have presented experimental measurements and parametric models 
+for characterizing changes in dielectric properties of bovine liver tissue at 
+ablative temperatures.
+SIGNIFICANCE: The presented dielectric property models will contribute to the 
+development of ablation systems operating at frequencies other than 2.45 GHz, as 
+well as broadband techniques for monitoring growth of microwave ablation zones.
+
+DOI: 10.1109/TBME.2020.2996825
+PMCID: PMC7680390
+PMID: 32746009 [Indexed for MEDLINE]

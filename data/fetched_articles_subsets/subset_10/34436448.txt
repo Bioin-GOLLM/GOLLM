@@ -1,0 +1,51 @@
+1. Metabolites. 2021 Aug 1;11(8):507. doi: 10.3390/metabo11080507.
+
+Dysregulated Alanine as a Potential Predictive Marker of Glioma-An Insight from 
+Untargeted HRMAS-NMR and Machine Learning Data.
+
+Firdous S(1)(2), Abid R(1), Nawaz Z(3), Bukhari F(3), Anwer A(4), Cheng LL(5), 
+Sadaf S(1).
+
+Author information:
+(1)School of Biochemistry and Biotechnology, University of the Punjab, Lahore 
+54590, Pakistan.
+(2)Riphah College of Rehabilitation and Allied Health Sciences, Riphah 
+International University, Lahore 54770, Pakistan.
+(3)Department of Data Science, Punjab University College of Information 
+Technology, University of the Punjab, Lahore 54590, Pakistan.
+(4)Punjab Institute of Neurosciences (PINS), Lahore General Hospital, Lahore 
+54000, Pakistan.
+(5)Departments of Radiology and Pathology, Massachusetts General Hospital, 
+Harvard Medical School, Boston, MA 02129, USA.
+
+Metabolic alterations play a crucial role in glioma development and progression 
+and can be detected even before the appearance of the fatal phenotype. We have 
+compared the circulating metabolic fingerprints of glioma patients versus 
+healthy controls, for the first time, in a quest to identify a panel of small, 
+dysregulated metabolites with potential to serve as a predictive and/or 
+diagnostic marker in the clinical settings. High-resolution magic angle spinning 
+nuclear magnetic resonance spectroscopy (HRMAS-NMR) was used for untargeted 
+metabolomics and data acquisition followed by a machine learning (ML) approach 
+for the analyses of large metabolic datasets. Cross-validation of ML predicted 
+NMR spectral features was done by statistical methods (Wilcoxon-test) using 
+JMP-pro16 software. Alanine was identified as the most critical metabolite with 
+potential to detect glioma with precision of 1.0, recall of 0.96, and F1 measure 
+of 0.98. The top 10 metabolites identified for glioma detection included 
+alanine, glutamine, valine, methionine, N-acetylaspartate (NAA), γ-aminobutyric 
+acid (GABA), serine, α-glucose, lactate, and arginine. We achieved 100% accuracy 
+for the detection of glioma using ML algorithms, extra tree classifier, and 
+random forest, and 98% accuracy with logistic regression. Classification of 
+glioma in low and high grades was done with 86% accuracy using logistic 
+regression model, and with 83% and 79% accuracy using extra tree classifier and 
+random forest, respectively. The predictive accuracy of our ML model is superior 
+to any of the previously reported algorithms, used in tissue- or liquid 
+biopsy-based metabolic studies. The identified top metabolites can be targeted 
+to develop early diagnostic methods as well as to plan personalized treatment 
+strategies.
+
+DOI: 10.3390/metabo11080507
+PMCID: PMC8402070
+PMID: 34436448
+
+Conflict of interest statement: The authors of the manuscript declare no 
+potential conflicts.

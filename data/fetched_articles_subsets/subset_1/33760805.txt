@@ -1,0 +1,42 @@
+1. PLoS Biol. 2021 Mar 24;19(3):e3000886. doi: 10.1371/journal.pbio.3000886. 
+eCollection 2021 Mar.
+
+Genome-wide analysis of DNA replication and DNA double-strand breaks using 
+TrAEL-seq.
+
+Kara N(1), Krueger F(2), Rugg-Gunn P(1), Houseley J(1).
+
+Author information:
+(1)Epigenetics Programme, Babraham Institute, Cambridge, United Kingdom.
+(2)Babraham Bioinformatics, Babraham Institute, Cambridge, United Kingdom.
+
+Faithful replication of the entire genome requires replication forks to copy 
+large contiguous tracts of DNA, and sites of persistent replication fork 
+stalling present a major threat to genome stability. Understanding the 
+distribution of sites at which replication forks stall, and the ensuing fork 
+processing events, requires genome-wide methods that profile replication fork 
+position and the formation of recombinogenic DNA ends. Here, we describe 
+Transferase-Activated End Ligation sequencing (TrAEL-seq), a method that 
+captures single-stranded DNA 3' ends genome-wide and with base pair resolution. 
+TrAEL-seq labels both DNA breaks and replication forks, providing genome-wide 
+maps of replication fork progression and fork stalling sites in yeast and 
+mammalian cells. Replication maps are similar to those obtained by Okazaki 
+fragment sequencing; however, TrAEL-seq is performed on asynchronous populations 
+of wild-type cells without incorporation of labels, cell sorting, or biochemical 
+purification of replication intermediates, rendering TrAEL-seq far simpler and 
+more widely applicable than existing replication fork direction profiling 
+methods. The specificity of TrAEL-seq for DNA 3' ends also allows accurate 
+detection of double-strand break sites after the initiation of DNA end 
+resection, which we demonstrate by genome-wide mapping of meiotic double-strand 
+break hotspots in a dmc1Δ mutant that is competent for end resection but not 
+strand invasion. Overall, TrAEL-seq provides a flexible and robust methodology 
+with high sensitivity and resolution for studying DNA replication and repair, 
+which will be of significant use in determining mechanisms of genome 
+instability.
+
+DOI: 10.1371/journal.pbio.3000886
+PMCID: PMC8021198
+PMID: 33760805 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

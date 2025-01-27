@@ -1,0 +1,47 @@
+1. G3 (Bethesda). 2016 Aug 9;6(8):2553-61. doi: 10.1534/g3.116.027730.
+
+Using Sequence Variants in Linkage Disequilibrium with Causative Mutations to 
+Improve Across-Breed Prediction in Dairy Cattle: A Simulation Study.
+
+van den Berg I(1), Boichard D(2), Guldbrandtsen B(3), Lund MS(3).
+
+Author information:
+(1)Department of Molecular Biology and Genetics, Center for Quantitative 
+Genetics and Genomics, Aarhus University, DK-8830 Tjele, Denmark Génétique 
+Animale et Biologie Intégrative (GABI), French National Institute for 
+Agricultural Research (INRA), AgroParisTech, Université Paris Saclay, 78350 
+Jouy-en-Josas, France irene.vandenberg@unimelb.edu.au.
+(2)Génétique Animale et Biologie Intégrative (GABI), French National Institute 
+for Agricultural Research (INRA), AgroParisTech, Université Paris Saclay, 78350 
+Jouy-en-Josas, France.
+(3)Department of Molecular Biology and Genetics, Center for Quantitative 
+Genetics and Genomics, Aarhus University, DK-8830 Tjele, Denmark.
+
+Sequence data are expected to increase the reliability of genomic prediction by 
+containing causative mutations directly, especially in cases where low linkage 
+disequilibrium between markers and causative mutations limits prediction 
+reliability, such as across-breed prediction in dairy cattle. In practice, the 
+causative mutations are unknown, and prediction with only variants in perfect 
+linkage disequilibrium with the causative mutations is not realistic, leading to 
+a reduced reliability compared to knowing the causative variants. Our objective 
+was to use sequence data to investigate the potential benefits of sequence data 
+for the prediction of genomic relationships, and consequently reliability of 
+genomic breeding values. We used sequence data from five dairy cattle breeds, 
+and a larger number of imputed sequences for two of the five breeds. We focused 
+on the influence of linkage disequilibrium between markers and causative 
+mutations, and assumed that a fraction of the causative mutations was shared 
+across breeds and had the same effect across breeds. By comparing the loss in 
+reliability of different scenarios, varying the distance between markers and 
+causative mutations, using either all genome wide markers from commercial SNP 
+chips, or only the markers closest to the causative mutations, we demonstrate 
+the importance of using only variants very close to the causative mutations, 
+especially for across-breed prediction. Rare variants improved prediction only 
+if they were very close to rare causative mutations, and all causative mutations 
+were rare. Our results show that sequence data can potentially improve genomic 
+prediction, but careful selection of markers is essential.
+
+Copyright © 2016 Berg et al.
+
+DOI: 10.1534/g3.116.027730
+PMCID: PMC4978908
+PMID: 27317779 [Indexed for MEDLINE]

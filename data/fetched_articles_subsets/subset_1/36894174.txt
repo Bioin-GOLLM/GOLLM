@@ -1,0 +1,52 @@
+1. Life Sci Alliance. 2023 Mar 9;6(5):e202201670. doi: 10.26508/lsa.202201670. 
+Print 2023 May.
+
+Analysis of context-specific KRAS-effector (sub)complexes in Caco-2 cells.
+
+Ternet C(1)(2), Junk P(1)(2), Sevrin T(1)(2), Catozzi S(1)(2), Wåhlén E(3), 
+Heldin J(3), Oliviero G(1), Wynne K(1)(4), Kiel C(5)(1)(2).
+
+Author information:
+(1)Systems Biology Ireland, School of Medicine, University College Dublin, 
+Dublin 4, Ireland.
+(2)UCD Charles Institute of Dermatology, School of Medicine, University College 
+Dublin, Dublin 4, Ireland.
+(3)Department of Pharmaceutical Biosciences, Uppsala University, Uppsala, 
+Sweden.
+(4)Conway Institute of Biomolecular & Biomedical Research, University College 
+Dublin, Dublin 4, Ireland.
+(5)Department of Molecular Medicine, University of Pavia, Pavia, Italy 
+christina.kiel@unipv.it.
+
+Ras is a key switch controlling cell behavior. In the GTP-bound form, Ras 
+interacts with numerous effectors in a mutually exclusive manner, where 
+individual Ras-effectors are likely part of larger cellular (sub)complexes. The 
+molecular details of these (sub)complexes and their alteration in specific 
+contexts are not understood. Focusing on KRAS, we performed affinity 
+purification (AP)-mass spectrometry (MS) experiments of exogenously expressed 
+FLAG-KRAS WT and three oncogenic mutants ("genetic contexts") in the human 
+Caco-2 cell line, each exposed to 11 different culture media ("culture 
+contexts") that mimic conditions relevant in the colon and colorectal cancer. We 
+identified four effectors present in complex with KRAS in all genetic and growth 
+contexts ("context-general effectors"). Seven effectors are found in KRAS 
+complexes in only some contexts ("context-specific effectors"). Analyzing all 
+interactors in complex with KRAS per condition, we find that the culture 
+contexts had a larger impact on interaction rewiring than genetic contexts. We 
+investigated how changes in the interactome impact functional outcomes and 
+created a Shiny app for interactive visualization. We validated some of the 
+functional differences in metabolism and proliferation. Finally, we used 
+networks to evaluate how KRAS-effectors are involved in the modulation of 
+functions by random walk analyses of effector-mediated (sub)complexes. 
+Altogether, our work shows the impact of environmental contexts on network 
+rewiring, which provides insights into tissue-specific signaling mechanisms. 
+This may also explain why KRAS oncogenic mutants may be causing cancer only in 
+specific tissues despite KRAS being expressed in most cells and tissues.
+
+© 2023 Ternet et al.
+
+DOI: 10.26508/lsa.202201670
+PMCID: PMC9998658
+PMID: 36894174 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

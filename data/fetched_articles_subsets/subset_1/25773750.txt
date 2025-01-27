@@ -1,0 +1,39 @@
+1. Eur J Epidemiol. 2015 Jul;30(7):543-52. doi: 10.1007/s10654-015-0011-z. Epub 
+2015 Mar 15.
+
+Using published data in Mendelian randomization: a blueprint for efficient 
+identification of causal risk factors.
+
+Burgess S(1), Scott RA, Timpson NJ, Davey Smith G, Thompson SG; EPIC- InterAct 
+Consortium.
+
+Author information:
+(1)Department of Public Health and Primary Care, University of Cambridge, 
+Cambridge, UK, sb452@medschl.cam.ac.uk.
+
+Finding individual-level data for adequately-powered Mendelian randomization 
+analyses may be problematic. As publicly-available summarized data on genetic 
+associations with disease outcomes from large consortia are becoming more 
+abundant, use of published data is an attractive analysis strategy for obtaining 
+precise estimates of the causal effects of risk factors on outcomes. We detail 
+the necessary steps for conducting Mendelian randomization investigations using 
+published data, and present novel statistical methods for combining data on the 
+associations of multiple (correlated or uncorrelated) genetic variants with the 
+risk factor and outcome into a single causal effect estimate. A two-sample 
+analysis strategy may be employed, in which evidence on the gene-risk factor and 
+gene-outcome associations are taken from different data sources. These 
+approaches allow the efficient identification of risk factors that are suitable 
+targets for clinical intervention from published data, although the ability to 
+assess the assumptions necessary for causal inference is diminished. Methods and 
+guidance are illustrated using the example of the causal effect of serum calcium 
+levels on fasting glucose concentrations. The estimated causal effect of a 1 
+standard deviation (0.13 mmol/L) increase in calcium levels on fasting glucose 
+(mM) using a single lead variant from the CASR gene region is 0.044 (95 % 
+credible interval -0.002, 0.100). In contrast, using our method to account for 
+the correlation between variants, the corresponding estimate using 17 genetic 
+variants is 0.022 (95 % credible interval 0.009, 0.035), a more clearly positive 
+causal effect.
+
+DOI: 10.1007/s10654-015-0011-z
+PMCID: PMC4516908
+PMID: 25773750 [Indexed for MEDLINE]

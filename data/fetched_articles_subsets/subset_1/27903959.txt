@@ -1,0 +1,39 @@
+1. Oncotarget. 2017 Jan 31;8(5):7891-7899. doi: 10.18632/oncotarget.13631.
+
+Genome-wide haplotype association study identify the FGFR2 gene as a risk gene 
+for acute myeloid leukemia.
+
+Lv H(1), Zhang M(1), Shang Z(1), Li J(1), Zhang S(2), Lian D(1), Zhang R(1).
+
+Author information:
+(1)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, China.
+(2)Hospital of Harbin Turbine Company Limited, Harbin Electric Corporation, 
+Harbin, China.
+
+Acute myeloid leukemia (AML) is a cancer of the myeloid line of blood cells, and 
+generally considered to be caused by environment and genetic factors. In this 
+study, we combined a genome-wide haplotype association study (GWHAS) and gene 
+prioritization strategy to mine AML-related genetic affect factors and 
+understand its pathogenesis. A total of 175 AML patients were downloaded from 
+the public GEO database (GSE32462) and 218 matched Caucasian controls were from 
+the HapMap Project. We first identified the linkage disequilibrium (LD) blocks 
+and performed a GWHAS to scan AML-related haplotypes. Then we mapped these 
+haplotypes to the corresponding genes as candidate. And finally, we prioritized 
+all the AML candidate genes based on the similarity with 38 known AML 
+susceptibility genes. The results showed that 1754 haplotypes were significant 
+associated with AML (P<1E-5) and mapped to 591 candidate genes. After 
+prioritizing all 591 AML candidate genes, we obtained four genes ranking at the 
+front as AML risk genes: RUNX1, JAK1, PDGFRA, and FGFR2. Among them, RUNX1, JAK1 
+and PDGFRA had been confirmed as AML risk genes. In particular, we found that 
+the gene FGFR2 was a novel AML susceptibility gene with a haplotype TT 
+(rs7090018 and rs2912759) showed significant association with AML (P-value = 
+7.07E-06). In a word, our findings might provide a new perspective to understand 
+the pathogenesis of AML.
+
+DOI: 10.18632/oncotarget.13631
+PMCID: PMC5352368
+PMID: 27903959 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare that 
+they have no conflict of interest.

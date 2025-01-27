@@ -1,0 +1,40 @@
+1. Sci Rep. 2023 Mar 25;13(1):4922. doi: 10.1038/s41598-023-32022-8.
+
+Increasing the melting temperature of VHH with the in silico free energy score.
+
+Tomimoto Y(1), Yamazaki R(1), Shirai H(2)(3).
+
+Author information:
+(1)Applied Research and Operations, Astellas Pharma Inc., Tsukuba city, Ibaraki, 
+305-8585, Japan.
+(2)Applied Research and Operations, Astellas Pharma Inc., Tsukuba city, Ibaraki, 
+305-8585, Japan. hiroki.shirai@riken.jp.
+(3)Riken Center for Computational Science, Nihonbashi 1-Chome Mitsui Building, 
+15th floor, 1-4-1 Nihonbashi, Tsukuba, 103-0027, Japan. hiroki.shirai@riken.jp.
+
+VHH, the antigen-binding fragment of a heavy chain-only antibody, is a useful 
+component of antibody-based therapeutics. Thermal stability, represented by the 
+melting temperature (Tm), is one of the key factors affecting the developability 
+of antibody-based therapeutics. In this study, we examined whether the in silico 
+free energy score dStability can be used to design mutants with improved Tm 
+compared to the anti-lysozyme VHH, D3-L11. After verifying that exhaustive 
+mutagenesis was inefficient for improving Tm, we performed a two-round rational 
+approach that combined dStability calculations with a small number of 
+experiments. This method improved the Tm by more than 5 °C in several single 
+mutants including A79I. It reduced the affinity for the antigen by less than 
+1.6-fold. We speculate that stabilization of A79I required exquisite 
+compatibility among neighboring residues to fill in the internal cavity in the 
+protein. Given that we identified only one mutation that could simultaneously 
+improve Tm and almost maintain affinity, we concluded that achieving both is 
+extremely difficult, even with single mutations that are not located in the 
+paratope. Therefore, we recommend using a variety of approaches when trying to 
+achieve such a feat. Our method will be a useful complementary approach to other 
+existing methods.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-32022-8
+PMCID: PMC10039853
+PMID: 36966210 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,50 @@
+1. Hypertension. 2023 Jan;80(1):138-146. doi: 10.1161/HYPERTENSIONAHA.122.20140. 
+Epub 2022 Nov 4.
+
+The Assembled Genome of the Stroke-Prone Spontaneously Hypertensive Rat.
+
+Kalbfleisch TS(1), Hussien AbouEl Ela NA(1), Li K(1), Brashear WA(2), Kochan 
+KJ(2), Hillhouse AE(2), Zhu Y(3), Dhande IS(3), Kline EJ(4), Hudson EA(4), 
+Murphy TD(5), Thibaud-Nissen F(5), Smith ML(#)(4), Doris PA(#)(3).
+
+Author information:
+(1)Department of Veterinary Science, College of Agriculture, Food, and 
+Environment, University of Kentucky, Lexington, KY (T.S.K., N.A.H., K.L.).
+(2)Texas A&M Institute for Genome Sciences and Society, Texas A&M University, 
+College Station, TX (W.A.B., K.J.K., A.E.H.).
+(3)Center for Human Genetics, Brown Foundation Institute of Molecular Medicine, 
+University of Texas McGovern School of Medicine, Houston, TX (Y.Z., I.S.D., 
+P.A.D.).
+(4)Department of Biochemistry and Molecular Genetics, University of Louisville, 
+Louisville, KY (E.J.K., E.A.H, M.L.S.).
+(5)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD (T.D.M., F.T.-N.).
+(#)Contributed equally
+
+BACKGROUND: We report the creation and evaluation of a de novo assembly of the 
+genome of the spontaneously hypertensive rat, the most widely used model of 
+human cardiovascular disease.
+METHODS: The genome is assembled from long read sequencing (PacBio HiFi and 
+continuous long read data [CLR]) and scaffolded with long-range structural 
+information obtained from Bionano optical maps and proximity ligation sequencing 
+proximity analysis of the genome. The genome assembly was polished with Illumina 
+short reads. Completeness of the assembly was investigated using Benchmarking 
+Universal Single Copy Orthologs analysis. The genome assembly was also evaluated 
+with the rat reference gene set, using NCBI automated protocols. We also 
+generated orthogonal single molecule transcript sequence reads (Iso-Seq) from 8 
+tissues and used them to validate the coding assembly, to annotate the assembly 
+with RNA transcripts representing unique full length transcript isoforms for 
+each gene and to determine whether divergences between RefSeq sequences and the 
+assembly were attributable to assembly errors or polymorphisms.
+RESULTS: The assembly analysis indicates that this assembly is comparable in 
+contiguity and completeness to the current rat reference assembly, while the use 
+of HiFi sequencing yields an assembly that is more correct at the single base 
+level. Synteny analysis was performed to uncover the extent of synteny and the 
+presence and distribution of chromosomal rearrangements between the reference 
+and this assembly.
+CONCLUSION: The resulting genome assembly is reference quality and captures 
+significant structural variation.
+
+DOI: 10.1161/HYPERTENSIONAHA.122.20140
+PMCID: PMC9814308
+PMID: 36330812 [Indexed for MEDLINE]

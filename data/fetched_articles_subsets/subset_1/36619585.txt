@@ -1,0 +1,41 @@
+1. Front Endocrinol (Lausanne). 2022 Dec 23;13:1099715. doi: 
+10.3389/fendo.2022.1099715. eCollection 2022.
+
+Metadynamics simulations leveraged by statistical analyses and artificial 
+intelligence-based tools to inform the discovery of G protein-coupled receptor 
+ligands.
+
+Salas-Estrada L(1), Fiorillo B(1), Filizola M(1).
+
+Author information:
+(1)Department of Pharmacological Sciences, Icahn School of Medicine at Mount 
+Sinai, New York, NY, United States.
+
+G Protein-Coupled Receptors (GPCRs) are a large family of membrane proteins with 
+pluridimensional signaling profiles. They undergo ligand-specific conformational 
+changes, which in turn lead to the differential activation of intracellular 
+signaling proteins and the consequent triggering of a variety of biological 
+responses. This conformational plasticity directly impacts our understanding of 
+GPCR signaling and therapeutic implications, as do ligand-specific kinetic 
+differences in GPCR-induced transducer activation/coupling or GPCR-transducer 
+complex stability. High-resolution experimental structures of ligand-bound GPCRs 
+in the presence or absence of interacting transducers provide important, yet 
+limited, insights into the highly dynamic process of ligand-induced activation 
+or inhibition of these receptors. We and others have complemented these studies 
+with computational strategies aimed at characterizing increasingly accurate 
+metastable conformations of GPCRs using a combination of metadynamics 
+simulations, state-of-the-art algorithms for statistical analyses of simulation 
+data, and artificial intelligence-based tools. This minireview provides an 
+overview of these approaches as well as lessons learned from them towards the 
+identification of conformational states that may be difficult or even impossible 
+to characterize experimentally and yet important to discover new GPCR ligands.
+
+Copyright © 2022 Salas-Estrada, Fiorillo and Filizola.
+
+DOI: 10.3389/fendo.2022.1099715
+PMCID: PMC9816996
+PMID: 36619585 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

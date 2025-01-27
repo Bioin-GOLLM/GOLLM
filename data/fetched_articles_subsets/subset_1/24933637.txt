@@ -1,0 +1,39 @@
+1. Int J Mol Sci. 2014 Jun 13;15(6):10724-37. doi: 10.3390/ijms150610724.
+
+Weighted risk score-based multifactor dimensionality reduction to detect 
+gene-gene interactions in nasopharyngeal carcinoma.
+
+Li CF(1), Luo FT(2), Zeng YX(3), Jia WH(4).
+
+Author information:
+(1)Department of Medical Statistics and Epidemiology, School of Public Health, 
+Sun Yat-sen University, Guangzhou 510080, China. zengyx@sysucc.org.cn.
+(2)Department of Medical Statistics and Epidemiology, School of Public Health, 
+Sun Yat-sen University, Guangzhou 510080, China. luoft@mail.sysu.edu.cn.
+(3)State Key Laboratory of Oncology in South China, Sun Yat-sen University 
+Cancer Center, Guangzhou 510060, China. zengyx@sysucc.org.cn.
+(4)State Key Laboratory of Oncology in South China, Sun Yat-sen University 
+Cancer Center, Guangzhou 510060, China. jiaweih@mail.sysu.edu.cn.
+
+Determining the complex relationships between diseases, polymorphisms in human 
+genes and environmental factors is challenging. Multifactor dimensionality 
+reduction (MDR) has been proven to be capable of effectively detecting the 
+statistical patterns of epistasis, although classification accuracy is required 
+for this approach. The imbalanced dataset can cause seriously negative effects 
+on classification accuracy. Moreover, MDR methods cannot quantitatively assess 
+the disease risk of genotype combinations. Hence, we introduce a novel weighted 
+risk score-based multifactor dimensionality reduction (WRSMDR) method that uses 
+the Bayesian posterior probability of polymorphism combinations as a new 
+quantitative measure of disease risk. First, we compared the WRSMDR to the MDR 
+method in simulated datasets. Our results showed that the WRSMDR method had 
+reasonable power to identify high-order gene-gene interactions, and it was more 
+effective than MDR at detecting four-locus models. Moreover, WRSMDR reveals more 
+information regarding the effect of genotype combination on the disease risk, 
+and the result was easier to determine and apply than with MDR. Finally, we 
+applied WRSMDR to a nasopharyngeal carcinoma (NPC) case-control study and 
+identified a statistically significant high-order interaction among three 
+polymorphisms: rs2860580, rs11865086 and rs2305806.
+
+DOI: 10.3390/ijms150610724
+PMCID: PMC4100176
+PMID: 24933637 [Indexed for MEDLINE]

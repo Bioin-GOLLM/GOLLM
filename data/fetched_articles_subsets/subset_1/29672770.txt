@@ -1,0 +1,33 @@
+1. Nucleic Acids Res. 2018 May 18;46(9):4677-4688. doi: 10.1093/nar/gky264.
+
+Clustered regularly interspaced short palindromic repeats 
+(CRISPR)/CRISPR-associated protein 9 with improved proof-reading enhances 
+homology-directed repair.
+
+Kato-Inui T(1), Takahashi G(1), Hsu S(1), Miyaoka Y(1).
+
+Author information:
+(1)Regenerative Medicine Project, Tokyo Metropolitan Institute of Medical 
+Science, Tokyo, Japan.
+
+Genome editing using clustered regularly interspaced short palindromic repeats 
+(CRISPR)/CRISPR-associated protein 9 (Cas9) predominantly induces non-homologous 
+end joining (NHEJ), which generates random insertions or deletions, whereas 
+homology-directed repair (HDR), which generates precise recombination products, 
+is useful for wider applications. However, the factors that determine the ratio 
+of HDR to NHEJ products after CRISPR/Cas9 editing remain unclear, and methods by 
+which the proportion of HDR products can be increased have not yet been fully 
+established. We systematically analyzed the HDR and NHEJ products after genome 
+editing using various modified guide RNAs (gRNAs) and Cas9 variants with an 
+enhanced conformational checkpoint to improve the fidelity at endogenous gene 
+loci in HEK293T cells and HeLa cells. We found that these modified gRNAs and 
+Cas9 variants were able to enhance HDR in both single-nucleotide substitutions 
+and a multi-kb DNA fragment insertion. Our results suggest that the original 
+CRISPR/Cas9 system from the bacterial immune system is not necessarily the best 
+option for the induction of HDR in genome editing and indicate that the 
+modulation of the kinetics of conformational checkpoints of Cas9 can optimize 
+the HDR/NHEJ ratio.
+
+DOI: 10.1093/nar/gky264
+PMCID: PMC5961419
+PMID: 29672770 [Indexed for MEDLINE]

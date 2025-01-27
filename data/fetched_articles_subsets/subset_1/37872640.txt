@@ -1,0 +1,127 @@
+1. Genome Med. 2023 Oct 23;15(1):86. doi: 10.1186/s13073-023-01246-8.
+
+Beyond gene-disease validity: capturing structured data on inheritance, allelic 
+requirement, disease-relevant variant classes, and disease mechanism for 
+inherited cardiac conditions.
+
+Josephs KS(1)(2), Roberts AM(1)(3), Theotokis P(1), Walsh R(4), Ostrowski PJ(3), 
+Edwards M(5), Fleming A(5), Thaxton C(6), Roberts JD(7), Care M(8)(9), Zareba 
+W(10), Adler A(11), Sturm AC(12), Tadros R(13), Novelli V(14), Owens E(6), 
+Bronicki L(15)(16), Jarinova O(15)(16), Callewaert B(17)(18), Peters S(19)(20), 
+Lumbers T(21)(22), Jordan E(23), Asatryan B(24)(25), Krishnan N(26), Hershberger 
+RE(23), Chahal CAA(27)(28)(29)(30), Landstrom AP(31), James C(32), McNally 
+EM(33), Judge DP(34), van Tintelen P(35), Wilde A(36)(37), Gollob M(38), Ingles 
+J(26), Ware JS(39)(40)(41).
+
+Author information:
+(1)National Heart and Lung Institute, Imperial College London, Du Cane Road, 
+London, W12 0NN, UK.
+(2)Royal Brompton and Harefield Hospitals, Guy's and St Thomas' NHS Foundation 
+Trust, London, UK.
+(3)Great Ormond Street Hospital, NHS Foundation Trust, London, UK.
+(4)Amsterdam University Medical Centre, University of Amsterdam, Heart Center, 
+Department of Experimental Cardiology, Amsterdam Cardiovascular Sciences, 
+Amsterdam, The Netherlands.
+(5)Clinical Genetics & Genomics Lab, Royal Brompton and Harefield Hospitals, 
+Guy's and St Thomas' NHS Foundation Trust, London, UK.
+(6)Department of Genetics, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC, USA.
+(7)Population Health Research Institute, McMaster University, and Hamilton 
+Health Sciences, Hamilton, Ontario, Canada.
+(8)Department of Molecular Genetics, University of Toronto, Toronto, Canada.
+(9)Division of Cardiology, Toronto General Hospital, Toronto, Canada.
+(10)Clinical Cardiovascular Research Center, University of Rochester, Rochester, 
+NY, USA.
+(11)Division of Cardiology, Peter Munk Cardiac Centre, University Health Network 
+and Department of Medicine, University of Toronto, Toronto, Ontario, Canada.
+(12)23andMe, Genomic Health, Sunnyvale, CA, USA.
+(13)Cardiovascular Genetics Center, Montreal Heart Institute, and Faculty of 
+Medicine, Université de Montréal, Montreal, Canada.
+(14)Unit of Immunology and Functional Genomics, Centro Cardiologico Monzino 
+IRCCS, Milano, Italy.
+(15)Department of Pathology and Laboratory Medicine, University of Ottawa, 
+Ottawa, Ontario, Canada.
+(16)Department of Genetics, CHEO, Ottawa, Ontario, Canada.
+(17)Center for Medical Genetics, Ghent University Hospital, Ghent, Belgium.
+(18)Department of Biomolecular Medicine, Ghent University, Ghent, Belgium.
+(19)Department of Cardiology and Genomic Medicine, Royal Melbourne Hospital, 
+Melbourne, Australia.
+(20)University of Melbourne, Melbourne, Australia.
+(21)Barts Health & University College London Hospitals NHS Trusts, London, UK.
+(22)Institute of Health Informatics, University College London, London, UK.
+(23)Divisions of Human Genetics and Cardiovascular Medicine, The Ohio State 
+University, Columbus, OH, USA.
+(24)Department of Cardiology, Inselspital, Bern University Hospital, University 
+of Bern, Bern, Switzerland.
+(25)Division of Cardiology, Department of Medicine, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(26)Centre for Population Genomics, Garvan Institute of Medical Research, and 
+UNSW Sydney, Sydney, Australia.
+(27)Center for Inherited Cardiovascular Diseases, WellSpan Health, Lancaster, 
+PA, USA.
+(28)Cardiac Electrophysiology and Inherited Cardiovascular Diseases, 
+Cardiovascular Division, Hospital of the University of Pennsylvania, 
+Philadelphia, PA, USA.
+(29)Department of Cardiovascular Medicine, Mayo Clinic, Rochester, MN, USA.
+(30)Barts Heart Centre, St Bartholomew's Hospital, Barts Health NHS Trust, 
+London, UK.
+(31)Department of Pediatrics and Cell Biology, Duke University School of 
+Medicine, Durham, NC, USA.
+(32)Johns Hopkins Center for Inherited Heart Diseases, Department of Medicine, 
+Johns Hopkins University, Baltimore, MD, USA.
+(33)Center for Genetic Medicine, Dept of Medicine (Cardiology), Northwestern 
+University Feinberg School of Medicine, Chicago, IL, USA.
+(34)Medical University of South Carolina, Charleston, SC, USA.
+(35)Department of Genetics, University Medical Center Utrecht, Utrecht, the 
+Netherlands.
+(36)Department of Cardiology, Amsterdam UMC location University of Amsterdam, 
+Meibergdreef 9, Amsterdam, the Netherlands.
+(37)Amsterdam Cardiovascular Sciences, Heart Failure and Arrhythmias, Amsterdam 
+UMC location University of Amsterdam, Amsterdam, the Netherlands.
+(38)Inherited Arrhythmia and Cardiomyopathy Program, Division of Cardiology, 
+University of Toronto, Toronto, ON, Canada.
+(39)National Heart and Lung Institute, Imperial College London, Du Cane Road, 
+London, W12 0NN, UK. j.ware@imperial.ac.uk.
+(40)Royal Brompton and Harefield Hospitals, Guy's and St Thomas' NHS Foundation 
+Trust, London, UK. j.ware@imperial.ac.uk.
+(41)MRC London Institute of Medical Sciences, Imperial College London, London, 
+UK. j.ware@imperial.ac.uk.
+
+Update of
+    medRxiv. 2023 Apr 03:2023.04.03.23287612. doi: 10.1101/2023.04.03.23287612.
+
+BACKGROUND: As the availability of genomic testing grows, variant interpretation 
+will increasingly be performed by genomic generalists, rather than 
+domain-specific experts. Demand is rising for laboratories to accurately 
+classify variants in inherited cardiac condition (ICC) genes, including 
+secondary findings.
+METHODS: We analyse evidence for inheritance patterns, allelic requirement, 
+disease mechanism and disease-relevant variant classes for 65 ClinGen-curated 
+ICC gene-disease pairs. We present this information for the first time in a 
+structured dataset, CardiacG2P, and assess application in genomic variant 
+filtering.
+RESULTS: For 36/65 gene-disease pairs, loss of function is not an established 
+disease mechanism, and protein truncating variants are not known to be 
+pathogenic. Using the CardiacG2P dataset as an initial variant filter allows for 
+efficient variant prioritisation whilst maintaining a high sensitivity for 
+retaining pathogenic variants compared with two other variant filtering 
+approaches.
+CONCLUSIONS: Access to evidence-based structured data representing disease 
+mechanism and allelic requirement aids variant filtering and analysis and is a 
+pre-requisite for scalable genomic testing.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s13073-023-01246-8
+PMCID: PMC10594882
+PMID: 37872640 [Indexed for MEDLINE]
+
+Conflict of interest statement: EMM is a Consultant for Amgen, AstraZeneca, 
+Avidity Biosciences, Cytokinetics, PepGen, Pfizer, Stealth Biotherapeutics, and 
+Tenaya Therapeutics and founder of Ikaika Therapeutics. CJ is a Consultant for 
+Pfizer Inc (paid), StrideBio Inc (unpaid), and Tenaya Inc (unpaid). TL has 
+research grant support from Pfizer. DPJ is a Consultant for Alexion, Alleviant, 
+Cytokinetics, Novo Nordisk, Pfizer, and Tenaya Therapeutics. JI has research 
+grant support from Bristol Myers Squibb. JSW has received research support or 
+consultancy fees from Myokardia, Bristol-Myers Squibb, Pfizer, and Foresite 
+Labs. The other authors declare that they have no competing interests.

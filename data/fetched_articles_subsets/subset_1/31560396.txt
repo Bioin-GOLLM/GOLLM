@@ -1,0 +1,44 @@
+1. J Mol Cell Biol. 2019 Oct 25;11(10):829-844. doi: 10.1093/jmcb/mjz094.
+
+A combined computational pipeline to detect circular RNAs in human cancer cells 
+under hypoxic stress.
+
+Di Liddo A(1)(2), de Oliveira Freitas Machado C(2)(3), Fischer S(4), Ebersberger 
+S(5), Heumüller AW(3), Weigand JE(4), Müller-McNicoll M(2), Zarnack K(1).
+
+Author information:
+(1)Buchmann Institute for Molecular Life Sciences, Goethe University Frankfurt, 
+Frankfurt am Main, Germany.
+(2)Institute of Cell Biology and Neuroscience, Goethe University Frankfurt, 
+Frankfurt am Main, Germany.
+(3)Institute for Cardiovascular Regeneration, Goethe University Frankfurt, 
+Frankfurt am Main, Germany.
+(4)Department of Biology, Technical University Darmstadt, Germany.
+(5)Institute of Molecular Biology (IMB), Mainz, Germany.
+
+Hypoxia is associated with several diseases, including cancer. Cells that are 
+deprived of adequate oxygen supply trigger transcriptional and 
+post-transcriptional responses, which control cellular pathways such as 
+angiogenesis, proliferation, and metabolic adaptation. Circular RNAs (circRNAs) 
+are a novel class of mainly non-coding RNAs, which have been implicated in 
+multiple cancers and attract increasing attention as potential biomarkers. Here, 
+we characterize the circRNA signatures of three different cancer cell lines from 
+cervical (HeLa), breast (MCF-7), and lung (A549) cancer under hypoxia. In order 
+to reliably detect circRNAs, we integrate available tools with custom approaches 
+for quantification and statistical analysis. Using this consolidated 
+computational pipeline, we identify ~12000 circRNAs in the three cancer cell 
+lines. Their molecular characteristics point to an involvement of complementary 
+RNA sequences as well as trans-acting factors in circRNA biogenesis, such as the 
+RNA-binding protein HNRNPC. Notably, we detect a number of circRNAs that are 
+more abundant than their linear counterparts. In addition, 64 circRNAs 
+significantly change in abundance upon hypoxia, in most cases in a cell 
+type-specific manner. In summary, we present a comparative circRNA profiling in 
+human cancer cell lines, which promises novel insights into the biogenesis and 
+function of circRNAs under hypoxic stress.
+
+© The Author(s) (2019). Published by Oxford University Press on behalf of 
+Journal of Molecular Cell Biology, IBCB, SIBS, CAS.
+
+DOI: 10.1093/jmcb/mjz094
+PMCID: PMC6884703
+PMID: 31560396 [Indexed for MEDLINE]

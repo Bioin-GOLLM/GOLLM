@@ -1,0 +1,46 @@
+1. JMIR Med Inform. 2020 Nov 25;8(11):e22333. doi: 10.2196/22333.
+
+Automatic Structuring of Ontology Terms Based on Lexical Granularity and Machine 
+Learning: Algorithm Development and Validation.
+
+Luo L(#)(1)(2), Feng J(#)(1), Yu H(3), Wang J(1).
+
+Author information:
+(1)School of Computer Science, University of South China, Hengyang, China.
+(2)Hunan Medical Big Data International Science and Technology Innovation 
+Cooperation Base, Hengyang, China.
+(3)Clinical Laboratory Medicine Center, Shenzhen Hospital, Southern Medical 
+University, Shenzhen, China.
+(#)Contributed equally
+
+BACKGROUND: As the manual creation and maintenance of biomedical ontologies are 
+labor-intensive, automatic aids are desirable in the lifecycle of ontology 
+development.
+OBJECTIVE: Provided with a set of concept names in the Foundational Model of 
+Anatomy (FMA), we propose an innovative method for automatically generating the 
+taxonomy and the partonomy structures among them, respectively.
+METHODS: Our approach comprises 2 main tasks: The first task is predicting the 
+direct relation between 2 given concept names by utilizing word embedding 
+methods and training 2 machine learning models, Convolutional Neural Networks 
+(CNN) and Bidirectional Long Short-term Memory Networks (Bi-LSTM). The second 
+task is the introduction of an original granularity-based method to identify the 
+semantic structures among a group of given concept names by leveraging these 
+trained models.
+RESULTS: Results show that both CNN and Bi-LSTM perform well on the first task, 
+with F1 measures above 0.91. For the second task, our approach achieves an 
+average F1 measure of 0.79 on 100 case studies in the FMA using Bi-LSTM, which 
+outperforms the primitive pairwise-based method.
+CONCLUSIONS: We have investigated an automatic way of predicting a hierarchical 
+relationship between 2 concept names; based on this, we have further invented a 
+methodology to structure a group of concept names automatically. This study is 
+an initial investigation that will shed light on further work on the automatic 
+creation and enrichment of biomedical ontologies.
+
+©Lingyun Luo, Jingtao Feng, Huijun Yu, Jiaolong Wang. Originally published in 
+JMIR Medical Informatics (http://medinform.jmir.org), 25.11.2020.
+
+DOI: 10.2196/22333
+PMCID: PMC7725650
+PMID: 33127601
+
+Conflict of interest statement: Conflicts of Interest: None declared.

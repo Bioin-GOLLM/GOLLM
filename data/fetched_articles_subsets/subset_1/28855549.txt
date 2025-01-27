@@ -1,0 +1,40 @@
+1. Sci Rep. 2017 Aug 30;7(1):10023. doi: 10.1038/s41598-017-09951-2.
+
+A signal-based method for finding driver modules of breast cancer metastasis to 
+the lung.
+
+Yan G(1)(2), Chen V(1)(2), Lu X(1)(2), Lu S(3)(4).
+
+Author information:
+(1)Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, 
+PA, USA.
+(2)Center for Causal Discovery, University of Pittsburgh, Pittsburgh, PA, USA.
+(3)Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, 
+PA, USA. songjian@pitt.edu.
+(4)Center for Causal Discovery, University of Pittsburgh, Pittsburgh, PA, USA. 
+songjian@pitt.edu.
+
+Tumor metastasis is mainly caused by somatic genomic alterations (SGAs) that 
+perturb pathways regulating metastasis-relevant activities and thus help the 
+primary tumor to adapt to the new microenvironment. Identifying drivers of 
+metastasis, i.e. SGAs, sheds light on the metastasis mechanism and provides 
+guidance for targeted therapy. In this paper, we introduce a novel method to 
+search for SGAs driving breast cancer metastasis to the lung. First, we search 
+for transcriptomic modules with genes that are differentially expressed in 
+breast cell lines with strong metastatic activities to the lung and co-expressed 
+in a large number of breast tumors. Then, for each transcriptomic module, we 
+search for a set of SGA genes (driver modules) such that genes in each driver 
+module carry a common signal regulating the transcriptomic module. Evaluations 
+indicate that many genes in driver modules are indeed related to metastasis, and 
+our methods have identified many new driver candidates. We further choose two 
+novel metastatic driver genes, BCL2L11 and CDH9, for in vitro verification. The 
+wound healing assay reveals that inhibiting either BCL2L11 or CDH9 will enhance 
+the migration of cell lines, which provides evidence that these two genes are 
+suppressors of tumor metastasis.
+
+DOI: 10.1038/s41598-017-09951-2
+PMCID: PMC5577160
+PMID: 28855549 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

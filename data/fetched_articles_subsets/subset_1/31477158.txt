@@ -1,0 +1,46 @@
+1. Genome Biol. 2019 Sep 2;20(1):183. doi: 10.1186/s13059-019-1787-z.
+
+MPRAnalyze: statistical framework for massively parallel reporter assays.
+
+Ashuach T(1)(2), Fischer DS(3)(4), Kreimer A(1)(5)(6), Ahituv N(5)(6), Theis 
+FJ(3), Yosef N(7)(8)(9)(10).
+
+Author information:
+(1)Department of Electrical Engineering and Computer Sciences, University of 
+California Berkeley, Berkeley, California, USA.
+(2)Center for Computational Biology, University of California Berkeley, 
+Berkeley, California, USA.
+(3)Institute of Computational Biology, Helmholz Zentrum München, Neuherberg, 
+Germany.
+(4)TUM School of Life Sciences Weihenstephan, Technical University of Munich, 
+Freising, Germany.
+(5)Department of Bioengineering and Therapeutic Sciences, University of 
+California San Francisco, San Francisco, California, USA.
+(6)Institute for Human Genetics, University of California San Francisco, San 
+Francisco, California, USA.
+(7)Department of Electrical Engineering and Computer Sciences, University of 
+California Berkeley, Berkeley, California, USA. niryosef@berkeley.edu.
+(8)Center for Computational Biology, University of California Berkeley, 
+Berkeley, California, USA. niryosef@berkeley.edu.
+(9)Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA, USA. 
+niryosef@berkeley.edu.
+(10)Chan Zuckerberg BioHub, San Francisco, California, USA. 
+niryosef@berkeley.edu.
+
+Massively parallel reporter assays (MPRAs) can measure the regulatory function 
+of thousands of DNA sequences in a single experiment. Despite growing 
+popularity, MPRA studies are limited by a lack of a unified framework for 
+analyzing the resulting data. Here we present MPRAnalyze: a statistical 
+framework for analyzing MPRA count data. Our model leverages the unique 
+structure of MPRA data to quantify the function of regulatory sequences, compare 
+sequences' activity across different conditions, and provide necessary 
+flexibility in an evolving field. We demonstrate the accuracy and applicability 
+of MPRAnalyze on simulated and published data and compare it with existing 
+methods.
+
+DOI: 10.1186/s13059-019-1787-z
+PMCID: PMC6717970
+PMID: 31477158 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no competing 
+interests.

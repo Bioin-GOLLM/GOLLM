@@ -1,0 +1,71 @@
+1. Genome Res. 2017 May;27(5):686-696. doi: 10.1101/gr.213595.116. Epub 2017 Jan 
+30.
+
+Improved genome assembly of American alligator genome reveals conserved 
+architecture of estrogen signaling.
+
+Rice ES(1), Kohno S(2), John JS(3), Pham S(4), Howard J(5), Lareau LF(6), 
+O'Connell BL(1)(7), Hickey G(1), Armstrong J(1), Deran A(1), Fiddes I(1), Platt 
+RN 2nd(8), Gresham C(9), McCarthy F(10), Kern C(11), Haan D(1), Phan T(12), 
+Schmidt C(13), Sanford JR(14), Ray DA(8), Paten B(15), Guillette LJ Jr(16), 
+Green RE(1)(6)(7).
+
+Author information:
+(1)Department of Biomolecular Engineering, University of California, Santa Cruz, 
+California 95064, USA.
+(2)Department of Biology, St. Cloud State University, St. Cloud, Minnesota 
+56301, USA.
+(3)Driver Group, LLC, San Francisco, California 94158, USA.
+(4)BioTuring, Incorporated, San Diego, California 92121, USA.
+(5)Department of Biochemistry, Stanford University, Stanford, California 94305, 
+USA.
+(6)California Institute for Quantitative Biosciences, University of California, 
+Berkeley, California 94720, USA.
+(7)Dovetail Genomics, LLC, Santa Cruz, California 95060, USA.
+(8)Department of Biological Sciences, Texas Tech University, Lubbock, Texas 
+79409, USA.
+(9)Institute for Genomics, Biocomputing & Biotechnology, Mississippi State 
+University, Mississippi State, Mississippi 39762, USA.
+(10)School of Animal and Comparative Biomedical Sciences, University of Arizona, 
+Tucson, Arizona 85721, USA.
+(11)Department of Animal Science, University of California, Davis, California 
+95616, USA.
+(12)HCM University of Science, Ho Chí Minh, Vietnam 748500.
+(13)Department of Animal and Food Sciences, University of Delaware, Newark, 
+Delaware 19717, USA.
+(14)Department of Molecular, Cell, and Developmental Biology, University of 
+California, Santa Cruz, California 95064, USA.
+(15)Center for Biomolecular Science and Engineering, University of California, 
+Santa Cruz, California 95064, USA.
+(16)Department of Obstetrics and Gynecology, Marine Biomedicine and 
+Environmental Science Center, Hollings Marine Laboratory, Medical University of 
+South Carolina, Charleston, South Carolina 29412, USA.
+
+The American alligator, Alligator mississippiensis, like all crocodilians, has 
+temperature-dependent sex determination, in which the sex of an embryo is 
+determined by the incubation temperature of the egg during a critical period of 
+development. The lack of genetic differences between male and female alligators 
+leaves open the question of how the genes responsible for sex determination and 
+differentiation are regulated. Insight into this question comes from the fact 
+that exposing an embryo incubated at male-producing temperature to estrogen 
+causes it to develop ovaries. Because estrogen response elements are known to 
+regulate genes over long distances, a contiguous genome assembly is crucial for 
+predicting and understanding their impact. We present an improved assembly of 
+the American alligator genome, scaffolded with in vitro proximity ligation 
+(Chicago) data. We use this assembly to scaffold two other crocodilian genomes 
+based on synteny. We perform RNA sequencing of tissues from American alligator 
+embryos to find genes that are differentially expressed between embryos 
+incubated at male- versus female-producing temperature. Finally, we use the 
+improved contiguity of our assembly along with the current model of 
+CTCF-mediated chromatin looping to predict regions of the genome likely to 
+contain estrogen-responsive genes. We find that these regions are significantly 
+enriched for genes with female-biased expression in developing gonads after the 
+critical period during which sex is determined by incubation temperature. We 
+thus conclude that estrogen signaling is a major driver of female-biased gene 
+expression in the post-temperature sensitive period gonads.
+
+© 2017 Rice et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.213595.116
+PMCID: PMC5411764
+PMID: 28137821 [Indexed for MEDLINE]

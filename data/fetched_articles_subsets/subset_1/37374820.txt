@@ -1,0 +1,40 @@
+1. Micromachines (Basel). 2023 Jun 12;14(6):1235. doi: 10.3390/mi14061235.
+
+Modeling the Impact of Phonon Scattering with Strain Effects on the Electrical 
+Properties of MoS(2) Field-Effect Transistors.
+
+Chin HC(1), Hamzah A(1), Alias NE(1), Tan MLP(1).
+
+Author information:
+(1)Faculty of Electrical Engineering, Universiti Teknologi Malaysia, Skudai 
+81310, Johor, Malaysia.
+
+Molybdenum disulfide (MoS2) has distinctive electronic and mechanical properties 
+which make it a highly prospective material for use as a channel in upcoming 
+nanoelectronic devices. An analytical modeling framework was used to investigate 
+the I-V characteristics of field-effect transistors based on MoS2. The study 
+begins by developing a ballistic current equation using a circuit model with two 
+contacts. The transmission probability, which considers both the acoustic and 
+optical mean free path, is then derived. Next, the effect of phonon scattering 
+on the device was examined by including transmission probabilities into the 
+ballistic current equation. According to the findings, the presence of phonon 
+scattering caused a decrease of 43.7% in the ballistic current of the device at 
+room temperature when L = 10 nm. The influence of phonon scattering became more 
+prominent as the temperature increased. In addition, this study also considers 
+the impact of strain on the device. It is reported that applying compressive 
+strain could increase the phonon scattering current by 13.3% at L = 10 nm at 
+room temperature, as evaluated in terms of the electrons' effective masses. 
+However, the phonon scattering current decreased by 13.3% under the same 
+condition due to the existence of tensile strain. Moreover, incorporating a 
+high-k dielectric to mitigate the impact of scattering resulted in an even 
+greater improvement in device performance. Specifically, at L = 6 nm, the 
+ballistic current was surpassed by 58.4%. Furthermore, the study achieved SS = 
+68.2 mV/dec using Al2O3 and an on-off ratio of 7.75 × 104 using HfO2. Finally, 
+the analytical results were validated with previous works, showing comparable 
+agreement with the existing literature.
+
+DOI: 10.3390/mi14061235
+PMCID: PMC10301306
+PMID: 37374820
+
+Conflict of interest statement: The authors declare no conflict of interest.

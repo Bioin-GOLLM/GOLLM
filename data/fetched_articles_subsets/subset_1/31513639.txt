@@ -1,0 +1,59 @@
+1. PLoS One. 2019 Sep 12;14(9):e0222329. doi: 10.1371/journal.pone.0222329. 
+eCollection 2019.
+
+Identification of bovine CpG SNPs as potential targets for epigenetic regulation 
+via DNA methylation.
+
+Maldonado MBC(1), de Rezende Neto NB(2), Nagamatsu ST(3)(4), Carazzolle 
+MF(3)(5), Hoff JL(6), Whitacre LK(6), Schnabel RD(6)(7), Behura SK(6), McKay 
+SD(8), Taylor JF(6), Lopes FL(1).
+
+Author information:
+(1)São Paulo State University (Unesp), School of Veterinary Medicine, Araçatuba, 
+São Paulo, Brazil.
+(2)Natural and Human Sciences Center, ABC Federal University, Santo André, São 
+Paulo, Brazil.
+(3)Genomics and Expression Laboratory, University of Campinas, Campinas, São 
+Paulo, Brazil.
+(4)Brazilian Bioethanol Science and Technology Laboratory (CTBE), Brazilian 
+Center for Research in Energy and Materials (CNPEM), Campinas, São Paulo, 
+Brazil.
+(5)National Center for High Performance Computing (CENAPAD-SP), University of 
+Campinas, Campinas, São Paulo, Brazil.
+(6)Division of Animal Sciences, University of Missouri, Columbia, Missouri, 
+United States of America.
+(7)Informatics Institute, University of Missouri, Columbia, Missouri, United 
+States of America.
+(8)Department of Animal and Veterinary Sciences, University of Vermont, 
+Burlington, Vermont, United States of America.
+
+Methylation patterns established and maintained at CpG sites may be altered by 
+single nucleotide polymorphisms (SNPs) within these sites and may affect the 
+regulation of nearby genes. Our aims were to: 1) identify and generate a 
+database of SNPs potentially subject to epigenetic control by DNA methylation 
+via their involvement in creating, removing or displacing CpG sites (meSNPs), 
+and; 2) investigate the association of these meSNPs with CpG islands (CGIs), and 
+with methylation profiles of DNA extracted from tissues from cattle with 
+divergent feed efficiencies detected using MIRA-Seq. Using the variant 
+annotation for 56,969,697 SNPs identified in Run5 of the 1000 Bull Genomes 
+Project and the UMD3.1.1 bovine reference genome sequence assembly, we 
+identified and classified 12,836,763 meSNPs according to the nature of variation 
+created at CpGs. The majority of the meSNPs were located in intergenic regions 
+(68%) or introns (26.3%). We found an enrichment (p<0.01) of meSNPs located in 
+CGIs relative to the genome as a whole, and also in differentially methylated 
+sequences in tissues from animals divergent for feed efficiency. Seven meSNPs, 
+located in differentially methylated regions, were fixed for methylation site 
+creating (MSC) or destroying (MSD) alleles in the differentially methylated 
+genomic sequences of animals differing in feed efficiency. These meSNPs may be 
+mechanistically responsible for creating or deleting methylation targets 
+responsible for the differential expression of genes underlying differences in 
+feed efficiency. Our methyl SNP database (dbmeSNP) is useful for identifying 
+potentially functional "epigenetic polymorphisms" underlying variation in bovine 
+phenotypes.
+
+DOI: 10.1371/journal.pone.0222329
+PMCID: PMC6742455
+PMID: 31513639 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

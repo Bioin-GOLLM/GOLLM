@@ -1,0 +1,56 @@
+1. Cancer Cell Int. 2021 May 21;21(1):272. doi: 10.1186/s12935-021-01955-3.
+
+VWCE as a potential biomarker associated with immune infiltrates in breast 
+cancer.
+
+Huo Q(#)(1), Li Z(#)(1), Chen S(1), Wang J(2), Li J(2), Xie N(3).
+
+Author information:
+(1)Biobank, Shenzhen Institute of Translational Medicine, Shenzhen Second 
+People's Hospital, First Affiliated Hospital of Shenzhen University , Shenzhen, 
+518035, China.
+(2)Department of Clinical Medicine , University of South China , Hengyang , 
+421001 , China.
+(3)Biobank, Shenzhen Institute of Translational Medicine, Shenzhen Second 
+People's Hospital, First Affiliated Hospital of Shenzhen University , Shenzhen, 
+518035, China. xn100@szu.edu.cn.
+(#)Contributed equally
+
+PURPOSE: Von Willebrand Factor C and EGF Domains (VWCE) is an important gene 
+that regulates cell adhesion, migration, and interaction. However, the 
+correlation between VWCE expression and immune infiltrating in breast cancer 
+remain unclear. In this study, we investigated the correlation between VWCE 
+expression and immune infiltration levels in breast cancer.
+METHODS: The expression of VWCE was analyzed by the tumor immune estimation 
+resource (TIMER) and DriverDB databases. Furthermore, genes co-expressed with 
+VWCE and gene ontology (GO) enrichment analysis were investigated by the STRING 
+and Enrichr web servers. Also, we performed the single nucleotide variation 
+(SNV), copy number variation (CNV), and pathway activity analysis through 
+GSCALite. Subsequently, the relationship between VWCE expression and tumor 
+immunity was analyzed by TIMER and TISIDB databases, and further verified the 
+results using Quantitative Real-Time PCR (RT-PCR), Western blotting, and 
+immunohistochemistry.
+RESULTS: The results showed that the expression of VWCE mRNA in breast cancer 
+tissue was significantly lower than that in normal tissues. We found that the 
+expression level of VWCE was associated with subtypes, estrogen receptor (ER), 
+progesterone receptor (PR), and human epidermal growth factor receptor-2 (HER2) 
+status of breast cancer patients, but there was no significant difference in the 
+expression of VWCE was found in age and nodal status. Further analyses indicated 
+that VWCE was correlated with the activation or inhibition of multiple oncogenic 
+pathways. Additionally, VWCE expression was negatively correlated with the 
+expression of STAT1 (Th1 marker, r = - 0.12, p = 6e-05), but positively 
+correlated with the expression of MS4A4A (r = 0.28, p = 0). These results 
+suggested that the expression of VWCE was correlated with immune infiltration 
+levels of Th1 and M2 macrophage in breast cancer.
+CONCLUSIONS: In our study, VWCE expression was associated with a better 
+prognosis and was immune infiltration in breast cancer. These findings 
+demonstrate that VWCE is a potential prognostic biomarker and correlated with 
+tumor immune cell infiltration, and maybe a promising therapeutic target in 
+breast cancer.
+
+DOI: 10.1186/s12935-021-01955-3
+PMCID: PMC8140436
+PMID: 34020650
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

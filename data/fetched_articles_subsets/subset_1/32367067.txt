@@ -1,0 +1,36 @@
+1. Nat Struct Mol Biol. 2020 May;27(5):489-499. doi: 10.1038/s41594-020-0415-7. 
+Epub 2020 May 4.
+
+Real-time observation of CRISPR spacer acquisition by Cas1-Cas2 integrase.
+
+Budhathoki JB(1), Xiao Y(#)(1), Schuler G(#)(1), Hu C(1), Cheng A(1), Ding F(1), 
+Ke A(2).
+
+Author information:
+(1)Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, 
+USA.
+(2)Department of Molecular Biology and Genetics, Cornell University, Ithaca, NY, 
+USA. ailong.ke@cornell.edu.
+(#)Contributed equally
+
+Cas1 integrase associates with Cas2 to insert short DNA fragments into a CRISPR 
+array, establishing nucleic acid memory in prokaryotes. Here we applied 
+single-molecule FRET methods to the Enterococcus faecalis (Efa) Cas1-Cas2 system 
+to establish a kinetic framework describing target-searching, integration, and 
+post-synapsis events. EfaCas1-Cas2 on its own is not able to find the CRISPR 
+repeat in the CRISPR array; it only does so after prespacer loading. The leader 
+sequence adjacent to the repeat further stabilizes EfaCas1-Cas2 contacts, 
+enabling leader-side integration and subsequent spacer-side integration. The 
+resulting post-synaptic complex (PSC) has a surprisingly short mean lifetime. 
+Remarkably, transcription effectively resolves the PSC, and we predict that this 
+is a conserved mechanism that ensures efficient and directional spacer 
+integration in many CRISPR systems. Overall, our study provides a complete model 
+of spacer acquisition, which can be harnessed for DNA-based information storage 
+and cell lineage tracing technologies.
+
+DOI: 10.1038/s41594-020-0415-7
+PMCID: PMC7241818
+PMID: 32367067 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests The authors declare no 
+competing interests.

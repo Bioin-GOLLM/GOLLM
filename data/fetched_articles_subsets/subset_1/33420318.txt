@@ -1,0 +1,48 @@
+1. Commun Biol. 2021 Jan 8;4(1):57. doi: 10.1038/s42003-020-01573-1.
+
+The spatial RNA integrity number assay for in situ evaluation of transcriptome 
+quality.
+
+Kvastad L(1), Carlberg K(1), Larsson L(1), Villacampa EG(1), Stuckey A(1), 
+Stenbeck L(1), Mollbrink A(1), Zamboni M(2), Magnusson JP(2)(3), Basmaci 
+E(4)(5), Shamikh A(4)(5), Prochazka G(4)(5), Schaupp AL(6), Borg Å(7), Fugger 
+L(6), Nistér M(4)(5), Lundeberg J(8).
+
+Author information:
+(1)Science for Life Laboratory, KTH - Royal Institute of Technology (KTH), 
+SE-171 65, Solna, Sweden.
+(2)Department of Cell and Molecular Biology, Karolinska Institutet, Stockholm, 
+Sweden.
+(3)Bioengineering Department, Stanford University, Stanford, USA.
+(4)Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden.
+(5)Department of Clinical Pathology and Cytology, Karolinska University 
+Hospital, Stockholm, Sweden.
+(6)Nuffield Department of Clinical Neurosciences, MRC Human Immunology Unit, 
+Weatherall Institute of Molecular Medicine, John Radcliffe Hospital University 
+of Oxford, Oxford Centre for Neuroinflammation, Oxford, UK.
+(7)Division of Oncology and Pathology, Department of Clinical Sciences, Lund 
+Lund University, Lund, Sweden.
+(8)Science for Life Laboratory, KTH - Royal Institute of Technology (KTH), 
+SE-171 65, Solna, Sweden. joakim.lundeberg@scilifelab.se.
+
+The RNA integrity number (RIN) is a frequently used quality metric to assess the 
+completeness of rRNA, as a proxy for the corresponding mRNA in a tissue. Current 
+methods operate at bulk resolution and provide a single average estimate for the 
+whole sample. Spatial transcriptomics technologies have emerged and shown their 
+value by placing gene expression into a tissue context, resulting in 
+transcriptional information from all tissue regions. Thus, the ability to 
+estimate RNA quality in situ has become of utmost importance to overcome the 
+limitation with a bulk rRNA measurement. Here we show a new tool, the spatial 
+RNA integrity number (sRIN) assay, to assess the rRNA completeness in a tissue 
+wide manner at cellular resolution. We demonstrate the use of sRIN to identify 
+spatial variation in tissue quality prior to more comprehensive spatial 
+transcriptomics workflows.
+
+DOI: 10.1038/s42003-020-01573-1
+PMCID: PMC7794352
+PMID: 33420318 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following competing 
+interests: L.K., K.C., L.L., E.G.V., L.S., A.M., and J.L., are scientific 
+consultants for 10X Genomics Inc. All other authors declare no competing 
+interests.

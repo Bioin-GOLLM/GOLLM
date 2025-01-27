@@ -1,0 +1,48 @@
+1. Front Genet. 2019 Mar 4;10:143. doi: 10.3389/fgene.2019.00143. eCollection
+2019.
+
+DMfold: A Novel Method to Predict RNA Secondary Structure With Pseudoknots Based 
+on Deep Learning and Improved Base Pair Maximization Principle.
+
+Wang L(1)(2), Liu Y(1)(2), Zhong X(1)(2)(3), Liu H(1)(2), Lu C(1)(2), Li 
+C(1)(2), Zhang H(1)(2).
+
+Author information:
+(1)College of Computer Science and Technology, Jilin University, Changchun, 
+China.
+(2)Key Laboratory of Symbolic Computation and Knowledge Engineering, Ministry of 
+Education, Jilin University, Changchun, China.
+(3)Department of Pediatric Oncology, The First Hospital of Jilin University, 
+Changchun, China.
+
+While predicting the secondary structure of RNA is vital for researching its 
+function, determining RNA secondary structure is challenging, especially for 
+that with pseudoknots. Typically, several excellent computational methods can be 
+utilized to predict the secondary structure (with or without pseudoknots), but 
+they have their own merits and demerits. These methods can be classified into 
+two categories: the multi-sequence method and the single-sequence method. The 
+main advantage of the multi-sequence method lies in its use of the auxiliary 
+sequences to assist in predicting the secondary structure, but it can only 
+successfully predict in the presence of multiple highly homologous sequences. 
+The single-sequence method is associated with the major merit of easy operation 
+(only need the target sequence to predict secondary structure), but its folding 
+parameters are the common features of diversity RNA, which cannot describe the 
+unique characteristics of RNA, thus potentially resulting in the low prediction 
+accuracy in some RNA. In this paper, "DMfold," a method based on the Deep 
+Learning and Improved Base Pair Maximization Principle, is proposed to predict 
+the secondary structure with pseudoknots, which fully absorbs the advantages and 
+avoids some disadvantages of those two methods. Notably, DMfold could predict 
+the secondary structure of RNA by learning similar RNA in the known structures, 
+which uses the similar RNA sequences instead of the highly homogeneous sequences 
+in the multi-sequence method, thereby reducing the requirement for auxiliary 
+sequences. In DMfold, it only needs to input the target sequence to predict the 
+secondary structure. Its folding parameters are fully extracted automatically by 
+deep learning, which could avoid the lack of folding parameters in the 
+single-sequence method. Experiments show that our method is not only simple to 
+operate, but also improves the prediction accuracy compared to multiple 
+excellent prediction methods. A repository containing our code can be found at 
+https://github.com/linyuwangPHD/RNA-Secondary-Structure-Database.
+
+DOI: 10.3389/fgene.2019.00143
+PMCID: PMC6409321
+PMID: 30886627

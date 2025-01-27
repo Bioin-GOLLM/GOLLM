@@ -1,0 +1,33 @@
+1. BMC Bioinformatics. 2014 Jan 9;15:5. doi: 10.1186/1471-2105-15-5.
+
+Quantitative prediction of the effect of genetic variation using hidden Markov 
+models.
+
+Liu M, Watson LT, Zhang L(1).
+
+Author information:
+(1)Department of Computer Science, Virginia Polytechnic Institute and State 
+University, Blacksburg, VA, USA. lqzhang@cs.vt.edu.
+
+BACKGROUND: With the development of sequencing technologies, more and more 
+sequence variants are available for investigation. Different classes of variants 
+in the human genome have been identified, including single nucleotide 
+substitutions, insertion and deletion, and large structural variations such as 
+duplications and deletions. Insertion and deletion (indel) variants comprise a 
+major proportion of human genetic variation. However, little is known about 
+their effects on humans. The absence of understanding is largely due to the lack 
+of both biological data and computational resources.
+RESULTS: This paper presents a new indel functional prediction method HMMvar 
+based on HMM profiles, which capture the conservation information in sequences. 
+The results demonstrate that a scoring strategy based on HMM profiles can 
+achieve good performance in identifying deleterious or neutral variants for 
+different data sets, and can predict the protein functional effects of both 
+single and multiple mutations.
+CONCLUSIONS: This paper proposed a quantitative prediction method, HMMvar, to 
+predict the effect of genetic variation using hidden Markov models. The HMM 
+based pipeline program implementing the method HMMvar is freely available at 
+https://bioinformatics.cs.vt.edu/zhanglab/hmm.
+
+DOI: 10.1186/1471-2105-15-5
+PMCID: PMC3893606
+PMID: 24405700 [Indexed for MEDLINE]

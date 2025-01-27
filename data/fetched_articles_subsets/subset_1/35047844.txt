@@ -1,0 +1,36 @@
+1. HGG Adv. 2021 Aug 20;3(1):100053. doi: 10.1016/j.xhgg.2021.100053. eCollection
+ 2022 Jan 13.
+
+Neural network classifiers for images of genetic conditions with cutaneous 
+manifestations.
+
+Duong D(1), Waikel RL(1), Hu P(1), Tekendo-Ngongang C(1), Solomon BD(1).
+
+Author information:
+(1)Medical Genomics Unit, Medical Genetics Branch, National Human Genome 
+Research Institute, Bethesda, MD 20892, USA.
+
+Neural networks have shown strong potential in research and in healthcare. 
+Mainly due to the need for large datasets, these applications have focused on 
+common medical conditions, where more data are typically available. Leveraging 
+publicly available data, we trained a neural network classifier on images of 
+rare genetic conditions with skin findings. We used approximately 100 images per 
+condition to classify 6 different genetic conditions. We analyzed both 
+preprocessed images that were cropped to show only the skin lesions as well as 
+more complex images showing features such as the entire body segment, the 
+person, and/or the background. The classifier construction process included 
+attribution methods to visualize which pixels were most important for 
+computer-based classification. Our classifier was significantly more accurate 
+than pediatricians or medical geneticists for both types of images and suggests 
+steps for further research involving clinical scenarios and other applications.
+
+DOI: 10.1016/j.xhgg.2021.100053
+PMCID: PMC8756521
+PMID: 35047844
+
+Conflict of interest statement: B.D.S.: Editor-in-Chief of the American Journal 
+of Medical Genetics; previously (until 2019) employee of GeneDx, Inc., a 
+genetic/genomic testing laboratory that is a subsidiary of Opko Health, and 
+previous holder of Opko Health stock options; previously (until 2019) member of 
+Scientific Advisory Board for FDNA. All other authors declare no competing 
+interests.

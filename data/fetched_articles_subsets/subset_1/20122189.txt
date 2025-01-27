@@ -1,0 +1,37 @@
+1. BMC Bioinformatics. 2010 Jan 18;11 Suppl 1(Suppl 1):S18. doi: 
+10.1186/1471-2105-11-S1-S18.
+
+Identifying main effects and epistatic interactions from large-scale SNP data 
+via adaptive group Lasso.
+
+Yang C(1), Wan X, Yang Q, Xue H, Yu W.
+
+Author information:
+(1)Laboratory for Bioinformatics and Computational Biology, Department of 
+Electronic and Computer Engineering, The Hong Kong University of Science and 
+Technology, Clear Water Bay, Kowloon, Hong Kong, PR China. eeyang@ust.hk
+
+BACKGROUND: Single nucleotide polymorphism (SNP) based association studies aim 
+at identifying SNPs associated with phenotypes, for example, complex diseases. 
+The associated SNPs may influence the disease risk individually (main effects) 
+or behave jointly (epistatic interactions). For the analysis of high throughput 
+data, the main difficulty is that the number of SNPs far exceeds the number of 
+samples. This difficulty is amplified when identifying interactions.
+RESULTS: In this paper, we propose an Adaptive Group Lasso (AGL) model for 
+large-scale association studies. Our model enables us to analyze SNPs and their 
+interactions simultaneously. We achieve this by introducing a sparsity 
+constraint in our model based on the fact that only a small fraction of SNPs is 
+disease-associated. In order to reduce the number of false positive findings, we 
+develop an adaptive reweighting scheme to enhance sparsity. In addition, our 
+method treats SNPs and their interactions as factors, and identifies them in a 
+grouped manner. Thus, it is flexible to analyze various disease models, 
+especially for interaction detection. However, due to the intensive computation 
+when millions of interaction terms needs to be searched in the model fitting, 
+our method needs to combined with some filtering methods when applied to 
+genome-wide data for detecting interactions.
+CONCLUSION: By using a wide range of simulated datasets and a real dataset from 
+WTCCC, we demonstrate the advantages of our method.
+
+DOI: 10.1186/1471-2105-11-S1-S18
+PMCID: PMC3203332
+PMID: 20122189 [Indexed for MEDLINE]

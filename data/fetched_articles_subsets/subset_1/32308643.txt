@@ -1,0 +1,55 @@
+1. Front Neurol. 2020 Apr 3;11:233. doi: 10.3389/fneur.2020.00233. eCollection 
+2020.
+
+The Predicted Key Molecules, Functions, and Pathways That Bridge Mild Cognitive 
+Impairment (MCI) and Alzheimer's Disease (AD).
+
+Tao Y(1), Han Y(2), Yu L(1), Wang Q(1), Leng SX(3), Zhang H(1).
+
+Author information:
+(1)Department of Geriatrics, The First Affiliated Hospital of China Medical 
+University, Shenyang, China.
+(2)Department of Neurology, Jinqiu Hospital of Liaoning Province, Shenyang, 
+China.
+(3)Division of Geriatric Medicine and Gerontology, Department of Medicine, Johns 
+Hopkins University School of Medicine, Baltimore, MD, United States.
+
+To elucidate the key molecules, functions, and pathways that bridge mild 
+cognitive impairment (MCI) and Alzheimer's disease (AD), we investigated open 
+gene expression data sets. Differential gene expression profiles were analyzed 
+and combined with potential MCI- and AD-related gene expression profiles in 
+public databases. Then, weighted gene co-expression network analysis was 
+performed to identify the gene co-expression modules. One module was 
+significantly negatively associated with MCI samples, in which gene ontology 
+function and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analysis 
+showed that these genes were related to cytosolic ribosome, ribosomal structure, 
+oxidative phosphorylation, AD, and metabolic pathway. The other two modules 
+correlated significantly with AD samples, in which functional and pathway 
+enrichment analysis revealed strong relationships of these genes with 
+cytoplasmic ribosome, protein binding, AD, cancer, and apoptosis. In addition, 
+we regarded the core genes in the module network closely related to MCI and AD 
+as bridge genes and submitted them to protein interaction network analysis to 
+screen for major pathogenic genes according to the connectivity information. 
+Among them, small nuclear ribonucleoprotein D2 polypeptide (SNRPD2), ribosomal 
+protein S3a (RPS3A), S100 calcium binding protein A8 (S100A8), small nuclear 
+ribonucleoprotein polypeptide G (SNRPG), U6 snRNA-associated Sm-like protein 
+LSm3 (LSM3), ribosomal protein S27a (RPS27A), and ATP synthase F1 subunit gamma 
+(ATP5C1) were not only major pathogenic genes of MCI, but also bridge genes. In 
+addition, SNRPD2, RPS3A, S100A8, SNRPG, LSM3, thioredoxin (TXN), proteasome 20S 
+subunit alpha 4 (PSMA4), annexin A1 (ANXA1), DnaJ heat shock protein family 
+member A1 (DNAJA1), and prefoldin subunit 5 (PFDN5) were not only major 
+pathogenic genes of AD, but also bridge genes. Next, we screened for 
+differentially expressed microRNAs (miRNAs) to predict the miRNAs and 
+transcription factors related the MCI and AD modules, respectively. The 
+significance score of miRNAs in each module was calculated using a 
+hypergeometric test to obtain the miRNApivot-Module interaction pair. 
+Thirty-four bridge regulators were analyzed, among which hsa-miR-519d-3p was 
+recognized as the bridge regulator between MCI and AD. Our study contributed to 
+a better understanding of the pathogenic mechanisms of MCI and AD, and might 
+lead to the development of a new strategy for clinical diagnosis and treatment.
+
+Copyright © 2020 Tao, Han, Yu, Wang, Leng and Zhang.
+
+DOI: 10.3389/fneur.2020.00233
+PMCID: PMC7145962
+PMID: 32308643

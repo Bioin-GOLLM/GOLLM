@@ -1,0 +1,50 @@
+1. Contrast Media Mol Imaging. 2022 Apr 7;2022:7343412. doi:
+10.1155/2022/7343412.  eCollection 2022.
+
+Integrated Multichip Analysis and WGCNA Identify Potential Diagnostic Markers in 
+the Pathogenesis of ST-Elevation Myocardial Infarction.
+
+Liang Y(1), Wang W(1), Huang Q(1), Chen H(1).
+
+Author information:
+(1)Department of Clinical Laboratory, Xiaolan People's Hospital of Zhongshan, 
+Zhongshan, Guangdong, China.
+
+BACKGROUND: ST-elevation myocardial infarction (STEMI) is a myocardial 
+infarction (MI) with ST-segment exaltation of electrocardiogram (ECG) caused by 
+vascular occlusion of the epicardium. However, the diagnostic markers of STEMI 
+remain little.
+METHODS: STEMI raw microarray data are acquired from the Gene Expression Omnibus 
+(GEO) database. Based on GSE60993 and GSE61144, differentially expressed genes 
+(DEGs) are verified via R software, and key modules associated with pathological 
+state of STEMI are verified by weighted correlation network analysis (WGCNA). 
+Take the intersection gene of key module and DEGs to perform the pathway 
+enrichment analyses by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and 
+Genomes (KEGG). Construct the protein-protein interaction (PPI) network by 
+Cytoscape. Then, select and identify the diagnostic biomarkers of STEMI by least 
+absolute shrinkage and selection operator (LASSO) logistic regression and 
+support vector machine-recursive feature elimination (SVM-RFE) algorithms. 
+Finally, assess the infiltration of immune cells of STEMI by CIBERSORT and 
+analyze the correlation between diagnostic markers and infiltrating immune 
+cells.
+RESULTS: We get 710 DEGs in the STEMI group and 376 genes associated with STEMI 
+in blue module. 92 intersection genes were concentrated in 30 GO terms and 2 
+KEGG pathways. 28 hub genes involved in the development of STEMI. Moreover, 
+upregulated ALOX5AP (AUC = 1.00) and BST1 (AUC = 1.00) are confirmed as 
+diagnostic markers of STEMI. CD8+T cells, regulatory T (Treg) cells, resting 
+natural killer (NK) cells, M0 macrophages, resting mast cells, and neutrophils 
+are related to the procession of STEMI. Moreover, ALOX5AP and BST1 are 
+positively related to resting NK cells, M0 macrophages, and neutrophils, while 
+ALOX5AP and BST1 are negatively related to CD8+ T cells, Treg cells, and resting 
+mast cells.
+CONCLUSION: ALOX5AP and BST1 may be the diagnostic markers of STEMI. Immune cell 
+infiltration plays a key role in the development of STEMI.
+
+Copyright © 2022 Yingliang Liang et al.
+
+DOI: 10.1155/2022/7343412
+PMCID: PMC9010175
+PMID: 35475279 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

@@ -1,0 +1,53 @@
+1. Front Physiol. 2019 Oct 22;10:1314. doi: 10.3389/fphys.2019.01314. eCollection
+ 2019.
+
+Proarrhythmia in the p.Met207Val PITX2c-Linked Familial Atrial 
+Fibrillation-Insights From Modeling.
+
+Bai J(1), Lu Y(1), Lo A(2), Zhao J(2), Zhang H(3)(4).
+
+Author information:
+(1)Department of Electronic Engineering, College of Information Science and 
+Technology, Jinan University, Guangzhou, China.
+(2)Auckland Bioengineering Institute, The University of Auckland, Auckland, New 
+Zealand.
+(3)Biological Physics Group, School of Physics & Astronomy, University of 
+Manchester, Manchester, United Kingdom.
+(4)Pilot National Laboratory for Marine Science and Technology, Qingdao, China.
+
+Functional analysis has shown that the p.Met207Val mutation was linked to atrial 
+fibrillation and caused an increase in transactivation activity of PITX2c, which 
+caused changes in mRNA synthesis related to ionic channels and intercellular 
+electrical coupling. We assumed that these changes were quantitatively 
+translated to the functional level. This study aimed to investigate the 
+potential impact of the PITX2c p.Met207Val mutation on atrial electrical 
+activity through multiscale computational models. The well-known 
+Courtemanche-Ramirez-Nattel (CRN) model of human atrial cell action potentials 
+(APs) was modified to incorporate experimental data on the expected p.Met207Val 
+mutation-induced changes in ionic channel currents (I NaL , I Ks , and I Kr ) 
+and intercellular electrical coupling. The cell models for wild-type (WT), 
+heterozygous (Mutant/Wild type, MT/WT), and homozygous (Mutant, MT) PITX2c cases 
+were incorporated into homogeneous multicellular 1D and 2D tissue models. 
+Effects of this mutation-induced remodeling were quantified as changes in AP 
+profile, AP duration (APD) restitution, conduction velocity (CV) restitution and 
+wavelength (WL). Temporal and spatial vulnerabilities of atrial tissue to the 
+genesis of reentry were computed. Dynamic behaviors of re-entrant excitation 
+waves (Life span, tip trajectory and dominant frequency) in a homogeneous 2D 
+tissue model were characterized. Our results suggest that the PITX2c p.Met207Val 
+mutation abbreviated atrial APD and flattened APD restitution curves. It reduced 
+atrial CV and WL that facilitated the conduction of high rate atrial excitation 
+waves. It increased the tissue's temporal vulnerability by increasing the 
+vulnerable window for initiating reentry and increased the tissue spatial 
+vulnerability by reducing the substrate size necessary to sustain reentry. In 
+the 2D models, the mutation also stabilized and accelerated re-entrant 
+excitation waves, leading to rapid and sustained reentry. In conclusion, 
+electrical and structural remodeling arising from the PITX2c p.Met207Val 
+mutation may increase atrial susceptibility to arrhythmia due to shortened APD, 
+reduced CV and increased tissue vulnerability, which, in combination, facilitate 
+initiation and maintenance of re-entrant excitation waves.
+
+Copyright © 2019 Bai, Lu, Lo, Zhao and Zhang.
+
+DOI: 10.3389/fphys.2019.01314
+PMCID: PMC6818469
+PMID: 31695623

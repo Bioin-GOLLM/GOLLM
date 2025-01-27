@@ -1,0 +1,38 @@
+1. Plants (Basel). 2021 Nov 22;10(11):2542. doi: 10.3390/plants10112542.
+
+Construction of Multiple Guide RNAs in CRISPR/Cas9 Vector Using Stepwise or 
+Simultaneous Golden Gate Cloning: Case Study for Targeting the FAD2 and FATB 
+Multigene in Soybean.
+
+Kim WN(1), Kim HJ(2), Chung YS(2), Kim HU(1).
+
+Author information:
+(1)Department of Bioindustry and Bioresource Engineering, Plant Engineering 
+Research Institute, Sejong University, Seoul 05006, Korea.
+(2)Department of Molecular Genetics, College of Natural Resources and Life 
+Science, Dong-A University, Busan 49315, Korea.
+
+CRISPR/Cas9 is a commonly used technique in reverse-genetics research to knock 
+out a gene of interest. However, when targeting a multigene family or multiple 
+genes, it is necessary to construct a vector with multiple single guide RNAs 
+(sgRNAs) that can navigate the Cas9 protein to the target site. In this 
+protocol, the Golden Gate cloning method was used to generate multiple sgRNAs in 
+the Cas9 vector. The vectors used were pHEE401E_UBQ_Bar and pBAtC_tRNA, which 
+employ a one-promoter/one-sgRNA and a polycistronic-tRNA-gRNA strategy, 
+respectively. Golden Gate cloning was performed with type IIS restriction 
+enzymes to generate gRNA polymers for vector inserts. Four sgRNAs containing the 
+pHEE401E_UBQ_Bar vector and four to six sgRNAs containing the pBAtC_tRNA vector 
+were constructed. In practice, we constructed multiple sgRNAs targeting multiple 
+genes of FAD2 and FATB in soybean using this protocol. These three vectors were 
+transformed into soybeans using the Agrobacterium-mediated method. Using deep 
+sequencing, we confirmed that the T0 generation transgenic soybean was edited at 
+various indel ratios in the predicted target regions of the FAD2 and FATB 
+multigenes. This protocol is a specific guide that allows researchers to easily 
+follow the cloning of multiple sgRNAs into commonly used CRISPR/Cas9 vectors for 
+plants.
+
+DOI: 10.3390/plants10112542
+PMCID: PMC8622832
+PMID: 34834905
+
+Conflict of interest statement: The authors declare no conflict of interest.

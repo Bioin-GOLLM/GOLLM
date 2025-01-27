@@ -1,0 +1,48 @@
+1. Front Pharmacol. 2022 Mar 1;13:825741. doi: 10.3389/fphar.2022.825741. 
+eCollection 2022.
+
+Combined Machine Learning and GRID-Independent Molecular Descriptor (GRIND) 
+Models to Probe the Activity Profiles of 5-Lipoxygenase Activating Protein 
+Inhibitors.
+
+Khan HA(1), Jabeen I(1).
+
+Author information:
+(1)Research Centre for Modelling and Simulation (RCMS), NUST Interdisciplinary 
+Cluster for Higher Education (NICHE), National University of Sciences and 
+Technology (NUST), Islamabad, Pakistan.
+
+Leukotrienes (LTs) are pro-inflammatory lipid mediators derived from arachidonic 
+acid (AA), and their high production has been reported in multiple allergic, 
+autoimmune, and cardiovascular disorders. The biological synthesis of 
+leukotrienes is instigated by transfer of AA to 5-lipoxygenase (5-LO) via the 
+5-lipoxygenase-activating protein (FLAP). Suppression of FLAP can inhibit LT 
+production at the earliest level, providing relief to patients requiring 
+anti-leukotriene therapy. Over the last 3 decades, several FLAP modulators have 
+been synthesized and pharmacologically tested, but none of them could be able to 
+reach the market. Therefore, it is highly desirable to unveil the structural 
+requirement of FLAP modulators. Here, in this study, supervised machine learning 
+techniques and molecular modeling strategies are adapted to vaticinate the 
+important 2D and 3D anti-inflammatory properties of structurally diverse FLAP 
+inhibitors, respectively. For this purpose, multiple machine learning 
+classification models have been developed to reveal the most relevant 2D 
+features. Furthermore, to probe the 3D molecular basis of interaction of diverse 
+anti-inflammatory compounds with FLAP, molecular docking studies were executed. 
+By using the most probable binding poses from docking studies, the GRIND model 
+was developed, which indicated the positive contribution of four hydrophobic, 
+two hydrogen bond acceptor, and two shape-based features at certain distances 
+from each other towards the inhibitory potency of FLAP modulators. Collectively, 
+this study sheds light on important two-dimensional and three-dimensional 
+structural requirements of FLAP modulators that can potentially guide the 
+development of more potent chemotypes for the treatment of inflammatory 
+disorders.
+
+Copyright © 2022 Khan and Jabeen.
+
+DOI: 10.3389/fphar.2022.825741
+PMCID: PMC8921698
+PMID: 35300294
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

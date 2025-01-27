@@ -1,0 +1,46 @@
+1. PLoS Comput Biol. 2021 Dec 1;17(12):e1009630. doi:
+10.1371/journal.pcbi.1009630.  eCollection 2021 Dec.
+
+RNA editing regulates lncRNA splicing in human early embryo development.
+
+Qiu J(1)(2), Ma X(3), Zeng F(1)(2), Yan J(1)(2).
+
+Author information:
+(1)Shanghai Children's Hospital, Shanghai Institute of Medical Genetics, 
+Shanghai Jiao Tong University, Shanghai, China.
+(2)NHC Key Laboratory of Medical Embryogenesis and Developmental Molecular 
+Biology & Shanghai Key Laboratory of Embryo and Reproduction Engineering, 
+Shanghai, China.
+(3)Group of Signal Transduction, Department of Psychiatry and Psychotherapy, 
+University Hospital, LMU Munich, Munich, Germany.
+
+RNA editing is a co- or post-transcriptional modification through which some 
+cells can make discrete changes to specific nucleotide sequences within an RNA 
+molecule after transcription. Previous studies found that RNA editing may be 
+critically involved in cancer and aging. However, the function of RNA editing in 
+human early embryo development is still unclear. In this study, through 
+analyzing single cell RNA sequencing data, 36.7% RNA editing sites were found to 
+have a have differential editing ratio among early embryo developmental stages, 
+and there was a great reprogramming of RNA editing rates at the 8-cell stage, at 
+which most of the differentially edited RNA editing sites (99.2%) had a 
+decreased RNA editing rate. In addition, RNA editing was more likely to occur on 
+RNA splicing sites during human early embryo development. Furthermore, long 
+non-coding RNA (lncRNA) editing sites were found more likely to be on RNA 
+splicing sites (odds ratio = 2.19, P = 1.37×10-8), while mRNA editing sites were 
+less likely (odds ratio = 0.22, P = 8.38×10-46). Besides, we found that the RNA 
+editing rate on lncRNA had a significantly higher correlation coefficient with 
+the percentage spliced index (PSI) of lncRNA exons (R = 0.75, P = 4.90×10-16), 
+which indicated that RNA editing may regulate lncRNA splicing during human early 
+embryo development. Finally, functional analysis revealed that those RNA 
+editing-regulated lncRNAs were enriched in signal transduction, the regulation 
+of transcript expression, and the transmembrane transport of mitochondrial 
+calcium ion. Overall, our study might provide a new insight into the mechanism 
+of RNA editing on lncRNAs in human developmental biology and common birth 
+defects.
+
+DOI: 10.1371/journal.pcbi.1009630
+PMCID: PMC8668112
+PMID: 34851956 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

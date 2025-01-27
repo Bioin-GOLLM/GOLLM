@@ -1,0 +1,45 @@
+1. J Struct Biol. 2015 Aug;191(2):245-62. doi: 10.1016/j.jsb.2015.05.007. Epub
+2015  Jun 4.
+
+Directly reconstructing principal components of heterogeneous particles from 
+cryo-EM images.
+
+Tagare HD(1), Kucukelbir A(2), Sigworth FJ(3), Wang H(4), Rao M(5).
+
+Author information:
+(1)Dept. of Diagnostic Radiology, Yale University, CT 06520, United States; 
+Dept. of Biomedical Engineering, Yale University, CT 06520, United States. 
+Electronic address: hemant.tagare@yale.edu.
+(2)Data Science Institute, Columbia University, NY 10027, United States; Dept. 
+of Computer Science, Columbia University, NY 10027, United States.
+(3)Dept. of Cellular and Molecular Physiology, Yale University, CT 06520, United 
+States; Dept. of Biomedical Engineering, Yale University, CT 06520, United 
+States.
+(4)Center for Struct. Biol., School of Life Sciences, Tsinghua University, 
+Beijing 100084, China.
+(5)Dept. of Mathematics, University of Florida, FL 32611-8105, United States.
+
+Structural heterogeneity of particles can be investigated by their 
+three-dimensional principal components. This paper addresses the question of 
+whether, and with what algorithm, the three-dimensional principal components can 
+be directly recovered from cryo-EM images. The first part of the paper extends 
+the Fourier slice theorem to covariance functions showing that the 
+three-dimensional covariance, and hence the principal components, of a 
+heterogeneous particle can indeed be recovered from two-dimensional cryo-EM 
+images. The second part of the paper proposes a practical algorithm for 
+reconstructing the principal components directly from cryo-EM images without the 
+intermediate step of calculating covariances. This algorithm is based on 
+maximizing the posterior likelihood using the Expectation-Maximization 
+algorithm. The last part of the paper applies this algorithm to simulated data 
+and to two real cryo-EM data sets: a data set of the 70S ribosome with and 
+without Elongation Factor-G (EF-G), and a data set of the influenza virus RNA 
+dependent RNA Polymerase (RdRP). The first principal component of the 70S 
+ribosome data set reveals the expected conformational changes of the ribosome as 
+the EF-G binds and unbinds. The first principal component of the RdRP data set 
+reveals a conformational change in the two dimers of the RdRP.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsb.2015.05.007
+PMCID: PMC4536832
+PMID: 26049077 [Indexed for MEDLINE]

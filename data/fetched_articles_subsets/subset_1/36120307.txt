@@ -1,0 +1,58 @@
+1. Front Pharmacol. 2022 Sep 2;13:1003310. doi: 10.3389/fphar.2022.1003310. 
+eCollection 2022.
+
+Exploring the mechanism of action of licorice in the treatment of COVID-19 
+through bioinformatics analysis and molecular dynamics simulation.
+
+Cao JF(1)(2), Gong Y(3), Wu M(1), Yang X(1), Xiong L(1), Chen S(1), Xiao Z(3), 
+Li Y(3), Zhang L(4), Zan W(5), Zhang X(2).
+
+Author information:
+(1)Clinical Medicine, Chengdu Medical College, Chengdu, China.
+(2)Chengdu Medical College of Basic Medical Sciences, Chengdu, China.
+(3)Laboratory Medicine, Chengdu Medical College, Chengdu, China.
+(4)Yunnan Academy of Forestry Sciences, Kunming, China.
+(5)Chengdu Medical College of Pharmacy, Chengdu, China.
+
+Purpose: The rapid worldwide spread of Corona Virus Disease 2019 (COVID-19) has 
+become not only a global challenge, but also a lack of effective clinical 
+treatments. Studies have shown that licorice can significantly improve clinical 
+symptoms such as fever, dry cough and shortness of breath in COVID-19 patients 
+with no significant adverse effects. However, there is still a lack of in-depth 
+analysis of the specific active ingredients of licorice in the treatment of 
+COVID-19 and its mechanism of action. Therefore, we used molecular docking and 
+molecular dynamics to explore the mechanism of action of licorice in the 
+treatment of COVID-19. Methods: We used bioinformatics to screen active 
+pharmaceutical ingredients and potential targets, the disease-core gene 
+target-drug network was established and molecular docking was used for 
+verification. Molecular dynamics simulations were carried out to verify that 
+active ingredients were stably combined with protein targets. The supercomputer 
+platform was used to measure and analyze stability of protein targets at the 
+residue level, solvent accessible surface area, number of hydrogen bonds, radius 
+of gyration and binding free energy. Results: Licorice had 255 gene targets, 
+COVID-19 had 4,628 gene targets, the intersection gene targets were 101. Kyoto 
+Encyclopedia of Genes and Genomes (KEGG) and Gene ontology (GO) analysis showed 
+that licorice played an important role mainly through the signaling pathways of 
+inflammatory factors and oxidative stress. Molecular docking showed that 
+Glycyrol, Phaseol and Glyasperin F in licorice may playe a role in treating 
+COVID-19 by acting on STAT3, IL2RA, MMP1, and CXCL8. Molecular dynamics were 
+used to demonstrate and analyze the binding stability of active ingredients to 
+protein targets. Conclusion: This study found that Phaseol in licorice may 
+reduce inflammatory cell activation and inflammatory response by inhibiting the 
+activation of CXCL8 and IL2RA; Glycyrol may regulate cell proliferation and 
+survival by acting on STAT3. Glyasperin F may regulate cell growth by inhibiting 
+the activation of MMP1, thus reducing tissue damage and cell death caused by 
+excessive inflammatory response and promoting the growth of new tissues. 
+Therefore, licorice is proposed as an effective candidate for the treatment of 
+COVID-19 through STAT3, IL2RA, MMP1, and CXCL8.
+
+Copyright © 2022 Cao, Gong, Wu, Yang, Xiong, Chen, Xiao, Li, Zhang, Zan and 
+Zhang.
+
+DOI: 10.3389/fphar.2022.1003310
+PMCID: PMC9481297
+PMID: 36120307
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

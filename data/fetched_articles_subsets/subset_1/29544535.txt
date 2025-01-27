@@ -1,0 +1,66 @@
+1. Genome Med. 2018 Mar 15;10(1):18. doi: 10.1186/s13073-018-0529-2.
+
+From somatic variants towards precision oncology: Evidence-driven reporting of 
+treatment options in molecular tumor boards.
+
+Perera-Bel J(1), Hutter B(2), Heining C(3), Bleckmann A(1)(4), Fröhlich M(2), 
+Fröhling S(3)(5), Glimm H(5)(6), Brors B(2), Beißbarth T(7).
+
+Author information:
+(1)Department of Medical Statistics, University Medical Center Göttingen, 37073, 
+Göttingen, Germany.
+(2)Division Applied Bioinformatics, German Cancer Research Center (DKFZ) and 
+National Center for Tumor Diseases (NCT), 69120, Heidelberg, Germany.
+(3)Division Translational Oncology, National Center for Tumor Diseases (NCT) and 
+German Cancer Research Center (DKFZ), 69120, Heidelberg, Germany.
+(4)Department of Hematology and Medical Oncology, University Medical Center 
+Göttingen, 37075, Göttingen, Germany.
+(5)German Cancer Consortium (DKTK), 69120, Heidelberg, Germany.
+(6)Department of Translational Medical Oncology, NCT-Dresden, University 
+Hospital, Carl Gustav Carus, Technische Universität Dresden, 01307 Dresden and 
+DKFZ, Heidelberg, 69120, Germany.
+(7)Department of Medical Statistics, University Medical Center Göttingen, 37073, 
+Göttingen, Germany. Tim.Beissbarth@ams.med.uni-goettingen.de.
+
+BACKGROUND: A comprehensive understanding of cancer has been furthered with 
+technological improvements and decreasing costs of next-generation sequencing 
+(NGS). However, the complexity of interpreting genomic data is hindering the 
+implementation of high-throughput technologies in the clinical context: 
+increasing evidence on gene-drug interactions complicates the task of assigning 
+clinical significance to genomic variants.
+METHODS: Here we present a method that automatically matches patient-specific 
+genomic alterations to treatment options. The method relies entirely on public 
+knowledge of somatic variants with predictive evidence on drug response. The 
+output report is aimed at supporting clinicians in the task of finding the 
+clinical meaning of genomic variants. We applied the method to 1) The Cancer 
+Genome Atlas (TCGA) and Genomics Evidence Neoplasia Information Exchange (GENIE) 
+cohorts and 2) 11 patients from the NCT MASTER trial whose treatment discussions 
+included information on their genomic profiles.
+RESULTS: Our reporting strategy showed a substantial number of patients with 
+actionable variants in the analyses of TCGA and GENIE samples. Notably, it was 
+able to reproduce experts' treatment suggestions in a retrospective study of 11 
+patients from the NCT MASTER trial. Our results establish a proof of concept for 
+comprehensive, evidence-based reports as a supporting tool for discussing 
+treatment options in tumor boards.
+CONCLUSIONS: We believe that a standardized method to report actionable somatic 
+variants will smooth the incorporation of NGS in the clinical context. We 
+anticipate that tools like the one we present here will become essential in 
+summarizing for clinicians the growing evidence in the field of precision 
+medicine. The R code of the presented method is provided in Additional file 6 
+and available at https://github.com/jperera-bel/MTB-Report .
+
+DOI: 10.1186/s13073-018-0529-2
+PMCID: PMC5856211
+PMID: 29544535 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: All 
+patient data were obtained following written informed consent under the NCT 
+MASTER trial, an institutional review board-approved clinical sequencing program 
+for younger patients with advanced-stage hematological and oncological diseases 
+across all malignancies. The trial protocol was approved by the Ethics Committee 
+of Heidelberg University. Research within NCT MASTER was conducted in accordance 
+with the Declaration of Helsinki. CONSENT FOR PUBLICATION: Written informed 
+consent for publication was obtained under the NCT MASTER trial. COMPETING 
+INTERESTS: The authors declare that they have no competing interests. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.

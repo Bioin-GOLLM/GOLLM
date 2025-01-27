@@ -1,0 +1,28 @@
+1. IEEE Trans Inf Theory. 2011 Aug;57(8):5467-5484. doi:
+10.1109/TIT.2011.2158486.
+
+Non-Concave Penalized Likelihood with NP-Dimensionality.
+
+Fan J(1), Lv J.
+
+Author information:
+(1)Princeton University and University of Southern California.
+
+Penalized likelihood methods are fundamental to ultra-high dimensional variable 
+selection. How high dimensionality such methods can handle remains largely 
+unknown. In this paper, we show that in the context of generalized linear 
+models, such methods possess model selection consistency with oracle properties 
+even for dimensionality of Non-Polynomial (NP) order of sample size, for a class 
+of penalized likelihood approaches using folded-concave penalty functions, which 
+were introduced to ameliorate the bias problems of convex penalty functions. 
+This fills a long-standing gap in the literature where the dimensionality is 
+allowed to grow slowly with the sample size. Our results are also applicable to 
+penalized likelihood with the L(1)-penalty, which is a convex function at the 
+boundary of the class of folded-concave penalty functions under consideration. 
+The coordinate optimization is implemented for finding the solution paths, whose 
+performance is evaluated by a few simulation examples and the real data 
+analysis.
+
+DOI: 10.1109/TIT.2011.2158486
+PMCID: PMC3266747
+PMID: 22287795

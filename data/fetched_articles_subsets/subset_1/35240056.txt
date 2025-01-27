@@ -1,0 +1,73 @@
+1. Am J Hum Genet. 2022 Apr 7;109(4):647-668. doi: 10.1016/j.ajhg.2022.02.010.
+Epub  2022 Mar 2.
+
+The individual and global impact of copy-number variants on complex human 
+traits.
+
+Auwerx C(1), Lepamets M(2), Sadler MC(3), Patxot M(4), Stojanov M(5), Baud D(5), 
+Mägi R(6); Estonian Biobank Research Team(6); Porcu E(7), Reymond A(8), Kutalik 
+Z(9).
+
+Collaborators: Esko T, Metspalu A, Milani L, Mägi R, Nelis M.
+
+Author information:
+(1)Center for Integrative Genomics, University of Lausanne, Lausanne 1015, 
+Switzerland; Department of Computational Biology, University of Lausanne, 
+Lausanne 1015, Switzerland; Swiss Institute of Bioinformatics, Lausanne 1015, 
+Switzerland; University Center for Primary Care and Public Health, Lausanne 
+1010, Switzerland.
+(2)Institute of Molecular and Cell Biology, University of Tartu, Tartu 51010, 
+Estonia; Estonian Genome Centre, Institute of Genomics, University of Tartu, 
+Tartu 51010, Estonia.
+(3)Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland; University 
+Center for Primary Care and Public Health, Lausanne 1010, Switzerland.
+(4)Department of Computational Biology, University of Lausanne, Lausanne 1015, 
+Switzerland.
+(5)Materno-fetal and Obstetrics Research Unit, Department Woman-Mother-Child, 
+CHUV, Lausanne 1011, Switzerland.
+(6)Estonian Genome Centre, Institute of Genomics, University of Tartu, Tartu 
+51010, Estonia.
+(7)Center for Integrative Genomics, University of Lausanne, Lausanne 1015, 
+Switzerland; Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland; 
+University Center for Primary Care and Public Health, Lausanne 1010, 
+Switzerland.
+(8)Center for Integrative Genomics, University of Lausanne, Lausanne 1015, 
+Switzerland. Electronic address: alexandre.reymond@unil.ch.
+(9)Department of Computational Biology, University of Lausanne, Lausanne 1015, 
+Switzerland; Swiss Institute of Bioinformatics, Lausanne 1015, Switzerland; 
+University Center for Primary Care and Public Health, Lausanne 1010, 
+Switzerland. Electronic address: zoltan.kutalik@unil.ch.
+
+The impact of copy-number variations (CNVs) on complex human traits remains 
+understudied. We called CNVs in 331,522 UK Biobank participants and performed 
+genome-wide association studies (GWASs) between the copy number of CNV-proxy 
+probes and 57 continuous traits, revealing 131 signals spanning 47 phenotypes. 
+Our analysis recapitulated well-known associations (e.g., 1q21 and height), 
+revealed the pleiotropy of recurrent CNVs (e.g., 26 and 16 traits for 
+16p11.2-BP4-BP5 and 22q11.21, respectively), and suggested gene functionalities 
+(e.g., MARF1 in female reproduction). Forty-eight CNV signals (38%) overlapped 
+with single-nucleotide polymorphism (SNP)-GWASs signals for the same trait. For 
+instance, deletion of PDZK1, which encodes a urate transporter scaffold protein, 
+decreased serum urate levels, while deletion of RHD, which encodes the Rhesus 
+blood group D antigen, associated with hematological traits. Other signals 
+overlapped Mendelian disorder regions, suggesting variable expressivity and 
+broad impact of these loci, as illustrated by signals mapping to Rotor syndrome 
+(SLCO1B1/3), renal cysts and diabetes syndrome (HNF1B), or Charcot-Marie-Tooth 
+(PMP22) loci. Total CNV burden negatively impacted 35 traits, leading to 
+increased adiposity, liver/kidney damage, and decreased intelligence and 
+physical capacity. Thirty traits remained burden associated after correcting for 
+CNV-GWAS signals, pointing to a polygenic CNV architecture. The burden 
+negatively correlated with socio-economic indicators, parental lifespan, and age 
+(survivorship proxy), suggesting a contribution to decreased longevity. 
+Together, our results showcase how studying CNVs can expand biological insights, 
+emphasizing the critical role of this mutational class in shaping human traits 
+and arguing in favor of a continuum between Mendelian and complex diseases.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2022.02.010
+PMCID: PMC9069145
+PMID: 35240056 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

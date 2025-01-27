@@ -1,0 +1,72 @@
+1. J Biol Phys. 2021 Mar;47(1):61-77. doi: 10.1007/s10867-021-09565-w. Epub 2021 
+Mar 18.
+
+Non-extensitivity and criticality of atomic hydropathicity around a 
+voltage-gated sodium channel's pore: a modeling study.
+
+Xenakis MN(1)(2), Kapetis D(3), Yang Y(4)(5), Heijman J(6), Waxman SG(7)(8), 
+Lauria G(3)(9), Faber CG(10), Smeets HJ(11)(12), Lindsey PJ(11)(13), Westra 
+RL(14).
+
+Author information:
+(1)Department of Toxicogenomics, Section Clinical Genomics, Maastricht 
+University, PO Box 616, 6200 MD, Maastricht, The Netherlands. 
+mrksxenakis@gmail.com.
+(2)Research School for Mental Health and Neuroscience (MHeNS), Maastricht 
+University, PO Box 616, 6200 MD, Maastricht, The Netherlands. 
+mrksxenakis@gmail.com.
+(3)Neuroalgology Unit, Fondazione IRCCS Istituto Neurologico "Carlo Besta", via 
+Celoria 11, 20133, Milan, Italy.
+(4)Department of Medicinal Chemistry and Molecular Pharmacology, Purdue 
+University College of Pharmacy, West Lafayette, IN, 47907, USA.
+(5)Purdue Institute for Integrative Neuroscience, West Lafayette, IN, 47907, 
+USA.
+(6)Department of Cardiology, CARIM School for Cardiovascular Diseases, 
+Maastricht University, PO Box 616, 6200 MD, Maastricht, The Netherlands.
+(7)Department of Neurology and Center for Neuroscience and Regeneration 
+Research, Yale University School of Medicine, New Haven, CT, 06510, USA.
+(8)Rehabilitation Research Center, Veterans Affairs Connecticut Healthcare 
+System, West Haven, CT, 06516, USA.
+(9)Department of Biomedical and Clinical Sciences "Luigi Sacco", University of 
+Milan, via G.B. Grassi 74, 20157, Milan, Italy.
+(10)Department of Neurology, Maastricht University Medical Center, PO Box 5800, 
+6202 AZ, Maastricht, The Netherlands.
+(11)Department of Toxicogenomics, Section Clinical Genomics, Maastricht 
+University, PO Box 616, 6200 MD, Maastricht, The Netherlands.
+(12)Research School for Mental Health and Neuroscience (MHeNS), Maastricht 
+University, PO Box 616, 6200 MD, Maastricht, The Netherlands.
+(13)Research School for Oncology and Developmental Biology (GROW), Maastricht 
+University, PO Box 616, 6200 MD, Maastricht, The Netherlands.
+(14)Department of Data Science and Knowledge Engineering, Maastricht University, 
+PO Box 616, 6200 MD, Maastricht, The Netherlands.
+
+Erratum in
+    J Biol Phys. 2022 Dec;48(4):477-478. doi: 10.1007/s10867-022-09616-w.
+
+Voltage-gated sodium channels (NavChs) are pore-forming membrane proteins that 
+regulate the transport of sodium ions through the cell membrane. Understanding 
+the structure and function of NavChs is of major biophysical, as well as 
+clinical, importance given their key role in cellular pathophysiology. In this 
+work, we provide a computational framework for modeling system-size-dependent, 
+i.e., cumulative, atomic properties around a NavCh's pore. We illustrate our 
+methodologies on the bacterial NavAb channel captured in a closed-pore state 
+where we demonstrate that the atomic environment around its pore exhibits a 
+bi-phasic spatial organization dictated by the structural separation of the pore 
+domains (PDs) from the voltage-sensing domains (VSDs). Accordingly, a 
+mathematical model describing packing of atoms around NavAb's pore is 
+constructed that allows-under certain conservation conditions-for a power-law 
+approximation of the cumulative hydropathic dipole field effect acting along 
+NavAb's pore. This verified the non-extensitivity hypothesis for the closed-pore 
+NavAb channel and revealed a long-range hydropathic interactions law regulating 
+atom-packing around the NavAb's selectivity filter. Our model predicts a 
+PDs-VSDs coupling energy of [Formula: see text] kcal/mol corresponding to a 
+global maximum of the atom-packing energy profile. Crucially, we demonstrate for 
+the first time how critical phenomena can emerge in a single-channel structure 
+as a consequence of the non-extensive character of its atomic porous 
+environment.
+
+DOI: 10.1007/s10867-021-09565-w
+PMCID: PMC7981368
+PMID: 33735400 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no competing interests.

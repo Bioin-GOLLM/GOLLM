@@ -1,0 +1,48 @@
+1. bioRxiv [Preprint]. 2020 Jun 29:2020.03.30.016931. doi: 
+10.1101/2020.03.30.016931.
+
+Prioritization of SARS-CoV-2 epitopes using a pan-HLA and global population 
+inference approach.
+
+Campbell KM(1)(2)(3)(4), Steiner G(5)(2), Wells DK(5), Ribas A(1)(5)(6)(7), 
+Kalbasi A(6)(7)(8)(3).
+
+Author information:
+(1)Department of Medicine, Division of Hematology-Oncology, University of 
+California, Los Angeles (UCLA), Los Angeles, CA, 90095, USA.
+(2)These authors contributed equally to this work.
+(3)Senior author.
+(4)Lead Contact.
+(5)Parker Institute for Cancer Immunotherapy, San Francisco, CA, 94129, USA.
+(6)Department Surgery, Division of Surgical Oncology, University of California, 
+Los Angeles, Los Angeles, CA, USA.
+(7)Jonsson Comprehensive Cancer Center, Los Angeles, CA, USA.
+(8)Department of Radiation Oncology, UCLA, CA, 90095, USA.
+
+SARS-CoV-2 T cell response assessment and vaccine development may benefit from 
+an approach that considers the global landscape of the human leukocyte antigen 
+(HLA) proteins. We predicted the binding affinity between 9-mer and 15-mer 
+peptides from the SARS-CoV-2 peptidome for 9,360 class I and 8,445 class II HLA 
+alleles, respectively. We identified 368,145 unique combinations of peptide-HLA 
+complexes (pMHCs) with a predicted binding affinity less than 500nM, and 
+observed significant overlap between class I and II predicted pMHCs. Using 
+simulated populations derived from worldwide HLA frequency data, we identified 
+sets of epitopes predicted in at least 90% of the population in 57 countries. We 
+also developed a method to prioritize pMHCs for specific populations. 
+Collectively, this public dataset and accessible user interface (Shiny app: 
+https://rstudio-connect.parkerici.org/content/13/) can be used to explore the 
+SARS-CoV-2 epitope landscape in the context of diverse HLA types across global 
+populations.
+
+DOI: 10.1101/2020.03.30.016931
+PMCID: PMC7239055
+PMID: 32511325
+
+Conflict of interest statement: Declaration of Interests K.M.C is a shareholder 
+in Geneoscopy LLC. D.K.W. is a founder, equity holder and receives consulting 
+fees from Immunai. A.R. is supported by the National Institute of Health (R35 
+CA197633), the Ressler Family Fund, the Agilent Thought Leader Award, a Stand Up 
+to Cancer- Bristol-Meyer Squibb Catalyst Research Grant (Grant Number: 
+SU2C-AACR-CT06–17). This research grant is administered by the American 
+Association for Cancer Research, the scientific partner of SU2C. A.R. is a 
+member researcher at the Parker Institute for Cancer Immunotherapy.

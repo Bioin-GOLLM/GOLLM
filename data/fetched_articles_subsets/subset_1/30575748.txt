@@ -1,0 +1,32 @@
+1. Nat Commun. 2018 Dec 21;9(1):5415. doi: 10.1038/s41467-018-07899-z.
+
+A quasi-integral controller for adaptation of genetic modules to variable 
+ribosome demand.
+
+Huang HH(1), Qian Y(1), Del Vecchio D(2).
+
+Author information:
+(1)Massachusetts Institute of Technology, Department of Mechanical Engineering, 
+77 Massachusetts Avenue, Cambridge, MA, 02139, USA.
+(2)Massachusetts Institute of Technology, Department of Mechanical Engineering, 
+77 Massachusetts Avenue, Cambridge, MA, 02139, USA. ddv@mit.edu.
+
+The behavior of genetic circuits is often poorly predictable. A gene's 
+expression level is not only determined by the intended regulators, but also 
+affected by changes in ribosome availability imparted by expression of other 
+genes. Here we design a quasi-integral biomolecular feedback controller that 
+enables the expression level of any gene of interest (GOI) to adapt to changes 
+in available ribosomes. The feedback is implemented through a synthetic small 
+RNA (sRNA) that silences the GOI's mRNA, and uses orthogonal extracytoplasmic 
+function (ECF) sigma factor to sense the GOI's translation and to actuate sRNA 
+transcription. Without the controller, the expression level of the GOI is 
+reduced by 50% when a resource competitor is activated. With the controller, by 
+contrast, gene expression level is practically unaffected by the competitor. 
+This feedback controller allows adaptation of genetic modules to variable 
+ribosome demand and thus aids modular construction of complicated circuits.
+
+DOI: 10.1038/s41467-018-07899-z
+PMCID: PMC6303309
+PMID: 30575748 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

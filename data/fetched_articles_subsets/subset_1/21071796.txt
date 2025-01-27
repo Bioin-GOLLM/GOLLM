@@ -1,0 +1,32 @@
+1. IEEE/ACM Trans Comput Biol Bioinform. 2011 Jan-Mar;8(1):45-58. doi: 
+10.1109/TCBB.2009.57.
+
+F2Dock: fast Fourier protein-protein docking.
+
+Bajaj C(1), Chowdhury R, Siddavanahalli V.
+
+Author information:
+(1)Computational Visualization Center, Department of Computer Sciences and the 
+Institute of Computational Engineering and Sciences, University of Texas at 
+Austin, 1 University Station C0500, Austin, Texas 78712, USA. 
+bajaj@cs.utexas.edu
+
+The functions of proteins are often realized through their mutual interactions. 
+Determining a relative transformation for a pair of proteins and their 
+conformations which form a stable complex, reproducible in nature, is known as 
+docking. It is an important step in drug design, structure determination, and 
+understanding function and structure relationships. In this paper, we extend our 
+nonuniform fast Fourier transform-based docking algorithm to include an adaptive 
+search phase (both translational and rotational) and thereby speed up its 
+execution. We have also implemented a multithreaded version of the adaptive 
+docking algorithm for even faster execution on multicore machines. We call this 
+protein-protein docking code F2Dock (F2 = Fast Fourier). We have calibrated 
+F2Dock based on an extensive experimental study on a list of benchmark complexes 
+and conclude that F2Dock works very well in practice. Though all docking results 
+reported in this paper use shape complementarity and Coulombic-potential-based 
+scores only, F2Dock is structured to incorporate Lennard-Jones potential and 
+reranking docking solutions based on desolvation energy .
+
+DOI: 10.1109/TCBB.2009.57
+PMCID: PMC3058388
+PMID: 21071796 [Indexed for MEDLINE]

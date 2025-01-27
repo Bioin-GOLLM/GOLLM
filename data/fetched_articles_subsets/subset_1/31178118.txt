@@ -1,0 +1,44 @@
+1. Cell. 2019 Jun 13;177(7):1888-1902.e21. doi: 10.1016/j.cell.2019.05.031. Epub 
+2019 Jun 6.
+
+Comprehensive Integration of Single-Cell Data.
+
+Stuart T(1), Butler A(2), Hoffman P(1), Hafemeister C(1), Papalexi E(2), Mauck 
+WM 3rd(2), Hao Y(2), Stoeckius M(3), Smibert P(3), Satija R(4).
+
+Author information:
+(1)New York Genome Center, New York, NY, USA.
+(2)New York Genome Center, New York, NY, USA; Center for Genomics and Systems 
+Biology, New York University, New York, NY, USA.
+(3)Technology Innovation Lab, New York Genome Center, New York, NY, USA.
+(4)New York Genome Center, New York, NY, USA; Center for Genomics and Systems 
+Biology, New York University, New York, NY, USA. Electronic address: 
+rsatija@nygenome.org.
+
+Comment in
+    Cell. 2019 Jun 13;177(7):1677-1679. doi: 10.1016/j.cell.2019.05.034.
+
+Single-cell transcriptomics has transformed our ability to characterize cell 
+states, but deep biological understanding requires more than a taxonomic listing 
+of clusters. As new methods arise to measure distinct cellular modalities, a key 
+analytical challenge is to integrate these datasets to better understand 
+cellular identity and function. Here, we develop a strategy to "anchor" diverse 
+datasets together, enabling us to integrate single-cell measurements not only 
+across scRNA-seq technologies, but also across different modalities. After 
+demonstrating improvement over existing methods for integrating scRNA-seq data, 
+we anchor scRNA-seq experiments with scATAC-seq to explore chromatin differences 
+in closely related interneuron subsets and project protein expression 
+measurements onto a bone marrow atlas to characterize lymphocyte populations. 
+Lastly, we harmonize in situ gene expression and scRNA-seq datasets, allowing 
+transcriptome-wide imputation of spatial gene expression patterns. Our work 
+presents a strategy for the assembly of harmonized references and transfer of 
+information across datasets.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2019.05.031
+PMCID: PMC6687398
+PMID: 31178118 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

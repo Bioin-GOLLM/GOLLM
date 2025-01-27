@@ -1,0 +1,81 @@
+1. EBioMedicine. 2022 Aug;82:104165. doi: 10.1016/j.ebiom.2022.104165. Epub 2022 
+Jul 26.
+
+Genomic and epigenomic profiles distinguish pulmonary enteric adenocarcinoma 
+from lung metastatic colorectal cancer.
+
+Zuo Y(1), Zhong J(1), Bai H(1), Xu B(2), Wang Z(1), Li W(3), Chen Y(4), Jin 
+S(5), Wang S(6), Wang X(1), Wan R(1), Xu J(1), Fei K(1), Han J(7), Yang Z(8), 
+Bao H(4), Shao Y(9), Ying J(3), Song Q(10), Duan J(11), Wang J(12).
+
+Author information:
+(1)State Key Laboratory of Molecular Oncology, Department of Medical Oncology, 
+National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100021, China.
+(2)Cancer center, Renmin Hospital of Wuhan University, Wuhan, China.
+(3)Department of Pathology, National Cancer Center/National Clinical Research 
+Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and 
+Peking Union Medical College, Beijing, 100021, China.
+(4)Nanjing Geneseeq Technology Inc., Nanjing, China.
+(5)National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital & Shenzhen Hospital, Chinese Academy of Medical Sciences and Peking 
+Union Medical College, Shenzhen, 518116, China.
+(6)GCP Center, National Cancer Center/National Clinical Research Center for 
+Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union 
+Medical College, Beijing, 100021, China.
+(7)Department of Neuro-oncology, Cancer Center Beijing Tiantan Hospital, Capital 
+Medical University, China.
+(8)Thoracic Surgery Department, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, Beijing, 100021, China.
+(9)Nanjing Geneseeq Technology Inc., Nanjing, China; School of Public Health, 
+Nanjing Medical University, Nanjing, China.
+(10)Cancer center, Renmin Hospital of Wuhan University, Wuhan, China. Electronic 
+address: qibinsong@whu.edu.cn.
+(11)State Key Laboratory of Molecular Oncology, Department of Medical Oncology, 
+National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100021, China. Electronic address: duanjianchun79@163.com.
+(12)State Key Laboratory of Molecular Oncology, Department of Medical Oncology, 
+National Cancer Center/National Clinical Research Center for Cancer/Cancer 
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, 
+Beijing, 100021, China. Electronic address: zlhuxi@163.com.
+
+BACKGROUND: As a rare subtype of lung adenocarcinoma, the diagnosis of pulmonary 
+enteric adenocarcinoma (PEAC) remains challenging due to overlapping morphologic 
+spectrum with lung metastatic colorectal cancer (lmCRC). However, the molecular 
+features of PEAC as a separate lung cancer entity are poorly understood.
+METHODS: We performed whole-exome sequencing and targeted bisulfite sequencing 
+of 32 PEAC and 30 lmCRC to improve differential molecular characterization of 
+the two diseases. We used machine learning methods to select key markers and 
+developed a diagnostic classifier. In addition, we validated the classifier in 
+the internal test cohort and an independently recruited external validation 
+cohort with 17 PEAC and 7 lmCRC.
+FINDINGS: Our results showed that EGFR was the key driver mutation in PEAC but 
+at a lower prevalence compared to typical lung adenocarcinomas, whereas ERBB2 
+and KRAS were more frequently observed in PEAC. By contrast, we observed 
+significant enrichment of KRAS and APC mutations in lmCRC compared with PEAC. At 
+the chromosome arm level, copy number variations in 13q, 14q, and 18p were the 
+major chromosomal differences observed between PEAC and lmCRC. Furthermore, by 
+comparing differentially methylated regions (DMRs), we established a neat DNA 
+methylation-based classifier consisting of eight DMRs. This classifier correctly 
+classified all samples in the training cohort and 95% of the samples in the 
+internal test cohort. An external validation cohort of 24 cases recruited from 
+multiple centers in China also reliably agreed with pathological diagnosis.
+INTERPRETATION: These results provide solid evidence of PEAC-specific genomic 
+characteristics and demonstrate the potential utility of DNA methylation markers 
+for auxiliary diagnosis of PEAC and lmCRC.
+FUNDING: This work was supported by National key research and development 
+project 2019YFC1315700, CAMS Key Laboratory of Translational Research on Lung 
+Cancer (2018PT31035), and Beijing Natural Science Foundation (7222144).
+
+Copyright © 2022 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2022.104165
+PMCID: PMC9334343
+PMID: 35901658 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests YC, HB, and YS are 
+employees of Nanjing Geneseeq Technology Inc. Other authors declare no potential 
+conflicts of interest.

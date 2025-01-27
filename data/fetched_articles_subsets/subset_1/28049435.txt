@@ -1,0 +1,44 @@
+1. BMC Genomics. 2017 Jan 3;18(1):5. doi: 10.1186/s12864-016-3425-4.
+
+Detecting very low allele fraction variants using targeted DNA sequencing and a 
+novel molecular barcode-aware variant caller.
+
+Xu C(1), Nezami Ranjbar MR(2), Wu Z(2), DiCarlo J(2), Wang Y(3).
+
+Author information:
+(1)Life Science Research and Foundation, Qiagen Sciences, Inc., 6951 Executive 
+Way, Frederick, Maryland, 21703, USA. chang.xu@qiagen.com.
+(2)Life Science Research and Foundation, Qiagen Sciences, Inc., 6951 Executive 
+Way, Frederick, Maryland, 21703, USA.
+(3)Life Science Research and Foundation, Qiagen Sciences, Inc., 6951 Executive 
+Way, Frederick, Maryland, 21703, USA. yexun.wang@qiagen.com.
+
+BACKGROUND: Detection of DNA mutations at very low allele fractions with high 
+accuracy will significantly improve the effectiveness of precision medicine for 
+cancer patients. To achieve this goal through next generation sequencing, 
+researchers need a detection method that 1) captures rare mutation-containing 
+DNA fragments efficiently in the mix of abundant wild-type DNA; 2) sequences the 
+DNA library extensively to deep coverage; and 3) distinguishes low level true 
+variants from amplification and sequencing errors with high accuracy. Targeted 
+enrichment using PCR primers provides researchers with a convenient way to 
+achieve deep sequencing for a small, yet most relevant region using benchtop 
+sequencers. Molecular barcoding (or indexing) provides a unique solution for 
+reducing sequencing artifacts analytically. Although different molecular 
+barcoding schemes have been reported in recent literature, most variant calling 
+has been done on limited targets, using simple custom scripts. The analytical 
+performance of barcode-aware variant calling can be significantly improved by 
+incorporating advanced statistical models.
+RESULTS: We present here a highly efficient, simple and scalable enrichment 
+protocol that integrates molecular barcodes in multiplex PCR amplification. In 
+addition, we developed smCounter, an open source, generic, barcode-aware variant 
+caller based on a Bayesian probabilistic model. smCounter was optimized and 
+benchmarked on two independent read sets with SNVs and indels at 5 and 1% allele 
+fractions. Variants were called with very good sensitivity and specificity 
+within coding regions.
+CONCLUSIONS: We demonstrated that we can accurately detect somatic mutations 
+with allele fractions as low as 1% in coding regions using our enrichment 
+protocol and variant caller.
+
+DOI: 10.1186/s12864-016-3425-4
+PMCID: PMC5209917
+PMID: 28049435 [Indexed for MEDLINE]

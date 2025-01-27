@@ -1,0 +1,49 @@
+1. iScience. 2023 Mar 7;26(4):106324. doi: 10.1016/j.isci.2023.106324.
+eCollection  2023 Apr 21.
+
+Pseudotime dynamics of T cells in pancreatic ductal adenocarcinoma inform 
+distinct functional states within the regulatory and cytotoxic T cells.
+
+Jainarayanan A(1)(2), Mouroug-Anand N(3), Arbe-Barnes EH(4), Bush AJ(4), 
+Bashford-Rogers R(5), Frampton A(6), Heij L(7), Middleton M(8), Dustin ML(1), 
+Abu-Shah E(1)(9), Sivakumar S(1)(8).
+
+Author information:
+(1)Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, 
+Rheumatology and Musculoskeletal Sciences, University of Oxford, OX3 7FY Oxford, 
+UK.
+(2)Interdisciplinary Bioscience Doctoral Training Centre, University of Oxford, 
+OX1 3NP Oxford, UK.
+(3)Department of Biochemistry, University of Oxford, OX1 3QU Oxford, UK.
+(4)University of Oxford Medical School, OX3 9DU Oxford, UK.
+(5)Wellcome Trust Centre for Human Genetics, University of Oxford, OX3 7BN 
+Oxford, UK.
+(6)Department of Surgery, University of Surrey, Surrey, GU2 7XH Guildford, UK.
+(7)Department of Pathology, University of Aachen, 52062 Aachen, Germany.
+(8)Department of Oncology, University of Oxford, OX3 7DQ Oxford, UK.
+(9)Sir William Dunn School of Pathology, University of Oxford, OX1 3RE Oxford, 
+UK.
+
+Pancreatic ductal adenocarcinoma (PDAC) is among the deadliest types of cancer 
+and has a 5-year survival of less than 8% owing to its complex biology. As PDAC 
+is refractory to immunotherapy, we need to understand the functional dynamics of 
+T cells in the PDAC microenvironment to develop alternative therapeutic 
+strategies. In this study, we performed RNA velocity-based pseudotime analysis 
+on a scRNA-seq dataset from surgically resected human PDAC specimens to gain 
+insight into temporal gene expression patterns that best characterize the cell 
+fates. The tumor microenvironment was seen to encompass a range of terminal 
+states for the T cell trajectories with suppressive and non-tumor-responsive 
+T cells dominating them. However, the results also reveal the existence of a 
+functional branch of the T cell population that was not transitioning to 
+exhausted and senescent states. These findings reveal various microenvironmental 
+signals driving T cell patterns which can be useful in identifying new 
+therapeutic avenues.
+
+Crown Copyright © 2023.
+
+DOI: 10.1016/j.isci.2023.106324
+PMCID: PMC10034436
+PMID: 36968070
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare based on the scope of this work.

@@ -1,0 +1,43 @@
+1. Behav Res Methods. 2018 Dec;50(6):2480-2497. doi: 10.3758/s13428-018-1026-7.
+
+Development and validation of a high-speed stereoscopic eyetracker.
+
+Barsingerhorn AD(1)(2), Boonstra FN(3)(4)(5), Goossens J(3).
+
+Author information:
+(1)Department of Cognitive Neuroscience, Biophysics Section, Donders Institute 
+for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, 
+Nijmegen, The Netherlands. a.barsingerhorn@donders.ru.nl.
+(2)Department of Biophysics, Donders Institute for Brain, Cognition and 
+Behaviour, Radboud University Nijmegen, Nijmegen, The Netherlands. 
+a.barsingerhorn@donders.ru.nl.
+(3)Department of Cognitive Neuroscience, Biophysics Section, Donders Institute 
+for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, 
+Nijmegen, The Netherlands.
+(4)Royal Dutch Visio-National Foundation for the Visually Impaired and Blind, 
+Huizen, The Netherlands.
+(5)Bartiméus Institute for the Visually Impaired, Zeist, The Netherlands.
+
+Traditional video-based eyetrackers require participants to perform an 
+individual calibration procedure, which involves the fixation of multiple points 
+on a screen. However, certain participants (e.g., people with oculomotor and/or 
+visual problems or infants) are unable to perform this task reliably. Previous 
+work has shown that with two cameras one can estimate the orientation of the 
+eyes' optical axis directly. Consequently, only one calibration point is needed 
+to determine the deviation between an eye's optical and visual axes. We 
+developed a stereo eyetracker with two USB 3.0 cameras and two infrared light 
+sources that can track both eyes at ~ 350 Hz for eccentricities of up to 20°. A 
+user interface allows for online monitoring and threshold adjustments of the 
+pupil and corneal reflections. We validated this tracker by collecting eye 
+movement data from nine healthy participants and compared these data to eye 
+movement records obtained simultaneously with an established eyetracking system 
+(EyeLink 1000 Plus). The results demonstrated that the two-dimensional accuracy 
+of our portable system is better than 1°, allowing for at least ± 5-cm head 
+motion. Its resolution is better than 0.2° (SD), and its sample-to-sample noise 
+is less than 0.05° (RMS). We concluded that our stereo eyetracker is a valid 
+instrument, especially in settings in which individual calibration is 
+challenging.
+
+DOI: 10.3758/s13428-018-1026-7
+PMCID: PMC6267515
+PMID: 29508237 [Indexed for MEDLINE]

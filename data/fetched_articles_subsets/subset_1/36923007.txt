@@ -1,0 +1,33 @@
+1. Biochem Biophys Rep. 2023 Mar 6;34:101421. doi: 10.1016/j.bbrep.2023.101421. 
+eCollection 2023 Jul.
+
+A gene pathway enrichment method based on improved TF-IDF algorithm.
+
+Xu S(1)(2), Leng Y(1), Feng G(1), Zhang C(1), Chen M(1)(2).
+
+Author information:
+(1)College of Information Technology, Shanghai Ocean University, Shanghai, 
+201306, China.
+(2)Key Laboratory of Fisheries Information, Ministry of Agriculture, Shanghai, 
+201306, China.
+
+Gene pathway enrichment analysis is a widely used method to analyze whether a 
+gene set is statistically enriched on certain biological pathway network. 
+Current gene pathway enrichment methods commonly consider local importance of 
+genes in pathways without considering the interactions between genes. In this 
+paper, we propose a gene pathway enrichment method (GIGSEA) based on improved 
+TF-IDF algorithm. This method employs gene interaction data to calculate the 
+influence of genes based on the local importance in a pathway as well as the 
+global specificity. Computational experiment result shows that, compared with 
+traditional gene set enrichment analysis method, our proposed method in this 
+paper can find more specific enriched pathways related to phenotype with higher 
+efficiency.
+
+© 2023 The Authors.
+
+DOI: 10.1016/j.bbrep.2023.101421
+PMCID: PMC10009669
+PMID: 36923007
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

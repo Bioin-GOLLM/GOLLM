@@ -1,0 +1,45 @@
+1. STAR Protoc. 2023 Mar 17;4(1):101905. doi: 10.1016/j.xpro.2022.101905. Epub
+2022  Dec 17.
+
+Prediction and verification of glycosyltransferase activity by bioinformatics 
+analysis and protein engineering.
+
+Gerloff DL(1), Ilina EI(2), Cialini C(2), Mata Salcedo U(2), Mittelbronn M(3), 
+Müller T(4).
+
+Author information:
+(1)Foundation for Applied Molecular Evolution (FfAME), Alachua, FL 32615, USA.
+(2)Department of Cancer Research (DoCR), Luxembourg Institute of Health (LIH), 
+1526 Luxembourg, Luxembourg; Luxembourg Centre of Neuropathology (LCNP), 1526 
+Luxembourg, Luxembourg.
+(3)Department of Cancer Research (DoCR), Luxembourg Institute of Health (LIH), 
+1526 Luxembourg, Luxembourg; Luxembourg Centre of Neuropathology (LCNP), 1526 
+Luxembourg, Luxembourg; National Center of Pathology (NCP), Laboratoire National 
+de Santé (LNS), 3555 Dudelange, Luxembourg; Department of Life Sciences and 
+Medicine (DLSM), University of Luxembourg, 4365 Esch sur Alzette, Luxembourg; 
+Luxembourg Centre for Systems Biomedicine (LCSB), University of Luxembourg, 4365 
+Esch-sur-Alzette, Luxembourg; Faculty of Science, Technology and Medicine 
+(FSTM), University of Luxembourg, 4365 Esch-sur-Alzette, Luxembourg.
+(4)Department of Cancer Research (DoCR), Luxembourg Institute of Health (LIH), 
+1526 Luxembourg, Luxembourg; Luxembourg Centre of Neuropathology (LCNP), 1526 
+Luxembourg, Luxembourg. Electronic address: tanja.mueller@lih.lu.
+
+A significant number of proteins are annotated as functionally uncharacterized 
+proteins. Within this protocol, we describe how to use protein family multiple 
+sequence alignments and structural bioinformatics resources to design 
+loss-of-function mutations of previously uncharacterized proteins within the 
+glycosyltransferase family. We detail approaches to determine target protein 
+active sites using three-dimensional modeling. We generate active site mutants 
+and quantify any changes in enzymatic function by a glycosyltransferase assay. 
+With modifications, this protocol could be applied to other metal-dependent 
+enzymes. For complete details on the use and execution of this protocol, please 
+refer to Ilina et al. (2022).1.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.xpro.2022.101905
+PMCID: PMC9792956
+PMID: 36528856 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

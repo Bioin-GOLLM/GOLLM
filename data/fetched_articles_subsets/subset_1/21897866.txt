@@ -1,0 +1,45 @@
+1. PLoS One. 2011;6(8):e23989. doi: 10.1371/journal.pone.0023989. Epub 2011 Aug
+29.
+
+In silico approach to inhibition of signaling pathways of Toll-like receptors 2 
+and 4 by ST2L.
+
+Basith S(1), Manavalan B, Govindaraj RG, Choi S.
+
+Author information:
+(1)Department of Molecular Science and Technology, Ajou University, Suwon, 
+Korea.
+
+Toll-like receptors (TLRs) activate a potent immunostimulatory response. There 
+is clear evidence that overactivation of TLRs leads to infectious and 
+inflammatory diseases. Recent biochemical studies have shown that the 
+membrane-bound form of ST2 (ST2L), a member of the Toll-like/IL-1 receptor 
+superfamily, negatively regulates MyD88-dependent TLR signaling pathways by 
+sequestrating the adapters MyD88 and Mal (TIRAP). Specifically, ST2L attenuates 
+the recruitment of Mal and MyD88 adapters to their receptors through its 
+intracellular TIR domain. Thus, ST2L is a potent molecule that acts as a key 
+regulator of endotoxin tolerance and modulates innate immunity. So far, the 
+inhibitory mechanism of ST2L at the molecular level remains elusive. To develop 
+a working hypothesis for the interactions between ST2L, TLRs (TLR1, 2, 4, and 
+6), and adapter molecules (MyD88 and Mal), we constructed three-dimensional 
+models of the TIR domains of TLR4, 6, Mal, and ST2L based on homology modeling. 
+Since the crystal structures of the TIR domains of TLR1, 2 as well as the NMR 
+solution structure of MyD88 are known, we utilized these structures in our 
+analysis. The TIR domains of TLR1, 2, 4, 6, MyD88, Mal and ST2L were subjected 
+to molecular dynamics (MD) simulations in an explicit solvent environment. The 
+refined structures obtained from the MD simulations were subsequently used in 
+molecular docking studies to probe for potential sites of interactions. Through 
+protein-protein docking analysis, models of the essential complexes involved in 
+TLR2 and 4 signaling and ST2L inhibiting processes were developed. Our results 
+suggest that ST2L may exert its inhibitory effect by blocking the molecular 
+interface of Mal and MyD88 adapters mainly through its BB-loop region. Our 
+predicted oligomeric signaling models may provide a basis for the understanding 
+of the assembly process of TIR domain interactions, which has thus far proven to 
+be difficult via in vivo studies.
+
+DOI: 10.1371/journal.pone.0023989
+PMCID: PMC3163686
+PMID: 21897866 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

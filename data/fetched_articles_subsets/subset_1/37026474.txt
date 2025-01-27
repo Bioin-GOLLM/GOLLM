@@ -1,0 +1,40 @@
+1. Nucleic Acids Res. 2023 Jun 9;51(10):e56. doi: 10.1093/nar/gkad244.
+
+Insplico: effective computational tool for studying splicing order of adjacent 
+introns genome-wide with short and long RNA-seq reads.
+
+Gohr A(1), Iñiguez LP(1), Torres-Méndez A(1), Bonnal S(1), Irimia M(1)(2)(3).
+
+Author information:
+(1)Centre for Genomic Regulation (CRG), The Barcelona Institute of Science and 
+Technology, Barcelona, Spain.
+(2)Universitat Pompeu Fabra (UPF), Barcelona, Spain.
+(3)ICREA, Barcelona, Spain.
+
+Although splicing occurs largely co-transcriptionally, the order by which 
+introns are removed does not necessarily follow the order in which they are 
+transcribed. Whereas several genomic features are known to influence whether or 
+not an intron is spliced before its downstream neighbor, multiple questions 
+related to adjacent introns' splicing order (AISO) remain unanswered. Here, we 
+present Insplico, the first standalone software for quantifying AISO that works 
+with both short and long read sequencing technologies. We first demonstrate its 
+applicability and effectiveness using simulated reads and by recapitulating 
+previously reported AISO patterns, which unveiled overlooked biases associated 
+with long read sequencing. We next show that AISO around individual exons is 
+remarkably constant across cell and tissue types and even upon major 
+spliceosomal disruption, and it is evolutionarily conserved between human and 
+mouse brains. We also establish a set of universal features associated with AISO 
+patterns across various animal and plant species. Finally, we used Insplico to 
+investigate AISO in the context of tissue-specific exons, particularly focusing 
+on SRRM4-dependent microexons. We found that the majority of such microexons 
+have non-canonical AISO, in which the downstream intron is spliced first, and we 
+suggest two potential modes of SRRM4 regulation of microexons related to their 
+AISO and various splicing-related features. Insplico is available on 
+gitlab.com/aghr/insplico.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkad244
+PMCID: PMC10250204
+PMID: 37026474 [Indexed for MEDLINE]

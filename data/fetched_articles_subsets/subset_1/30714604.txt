@@ -1,0 +1,36 @@
+1. Lab Chip. 2019 Feb 26;19(5):778-788. doi: 10.1039/c8lc01200h.
+
+Modular soft robotic microdevices for dexterous biomanipulation.
+
+Özkale B(1), Parreira R, Bekdemir A, Pancaldi L, Özelçi E, Amadio C, Kaynak M, 
+Stellacci F, Mooney DJ, Sakar MS.
+
+Author information:
+(1)Institute of Mechanical Engineering and Institute of Bioengineering, Ecole 
+Polytechnique Federale de Lausanne (EPFL), CH-1015 Lausanne, Switzerland. 
+selman.sakar@epfl.ch.
+
+We present a methodology for building biologically inspired, soft 
+microelectromechanical systems (MEMS) devices. Our strategy combines several 
+advanced techniques including programmable colloidal self-assembly, 
+light-harvesting with plasmonic nanotransducers, and in situ polymerization of 
+compliant hydrogel mechanisms. We synthesize optomechanical microactuators using 
+a template-assisted microfluidic approach in which gold nanorods coated with 
+thermoresponsive poly(N-isopropylmethacrylamide) (pNIPMAM) polymer function as 
+nanoscale building blocks. The resulting microactuators exhibit mechanical 
+properties (4.8 ± 2.1 kPa stiffness) and performance metrics (relative stroke up 
+to 0.3 and stress up to 10 kPa) that are comparable to that of bioengineered 
+muscular constructs. Near-infrared (NIR) laser illumination provides effective 
+spatiotemporal control over actuation (sub-micron spatial resolution at 
+millisecond temporal resolution). Spatially modulated hydrogel photolithography 
+guided by an experimentally validated finite element-based design methodology 
+allows construction of compliant poly(ethylene glycol) diacrylate (PEGDA) 
+mechanisms around the microactuators. We demonstrate the versatility of our 
+approach by manufacturing a diverse array of microdevices including lever arms, 
+continuum microrobots, and dexterous microgrippers. We present a microscale 
+compression device that is developed for mechanical testing of three-dimensional 
+biological samples such as spheroids under physiological conditions.
+
+DOI: 10.1039/c8lc01200h
+PMCID: PMC6394202
+PMID: 30714604 [Indexed for MEDLINE]

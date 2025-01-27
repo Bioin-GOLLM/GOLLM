@@ -1,0 +1,84 @@
+1. Acta Neuropathol. 2022 Jan;143(1):93-104. doi: 10.1007/s00401-021-02386-0.
+Epub  2021 Nov 19.
+
+DNA methylation-based classification of malformations of cortical development in 
+the human brain.
+
+Jabari S(#)(1), Kobow K(#)(2), Pieper T(3), Hartlieb T(3)(4), Kudernatsch 
+M(5)(4), Polster T(6), Bien CG(6), Kalbhenn T(7), Simon M(7), Hamer H(8), 
+Rössler K(9)(10), Feucht M(11), Mühlebner A(12)(13), Najm I(14)(15), 
+Peixoto-Santos JE(16), Gil-Nagel A(17), Delgado RT(17), Aledo-Serrano A(17), Hou 
+Y(18)(19), Coras R(1), von Deimling A(#)(18), Blümcke I(#)(1).
+
+Author information:
+(1)Department of Neuropathology, Affiliated Partner of the ERN EpiCARE, 
+Universitätsklinikum Erlangen, Friedrich-Alexander University Erlangen-Nürnberg 
+(FAU), Erlangen, Germany.
+(2)Department of Neuropathology, Affiliated Partner of the ERN EpiCARE, 
+Universitätsklinikum Erlangen, Friedrich-Alexander University Erlangen-Nürnberg 
+(FAU), Erlangen, Germany. katja.kobow@uk-erlangen.de.
+(3)Center for Pediatric Neurology, Neurorehabilitation and Epileptology, 
+Vogtareuth, Germany.
+(4)Research Institute, Rehabilitation, Transition, Palliation", PMU Salzburg, 
+Salzburg, Austria.
+(5)Center for Neurosurgery and Epilepsy Surgery, Schön Klinik Vogtareuth, 
+Vogtareuth, Germany.
+(6)Department of Epileptology (Krankenhaus Mara), Medical School, Bielefeld 
+University, Bielefeld, Germany.
+(7)Department of Neurosurgery - Epilepsy Surgery, Evangelisches Klinikum Bethel, 
+Universitätsklinikum OWL, Bielefeld University, Bielefeld, Germany.
+(8)Department of Neurology, Epilepsy Center, Universitätsklinikum Erlangen, 
+Friedrich-Alexander University Erlangen-Nürnberg (FAU), Erlangen, Germany.
+(9)Department of Neurosurgery, Universitätsklinikum Erlangen, 
+Friedrich-Alexander University Erlangen-Nürnberg (FAU), Erlangen, Germany.
+(10)Department of Neurosurgery, Medical University Vienna, Vienna, Austria.
+(11)Department of Pediatrics and Adolescent Medicine, Affiliated Partner of the 
+ERN EpiCARE, Medical University Vienna, Vienna, Austria.
+(12)Department of Pathology, University Medical Center Utrecht, Utrecht, The 
+Netherlands.
+(13)Department of (Neuro) Pathology, Amsterdam UMC, Location AMC, Amsterdam, The 
+Netherlands.
+(14)Charles Shor Epilepsy Center, Cleveland Clinic, Cleveland, OH, USA.
+(15)Department of Neurology, Cleveland Clinic, Cleveland, OH, USA.
+(16)Department of Neurology and Neurosurgery, Paulista Medical School, UNIFESP, 
+Sao Paulo, Brazil.
+(17)Epilepsy Program, Hospital Ruber Internacional, Madrid, Spain.
+(18)Department of Neuropathology, German Cancer Research Center (DKFZ), 
+Universitätsklinikum Heidelberg, and CCU Neuropathology, Heidelberg, Germany.
+(19)Institute of Pathology and Southwest Cancer Center, Southwest Hospital, 
+Third Military Medical University (Army Medical University), Chongqing, China.
+(#)Contributed equally
+
+Malformations of cortical development (MCD) comprise a broad spectrum of 
+structural brain lesions frequently associated with epilepsy. Disease definition 
+and diagnosis remain challenging and are often prone to arbitrary judgment. 
+Molecular classification of histopathological entities may help rationalize the 
+diagnostic process. We present a retrospective, multi-center analysis of 
+genome-wide DNA methylation from human brain specimens obtained from epilepsy 
+surgery using EPIC 850 K BeadChip arrays. A total of 308 samples were included 
+in the study. In the reference cohort, 239 formalin-fixed and paraffin-embedded 
+(FFPE) tissue samples were histopathologically classified as MCD, including 12 
+major subtype pathologies. They were compared to 15 FFPE samples from surgical 
+non-MCD cortices and 11 FFPE samples from post-mortem non-epilepsy controls. We 
+applied three different statistical approaches to decipher the DNA methylation 
+pattern of histopathological MCD entities, i.e., pairwise comparison, machine 
+learning, and deep learning algorithms. Our deep learning model, which 
+represented a shallow neuronal network, achieved the highest level of accuracy. 
+A test cohort of 43 independent surgical samples from different epilepsy centers 
+was used to test the precision of our DNA methylation-based MCD classifier. All 
+samples from the test cohort were accurately assigned to their disease classes 
+by the algorithm. These data demonstrate DNA methylation-based MCD 
+classification suitability across major histopathological entities amenable to 
+epilepsy surgery and age groups and will help establish an integrated diagnostic 
+classification scheme for epilepsy-associated MCD.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s00401-021-02386-0
+PMCID: PMC8732912
+PMID: 34797422 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors have a conflict of interest 
+to disclose. Ingmar Blümcke and Andreas von Deimling are members of Acta 
+Neuropathologica’s Editorial Board. They were not involved in the assessment or 
+decision-making process for this manuscript.

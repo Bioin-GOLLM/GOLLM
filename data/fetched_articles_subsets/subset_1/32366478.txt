@@ -1,0 +1,50 @@
+1. Cancer Res. 2020 Jul 1;80(13):2775-2789. doi: 10.1158/0008-5472.CAN-19-3278. 
+Epub 2020 May 4.
+
+A Premalignant Cell-Based Model for Functionalization and Classification of PTEN 
+Variants.
+
+Chao JT(1), Hollman R(1), Meyers WM(1), Meili F(1), Matreyek KA(2)(3), Dean 
+P(1), Fowler DM(3)(4), Haas K(1), Roskelley CD(1), Loewen CJR(5).
+
+Author information:
+(1)Department of Cellular and Physiological Sciences, Life Sciences Institute, 
+University of British Columbia, Vancouver, Canada.
+(2)Department of Pathology, Case Western Reserve University School of Medicine, 
+Cleveland, Ohio.
+(3)Department of Genome Sciences, University of Washington, Seattle, Washington.
+(4)Department of Bioengineering, University of Washington, Seattle, Washington.
+(5)Department of Cellular and Physiological Sciences, Life Sciences Institute, 
+University of British Columbia, Vancouver, Canada. cloewen@mail.ubc.ca.
+
+As sequencing becomes more economical, we are identifying sequence variations in 
+the population faster than ever. For disease-associated genes, it is imperative 
+that we differentiate a sequence variant as either benign or pathogenic, such 
+that the appropriate therapeutic interventions or surveillance can be 
+implemented. PTEN is a frequently mutated tumor suppressor that has been linked 
+to the PTEN hamartoma tumor syndrome. Although the domain structure of PTEN and 
+the functional impact of a number of its most common tumor-linked mutations have 
+been characterized, there is a lack of information about many recently 
+identified clinical variants. To address this challenge, we developed a 
+cell-based assay that utilizes a premalignant phenotype of normal mammary 
+epithelial cells lacking PTEN. We measured the ability of PTEN variants to 
+rescue the spheroid formation phenotype of PTEN-/- MCF10A cells maintained in 
+suspension. As proof of concept, we functionalized 47 missense variants using 
+this assay, only 19 of which have clear classifications in ClinVar. We utilized 
+a machine learning model trained with annotated genotypic data to classify 
+variants as benign or pathogenic based on our functional scores. Our model 
+predicted with high accuracy that loss of PTEN function was indicative of 
+pathogenicity. We also determined that the pathogenicity of certain variants may 
+have arisen from reduced stability of the protein product. Overall, this assay 
+outperformed computational predictions, was scalable, and had a short run time, 
+serving as an ideal alternative for annotating the clinical significance of 
+cancer-associated PTEN variants. SIGNIFICANCE: Combined three-dimensional tumor 
+spheroid modeling and machine learning classifies PTEN missense variants, over 
+70% of which are currently listed as variants of uncertain significance. 
+GRAPHICAL ABSTRACT: 
+http://cancerres.aacrjournals.org/content/canres/80/13/2775/F1.large.jpg.
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/0008-5472.CAN-19-3278
+PMID: 32366478 [Indexed for MEDLINE]

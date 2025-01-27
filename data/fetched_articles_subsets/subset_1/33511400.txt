@@ -1,0 +1,42 @@
+1. Nucleic Acids Res. 2021 May 7;49(8):e43. doi: 10.1093/nar/gkab009.
+
+Single cell epigenetic visualization assay.
+
+Kint S(1)(2), Van Criekinge W(1), Vandekerckhove L(2), De Vos WH(3), Bomsztyk 
+K(4), Krause DS(5), Denisenko O(4).
+
+Author information:
+(1)Department of Data Analysis and Mathematical Modeling, Ghent University, 
+Ghent, Belgium.
+(2)Department of Internal Medicine and Pediatrics, Ghent University, Ghent, 
+Belgium.
+(3)Department of Veterinary Sciences, University of Antwerp, Antwerp, Belgium.
+(4)Department of Medicine, University of Washington, Seattle, WA 98109, USA.
+(5)Depts. of Laboratory Medicine, Pathology and Cell Biology; Yale Stem Cell 
+Center, Yale University, New Haven, CT 06520, USA.
+
+Characterization of the epigenetic status of individual cells remains a 
+challenge. Current sequencing approaches have limited coverage, and it is 
+difficult to assign an epigenetic status to the transcription state of 
+individual gene alleles in the same cell. To address these limitations, a 
+targeted microscopy-based epigenetic visualization assay (EVA) was developed for 
+detection and quantification of epigenetic marks at genes of interest in single 
+cells. The assay is based on an in situ biochemical reaction between an 
+antibody-conjugated alkaline phosphatase bound to the epigenetic mark of 
+interest, and a 5'-phosphorylated fluorophore-labeled DNA oligo tethered to a 
+target gene by gene-specific oligonucleotides. When the epigenetic mark is 
+present at the gene, phosphate group removal by the phosphatase protects the 
+oligo from λ-exonuclease activity providing a quantitative fluorescent readout. 
+We applied EVA to measure 5-methylcytosine (5mC) and H3K9Ac levels at different 
+genes and the HIV-1 provirus in human cell lines. To link epigenetic marks to 
+gene transcription, EVA was combined with RNA-FISH. Higher 5mC levels at the 
+silenced compared to transcribed XIST gene alleles in female somatic cells 
+validated this approach and demonstrated that EVA can be used to relate 
+epigenetic marks to the transcription status of individual gene alleles.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkab009
+PMCID: PMC8096246
+PMID: 33511400 [Indexed for MEDLINE]

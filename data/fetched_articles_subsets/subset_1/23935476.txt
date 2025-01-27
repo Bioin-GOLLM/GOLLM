@@ -1,0 +1,40 @@
+1. PLoS Comput Biol. 2013;9(7):e1003161. doi: 10.1371/journal.pcbi.1003161. Epub 
+2013 Jul 25.
+
+Cell-cycle dependence of transcription dominates noise in gene expression.
+
+Zopf CJ(1), Quinn K, Zeidman J, Maheshri N.
+
+Author information:
+(1)Department of Chemical Engineering, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts, United States of America.
+
+Comment in
+    Nat Rev Genet. 2013 Sep;14(9):596. doi: 10.1038/nrg3558.
+
+The large variability in mRNA and protein levels found from both static and 
+dynamic measurements in single cells has been largely attributed to random 
+periods of transcription, often occurring in bursts. The cell cycle has a 
+pronounced global role in affecting transcriptional and translational output, 
+but how this influences transcriptional statistics from noisy promoters is 
+unknown and generally ignored by current stochastic models. Here we show that 
+variable transcription from the synthetic tetO promoter in S. cerevisiae is 
+dominated by its dependence on the cell cycle. Real-time measurements of 
+fluorescent protein at high expression levels indicate tetO promoters increase 
+transcription rate ∼2-fold in S/G2/M similar to constitutive genes. At low 
+expression levels, where tetO promoters are thought to generate infrequent 
+bursts of transcription, we observe random pulses of expression restricted to 
+S/G2/M, which are correlated between homologous promoters present in the same 
+cell. The analysis of static, single-cell mRNA measurements at different points 
+along the cell cycle corroborates these findings. Our results demonstrate that 
+highly variable mRNA distributions in yeast are not solely the result of 
+randomly switching between periods of active and inactive gene expression, but 
+instead largely driven by differences in transcriptional activity between G1 and 
+S/G2/M.
+
+DOI: 10.1371/journal.pcbi.1003161
+PMCID: PMC3723585
+PMID: 23935476 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

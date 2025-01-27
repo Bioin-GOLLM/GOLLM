@@ -1,0 +1,103 @@
+1. Front Behav Neurosci. 2021 Sep 24;15:735387. doi: 10.3389/fnbeh.2021.735387. 
+eCollection 2021.
+
+Measuring Behavior in the Home Cage: Study Design, Applications, Challenges, and 
+Perspectives.
+
+Grieco F(1), Bernstein BJ(2), Biemans B(3), Bikovski L(4)(5), Burnett CJ(6), 
+Cushman JD(2), van Dam EA(1), Fry SA(2), Richmond-Hacham B(7), Homberg JR(8), 
+Kas MJH(9), Kessels HW(10), Koopmans B(11), Krashes MJ(12), Krishnan V(13), 
+Logan S(14), Loos M(11), McCann KE(2), Parduzi Q(3), Pick CG(7)(15)(16), Prevot 
+TD(17), Riedel G(18), Robinson L(18), Sadighi M(8), Smit AB(19), Sonntag W(20), 
+Roelofs RF(1), Tegelenbosch RAJ(1), Noldus LPJJ(1)(21).
+
+Author information:
+(1)Noldus Information Technology BV, Wageningen, Netherlands.
+(2)Neurobiology Laboratory, National Institute of Environmental Health Sciences, 
+National Institutes of Health, Research Triangle Park, NC, United States.
+(3)Roche Innovation Center Basel, Basel, Switzerland.
+(4)Myers Neuro-Behavioral Core Facility, Sackler Faculty of Medicine, Tel Aviv 
+University, Tel Aviv, Israel.
+(5)School of Behavioral Sciences, Netanya Academic College, Netanya, Israel.
+(6)Nash Family Department of Neuroscience, Icahn School of Medicine at Mount 
+Sinai, New York, NY, United States.
+(7)Department of Anatomy and Anthropology, Sackler School of Medicine, Tel Aviv 
+University, Tel Aviv, Israel.
+(8)Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition 
+and Behaviour, Radboud University Nijmegen Medical Centre, Nijmegen, 
+Netherlands.
+(9)Groningen Institute for Evolutionary Life Sciences, University of Groningen, 
+Groningen, Netherlands.
+(10)Swammerdam Institute for Life Sciences, University of Amsterdam, Amsterdam, 
+Netherlands.
+(11)Sylics (Synaptologics BV), Amsterdam, Netherlands.
+(12)National Institute of Diabetes and Digestive and Kidney Diseases, National 
+Institutes of Health, Bethesda, MD, United States.
+(13)Laboratory of Epilepsy and Emotional Behavior, Baylor Comprehensive Epilepsy 
+Center, Departments of Neurology, Neuroscience, and Psychiatry & Behavioral 
+Sciences, Baylor College of Medicine, Houston, TX, United States.
+(14)Department of Rehabilitation Sciences, College of Allied Health, University 
+of Oklahoma Health Sciences Center, Oklahoma City, OK, United States.
+(15)Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel.
+(16)The Dr. Miriam and Sheldon G. Adelson Chair and Center for the Biology of 
+Addictive Diseases, Tel Aviv University, Tel Aviv, Israel.
+(17)Centre for Addiction and Mental Health and Department of Psychiatry, 
+University of Toronto, Toronto, ON, Canada.
+(18)Institute of Medical Sciences, University of Aberdeen, Aberdeen, United 
+Kingdom.
+(19)Department of Molecular and Cellular Neurobiology, Center for Neurogenomics 
+and Cognitive Research, VU University Amsterdam, Amsterdam, Netherlands.
+(20)Department of Biochemistry & Molecular Biology, Center for Geroscience, 
+University of Oklahoma Health Sciences Center, Oklahoma City, OK, United States.
+(21)Department of Biophysics, Donders Institute for Brain, Cognition and 
+Behaviour, Radboud University, Nijmegen, Netherlands.
+
+The reproducibility crisis (or replication crisis) in biomedical research is a 
+particularly existential and under-addressed issue in the field of behavioral 
+neuroscience, where, in spite of efforts to standardize testing and assay 
+protocols, several known and unknown sources of confounding environmental 
+factors add to variance. Human interference is a major contributor to 
+variability both within and across laboratories, as well as novelty-induced 
+anxiety. Attempts to reduce human interference and to measure more "natural" 
+behaviors in subjects has led to the development of automated home-cage 
+monitoring systems. These systems enable prolonged and longitudinal recordings, 
+and provide large continuous measures of spontaneous behavior that can be 
+analyzed across multiple time scales. In this review, a diverse team of 
+neuroscientists and product developers share their experiences using such an 
+automated monitoring system that combines Noldus PhenoTyper® home-cages and the 
+video-based tracking software, EthoVision® XT, to extract digital biomarkers of 
+motor, emotional, social and cognitive behavior. After presenting our working 
+definition of a "home-cage", we compare home-cage testing with more conventional 
+out-of-cage tests (e.g., the open field) and outline the various advantages of 
+the former, including opportunities for within-subject analyses and assessments 
+of circadian and ultradian activity. Next, we address technical issues 
+pertaining to the acquisition of behavioral data, such as the fine-tuning of the 
+tracking software and the potential for integration with biotelemetry and 
+optogenetics. Finally, we provide guidance on which behavioral measures to 
+emphasize, how to filter, segment, and analyze behavior, and how to use analysis 
+scripts. We summarize how the PhenoTyper has applications to study 
+neuropharmacology as well as animal models of neurodegenerative and 
+neuropsychiatric illness. Looking forward, we examine current challenges and the 
+impact of new developments. Examples include the automated recognition of 
+specific behaviors, unambiguous tracking of individuals in a social context, the 
+development of more animal-centered measures of behavior and ways of dealing 
+with large datasets. Together, we advocate that by embracing standardized 
+home-cage monitoring platforms like the PhenoTyper, we are poised to directly 
+assess issues pertaining to reproducibility, and more importantly, measure 
+features of rodent behavior under more ethologically relevant scenarios.
+
+Copyright © 2021 Grieco, Bernstein, Biemans, Bikovski, Burnett, Cushman, van 
+Dam, Fry, Richmond-Hacham, Homberg, Kas, Kessels, Koopmans, Krashes, Krishnan, 
+Logan, Loos, McCann, Parduzi, Pick, Prevot, Riedel, Robinson, Sadighi, Smit, 
+Sonntag, Roelofs, Tegelenbosch and Noldus.
+
+DOI: 10.3389/fnbeh.2021.735387
+PMCID: PMC8498589
+PMID: 34630052
+
+Conflict of interest statement: BB and QP were employed by F. Hoffman-La Roche 
+Ltd. BK and ML are employed by Synaptologics BV. ED, FG, LN, RFR, and RT are 
+employed by Noldus Information Technology BV. AS participates in a holding that 
+owns shares of Synaptologics BV. The remaining authors declare that the research 
+was conducted in the absence of any commercial or financial relationships that 
+could be construed as a potential conflict of interest.

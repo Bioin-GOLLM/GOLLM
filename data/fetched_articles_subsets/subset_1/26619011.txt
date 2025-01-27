@@ -1,0 +1,54 @@
+1. Nat Biotechnol. 2016 Feb;34(2):155-63. doi: 10.1038/nbt.3391. Epub 2015 Nov
+30.
+
+Identifying recurrent mutations in cancer reveals widespread lineage diversity 
+and mutational specificity.
+
+Chang MT(1)(2)(3), Asthana S(4), Gao SP(1), Lee BH(5), Chapman JS(6), Kandoth 
+C(7), Gao J(7), Socci ND(7)(8), Solit DB(1)(7)(9)(10), Olshen AB(11)(12), 
+Schultz N(2)(7), Taylor BS(1)(2)(7).
+
+Author information:
+(1)Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer 
+Center, New York, New York, USA.
+(2)Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer 
+Center, New York, New York, USA.
+(3)Departments of Bioengineering and Therapeutic Sciences, University of 
+California, San Francisco, California, USA.
+(4)Department of Medicine, University of California, San Francisco, California, 
+USA.
+(5)Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New 
+York, USA.
+(6)Department of Obstetrics, Gynecology and Reproductive Sciences, University of 
+California, San Francisco, California, USA.
+(7)Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan 
+Kettering Cancer Center, New York, New York, USA.
+(8)Bioinformatics Core, Memorial Sloan Kettering Cancer Center, New York, New 
+York, USA.
+(9)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, New 
+York, USA.
+(10)Weill Cornel Medical College, Cornell University, New York, New York, USA.
+(11)Epidemiology and Biostatistics, University of California, San Francisco, 
+California, USA.
+(12)Helen Diller Family Comprehensive Cancer Center, University of California, 
+San Francisco, California, USA.
+
+Mutational hotspots indicate selective pressure across a population of tumor 
+samples, but their prevalence within and across cancer types is incompletely 
+characterized. An approach to detect significantly mutated residues, rather than 
+methods that identify recurrently mutated genes, may uncover new biologically 
+and therapeutically relevant driver mutations. Here, we developed a statistical 
+algorithm to identify recurrently mutated residues in tumor samples. We applied 
+the algorithm to 11,119 human tumors, spanning 41 cancer types, and identified 
+470 somatic substitution hotspots in 275 genes. We find that half of all human 
+tumors possess one or more mutational hotspots with widespread lineage-, 
+position- and mutant allele-specific differences, many of which are likely 
+functional. In total, 243 hotspots were novel and appeared to affect a broad 
+spectrum of molecular function, including hotspots at paralogous residues of 
+Ras-related small GTPases RAC1 and RRAS2. Redefining hotspots at mutant amino 
+acid resolution will help elucidate the allele-specific differences in their 
+function and could have important therapeutic implications.
+
+DOI: 10.1038/nbt.3391
+PMCID: PMC4744099
+PMID: 26619011 [Indexed for MEDLINE]

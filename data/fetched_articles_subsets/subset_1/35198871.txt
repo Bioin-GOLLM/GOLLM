@@ -1,0 +1,46 @@
+1. iScience. 2022 Jan 25;25(2):103806. doi: 10.1016/j.isci.2022.103806.
+eCollection  2022 Feb 18.
+
+TRACE-seq: A transgenic system for unbiased and non-invasive transcriptome 
+profiling of living cells.
+
+Cherbonneau F(1)(2), Li G(2), Gokulnath P(2), Sahu P(2), Prunevieille A(3)(4), 
+Kitchen R(2), Benichou G(4), Larghero J(1), Domian I(2), Das S(2).
+
+Author information:
+(1)Université de Paris, AP-HP, Hôpital Saint-Louis, Unité de Thérapie 
+Cellulaire, U976, CICBT CBT501, INSERM, Paris, France.
+(2)Cardiovascular Research Center, Massachusetts General Hospital, Harvard 
+Medical School, 185 Cambridge Street, Simches 3(rd.) Floor, Boston, MA 02114, 
+USA.
+(3)Université de Paris, AP-HP, Hôpital Saint-Louis, Human Immunology and 
+Immunopathology, UMR976, INSERM, Paris, France.
+(4)Transplant Research Center, Department of Surgery, Center for Transplantation 
+Sciences, Massachusetts General Hospital and Harvard Medical School, Boston, MA 
+02114, USA.
+
+Dynamic profiling of changes in gene expression in response to stressors in 
+specific microenvironments without requiring cellular destruction remains 
+challenging. Current methodologies that seek to interrogate gene expression at a 
+molecular level require sampling of cellular transcriptome and therefore lysis 
+of the cell, preventing serial analysis of cellular transcriptome. To address 
+this area of unmet need, we have recently developed a technology allowing 
+transcriptomic analysis over time without cellular destruction. Our method, 
+TRACE-seq (TRanscriptomic Analysis Captured in Extracellular vesicles using 
+sequencing), is characterized by a cell-type specific transgene expression. It 
+provides data on the transcriptome inside extracellular vesicles that provides 
+an accurate representation of stress-responsive cellular transcriptomic changes. 
+Thus, the transcriptome of cells expressing TRACE can be followed over time 
+without destroying the source cell, which is a powerful tool for many fields of 
+fundamental and translational biology research.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.isci.2022.103806
+PMCID: PMC8844816
+PMID: 35198871
+
+Conflict of interest statement: Francois Cherbonneau and Aurore Prunevieille are 
+founders of QUIDDITAS Therapeutics which did not play any role in this study. 
+Dr. Das is a founder of Switch Therapeutics and Long QT Therapeutics, which did 
+not play any role in this study, and has consulted for Amgen.

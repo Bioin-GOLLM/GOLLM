@@ -1,0 +1,32 @@
+1. Nucleic Acids Res. 2018 Jan 25;46(2):e10. doi: 10.1093/nar/gkx1054.
+
+Partial bisulfite conversion for unique template sequencing.
+
+Kumar V(1), Rosenbaum J(1), Wang Z(1), Forcier T(1), Ronemus M(1), Wigler M(1), 
+Levy D(1).
+
+Author information:
+(1)Cold Spring Harbor Laboratory, 1 Bungtown Road, Cold Spring Harbor, NY 11724 
+USA.
+
+We introduce a new protocol, mutational sequencing or muSeq, which uses sodium 
+bisulfite to randomly deaminate unmethylated cytosines at a fixed and tunable 
+rate. The muSeq protocol marks each initial template molecule with a unique 
+mutation signature that is present in every copy of the template, and in every 
+fragmented copy of a copy. In the sequenced read data, this signature is 
+observed as a unique pattern of C-to-T or G-to-A nucleotide conversions. 
+Clustering reads with the same conversion pattern enables accurate count and 
+long-range assembly of initial template molecules from short-read sequence data. 
+We explore count and low-error sequencing by profiling 135 000 restriction 
+fragments in a PstI representation, demonstrating that muSeq improves copy 
+number inference and significantly reduces sporadic sequencer error. We explore 
+long-range assembly in the context of cDNA, generating contiguous transcript 
+clusters greater than 3,000 bp in length. The muSeq assemblies reveal 
+transcriptional diversity not observable from short-read data alone.
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkx1054
+PMCID: PMC5778454
+PMID: 29161423 [Indexed for MEDLINE]

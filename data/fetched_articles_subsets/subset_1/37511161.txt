@@ -1,0 +1,40 @@
+1. Int J Mol Sci. 2023 Jul 13;24(14):11397. doi: 10.3390/ijms241411397.
+
+Protein-Mediated Electroporation in a Cardiac Voltage-Sensing Domain Due to an 
+nsPEF Stimulus.
+
+Ruiz-Fernández AR(1), Campos L(1)(2), Villanelo F(1)(2), Garate JA(1)(2)(3), 
+Perez-Acle T(1)(2)(4).
+
+Author information:
+(1)Computational Biology Lab, Fundación Ciencia & Vida, Santiago 7780272, Chile.
+(2)Facultad de Ingeniería y Tecnología, Universidad San Sebastián, Santiago 
+8420524, Chile.
+(3)Millennium Nucleus im NanoBioPhysics, Universidad de Valparaiso, Valparaiso 
+2351319, Chile.
+(4)Centro Interdisciplinario de Neurociencia de Valparaíso, Universidad de 
+Valparaíso, Valparaiso 2360102, Chile.
+
+This study takes a step in understanding the physiological implications of the 
+nanosecond pulsed electric field (nsPEF) by integrating molecular dynamics 
+simulations and machine learning techniques. nsPEF, a state-of-the-art 
+technology, uses high-voltage electric field pulses with a nanosecond duration 
+to modulate cellular activity. This investigation reveals a relatively new and 
+underexplored phenomenon: protein-mediated electroporation. Our research focused 
+on the voltage-sensing domain (VSD) of the NaV1.5 sodium cardiac channel in 
+response to nsPEF stimulation. We scrutinized the VSD structures that form pores 
+and thereby contribute to the physical chemistry that governs the defibrillation 
+effect of nsPEF. To do so, we conducted a comprehensive analysis involving the 
+clustering of 142 replicas simulated for 50 ns under nsPEF stimuli. We 
+subsequently pinpointed the representative structures of each cluster and 
+computed the free energy between them. We find that the selected VSD of NaV1.5 
+forms pores under nsPEF stimulation, but in a way that significant differs from 
+the traditional VSD opening. This study not only extends our understanding of 
+nsPEF and its interaction with protein channels but also adds a new effect to 
+further study.
+
+DOI: 10.3390/ijms241411397
+PMCID: PMC10379607
+PMID: 37511161 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

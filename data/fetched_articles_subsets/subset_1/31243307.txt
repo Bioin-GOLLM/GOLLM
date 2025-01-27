@@ -1,0 +1,36 @@
+1. Sci Rep. 2019 Jun 26;9(1):9278. doi: 10.1038/s41598-019-45696-w.
+
+Investigation into using resonant frequency measurements to predict the 
+mechanical properties of Ti-6Al-4V manufactured by selective laser melting.
+
+Todd MA(1)(2), Hunt J(3)(4), Todd I(3).
+
+Author information:
+(1)Department of Materials Science and Engineering, University of Sheffield, Sir 
+Robert Hadfield Building, Mappin Street, Sheffield, S1 3JD, United Kingdom. 
+m.todd@sheffield.ac.uk.
+(2)Nuclear Advanced Manufacturing Research Centre, University of Sheffield, 
+Advanced Manufacturing Park, Brunel Way, Rotherham, S60 5WG, United Kingdom. 
+m.todd@sheffield.ac.uk.
+(3)Department of Materials Science and Engineering, University of Sheffield, Sir 
+Robert Hadfield Building, Mappin Street, Sheffield, S1 3JD, United Kingdom.
+(4)Advanced Manufacturing Research Centre, University of Sheffield, Advanced 
+Manufacturing Park, Wallis Way, Rotherham, S60 5TZ, United Kingdom.
+
+There is a need to qualify additively manufactured parts that are used in highly 
+regulated industries such as aerospace and nuclear power. This paper 
+investigates the use of resonant ultrasound measurements to predict the 
+mechanical properties of Ti-6Al-4V manufactured by selective laser melting using 
+a Renishaw AM 250. It is first demonstrated why R2 should not be used to assess 
+the predictive capability of a model, before introducing a method for 
+calculating predicted R2, which is then used to assess the models. It is found 
+that a linear model with the resonant frequency peaks as predictors cannot be 
+used to predict elongation at failure or reduction in area. However, linear 
+models did demonstrate better predictive capabilities for Young's modulus, yield 
+strength, and especially ultimate tensile strength.
+
+DOI: 10.1038/s41598-019-45696-w
+PMCID: PMC6594992
+PMID: 31243307
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,28 @@
+1. Cancer Inform. 2015 Apr 29;14(Suppl 2):97-105. doi: 10.4137/CIN.S17278. 
+eCollection 2015.
+
+Generalized monotone incremental forward stagewise method for modeling count 
+data: application predicting micronuclei frequency.
+
+Makowski M(1), Archer KJ(1).
+
+Author information:
+(1)Department of Biostatistics, Virginia Commonwealth University, Richmond, VA, 
+USA.
+
+The cytokinesis-block micronucleus (CBMN) assay can be used to quantify 
+micronucleus (MN) formation, the outcome measured being MN frequency. MN 
+frequency has been shown to be both an accurate measure of chromosomal 
+instability/DNA damage and a risk factor for cancer. Similarly, the Agilent 
+4×44k human oligonucleotide microarray can be used to quantify gene expression 
+changes. Despite the existence of accepted methodologies to quantify both MN 
+frequency and gene expression, very little is known about the association 
+between the two. In modeling our count outcome (MN frequency) using gene 
+expression levels from the high-throughput assay as our predictor variables, 
+there are many more variables than observations. Hence, we extended the 
+generalized monotone incremental forward stagewise method for predicting a count 
+outcome for high-dimensional feature settings.
+
+DOI: 10.4137/CIN.S17278
+PMCID: PMC4415688
+PMID: 25983544

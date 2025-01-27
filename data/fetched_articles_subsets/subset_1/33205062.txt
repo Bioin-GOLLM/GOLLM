@@ -1,0 +1,50 @@
+1. Cell Rep Med. 2020 Jul 21;1(4):100053. doi: 10.1016/j.xcrm.2020.100053. 
+eCollection 2020 Jul 21.
+
+Inferring Multiple Sclerosis Stages from the Blood Transcriptome via Machine 
+Learning.
+
+Acquaviva M(1), Menon R(1), Di Dario M(1), Dalla Costa G(1), Romeo M(1), 
+Sangalli F(1), Colombo B(1), Moiola L(1), Martinelli V(1), Comi G(1), Farina 
+C(1).
+
+Author information:
+(1)Institute of Experimental Neurology and Division of Neuroscience, IRCCS San 
+Raffaele Scientific Institute, Milan, Italy.
+
+Peripheral blood mononuclear cells (PBMCs) bear specific dysregulations in genes 
+and pathways at distinct stages of multiple sclerosis (MS) that may help with 
+classifying MS and non-MS subjects, specifying the early stage of disease, or 
+discriminating among MS courses. Here we describe an unbiased machine learning 
+workflow to build MS stage-specific classifiers based on PBMC transcriptomics 
+profiles from more than 300 individuals, including healthy subjects and patients 
+with clinically isolated syndromes, relapsing-remitting MS, primary or secondary 
+progressive MS, or other neurological disorders. The pipeline, designed to 
+optimize and compare the performance of distinct machine learning algorithms in 
+the training cohort, generates predictive models not influenced by demographic 
+features, such as age and gender, and displays high accuracy in the independent 
+validation cohort. Proper application of machine learning to transcriptional 
+profiles of circulating blood cells may allow identification of disease state 
+and stage in MS.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.xcrm.2020.100053
+PMCID: PMC7659538
+PMID: 33205062 [Indexed for MEDLINE]
+
+Conflict of interest statement: F.S. and L.M. report personal fees from Merck 
+Serono, Novartis, Biogen, Sanofi-Genzyme, Teva, and Roche outside of the 
+submitted work. M.R. reports personal fees from Merck-Serono and Genzyme and 
+non-financial support from Novartis, Teva Pharmaceutical Industries, and 
+Almirall outside of the submitted work. V.M. reports honoraria for speaking 
+and/or for consultancy and support for travel expenses and participation in 
+congresses from Biogen, Merck, Novartis, Roche, Genzyme, Almirall, and Teva. 
+G.C. reports personal fees from Novartis, Teva Pharmaceutical Industries Ltd., 
+Teva Italia Srl, Sanofi Genzyme, Genzyme Corporation, Genzyme Europe, Merck 
+KGaA, Merck Serono SpA, Celgene Group, Biogen Idec, Biogen Italia Srl, F. 
+Hoffman-La Roche, Roche SpA, Almirall SpA, Forward Pharma, Medday, and Excemed 
+outside of the submitted work. C.F. reports grants from Merck-Serono and the 
+Italian Ministry of Health during the conduct of the study and grants from Teva, 
+Novartis, and Fondazione Italiana Sclerosi Multipla outside of the submitted 
+work.

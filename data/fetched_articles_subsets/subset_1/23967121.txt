@@ -1,0 +1,36 @@
+1. PLoS One. 2013 Aug 13;8(8):e70847. doi: 10.1371/journal.pone.0070847. 
+eCollection 2013.
+
+A hierarchical coarse-grained (all-atom-to-all-residue) computer simulation 
+approach: self-assembly of peptides.
+
+Pandey RB(1), Kuang Z, Farmer BL.
+
+Author information:
+(1)Department of Physics and Astronomy, University of Southern Mississippi, 
+Hattiesburg, Mississippi, USA. ras.pandey@usm.edu
+
+A hierarchical computational approach (all-atom residue to all-residue peptide) 
+is introduced to study self-organizing structures of peptides as a function of 
+temperature. A simulated residue-residue interaction involving all-atom 
+description, analogous to knowledge-based analysis (with different input), is 
+used as an input to a phenomenological coarse-grained interaction for large 
+scales computer simulations. A set of short peptides P1 ((1)H (2)S (3)S (4)Y 
+(5)W (6)Y (7)A (8)F (9)N (10)N (11)K (12)T) is considered as an example to 
+illustrate the utility. We find that peptides assemble rather fast into globular 
+aggregates at low temperatures and disperse as random-coil at high temperatures. 
+The specificity of the mass distribution of the self-assembly depends on the 
+temperature and spatial lengths which are identified from the scaling of the 
+structure factor. Analysis of energy and mobility profiles, gyration radius of 
+peptide, and radial distribution function of the assembly provide insight into 
+the multi-scale (intra- and inter-chain) characteristics. Thermal response of 
+the global assembly with the simulated residue-residue interaction is consistent 
+with that of the knowledge-based analysis despite expected quantitative 
+differences.
+
+DOI: 10.1371/journal.pone.0070847
+PMCID: PMC3742673
+PMID: 23967121 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

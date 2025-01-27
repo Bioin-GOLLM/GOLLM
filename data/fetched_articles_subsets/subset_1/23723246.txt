@@ -1,0 +1,32 @@
+1. Nucleic Acids Res. 2013 Jul;41(Web Server issue):W333-9. doi: 
+10.1093/nar/gkt450. Epub 2013 May 30.
+
+BeAtMuSiC: Prediction of changes in protein-protein binding affinity on 
+mutations.
+
+Dehouck Y(1), Kwasigroch JM, Rooman M, Gilis D.
+
+Author information:
+(1)Department of BioModelling, BioInformatics and BioProcesses, Université Libre 
+de Bruxelles, CP165/61, Av. Fr. Roosevelt 50, 1050 Brussels, Belgium. 
+ydehouck@ulb.ac.be
+
+The ability of proteins to establish highly selective interactions with a 
+variety of (macro)molecular partners is a crucial prerequisite to the 
+realization of their biological functions. The availability of computational 
+tools to evaluate the impact of mutations on protein-protein binding can 
+therefore be valuable in a wide range of industrial and biomedical applications, 
+and help rationalize the consequences of non-synonymous single-nucleotide 
+polymorphisms. BeAtMuSiC (http://babylone.ulb.ac.be/beatmusic) is a 
+coarse-grained predictor of the changes in binding free energy induced by point 
+mutations. It relies on a set of statistical potentials derived from known 
+protein structures, and combines the effect of the mutation on the strength of 
+the interactions at the interface, and on the overall stability of the complex. 
+The BeAtMuSiC server requires as input the structure of the protein-protein 
+complex, and gives the possibility to assess rapidly all possible mutations in a 
+protein chain or at the interface, with predictive performances that are in line 
+with the best current methodologies.
+
+DOI: 10.1093/nar/gkt450
+PMCID: PMC3692068
+PMID: 23723246 [Indexed for MEDLINE]

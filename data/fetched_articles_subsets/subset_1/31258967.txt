@@ -1,0 +1,65 @@
+1. AMIA Jt Summits Transl Sci Proc. 2019 May 6;2019:153-162. eCollection 2019.
+
+Genetically-guided algorithm development and sample size optimization for 
+age-related macular degeneration cases and controls in electronic health records 
+from the VA Million Veteran Program.
+
+Halladay CW(1), Hadi T(2), Anger MD(3)(4), Greenberg PB(5)(6), Sullivan 
+JM(3)(4), Konicki PE(7)(8), Peachey NS(7)(9)(10), Igo RP Jr(7)(11), Iyengar 
+SK(2)(7)(11)(12), Wu WC(13)(14), Crawford DC(7)(11)(12)(15)(16); VA Million 
+Veteran Program.
+
+Author information:
+(1)Center for Innovation in Long Term Services and Supports, Providence VA 
+Medical Center, Providence, RI.
+(2)Department of Ophthalmology and Visual Sciences, University Hospitals Eye 
+Institute, Cleveland, OH.
+(3)Research Service, VA Western NY Healthcare System, Buffalo, NY.
+(4)Ophthalmology, SUNY-University at Buffalo, Buffalo, NY.
+(5)Section of Ophthalmology, Providence VA Medical Center, Providence, RI.
+(6)Division of Ophthalmology, Alpert Medical School, Brown University, 
+Providence RI.
+(7)Louis Stokes Cleveland VA Medical Center, Cleveland, OH.
+(8)Department of Psychiatry, Case Western Reserve University, Cleveland, OH.
+(9)Department of Ophthalmology, Cleveland Clinic Lerner College of Medicine of 
+Case Western Reserve University, Cleveland, OH.
+(10)Cole Eye Institute, Cleveland Clinic, Cleveland, OH.
+(11)Department of Population and Quantitative Health Sciences, Case Western 
+Reserve University, Cleveland, OH.
+(12)Department of Genetics & Genome Sciences, Case Western Reserve University, 
+Cleveland, OH.
+(13)Section of Cardiology, Medical Service, Providence VA Medical Center, 
+Providence, RI.
+(14)Division of Cardiology, Department of Medicine, Alpert Medical School, Brown 
+University, Providence, RI.
+(15)Cleveland Institute for Computational Biology, Case Western Reserve 
+University, Cleveland, OH.
+(16)Corresponding author.
+
+Electronic health records (EHRs) linked to extensive biorepositories and 
+supplemented with lifestyle, behavioral, and environmental exposure data, have 
+enormous potential to contribute to genomic discovery, a necessary step in the 
+pathway towards translational or precision medicine. A major bottleneck in 
+incorporating EHRs into genomic studies is the extraction of research-grade 
+variables for analysis, particularly when gold-standard measurements are not 
+available or accessible. Here we develop algorithms for age-related macular 
+degeneration (AMD), a common cause of blindness among the elderly, and controls 
+free of AMD. These computable phenotypes were developed using billing codes 
+(ICD-9-CM and ICD-10-CM) and Current Procedural Terminology (CPT) codes and 
+evaluated in two study sites of the Veterans Affairs Million Veteran Program: 
+Louis Stokes Cleveland VA Medical Center and the Providence VA Medical Center. 
+After establishing a high overall positive and negative predictive values (93% 
+and 95%, respectively) through manual chart review, the candidate algorithm was 
+deployed in the full VA MVP dataset of >500,000 participants. The algorithm was 
+then optimized in a data cube using a variety of approaches including adjusting 
+inclusion age thresholds by examining previously-reported genetic associations 
+for CFH (rs10801555, a proxy for rs1061170) and ARMS2 (rs10490924). The 
+algorithm with the smallest p-values for the known genetic associations was 
+selected for downstream and on-going AMD genomic discovery efforts. This 
+two-phase approach to developing research-grade case/control variables for AMD 
+genomic studies capitalizes on established genetic associations resulting in 
+high precision and optimized sample sizes, an approach that can be applied to 
+other large-scale biobanks linked to EHRs for precision medicine research.
+
+PMCID: PMC6568141
+PMID: 31258967

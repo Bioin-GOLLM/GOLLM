@@ -1,0 +1,43 @@
+1. Biomedicines. 2023 Mar 15;11(3):908. doi: 10.3390/biomedicines11030908.
+
+PDE3A and GSK3B as Atrial Fibrillation Susceptibility Genes in the Chinese 
+Population via Bioinformatics and Genome-Wide Association Analysis.
+
+Zhou Z(1), Wang Y(2), Li X(1), Zhang Y(2), Yuan L(2), Chen D(1), Wang X(2).
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, School of Public Health, Peking 
+University Health Science Center, Beijing 100191, China.
+(2)Department of Cardiology, Beijing Hepingli Hospital, Beijing 100013, China.
+
+BACKGROUND: Atrial fibrillation (AF) is the most common cardiac arrhythmia, with 
+uncovered genetic etiology and pathogenesis. We aimed to screen out AF 
+susceptibility genes with potential pathogenesis significance in the Chinese 
+population.
+METHODS: Differentially expressed genes (DEGs) were screened by the Limma 
+package in three GEO data sets of atrial tissue. AF-related genes were 
+identified by combination of DEGs and public GWAS susceptibility genes. 
+Potential drug target genes were selected using the DrugBank, STITCH and TCMSP 
+databases. Pathway enrichment analyses of AF-related genes were performed using 
+the databases GO and KEGG databases. The pathway gene network was visualized by 
+Cytoscape software to identify gene-gene interactions and hub genes. GWAS 
+analysis of 110 cases of AF and 1201 controls was carried out through a 
+genome-wide efficient mixed model in the Fangshan population to verify the 
+results of bioinformatic analysis.
+RESULTS: A total of 3173 DEGs were identified, 57 of which were found to be 
+significantly associated with of AF in public GWAS results. A total of 75 
+AF-related genes were found to be potential therapeutic targets. Pathway 
+enrichment analysis selected 79 significant pathways and classified them into 7 
+major pathway networks. A total of 35 hub genes were selected from the pathway 
+networks. GWAS analysis identified 126 AF-associated loci. PDE3A and GSK3B were 
+found to be overlapping genes between bioinformatic analysis and GWAS analysis.
+CONCLUSIONS: We screened out several pivotal genes and pathways involved in AF 
+pathogenesis. Among them, PDE3A and GSK3B were significantly associated with the 
+risk of AF in the Chinese population. Our study provided new insights into the 
+mechanisms of action of AF.
+
+DOI: 10.3390/biomedicines11030908
+PMCID: PMC10046458
+PMID: 36979891
+
+Conflict of interest statement: The authors declare no conflict of interest.

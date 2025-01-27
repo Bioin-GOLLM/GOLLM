@@ -1,0 +1,35 @@
+1. Sensors (Basel). 2018 Nov 16;18(11):3995. doi: 10.3390/s18113995.
+
+A Survey of LoRaWAN for IoT: From Technology to Application.
+
+Haxhibeqiri J(1), De Poorter E(2), Moerman I(3), Hoebeke J(4).
+
+Author information:
+(1)IDLab, Department of Information Technology at Ghent University-IMEC, 9052 
+Ghent, Belgium. jetmir.haxhibeqiri@ugent.be.
+(2)IDLab, Department of Information Technology at Ghent University-IMEC, 9052 
+Ghent, Belgium. eli.depoorter@ugent.be.
+(3)IDLab, Department of Information Technology at Ghent University-IMEC, 9052 
+Ghent, Belgium. ingrid.moerman@ugent.be.
+(4)IDLab, Department of Information Technology at Ghent University-IMEC, 9052 
+Ghent, Belgium. jeroen.hoebeke@ugent.be.
+
+LoRaWAN is one of the low power wide area network (LPWAN) technologies that have 
+received significant attention by the research community in the recent years. It 
+offers low-power, low-data rate communication over a wide range of covered area. 
+In the past years, the number of publications regarding LoRa and LoRaWAN has 
+grown tremendously. This paper provides an overview of research work that has 
+been published from 2015 to September 2018 and that is accessible via Google 
+Scholar and IEEE Explore databases. First, a detailed description of the 
+technology is given, including existing security and reliability mechanisms. 
+This literature overview is structured by categorizing papers according to the 
+following topics: (i) physical layer aspects; (ii) network layer aspects; (iii) 
+possible improvements; and (iv) extensions to the standard. Finally, a 
+strengths, weaknesses, opportunities and threats (SWOT) analysis is presented 
+along with the challenges that LoRa and LoRaWAN still face.
+
+DOI: 10.3390/s18113995
+PMCID: PMC6264067
+PMID: 30453524
+
+Conflict of interest statement: The authors declare no conflict of interest.

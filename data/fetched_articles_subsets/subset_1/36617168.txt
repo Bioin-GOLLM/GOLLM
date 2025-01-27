@@ -1,0 +1,58 @@
+1. Database (Oxford). 2023 Jan 6;2023:baac109. doi: 10.1093/database/baac109.
+
+Developing a disease-specific annotation protocol for VHL gene curation using 
+Hypothes.is.
+
+Salehipour D(1), Farncombe KM(2), Andric V(1), Ansar S(1), Delong S(1), Li E(1), 
+Macpherson S(1), Ridd S(1), Ritter DI(3), Thaxton C(4), Kim RH(5)(6)(7)(8).
+
+Author information:
+(1)Department of Medicine, Division of Medical Oncology, University Health 
+Network, 620 University Ave, Toronto, ON M5G 2C1, Canada.
+(2)Toronto General Hospital Research Institute, University Health Network, 200 
+Elizabeth St, Toronto, ON M5G 2C4, Canada.
+(3)Department of Pediatrics, Baylor College of Medicine and Texas Children's 
+Hospital, 1102 Bates Ave, Houston, TX 77030, USA.
+(4)Department of Genetics, University of North Carolina, 120 Mason Farm Rd, 
+Chapel Hill, Chapel Hill, NC 27514, USA.
+(5)Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, 
+University Health Network, Sinai Health System, 620 University Ave, Toronto, ON 
+M5G 2C1, Canada.
+(6)Division of Clinical and Metabolic Genetics, The Hospital for Sick Children, 
+555 University Ave, Toronto, ON M5G 1X8, Canada.
+(7)Ontario Institute for Cancer Research, 661 University Ave Suite 510, Toronto, 
+ON M5G 0A3, Canada.
+(8)Department of Medicine, University of Toronto, 1 King's College Cir, Toronto, 
+ON M5S 1A8, Canada.
+
+Von Hippel-Lindau (VHL) disease is a rare, autosomal dominant disorder that 
+predisposes individuals to developing tumors in many organs. There is 
+significant phenotypic variability and genetic variants encountered within this 
+syndrome, posing a considerable challenge to patient care. The lack of VHL 
+variant data sharing paired with the absence of aggregated genotype-phenotype 
+information results in an arduous process, when characterizing genetic variants 
+and predicting patient prognosis. To address these gaps in knowledge, the 
+Clinical Genome Resource (ClinGen) VHL Variant Curation Expert Panel (VCEP) has 
+been resolving a list of variants of uncertain significance within the VHL gene. 
+Through community curation, we crowdsourced the laborious task of variant 
+annotation by modifying the ClinGen Community Curation (C3)-developed Baseline 
+Annotation protocol and annotating all published VHL cases with the reported 
+genotype-phenotype information in Hypothes.is, an open-access web annotation 
+tool. This process, incorporated into the ClinGen VCEP's workflow, will aid in 
+their curation efforts. To facilitate the curation at all levels of genetics 
+expertise, our team developed a 4-day biocuration training protocol and resource 
+guide. To date, 91.3% of annotations have been completed by undergraduate and 
+high-school students without formal academic genetics specialization. Here, we 
+present our VHL-specific annotation protocol utilizing Hypothes.is, which offers 
+a standardized method to present case-resolution data, and our biocuration 
+training protocol, which can be adapted for other rare disease platforms. By 
+facilitating training for community curation of VHL disease, we increased 
+student engagement with clinical genetics while enhancing knowledge translation 
+in the field of hereditary cancer. Database URL: 
+https://hypothes.is/groups/dKymJJpZ/vhl-hypothesis-annotation.
+
+© The Author(s) 2023. Published by Oxford University Press.
+
+DOI: 10.1093/database/baac109
+PMCID: PMC9825735
+PMID: 36617168 [Indexed for MEDLINE]

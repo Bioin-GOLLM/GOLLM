@@ -1,0 +1,36 @@
+1. Nucleic Acids Res. 2020 Sep 25;48(17):e101. doi: 10.1093/nar/gkaa673.
+
+SPRINT: a Cas13a-based platform for detection of small molecules.
+
+Iwasaki RS(1), Batey RT(1).
+
+Author information:
+(1)Department of Biochemistry, University of Colorado, Boulder, CO 80309-0596, 
+USA.
+
+Recent efforts in biological engineering have made detection of nucleic acids in 
+samples more rapid, inexpensive and sensitive using CRISPR-based approaches. We 
+expand one of these Cas13a-based methods to detect small molecules in a 
+one-batch assay. Using SHERLOCK-based profiling of in vitrotranscription 
+(SPRINT), in vitro transcribed RNA sequence-specifically triggers the RNase 
+activity of Cas13a. This event activates its non-specific RNase activity, which 
+enables cleavage of an RNA oligonucleotide labeled with a quencher/fluorophore 
+pair and thereby de-quenches the fluorophore. This fluorogenic output can be 
+measured to assess transcriptional output. The use of riboswitches or proteins 
+to regulate transcription via specific effector molecules is leveraged as a 
+coupled assay that transforms effector concentration into fluorescence 
+intensity. In this way, we quantified eight different compounds, including 
+cofactors, nucleotides, metabolites of amino acids, tetracycline and monatomic 
+ions in samples. In this manner, hundreds of reactions can be easily quantified 
+in a few hours. This increased throughput also enables detailed characterization 
+of transcriptional regulators, synthetic compounds that inhibit transcription, 
+or other coupled enzymatic reactions. These SPRINT reactions are easily 
+adaptable to portable formats and could therefore be used for the detection of 
+analytes in the field or at point-of-care situations.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkaa673
+PMCID: PMC7515716
+PMID: 32797156 [Indexed for MEDLINE]

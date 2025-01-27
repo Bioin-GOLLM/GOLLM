@@ -1,0 +1,57 @@
+1. BMC Cancer. 2021 Apr 20;21(1):432. doi: 10.1186/s12885-021-08078-y.
+
+RB1 and TP53 co-mutations correlate strongly with genomic biomarkers of response 
+to immunity checkpoint inhibitors in urothelial bladder cancer.
+
+Manzano RG(1), Catalan-Latorre A(2), Brugarolas A(3).
+
+Author information:
+(1)Molecular Genetics and Genomics Laboratory, Unidad de Consejo Genetico, 
+Plataforma de Oncologia, Hospital Quironsalud Torrevieja, Pda. La Loma s/n, 
+03184, Torrevieja (Alicante), Spain. ramon.manzano@quironsalud.es.
+(2)Unidad de Farmacocinetica y Farmacoterapia Personalizada, Plataforma de 
+Oncologia, Hospital Quironsalud Torrevieja, Pda. La Loma s/n, 03184, Torrevieja 
+(Alicante), Spain.
+(3)Medical Oncology Department, Plataforma de Oncologia, Hospital Quironsalud 
+Torrevieja, Pda. La Loma s/n, 03184, Torrevieja (Alicante), Spain.
+
+BACKGROUND: Muscle invasive urothelial bladder carcinoma (MIBC) present RB1 and 
+TP53 somatic alterations in a variable percentage of tumors throughout all 
+molecular subtypes. MIBCs with neuroendocrine features have a high response rate 
+to immunity checkpoint inhibitors (ICIs). Whether the presence of somatic 
+co-alterations in these 2 genes in MIBCs is relevant to their responsiveness to 
+ICIs is not known.
+METHODS: The potential correlation of different genomic biomarkers of response 
+to ICIs like tumor mutational burden (TMB), single nucleotide variants (SNV) 
+predicted neoantigens, DNA damage response (DDR) genes, DNA somatic signatures 
+and TILs infiltrate was explored in patients with somatic co-alterations in RB1 
+and TP53 (RB1&TP53) as compared with patients with no alterations in any (double 
+wild type, DWT) or with alterations in just one of the 2 genes. The Cancer 
+Genome Atlas (TCGA) pancancer BLCA dataset of cystectomy specimens (n = 407) 
+with mutation, copy number alterations and transcriptomic (RNA sequencing) data 
+as well as the IMVigor 210 study (n = 348) of metastatic urothelial bladder 
+cancers treated with atezolizumab (PD-L1 inhibitor) with clinical response data 
+containing transcriptomic (RNA sequencing), along with a subset (n = 274) with 
+mutation and copy number data were used for this purpose. A novel tumor 
+microenvironment metascore (TMM) was developed based in a LASSO regularized Cox 
+model with predictive and prognostic ability.
+RESULTS: Samples with co-altered RB1&TP53: a) were enriched in immunity 
+effectors (CD8 cytotoxic lymphocytes, NK cells) and display higher scores of a T 
+cell inflamed signature; b) have a higher TMB, higher number of SNV predicted 
+neoantigens and higher TILs fractions; c) have a higher number of DDR mutated 
+and deep deleted DDR genes; d) have DNA somatic signatures 2 and 13 related to 
+APOBEC mutagenesis. Using the IMVigor 210 dataset, RB1&TP53 samples had the 
+highest response rate to atezolizumab and a strong correlation with TMB and TMM. 
+The consensus molecular subtype classification in the IMVigor 210 dataset showed 
+a significant correlation with both the response to treatment (p = 0.001, 
+Chisquare) and the presence of RB1 and TP53 genomic alterations (p < 0.001, 
+Chisquare).
+CONCLUSIONS: RB1&TP53 co-alterations are strongly associated with genomic 
+biomarkers of response to ICIs in MIBCs.
+
+DOI: 10.1186/s12885-021-08078-y
+PMCID: PMC8056512
+PMID: 33879103 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests

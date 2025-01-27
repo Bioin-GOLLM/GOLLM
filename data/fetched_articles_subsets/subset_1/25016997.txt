@@ -1,0 +1,39 @@
+1. Int J Mol Med. 2014 Sep;34(3):715-24. doi: 10.3892/ijmm.2014.1843. Epub 2014
+Jul  9.
+
+Comprehensive identification of essential pathways and transcription factors 
+related to epilepsy by gene set enrichment analysis on microarray datasets.
+
+He K(1), Xiao W(2), Lv W(1).
+
+Author information:
+(1)Center for Stem Cell and Translational Medicine, School of Life Sciences, 
+Anhui University, Hefei, Anhui 230601, P.R. China.
+(2)Department of Neurology, Shanghai Pudong Hospital, Fudan University Pudong 
+Medical Center, Pudong, Shanghai 201399, P.R. China.
+
+Epilepsy is a common chronic neurological disorder characterized by seizures or 
+convulsions, and is known to affect patients with primary brain tumors. The 
+etiology of epilepsy is superficially thought to be multifactorial; however, the 
+genetic factors which may be involved in the pathogenesis of seizures have not 
+yet been elucidated, particularly at the pathway level. In the present study, in 
+order to systematically investigate the gene regulatory networks involved in 
+epilepsy, we employed a microarray dataset from the public database library of 
+Gene Expression Omnibus (GEO) associated with tumor-induced epileptogenesis and 
+applied gene set enrichment analysis (GSEA) on these data sets and performed 
+candidate transcription factor (TF) selection. As a result, 68 upregulated 
+pathways, including the extracellular matrix (ECM)-receptor interaction 
+(P=0.004) and peroxisome proliferator-activated receptor (PPAR) signaling 
+pathways (P=0.045), as well as 4 downregulated pathways, including the GnRH 
+signaling pathway (P=0.029) and gap junction (P=0.034) were identified as 
+epileptogenesis-related pathways. The majority of these pathways identified have 
+been previously reported and our results were in accordance with those reports. 
+However, some of these pathways identified were novel. Finally, co-expression 
+networks of the related pathways were constructed with the significant core 
+genes and TFs, such as PPAR-γ and phosphatidylethanolamine-binding protein. The 
+results of our study may contribute to the improved understanding of the 
+molecular mechanisms of epileptogenesis on a genome-wide level.
+
+DOI: 10.3892/ijmm.2014.1843
+PMCID: PMC4121356
+PMID: 25016997 [Indexed for MEDLINE]

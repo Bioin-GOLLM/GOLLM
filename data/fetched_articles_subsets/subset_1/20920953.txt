@@ -1,0 +1,40 @@
+1. Environ Health Perspect. 2011 Jan;119(1):84-91. doi: 10.1289/ehp.1002118. Epub
+ 2010 Oct 4.
+
+Examining the joint effect of multiple risk factors using exposure risk 
+profiles: lung cancer in nonsmokers.
+
+Papathomas M(1), Molitor J, Richardson S, Riboli E, Vineis P.
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, Imperial College London, United 
+Kingdom. Michail.Papathomas@coventry.ac.uk
+
+BACKGROUND: Profile regression is a Bayesian statistical approach designed for 
+investigating the joint effect of multiple risk factors. It reduces 
+dimensionality by using as its main unit of inference the exposure profiles of 
+the subjects that is, the sequence of covariate values that correspond to each 
+subject.
+OBJECTIVES: We applied profile regression to a case-control study of lung cancer 
+in nonsmokers, nested within the European Prospective Investigation into Cancer 
+and Nutrition (EPIC) cohort, to estimate the combined effect of environmental 
+carcinogens and to explore possible gene-environment interactions.
+METHODS: We tailored and extended the profile regression approach to the 
+analysis of case-control studies, allowing for the analysis of ordinal data and 
+the computation of posterior odds ratios. We compared and contrasted our results 
+with those obtained using standard logistic regression and classification tree 
+methods, including multifactor dimensionality reduction.
+RESULTS: Profile regression strengthened previous observations in other study 
+populations on the role of air pollutants, particularly particulate matter ≤ 10 
+μm in aerodynamic diameter (PM10), in lung cancer for nonsmokers. Covariates 
+including living on a main road, exposure to PM10 and nitrogen dioxide, and 
+carrying out manual work characterized high-risk subject profiles. Such 
+combinations of risk factors were consistent with a priori expectations. In 
+contrast, other methods gave less interpretable results.
+CONCLUSIONS: We conclude that profile regression is a powerful tool for 
+identifying risk profiles that express the joint effect of etiologically 
+relevant variables in multifactorial diseases.
+
+DOI: 10.1289/ehp.1002118
+PMCID: PMC3018505
+PMID: 20920953 [Indexed for MEDLINE]

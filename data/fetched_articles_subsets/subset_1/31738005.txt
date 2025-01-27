@@ -1,0 +1,55 @@
+1. Arthritis Rheumatol. 2020 May;72(5):802-814. doi: 10.1002/art.41173. Epub 2020
+ Mar 23.
+
+Differential DNA Methylation of Networked Signaling, Transcriptional, Innate and 
+Adaptive Immunity, and Osteoclastogenesis Genes and Pathways in Gout.
+
+Wang Z(1), Zhao Y(1), Phipps-Green A(2), Liu-Bryan R(3), Ceponis A(1), Boyle 
+DL(1), Wang J(1), Merriman TR(2), Wang W(1), Terkeltaub R(3).
+
+Author information:
+(1)University of California, San Diego.
+(2)University of Otago, Dunedin, New Zealand.
+(3)University of California, San Diego and San Diego VAMC.
+
+OBJECTIVE: In gout, autoinflammatory responses to urate crystals promote acute 
+arthritis flares, but the pathogeneses of tophi, chronic synovitis, and erosion 
+are less well understood. Defining the pathways of epigenomic immunity training 
+can reveal novel pathogenetic factors and biomarkers. The present study was 
+undertaken to seminally probe differential DNA methylation patterns utilizing 
+epigenome-wide analyses in patients with gout.
+METHODS: Peripheral blood mononuclear cells (PBMCs) were obtained from a San 
+Diego cohort of patients with gout (n = 16) and individually matched healthy 
+controls (n = 14). PBMC methylome data were processed with ChAMP package in R. 
+ENCODE data and Taiji data analysis software were used to analyze transcription 
+factor (TF)-gene networks. As an independent validation cohort, whole blood DNA 
+samples from New Zealand Māori subjects (n = 13 patients with gout, n = 16 
+control subjects without gout) were analyzed.
+RESULTS: Differentially methylated loci clearly separated gout patients from 
+controls, as determined by hierarchical clustering and principal components 
+analyses. IL23R, which mediates granuloma formation and cell invasion, was 
+identified as one of the multiple differentially methylated gout risk genes. 
+Epigenome-wide analyses revealed differential methylome pathway enrichment for B 
+and T cell receptor signaling, Th17 cell differentiation and interleukin-17 
+signaling, convergent longevity regulation, circadian entrainment, and 
+AMP-activated protein kinase signaling, which are pathways that impact 
+inflammation via insulin-like growth factor 1 receptor, phosphatidylinositol 
+3-kinase/Akt, NF-κB, mechanistic target of rapamycin signaling, and autophagy. 
+The gout cohorts overlapped for 37 (52.9%) of the 70 TFs with hypomethylated 
+sequence enrichment and for 30 (78.9%) of the 38 enriched KEGG pathways 
+identified via TFs. Evidence of shared differentially methylated gout TF-gene 
+networks, including the NF-κB activation-limiting TFs MEF2C and NFATC2, pointed 
+to osteoclast differentiation as the most strongly weighted differentially 
+methylated pathway that overlapped in both gout cohorts.
+CONCLUSION: These findings of differential DNA methylation of networked 
+signaling, transcriptional, innate and adaptive immunity, and osteoclastogenesis 
+genes and pathways suggest that they could serve as novel therapeutic targets in 
+the management of flares, tophi, chronic synovitis, and bone erosion in patients 
+with gout.
+
+© 2019, American College of Rheumatology. This article has been contributed to 
+by US Government employees and their work is in the public domain in the USA.
+
+DOI: 10.1002/art.41173
+PMCID: PMC7323903
+PMID: 31738005 [Indexed for MEDLINE]

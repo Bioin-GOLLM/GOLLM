@@ -1,0 +1,38 @@
+1. Front Physiol. 2012 Dec 10;3:446. doi: 10.3389/fphys.2012.00446. eCollection 
+2012.
+
+Boolean model of yeast apoptosis as a tool to study yeast and human apoptotic 
+regulations.
+
+Kazemzadeh L(1), Cvijovic M, Petranovic D.
+
+Author information:
+(1)Department of Chemical and Biological Engineering, Chalmers University of 
+Technology Gothenburg, Sweden ; Digital Enterprise Research Institute, National 
+University of Ireland Galway, Ireland.
+
+Programmed cell death (PCD) is an essential cellular mechanism that is 
+evolutionary conserved, mediated through various pathways and acts by 
+integrating different stimuli. Many diseases such as neurodegenerative diseases 
+and cancers are found to be caused by, or associated with, regulations in the 
+cell death pathways. Yeast Saccharomyces cerevisiae, is a unicellular eukaryotic 
+organism that shares with human cells components and pathways of the PCD and is 
+therefore used as a model organism. Boolean modeling is becoming promising 
+approach to capture qualitative behavior and describe essential properties of 
+such complex networks. Here we present large literature-based and to our 
+knowledge first Boolean model that combines pathways leading to apoptosis (a 
+type of PCD) in yeast. Analysis of the yeast model confirmed experimental 
+findings of anti-apoptotic role of Bir1p and pro-apoptotic role of Stm1p and 
+revealed activation of the stress protein kinase Hog proposing the maximal level 
+of activation upon heat stress. In addition we extended the yeast model and 
+created an in silico humanized yeast in which human pro- and anti-apoptotic 
+regulators Bcl-2 family and Valosin-contain protein (VCP) are included in the 
+model. We showed that accumulation of Bax in silico humanized yeast shows 
+apoptotic markers and that VCP is essential target of Akt Signaling. The 
+presented Boolean model provides comprehensive description of yeast apoptosis 
+network behavior. Extended model of humanized yeast gives new insights of how 
+complex human disease like neurodegeneration can initially be tested.
+
+DOI: 10.3389/fphys.2012.00446
+PMCID: PMC3518040
+PMID: 23233838

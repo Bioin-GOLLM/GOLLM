@@ -1,0 +1,42 @@
+1. Front Neurosci. 2023 Oct 6;17:1241919. doi: 10.3389/fnins.2023.1241919. 
+eCollection 2023.
+
+An experimental platform for stochastic analyses of single serotonergic fibers 
+in the mouse brain.
+
+Mays KC(1), Haiman JH(1), Janušonis S(1).
+
+Author information:
+(1)Department of Psychological and Brain Sciences, University of California, 
+Santa Barbara, Santa Barbara, CA, United States.
+
+The self-organization of the serotonergic matrix, a massive axon meshwork in all 
+vertebrate brains, is driven by the structural and dynamical properties of its 
+constitutive elements. Each of these elements, a single serotonergic axon 
+(fiber), has a unique trajectory and can be supported by a soma that executes 
+one of the many available transcriptional programs. This "individuality" of 
+serotonergic neurons necessitates the development of specialized methods for 
+single-fiber analyses, both at the experimental and theoretical levels. We 
+developed an integrated platform that facilitates experimental isolation of 
+single serotonergic fibers in brain tissue, including regions with high fiber 
+densities, and demonstrated the potential of their quantitative analyses based 
+on stochastic modeling. Single fibers were visualized using two transgenic mouse 
+models, one of which is the first implementation of the Brainbow toolbox in this 
+system. The trajectories of serotonergic fibers were automatically traced in the 
+three spatial dimensions with a novel algorithm, and their properties were 
+captured with a single parameter associated with the directional von 
+Mises-Fisher probability distribution. The system represents an end-to-end 
+workflow that can be imported into various studies, including those 
+investigating serotonergic dysfunction in brain disorders. It also supports new 
+research directions inspired by single-fiber analyses in the serotonergic 
+matrix, including supercomputing simulations and modeling in physics.
+
+Copyright © 2023 Mays, Haiman and Janušonis.
+
+DOI: 10.3389/fnins.2023.1241919
+PMCID: PMC10587471
+PMID: 37869509
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

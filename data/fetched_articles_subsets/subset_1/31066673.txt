@@ -1,0 +1,44 @@
+1. Elife. 2019 May 8;8:e46135. doi: 10.7554/eLife.46135.
+
+Generation of endogenous pH-sensitive EGF receptor and its application in 
+high-throughput screening for proteins involved in clathrin-mediated 
+endocytosis.
+
+Larsen MB(1), Perez Verdaguer M(1), Schmidt BF(2), Bruchez MP(2)(3)(4)(5), 
+Watkins SC(1), Sorkin A(1).
+
+Author information:
+(1)Department of Cell Biology, School of Medicine, University of Pittsburgh, 
+Pittsburgh, United States.
+(2)Molecular Biosensor and Imaging Center, Carnegie Mellon University, 
+Pittsburgh, United States.
+(3)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh, 
+United States.
+(4)Department of Chemistry, Carnegie Mellon University, Pittsburgh, United 
+States.
+(5)Sharp Edge Laboratories, Pittsburgh, United States.
+
+Previously we used gene-editing to label endogenous EGF receptor (EGFR) with GFP 
+and demonstrate that picomolar concentrations of EGFR ligand drive signaling and 
+endocytosis of EGFR in tumors in vivo (Pinilla-Macua et al., 2017). We now use 
+gene-editing to insert a fluorogen activating protein (FAP) in the EGFR 
+extracellular domain. Binding of the tandem dye pair MG-Bis-SA to FAP-EGFR 
+provides a ratiometric pH-sensitive model with dual fluorescence excitation and 
+a single far-red emission. The excitation ratio of fluorescence intensities was 
+demonstrated to faithfully report the fraction of FAP-EGFR located in acidic 
+endosomal/lysosomal compartments. Coupling native FAP-EGFR expression with the 
+high method sensitivity has allowed development of a high-throughput assay to 
+measure the rates of clathrin-mediated FAP-EGFR endocytosis stimulated with 
+physiological EGF concentrations. The assay was utilized to screen a phosphatase 
+siRNA library. These studies highlight the utility of endogenous pH-sensitive 
+FAP-receptor chimeras in high-throughput analysis of endocytosis.
+
+© 2019, Larsen et al.
+
+DOI: 10.7554/eLife.46135
+PMCID: PMC6533059
+PMID: 31066673 [Indexed for MEDLINE]
+
+Conflict of interest statement: ML, MP, BS, SW, AS No competing interests 
+declared, MB founder of Sharp Edge Laboratories, a company that licensed the FAP 
+technology from CMU. The author has no other competing interests to declare

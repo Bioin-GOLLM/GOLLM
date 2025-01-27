@@ -1,0 +1,34 @@
+1. Int J Mol Sci. 2022 Nov 16;23(22):14155. doi: 10.3390/ijms232214155.
+
+Hierarchical Voting-Based Feature Selection and Ensemble Learning Model Scheme 
+for Glioma Grading with Clinical and Molecular Characteristics.
+
+Tasci E(1), Zhuge Y(1), Kaur H(1), Camphausen K(1), Krauze AV(1).
+
+Author information:
+(1)Radiation Oncology Branch, Center for Cancer Research, National Cancer 
+Institute, National Institutes of Health, Building 10, Bethesda, MD 20892, USA.
+
+Determining the aggressiveness of gliomas, termed grading, is a critical step 
+toward treatment optimization to increase the survival rate and decrease 
+treatment toxicity for patients. Streamlined grading using molecular information 
+has the potential to facilitate decision making in the clinic and aid in 
+treatment planning. In recent years, molecular markers have increasingly gained 
+importance in the classification of tumors. In this study, we propose a novel 
+hierarchical voting-based methodology for improving the performance results of 
+the feature selection stage and machine learning models for glioma grading with 
+clinical and molecular predictors. To identify the best scheme for the given 
+soft-voting-based ensemble learning model selections, we utilized publicly 
+available TCGA and CGGA datasets and employed four dimensionality reduction 
+methods to carry out a voting-based ensemble feature selection and five 
+supervised models, with a total of sixteen combination sets. We also compared 
+our proposed feature selection method with the LASSO feature selection method in 
+isolation. The computational results indicate that the proposed method achieves 
+87.606% and 79.668% accuracy rates on TCGA and CGGA datasets, respectively, 
+outperforming the LASSO feature selection method.
+
+DOI: 10.3390/ijms232214155
+PMCID: PMC9697273
+PMID: 36430631 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

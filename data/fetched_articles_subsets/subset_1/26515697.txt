@@ -1,0 +1,60 @@
+1. J Physiol. 2016 Feb 1;594(3):567-93. doi: 10.1113/JP271282. Epub 2015 Dec 30.
+
+In silico prediction of drug therapy in catecholaminergic polymorphic 
+ventricular tachycardia.
+
+Yang PC(1), Moreno JD(2), Miyake CY(3), Vaughn-Behrens SB(1), Jeng MT(1), Grandi 
+E(1), Wehrens XH(3)(4), Noskov SY(5), Clancy CE(1).
+
+Author information:
+(1)Department of Pharmacology, School of Medicine, University of California, 
+Davis, CA, USA.
+(2)Division of Cardiology, Department of Medicine, Barnes-Jewish Hospital, 
+Washington University in St Louis, St Louis, MO, USA.
+(3)Cardiovascular Research Institute, Department of Molecular Physiology & 
+Biophysics, Department of Medicine, Cardiology, Baylor College of Medicine, 
+Houston, TX, USA.
+(4)Department of Pediatrics, Texas Children's Hospital, Baylor College of 
+Medicine, and the Cardiovascular Research Institute, Houston, TX, USA.
+(5)Centre for Molecular Simulation, Department of Biological Sciences, Faculty 
+of Science, University of Calgary, Calgary, Alberta, Canada.
+
+Comment in
+    J Physiol. 2016 Nov 1;594(21):6431-6432. doi: 10.1113/JP272497.
+    J Physiol. 2016 Nov 1;594(21):6433-6435. doi: 10.1113/JP273143.
+
+The mechanism of therapeutic efficacy of flecainide for catecholaminergic 
+polymorphic ventricular tachycardia (CPVT) is unclear. Model predictions suggest 
+that Na(+) channel effects are insufficient to explain flecainide efficacy in 
+CPVT. This study represents a first step toward predicting therapeutic 
+mechanisms of drug efficacy in the setting of CPVT and then using these 
+mechanisms to guide modelling and simulation to predict alternative drug 
+therapies. Catecholaminergic polymorphic ventricular tachycardia (CPVT) is an 
+inherited arrhythmia syndrome characterized by fatal ventricular arrhythmias in 
+structurally normal hearts during β-adrenergic stimulation. Current treatment 
+strategies include β-blockade, flecainide and ICD implementation--none of which 
+is fully effective and each comes with associated risk. Recently, flecainide has 
+gained considerable interest in CPVT treatment, but its mechanism of action for 
+therapeutic efficacy is unclear. In this study, we performed in silico 
+mutagenesis to construct a CPVT model and then used a computational modelling 
+and simulation approach to make predictions of drug mechanisms and efficacy in 
+the setting of CPVT. Experiments were carried out to validate model results. Our 
+simulations revealed that Na(+) channel effects are insufficient to explain 
+flecainide efficacy in CPVT. The pure Na(+) channel blocker lidocaine and the 
+antianginal ranolazine were additionally tested and also found to be 
+ineffective. When we tested lower dose combination therapy with flecainide, 
+β-blockade and CaMKII inhibition, our model predicted superior therapeutic 
+efficacy than with flecainide monotherapy. Simulations indicate a 
+polytherapeutic approach may mitigate side-effects and proarrhythmic potential 
+plaguing CPVT pharmacological management today. Importantly, our prediction of a 
+novel polytherapy for CPVT was confirmed experimentally. Our simulations suggest 
+that flecainide therapeutic efficacy in CPVT is unlikely to derive from primary 
+interactions with the Na(+) channel, and benefit may be gained from an 
+alternative multi-drug regimen.
+
+© 2015 The Authors. The Journal of Physiology published by John Wiley & Sons Ltd 
+on behalf of The Physiological Society.
+
+DOI: 10.1113/JP271282
+PMCID: PMC4784170
+PMID: 26515697 [Indexed for MEDLINE]

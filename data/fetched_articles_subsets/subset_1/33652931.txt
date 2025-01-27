@@ -1,0 +1,46 @@
+1. J Clin Med. 2021 Feb 26;10(5):921. doi: 10.3390/jcm10050921.
+
+Diagnosis and Risk Prediction of Dilated Cardiomyopathy in the Era of Big Data 
+and Genomics.
+
+Sammani A(1), Baas AF(2), Asselbergs FW(1)(3)(4), Te Riele ASJM(1).
+
+Author information:
+(1)Department of Cardiology, Division Heart & Lungs, University Medical Center 
+Utrecht, Utrecht University, 3582 CX Utrecht, The Netherlands.
+(2)Department of Genetics, Division Laboratories, Pharmacy and Biomedical 
+Genetics, University Medical Centre Utrecht, University of Utrecht, 3582 CX 
+Utrecht, The Netherlands.
+(3)Institute of Cardiovascular Science, Faculty of Population Health Sciences, 
+University College London, London WC1E 6BT, UK.
+(4)Health Data Research UK and Institute of Health Informatics, University 
+College London, London WC1E 6BT, UK.
+
+Dilated cardiomyopathy (DCM) is a leading cause of heart failure and 
+life-threatening ventricular arrhythmias (LTVA). Work-up and risk stratification 
+of DCM is clinically challenging, as there is great heterogeneity in phenotype 
+and genotype. Throughout the last decade, improved genetic testing of patients 
+has identified genotype-phenotype associations and enhanced evaluation of 
+at-risk relatives leading to better patient prognosis. The field is now ripe to 
+explore opportunities to improve personalised risk assessments. Multivariable 
+risk models presented as "risk calculators" can incorporate a multitude of 
+clinical variables and predict outcome (such as heart failure hospitalisations 
+or LTVA). In addition, genetic risk scores derived from genome/exome-wide 
+association studies can estimate an individual's lifetime genetic risk of 
+developing DCM. The use of clinically granular investigations, such as late 
+gadolinium enhancement on cardiac magnetic resonance imaging, is warranted in 
+order to increase predictive performance. To this end, constructing big data 
+infrastructures improves accessibility of data by using electronic health 
+records, existing research databases, and disease registries. By applying 
+methods such as machine and deep learning, we can model complex interactions, 
+identify new phenotype clusters, and perform prognostic modelling. This review 
+aims to provide an overview of the evolution of DCM definitions as well as its 
+clinical work-up and considerations in the era of genomics. In addition, we 
+present exciting examples in the field of big data infrastructures, personalised 
+prognostic assessment, and artificial intelligence.
+
+DOI: 10.3390/jcm10050921
+PMCID: PMC7956169
+PMID: 33652931
+
+Conflict of interest statement: Authors declare no conflicts of interest

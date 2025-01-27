@@ -1,0 +1,52 @@
+1. Front Aging. 2023 May 31;4:1176451. doi: 10.3389/fragi.2023.1176451.
+eCollection  2023.
+
+Genetic association of mosaic loss of chromosome Y with prostate cancer in men 
+of European and East Asian ancestries: a Mendelian randomization study.
+
+Kobayashi T(1), Hachiya T(2), Ikehata Y(1), Horie S(1)(2).
+
+Author information:
+(1)Department of Urology, Graduate School of Medicine, Juntendo University, 
+Tokyo, Japan.
+(2)Department of Advanced Informatics for Genetic Diseases, Graduate School of 
+Medicine, Juntendo University, Tokyo, Japan.
+
+Background: Genomic instability is a significant hallmark of aging and has a 
+major impact on aging biology. Mosaic loss of chromosome Y (mLOY) in blood cells 
+is a common chromosomal abnormality in aging men and is considered an indicator 
+of genomic instability. Previous studies have indicated a connection between 
+mLOY and prostate cancer risk, but the causal relationship has not been fully 
+established. Methods: To determine the causal effect of mLOY on prostate cancer, 
+we conducted a Mendelian Randomization (MR) study in two ancestral groups. We 
+utilized 125 and 42 mLOY-associated variants as instrumental variables (IVs) in 
+European and East Asian GWAS of prostate cancer, respectively. Summary-level 
+data on prostate cancer was obtained from the PRACTICAL consortium (79,148 cases 
+and 61,106 controls of European ancestry) and the Biobank Japan consortium 
+(5,408 cases and 103,939 controls of East Asian ancestry). A single population 
+was used to assess the causal relationship in East Asian ancestry. Our main 
+method for obtaining MR results was inverse-variance weighted (IVW), and we 
+conducted sensitivity analyses to confirm the robustness of our results. 
+Finally, we combined the estimates from both sources using a fixed-effects 
+meta-analysis. Results: Our MR analysis using the IVW method showed that a 
+one-unit increase in genetically predicted mLOY was associated with an increased 
+risk of prostate cancer in the PRACTICAL consortium (OR = 1.09%, 95% CI: 
+1.05-1.13, p = 1.2 × 10-5), but not in the Biobank Japan consortium (OR = 1.13%, 
+95% CI: 0.88-1.45, p = 0.34). Sensitivity analyses robustly indicated increased 
+odds ratios for prostate cancer with every one-unit increase in genetically 
+predicted mLOY for the PRACTICAL consortium. Furthermore, mLOY was found to be 
+associated with prostate cancer risk in a meta-analysis of both sources (OR = 
+1.09%, 95% CI: 1.05-1.13, p = 8.0 × 10-6). Conclusion: Our MR study provides 
+strong evidence that higher mLOY increases the risk of prostate cancer. 
+Preventing mLOY may be a means of reducing the risk of developing prostate 
+cancer.
+
+Copyright © 2023 Kobayashi, Hachiya, Ikehata and Horie.
+
+DOI: 10.3389/fragi.2023.1176451
+PMCID: PMC10264619
+PMID: 37323536
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

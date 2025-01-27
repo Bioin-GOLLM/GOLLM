@@ -1,0 +1,45 @@
+1. Comput Methods Programs Biomed Update. 2022;2:100066. doi: 
+10.1016/j.cmpbup.2022.100066. Epub 2022 Sep 9.
+
+Machine learning models to detect anxiety and depression through social media: A 
+scoping review.
+
+Ahmed A(1), Aziz S(1), Toro CT(2), Alzubaidi M(3), Irshaidat S(4), Serhan HA(4), 
+Abd-Alrazaq AA(1), Househ M(3).
+
+Author information:
+(1)AI Center for Precision Health, Weill Cornell Medicine-Qatar, Doha, Qatar.
+(2)Institute of Digital Healthcare, WMG University of Warwick, Warwick, UK.
+(3)College of Science and Engineering, Hamad Bin Khalifa University, Doha, 
+Qatar.
+(4)Jordan University Hospital, Amman, Jordan.
+
+Despite improvement in detection rates, the prevalence of mental health 
+disorders such as anxiety and depression are on the rise especially since the 
+outbreak of the COVID-19 pandemic. Symptoms of mental health disorders have been 
+noted and observed on social media forums such Facebook. We explored machine 
+learning models used to detect anxiety and depression through social media. Six 
+bibliographic databases were searched for conducting the review following 
+PRISMA-ScR protocol. We included 54 of 2219 retrieved studies. Users suffering 
+from anxiety or depression were identified in the reviewed studies by screening 
+their online presence and their sharing of diagnosis by patterns in their 
+language and online activity. Majority of the studies (70%, 38/54) were 
+conducted at the peak of the COVID-19 pandemic (2019-2020). The studies made use 
+of social media data from a variety of different platforms to develop predictive 
+models for the detection of depression or anxiety. These included Twitter, 
+Facebook, Instagram, Reddit, Sina Weibo, and a combination of different social 
+sites posts. We report the most common Machine Learning models identified. 
+Identification of those suffering from anxiety and depression disorders may be 
+achieved using prediction models to detect user's language on social media and 
+has the potential to complimenting traditional screening. Such analysis could 
+also provide insights into the mental health of the public especially so when 
+access to health professionals can be restricted due to lockdowns and temporary 
+closure of services such as we saw during the peak of the COVID-19 pandemic.
+
+© 2022 The Authors. Published by Elsevier B.V.
+
+DOI: 10.1016/j.cmpbup.2022.100066
+PMCID: PMC9461333
+PMID: 36105318
+
+Conflict of interest statement: The authors declare no conflict of interest.

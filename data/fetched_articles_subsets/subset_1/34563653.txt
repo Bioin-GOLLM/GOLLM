@@ -1,0 +1,43 @@
+1. J Struct Biol. 2021 Dec;213(4):107799. doi: 10.1016/j.jsb.2021.107799. Epub
+2021  Sep 23.
+
+Molecular dynamics study of enhanced autophosphorylation by S904F mutation of 
+the RET kinase domain.
+
+Chen YJ(1), Li PY(2), Yang CN(3).
+
+Author information:
+(1)Institute of Precision Medicine, National Sun Yat-sen University, Kaohsiung, 
+Taiwan.
+(2)Department of Life Sciences, National University of Kaohsiung, Kaohsiung, 
+Taiwan.
+(3)Institute of Precision Medicine, National Sun Yat-sen University, Kaohsiung, 
+Taiwan. Electronic address: cnyang@mail.nsysu.edu.tw.
+
+The aberrant kinase activity of RET (rearranged during transfection), a 
+transmembrane tyrosine kinase, is associated with human cancer. A point mutation 
+caused by the replacement of solvent-front hydrophilic S904, located on the 
+activation loop (A-loop), with a bulky hydrophobic phenylalanine residue can 
+induce resistance to the type I kinase inhibitor vandetanib. A possible 
+mechanism of this drug resistance is the release of a cis-autoinhibited 
+conformation of RET for autophosphorylation, which activates RET kinase. Because 
+the association between S904F mutation and enhanced autophosphorylation is 
+unclear, we conducted molecular modeling analysis to compare unphosphorylated 
+apo wild-type and S904F mutant structures. The structural compactness of the 
+A-loop promoted ATP binding. When the A-loop is extended, the αC helix moves 
+toward the glycine-rich loop, resulting in the protrusion of F735. The extruded 
+F735 connects with E734 and R912 and constrains the ATP pocket entrance. 
+Contrarily, a contracted A-loop pulls the αC helix away from the glycine-rich 
+loop, burying F734 and making the ATP pocket accessible. The mutated F904 
+stabilizes the contracted A-loop and releases the autoinhibited conformation of 
+RET, thereby facilitating autophosphorylation. We also simulated two ATP-bound 
+systems. The binding free energies of ATP, estimated through the molecular 
+mechanics with a generalized Born and surface area solvation approach, revealed 
+that the S904F mutant was bound more tightly than was the wild type with the 
+ATP. The findings support the premise of autophosphorylation promotion in the 
+S904F mutant.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsb.2021.107799
+PMID: 34563653 [Indexed for MEDLINE]

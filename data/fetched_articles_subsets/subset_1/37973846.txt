@@ -1,0 +1,57 @@
+1. Nat Commun. 2023 Nov 16;14(1):7432. doi: 10.1038/s41467-023-43201-6.
+
+High-sensitive spatially resolved T cell receptor sequencing with SPTCR-seq.
+
+Benotmane JK(1)(2)(3), Kueckelhaus J(1)(2)(3), Will P(1)(2)(3), Zhang 
+J(1)(2)(3), Ravi VM(1)(2)(3)(4), Joseph K(1)(2)(3)(4)(5), Sankowski R(6), Beck 
+J(1)(2), Lee-Chang C(7), Schnell O(1)(2)(4), Heiland DH(8)(9)(10)(11)(12).
+
+Author information:
+(1)Department of Neurosurgery, Medical Center - University of Freiburg, 
+Freiburg, Germany.
+(2)Faculty of Medicine, Freiburg University, Freiburg, Germany.
+(3)Microenvironment and Immunology Research Laboratory, Medical 
+Center-University of Freiburg, Freiburg, Germany.
+(4)Translational NeuroOncology Research Group, Medical Center-University of 
+Freiburg, Freiburg, Germany.
+(5)Center for NeuroModulation (NeuroModul), University of Freiburg, Freiburg, 
+Germany.
+(6)Institute of Neuropathology, Medical Center-University of Freiburg, Freiburg, 
+Germany.
+(7)Department of Neurological Surgery, Northwestern University Feinberg School 
+of Medicine, Chicago, IL, USA.
+(8)Department of Neurosurgery, Medical Center - University of Freiburg, 
+Freiburg, Germany. dieter.henrik.heiland@uniklinik-freiburg.de.
+(9)Faculty of Medicine, Freiburg University, Freiburg, Germany. 
+dieter.henrik.heiland@uniklinik-freiburg.de.
+(10)Microenvironment and Immunology Research Laboratory, Medical 
+Center-University of Freiburg, Freiburg, Germany. 
+dieter.henrik.heiland@uniklinik-freiburg.de.
+(11)Department of Neurological Surgery, Northwestern University Feinberg School 
+of Medicine, Chicago, IL, USA. dieter.henrik.heiland@uniklinik-freiburg.de.
+(12)German Cancer Consortium (DKTK), partner site Freiburg, Freiburg, Germany. 
+dieter.henrik.heiland@uniklinik-freiburg.de.
+
+Spatial resolution of the T cell repertoire is essential for deciphering 
+cancer-associated immune dysfunction. Current spatially resolved transcriptomic 
+technologies are unable to directly annotate T cell receptors (TCR). We present 
+spatially resolved T cell receptor sequencing (SPTCR-seq), which integrates 
+optimized target enrichment and long-read sequencing for highly sensitive TCR 
+sequencing. The SPTCR computational pipeline achieves yield and coverage per TCR 
+comparable to alternative single-cell TCR technologies. Our comparison of 
+PCR-based and SPTCR-seq methods underscores SPTCR-seq's superior ability to 
+reconstruct the entire TCR architecture, including V, D, J regions and the 
+complementarity-determining region 3 (CDR3). Employing SPTCR-seq, we assess 
+local T cell diversity and clonal expansion across spatially discrete niches. 
+Exploration of the reciprocal interaction of the tumor microenvironmental and T 
+cells discloses the critical involvement of NK and B cells in T cell exhaustion. 
+Integrating spatially resolved omics and TCR sequencing provides as a robust 
+tool for exploring T cell dysfunction in cancers and beyond.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41467-023-43201-6
+PMCID: PMC10654577
+PMID: 37973846 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

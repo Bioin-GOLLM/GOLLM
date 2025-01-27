@@ -1,0 +1,49 @@
+1. Anticancer Res. 2023 Dec;43(12):5459-5474. doi: 10.21873/anticanres.16749.
+
+Disclosing Potential Therapeutic Targets Associated With Osimertinib Resistance 
+in the Non-small Cell Lung Cancer Cell Line H1975.
+
+Tong X(1), Zhang R(2), Sun R(2), Yang W(2), Sun J(2), Chen J(2), Li F(3).
+
+Author information:
+(1)Department of Respiratory and Critical Care Medicine, General Hospital of 
+Ningxia Medical University, Ningxia, P.R. China xuexiatong@126.com.
+(2)Department of Respiratory and Critical Care Medicine, General Hospital of 
+Ningxia Medical University, Ningxia, P.R. China.
+(3)Department of Respiratory and Critical Care Medicine, General Hospital of 
+Ningxia Medical University, Ningxia, P.R. China lifang@nxmu.edu.cn.
+
+BACKGROUND/AIM: Osimertinib, a third-generation epidermal growth factor receptor 
+tyrosine kinase inhibitor, is a highly effective and valuable treatment option 
+for advanced non-small cell lung cancer (NSCLC) patients with EGFR mutations, 
+such as T790M. However, acquired resistance ultimately limits its clinical 
+application. In this study, we aimed to identify potential targets for 
+overcoming osimertinib resistance.
+MATERIALS AND METHODS: The H1975/OSI cell line was induced in vitro through 
+intermittent induction. Cell activity was measured using a cell counting kit-8 
+assay. Uni-omics and multi-omics analyses were conducted on the transcriptomic 
+and proteomic (4D label-free) expression profiles, which involved differential 
+expression analysis, GO functional annotation and KEGG pathway enrichment 
+analysis, as well as correlation analysis of transcription factors and PPI 
+network.
+RESULTS: H1975/OSI cells showed resistance towards osimertinib with IC50 values 
+approximately 5.25-fold higher than H1975 cells. A total of 2519 genes were 
+found to be differentially expressed genes (DEGs) and 1533 proteins were found 
+to be differentially abundant proteins (DAPs). Furthermore, 147 genes that were 
+differentially expressed at both the transcription and protein levels (TPGs) 
+were identified as being differentially expressed in both the transcriptome and 
+proteome. It was revealed that many pathways related to the structure and 
+function of ribosomes, as well as metabolites, were altered. The highest 
+connectivity genes of 147 TPGs included NOP56, DDX21, PDCD11, CCNB1, and TOP2A. 
+The hub genes of the transcriptional regulatory network included DDX21, KPNA2, 
+DDX5, BRCA1, LMNB1, and HIF1A.
+CONCLUSION: Collectively, our high-throughput analysis uncovered functional 
+properties that interacted with gene signatures of H1975/OSI cells, and 
+highlighted certain pathways and eleven hub genes that may be the potential 
+targets for improving clinical osimertinib resistance.
+
+Copyright © 2023 International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.16749
+PMID: 38030186 [Indexed for MEDLINE]

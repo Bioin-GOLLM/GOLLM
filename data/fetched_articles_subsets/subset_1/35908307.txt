@@ -1,0 +1,82 @@
+1. Neuroimage Clin. 2022;35:103114. doi: 10.1016/j.nicl.2022.103114. Epub 2022
+Jul  13.
+
+Determining the OPTIMAL DTI analysis method for application in cerebral small 
+vessel disease.
+
+Egle M(1), Hilal S(2), Tuladhar AM(3), Pirpamer L(4), Bell S(5), Hofer E(6), 
+Duering M(7), Wason J(8), Morris RG(9), Dichgans M(10), Schmidt R(4), Tozer 
+DJ(5), Barrick TR(11), Chen C(2), de Leeuw FE(3), Markus HS(5).
+
+Author information:
+(1)Stroke Research Group, Department of Clinical Neurosciences, University of 
+Cambridge, Cambridge, United Kingdom. Electronic address: marco.egle@web.de.
+(2)Department of Pharmacology, National University of Singapore, Singapore; 
+Memory Ageing and Cognition Center, National University Health System, 
+Singapore.
+(3)Department of Neurology, Donders Center for Medical Neuroscience, Radboud 
+University Medical Center, Nijmegen, the Netherlands.
+(4)Department of Neurology, Medical University of Graz, Graz, Austria.
+(5)Stroke Research Group, Department of Clinical Neurosciences, University of 
+Cambridge, Cambridge, United Kingdom.
+(6)Department of Neurology, Medical University of Graz, Graz, Austria; Institute 
+for Medical Informatics, Statistics and Documentation, Medical University of 
+Graz, Graz, Austria.
+(7)Institute for Stroke and Dementia Research, University Hospital, LMU Munich, 
+Munich, Germany; Medical Image Analysis Center (MIAC) and Department of 
+Biomedical Engineering, University of Basel, Basel, Switzerland.
+(8)Population Health Sciences Institute, Newcastle University, Baddiley-Clark 
+Building, Newcastle Upon Tyne, United Kingdom.
+(9)Department of Psychology (R.G.M.), King's College, Institute of Psychiatry, 
+Psychology and Neuroscience, London, United Kingdom.
+(10)Institute for Stroke and Dementia Research, University Hospital, LMU Munich, 
+Munich, Germany; Munich Cluster for Systems Neurology (SyNergy), Munich, 
+Germany; German Center for Neurodegenerative Diseases (DZNE), Munich, Germany.
+(11)Neurosciences Research Centre, Institute for Molecular and Clinical 
+Sciences, St George's, University of London, United Kingdom.
+
+BACKGROUND: DTI is sensitive to white matter (WM) microstructural damage and has 
+been suggested as a surrogate marker for phase 2 clinical trials in cerebral 
+small vessel disease (SVD). The study's objective is to establish the best way 
+to analyse the diffusion-weighted imaging data in SVD for this purpose. The 
+ideal method would be sensitive to change and predict dementia conversion, but 
+also straightforward to implement and ideally automated. As part of the OPTIMAL 
+collaboration, we evaluated five different DTI analysis strategies across six 
+different cohorts with differing SVD severity.
+METHODS: Those 5 strategies were: (1) conventional mean diffusivity WM histogram 
+measure (MD median), (2) a principal component-derived measure based on 
+conventional WM histogram measures (PC1), (3) peak width skeletonized mean 
+diffusivity (PSMD), (4) diffusion tensor image segmentation θ (DSEG θ) and (5) a 
+WM measure of global network efficiency (Geff). The association between each 
+measure and cognitive function was tested using a linear regression model 
+adjusted by clinical markers. Changes in the imaging measures over time were 
+determined. In three cohort studies, repeated imaging data together with data on 
+incident dementia were available. The association between the baseline measure, 
+change measure and incident dementia conversion was examined using Cox 
+proportional-hazard regression or logistic regression models. Sample size 
+estimates for a hypothetical clinical trial were furthermore computed for each 
+DTI analysis strategy.
+RESULTS: There was a consistent cross-sectional association between the imaging 
+measures and impaired cognitive function across all cohorts. All baseline 
+measures predicted dementia conversion in severe SVD. In mild SVD, PC1, PSMD and 
+Geff predicted dementia conversion. In MCI, all markers except Geff predicted 
+dementia conversion. Baseline DTI was significantly different in patients 
+converting to vascular dementia than to Alzheimer' s disease. Significant change 
+in all measures was associated with dementia conversion in severe but not in 
+mild SVD. The automatic and semi-automatic measures PSMD and DSEG θ required the 
+lowest minimum sample sizes for a hypothetical clinical trial in single-centre 
+sporadic SVD cohorts.
+CONCLUSION: DTI parameters obtained from all analysis methods predicted 
+dementia, and there was no clear winner amongst the different analysis 
+strategies. The fully automated analysis provided by PSMD offers advantages 
+particularly for large datasets.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nicl.2022.103114
+PMCID: PMC9421487
+PMID: 35908307 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

@@ -1,0 +1,70 @@
+1. BMC Med. 2022 Feb 7;20(1):64. doi: 10.1186/s12916-021-02197-w.
+
+Common DNA methylation changes in biliary tract cancers identify subtypes with 
+different immune characteristics and clinical outcomes.
+
+Qiu Z(#)(1), Ji J(#)(2), Xu Y(#)(3), Zhu Y(#)(4), Gao C(2), Wang G(3), Li C(3), 
+Zhang Y(3), Zhao J(3), Wang C(5), Wen X(3), Zhang Z(6), Li B(5), Zhang Z(5), Cai 
+S(3), Li B(#)(7), Jiang X(8).
+
+Author information:
+(1)Department of Biliary Tract Surgery I, Eastern Hepatobiliary Surgery 
+Hospital, Secondary Military Medicine University, No. 225 Changhai Road, 
+Shanghai, 200438, China.
+(2)Department of Laboratory Medicine, Eastern Hepatobiliary Surgery Hospital, 
+Secondary Military Medicine University, Shanghai, China.
+(3)Department of Medicine, Burning Rock Biotech, Guangzhou, China.
+(4)Department of Pathology, Changhai Hospital, Shanghai, China.
+(5)Department of Research and Development, Burning Rock Biotech, Guangzhou, 
+China.
+(6)Department of Bioinformatics, Burning Rock Biotech, Guangzhou, China.
+(7)Department of Biliary Tract Surgery I, Eastern Hepatobiliary Surgery 
+Hospital, Secondary Military Medicine University, No. 225 Changhai Road, 
+Shanghai, 200438, China. libinjeff@126.com.
+(8)Department of Biliary Tract Surgery I, Eastern Hepatobiliary Surgery 
+Hospital, Secondary Military Medicine University, No. 225 Changhai Road, 
+Shanghai, 200438, China. jxq1225@sina.com.
+(#)Contributed equally
+
+BACKGROUND: DNA methylation-associated studies on biliary tract cancer (BTC), 
+including cholangiocarcinoma (CCA) and gallbladder cancer (GBC), may improve the 
+BTC classification scheme. We proposed to identify the shared methylation 
+changes of BTCs and investigate their associations with genomic aberrations, 
+immune characteristics, and survival outcomes.
+METHODS: Multi-dimensional data concerning mutation, DNA methylation, 
+immune-related features, and clinical data of 57 CCAs and 48 GBCs from Eastern 
+Hepatobiliary Surgery Hospital (EHSH) and 36 CCAs in the TCGA-CHOL cohort were 
+analyzed.
+RESULTS: In our cohort including 24 intrahepatic CCAs (iCCAs), 20 perihilar CCAs 
+(pCCAs), 13 distal CCAs (dCCAs), and 48 GBCs, 3369 common differentially 
+methylated regions (DMRs) were identified by comparing tumor and non-tumor 
+samples. A lower level of methylation changes of these common DMRs was 
+associated with fewer copy number variations, fewer mutational burden, and 
+remarkably longer overall survival (OS, hazard ratio [HR] = 0.07, 95% confidence 
+interval [CI] 0.01-0.65, P = 0.017). Additionally, a 12-marker model was 
+developed and validated for prognostication after curative surgery (HR = 0.21, 
+95% CI 0.10-0.43, P < 0.001), which exhibited undifferentiated prognostic 
+effects in subgroups defined by anatomic location (iCCAs, d/pCCAs, GBCs), TNM 
+stage, and tumor purity. Its prognostic utility remained significant in 
+multivariable analysis (HR = 0.26, 95% CI 0.11-0.59, P = 0.001). Moreover, the 
+BTCs with minimal methylation changes exhibited higher immune-related 
+signatures, infiltration of CD8+ lymphocytes, and programmed death-ligand 1 
+(PD-L1) expression, indicating an inflamed tumor immune microenvironment (TIME) 
+with PD-L1 expression elicited by immune attack, potentially suggesting better 
+immunotherapy efficacy.
+CONCLUSIONS: In BTCs, DNA methylation is a powerful tool for molecular 
+classification, serving as a robust indicator of genomic aberrations, survival 
+outcomes, and tumor immune microenvironment. Our integrative analysis provides 
+insights into the prognostication after curative surgery and patient selection 
+for immunotherapy.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12916-021-02197-w
+PMCID: PMC8822710
+PMID: 35130881 [Indexed for MEDLINE]
+
+Conflict of interest statement: Y. Xu, G. Wang, C. Li, Y. Zhang, J. Zhao, C. 
+Wang, X. Wen, Z. Zhang, B. Li, H. Zhang, Z. Zhang, and S. Cai are employees of 
+Burning Rock Biotech. The other authors declare that they have no competing 
+interests..

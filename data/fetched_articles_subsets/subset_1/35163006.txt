@@ -1,0 +1,47 @@
+1. Int J Mol Sci. 2022 Jan 19;23(3):1082. doi: 10.3390/ijms23031082.
+
+CRISPR Editing Enables Consequential Tag-Activated MicroRNA-Mediated Endogene 
+Deactivation.
+
+Papasavva PL(1)(2), Patsali P(1)(2), Loucari CC(1)(2), Kurita R(3), Nakamura 
+Y(4), Kleanthous M(1)(2), Lederer CW(1)(2).
+
+Author information:
+(1)Department of Molecular Genetics Thalassemia, The Cyprus Institute of 
+Neurology and Genetics, Nicosia 2371, Cyprus.
+(2)Cyprus School of Molecular Medicine, Nicosia 2371, Cyprus.
+(3)Research and Development Department, Central Blood Institute, Blood Service 
+Headquarters, Japanese Red Cross Society, Koto-ku, Tokyo 135-8521, Japan.
+(4)Cell Engineering Division, RIKEN BioResource Research Center, Tsukuba 
+305-0074, Japan.
+
+Molecular therapies and functional studies greatly benefit from spatial and 
+temporal precision of genetic intervention. We therefore conceived and explored 
+tag-activated microRNA (miRNA)-mediated endogene deactivation (TAMED) as a 
+research tool and potential lineage-specific therapy. For proof of principle, we 
+aimed to deactivate γ-globin repressor BCL11A in erythroid cells by tagging the 
+3' untranslated region (UTR) of BCL11A with miRNA recognition sites (MRSs) for 
+the abundant erythromiR miR-451a. To this end, we employed nucleofection of 
+CRISPR/Cas9 ribonucleoprotein (RNP) particles alongside double- or 
+single-stranded oligodeoxynucleotides for, respectively, 
+non-homologous-end-joining (NHEJ)- or homology-directed-repair (HDR)-mediated 
+MRS insertion. NHEJ-based tagging was imprecise and inefficient (≤6%) and 
+uniformly produced knock-in- and indel-containing MRS tags, whereas HDR-based 
+tagging was more efficient (≤18%), but toxic for longer donors encoding 
+concatenated and thus potentially more efficient MRS tags. Isolation of clones 
+for robust HEK293T cells tagged with a homozygous quadruple MRS resulted in 25% 
+spontaneous reduction in BCL11A and up to 36% reduction after transfection with 
+an miR-451a mimic. Isolation of clones for human umbilical cord blood-derived 
+erythroid progenitor-2 (HUDEP-2) cells tagged with single or double MRS allowed 
+detection of albeit weak γ-globin induction. Our study demonstrates suitability 
+of TAMED for physiologically relevant modulation of gene expression and its 
+unsuitability for therapeutic application in its current form.
+
+DOI: 10.3390/ijms23031082
+PMCID: PMC8834719
+PMID: 35163006 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

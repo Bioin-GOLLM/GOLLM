@@ -1,0 +1,66 @@
+1. BMC Genet. 2020 Jul 16;21(1):77. doi: 10.1186/s12863-020-00884-w.
+
+Genome-wide characterization of copy number variations in the host genome in 
+genetic resistance to Marek's disease using next generation sequencing.
+
+Bai H(1)(2)(3), He Y(2)(4), Ding Y(2), Chu Q(2)(5), Lian L(6), Heifetz EM(7), 
+Yang N(6), Cheng HH(8), Zhang H(8), Chen J(3), Song J(9).
+
+Author information:
+(1)Joint International Research Laboratory of Agriculture and Agri-Product 
+Safety, the Ministry of Education of China, Institutes of Agricultural Science 
+and Technology Development, Yangzhou University, Yangzhou, 225009, China.
+(2)Department of Animal & Avian Sciences, University of Maryland, College Park, 
+MD, 20742, USA.
+(3)Key Laboratory of Animal (Poultry) Genetics Breeding and Reproduction, 
+Ministry of Agriculture, Institute of Animal Science, Chinese Academy of 
+Agricultural Sciences, Beijing, 100193, China.
+(4)Department of Human Nutrition, Food and Animal Sciences, University of Hawaii 
+at Manoa, Honolulu, HI, 96822, USA.
+(5)Institute of Animal Husbandry and Veterinary Medicine, Beijing Academy of 
+Agriculture and Forestry Sciences, Beijing, 100097, China.
+(6)Department of Animal Genetics and Breeding, College of Animal Science and 
+Technology, China Agricultural University, Beijing, 100193, China.
+(7)Faculty of Health Sciences, Jerusalem College of Technology, 9116001, 
+Jerusalem, Israel.
+(8)USDA, Agricultural Research Service, Avian Disease and Oncology Laboratory, 
+East Lansing, MI, 48823, USA.
+(9)Department of Animal & Avian Sciences, University of Maryland, College Park, 
+MD, 20742, USA. songj88@umd.edu.
+
+BACKGROUND: Marek's disease (MD) is a highly neoplastic disease primarily 
+affecting chickens, and remains as a chronic infectious disease that threatens 
+the poultry industry. Copy number variation (CNV) has been examined in many 
+species and is recognized as a major source of genetic variation that directly 
+contributes to phenotypic variation such as resistance to infectious diseases. 
+Two highly inbred chicken lines, 63 (MD-resistant) and 72 (MD-susceptible), as 
+well as their F1 generation and six recombinant congenic strains (RCSs) with 
+varied susceptibility to MD, are considered as ideal models to identify the 
+complex mechanisms of genetic and molecular resistance to MD.
+RESULTS: In the present study, to unravel the potential genetic mechanisms 
+underlying resistance to MD, we performed a genome-wide CNV detection using next 
+generation sequencing on the inbred chicken lines with the assistance of 
+CNVnator. As a result, a total of 1649 CNV regions (CNVRs) were successfully 
+identified after merging all the nine datasets, of which 90 CNVRs were 
+overlapped across all the chicken lines. Within these shared regions, 1360 
+harbored genes were identified. In addition, 55 and 44 CNVRs with 62 and 57 
+harbored genes were specifically identified in line 63 and 72, respectively. 
+Bioinformatics analysis showed that the nearby genes were significantly enriched 
+in 36 GO terms and 6 KEGG pathways including JAK/STAT signaling pathway. Ten 
+CNVRs (nine deletions and one duplication) involved in 10 disease-related genes 
+were selected for validation by using quantitative real-time PCR (qPCR), all of 
+which were successfully confirmed. Finally, qPCR was also used to validate two 
+deletion events in line 72 that were definitely normal in line 63. One 
+high-confidence gene, IRF2 was identified as the most promising candidate gene 
+underlying resistance and susceptibility to MD in view of its function and 
+overlaps with data from previous study.
+CONCLUSIONS: Our findings provide valuable insights for understanding the 
+genetic mechanism of resistance to MD and the identified gene and pathway could 
+be considered as the subject of further functional characterization.
+
+DOI: 10.1186/s12863-020-00884-w
+PMCID: PMC7364486
+PMID: 32677890 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

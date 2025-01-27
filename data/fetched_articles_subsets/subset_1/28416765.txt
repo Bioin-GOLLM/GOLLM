@@ -1,0 +1,38 @@
+1. Oncotarget. 2017 Jun 6;8(23):37032-37040. doi: 10.18632/oncotarget.16144.
+
+LoLoPicker: detecting low allelic-fraction variants from low-quality cancer 
+samples.
+
+Carrot-Zhang J(1)(2), Majewski J(3)(4).
+
+Author information:
+(1)Cancer Program, The Broad Institute of Harvard and MIT, Cambridge, 
+Massachusetts, USA.
+(2)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, 
+Massachusetts, USA.
+(3)Department of Human Genetics, McGill University, Montreal, Quebec, Canada.
+(4)Genome Quebec Innovation Centre, Montreal, Quebec, Canada.
+
+INTRODUCTION: Although several programs are designed to identify variants with 
+low allelic-fraction, further improvement is needed, especially to push the 
+detection limit of low allelic-faction variants in low-quality, "noisy" tumor 
+samples.
+RESULTS: We developed LoLoPicker, an efficient tool dedicated to calling somatic 
+variants from next-generation sequencing (NGS) data of tumor sample against the 
+matched normal sample plus a user-defined control panel of additional normal 
+samples. The control panel allows accurately estimating background error rate 
+and therefore ensures high-accuracy mutation detection.
+CONCLUSIONS: Compared to other methods, we showed a superior performance of 
+LoLoPicker with significantly improved specificity. The algorithm of LoLoPicker 
+is particularly useful for calling low allelic-fraction variants from 
+low-quality cancer samples such as formalin-fixed and paraffin-embedded (FFPE) 
+samples.Implementation and Availability: The main scripts are implemented in 
+Python-2.7 and the package is released at 
+https://github.com/jcarrotzhang/LoLoPicker.
+
+DOI: 10.18632/oncotarget.16144
+PMCID: PMC5514890
+PMID: 28416765 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare that 
+they have no competing interests.

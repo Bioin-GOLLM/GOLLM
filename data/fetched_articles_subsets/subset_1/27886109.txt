@@ -1,0 +1,49 @@
+1. Int J Mol Sci. 2016 Nov 23;17(11):1962. doi: 10.3390/ijms17111962.
+
+Influence of Secondary-Structure Folding on the Mutually Exclusive Folding 
+Process of GL5/I27 Protein: Evidence from Molecular Dynamics Simulations.
+
+Wang Q(1), Wang Y(2), Chen G(3).
+
+Author information:
+(1)Key Laboratory of Theoretical and Computational Photochemistry, Ministry of 
+Education, College of Chemistry, Beijing Normal University, Beijing 100875, 
+China. wangqing0409@163.com.
+(2)Key Laboratory of Theoretical and Computational Photochemistry, Ministry of 
+Education, College of Chemistry, Beijing Normal University, Beijing 100875, 
+China. wangy@bnu.edu.cn.
+(3)Key Laboratory of Theoretical and Computational Photochemistry, Ministry of 
+Education, College of Chemistry, Beijing Normal University, Beijing 100875, 
+China. gjchen@bnu.edu.cn.
+
+Mutually exclusive folding proteins are a class of multidomain proteins in which 
+the host domain remains folded while the guest domain is unfolded, and both 
+domains achieve exchange of their folding status by a mutual exclusive folding 
+(MEF) process. We carried out conventional and targeted molecular dynamics 
+simulations for the mutually exclusive folding protein of GL5/I27 to address the 
+MEF transition mechanisms. We constructed two starting models and two targeted 
+models, i.e., the starting models GL5/I27-S and GL5/I27-ST in which the first 
+model involves the host domain GL5 and the secondary-structure unfolded guest 
+domain I27-S, while the second model involves the host domain GL5 and the 
+secondary/tertiary-structure extending guest domain I27-ST, and the target 
+models GL5-S/I27 and GL5-ST/I27 in which GL5-S and GL5-ST represent the 
+secondary-structure unfolding and the secondary/tertiary-structure extending, 
+respectively. We investigated four MEF transition processes from both starting 
+models to both target models. Based on structural changes and the variations of 
+the radius of gyration (Rg) and the fractions of native contacts (Q), the 
+formation of the secondary structure of the I27-guest domain induces significant 
+extending of the GL5-host domain; but the primary shrinking of the tertiary 
+structure of the I27-guest domain causes insignificant extending of the GL5-host 
+domain during the processes. The results indicate that only formation of the 
+secondary structure in the I27-guest domain provides the main driving force for 
+the mutually exclusive folding/unfolding between the I27-guest and GL5-host 
+domains. A special structure as an intermediate with both host and guest domains 
+being folded at the same time was found, which was suggested by the experiment. 
+The analysis of hydrogen bonds and correlation motions supported the studied 
+transition mechanism with the dynamical "tug-of-war" phenomenon.
+
+DOI: 10.3390/ijms17111962
+PMCID: PMC5133956
+PMID: 27886109 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

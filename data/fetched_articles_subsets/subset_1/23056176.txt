@@ -1,0 +1,47 @@
+1. PLoS One. 2012;7(10):e43939. doi: 10.1371/journal.pone.0043939. Epub 2012 Oct
+9.
+
+Identification of functional SNPs in BARD1 gene and in silico analysis of 
+damaging SNPs: based on data procured from dbSNP database.
+
+Alshatwi AA(1), Hasan TN, Syed NA, Shafi G, Grace BL.
+
+Author information:
+(1)Molecular Cancer Biology Research Laboratory, Department of Food Science and 
+Nutrition, King Saud University, Riyadh, Saudi Arabia. alialshatwi@gmail.com
+
+BACKGROUND: The BARD1 gene encodes for the BRCA1-associated RING domain (BARD1) 
+protein. Germ line and somatic mutations in BARD1 are found in sporadic breast, 
+ovarian and uterine cancers. There is a plethora of single nucleotide 
+polymorphisms (SNPs) which may or may not be involved in the onset of female 
+cancers. Hence, before planning a larger population study, it is advisable to 
+sort out the possible functional SNPs. To accomplish this goal, data available 
+in the dbSNP database and different computer programs can be used. To the best 
+of our knowledge, until now there has been no such study on record for the BARD1 
+gene. Therefore, this study was undertaken to find the functional nsSNPs in 
+BARD1.
+RESULT: 2.85% of all SNPs in the dbSNP database were present in the coding 
+regions. SIFT predicted 11 out of 50 nsSNPs as not tolerable and PolyPhen 
+assessed 27 out of 50 nsSNPs as damaging. FastSNP revealed that the rs58253676 
+SNP in the 3' UTR may have splicing regulator and enhancer functions. In the 5' 
+UTR, rs17489363 and rs17426219 may alter the transcriptional binding site. The 
+intronic region SNP rs67822872 may have a medium-high risk level. The protein 
+structures 1JM7, 3C5R and 2NTE were predicted by PDBSum and shared 100% 
+similarity with the BARD1 amino acid sequence. Among the predicted nsSNPs, 
+rs4986841, rs111367604, rs13389423 and rs139785364 were identified as 
+deleterious and damaging by the SIFT and PolyPhen programs. Additionally, 
+I-Mutant showed a decrease in stability for these nsSNPs upon mutation. Finally, 
+the ExPASy-PROSIT program revealed that the predicted deleterious mutations are 
+contained in the ankyrin ring and BRCT domains.
+CONCLUSION: Using the available bioinformatics tools and the data present in the 
+dbSNP database, the four nsSNPs, rs4986841, rs111367604, rs13389423 and 
+rs139785364, were identified as deleterious, reducing the protein stability of 
+BARD1. Hence, these SNPs can be used for the larger population-based studies of 
+female cancers.
+
+DOI: 10.1371/journal.pone.0043939
+PMCID: PMC3467277
+PMID: 23056176 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

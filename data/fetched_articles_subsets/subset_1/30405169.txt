@@ -1,0 +1,39 @@
+1. Sci Rep. 2018 Nov 7;8(1):16478. doi: 10.1038/s41598-018-34605-2.
+
+Dynamic recognition and linkage specificity in K63 di-ubiquitin and TAB2 NZF 
+domain complex.
+
+Moritsugu K(1), Nishi H(2)(3), Inariyama K(2), Kobayashi M(2), Kidera A(2).
+
+Author information:
+(1)Graduate School of Medical Life Science, Yokohama City University, 1-7-29 
+Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan. moritugu@yokohama-cu.ac.jp.
+(2)Graduate School of Medical Life Science, Yokohama City University, 1-7-29 
+Suehiro-cho, Tsurumi-ku, Yokohama, 230-0045, Japan.
+(3)Graduate School of Information Sciences, Tohoku University, 6-3-09 
+Aramaki-aza Aoba, Aoba-ku, Sendai, Miyagi, 980-8579, Japan.
+
+Poly-ubiquitin (poly-Ub) is involved in various cellular processes through the 
+linkage-specific recognition of Ub-binding domains (UBD). In this study, using 
+molecular dynamics (MD) simulation together with an enhanced sampling method, we 
+demonstrated that K63-linked di-Ub recognizes the NZF domain of TAB2, a zinc 
+finger UBD, in an ensemble of highly dynamic structures that form from the weak 
+interactions between UBD and the flexible linker connecting the two Ubs. 
+However, the K63 di-Ub/TAB2 NZF complex showed a much more compact and stable 
+ensemble than the non-native complexes, linear di-Ub/TAB2 NZF and K33 di-Ub/TAB2 
+NZF, that were modeled from linear di-Ub/HOIL-1L NZF and K33 di-Ub/TRABID NZF1, 
+respectively. We further demonstrated the importance of the length and position 
+of the Ub-Ub linker in the results of MD simulations of K63 di-Ub/TAB2 NZF by 
+changing the Ub linkage from the native K63 to four different non-native 
+linkages, linear, K6, K11, and K48, while maintaining inter-molecular contacts 
+in the native complex. No systems with non-native linkage maintained the native 
+binding configuration. These simulation results provide an atomistic picture of 
+the linkage specific recognition of poly-Ubs leading to the biological functions 
+such as cellular colocalization of various component proteins in the signal 
+transduction pathways.
+
+DOI: 10.1038/s41598-018-34605-2
+PMCID: PMC6220233
+PMID: 30405169 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

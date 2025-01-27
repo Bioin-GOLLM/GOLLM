@@ -1,0 +1,28 @@
+1. Mol Syst Biol. 2007;3:144. doi: 10.1038/msb4100188. Epub 2007 Nov 13.
+
+Ligand-dependent responses of the ErbB signaling network: experimental and 
+modeling analyses.
+
+Birtwistle MR(1), Hatakeyama M, Yumoto N, Ogunnaike BA, Hoek JB, Kholodenko BN.
+
+Author information:
+(1)Department of Chemical Engineering, University of Delaware, Newark, DE, USA.
+
+Deregulation of ErbB signaling plays a key role in the progression of multiple 
+human cancers. To help understand ErbB signaling quantitatively, in this work we 
+combine traditional experiments with computational modeling, building a model 
+that describes how stimulation of all four ErbB receptors with epidermal growth 
+factor (EGF) and heregulin (HRG) leads to activation of two critical downstream 
+proteins, extracellular-signal-regulated kinase (ERK) and Akt. Model analysis 
+and experimental validation show that (i) ErbB2 overexpression, which occurs in 
+approximately 25% of all breast cancers, transforms transient EGF-induced 
+signaling into sustained signaling, (ii) HRG-induced ERK activity is much more 
+robust to the ERK cascade inhibitor U0126 than EGF-induced ERK activity, and 
+(iii) phosphoinositol-3 kinase is a major regulator of post-peak but not 
+pre-peak EGF-induced ERK activity. Sensitivity analysis leads to the hypothesis 
+that ERK activation is robust to parameter perturbation at high ligand doses, 
+while Akt activation is not.
+
+DOI: 10.1038/msb4100188
+PMCID: PMC2132449
+PMID: 18004277 [Indexed for MEDLINE]

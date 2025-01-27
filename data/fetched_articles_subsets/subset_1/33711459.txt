@@ -1,0 +1,54 @@
+1. Contemp Clin Trials. 2021 May;104:106338. doi: 10.1016/j.cct.2021.106338. Epub
+ 2021 Mar 10.
+
+Shotgun: A Bayesian seamless phase I-II design to accelerate the development of 
+targeted therapies and immunotherapy.
+
+Jiang L(1), Li R(2), Yan F(3), Yap TA(4), Yuan Y(5).
+
+Author information:
+(1)Research Center of Biostatistics and Computational Pharmacy, China 
+Pharmaceutical University, Nanjing, China; Department of Biostatistics, The 
+University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA.
+(2)The Center for Drug Evaluation, The National Medical Products Administration, 
+Beijing, China.
+(3)Research Center of Biostatistics and Computational Pharmacy, China 
+Pharmaceutical University, Nanjing, China.
+(4)Department of Investigational Cancer Therapeutics (Phase I Program), The 
+University of Texas MD Anderson Cancer Center, Houston, TX, 77030, USA; Khalifa 
+Institute for Personalized Cancer Therapy, The University of Texas MD Anderson 
+Cancer Center, Houston, TX, 77030, USA; The Institute for Applied Cancer 
+Science, The University of Texas MD Anderson Cancer Center, Houston, TX, 77030, 
+USA.
+(5)Department of Biostatistics, The University of Texas MD Anderson Cancer 
+Center, Houston, TX, 77030, USA. Electronic address: yyuan@mdanderson.org.
+
+Drug development of novel antitumor agents is conventionally divided by phase 
+and cancer indication. With the advent of new molecularly targeted therapies and 
+immunotherapies, this approach has become inefficient and dysfunctional. We 
+propose a Bayesian seamless phase I-II "shotgun" design to evaluate the safety 
+and antitumor efficacy of a new drug in multiple cancer indications 
+simultaneously. "Shotgun" is used to describe the design feature that the trial 
+begins with an all-comer dose finding phase to identify the maximum tolerated 
+dose (MTD) or recommended phase II dose (RP2D), and then is seamlessly split to 
+multiple indication-specific cohort expansions. Patients treated during dose 
+finding are rolled over to the cohort expansion for more efficient evaluation of 
+efficacy, while patients enrolled in cohort expansion contribute to the 
+continuous learning of the safety and tolerability of the new drug. During 
+cohort expansion, interim analyses are performed to discontinue ineffective or 
+unsafe expansion cohorts early. To improve the efficiency of such interim 
+analyses, we propose a clustered Bayesian hierarchical model (CBHM) to 
+adaptively borrow information across indications. A simulation study shows that 
+compared to conventional approaches and the standard Bayesian hierarchical 
+model, the shotgun design has substantially higher probabilities to discover 
+indications that are responsive to the treatment in question, and is associated 
+with a reasonable false discovery rate. The shotgun provides a phase I-II trial 
+design for accelerating drug development and to build a more robust foundation 
+for subsequent phase III trials. The proposed CBHM methodology also provides an 
+efficient design for basket trials.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cct.2021.106338
+PMCID: PMC8180491
+PMID: 33711459 [Indexed for MEDLINE]

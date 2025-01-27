@@ -1,0 +1,70 @@
+1. Front Oncol. 2022 Aug 30;12:844250. doi: 10.3389/fonc.2022.844250. eCollection
+ 2022.
+
+DNA damage response and repair genes in advanced bone and soft tissue sarcomas: 
+An 8-gene signature as a candidate predictive biomarker of response to 
+trabectedin and olaparib combination.
+
+Merlini A(1)(2), Centomo ML(1)(2), Ferrero G(3)(4), Chiabotto G(5), Miglio U(1), 
+Berrino E(1)(5), Giordano G(1)(2), Brusco S(1)(2), Pisacane A(1), Maldi E(1), 
+Sarotto I(1), Capozzi F(1), Lano C(1)(2), Isella C(1)(2), Crisafulli G(1)(2), 
+Aglietta M(1)(2), Dei Tos AP(6)(7), Sbaraglia M(6), Sangiolo D(1)(2), D'Ambrosio 
+L(1)(2)(8), Bardelli A(1)(2), Pignochino Y(1)(3), Grignani G(1).
+
+Author information:
+(1)Candiolo Cancer Institute, FPO-IRCCS, Turin, Italy.
+(2)Department of Oncology, University of Torino, Turin, Italy.
+(3)Department of Clinical and Biological Sciences, University of Torino, Turin, 
+Italy.
+(4)Department of Computer Science, University of Torino, Turin, Italy.
+(5)Department of Medical Sciences, University of Torino, Turin, Italy.
+(6)Department of Pathology, Azienda Ospedale-Università Padova, Padua, Italy.
+(7)Department of Medicine (DIMED), University of Padua School of Medicine, 
+Padua, Italy.
+(8)Medical Oncology, AOU San Luigi Gonzaga, Orbassano (TO), Italy.
+
+BACKGROUND: Advanced and unresectable bone and soft tissue sarcomas (BSTS) still 
+represent an unmet medical need. We demonstrated that the alkylating agent 
+trabectedin and the PARP1-inhibitor olaparib display antitumor activity in BSTS 
+preclinical models. Moreover, in a phase Ib clinical trial (NCT02398058), 
+feasibility, tolerability and encouraging results have been observed and the 
+treatment combination is currently under study in a phase II trial 
+(NCT03838744).
+METHODS: Differential expression of genes involved in DNA Damage Response and 
+Repair was evaluated by Nanostring® technology, extracting RNA from 
+pre-treatment tumor samples of 16 responder (≥6-month progression free survival) 
+and 16 non-responder patients. Data validation was performed by quantitative 
+real-time PCR, RNA in situ hybridization, and immunohistochemistry. The 
+correlation between the identified candidate genes and both progression-free 
+survival and overall survival was investigated in the publicly available dataset 
+"Sarcoma (TCGA, The Cancer Genome Atlas)".
+RESULTS: Differential RNA expression analysis revealed an 8-gene signature 
+(CDKN2A, PIK3R1, SLFN11, ATM, APEX2, BLM, XRCC2, MAD2L2) defining patients with 
+better outcome upon trabectedin+olaparib treatment. In responder vs. 
+non-responder patients, a significant differential expression of these genes was 
+further confirmed by RNA in situ hybridization and by qRT-PCR and 
+immunohistochemistry in selected experiments. Correlation between survival 
+outcomes and genetic alterations in the identified genes was shown in the TCGA 
+sarcoma dataset.
+CONCLUSIONS: This work identified an 8-gene expression signature to improve 
+prediction of response to trabectedin+olaparib combination in BSTS. The 
+predictive role of these potential biomarkers warrants further investigation.
+
+Copyright © 2022 Merlini, Centomo, Ferrero, Chiabotto, Miglio, Berrino, 
+Giordano, Brusco, Pisacane, Maldi, Sarotto, Capozzi, Lano, Isella, Crisafulli, 
+Aglietta, Dei Tos, Sbaraglia, Sangiolo, D’Ambrosio, Bardelli, Pignochino and 
+Grignani.
+
+DOI: 10.3389/fonc.2022.844250
+PMCID: PMC9469659
+PMID: 36110934
+
+Conflict of interest statement: GGr has received fees for consulting/advisory 
+roles from PharmaMar, Lilly, Novartis, Bayer, and Eisai. LDA received travel 
+grant from PharmaMar and Lilly. MA has received fees for consulting/advisory 
+roles from Bristol- Myers Squibb, Merck, and Roche. AB served in a 
+consulting/advisory role for Illumina and Inivata. AB is cofounder and 
+shareholder of NeoPhore. AB is a member of the NeoPhore scientific advisory 
+board. The remaining authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could be construed as 
+a potential conflict of interest.

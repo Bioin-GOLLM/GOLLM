@@ -1,0 +1,55 @@
+1. J Mol Cell Cardiol. 2016 Mar;92:82-92. doi: 10.1016/j.yjmcc.2016.01.024. Epub 
+2016 Jan 28.
+
+Ryanodine receptor sensitivity governs the stability and synchrony of local 
+calcium release during cardiac excitation-contraction coupling.
+
+Wescott AP(1), Jafri MS(2), Lederer WJ(1), Williams GS(3).
+
+Author information:
+(1)Center for Biomedical Engineering and Technology & Department of Physiology, 
+University of Maryland, Baltimore, Baltimore, MD, United States.
+(2)Center for Biomedical Engineering and Technology & Department of Physiology, 
+University of Maryland, Baltimore, Baltimore, MD, United States; Molecular 
+Neuroscience Department, George Mason University, Fairfax, VA, United States.
+(3)Center for Biomedical Engineering and Technology & Department of Physiology, 
+University of Maryland, Baltimore, Baltimore, MD, United States. Electronic 
+address: gswill@umaryland.edu.
+
+Calcium-induced calcium release is the principal mechanism that triggers the 
+cell-wide [Ca(2+)]i transient that activates muscle contraction during cardiac 
+excitation-contraction coupling (ECC). Here, we characterize this process in 
+mouse cardiac myocytes with a novel mathematical action potential (AP) model 
+that incorporates realistic stochastic gating of voltage-dependent L-type 
+calcium (Ca(2+)) channels (LCCs) and sarcoplasmic reticulum (SR) Ca(2+) release 
+channels (the ryanodine receptors, RyR2s). Depolarization of the sarcolemma 
+during an AP stochastically activates the LCCs elevating subspace [Ca(2+)] 
+within each of the cell's 20,000 independent calcium release units (CRUs) to 
+trigger local RyR2 opening and initiate Ca(2+) sparks, the fundamental unit of 
+triggered Ca(2+) release. Synchronization of Ca(2+) sparks during systole 
+depends on the nearly uniform cellular activation of LCCs and the likelihood of 
+local LCC openings triggering local Ca(2+) sparks (ECC fidelity). The detailed 
+design and true SR Ca(2+) pump/leak balance displayed by our model permits 
+investigation of ECC fidelity and Ca(2+) spark fidelity, the balance between 
+visible (Ca(2+) spark) and invisible (Ca(2+) quark/sub-spark) SR Ca(2+) release 
+events. Excess SR Ca(2+) leak is examined as a disease mechanism in the context 
+of "catecholaminergic polymorphic ventricular tachycardia (CPVT)", a 
+Ca(2+)-dependent arrhythmia. We find that that RyR2s (and therefore Ca(2+) 
+sparks) are relatively insensitive to LCC openings across a wide range of 
+membrane potentials; and that key differences exist between Ca(2+) sparks evoked 
+during quiescence, diastole, and systole. The enhanced RyR2 [Ca(2+)]i 
+sensitivity during CPVT leads to increased Ca(2+) spark fidelity resulting in 
+asynchronous systolic Ca(2+) spark activity. It also produces increased 
+diastolic SR Ca(2+) leak with some prolonged Ca(2+) sparks that at times become 
+"metastable" and fail to efficiently terminate. There is a huge margin of safety 
+for stable Ca(2+) handling within the cell and this novel mechanistic model 
+provides insight into the molecular signaling characteristics that help maintain 
+overall Ca(2+) stability even under the conditions of high SR Ca(2+) leak during 
+CPVT. Finally, this model should provide tools for investigators to examine 
+normal and pathological Ca(2+) signaling characteristics in the heart.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.yjmcc.2016.01.024
+PMCID: PMC4807626
+PMID: 26827896 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. Adv Appl Bioinform Chem. 2012;5:23-59. doi: 10.2147/AABC.S32622. Epub 2012 Sep
+ 7.
+
+A novel biclustering approach with iterative optimization to analyze gene 
+expression data.
+
+Sutheeworapong S(1), Ota M, Ohta H, Kinoshita K.
+
+Author information:
+(1)Department of Biological Sciences, Graduate School of Biosciences and 
+Biotechnology, Tokyo Institute of Technology, Tokyo, Japan ; Graduate School of 
+Information Sciences, Tohoku University, Miyagi, Japan.
+
+OBJECTIVE: With the dramatic increase in microarray data, biclustering has 
+become a promising tool for gene expression analysis. Biclustering has been 
+proven to be superior over clustering in identifying multifunctional genes and 
+searching for co-expressed genes under a few specific conditions; that is, a 
+subgroup of all conditions. Biclustering based on a genetic algorithm (GA) has 
+shown better performance than greedy algorithms, but the overlap state for 
+biclusters must be treated more systematically.
+RESULTS: We developed a new biclustering algorithm (binary-iterative genetic 
+algorithm [BIGA]), based on an iterative GA, by introducing a novel, 
+ternary-digit chromosome encoding function. BIGA searches for a set of 
+biclusters by iterative binary divisions that allow the overlap state to be 
+explicitly considered. In addition, the average of the Pearson's correlation 
+coefficient was employed to measure the relationship of genes within a 
+bicluster, instead of the mean square residual, the popular classical index. As 
+compared to the six existing algorithms, BIGA found highly correlated 
+biclusters, with large gene coverage and reasonable gene overlap. The gene 
+ontology (GO) enrichment showed that most of the biclusters are significant, 
+with at least one GO term over represented.
+CONCLUSION: BIGA is a powerful tool to analyze large amounts of gene expression 
+data, and will facilitate the elucidation of the underlying functional 
+mechanisms in living organisms.
+
+DOI: 10.2147/AABC.S32622
+PMCID: PMC3459542
+PMID: 23055751

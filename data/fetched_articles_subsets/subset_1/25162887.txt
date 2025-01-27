@@ -1,0 +1,48 @@
+1. N Engl J Med. 2014 Aug 28;371(9):808-17. doi: 10.1056/NEJMoa1403141.
+
+Two clinical phenotypes in polycythemia vera.
+
+Spivak JL(1), Considine M, Williams DM, Talbot CC Jr, Rogers O, Moliterno AR, 
+Jie C, Ochs MF.
+
+Author information:
+(1)From the Division of Hematology, Department of Medicine (J.L.S., D.M.W., 
+O.R., A.R.M.), Division of Biostatistics and Bioinformatics, Sidney Kimmel 
+Comprehensive Cancer Center (M.C.), and the Basic Science Institute (C.C.T.), 
+Johns Hopkins University School of Medicine, Baltimore; the Department of 
+Surgery, Northwestern University Feinberg School of Medicine, Chicago (C.J.); 
+and the Department of Mathematics and Statistics, College of New Jersey, Ewing 
+(M.F.O.).
+
+BACKGROUND: Polycythemia vera is the ultimate phenotypic consequence of the 
+V617F mutation in Janus kinase 2 (encoded by JAK2), but the extent to which this 
+mutation influences the behavior of the involved CD34+ hematopoietic stem cells 
+is unknown.
+METHODS: We analyzed gene expression in CD34+ peripheral-blood cells from 19 
+patients with polycythemia vera, using oligonucleotide microarray technology 
+after correcting for potential confounding by sex, since the phenotypic features 
+of the disease differ between men and women.
+RESULTS: Men with polycythemia vera had twice as many up-regulated or 
+down-regulated genes as women with polycythemia vera, in a comparison of gene 
+expression in the patients and in healthy persons of the same sex, but there 
+were 102 genes with differential regulation that was concordant in men and 
+women. When these genes were used for class discovery by means of unsupervised 
+hierarchical clustering, the 19 patients could be divided into two groups that 
+did not differ significantly with respect to age, neutrophil JAK2 V617F allele 
+burden, white-cell count, platelet count, or clonal dominance. However, they did 
+differ significantly with respect to disease duration; hemoglobin level; 
+frequency of thromboembolic events, palpable splenomegaly, and splenectomy; 
+chemotherapy exposure; leukemic transformation; and survival. The unsupervised 
+clustering was confirmed by a supervised approach with the use of a 
+top-scoring-pair classifier that segregated the 19 patients into the same two 
+phenotypic groups with 100% accuracy.
+CONCLUSIONS: Removing sex as a potential confounder, we identified an accurate 
+molecular method for classifying patients with polycythemia vera according to 
+disease behavior, independently of their JAK2 V617F allele burden, and 
+identified previously unrecognized molecular pathways in polycythemia vera 
+outside the canonical JAK2 pathway that may be amenable to targeted therapy. 
+(Funded by the Department of Defense and the National Institutes of Health.).
+
+DOI: 10.1056/NEJMoa1403141
+PMCID: PMC4211877
+PMID: 25162887 [Indexed for MEDLINE]

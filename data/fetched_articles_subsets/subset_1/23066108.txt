@@ -1,0 +1,32 @@
+1. Nucleic Acids Res. 2012 Dec;40(22):11189-201. doi: 10.1093/nar/gks918. Epub
+2012  Oct 12.
+
+LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering 
+cell-population heterogeneity from high-throughput sequencing datasets.
+
+Wilm A(1), Aw PP, Bertrand D, Yeo GH, Ong SH, Wong CH, Khor CC, Petric R, 
+Hibberd ML, Nagarajan N.
+
+Author information:
+(1)Genome Institute of Singapore, 60 Biopolis Street, Genome, #02-01, Singapore 
+138672, Singapore.
+
+The study of cell-population heterogeneity in a range of biological systems, 
+from viruses to bacterial isolates to tumor samples, has been transformed by 
+recent advances in sequencing throughput. While the high-coverage afforded can 
+be used, in principle, to identify very rare variants in a population, existing 
+ad hoc approaches frequently fail to distinguish true variants from sequencing 
+errors. We report a method (LoFreq) that models sequencing run-specific error 
+rates to accurately call variants occurring in <0.05% of a population. Using 
+simulated and real datasets (viral, bacterial and human), we show that LoFreq 
+has near-perfect specificity, with significantly improved sensitivity compared 
+with existing methods and can efficiently analyze deep Illumina sequencing 
+datasets without resorting to approximations or heuristics. We also present 
+experimental validation for LoFreq on two different platforms (Fluidigm and 
+Sequenom) and its application to call rare somatic variants from exome 
+sequencing datasets for gastric cancer. Source code and executables for LoFreq 
+are freely available at http://sourceforge.net/projects/lofreq/.
+
+DOI: 10.1093/nar/gks918
+PMCID: PMC3526318
+PMID: 23066108 [Indexed for MEDLINE]

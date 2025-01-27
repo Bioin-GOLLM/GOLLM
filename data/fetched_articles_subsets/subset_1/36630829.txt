@@ -1,0 +1,43 @@
+1. Comput Biol Med. 2023 Feb;153:106510. doi: 10.1016/j.compbiomed.2022.106510. 
+Epub 2023 Jan 6.
+
+More or less deadly? A mathematical model that predicts SARS-CoV-2 evolutionary 
+direction.
+
+Xu Z(1), Wei D(2), Zeng Q(3), Zhang H(3), Sun Y(3), Demongeot J(4).
+
+Author information:
+(1)Department of Life Science, Dezhou University, Dezhou, 253023, China. 
+Electronic address: xuzhaobin@dzu.edu.cn.
+(2)School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, 
+Shanghai, 200030, China.
+(3)Department of Life Science, Dezhou University, Dezhou, 253023, China.
+(4)Laboratory AGEIS EA 7407, Team Tools for e-Gnosis Medical, Faculty of 
+Medicine, University Grenoble Alpes (UGA), 38700, La Tronche, France. Electronic 
+address: Jacques.Demongeot@univ-grenoble-alpes.fr.
+
+SARS-CoV-2 has caused tremendous deaths globally. It is of great value to 
+predict the evolutionary direction of SARS-CoV-2. In this paper, we proposed a 
+novel mathematical model that could predict the evolutionary trend of 
+SARS-CoV-2. We focus on the mutational effects on viral assembly capacity. A 
+robust coarse-grained mathematical model is constructed to simulate the virus 
+dynamics in the host body. Both virulence and transmissibility can be quantified 
+in this model. A delicate equilibrium point that optimizes the transmissibility 
+can be numerically obtained. Based on this model, the virulence of SARS-CoV-2 
+might further decrease, accompanied by an enhancement of transmissibility. 
+However, this trend is not continuous; its virulence will not disappear but 
+remains at a relatively stable range. A virus assembly model which simulates the 
+virus packing process is also proposed. It can be explained why a few mutations 
+would lead to a significant divergence in clinical performance, both in the 
+overall particle formation quantity and virulence. This research provides a 
+novel mathematical attempt to elucidate the evolutionary driving force in RNA 
+virus evolution.
+
+Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2022.106510
+PMCID: PMC9816089
+PMID: 36630829 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All authors 
+declare no conflict of interest.

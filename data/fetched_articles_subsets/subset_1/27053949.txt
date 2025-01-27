@@ -1,0 +1,45 @@
+1. BioData Min. 2016 Apr 6;9:14. doi: 10.1186/s13040-016-0093-5. eCollection
+2016.
+
+Detecting gene-gene interactions using a permutation-based random forest method.
+
+Li J(1), Malley JD(2), Andrew AS(3), Karagas MR(3), Moore JH(4).
+
+Author information:
+(1)Department of Genetics, Geisel School of Medicine, Dartmouth College, 
+Hanover, NH USA.
+(2)Division of Computational Bioscience, Center for Information Technology, 
+National Institutes of Health, Bethesda, MD USA.
+(3)Department of Epidemiology, Geisel School of Medicine, Dartmouth College, 
+Hanover, NH USA.
+(4)Institute for Biomedical Informatics, University of Pennsylvania, 
+Pennsylvania, PA USA ; Department of Biostatistics and Epidemiology, The 
+Perelman School of Medicine, University of Pennsylvania, Pennsylvania, PA USA.
+
+BACKGROUND: Identifying gene-gene interactions is essential to understand 
+disease susceptibility and to detect genetic architectures underlying complex 
+diseases. Here, we aimed at developing a permutation-based methodology relying 
+on a machine learning method, random forest (RF), to detect gene-gene 
+interactions. Our approach called permuted random forest (pRF) which identified 
+the top interacting single nucleotide polymorphism (SNP) pairs by estimating how 
+much the power of a random forest classification model is influenced by removing 
+pairwise interactions.
+RESULTS: We systematically tested our approach on a simulation study with 
+datasets possessing various genetic constraints including heritability, number 
+of SNPs, sample size, etc. Our methodology showed high success rates for 
+detecting the interaction SNP pair. We also applied our approach to two bladder 
+cancer datasets, which showed consistent results with well-studied 
+methodologies, such as multifactor dimensionality reduction (MDR) and 
+statistical epistasis network (SEN). Furthermore, we built permuted random 
+forest networks (PRFN), in which we used nodes to represent SNPs and edges to 
+indicate interactions.
+CONCLUSIONS: We successfully developed a scale-invariant methodology to detect 
+pure gene-gene interactions based on permutation strategies and the machine 
+learning method random forest. This methodology showed great potential to be 
+used for detecting gene-gene interactions to study underlying genetic 
+architectures in a scale-free way, which could be benefit to uncover the complex 
+disease mechanisms.
+
+DOI: 10.1186/s13040-016-0093-5
+PMCID: PMC4822295
+PMID: 27053949

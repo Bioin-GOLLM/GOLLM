@@ -1,0 +1,71 @@
+1. Comput Biol Med. 2021 Nov;138:104936. doi: 10.1016/j.compbiomed.2021.104936. 
+Epub 2021 Oct 9.
+
+Bioinformatics analysis of the differences in the binding profile of the 
+wild-type and mutants of the SARS-CoV-2 spike protein variants with the ACE2 
+receptor.
+
+Suleman M(1), Yousafi Q(2), Ali J(3), Ali SS(1), Hussain Z(1), Ali S(1), Waseem 
+M(4), Iqbal A(1), Ahmad S(5), Khan A(6), Wang Y(7), Wei DQ(8).
+
+Author information:
+(1)Center for Biotechnology and Microbiology, University of Swat, Swat, Khyber 
+Pakhtunkhwa, Pakistan.
+(2)Department of Biosciences, COMSATS University Islamabad, Sahiwal Campus, 
+Pakistan.
+(3)Swat Institute of Nuclear Medicine Oncology and Radiotherapy (SINOR) 
+Hospital, Saidu Sharif, Khyber Pakhtunkhwa, Pakistan.
+(4)Faculty of Rehabilitation and Allied Health Science, Riphah International 
+University, Islamabad, Pakistan.
+(5)Department of Health and Biological Sciences, Abasyn University, Khyber 
+Pakhtunkhwa, Pakistan.
+(6)Department of Bioinformatics and Biological Statistics, School of Life 
+Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, PR 
+China. Electronic address: abbaskhan@sjtu.edu.cn.
+(7)Department of Bioinformatics and Biological Statistics, School of Life 
+Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, PR 
+China. Electronic address: wangyanjing@sjtu.edu.cn.
+(8)Department of Bioinformatics and Biological Statistics, School of Life 
+Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200240, PR 
+China; State Key Laboratory of Microbial Metabolism, Shanghai-Islamabad-Belgrade 
+Joint Innovation Center on Antibacterial Resistances, Joint Laboratory of 
+International Cooperation in Metabolic and Developmental Sciences, Ministry of 
+Education and School of Life Sciences and Biotechnology, Shanghai Jiao Tong 
+University, Shanghai, 200030, PR China; Peng Cheng Laboratory, Vanke Cloud City 
+Phase I Building 8, Xili Street, Nashan District, Shenzhen, Guangdong, 518055, 
+PR China. Electronic address: dqwei@sjtu.edu.cn.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative 
+agent of coronavirus disease 2019 (COVID-19). Reports of new variants that 
+potentially increase virulence and viral transmission, as well as reduce the 
+efficacy of available vaccines, have recently emerged. In this study, we 
+computationally analyzed the N439K, S477 N, and T478K variants for their ability 
+to bind Angiotensin-converting enzyme 2 (ACE2). We used the protein-protein 
+docking approach to explore whether the three variants displayed a higher 
+binding affinity to the ACE2 receptor than the wild type. We found that these 
+variants alter the hydrogen bonding network and the cluster of interactions. 
+Additional salt bridges, hydrogen bonds, and a high number of non-bonded 
+contacts (i.e., non-bonded interactions between atoms in the same molecule and 
+those in other molecules) were observed only in the mutant complexes, allowing 
+efficient binding to the ACE2 receptor. Furthermore, we used a 2.0-μs all-atoms 
+simulation approach to detect differences in the structural dynamic features of 
+the resulting protein complexes. Our findings revealed that the mutant complexes 
+possessed stable dynamics, consistent with the global trend of mutations 
+yielding variants with improved stability and enhanced affinity. Binding energy 
+calculations based on molecular mechanics/generalized Born surface area 
+(MM/GBSA) further revealed that electrostatic interactions principally increased 
+net binding energies. The stability and binding energies of N439K, S477 N, and 
+T478K variants were enhanced compared to the wild-type-ACE2 complex. The net 
+binding energy of the systems was -31.86 kcal/mol for the wild-type-ACE2 
+complex, -67.85 kcal/mol for N439K, -69.82 kcal/mol for S477 N, and 
+-69.64 kcal/mol for T478K. The current study provides a basis for exploring the 
+enhanced binding abilities and structural features of SARS-CoV-2 variants to 
+design novel therapeutics against the virus.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104936
+PMCID: PMC8501515
+PMID: 34655895 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declared None.

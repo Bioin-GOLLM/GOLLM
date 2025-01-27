@@ -1,0 +1,55 @@
+1. Front Immunol. 2023 Mar 24;14:1137880. doi: 10.3389/fimmu.2023.1137880. 
+eCollection 2023.
+
+Immune profiles according to EGFR mutant subtypes and correlation with 
+PD-1/PD-L1 inhibitor therapies in lung adenocarcinoma.
+
+Koh YW(1), Park B(2)(3), Jung SH(3), Han JH(1), Haam S(4), Lee HW(5).
+
+Author information:
+(1)Department of Pathology, Ajou University School of Medicine, Suwon-si, 
+Republic of Korea.
+(2)Department of Biomedical Informatics, Ajou University School of Medicine, 
+Suwon-si, Republic of Korea.
+(3)Office of Biostatistics, Medical Research Collaborating Center, Ajou Research 
+Institute for Innovative Medicine, Ajou University Medical Center, Suwon-si, 
+Republic of Korea.
+(4)Department of Thoracic and Cardiovascular Surgery, Ajou University School of 
+Medicine, Suwon-si, Republic of Korea.
+(5)Department of Hematology-Oncology, Ajou University School of Medicine, 
+Suwon-si, Republic of Korea.
+
+BACKGROUND: We examined the distributions of 22 immune cell types and the 
+responses to PD-1/PD-L1 inhibitors according to EGFR mutation profile, in three 
+independent datasets of lung adenocarcinoma (LUAD).
+METHODS: We used CIBERSORTx to analyze the distributions of immune cells, and 
+tumor immune dysfunction and exclusion (TIDE) or tumor mutation burden (TMB) to 
+analyze responses to anti-PD-1/PD-L1 therapy, in two public LUAD datasets. The 
+results were verified with a validation set that included patients treated with 
+PD-1/PD-L1 inhibitors.
+RESULTS: Compared to EGFR mutants, EGFR wild-type carcinomas had higher numbers 
+of CD8+ T cells, CD4 memory activated T cells and neutrophils, and lower numbers 
+of resting dendritic cells and resting mast cells, in two of the datasets. In 
+our subgroup analyses, CD8+ T cells and CD4 memory activated T cells were more 
+numerous in EGFR rare variants than in wild-types, L858R mutants, and exon 19 
+deletion mutants. In our TIDE or TMB analyses, EGFR rare variants were predicted 
+to respond better to PD-1/PD-L1 inhibitors than wild-types, L858R mutants, and 
+exon 19 deletion mutants. In the validation set verified by immunohistochemical 
+staining, levels of CD8+ T cells in the EGFR rare variant or wild-type groups 
+were significantly higher than in the EGFR L858R and exon 19 deletion groups. In 
+patients treated with PD-1/PD-L1 inhibitors, the survival rates of patients with 
+EGFR wild-type and rare mutant carcinomas were higher than those with L858R and 
+exon 19 deletion carcinomas.
+CONCLUSION: The EGFR rare mutation form of LUAD shows a higher immune activation 
+state compared to wild-type, L858R, and exon 19 deletion variants, indicating it 
+as a potential target for PD-1/PD-L1 inhibitor therapy.
+
+Copyright © 2023 Koh, Park, Jung, Han, Haam and Lee.
+
+DOI: 10.3389/fimmu.2023.1137880
+PMCID: PMC10079979
+PMID: 37033978 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,73 @@
+1. Nat Genet. 2023 Sep;55(9):1523-1530. doi: 10.1038/s41588-023-01472-1. Epub
+2023  Aug 24.
+
+Multiparameter prediction of myeloid neoplasia risk.
+
+Gu M(1)(2), Kovilakam SC(1)(2), Dunn WG(1)(2), Marando L(1)(2), Barcena 
+C(1)(2)(3), Mohorianu I(1), Smith A(4), Kar SP(5)(6)(7), Fabre MA(1)(2)(8), 
+Gerstung M(9), Cargo CA(10)(11), Malcovati L(12)(13), Quiros PM(14)(15)(16), 
+Vassiliou GS(17)(18)(19).
+
+Author information:
+(1)Wellcome-MRC Cambridge Stem Cell Institute, University of Cambridge, 
+Cambridge, UK.
+(2)Department of Haematology, University of Cambridge, Cambridge, UK.
+(3)Department of Biochemistry and Molecular Biology, Universidad de Oviedo, 
+Oviedo, Spain.
+(4)Epidemiology and Cancer Statistics Group, University of York, York, UK.
+(5)MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK.
+(6)Section of Translational Epidemiology, Division of Population Health 
+Sciences, Bristol, Medical School, University of Bristol, Bristol, UK.
+(7)Early Cancer Institute, Department of Oncology, University of Cambridge, 
+Cambridge, UK.
+(8)Centre for Genomics Research, Discovery Sciences, BioPharmaceuticals R&D, 
+AstraZeneca, Cambridge, UK.
+(9)Division of Artificial Intelligence in Oncology, DKFZ, Heidelberg, Germany.
+(10)Haematological Malignancy Diagnostic Service, St James's Hospital, Leeds, 
+UK.
+(11)Department of Haematology, Leeds Teaching Hospitals, Leeds, UK.
+(12)Department of Molecular Medicine, University of Pavia, Pavia, Italy.
+(13)Department of Hematology, Fondazione IRCCS Policlinico San Matteo, Pavia, 
+Italy.
+(14)Wellcome-MRC Cambridge Stem Cell Institute, University of Cambridge, 
+Cambridge, UK. pmquiros@ispasturias.es.
+(15)Department of Haematology, University of Cambridge, Cambridge, UK. 
+pmquiros@ispasturias.es.
+(16)Instituto de Investigación Sanitaria del Principado de Asturias, ISPA, 
+Oviedo, Spain. pmquiros@ispasturias.es.
+(17)Wellcome-MRC Cambridge Stem Cell Institute, University of Cambridge, 
+Cambridge, UK. gsv20@cam.ac.uk.
+(18)Department of Haematology, University of Cambridge, Cambridge, UK. 
+gsv20@cam.ac.uk.
+(19)Department of Haematology, Cambridge University Hospitals NHS Trust, 
+Cambridge, UK. gsv20@cam.ac.uk.
+
+Erratum in
+    Nat Genet. 2023 Oct;55(10):1777. doi: 10.1038/s41588-023-01532-6.
+
+The myeloid neoplasms encompass acute myeloid leukemia, myelodysplastic 
+syndromes and myeloproliferative neoplasms. Most cases arise from the shared 
+ancestor of clonal hematopoiesis (CH). Here we analyze data from 454,340 UK 
+Biobank participants, of whom 1,808 developed a myeloid neoplasm 0-15 years 
+after recruitment. We describe the differences in CH mutational landscapes and 
+hematology/biochemistry test parameters among individuals that later develop 
+myeloid neoplasms (pre-MN) versus controls, finding that disease-specific 
+changes are detectable years before diagnosis. By analyzing differences between 
+'pre-MN' and controls, we develop and validate Cox regression models quantifying 
+the risk of progression to each myeloid neoplasm subtype. We construct 
+'MN-predict', a web application that generates time-dependent predictions with 
+the input of basic blood tests and genetic data. Our study demonstrates that 
+many individuals that develop myeloid neoplasms can be identified years in 
+advance and provides a framework for disease-specific prognostication that will 
+be of substantial use to researchers and physicians.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41588-023-01472-1
+PMCID: PMC10484784
+PMID: 37620601 [Indexed for MEDLINE]
+
+Conflict of interest statement: G.S.V. is a consultant to STRM.BIO and holds a 
+research grant from AstraZeneca for research unrelated to that presented here. 
+M.A.F. is an employee and stockholder of AstraZeneca. The other authors declare 
+no competing interests.

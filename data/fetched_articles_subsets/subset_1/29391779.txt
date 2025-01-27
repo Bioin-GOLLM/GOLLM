@@ -1,0 +1,56 @@
+1. Drug Des Devel Ther. 2018 Jan 15;12:149-158. doi: 10.2147/DDDT.S149973. 
+eCollection 2018.
+
+Biological activity, quantitative structure-activity relationship analysis, and 
+molecular docking of xanthone derivatives as anticancer drugs.
+
+Miladiyah I(1)(2), Jumina J(3), Haryana SM(4), Mustofa M(5).
+
+Author information:
+(1)Pharmacology Department, Faculty of Medicine, Islamic University of 
+Indonesia.
+(2)Doctorate Program of Medical Science and Health, Faculty of Medicine.
+(3)Chemistry Department, Faculty of Mathematics and Natural Sciences.
+(4)Histology and Cell Biology Department, Faculty of Medicine.
+(5)Pharmacology and Therapeutic Department, Faculty of Medicine, Gadjah Mada 
+University, Yogyakarta, Indonesia.
+
+BACKGROUND: Xanthone derivatives have a wide range of pharmacological 
+activities, such as those involving antibacterial, antiviral, antimalarial, 
+anthelmintic, anti-inflammatory, antiprotozoal, and anticancer properties. Among 
+these, we investigated the anticancer properties of xanthone. This research 
+aimed to analyze the biological activity of ten novel xanthone derivatives, to 
+investigate the most contributing-descriptors for their cytotoxic activities, 
+and to examine the possible mechanism of actions of xanthone compound through 
+molecular docking.
+MATERIALS AND METHODS: The cytotoxic tests were carried out on WiDR and Vero 
+cell lines, by a 3-(4,5-dimethylthiazole-2-yl)-2,5-diphenyl-tetrazolium bromide 
+(MTT) assay method. The structural features required for xanthone's anticancer 
+activity were conducted by using the semi-empirical Austin Model-1 method, and 
+continued with quantitative structure-activity relationship (QSAR) analysis 
+using BuildQSAR program. The study of the possible mechanism of actions of the 
+selected xanthone compound was done through molecular docking with PLANTS.
+RESULTS: The three novel xanthone derivatives (compounds 5, 7, and 8) exhibited 
+cytotoxic activity with compound 5 showed the highest degree of cytotoxicity at 
+concentration 9.23 µg/mL (37.8 µM). The following best equation model was 
+obtained from the BuildQSAR calculation: log 1/IC50 = -8.124 qC1 -35.088 qC2 
+-6.008 qC3 + 1.831 u + 0.540 logP -9.115 (n = 10, r = 0.976, s = 0.144, F = 
+15.920, Q2 = 0.651, SPRESS = 0.390). This equation model generated 15 proposed 
+new xanthone compounds with better-predicted anticancer activities. A molecular 
+docking study of compound 5 showed that xanthone formed binding interactions 
+with some receptors involved in cancer pathology, including telomerase, 
+tumor-promoting inflammation (COX-2), and cyclin-dependent kinase-2 (CDK2) 
+inhibitor.
+CONCLUSION: The results suggested that compound 5 showed the best cytotoxic 
+activity among the xanthone derivatives tested. QSAR analysis showed that the 
+descriptors contributed to xanthone's cytotoxic activity were the net atomic 
+charge at qC1, qC2, and qC3 positions, also dipole moment and logP. Compound 5 
+was suspected to be cytotoxic by its inhibition of telomerase, COX-2, and CDK2 
+receptors.
+
+DOI: 10.2147/DDDT.S149973
+PMCID: PMC5774476
+PMID: 29391779 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.

@@ -1,0 +1,54 @@
+1. Sci Rep. 2020 Oct 27;10(1):18326. doi: 10.1038/s41598-020-75020-w.
+
+Structural modeling of GSK3β implicates the inactive (DFG-out) conformation as 
+the target bound by TDZD analogs.
+
+Balasubramaniam M(1)(2), Mainali N(3), Bowroju SK(4), Atluri P(5), Penthala 
+NR(4), Ayyadevera S(6)(7), Crooks PA(4), Shmookler Reis RJ(8)(9).
+
+Author information:
+(1)McClellan Veterans Medical Ctr., Central Arkansas Veterans Healthcare 
+Service, Little Rock, AR, 72205, USA. mbalasubramaniam@uams.edu.
+(2)Department of Geriatrics, Reynolds Institute on Aging, University of Arkansas 
+for Medical Sciences, Little Rock, AR, 72205, USA. mbalasubramaniam@uams.edu.
+(3)Bioinformatics Program, University of Arkansas for Medical Sciences, and 
+University of Arkansas At Little Rock, Little Rock, AR, 72205, USA.
+(4)Department of Pharmaceutical Sciences, College of Pharmacy, University of 
+Arkansas for Medical Sciences, Little Rock, AR, 72205, USA.
+(5)Summer Research Internship Program, University of Arkansas for Medical 
+Sciences, Little Rock, AR, 72205, USA.
+(6)McClellan Veterans Medical Ctr., Central Arkansas Veterans Healthcare 
+Service, Little Rock, AR, 72205, USA.
+(7)Department of Geriatrics, Reynolds Institute on Aging, University of Arkansas 
+for Medical Sciences, Little Rock, AR, 72205, USA.
+(8)McClellan Veterans Medical Ctr., Central Arkansas Veterans Healthcare 
+Service, Little Rock, AR, 72205, USA. rjsr@uams.edu.
+(9)Department of Geriatrics, Reynolds Institute on Aging, University of Arkansas 
+for Medical Sciences, Little Rock, AR, 72205, USA. rjsr@uams.edu.
+
+Glycogen synthase kinase-3β (GSK3β) controls many physiological pathways, and is 
+implicated in many diseases including Alzheimer's and several cancers. 
+GSK3β-mediated phosphorylation of target residues in microtubule-associated 
+protein tau (MAPTAU) contributes to MAPTAU hyperphosphorylation and subsequent 
+formation of neurofibrillary tangles. Inhibitors of GSK3β protect against 
+Alzheimer's disease and are therapeutic for several cancers. A thiadiazolidinone 
+drug, TDZD-8, is a non-ATP-competitive inhibitor targeting GSK3β with 
+demonstrated efficacy against multiple diseases. However, no experimental data 
+or models define the binding mode of TDZD-8 with GSK3β, which chiefly reflects 
+our lack of an established inactive conformation for this protein. Here, we used 
+metadynamic simulation to predict the three-dimensional structure of the 
+inactive conformation of GSK3β. Our model predicts that phosphorylation of GSK3β 
+Serine9 would hasten the DFG-flip to an inactive state. Molecular docking and 
+simulation predict the TDZD-8 binding conformation of GSK3β to be inactive, and 
+are consistent with biochemical evidence for the TDZD-8-interacting residues of 
+GSK3β. We also identified the pharmacophore and assessed binding efficacy of 
+second-generation TDZD analogs (TDZD-10 and Tideglusib) that bind GSK3β as 
+non-ATP-competitive inhibitors. Based on these results, the predicted inactive 
+conformation of GSK3β can facilitate the identification of novel GSK3β 
+inhibitors of high potency and specificity.
+
+DOI: 10.1038/s41598-020-75020-w
+PMCID: PMC7591898
+PMID: 33110096 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

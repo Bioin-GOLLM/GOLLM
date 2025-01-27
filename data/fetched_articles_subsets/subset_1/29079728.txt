@@ -1,0 +1,47 @@
+1. Nat Commun. 2017 Oct 27;8(1):1167. doi: 10.1038/s41467-017-00802-2.
+
+PLATO software provides analytic framework for investigating complexity beyond 
+genome-wide association studies.
+
+Hall MA(1), Wallace J(2), Lucas A(2), Kim D(2), Basile AO(3), Verma SS(2)(3), 
+McCarty CA(4), Brilliant MH(5), Peissig PL(5), Kitchner TE(5), Verma A(2)(3), 
+Pendergrass SA(2), Dudek SM(2), Moore JH(1), Ritchie MD(6)(7).
+
+Author information:
+(1)Institute for Biomedical Informatics, Departments of Genetics and 
+Biostatistics and Epidemiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, 19104, USA.
+(2)Biomedical and Translational Informatics Institute, Geisinger Health System, 
+Danville, PA, 17821, USA.
+(3)Department of Biochemistry and Molecular Biology, Center for Systems 
+Genomics, Eberly College of Science, The Pennsylvania State University, 
+University Park, PA, 16802, USA.
+(4)Essentia Institute of Rural Health, Duluth, MN, 55805, USA.
+(5)Marshfield Clinic Research Institute, Marshfield, WI, 54449, USA.
+(6)Biomedical and Translational Informatics Institute, Geisinger Health System, 
+Danville, PA, 17821, USA. mdritchie@geisinger.edu.
+(7)Department of Biochemistry and Molecular Biology, Center for Systems 
+Genomics, Eberly College of Science, The Pennsylvania State University, 
+University Park, PA, 16802, USA. mdritchie@geisinger.edu.
+
+Genome-wide, imputed, sequence, and structural data are now available for 
+exceedingly large sample sizes. The needs for data management, handling 
+population structure and related samples, and performing associations have 
+largely been met. However, the infrastructure to support analyses involving 
+complexity beyond genome-wide association studies is not standardized or 
+centralized. We provide the PLatform for the Analysis, Translation, and 
+Organization of large-scale data (PLATO), a software tool equipped to handle 
+multi-omic data for hundreds of thousands of samples to explore complexity using 
+genetic interactions, environment-wide association studies and gene-environment 
+interactions, phenome-wide association studies, as well as copy number and rare 
+variant analyses. Using the data from the Marshfield Personalized Medicine 
+Research Project, a site in the electronic Medical Records and Genomics Network, 
+we apply each feature of PLATO to type 2 diabetes and demonstrate how PLATO can 
+be used to uncover the complex etiology of common traits.
+
+DOI: 10.1038/s41467-017-00802-2
+PMCID: PMC5660079
+PMID: 29079728 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

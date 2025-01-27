@@ -1,0 +1,65 @@
+1. Comput Biol Med. 2022 Dec;151(Pt A):106212. doi: 
+10.1016/j.compbiomed.2022.106212. Epub 2022 Oct 25.
+
+D3AI-Spike: A deep learning platform for predicting binding affinity between 
+SARS-CoV-2 spike receptor binding domain with multiple amino acid mutations and 
+human angiotensin-converting enzyme 2.
+
+Han J(1), Liu T(2), Zhang X(3), Yang Y(4), Shi Y(4), Li J(4), Ma M(4), Zhu W(5), 
+Gong L(6), Xu Z(7).
+
+Author information:
+(1)School of Chinese Materia Medica, Nanjing University of Chinese Medicine, 
+Nanjing, 210046, China; Drug Discovery and Design Center, Shanghai Institute of 
+Materia Medica, Chinese Academy of Sciences, Shanghai, 201203, China.
+(2)Center for Drug Safety Evaluation and Research, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China.
+(3)Drug Discovery and Design Center, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences, Shanghai, 201203, China.
+(4)Drug Discovery and Design Center, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences, Shanghai, 201203, China; School of Pharmacy, 
+University of Chinese Academy of Sciences, No.19A Yuquan Road, Beijing, 100049, 
+China.
+(5)School of Chinese Materia Medica, Nanjing University of Chinese Medicine, 
+Nanjing, 210046, China; Drug Discovery and Design Center, Shanghai Institute of 
+Materia Medica, Chinese Academy of Sciences, Shanghai, 201203, China; School of 
+Pharmacy, University of Chinese Academy of Sciences, No.19A Yuquan Road, 
+Beijing, 100049, China. Electronic address: wlzhu@simm.ac.cn.
+(6)Center for Drug Safety Evaluation and Research, Shanghai Institute of Materia 
+Medica, Chinese Academy of Sciences, Shanghai, 201203, China. Electronic 
+address: lkgong@cdser.simm.ac.cn.
+(7)Drug Discovery and Design Center, Shanghai Institute of Materia Medica, 
+Chinese Academy of Sciences, Shanghai, 201203, China; School of Pharmacy, 
+University of Chinese Academy of Sciences, No.19A Yuquan Road, Beijing, 100049, 
+China. Electronic address: zjxu@simm.ac.cn.
+
+The number of SARS-CoV-2 spike Receptor Binding Domain (RBD) with multiple amino 
+acid mutations is huge due to random mutations and combinatorial explosions, 
+making it almost impossible to experimentally determine their binding affinities 
+to human angiotensin-converting enzyme 2 (hACE2). Although computational 
+prediction is an alternative way, there is still no online platform to predict 
+the mutation effect of RBD on the hACE2 binding affinity until now. In this 
+study, we developed a free online platform based on deep learning models, namely 
+D3AI-Spike, for quickly predicting binding affinity between spike RBD mutants 
+and hACE2. The models based on CNN and CNN-RNN methods have the concordance 
+index of around 0.8. Overall, the test results of the models are in agreement 
+with the experimental data. To further evaluate the prediction power of 
+D3AI-Spike, we predicted and experimentally determined the binding affinity of a 
+VUM (variants under monitoring) variant IHU (B.1.640.2), which has fourteen 
+amino acid substitutions, including N501Y and E484K, and 9 deletions located in 
+the spike protein. The predicted average affinity score for wild-type RBD and 
+IHU to hACE2 are 0.483 and 0.438, while the determined Kaff values are 
+5.39 ± 0.38 × 107 L/mol and 1.02 ± 0.47 × 107 L/mol, respectively, demonstrating 
+the strong predictive power of D3AI-Spike. We think D3AI-Spike will be helpful 
+to the viral transmission prediction for the new emerging SARS-CoV-2 variants. 
+D3AI-Spike is now available free of charge at 
+https://www.d3pharma.com/D3Targets-2019-nCoV/D3AI-Spike/index.php.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2022.106212
+PMCID: PMC9597563
+PMID: 36327885 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no competing interests.

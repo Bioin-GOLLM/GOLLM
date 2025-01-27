@@ -1,0 +1,47 @@
+1. J Biomed Semantics. 2014 Jun 3;5(Suppl 1 Proceedings of the Bio-Ontologies
+Spec  Interest G):S6. doi: 10.1186/2041-1480-5-S1-S6. eCollection 2014.
+
+Preserving sequence annotations across reference sequences.
+
+Tatum Z(1), Roos M(2), Gibson AP(3), Taschner PE(3), Thompson M(3), Schultes 
+EA(3), Laros JF(4).
+
+Author information:
+(1)Department of Human Genetics, Center for Human and Clinical Genetics, Leiden 
+University Medical Center, Einthovenweg 20, 2333 ZC Leiden, the Netherlands ; 
+Department of Rheumatology, Leiden University Medical Center, Albinusdreef 2, 
+2333 ZA Leiden, the Netherlands.
+(2)Department of Human Genetics, Center for Human and Clinical Genetics, Leiden 
+University Medical Center, Einthovenweg 20, 2333 ZC Leiden, the Netherlands ; 
+Informatics Institute of the Faculty of Science, University of Amsterdam, 
+Science Park 904, 1098 XH Amsterdam, the Netherlands.
+(3)Department of Human Genetics, Center for Human and Clinical Genetics, Leiden 
+University Medical Center, Einthovenweg 20, 2333 ZC Leiden, the Netherlands.
+(4)Department of Human Genetics, Center for Human and Clinical Genetics, Leiden 
+University Medical Center, Einthovenweg 20, 2333 ZC Leiden, the Netherlands ; 
+Leiden Genome Technology Center, Leiden University Medical Center, Einthovenweg 
+20, 2333 ZC Leiden, the Netherlands.
+
+BACKGROUND: Matching and comparing sequence annotations of different reference 
+sequences is vital to genomics research, yet many annotation formats do not 
+specify the reference sequence types or versions used. This makes the 
+integration of annotations from different sources difficult and error prone.
+RESULTS: As part of our effort to create linked data for interoperable sequence 
+annotations, we present an RDF data model for sequence annotation using the 
+ontological framework established by the OBO Foundry ontologies and the Basic 
+Formal Ontology (BFO). We defined reference sequences as the common domain of 
+integration for sequence annotations, and identified three semantic 
+relationships between sequence annotations. In doing so, we created the 
+Reference Sequence Annotation to compensate for gaps in the SO and in its 
+mapping to BFO, particularly for annotations that refer to versions of consensus 
+reference sequences. Moreover, we present three integration models for sequence 
+annotations using different reference assemblies.
+CONCLUSIONS: We demonstrated a working example of a sequence annotation 
+instance, and how this instance can be linked to other annotations on different 
+reference sequences. Sequence annotations in this format are semantically rich 
+and can be integrated easily with different assemblies. We also identify other 
+challenges of modeling reference sequences with the BFO.
+
+DOI: 10.1186/2041-1480-5-S1-S6
+PMCID: PMC4108922
+PMID: 25093075

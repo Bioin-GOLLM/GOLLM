@@ -1,0 +1,51 @@
+1. Genet Sel Evol. 2022 Feb 19;54(1):15. doi: 10.1186/s12711-022-00707-9.
+
+GWAS and genomic prediction of milk urea nitrogen in Australian and New Zealand 
+dairy cattle.
+
+van den Berg I(1), Ho PN(2), Nguyen TV(2), Haile-Mariam M(2), MacLeod IM(2), 
+Beatson PR(3), O'Connor E(3), Pryce JE(2)(4).
+
+Author information:
+(1)Centre for AgriBioscience, Agriculture Victoria, 5 Ring Road, Bundoora, 
+AgriBioVIC, 3083, Australia. irene.vandenberg@agriculture.vic.gov.au.
+(2)Centre for AgriBioscience, Agriculture Victoria, 5 Ring Road, Bundoora, 
+AgriBioVIC, 3083, Australia.
+(3)CRV Ambreed, PO Box 176, Hamilton, New Zealand.
+(4)School of Applied Systems Biology, La Trobe University, Bundoora, VIC, 3083, 
+Australia.
+
+BACKGROUND: Urinary nitrogen leakage is an environmental concern in dairy 
+cattle. Selection for reduced urinary nitrogen leakage may be done using 
+indicator traits such as milk urea nitrogen (MUN). The result of a previous 
+study indicated that the genetic correlation between MUN in Australia (AUS) and 
+MUN in New Zealand (NZL) was only low to moderate (between 0.14 and 0.58). In 
+this context, an alternative is to select sequence variants based on genome-wide 
+association studies (GWAS) with a view to improve genomic prediction accuracies. 
+A GWAS can also be used to detect quantitative trait loci (QTL) associated with 
+MUN. Therefore, our objectives were to perform within-country GWAS and a 
+meta-GWAS for MUN using records from up to 33,873 dairy cows and imputed 
+whole-genome sequence data, to compare QTL detected in the GWAS for MUN in AUS 
+and NZL, and to use sequence variants selected from the meta-GWAS to improve the 
+prediction accuracy for MUN based on a joint AUS-NZL reference set.
+RESULTS: Using the meta-GWAS, we detected 14 QTL for MUN, located on chromosomes 
+1, 6, 11, 14, 19, 22, 26 and the X chromosome. The three most significant QTL 
+encompassed the casein genes on chromosome 6, PAEP on chromosome 11 and DGAT1 on 
+chromosome 14. We selected 50,000 sequence variants that had the same direction 
+of effect for MUN in AUS and MUN in NZL and that were most significant in the 
+meta-analysis for the GWAS. The selected sequence variants yielded a genetic 
+correlation between MUN in AUS and MUN in NZL of 0.95 and substantially 
+increased prediction accuracy in both countries.
+CONCLUSIONS: Our results demonstrate how the sharing of data between two 
+countries can increase the power of a GWAS and increase the accuracy of genomic 
+prediction using a multi-country reference population and sequence variants 
+selected based on a meta-GWAS.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12711-022-00707-9
+PMCID: PMC8858489
+PMID: 35183113 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

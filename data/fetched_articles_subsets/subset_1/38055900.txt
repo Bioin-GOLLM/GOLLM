@@ -1,0 +1,45 @@
+1. J Phys Chem B. 2023 Dec 21;127(50):10749-10765. doi: 10.1021/acs.jpcb.3c04337.
+ Epub 2023 Dec 6.
+
+Uncovering the Structural and Binding Insights of Dual Inhibitors Simultaneously 
+Targeting Two Distinct Sites on EGFR Kinase.
+
+Bhanja KK(1), Sharma M(1), Patra N(1).
+
+Author information:
+(1)Department of Chemistry & Chemical Biology, Indian Institute of Technology 
+(ISM) Dhanbad, Dhanbad 826004, India.
+
+Epidermal growth factor receptor (EGFR) is the first growth factor receptor 
+identified in normal cells that is related to the receptor tyrosine kinase, 
+which causes regular cell division. A point mutation in EGFR intracellular 
+kinase domain forces the abnormal cell divisions throughout time, leading to 
+non-small cell lung cancer (NSCLC) transformation. Thus, competitive inhibitors 
+that bind to the ATP binding pocket have been developed as a targeted therapy 
+for NSCLC. The third-generation kinase inhibitor Osimertinib is currently 
+playing a very vital role in the treatment of NSCLC. However, it is not 
+effective toward the C797S kinase domain mutation. For this reason, 
+fourth-generation kinase noncompetitive inhibitors are introduced which work 
+through binding to an allosteric pocket near the ATP binding region and act as a 
+better binding agent for this mutated kinase domain. However, the problem is 
+that these single fourth-generation kinase inhibitors may not be as effective as 
+a single agent. The aim of this work was to apply combinations of these two 
+inhibitors together in different binding regions of EGFR without overlapping the 
+resistance mechanism to obtain the key direct and indirect interactions 
+occurring between them. Moreover, the free energy of dissociation of an 
+inhibitor from its binding sites in the presence of a second inhibitor 
+immobilized in another binding site was also the focus of the study. To realize 
+this aim, we performed conventional molecular dynamics simulations and principal 
+component analysis and dynamic cross-correlation matrices along with umbrella 
+sampling. Our results demonstrated that binding of dual inhibitors triggered 
+conformational changes of the protein more toward the inactive state. 
+Furthermore, allosteric inhibitors bound more strongly to protein kinase EGFR 
+than the orthosteric inhibitors in the presence of dual inhibitors. Finally, the 
+binding mechanism and important hydrogen-bonding residues during unbinding of 
+the inhibitors were fully elucidated. This study provides insight into the 
+binding of the receptor-orthosteric inhibitor-allosteric inhibitor, which can be 
+helpful for further design of novel inhibitors that have a better inhibitory 
+action.
+
+DOI: 10.1021/acs.jpcb.3c04337
+PMID: 38055900 [Indexed for MEDLINE]

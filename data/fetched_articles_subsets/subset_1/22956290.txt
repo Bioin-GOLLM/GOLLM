@@ -1,0 +1,41 @@
+1. Bull Math Biol. 2012 Nov;74(11):2570-99. doi: 10.1007/s11538-012-9766-5. Epub 
+2012 Sep 7.
+
+Deterministic versus stochastic cell polarisation through wave-pinning.
+
+Walther GR(1), Marée AF, Edelstein-Keshet L, Grieneisen VA.
+
+Author information:
+(1)Computational & Systems Biology, John Innes Centre, Norwich Research Park, 
+Norwich, UK.
+
+Cell polarization is an important part of the response of eukaryotic cells to 
+stimuli, and forms a primary step in cell motility, differentiation, and many 
+cellular functions. Among the important biochemical players implicated in the 
+onset of intracellular asymmetries that constitute the early phases of 
+polarization are the Rho GTPases, such as Cdc42, Rac, and Rho, which present 
+high active concentration levels in a spatially localized manner. Rho GTPases 
+exhibit positive feedback-driven interconversion between distinct active and 
+inactive forms, the former residing on the cell membrane, and the latter 
+predominantly in the cytosol. A deterministic model of the dynamics of a single 
+Rho GTPase described earlier by Mori et al. exhibits sustained polarization by a 
+wave-pinning mechanism. It remained, however, unclear how such polarization 
+behaves at typically low cellular concentrations, as stochasticity could 
+significantly affect the dynamics. We therefore study the low copy number 
+dynamics of this model, using a stochastic kinetics framework based on the 
+Gillespie algorithm, and propose statistical and analytic techniques which help 
+us analyse the equilibrium behaviour of our stochastic system. We use local 
+perturbation analysis to predict parameter regimes for initiation of polarity 
+and wave-pinning in our deterministic system, and compare these predictions with 
+deterministic and stochastic spatial simulations. Comparing the behaviour of the 
+stochastic with the deterministic system, we determine the threshold number of 
+molecules required for robust polarization in a given effective reaction volume. 
+We show that when the molecule number is lowered wave-pinning behaviour is lost 
+due to an increasingly large transition zone as well as increasing fluctuations 
+in the pinning position, due to which a broadness can be reached that is 
+unsustainable, causing the collapse of the wave, while the variations in the 
+high and low equilibrium levels are much less affected.
+
+DOI: 10.1007/s11538-012-9766-5
+PMCID: PMC3480592
+PMID: 22956290 [Indexed for MEDLINE]
