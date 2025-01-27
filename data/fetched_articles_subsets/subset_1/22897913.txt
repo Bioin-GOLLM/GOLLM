@@ -1,0 +1,27 @@
+1. BMC Bioinformatics. 2012 Aug 16;13:204. doi: 10.1186/1471-2105-13-204.
+
+Enabling dynamic network analysis through visualization in TVNViewer.
+
+Curtis RE(1), Xiang J, Parikh A, Kinnaird P, Xing EP.
+
+Author information:
+(1)Joint Carnegie Mellon, University of Pittsburgh PhD Program in Computational 
+Biology, Pittsburgh, PA, USA.
+
+BACKGROUND: Many biological processes are context-dependent or temporally 
+specific. As a result, relationships between molecular constituents evolve 
+across time and environments. While cutting-edge machine learning techniques can 
+recover these networks, exploring and interpreting the rewiring behavior is 
+challenging. Information visualization shines in this type of exploratory 
+analysis, motivating the development ofTVNViewer 
+(http://sailing.cs.cmu.edu/tvnviewer), a visualization tool for dynamic network 
+analysis.
+RESULTS: In this paper, we demonstrate visualization techniques for dynamic 
+network analysis by using TVNViewer to analyze yeast cell cycle and breast 
+cancer progression datasets.
+CONCLUSIONS: TVNViewer is a powerful new visualization tool for the analysis of 
+biological networks that change across time or space.
+
+DOI: 10.1186/1471-2105-13-204
+PMCID: PMC3447684
+PMID: 22897913 [Indexed for MEDLINE]

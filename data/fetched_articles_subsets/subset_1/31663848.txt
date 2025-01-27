@@ -1,0 +1,41 @@
+1. Elife. 2019 Oct 30;8:e48081. doi: 10.7554/eLife.48081.
+
+One-step efficient generation of dual-function conditional knockout and 
+geno-tagging alleles in zebrafish.
+
+Li W(#)(1), Zhang Y(#)(1), Han B(#)(1), Li L(1), Li M(1), Lu X(2), Chen C(2), Lu 
+M(2), Zhang Y(1), Jia X(3), Zhu Z(1), Tong X(1), Zhang B(1).
+
+Author information:
+(1)Key Laboratory of Cell Proliferation and Differentiation of the Ministry of 
+Education, Peking University Genome Editing Research Center, College of Life 
+Sciences, Peking University, Beijing, China.
+(2)Laboratory of Chemical Genomics, School of Chemical Biology and 
+Biotechnology, Peking University Shenzhen Graduate School, Shenzhen, China.
+(3)Gcrispr (Tianjin) Genetic Technology, Tianjin, China.
+(#)Contributed equally
+
+CRISPR/Cas systems are widely used to knock out genes by inducing indel 
+mutations, which are prone to genetic compensation. Complex genome modifications 
+such as knockin (KI) might bypass compensation, though difficult to practice due 
+to low efficiency. Moreover, no 'two-in-one' KI strategy combining conditional 
+knockout (CKO) with fluorescent gene-labeling or further allele-labeling has 
+been reported. Here, we developed a dual-cassette-donor strategy and achieved 
+one-step and efficient generation of dual-function KI alleles at tbx5a and 
+kctd10 loci in zebrafish via targeted insertion. These alleles display 
+fluorescent gene-tagging and CKO effects before and after Cre induction, 
+respectively. By introducing a second fluorescent reporter, geno-tagging effects 
+were achieved at tbx5a and sox10 loci, exhibiting CKO coupled with fluorescent 
+reporter switch upon Cre induction, enabling tracing of three distinct 
+genotypes. We found that LiCl purification of gRNA is critical for highly 
+efficient KI, and preselection of founders allows the efficient germline 
+recovery of KI events.
+
+© 2019, Li et al.
+
+DOI: 10.7554/eLife.48081
+PMCID: PMC6845224
+PMID: 31663848 [Indexed for MEDLINE]
+
+Conflict of interest statement: WL, YZ, BH, LL, ML, XL, CC, ML, YZ, XJ, ZZ, XT, 
+BZ No competing interests declared

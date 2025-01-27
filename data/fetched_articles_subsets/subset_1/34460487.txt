@@ -1,0 +1,49 @@
+1. J Imaging. 2019 Apr 16;5(4):49. doi: 10.3390/jimaging5040049.
+
+Evaluating Human Photoreceptoral Inputs from Night-Time Lights Using RGB Imaging 
+Photometry.
+
+Sánchez de Miguel A(1)(2)(3), Bará S(4), Aubé M(5), Cardiel N(2), Tapia CE(2), 
+Zamorano J(2), Gaston KJ(1).
+
+Author information:
+(1)Environment and Sustainability Institute, University of Exeter, Penryn, 
+Cornwall TR10 9FE, UK.
+(2)Departamento de Física de la Tierra y Astrofísica, Instituto de Física de 
+Partículas y del Cosmos (IPARCOS), Universidad Complutense, 28040 Madrid, Spain.
+(3)Instituto de Astrofísica de Andalucía, Glorieta de la Astronomía, s/n, 
+C.P.18008 Granada, Spain.
+(4)Departamento de Física Aplicada, Universidade de Santiago de Compostela, 
+15782 Santiago de Compostela, Galicia, Spain.
+(5)Physics Department, CEGEP de Sherbrooke, Sherbrooke, QC J1E 4K1, Canada.
+
+Night-time lights interact with human physiology through different pathways 
+starting at the retinal layers of the eye; from the signals provided by the 
+rods; the S-, L- and M-cones; and the intrinsically photosensitive retinal 
+ganglion cells (ipRGC). These individual photic channels combine in complex ways 
+to modulate important physiological processes, among them the daily entrainment 
+of the neural master oscillator that regulates circadian rhythms. Evaluating the 
+relative excitation of each type of photoreceptor generally requires full 
+knowledge of the spectral power distribution of the incoming light, information 
+that is not easily available in many practical applications. One such instance 
+is wide area sensing of public outdoor lighting; present-day radiometers onboard 
+Earth-orbiting platforms with sufficient nighttime sensitivity are generally 
+panchromatic and lack the required spectral discrimination capacity. In this 
+paper, we show that RGB imagery acquired with off-the-shelf digital single-lens 
+reflex cameras (DSLR) can be a useful tool to evaluate, with reasonable accuracy 
+and high angular resolution, the photoreceptoral inputs associated with a wide 
+range of lamp technologies. The method is based on linear regressions of these 
+inputs against optimum combinations of the associated R, G, and B signals, built 
+for a large set of artificial light sources by means of synthetic photometry. 
+Given the widespread use of RGB imaging devices, this approach is expected to 
+facilitate the monitoring of the physiological effects of light pollution, from 
+ground and space alike, using standard imaging technology.
+
+DOI: 10.3390/jimaging5040049
+PMCID: PMC8320946
+PMID: 34460487
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

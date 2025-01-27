@@ -1,0 +1,50 @@
+1. Sci Rep. 2021 Mar 11;11(1):5623. doi: 10.1038/s41598-021-84838-x.
+
+Visibility graph based temporal community detection with applications in 
+biological time series.
+
+Zheng M(1)(2), Domanskyi S(3), Piermarocchi C(3), Mias GI(4)(5)(6).
+
+Author information:
+(1)Biochemistry and Molecular Biology, Michigan State University, East Lansing, 
+MI, 48824, USA.
+(2)Institute for Quantitative Health Science and Engineering, Michigan State 
+University, East Lansing, MI, 48824, USA.
+(3)Physics and Astronomy, Michigan State University, East Lansing, MI, 48824, 
+USA.
+(4)Biochemistry and Molecular Biology, Michigan State University, East Lansing, 
+MI, 48824, USA. gmias@msu.edu.
+(5)Institute for Quantitative Health Science and Engineering, Michigan State 
+University, East Lansing, MI, 48824, USA. gmias@msu.edu.
+(6)Physics and Astronomy, Michigan State University, East Lansing, MI, 48824, 
+USA. gmias@msu.edu.
+
+Temporal behavior is an essential aspect of all biological systems. Time series 
+have been previously represented as networks. Such representations must address 
+two fundamental problems on how to: (1) Create appropriate networks to reflect 
+the characteristics of biological time series. (2) Detect characteristic dynamic 
+patterns or events as network temporal communities. General community detection 
+methods use metrics comparing the connectivity within a community to random 
+models, or are based on the betweenness centrality of edges or nodes. However, 
+such methods were not designed for network representations of time series. We 
+introduce a visibility-graph-based method to build networks from time series and 
+detect temporal communities within these networks. To characterize unevenly 
+sampled time series (typical of biological experiments), and simultaneously 
+capture events associated to peaks and troughs, we introduce the Weighted 
+Dual-Perspective Visibility Graph (WDPVG). To detect temporal communities in 
+individual signals, we first find the shortest path of the network between start 
+and end nodes, identifying high intensity nodes as the main stem of our 
+community detection algorithm that act as hubs for each community. Then, we 
+aggregate nodes outside the shortest path to the closest nodes found on the main 
+stem based on the closest path length, thereby assigning every node to a 
+temporal community based on proximity to the stem nodes/hubs. We demonstrate the 
+validity and effectiveness of our method through simulation and biological 
+applications.
+
+DOI: 10.1038/s41598-021-84838-x
+PMCID: PMC7952737
+PMID: 33707481 [Indexed for MEDLINE]
+
+Conflict of interest statement: G.I.M. has consulted for Colgate-Palmolive North 
+America. C.P. owns equity in Salgomed, Inc. M.Z. and S.D. report no potential 
+conflict of interest.

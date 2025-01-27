@@ -1,0 +1,39 @@
+1. PLoS Comput Biol. 2012;8(3):e1002412. doi: 10.1371/journal.pcbi.1002412. Epub 
+2012 Mar 1.
+
+Degenerate T-cell recognition of peptides on MHC molecules creates large holes 
+in the T-cell repertoire.
+
+Calis JJ(1), de Boer RJ, Keşmir C.
+
+Author information:
+(1)Theoretical Biology & Bioinformatics, Utrecht University, Utrecht, The 
+Netherlands. j.j.a.calis@uu.nl
+
+The cellular immune system screens peptides presented by host cells on MHC 
+molecules to assess if the cells are infected. In this study we examined whether 
+the presented peptides contain enough information for a proper self/nonself 
+assessment by comparing the presented human (self) and bacterial or viral 
+(nonself) peptides on a large number of MHC molecules. For all MHC molecules 
+tested, only a small fraction of the presented nonself peptides from 174 species 
+of bacteria and 1000 viral proteomes ([Formula: see text]0.2%) is shown to be 
+identical to a presented self peptide. Next, we use available data on T-cell 
+receptor-peptide-MHC interactions to estimate how well T-cells distinguish 
+between similar peptides. The recognition of a peptide-MHC by the T-cell 
+receptor is flexible, and as a result, about one-third of the presented nonself 
+peptides is expected to be indistinguishable (by T-cells) from presented self 
+peptides. This suggests that T-cells are expected to remain tolerant for a large 
+fraction of the presented nonself peptides, which provides an explanation for 
+the "holes in the T-cell repertoire" that are found for a large fraction of 
+foreign epitopes. Additionally, this overlap with self increases the need for 
+efficient self tolerance, as many self-similar nonself peptides could initiate 
+an autoimmune response. Degenerate recognition of peptide-MHC-I complexes by 
+T-cells thus creates large and potentially dangerous overlaps between self and 
+nonself.
+
+DOI: 10.1371/journal.pcbi.1002412
+PMCID: PMC3291541
+PMID: 22396638 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

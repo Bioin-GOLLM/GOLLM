@@ -1,0 +1,53 @@
+1. Nat Methods. 2023 Aug;20(8):1256-1265. doi: 10.1038/s41592-023-01936-6. Epub 
+2023 Jul 10.
+
+Dense 4D nanoscale reconstruction of living brain tissue.
+
+Velicky P(1)(2), Miguel E(1), Michalska JM(1), Lyudchik J(1), Wei D(3)(4), Lin 
+Z(3), Watson JF(1), Troidl J(3), Beyer J(3), Ben-Simon Y(1)(5), Sommer C(1), 
+Jahr W(1)(6), Cenameri A(1), Broichhagen J(7), Grant SGN(8)(9), Jonas P(1), 
+Novarino G(1), Pfister H(3), Bickel B(1), Danzl JG(10).
+
+Author information:
+(1)Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria.
+(2)Core Facility Imaging, Medical University of Vienna, Vienna, Austria.
+(3)School of Engineering and Applied Sciences, Harvard University, Cambridge, 
+MA, USA.
+(4)Department of Computer Science, Boston College, Boston, MA, USA.
+(5)Allen Institute for Brain Science, Seattle, WA, USA.
+(6)In-Vision Technologies, Guntramsdorf, Austria.
+(7)Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany.
+(8)Genes to Cognition Program, Centre for Clinical Brain Sciences, University of 
+Edinburgh, Edinburgh, UK.
+(9)Simons Initiative for the Developing Brain (SIDB), Centre for Discovery Brain 
+Sciences, University of Edinburgh, Edinburgh, UK.
+(10)Institute of Science and Technology Austria (ISTA), Klosterneuburg, Austria. 
+johann.danzl@ist.ac.at.
+
+Comment in
+    Nat Methods. 2023 Aug;20(8):1141-1142. doi: 10.1038/s41592-023-01937-5.
+
+Three-dimensional (3D) reconstruction of living brain tissue down to an 
+individual synapse level would create opportunities for decoding the dynamics 
+and structure-function relationships of the brain's complex and dense 
+information processing network; however, this has been hindered by insufficient 
+3D resolution, inadequate signal-to-noise ratio and prohibitive light burden in 
+optical imaging, whereas electron microscopy is inherently static. Here we 
+solved these challenges by developing an integrated optical/machine-learning 
+technology, LIONESS (live information-optimized nanoscopy enabling saturated 
+segmentation). This leverages optical modifications to stimulated emission 
+depletion microscopy in comprehensively, extracellularly labeled tissue and 
+previous information on sample structure via machine learning to simultaneously 
+achieve isotropic super-resolution, high signal-to-noise ratio and compatibility 
+with living tissue. This allows dense deep-learning-based instance segmentation 
+and 3D reconstruction at a synapse level, incorporating molecular, activity and 
+morphodynamic information. LIONESS opens up avenues for studying the dynamic 
+functional (nano-)architecture of living brain tissue.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41592-023-01936-6
+PMCID: PMC10406607
+PMID: 37429995 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

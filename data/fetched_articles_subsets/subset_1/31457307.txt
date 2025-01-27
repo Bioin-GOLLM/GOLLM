@@ -1,0 +1,37 @@
+1. ACS Omega. 2017 Oct 30;2(10):7359-7374. doi: 10.1021/acsomega.7b00739. 
+eCollection 2017 Oct 31.
+
+Characterization of Ionizable Groups' Environments in Proteins and 
+Protein-Ligand Complexes through a Statistical Analysis of the Protein Data 
+Bank.
+
+Borrel A(1)(2), Camproux AC(1), Xhaard H(2).
+
+Author information:
+(1)Molécules Thérapeutiques in silico (MTi), INSERM UMRS-973, University Paris 
+Diderot, Sorbonne Paris Cité, 75205 Paris Cedex 13, France.
+(2)Faculty of Pharmacy, Division of Pharmaceutical Chemistry and Technology, 
+University of Helsinki, Viikinkaari 5E, P.O. Box 56, FI-00014 Helsinki, Finland.
+
+We conduct a statistical analysis of the molecular environment of common 
+ionizable functional groups in both protein-ligand complexes and inside proteins 
+from the Protein Data Bank (PDB). In particular, we characterize the frequency, 
+type, and density of the interacting atoms as well as the presence of a 
+potential counterion. We found that for ligands, most guanidinium groups, half 
+of primary and secondary amines, and one-fourth of imidazole neighbor a 
+carboxylate group. Tertiary amines bind more rarely near carboxylate groups, 
+which may be explained by a crowded neighborhood and hydrophobic character. In 
+comparison to the environment seen by the ligands, inside proteins, an 
+environment enriched in main-chain atoms is found, and the prevalence of direct 
+charge neutralization by carboxylate groups is different. When the ionizable 
+character of water molecules and phenolic or hydroxyl groups is accounted, 
+considering a high-resolution dataset (less than 1.5 Å), charge neutralization 
+could occur for well above 80% of the ligand functional groups considered, but 
+for tertiary amines.
+
+DOI: 10.1021/acsomega.7b00739
+PMCID: PMC6645025
+PMID: 31457307
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

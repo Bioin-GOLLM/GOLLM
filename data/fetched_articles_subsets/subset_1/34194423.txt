@@ -1,0 +1,55 @@
+1. Front Immunol. 2021 Jun 14;12:629854. doi: 10.3389/fimmu.2021.629854. 
+eCollection 2021.
+
+Investigation of a Hypoxia-Immune-Related Microenvironment Gene Signature and 
+Prediction Model for Idiopathic Pulmonary Fibrosis.
+
+Li X(1)(2), Cai H(1), Cai Y(3), Zhang Q(1)(2), Ding Y(1)(2), Zhuang Q(1)(4).
+
+Author information:
+(1)Transplantation Center, The 3rd Xiangya Hospital, Central South University, 
+Changsha, China.
+(2)Xiangya School of Medicine, Central South University, Changsha, China.
+(3)School of Life Science, Central South University, Changsha, China.
+(4)Research Center of National Health Ministry on Transplantation Medicine, 
+Changsha, China.
+
+BACKGROUND: There is growing evidence found that the role of hypoxia and immune 
+status in idiopathic pulmonary fibrosis (IPF). However, there are few studies 
+about the role of hypoxia and immune status in the lung milieu in the prognosis 
+of IPF. This study aimed to develop a hypoxia-immune-related prediction model 
+for the prognosis of IPF.
+METHODS: Hypoxia and immune status were estimated with microarray data of a 
+discovery cohort from the GEO database using UMAP and ESTIMATE algorithms 
+respectively. The Cox regression model with the LASSO method was used for 
+identifying prognostic genes and developing hypoxia-immune-related genes. 
+Cibersort was used to evaluate the difference of 22 kinds of immune cell 
+infiltration. Three independent validation cohorts from GEO database were used 
+for external validation. Peripheral blood mononuclear cell (PBMC) and 
+bronchoalveolar lavage fluid (BALF) were collected to be tested by Quantitative 
+reverse transcriptase-PCR (qRT-PCR) and flow cytometry from 22 clinical samples, 
+including 13 healthy controls, six patients with non-fibrotic pneumonia and 
+three patients with pulmonary fibrosis.
+RESULTS: Hypoxia and immune status were significantly associated with the 
+prognosis of IPF patients. High hypoxia and high immune status were identified 
+as risk factors for overall survival. CD8+ T cell, activated CD4+ memory T cell, 
+NK cell, activated mast cell, M1 and M0 macrophages were identified as key 
+immune cells in hypoxia-immune-related microenvironment. A prediction model for 
+IPF prognosis was established based on the hypoxia-immune-related one protective 
+and nine risk DEGs. In the independent validation cohorts, the prognostic 
+prediction model performed the significant applicability in peripheral whole 
+blood, peripheral blood mononuclear cell, and lung tissue of IPF patients. The 
+preliminary clinical specimen validation suggested the reliability of most 
+conclusions.
+CONCLUSIONS: The hypoxia-immune-based prediction model for the prognosis of IPF 
+provides a new idea for prognosis and treatment.
+
+Copyright © 2021 Li, Cai, Cai, Zhang, Ding and Zhuang.
+
+DOI: 10.3389/fimmu.2021.629854
+PMCID: PMC8236709
+PMID: 34194423 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

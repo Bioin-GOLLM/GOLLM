@@ -1,0 +1,43 @@
+1. ACS Omega. 2017 Oct 31;2(10):6691-6702. doi: 10.1021/acsomega.7b01025. Epub
+2017  Oct 12.
+
+Mechanistic Insights into the Differential Catalysis by RheB and Its Mutants: 
+Y35A and Y35A-D65A.
+
+Kotyada C(1), Maulik A(1), Srivastava A(1), Singh M(1).
+
+Author information:
+(1)Molecular Biophysics Unit and NMR Research Centre, Indian Institute of 
+Science, Bengaluru 560012, India.
+
+RheB GTPase is a Ras-related molecular switch, which regulates the mTOR 
+signaling pathway by cycling between the active [guanosine triphosphate (GTP)] 
+state and inactive [guanine diphosphate (GDP)] state. Impairment of GTPase 
+activity because of mutations in several small GTPases is known to be associated 
+with several cancers. The conventional GTPase mechanism such as in H-Ras 
+requires a conserved glutamine (Q64) in the switch-II region of RheB to align 
+the catalytic water molecule for efficient GTP hydrolysis. The conformation of 
+this conserved glutamine is different in RheB, resulting in an altered 
+conformation of the entire switch-II region. Studies on the atypical switch-II 
+conformation in RheB revealed a distinct, noncanonical mode of GTP hydrolysis. 
+An RheB mutant Y35A was previously shown to exclusively enhance the intrinsic 
+GTPase activity of RheB, whereas the Y35A-D65A double mutant was shown to reduce 
+the elevated GTPase activity. Here, we have used all-atom molecular dynamics 
+(MD) simulations for comprehensive understanding of the conformational dynamics 
+associated with the fast (Y35A) and slow (Y35A-D65A) hydrolyzing mutants of 
+RheB. Using a combination of starting models from PDB structures and in-silico 
+generated mutant structures, we discuss the observed conformational deviations 
+in wild type (WT) versus mutants. Our results show that a number of interactions 
+of RheB with phosphates of GTP as well as Mg2+ are destabilized in Y35A mutant 
+in the switch-I region. We report distinct water dynamics at the active site of 
+WT and mutants. Furthermore, principal component analysis showed significant 
+differences in the conformational space sampled by the WT and mutants. Our 
+observations provide improved understanding of the noncanonical GTP hydrolysis 
+mechanism adopted by RheB and its modulation by Y35A and Y35A-D65A mutants.
+
+DOI: 10.1021/acsomega.7b01025
+PMCID: PMC5937686
+PMID: 29750207
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

@@ -1,0 +1,51 @@
+1. mBio. 2022 Aug 30;13(4):e0111922. doi: 10.1128/mbio.01119-22. Epub 2022 Aug 1.
+
+CroR Regulates Expression of pbp4(5) to Promote Cephalosporin Resistance in 
+Enterococcus faecalis.
+
+Timmler SB(1), Kellogg SL(1), Atkinson SN(1)(2), Little JL(1), Djorić D(1), 
+Kristich CJ(1).
+
+Author information:
+(1)Department of Microbiology and Immunology, Medical College of 
+Wisconsingrid.30760.32, Milwaukee, Wisconsin, USA.
+(2)Center for Microbiome Research, Medical College of Wisconsingrid.30760.32, 
+Milwaukee, Wisconsin, USA.
+
+Enterococcus faecalis is an opportunistic pathogen and a major cause of severe 
+nosocomial infections. Treatment options against enterococcal infections are 
+declining due to the resistance of enterococci to numerous antibiotics. A key 
+risk factor for developing enterococcal infections is treatment with 
+cephalosporin antibiotics, to which enterococci are intrinsically resistant. For 
+susceptible organisms, cephalosporins inhibit bacterial growth by acylating the 
+active site of penicillin-binding proteins (PBPs), key enzymes that catalyze 
+peptidoglycan cross-linking. Two specific PBPs of enterococci, Pbp4(5) and 
+PbpA(2b), exhibit low reactivity toward cephalosporins, allowing these PBPs to 
+cross-link peptidoglycan in the presence of cephalosporins to drive resistance 
+in enterococci, but the mechanisms by which these PBPs are regulated are poorly 
+understood. The CroS/R two-component signal transduction system (TCS) is also 
+required for cephalosporin resistance. Activation of CroS/R by cephalosporins 
+leads to CroR-dependent changes in gene expression. However, the specific genes 
+regulated by CroS/R that are responsible for cephalosporin resistance remain 
+largely unknown. In this study, we characterized CroR-dependent transcriptome 
+remodeling by RNA-seq, identifying pbp4(5) as a CroR regulon member in multiple, 
+diverse lineages of E. faecalis. Through genetic analysis of the pbp4(5) and 
+croR promoters, we uncovered a CroR-dependent regulatory motif. Mutations in 
+this motif to disrupt CroR-dependent upregulation of pbp4(5) in the presence of 
+cell wall stress resulted in a reduction of resistance to cephalosporins in E. 
+faecalis, demonstrating that enhanced production of Pbp4(5) and likely other 
+proteins involved in peptidoglycan biogenesis by the CroS/R system drives 
+enterococcal cephalosporin resistance. IMPORTANCE Investigation into molecular 
+mechanisms used by enterococci to subvert cephalosporin antibiotics is 
+imperative for preventing and treating life-threatening infections. In this 
+study, we used genetic means to investigate the functional output of the CroS/R 
+TCS required for enterococcal resistance to cephalosporins. We found that 
+enhanced production of the penicillin-binding protein Pbp4(5) upon exposure to 
+cell wall stress was mediated by CroS/R and was critical for intrinsic 
+cephalosporin resistance of E. faecalis.
+
+DOI: 10.1128/mbio.01119-22
+PMCID: PMC9426447
+PMID: 35913163 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

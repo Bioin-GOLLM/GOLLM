@@ -1,0 +1,61 @@
+1. Sci Rep. 2017 Mar 17;7:44634. doi: 10.1038/srep44634.
+
+Associations between genetic variants in mRNA splicing-related genes and risk of 
+lung cancer: a pathway-based analysis from published GWASs.
+
+Pan Y(1)(2)(3), Liu H(1)(3), Wang Y(1)(3), Kang X(1)(3), Liu Z(1)(3), Owzar 
+K(1)(4), Han Y(5), Su L(6)(7), Wei Y(6)(7), Hung RJ(8), Brhane Y(8), McLaughlin 
+J(9), Brennan P(10), Bickeböller H(11), Rosenberger A(11), Houlston RS(12), 
+Caporaso N(13), Teresa Landi M(13), Heinrich J(14), Risch A(15), Wu X(16), Ye 
+Y(16), Christiani DC(6)(7), Amos CI(5), Wei Q(1)(3).
+
+Author information:
+(1)Duke Cancer Institute, Duke University Medical Center, Durham, NC, USA.
+(2)Affiliated Hospital of Stomatology, Nanjing Medical University, Nanjing, 
+China.
+(3)Department of Medicine, Duke University School of Medicine, Durham, NC, USA.
+(4)Department of Biostatistics and Bioinformatics, Duke University Medical 
+Center, Durham, NC, USA.
+(5)Department of Biomedical Data Science, Geisel School of Medicine, Dartmouth 
+College, Hanover, USA.
+(6)Massachusetts General Hospital, Boston, Massachusetts, USA.
+(7)Department of Environmental Health, Harvard School of Public Health, Boston, 
+Massachusetts, USA.
+(8)Lunenfeld-Tanenbaum Research Institute of Mount Sinai Hospital, Toronto, 
+Ontario, Canada.
+(9)Public Health Ontario, Toronto, Ontario, Canada.
+(10)Genetic Epidemiology Group, International Agency for Research on Cancer 
+(IARC), Lyon, France.
+(11)Department of Genetic Epidemiology, University Medical Center, 
+Georg-August-University Göttingen, Göttingen, Germany.
+(12)Division of Genetics and Epidemiology, the Institute of Cancer Research, 
+London, United Kingdom.
+(13)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institutes of Health, Bethesda, MD, USA.
+(14)Helmholtz Centre Munich, German Research Centre for Environmental Health, 
+Institute of Epidemiology I, Neuherberg, Germany.
+(15)Department of Molecular Biology, University of Salzburg, Salzburg, Austria.
+(16)Department of Epidemiology, University of Texas MD Anderson Cancer Center, 
+Houston, Texas, USA.
+
+mRNA splicing is an important mechanism to regulate mRNA expression. Abnormal 
+regulation of this process may lead to lung cancer. Here, we investigated the 
+associations of 11,966 single-nucleotide polymorphisms (SNPs) in 206 mRNA 
+splicing-related genes with lung cancer risk by using the summary data from six 
+published genome-wide association studies (GWASs) of Transdisciplinary Research 
+in Cancer of the Lung (TRICL) (12,160 cases and 16,838 controls) and another two 
+lung cancer GWASs of Harvard University (984 cases and 970 controls) and deCODE 
+(1,319 cases and 26,380 controls). We found that a total of 12 significant SNPs 
+with false discovery rate (FDR) ≤0.05 were mapped to one novel gene PRPF6 and 
+two previously reported genes (DHX16 and LSM2) that were also confirmed in this 
+study. The six novel SNPs in PRPF6 were in high linkage disequilibrium and 
+associated with PRPF6 mRNA expression in lymphoblastoid cells from 373 Europeans 
+in the 1000 Genomes Project. Taken together, our studies shed new light on the 
+role of mRNA splicing genes in the development of lung cancer.
+
+DOI: 10.1038/srep44634
+PMCID: PMC5356340
+PMID: 28304396 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

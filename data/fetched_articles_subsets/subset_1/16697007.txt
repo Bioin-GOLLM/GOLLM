@@ -1,0 +1,38 @@
+1. J Mol Biol. 2006 Jun 16;359(4):1023-44. doi: 10.1016/j.jmb.2006.04.024. Epub 
+2006 Apr 25.
+
+From the similarity analysis of protein cavities to the functional 
+classification of protein families using cavbase.
+
+Kuhn D(1), Weskamp N, Schmitt S, Hüllermeier E, Klebe G.
+
+Author information:
+(1)Department of Pharmaceutical Chemistry, University of Marburg, Marbacher Weg 
+6, D-35032 Marburg, Germany.
+
+In this contribution, the classification of protein binding sites using the 
+physicochemical properties exposed to their pockets is presented. We recently 
+introduced Cavbase, a method for describing and comparing protein binding 
+pockets on the basis of the geometrical and physicochemical properties of their 
+active sites. Here, we present algorithmic and methodological enhancements in 
+the Cavbase property description and in the cavity comparison step. We give 
+examples of the Cavbase similarity analysis detecting pronounced similarities in 
+the binding sites of proteins unrelated in sequence. A similarity search using 
+SARS M(pro) protease subpockets as queries retrieved ligands and ligand 
+fragments accommodated in a physicochemical environment similar to that of the 
+query. This allowed the characterization of the protease recognition pockets and 
+the identification of molecular building blocks that can be incorporated into 
+novel antiviral compounds. A cluster analysis procedure for the functional 
+classification of binding pockets was implemented and calibrated using a diverse 
+set of enzyme binding sites. Two relevant protein families, the alpha-carbonic 
+anhydrases and the protein kinases, are used to demonstrate the scope of our 
+cluster approach. We propose a relevant classification of both protein families, 
+on the basis of the binding motifs in their active sites. The classification 
+provides a new perspective on functional properties across a protein family and 
+is able to highlight features important for potency and selectivity. 
+Furthermore, this information can be used to identify possible 
+cross-reactivities among proteins due to similarities in their binding sites.
+
+DOI: 10.1016/j.jmb.2006.04.024
+PMCID: PMC7094329
+PMID: 16697007 [Indexed for MEDLINE]

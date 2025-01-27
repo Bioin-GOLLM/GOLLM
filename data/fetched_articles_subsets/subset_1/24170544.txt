@@ -1,0 +1,52 @@
+1. Clin Cancer Res. 2014 Jan 1;20(1):265-272. doi: 10.1158/1078-0432.CCR-13-1943.
+ Epub 2013 Oct 29.
+
+Modeling RAS phenotype in colorectal cancer uncovers novel molecular traits of 
+RAS dependency and improves prediction of response to targeted agents in 
+patients.
+
+Guinney J(#)(1), Ferté C(#)(1)(2)(3), Dry J(4), McEwen R(4), Manceau G(5), Kao 
+KJ(6), Chang KM(6), Bendtsen C(4), Hudson K(4), Huang E(1), Dougherty B(4), 
+Ducreux M(2)(3), Soria JC(2)(3), Friend S(1), Derry J(1), Laurent-Puig P(5).
+
+Author information:
+(1)Sage Bionetworks (non-profit research organization), Fred-Hutchinson Cancer 
+Research Center, Seattle, WA.
+(2)Department of Medical Oncology, Gustave Roussy, Villejuif, France.
+(3)INSERM U981, Université Paris XI, Villejuif, France.
+(4)AstraZeneca, London, UK.
+(5)INSERM UMR-S775, Université Paris Descartes, Sorbonne Paris Cité, Paris 
+France.
+(6)Koo Foundation Sun-Yat-Sen Cancer Center, Taipei, Taiwan.
+(#)Contributed equally
+
+PURPOSE: KRAS wild-type status is an imperfect predictor of sensitivity to 
+anti-EGF receptor (EGFR) monoclonal antibodies in colorectal cancer, motivating 
+efforts to identify novel molecular aberrations driving RAS. This study aimed to 
+build a quantitative readout of RAS pathway activity to (i) uncover molecular 
+surrogates of RAS activity specific to colorectal cancer, (ii) improve the 
+prediction of cetuximab response in patients, and (iii) suggest new treatment 
+strategies.
+EXPERIMENTAL DESIGN: A model of RAS pathway activity was trained in a large 
+colorectal cancer dataset and validated in three independent colorectal cancer 
+patient datasets. Novel molecular traits were inferred from The Cancer Genome 
+Atlas colorectal cancer data. The ability of the RAS model to predict resistance 
+to cetuximab was tested in mouse xenografts and three independent patient 
+cohorts. Drug sensitivity correlations between our model and large cell line 
+compendiums were performed.
+RESULTS: The performance of the RAS model was remarkably robust across three 
+validation datasets. (i) Our model confirmed the heterogeneity of the RAS 
+phenotype in KRAS wild-type patients, and suggests novel molecular traits 
+driving its phenotype (e.g., MED12 loss, FBXW7 mutation, MAP2K4 mutation). (ii) 
+It improved the prediction of response and progression-free survival (HR, 2.0; P 
+< 0.01) to cetuximab compared with KRAS mutation (xenograft and patient 
+cohorts). (iii) Our model consistently predicted sensitivity to MAP-ERK kinase 
+(MEK) inhibitors (P < 0.01) in two cell panel screens.
+CONCLUSIONS: Modeling the RAS phenotype in colorectal cancer allows for the 
+robust interrogation of RAS pathway activity across cell lines, xenografts, and 
+patient cohorts. It demonstrates clinical utility in predicting response to 
+anti-EGFR agents and MEK inhibitors.
+
+DOI: 10.1158/1078-0432.CCR-13-1943
+PMCID: PMC4141655
+PMID: 24170544 [Indexed for MEDLINE]

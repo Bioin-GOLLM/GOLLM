@@ -1,0 +1,68 @@
+1. Eur J Med Res. 2023 Oct 17;28(1):438. doi: 10.1186/s40001-023-01383-1.
+
+Pan-cancer analysis identifies RNF43 as a prognostic, therapeutic and 
+immunological biomarker.
+
+Xu Y(#)(1), Lin Z(#)(1), Ji Y(1), Zhang C(2), Tang X(3), Li C(4), Liu T(5).
+
+Author information:
+(1)Department of Orthopedics, The Second Xiangya Hospital, Central South 
+University, 139# Middle Renmin Road, Changsha, 410013, Hunan, People's Republic 
+of China.
+(2)Department of The Emergency, The Fourth People's Hospital of Zigong, Zigong, 
+643000, Sichuan, China.
+(3)Department of Orthopedics, Chenzhou No.1, People's Hospital, Chenzhou, 
+423000, Hunan, China.
+(4)Department of Orthopaedic, 920Th Hospital of Joint Logistics Support Force of 
+Chinese People's Liberation Army, 212 Daguan Road, Xishan District, Kunming, 
+Yunnan, China. lichuankaka@163.com.
+(5)Department of Orthopedics, The Second Xiangya Hospital, Central South 
+University, 139# Middle Renmin Road, Changsha, 410013, Hunan, People's Republic 
+of China. liutang1204@csu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: RING finger protein 43 (RNF43), an E3 ubiquitin ligase, is a 
+homologous gene mutated in several cancers. However, the pan-cancer panoramic 
+picture of RNF43 and its predictive value for tumor immune phenotypes and 
+immunotherapeutic efficacy are still largely unclear. Our study aims to clarify 
+the functions of RNF43 in predicting the prognosis, immune signature, and 
+immunotherapeutic efficacy in pan-cancer.
+METHODS: By using RNA-seq, mutation, and clinical data from the TCGA database, 
+the expression levels and prognostic significance of RNF43 in pan-cancer were 
+analyzed. The genetic alteration characteristics of RNF43 were displayed by the 
+cBioPortal database. Gene Set Enrichment Analysis (GSEA) was performed to 
+investigate the potential biological functions and signaling pathways modulated 
+by RNF43 in cancers. The relationship of RNF43 expression with immune cell 
+infiltration, and immune modulators expression was interpreted by the ESTIMATE 
+algorithm, CIBERSORT algorithm, and TISIDB database. The correlations between 
+RNF43, microsatellite instability (MSI), and tumor mutation burden (TMB) were 
+also investigated. Furthermore, the predictive value of RNF43 for 
+immunotherapeutic efficacy and drug sensitivity was further illustrated. 
+Besides, immunohistochemistry (IHC) was employed to validate the expression of 
+the RNF43 in different cancer types by our clinical cohorts, including patients 
+with lung cancer, sarcoma, breast cancer, and kidney renal clear cell carcinoma.
+RESULTS: The results demonstrated that RNF43 was abnormally expressed in 
+multiple cancers, and RNF43 is a critical prognosis-related factor in several 
+cancers. RNF43 was frequently mutated in several cancers with a high frequency 
+of 4%, and truncating mutation was the most frequent RNF43 mutation type. RNF43 
+expression was linked to the abundance of several immune cell types, including 
+CD8+ T cells, B cells, and macrophages within the tumor immune microenvironment. 
+Furthermore, RNF43 expression was significantly correlated with the efficacy of 
+anti-PD-1/PD-L1 treatment, and it could predict the sensitivity of various 
+anti-cancer drugs. Finally, IHC explored and validated the different expression 
+levels of RNF43 in different cancers by our clinical samples.
+CONCLUSION: Our results first present the expression pattern and the mutation 
+signature of RNF43, highlighting that RNF43 is an important prognostic biomarker 
+in pan-cancer. Furthermore, RNF43 seems to be a critical modulator in the tumor 
+immune microenvironment and can function as a promising biomarker for predicting 
+the immunotherapeutic efficacy of anti-PD-1/PD-L1 treatment, and drug 
+sensitivity in cancer treatment.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s40001-023-01383-1
+PMCID: PMC10580550
+PMID: 37848933 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.

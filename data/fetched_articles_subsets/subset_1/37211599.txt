@@ -1,0 +1,56 @@
+1. BMC Plant Biol. 2023 May 22;23(1):270. doi: 10.1186/s12870-023-04281-0.
+
+Optimization of ATAC-seq in wheat seedling roots using INTACT-isolated nuclei.
+
+Debernardi JM(1)(2), Burguener G(3)(4), Bubb K(5), Liu Q(3)(4), Queitsch C(5), 
+Dubcovsky J(6)(7).
+
+Author information:
+(1)University of California, Davis, CA, 95616, USA. jmdebernardi@ucdavis.edu.
+(2)Howard Hughes Medical Institute, Chevy Chase, MD, 20815, USA. 
+jmdebernardi@ucdavis.edu.
+(3)University of California, Davis, CA, 95616, USA.
+(4)Howard Hughes Medical Institute, Chevy Chase, MD, 20815, USA.
+(5)Dept. of Biology, University of Washington, Seattle, WA, 98195, USA.
+(6)University of California, Davis, CA, 95616, USA. jdubcovsky@ucdavis.edu.
+(7)Howard Hughes Medical Institute, Chevy Chase, MD, 20815, USA. 
+jdubcovsky@ucdavis.edu.
+
+BACKGROUND: The genetic information contained in the genome of an organism is 
+organized in genes and regulatory elements that control gene expression. The 
+genomes of multiple plants species have already been sequenced and the gene 
+repertory have been annotated, however, cis-regulatory elements remain less 
+characterized, limiting our understanding of genome functionality. These 
+elements act as open platforms for recruiting both positive- and negative-acting 
+transcription factors, and as such, chromatin accessibility is an important 
+signature for their identification.
+RESULTS: In this work we developed a transgenic INTACT [isolation of nuclei 
+tagged in specific cell types] system in tetraploid wheat for nuclei 
+purifications. Then, we combined the INTACT system together with the assay for 
+transposase-accessible chromatin with sequencing [ATAC-seq] to identify open 
+chromatin regions in wheat root tip samples. Our ATAC-seq results showed a large 
+enrichment of open chromatin regions in intergenic and promoter regions, which 
+is expected for regulatory elements and that is similar to ATAC-seq results 
+obtained in other plant species. In addition, root ATAC-seq peaks showed a 
+significant overlap with a previously published ATAC-seq data from wheat leaf 
+protoplast, indicating a high reproducibility between the two experiments and a 
+large overlap between open chromatin regions in root and leaf tissues. 
+Importantly, we observed overlap between ATAC-seq peaks and cis-regulatory 
+elements that have been functionally validated in wheat, and a good correlation 
+between normalized accessibility and gene expression levels.
+CONCLUSIONS: We have developed and validated an INTACT system in tetraploid 
+wheat that allows rapid and high-quality nuclei purification from root tips. 
+Those nuclei were successfully used to performed ATAC-seq experiments that 
+revealed open chromatin regions in the wheat genome that will be useful to 
+identify cis-regulatory elements. The INTACT system presented here will 
+facilitate the development of ATAC-seq datasets in other tissues, growth stages, 
+and under different growing conditions to generate a more complete landscape of 
+the accessible DNA regions in the wheat genome.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12870-023-04281-0
+PMCID: PMC10201787
+PMID: 37211599 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

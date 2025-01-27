@@ -1,0 +1,42 @@
+1. Int J Mol Sci. 2023 Jul 17;24(14):11564. doi: 10.3390/ijms241411564.
+
+Impact of E484Q and L452R Mutations on Structure and Binding Behavior of 
+SARS-CoV-2 B.1.617.1 Using Deep Learning AlphaFold2, Molecular Docking and 
+Dynamics Simulation.
+
+Jiao Y(1), Xing Y(1), Sun Y(1).
+
+Author information:
+(1)School of Science, Harbin Institute of Technology (Shenzhen), Shenzhen 
+518055, China.
+
+During the outbreak of COVID-19, many SARS-CoV-2 variants presented key amino 
+acid mutations that influenced their binding abilities with 
+angiotensin-converting enzyme 2 (hACE2) and neutralizing antibodies. For the 
+B.1.617 lineage, there had been fears that two key mutations, i.e., L452R and 
+E484Q, would have additive effects on the evasion of neutralizing antibodies. In 
+this paper, we systematically investigated the impact of the L452R and E484Q 
+mutations on the structure and binding behavior of B.1.617.1 using deep learning 
+AlphaFold2, molecular docking and dynamics simulation. We firstly predicted and 
+verified the structure of the S protein containing L452R and E484Q mutations via 
+the AlphaFold2-calculated pLDDT value and compared it with the experimental 
+structure. Next, a molecular simulation was performed to reveal the structural 
+and interaction stabilities of the S protein of the double mutant variant with 
+hACE2. We found that the double mutations, L452R and E484Q, could lead to a 
+decrease in hydrogen bonds and higher interaction energy between the S protein 
+and hACE2, demonstrating the lower structural stability and the worse binding 
+affinity in the long dynamic evolutional process, even though the molecular 
+docking showed the lower binding energy score of the S1 RBD of the double mutant 
+variant with hACE2 than that of the wild type (WT) with hACE2. In addition, 
+docking to three approved neutralizing monoclonal antibodies (mAbs) showed a 
+reduced binding affinity of the double mutant variant, suggesting a lower 
+neutralization ability of the mAbs against the double mutant variant. Our study 
+helps lay the foundation for further SARS-CoV-2 studies and provides 
+bioinformatics and computational insights into how the double mutations lead to 
+immune evasion, which could offer guidance for subsequent biomedical studies.
+
+DOI: 10.3390/ijms241411564
+PMCID: PMC10380202
+PMID: 37511322 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

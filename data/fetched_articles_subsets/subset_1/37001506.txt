@@ -1,0 +1,134 @@
+1. Cell. 2023 Mar 30;186(7):1493-1511.e40. doi: 10.1016/j.cell.2023.02.018.
+
+The EN-TEx resource of multi-tissue personal epigenomes & variant-impact models.
+
+Rozowsky J(1), Gao J(2), Borsari B(3), Yang YT(4), Galeev T(2), Gürsoy G(2), 
+Epstein CB(5), Xiong K(2), Xu J(2), Li T(2), Liu J(2), Yu K(6), Berthel A(2), 
+Chen Z(7), Navarro F(2), Sun MS(2), Wright J(8), Chang J(2), Cameron CJF(2), 
+Shoresh N(5), Gaskell E(5), Drenkow J(9), Adrian J(10), Aganezov S(11), Aguet 
+F(5), Balderrama-Gutierrez G(12), Banskota S(5), Corona GB(5), Chee S(13), 
+Chhetri SB(14), Cortez Martins GC(2), Danyko C(9), Davis CA(9), Farid D(2), 
+Farrell NP(5), Gabdank I(10), Gofin Y(6), Gorkin DU(13), Gu M(2), Hecht V(5), 
+Hitz BC(10), Issner R(5), Jiang Y(2), Kirsche M(11), Kong X(2), Lam BR(10), Li 
+S(2), Li B(2), Li X(6), Lin KZ(10), Luo R(15), Mackiewicz M(14), Meng R(2), 
+Moore JE(16), Mudge J(17), Nelson N(5), Nusbaum C(5), Popov I(2), Pratt HE(16), 
+Qiu Y(13), Ramakrishnan S(11), Raymond J(5), Salichos L(18), Scavelli A(9), 
+Schreiber JM(19), Sedlazeck FJ(20), See LH(9), Sherman RM(11), Shi X(2), Shi 
+M(10), Sloan CA(10), Strattan JS(10), Tan Z(2), Tanaka FY(10), Vlasova A(21), 
+Wang J(2), Werner J(9), Williams B(22), Xu M(2), Yan C(2), Yu L(8), Zaleski 
+C(9), Zhang J(23), Ardlie K(5), Cherry JM(10), Mendenhall EM(14), Noble WS(19), 
+Weng Z(16), Levine ME(24), Dobin A(9), Wold B(22), Mortazavi A(12), Ren B(13), 
+Gillis J(25), Myers RM(14), Snyder MP(10), Choudhary J(8), Milosavljevic A(6), 
+Schatz MC(26), Bernstein BE(27), Guigó R(28), Gingeras TR(29), Gerstein M(30).
+
+Author information:
+(1)Section on Biomedical Informatics and Data Science, Yale University, New 
+Haven, CT, USA; Program in Computational Biology and Bioinformatics, Yale 
+University, New Haven, CT, USA; Department of Molecular Biophysics and 
+Biochemistry, Yale University, New Haven, CT, USA.
+(2)Program in Computational Biology and Bioinformatics, Yale University, New 
+Haven, CT, USA; Department of Molecular Biophysics and Biochemistry, Yale 
+University, New Haven, CT, USA.
+(3)Program in Computational Biology and Bioinformatics, Yale University, New 
+Haven, CT, USA; Department of Molecular Biophysics and Biochemistry, Yale 
+University, New Haven, CT, USA; Centre for Genomic Regulation, The Barcelona 
+Institute of Science and Technology, Barcelona, Catalonia, Spain.
+(4)Institute of Science and Technology for Brain-Inspired Intelligence; MOE Key 
+Laboratory of Computational Neuroscience and Brain-Inspired Intelligence; MOE 
+Frontiers Center for Brain Science, Fudan University, Shanghai 200433, China; 
+Program in Computational Biology and Bioinformatics, Yale University, New Haven, 
+CT, USA; Department of Molecular Biophysics and Biochemistry, Yale University, 
+New Haven, CT, USA.
+(5)Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(6)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX, USA.
+(7)Department of Statistics and Data Science, Yale University, New Haven, CT, 
+USA.
+(8)Institute of Cancer Research, London, UK.
+(9)Functional Genomics, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 
+USA.
+(10)Department of Genetics, School of Medicine, Stanford University, Palo Alto, 
+CA, USA.
+(11)Departments of Computer Science and Biology, Johns Hopkins University, 
+Baltimore, MD, USA.
+(12)Department of Developmental and Cell Biology, University of California, 
+Irvine, Irvine, CA, USA.
+(13)Ludwig Institute for Cancer Research, University of California, San Diego, 
+La Jolla, CA, USA.
+(14)HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA.
+(15)Department of Computer Science, The University of Hong Kong, Hong Kong, CHN.
+(16)Program in Bioinformatics and Integrative Biology, University of 
+Massachusetts Medical School, Worcester, MA, USA.
+(17)European Bioinformatics Institute, Cambridge, Cambridgeshire, GB.
+(18)Program in Computational Biology and Bioinformatics, Yale University, New 
+Haven, CT, USA; Department of Molecular Biophysics and Biochemistry, Yale 
+University, New Haven, CT, USA; Department of Biological and Chemical Sciences, 
+New York Institute of Technology, Old Westbury, NY, USA.
+(19)Department of Genome Sciences, University of Washington, Seattle, WA, USA.
+(20)Departments of Computer Science and Biology, Johns Hopkins University, 
+Baltimore, MD, USA; Simons Center for Quantitative Biology, Cold Spring Harbor 
+Laboratory, Cold Spring Harbor, NY, USA; Human Genome Sequencing Center, Baylor 
+College of Medicine, Houston, TX, USA.
+(21)Centre for Genomic Regulation, The Barcelona Institute of Science and 
+Technology, Barcelona, Catalonia, Spain; Comparative Genomics Group, Life 
+Science Programme, Barcelona Supercomputing Centre, Barcelona, Spain; Institute 
+of Research in Biomedicine, Barcelona, Spain.
+(22)Division of Biology and Biological Engineering, California Institute of 
+Technology, Pasadena, CA, USA.
+(23)Department of Computer Science, University of California, Irvine, Irvine, 
+CA, USA.
+(24)Program in Computational Biology and Bioinformatics, Yale University, New 
+Haven, CT, USA; Department of Pathology, Yale University School of Medicine, New 
+Haven, CT, USA.
+(25)Functional Genomics, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 
+USA; Department of Physiology, University of Toronto, Toronto, ON, Canada.
+(26)Departments of Computer Science and Biology, Johns Hopkins University, 
+Baltimore, MD, USA; Simons Center for Quantitative Biology, Cold Spring Harbor 
+Laboratory, Cold Spring Harbor, NY, USA. Electronic address: mschatz@cs.jhu.edu.
+(27)Broad Institute of MIT and Harvard, Cambridge, MA, USA; Department of Cancer 
+Biology, Dana-Farber Cancer Institute, Boston, MA, USA. Electronic address: 
+Bradley_Bernstein@dfci.harvard.edu.
+(28)Centre for Genomic Regulation, The Barcelona Institute of Science and 
+Technology, Barcelona, Catalonia, Spain; Universitat Pompeu Fabra, Barcelona, 
+Catalonia, Spain. Electronic address: roderic.guigo@crg.eu.
+(29)Functional Genomics, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, 
+USA. Electronic address: gingeras@cshl.edu.
+(30)Section on Biomedical Informatics and Data Science, Yale University, New 
+Haven, CT, USA; Program in Computational Biology and Bioinformatics, Yale 
+University, New Haven, CT, USA; Department of Molecular Biophysics and 
+Biochemistry, Yale University, New Haven, CT, USA; Department of Statistics and 
+Data Science, Yale University, New Haven, CT, USA; Department of Computer 
+Science, Yale University, New Haven, CT, USA. Electronic address: 
+mark@gersteinlab.org.
+
+Comment in
+    Nat Rev Genet. 2023 Jun;24(6):346. doi: 10.1038/s41576-023-00604-x.
+
+Understanding how genetic variants impact molecular phenotypes is a key goal of 
+functional genomics, currently hindered by reliance on a single haploid 
+reference genome. Here, we present the EN-TEx resource of 1,635 open-access 
+datasets from four donors (∼30 tissues × ∼15 assays). The datasets are mapped to 
+matched, diploid genomes with long-read phasing and structural variants, 
+instantiating a catalog of >1 million allele-specific loci. These loci exhibit 
+coordinated activity along haplotypes and are less conserved than corresponding, 
+non-allele-specific ones. Surprisingly, a deep-learning transformer model can 
+predict the allele-specific activity based only on local nucleotide-sequence 
+context, highlighting the importance of transcription-factor-binding motifs 
+particularly sensitive to variants. Furthermore, combining EN-TEx with existing 
+genome annotations reveals strong associations between allele-specific and GWAS 
+loci. It also enables models for transferring known eQTLs to 
+difficult-to-profile tissues (e.g., from skin to heart). Overall, EN-TEx 
+provides rich data and generalizable models for more accurate personal 
+functional genomics.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2023.02.018
+PMCID: PMC10074325
+PMID: 37001506 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests Z.W. co-founded and 
+serves as a scientific advisor for Rgenta Inc. B.E.B. declares outside interests 
+in Fulcrum Therapeutics, HiFiBio, Arsenal Biosciences, Cell Signaling 
+Technologies, Chroma Medicine, and Design Pharmaceuticals. M.G. is on the 
+advisory board for HypaHub, Inc. and Elysium Health.

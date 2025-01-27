@@ -1,0 +1,41 @@
+1. Proteins. 2022 Jul;90(7):1390-1412. doi: 10.1002/prot.26321. Epub 2022 Feb 26.
+
+Can the jigsaw puzzle model of protein folding re-assemble a hydrophobic core?
+
+Biswas G(1)(2), Ghosh S(1), Basu S(1), Bhattacharyya D(1)(2), Datta AK(3), 
+Banerjee R(1)(2).
+
+Author information:
+(1)Saha Institute of Nuclear Physics, Kolkata, India.
+(2)Homi Bhabha National Institute, Mumbai, India.
+(3)Indian Institute of Chemical Biology, Kolkata, India.
+
+According to the "jigsaw puzzle" model of protein folding, the isomorphism 
+between sequence and structure is substantially determined by the specific 
+geometry of side-chain interactions, within the protein interior. In this work, 
+we have attempted to predict the hydrophobic core of cyclophilin (LdCyp) from 
+Leishmania donovani, utilizing a surface complementarity function, which selects 
+for high goodness of fit between hydrophobic side-chain surfaces, rather in the 
+manner of assembling a three-dimensional jigsaw puzzle. The computational core 
+prediction method implemented here has been tried on two distinct scenarios, on 
+the LdCyp polypeptide chain with native non-core residues and all core residues 
+initially set to alanine, on a poly-glycine polypeptide chain. Molecular 
+dynamics simulations appeared to indicate partial destabilization of the two 
+designed sequences. However, experimental characterization of the designed 
+sequences by circular dichroism (CD) spectroscopy and denaturant (GdmCl) induced 
+unfolding, demonstrated disordered proteins. Stepwise reconstruction of the 
+designed cores by cumulative sequential mutations identified the specific 
+mutation (M122L) as primarily responsible for fold collapse and all design 
+objectives were achieved upon rectifying this mutation. In summary, the study 
+demonstrates regions of the core to contain highly specific (jigsaw puzzle-like) 
+interactions sensitive to any perturbations and a predictive algorithm to 
+identify such regions. A mutation within the core has been identified which 
+exercises an inordinate influence on the global fold, reminiscent of metamorphic 
+proteins. In addition, the computational procedure could predict substantial 
+regions of the core (given main-chain coordinates) without any reference to 
+non-core residues.
+
+© 2022 Wiley Periodicals LLC.
+
+DOI: 10.1002/prot.26321
+PMID: 35157344 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+1. Sci Rep. 2021 Feb 4;11(1):3138. doi: 10.1038/s41598-021-82737-9.
+
+Adaptor Template Oligo-Mediated Sequencing (ATOM-Seq) is a new ultra-sensitive 
+UMI-based NGS library preparation technology for use with cfDNA and cfRNA.
+
+Dunwell TL(1), Dailey SC(1), Ottestad AL(2)(3), Yu J(1), Becker PW(1), Scaife 
+S(1), Richman SD(4), Wood HM(4), Slaney H(4), Bottomley D(4), Yang X(5), Xiao 
+H(5), Wahl SGF(2)(3), Grønberg BH(2)(3), Dai H(2)(6), Fu G(7).
+
+Author information:
+(1)GeneFirst Ltd, Building E5, Culham Science Centre, Abingdon, OX14 3DB, UK.
+(2)Department of Oncology, St. Olav's Hospital, Trondheim University Hospital, 
+Trondheim, Norway.
+(3)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, Norwegian University of Science and Technology (NTNU), Trondheim, 
+Norway.
+(4)Pathology and Data Analytics, Leeds Institute of Medical Research, University 
+of Leeds, St James University Hospital, Leeds, LS9 7TF, UK.
+(5)Guangzhou Biotron Technology Co., Ltd, Room 204, Zone C, Science and 
+Technology Innovation Base, No. 80, Lanyue Road, Science City, Guangzhou, China.
+(6)Department of Pathology, St. Olav's Hospital, Trondheim University Hospital, 
+Trondheim, Norway.
+(7)GeneFirst Ltd, Building E5, Culham Science Centre, Abingdon, OX14 3DB, UK. 
+Guoliang.Fu@genefirst.com.
+
+Liquid biopsy testing utilising Next Generation Sequencing (NGS) is rapidly 
+moving towards clinical adoption for personalised oncology. However, before NGS 
+can fulfil its potential any novel testing approach must identify ways of 
+reducing errors, allowing separation of true low-frequency mutations from 
+procedural artefacts, and be designed to improve upon current technologies. 
+Popular NGS technologies typically utilise two DNA capture approaches; PCR and 
+ligation, which have known limitations and seem to have reached a development 
+plateau with only small, stepwise improvements being made. To maximise the 
+ultimate utility of liquid biopsy testing we have developed a highly versatile 
+approach to NGS: Adaptor Template Oligo Mediated Sequencing (ATOM-Seq). 
+ATOM-Seq's strengths and versatility avoid the major limitations of both PCR- 
+and ligation-based approaches. This technology is ligation free, simple, 
+efficient, flexible, and streamlined, and it offers novel advantages that make 
+it perfectly suited for use on highly challenging clinical material. Using 
+reference and clinical materials, we demonstrate detection of known SNVs down to 
+allele frequencies of 0.1% using as little as 20-25 ng of cfDNA, as well as the 
+ability to detect fusions from RNA. We illustrate ATOM-Seq's suitability for 
+clinical testing by showing high concordance rates between paired cfDNA and FFPE 
+clinical samples.
+
+DOI: 10.1038/s41598-021-82737-9
+PMCID: PMC7862664
+PMID: 33542447 [Indexed for MEDLINE]
+
+Conflict of interest statement: G.F., T.L.D., S.C.D., J.Y, P.B. and S.S. are or 
+were direct employees of GeneFirst Ltd. X.Y. and H.X. are or were employees of 
+Guangzhou Biotron Technology Co., Ltd which has financial interest in GeneFirst. 
+All other authors declare no conflicts of interest.

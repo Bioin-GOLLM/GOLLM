@@ -1,0 +1,42 @@
+1. Front Oncol. 2022 Jan 4;11:787814. doi: 10.3389/fonc.2021.787814. eCollection 
+2021.
+
+Integrated Transcriptomic Analysis Reveals a Distinctive Role of YAP1 in 
+Extramedullary Invasion and Therapeutic Sensitivity of Multiple Myeloma.
+
+Zheng B(1), Sun W(1), Yi K(1), Zhang Y(1), Wang L(1), Lan H(1), Zhang C(1), Xian 
+H(1), Li R(1).
+
+Author information:
+(1)Nuclear Radiation Injury Protection and Treatment Department, Navy Medical 
+Center of People Liberation Army (PLA), Naval Medical University, Shanghai, 
+China.
+
+Multiple myeloma (MM) is the second most common hematologic malignancy. There 
+are no standard therapeutic guidelines for extramedullary invasion (EM). We 
+performed a retrospective integrated transcriptomic analysis based on GEO, TCGA, 
+and Oncomine datasets with a total of over 2,500 cases enrolled. GSVA analysis 
+was performed on GSE24080. The external validation cohorts include GSE9782, 
+GSE2658, MMRF-COMPASS, and Oncomine. The data of MGUS to relapsed MM were 
+acquired from GSE6477, GSE5900, and Oncomine. The data of EM were acquired from 
+GSE39683 and GSE66291. Single-cell level transcriptome data of MM and EM were 
+acquired from GSE106218. GSVA analysis revealed that 559 cases could be divided 
+into 2 groups based on the expression of oncogenic pathways with prognostic 
+significances. Group 1 with a specific phenotype of YAP1-MYC+ exhibited an 
+unpromising prognosis. The univariate analysis revealed YAP1 as a tumor 
+suppressor in MM. The activity of DNA repair, glycolysis, and oxidative 
+phosphorylation was significantly higher in YAP1-MYC+ MM, which is in 
+concordance with EM myeloma cells based on single-cell analysis. Furthermore, we 
+discovered that YAP1-MYC+ MM patients exhibited an improved response for IMiD 
+treatment. Collectively, YAP1-MYC+MM patients might suffer a worse prognosis and 
+stronger propensity for EM progression.
+
+Copyright © 2022 Zheng, Sun, Yi, Zhang, Wang, Lan, Zhang, Xian and Li.
+
+DOI: 10.3389/fonc.2021.787814
+PMCID: PMC8763979
+PMID: 35059315
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,47 @@
+1. Commun Biol. 2018 Sep 6;1:136. doi: 10.1038/s42003-018-0139-y. eCollection
+2018.
+
+Streamlining volumetric multi-channel image cytometry using 
+hue-saturation-brightness-based surface creation.
+
+Tan Y(1)(2), Li JLY(3), Goh CC(4), Lee BTK(4), Kwok IWH(4), Ng WJ(5), Evrard 
+M(4), Poidinger M(4), Tey HL(6), Ng LG(7).
+
+Author information:
+(1)Singapore Immunology Network (SIgN), A*STAR (Agency for Science, Technology 
+and Research), Biopolis, 138648, Singapore, Singapore. 
+tan_yingrou@immunol.a-star.edu.sg.
+(2)National Skin Centre, 1 Mandalay Road, 308205, Singapore, Singapore. 
+tan_yingrou@immunol.a-star.edu.sg.
+(3)Singapore Immunology Network (SIgN), A*STAR (Agency for Science, Technology 
+and Research), Biopolis, 138648, Singapore, Singapore. 
+Jackson_li@immunol.a-star.edu.sg.
+(4)Singapore Immunology Network (SIgN), A*STAR (Agency for Science, Technology 
+and Research), Biopolis, 138648, Singapore, Singapore.
+(5)National University of Singapore, 21 Lower Kent Ridge Rd, Singapore, 
+Singapore, 119077.
+(6)National Skin Centre, 1 Mandalay Road, 308205, Singapore, Singapore.
+(7)Singapore Immunology Network (SIgN), A*STAR (Agency for Science, Technology 
+and Research), Biopolis, 138648, Singapore, Singapore. 
+Ng_Lai_Guan@immunol.a-star.edu.sg.
+
+Image cytometry is the process of converting image data to flow cytometry-style 
+plots, and it usually requires computer-aided surface creation to extract out 
+statistics for cells or structures. One way of dealing with structures stained 
+with multiple markers in three-dimensional images, is carrying out multiple 
+rounds of channel co-localization and image masking before surface creation, 
+which is cumbersome and laborious. We propose the application of the 
+hue-saturation-brightness color space to streamline this process, which produces 
+complete surfaces, and allows the user to have a global view of the data before 
+flexibly defining cell subsets. Spectral compensation can also be performed 
+after surface creation to accurately resolve different signals. We demonstrate 
+the utility of this workflow in static and dynamic imaging datasets of a 
+needlestick injury on the mouse ear, and we believe this scalable and intuitive 
+approach will improve the ease of performing histocytometry on biological 
+samples.
+
+DOI: 10.1038/s42003-018-0139-y
+PMCID: PMC6127105
+PMID: 30272015
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,70 @@
+1. BMC Biol. 2022 Jul 6;20(1):155. doi: 10.1186/s12915-022-01363-7.
+
+Evidence for close molecular proximity between reverting and undifferentiated 
+cells.
+
+Zreika S(#)(1)(2), Fourneaux C(#)(1), Vallin E(1), Modolo L(1), Seraphin R(1), 
+Moussy A(3), Ventre E(1)(4)(5), Bouvier M(1)(6), Ozier-Lafontaine A(7), 
+Bonnaffoux A(1)(6), Picard F(1), Gandrillon O(#)(1)(4), Gonin-Giraud S(#)(8).
+
+Author information:
+(1)Laboratory of Biology and Modelling of the Cell, Université de Lyon, Ecole 
+Normale Supérieure de Lyon, CNRS, UMR5239, Université Claude Bernard Lyon 1, 
+Lyon, France.
+(2)Azm Center for Research in Biotechnology and its Applications, LBA3B, EDST, 
+Lebanese University, Tripoli, 1300, Lebanon.
+(3)Ecole Pratique des Hautes Etudes, PSL Research University, UMRS951, INSERM, 
+Univ-Evry, Paris, France.
+(4)Inria Team Dracula, Inria Center Grenoble Rhone-Alpes, Grenoble, France.
+(5)Institut Camille Jordan, CNRS UMR 5208, Université Claude Bernard Lyon 1, 
+Villeurbanne, France.
+(6)Vidium solutions, Lyon, France.
+(7)Nantes Université, Centrale Nantes, Laboratoire de mathématiques Jean Leray, 
+LMJL, F-44000, Nantes, France.
+(8)Laboratory of Biology and Modelling of the Cell, Université de Lyon, Ecole 
+Normale Supérieure de Lyon, CNRS, UMR5239, Université Claude Bernard Lyon 1, 
+Lyon, France. sandrine.giraud@ens-lyon.fr.
+(#)Contributed equally
+
+BACKGROUND: According to Waddington's epigenetic landscape concept, the 
+differentiation process can be illustrated by a cell akin to a ball rolling down 
+from the top of a hill (proliferation state) and crossing furrows before 
+stopping in basins or "attractor states" to reach its stable differentiated 
+state. However, it is now clear that some committed cells can retain a certain 
+degree of plasticity and reacquire phenotypical characteristics of a more 
+pluripotent cell state. In line with this dynamic model, we have previously 
+shown that differentiating cells (chicken erythrocytic progenitors (T2EC)) 
+retain for 24 h the ability to self-renew when transferred back in self-renewal 
+conditions. Despite those intriguing and promising results, the underlying 
+molecular state of those "reverting" cells remains unexplored. The aim of the 
+present study was therefore to molecularly characterize the T2EC reversion 
+process by combining advanced statistical tools to make the most of single-cell 
+transcriptomic data. For this purpose, T2EC, initially maintained in a 
+self-renewal medium (0H), were induced to differentiate for 24H (24H 
+differentiating cells); then, a part of these cells was transferred back to the 
+self-renewal medium (48H reverting cells) and the other part was maintained in 
+the differentiation medium for another 24H (48H differentiating cells). For each 
+time point, cell transcriptomes were generated using scRT-qPCR and scRNAseq.
+RESULTS: Our results showed a strong overlap between 0H and 48H reverting cells 
+when applying dimensional reduction. Moreover, the statistical comparison of 
+cell distributions and differential expression analysis indicated no significant 
+differences between these two cell groups. Interestingly, gene pattern 
+distributions highlighted that, while 48H reverting cells have gene expression 
+pattern more similar to 0H cells, they are not completely identical, which 
+suggest that for some genes a longer delay may be required for the cells to 
+fully recover. Finally, sparse PLS (sparse partial least square) analysis showed 
+that only the expression of 3 genes discriminates 48H reverting and 0H cells.
+CONCLUSIONS: Altogether, we show that reverting cells return to an earlier 
+molecular state almost identical to undifferentiated cells and demonstrate a 
+previously undocumented physiological and molecular plasticity during the 
+differentiation process, which most likely results from the dynamic behavior of 
+the underlying molecular network.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12915-022-01363-7
+PMCID: PMC9258043
+PMID: 35794592 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

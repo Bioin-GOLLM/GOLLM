@@ -1,0 +1,31 @@
+1. STAR Protoc. 2021 May 25;2(2):100557. doi: 10.1016/j.xpro.2021.100557. 
+eCollection 2021 Jun 18.
+
+Protocol for tracking the inheritance patterns of proteins in live Saccharomyces 
+cerevisiae cells using a photo-convertible fluorescent protein.
+
+Auboiron M(1)(2), Vasseur P(1)(2), Radman-Livaja M(1).
+
+Author information:
+(1)Institut de Génétique Moléculaire de Montpellier, UMR 5535 CNRS, 1919 route 
+de Mende, 34293 Montpellier cedex 5, France.
+(2)Université de Montpellier, 163 rue Auguste Broussonnet, 34090 Montpellier, 
+France.
+
+Tracking the inheritance patterns of proteins (TrIPP) is a live-cell imaging 
+technique used for tracking maternal protein segregation patterns between mother 
+and daughter cells during asymmetric divisions of budding yeast. We use the 
+photo-convertible fluorescent protein Dendra2 fused to a protein of interest 
+(POI). Irreversible conversion from green to red fluorescence allows for 
+parallel monitoring of old and new proteins for several generations. Single-cell 
+quantitative image analysis of time-lapse microscopy gives synthesis and decay 
+rates, as well as segregation patterns of the POI. For complete details on the 
+use and execution of this protocol, please refer to Auboiron et al. (2021).
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.xpro.2021.100557
+PMCID: PMC8165573
+PMID: 34095866 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

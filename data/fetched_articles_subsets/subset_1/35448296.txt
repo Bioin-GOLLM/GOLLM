@@ -1,0 +1,40 @@
+1. Biosensors (Basel). 2022 Apr 12;12(4):236. doi: 10.3390/bios12040236.
+
+FPGA Correlator for Applications in Embedded Smart Devices.
+
+Moore CH(1), Lin W(1).
+
+Author information:
+(1)Department of Biomedical Engineering, Stony Brook University, Stony Brook, NY 
+11794, USA.
+
+Correlation has a variety of applications that require signal processing. 
+However, it is computationally intensive, and software correlators require 
+high-performance processors for real-time data analysis. This is a challenge for 
+embedded devices because of the limitation of computing resources. Hardware 
+correlators that use Field Programmable Gate Array (FPGA) technology can 
+significantly boost computational power and bridge the gap between the need for 
+high-performance computing and the limited processing power available in 
+embedded devices. This paper presents a detailed FPGA-based correlator design at 
+the register level along with the open-source Very High-Speed Integrated Circuit 
+Hardware Description Language (VHDL) code. It includes base modules for linear 
+and multi-tau correlators of varying sizes. Every module implements a simple and 
+unified data interface for easy integration with standard and publicly available 
+FPGA modules. Eighty-lag linear and multi-tau correlators were built for 
+validation of the design. Three input data sets-constant signal, pulse signal, 
+and sine signal-were used to test the accuracy of the correlators. The results 
+from the FPGA correlators were compared against the outputs of equivalent 
+software correlators and validated with the corresponding theoretical values. 
+The FPGA correlators returned results identical to those from the software 
+references for all tested data sets and were proven to be equivalent to their 
+software counterparts. Their computation speed is at least 85,000 times faster 
+than the software correlators running on a Xilinx MicroBlaze processor. The FPGA 
+correlator can be easily implemented, especially on System on a Chip (SoC) 
+integrated circuits that have processor cores and FPGA fabric. It is the ideal 
+component for device-on-chip solutions in biosensing.
+
+DOI: 10.3390/bios12040236
+PMCID: PMC9024689
+PMID: 35448296 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

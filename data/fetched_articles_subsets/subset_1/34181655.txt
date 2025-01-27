@@ -1,0 +1,39 @@
+1. PLoS Comput Biol. 2021 Jun 28;17(6):e1009119. doi:
+10.1371/journal.pcbi.1009119.  eCollection 2021 Jun.
+
+De novo mutational signature discovery in tumor genomes using SparseSignatures.
+
+Lal A(1), Liu K(2), Tibshirani R(2)(3), Sidow A(1)(4), Ramazzotti D(1)(5).
+
+Author information:
+(1)Department of Pathology, Stanford University, Stanford, California, United 
+States of America.
+(2)Department of Statistics, Stanford University, Stanford, California, United 
+States of America.
+(3)Department of Biomedical Data Science, Stanford University, Stanford, 
+California, United States of America.
+(4)Department of Genetics, Stanford University, Stanford, California, United 
+States of America.
+(5)Department of Computer Science, Stanford University, Stanford, California, 
+United States of America.
+
+Cancer is the result of mutagenic processes that can be inferred from tumor 
+genomes by analyzing rate spectra of point mutations, or "mutational 
+signatures". Here we present SparseSignatures, a novel framework to extract 
+signatures from somatic point mutation data. Our approach incorporates a 
+user-specified background signature, employs regularization to reduce noise in 
+non-background signatures, uses cross-validation to identify the number of 
+signatures, and is scalable to large datasets. We show that SparseSignatures 
+outperforms current state-of-the-art methods on simulated data using a variety 
+of standard metrics. We then apply SparseSignatures to whole genome sequences of 
+pancreatic and breast tumors, discovering well-differentiated signatures that 
+are linked to known mutagenic mechanisms and are strongly associated with 
+patient clinical features.
+
+DOI: 10.1371/journal.pcbi.1009119
+PMCID: PMC8270462
+PMID: 34181655 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: A.L is an employee of 
+NVIDIA Corporation.

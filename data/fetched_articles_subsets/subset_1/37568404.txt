@@ -1,0 +1,50 @@
+1. J Clin Med. 2023 Jul 29;12(15):5002. doi: 10.3390/jcm12155002.
+
+Computational and Experimental Analyses for Pathogenicity Prediction of ACVRL1 
+Missense Variants in Hereditary Hemorrhagic Telangiectasia.
+
+Iwasa T(1)(2), Urasaki A(1), Kakihana Y(1), Nagata-Akaho N(1), Harada Y(1)(3), 
+Takeda S(4), Kawamura T(3), Shiraishi I(2), Kurosaki K(2), Morisaki H(5), Yamada 
+O(2), Nakagawa O(1).
+
+Author information:
+(1)Department of Molecular Physiology, National Cerebral and Cardiovascular 
+Center Research Institute, 6-1 Kishibe-Shimmachi, Suita, Osaka 564-8565, Japan.
+(2)Department of Pediatric Cardiology, National Cerebral and Cardiovascular 
+Center, 6-1 Kishibe-Shimmachi, Suita, Osaka 564-8565, Japan.
+(3)Laboratory of Stem Cell and Regenerative Medicine, Department of Biomedical 
+Sciences, College of Life Sciences, Ritsumeikan University, 1-1-1 Noji-Higashi, 
+Kusatsu, Shiga 525-8577, Japan.
+(4)Department of Advanced Medical Technologies, National Cerebral and 
+Cardiovascular Center Research Institute, 6-1 Kishibe-Shimmachi, Suita, Osaka 
+564-8565, Japan.
+(5)Department of Medical Genetics, Sakakibara Heart Institute, 3-16-1 Asahi-cho, 
+Fuchu, Tokyo 183-0003, Japan.
+
+Hereditary hemorrhagic telangiectasia (HHT) is a vascular disease caused by the 
+defects of ALK1/ACVRL1 receptor signaling. In this study, we evaluated 25 
+recently identified ACVRL1 missense variants using multiple computational 
+pathogenicity classifiers and experimentally characterized their signal 
+transduction capacity. Three extracellular residue variants showed no detectable 
+cell surface expression and impairment of bone morphogenetic protein 9 (BMP9) 
+responsiveness of SMAD-dependent transcription in luciferase assays. Four 
+variants with amino acid replacement in the motifs essential for the 
+intracellular kinase function lost SMAD-dependent signaling. Most of other 
+variations in the kinase domain also caused marked downregulation of signaling; 
+however, two variants behaved as the wild-type ACVRL1 did, while computational 
+classifiers predicted their functional abnormalities. Three-dimensional 
+structure prediction using the ColabFold program supported the significance of 
+the L45 loop and NANDOR domain of ACVRL1 for its association with SMAD1 and 
+BMPR2, respectively, and the variations in these motifs resulted in the 
+reduction of SMAD signaling. On the other hand, two of the GS domain variants 
+maintained high signal transduction capacity, which did not accord with their 
+computational pathogenicity prediction. These results affirm the requirement of 
+a combinatory approach using computational and experimental analyses to 
+accurately predict the pathogenicity of ACVRL1 missense variants in the HHT 
+patients.
+
+DOI: 10.3390/jcm12155002
+PMCID: PMC10419700
+PMID: 37568404
+
+Conflict of interest statement: The authors declare no conflict of interest.

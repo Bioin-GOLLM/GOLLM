@@ -1,0 +1,37 @@
+1. BMC Proc. 2007;1 Suppl 1(Suppl 1):S62. doi: 10.1186/1753-6561-1-s1-s62. Epub 
+2007 Dec 18.
+
+Classification of rheumatoid arthritis status with candidate gene and 
+genome-wide single-nucleotide polymorphisms using random forests.
+
+Sun YV(#)(1), Cai Z(#)(2), Desai K(2), Lawrance R(3), Leff R(2), Jawaid A(3), 
+Kardia SL(1), Yang H(2).
+
+Author information:
+(1)Department of Epidemiology, School of Public Health, University of Michigan, 
+611 Church Street #244, Ann Arbor, Michigan 48104, USA.
+(2)AstraZeneca Pharmaceuticals, 1800 Concord Place, FOC W1-462, Wilmington, 
+Delaware 19850, USA.
+(3)AstraZeneca Pharmaceuticals, Mereside, Alderley Park, Macclesfield, Cheshire, 
+SK10 4TG, UK.
+(#)Contributed equally
+
+Using the North American Rheumatoid Arthritis Consortium (NARAC) candidate gene 
+and genome-wide single-nucleotide polymorphism (SNP) data sets, we applied 
+regression methods and tree-based random forests to identify genetic 
+associations with rheumatoid arthritis (RA) and to predict RA disease status. 
+Several genes were consistently identified as weakly associated with RA without 
+a significant interaction or combinatorial effect with other candidate genes. 
+Using random forests, the tested candidate gene SNPs were not sufficient to 
+predict RA patients and normal subjects with high accuracy. However, using the 
+top 500 SNPs, ranked by the importance score, from the genome-wide linkage panel 
+of 5742 SNPs, we were able to accurately predict RA patients and normal subjects 
+with sensitivity of approximately 90% and specificity of approximately 80%, 
+which was confirmed by five-fold cross-validation. However, in a complete 
+training-testing framework, replication of genetic predictors was less 
+satisfactory; thus, further evaluation of existing methodology and development 
+of new methods are warranted.
+
+DOI: 10.1186/1753-6561-1-s1-s62
+PMCID: PMC2367463
+PMID: 18466563

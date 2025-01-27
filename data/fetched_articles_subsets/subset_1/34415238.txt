@@ -1,0 +1,45 @@
+1. Elife. 2021 Aug 20;10:e64731. doi: 10.7554/eLife.64731.
+
+Hypoxia triggers collective aerotactic migration in Dictyostelium discoideum.
+
+Cochet-Escartin O(#)(1), Demircigil M(#)(2), Hirose S(3)(4), Allais B(1), 
+Gonzalo P(5)(6), Mikaelian I(5), Funamoto K(3)(4)(7), Anjard C(1), Calvez 
+V(#)(2), Rieu JP(#)(1).
+
+Author information:
+(1)Institut Lumière Matière, UMR5306, Université Lyon 1-CNRS, Université de 
+Lyon, Villeurbanne, France.
+(2)Institut Camille Jordan, UMR5208, Université Lyon 1-CNRS, Université de Lyon, 
+Villeurbanne, France.
+(3)Graduate School of Biomedical Engineering, Tohoku University, Sendai, Japan.
+(4)Institute of Fluid Science, Tohoku University, Sendai, Japan.
+(5)Centre Léon Bérard, Centre de recherche en cancérologie de Lyon, INSERM 1052, 
+CNRS 5286, Université Lyon 1, Université de Lyon, Lyon, France.
+(6)Laboratoire de Biochimie et Pharmacologie, Faculté de médecine de 
+Saint-Etienne, CHU de Saint-Etienne, Saint-Etienne, France.
+(7)Graduate School of Engineering, Tohoku University, Sendai, Japan.
+(#)Contributed equally
+
+Using a self-generated hypoxic assay, we show that the amoeba Dictyostelium 
+discoideum displays a remarkable collective aerotactic behavior. When a cell 
+colony is covered, cells quickly consume the available oxygen (O2) and form a 
+dense ring moving outwards at constant speed and density. To decipher this 
+collective process, we combined two technological developments: porphyrin-based 
+O2 -sensing films and microfluidic O2 gradient generators. We showed that 
+Dictyostelium cells exhibit aerotactic and aerokinetic response in a low range 
+of O2 concentration indicative of a very efficient detection mechanism. Cell 
+behaviors under self-generated or imposed O2 gradients were modeled using an in 
+silico cellular Potts model built on experimental observations. This 
+computational model was complemented with a parsimonious 'Go or Grow' partial 
+differential equation (PDE) model. In both models, we found that the collective 
+migration of a dense ring can be explained by the interplay between cell 
+division and the modulation of aerotaxis.
+
+© 2021, Cochet-Escartin et al.
+
+DOI: 10.7554/eLife.64731
+PMCID: PMC8378850
+PMID: 34415238 [Indexed for MEDLINE]
+
+Conflict of interest statement: OC, MD, SH, BA, PG, IM, KF, CA, VC, JR No 
+competing interests declared

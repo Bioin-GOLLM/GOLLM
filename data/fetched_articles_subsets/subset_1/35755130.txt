@@ -1,0 +1,37 @@
+1. STAR Protoc. 2022 Jun 17;3(3):101491. doi: 10.1016/j.xpro.2022.101491. 
+eCollection 2022 Sep 16.
+
+Protocol for single-nucleus ATAC sequencing and bioinformatic analysis in frozen 
+human brain tissue.
+
+Shi Z(1), Das S(1), Morabito S(2), Miyoshi E(1), Swarup V(3).
+
+Author information:
+(1)Department of Neurobiology and Behavior, University of California, Irvine, 
+Irvine, CA, USA; Institute for Memory Impairments and Neurological Disorders 
+(MIND), Irvine, CA, USA.
+(2)Mathematical, Computational and Systems Biology Program, UC Irvine, Irvine, 
+CA, USA; Institute for Memory Impairments and Neurological Disorders (MIND), 
+Irvine, CA, USA.
+(3)Department of Neurobiology and Behavior, University of California, Irvine, 
+Irvine, CA, USA; Mathematical, Computational and Systems Biology Program, UC 
+Irvine, Irvine, CA, USA; Institute for Memory Impairments and Neurological 
+Disorders (MIND), Irvine, CA, USA. Electronic address: vswarup@uci.edu.
+
+Single-nucleus ATAC sequencing (snATAC-seq) employs a hyperactive Tn5 
+transposase to gain precise information about the cis-regulatory elements in 
+specific cell types. However, the standard protocol of snATAC-seq is not 
+optimized for all tissues, including the brain. Here, we present a modified 
+protocol for single-nuclei isolation from postmortem frozen human brain tissue, 
+followed by snATAC-seq library preparation and sequencing. We also describe an 
+integrated bioinformatics analysis pipeline using an R package (ArchRtoSignac) 
+to robustly analyze snATAC-seq data. For complete details on the use and 
+execution of this protocol, please refer to Morabito et al. (2021).
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.xpro.2022.101491
+PMCID: PMC9218237
+PMID: 35755130 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

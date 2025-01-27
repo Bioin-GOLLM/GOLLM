@@ -1,0 +1,49 @@
+1. Nat Commun. 2022 May 9;13(1):2595. doi: 10.1038/s41467-022-29868-3.
+
+Double-tap gene drive uses iterative genome targeting to help overcome 
+resistance alleles.
+
+Bishop AL(1), López Del Amo V(1), Okamoto EM(1), Bodai Z(2), Komor AC(2), Gantz 
+VM(3).
+
+Author information:
+(1)Division of Biological Sciences, Section of Cell and Developmental Biology, 
+University of California San Diego, La Jolla, CA, 92093, USA.
+(2)Department of Chemistry and Biochemistry, University of California San Diego, 
+La Jolla, CA, 92093, USA.
+(3)Division of Biological Sciences, Section of Cell and Developmental Biology, 
+University of California San Diego, La Jolla, CA, 92093, USA. vgantz@ucsd.edu.
+
+Homing CRISPR gene drives could aid in curbing the spread of vector-borne 
+diseases and controlling crop pest and invasive species populations due to an 
+inheritance rate that surpasses Mendelian laws. However, this technology suffers 
+from resistance alleles formed when the drive-induced DNA break is repaired by 
+error-prone pathways, which creates mutations that disrupt the gRNA recognition 
+sequence and prevent further gene-drive propagation. Here, we attempt to 
+counteract this by encoding additional gRNAs that target the most commonly 
+generated resistance alleles into the gene drive, allowing a second opportunity 
+at gene-drive conversion. Our presented "double-tap" strategy improved drive 
+efficiency by recycling resistance alleles. The double-tap drive also 
+efficiently spreads in caged populations, outperforming the control drive. 
+Overall, this double-tap strategy can be readily implemented in any CRISPR-based 
+gene drive to improve performance, and similar approaches could benefit other 
+systems suffering from low HDR frequencies, such as mammalian cells or mouse 
+germline transformations.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-29868-3
+PMCID: PMC9085836
+PMID: 35534475 [Indexed for MEDLINE]
+
+Conflict of interest statement: V.M.G. is a founder of and has equity interests 
+in Synbal, Inc. and Agragene, Inc., companies that may potentially benefit from 
+the research results described in this manuscript. V.M.G. also serves on both 
+the company’s Scientific Advisory Board and the Board of Directors of Synbal, 
+Inc. The terms of this arrangement have been reviewed and approved by the 
+University of California, San Diego in accordance with its conflict of interest 
+policies. A.C.K. is a member of the SAB of Pairwise Plants, and is an equity 
+holder for Pairwise Plants and Beam Therapeutics. A.C.K.’s interests have been 
+reviewed and approved by the University of California, San Diego in accordance 
+with its conflict of interest policies. A.L.B., V.L.D.A., E.O., and Z.B. declare 
+no competing interests.

@@ -1,0 +1,46 @@
+1. Anal Chem. 2021 Feb 9;93(5):2749-2757. doi: 10.1021/acs.analchem.0c03070. Epub
+ 2021 Jan 22.
+
+An Ion Chromatography-Ultrahigh-Resolution-MS(1)/Data-Independent 
+High-Resolution MS(2) Method for Stable Isotope-Resolved Metabolomics 
+Reconstruction of Central Metabolic Networks.
+
+Sun Q(1), Fan TW(1)(2)(3), Lane AN(1)(2)(3), Higashi RM(1)(2)(3).
+
+Author information:
+(1)Center for Environmental and Systems Biochemistry (CESB), University of 
+Kentucky, Lexington, Kentucky 40536, United States.
+(2)Department of Toxicology and Cancer Biology, University of Kentucky, 
+Lexington, Kentucky 40536, United States.
+(3)Markey Cancer Center, University of Kentucky, Lexington, Kentucky 40536, 
+United States.
+
+The metabolome comprises a complex network of interconnecting enzyme-catalyzed 
+reactions that involve transfers of numerous molecular subunits. Thus, the 
+reconstruction of metabolic networks requires metabolite substructures to be 
+tracked. Subunit tracking can be achieved by tracing stable isotopes through 
+metabolic transformations using NMR and ultrahigh -resolution (UHR)-mass 
+spectrometry (MS). UHR-MS1 readily resolves and counts isotopic labels in 
+metabolites but requires tandem MS to help identify isotopic enrichment in 
+substructures. However, it is challenging to perform chromatography-based 
+UHR-MS1 with its long acquisition time, while acquiring MS2 data on many 
+coeluting labeled isotopologues for each metabolite. We have developed an ion 
+chromatography (IC)-UHR-MS1/data-independent(DI)-HR-MS2 method to trace the fate 
+of 13C atoms from [13C6]-glucose ([13C6]-Glc) in 3D A549 spheroids in response 
+to anticancer selenite and simultaneously 13C/15N atoms from 
+[13C5,15N2]-glutamine ([13C5,15N2]-Gln) in 2D BEAS-2B cells in response to 
+arsenite transformation. This method retains the complete isotopologue 
+distributions of metabolites via UHR-MS1 while simultaneously acquiring 
+substructure label information via DI-MS2. These details in metabolite labeling 
+patterns greatly facilitate rigorous reconstruction of multiple, intersecting 
+metabolic pathways of central metabolism, which are illustrated here for the 
+purine/pyrimidine nucleotide biosynthesis. The pathways reconstructed based on 
+subunit-level isotopologue analysis further reveal specific enzyme-catalyzed 
+reactions that are impacted by selenite or arsenite treatments.
+
+DOI: 10.1021/acs.analchem.0c03070
+PMCID: PMC8053425
+PMID: 33482055 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

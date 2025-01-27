@@ -1,0 +1,36 @@
+1. BMC Genomics. 2014 Feb 1;15:93. doi: 10.1186/1471-2164-15-93.
+
+Discovery of genetic biomarkers contributing to variation in drug response of 
+cytidine analogues using human lymphoblastoid cell lines.
+
+Li L, Fridley BL, Kalari K, Niu N, Jenkins G, Batzler A, Abo RP, Schaid D, Wang 
+L(1).
+
+Author information:
+(1)Division of Biomedical Statistics and Informatics, Department of Health 
+Sciences Research, Mayo Clinic, Rochester, Minnesota, USA. wang.liewei@mayo.edu.
+
+BACKGROUND: Two cytidine analogues, gemcitabine and cytosine arabinoside (AraC), 
+are widely used in the treatment of a variety of cancers with a large individual 
+variation in response. To identify potential genetic biomarkers associated with 
+response to these two drugs, we used a human lymphoblastoid cell line (LCL) 
+model system with extensive genomic data, including 1.3 million SNPs and 54,000 
+basal expression probesets to perform genome-wide association studies (GWAS) 
+with gemcitabine and AraC IC50 values.
+RESULTS: We identified 11 and 27 SNP loci significantly associated with 
+gemcitabine and AraC IC50 values, respectively. Eleven candidate genes were 
+functionally validated using siRNA knockdown approach in multiple cancer cell 
+lines. We also characterized the potential mechanisms of genes by determining 
+their influence on the activity of 10 cancer-related signaling pathways using 
+reporter gene assays. Most SNPs regulated gene expression in a trans manner, 
+except 7 SNPs in the PIGB gene that were significantly associated with both the 
+expression of PIGB and gemcitabine cytotoxicity.
+CONCLUSION: These results suggest that genetic variation might contribute to 
+drug response via either cis- or trans- regulation of gene expression. GWAS 
+analysis followed by functional pharmacogenomics studies might help identify 
+novel biomarkers contributing to variation in response to these two drugs and 
+enhance our understanding of underlying mechanisms of drug action.
+
+DOI: 10.1186/1471-2164-15-93
+PMCID: PMC3930546
+PMID: 24483146 [Indexed for MEDLINE]

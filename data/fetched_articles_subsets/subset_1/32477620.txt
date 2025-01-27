@@ -1,0 +1,54 @@
+1. J Pathol Inform. 2020 May 20;11:14. doi: 10.4103/jpi.jpi_15_20. eCollection 
+2020.
+
+Bridging the Collaboration Gap: Real-time Identification of Clinical Specimens 
+for Biomedical Research.
+
+Durant TJS(1)(2), Gong G(2)(3), Price N(4), Schulz WL(1)(2).
+
+Author information:
+(1)Department of Laboratory Medicine, Yale University School of Medicine, New 
+Haven, CT, USA.
+(2)Center for Outcomes Research and Evaluation, Yale New Haven Hospital, New 
+Haven, CT, USA.
+(3)Interdepartmental Program in Computational Biology and Bioinformatics, Yale 
+University School of Medicine, New Haven, CT, USA.
+(4)Department of Information Technology, Yale New Haven Health, New Haven, CT, 
+USA.
+
+INTRODUCTION: Biomedical and translational research often relies on the 
+evaluation of patients or specimens that meet specific clinical or laboratory 
+criteria. The typical approach used to identify biospecimens is a manual, 
+retrospective process that exists outside the clinical workflow. This often 
+makes biospecimen collection cost prohibitive and prevents the collection of 
+analytes with short stability times. Emerging data architectures offer novel 
+approaches to enhance specimen-identification practices. To this end, we present 
+a new tool that can be deployed in a real-time environment to automate the 
+identification and notification of available biospecimens for biomedical 
+research.
+METHODS: Real-time clinical and laboratory data from Cloverleaf (Infor, NY, NY) 
+were acquired within our computational health platform, which is built on 
+open-source applications. Study-specific filters were developed in NiFi (Apache 
+Software Foundation, Wakefield, MA, USA) to identify the study-appropriate 
+specimens in real time. Specimen metadata were stored in Elasticsearch (Elastic 
+N. V., Mountain View, CA, USA) for visualization and automated alerting.
+RESULTS: Between June 2018 and December 2018, we identified 2992 unique 
+specimens belonging to 2815 unique patients, split between two different use 
+cases. Based on laboratory policy for specimen retention and study-specific 
+stability requirements, secure E-mail notifications were sent to investigators 
+to automatically notify of availability. The assessment of throughput on 
+commodity hardware demonstrates the ability to scale to approximately 2000 
+results per second.
+CONCLUSION: This work demonstrates that real-world clinical data can be analyzed 
+in real time to increase the efficiency of biospecimen identification with 
+minimal overhead for the clinical laboratory. Future work will integrate 
+additional data types, including the analysis of unstructured data, to enable 
+more complex cases and biospecimen identification.
+
+Copyright: © 2020 Journal of Pathology Informatics.
+
+DOI: 10.4103/jpi.jpi_15_20
+PMCID: PMC7245342
+PMID: 32477620
+
+Conflict of interest statement: There are no conflicts of interest.

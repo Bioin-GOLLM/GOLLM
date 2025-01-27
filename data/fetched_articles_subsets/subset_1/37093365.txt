@@ -1,0 +1,58 @@
+1. J Mol Model. 2023 Apr 24;29(5):155. doi: 10.1007/s00894-023-05536-1.
+
+Binding affinity improvement analysis of multiple-mutant Omicron on 2019-nCov to 
+human ACE2 by in silico predictions.
+
+Li B(1), Guo J(2), Hu W(3), Chen Y(4).
+
+Author information:
+(1)School of Chemistry and Environmental Engineering, Wuhan Institute of 
+Technology, Wuhan, 430205, China.
+(2)NHC Key Laboratory of Human Disease Comparative Medicine, Beijing Engineering 
+Research Center for Experimental Animal Models of Human Critical Diseases, 
+Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences & 
+Peking Union Medical College, Beijing, 100021, China.
+(3)School of Chemistry and Environmental Engineering, Wuhan Institute of 
+Technology, Wuhan, 430205, China. huwx66@163.com.
+(4)NHC Key Laboratory of Human Disease Comparative Medicine, Beijing Engineering 
+Research Center for Experimental Animal Models of Human Critical Diseases, 
+Institute of Laboratory Animal Sciences, Chinese Academy of Medical Sciences & 
+Peking Union Medical College, Beijing, 100021, China. chenyubao@cnilas.org.
+
+CONTEXT: Since the outbreak of COVID-19 in 2019, the 2019-nCov coronavirus has 
+appeared diverse mutational characteristics due to its own flexible 
+conformation. One multiple-mutant strain (Omicron) with surprisingly infective 
+activity outburst, and affected the biological activities of current drugs and 
+vaccines, making the epidemic significantly difficult to prevent and control, 
+and seriously threaten health around the world. Importunately exploration of 
+mutant characteristics for novel coronavirus Omicron can supply strong 
+theoretical guidance for learning binding mechanism of mutant viruses. What's 
+more, full acknowledgement of key mutated-residues on Omicron strain can provide 
+new methodology of the novel pathogenic mechanism to human ACE2 receptor, as 
+well as the subsequent vaccine development.
+METHODS: In this research, 3D structures of 32 single-point mutations of 
+2019-nCov were firstly constructed, and 32-sites multiple-mutant Omicron were 
+finally obtained based one the wild-type virus by homology modeling method. One 
+total number of 33 2019-nCov/ACE2 complex systems were acquired by 
+protein-protein docking, and optimized by using preliminary molecular dynamic 
+simulations. Binding free energies between each 2019-nCov mutation system and 
+human ACE2 receptor were calculated, and corresponding binding patterns 
+especially the regions adjacent to mutation site were analyzed. The results 
+indicated that one total number of 6 mutated sites on the Omicron strain played 
+crucial role in improving binding capacities from 2019-nCov to ACE2 protein. 
+Subsequently, we performed long-term molecular dynamic simulations and 
+protein-protein binding energy analysis for the selected 6 mutations. 3 infected 
+individuals, the mutants T478K, Q493R and G496S with lower binding energies 
+-66.36, -67.98 and -67.09 kcal/mol also presents the high infectivity. These 
+findings indicated that the 3 mutations T478K, Q493R and G496S play the crucial 
+roles in enhancing binding affinity of Omicron to human ACE2 protein. All these 
+results illuminate important theoretical guidance for future virus detection of 
+the Omicron epidemic, drug research and vaccine development.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s00894-023-05536-1
+PMCID: PMC10123576
+PMID: 37093365 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

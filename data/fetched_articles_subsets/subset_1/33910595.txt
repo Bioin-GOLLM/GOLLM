@@ -1,0 +1,91 @@
+1. Genome Biol. 2021 Apr 29;22(1):120. doi: 10.1186/s13059-021-02336-9.
+
+Complete vertebrate mitogenomes reveal widespread repeats and gene duplications.
+
+Formenti G(1)(2)(3), Rhie A(4), Balacco J(5), Haase B(5), Mountcastle J(5), 
+Fedrigo O(5), Brown S(6)(7), Capodiferro MR(8), Al-Ajli FO(9)(10)(11), Ambrosini 
+R(12), Houde P(13), Koren S(4), Oliver K(14), Smith M(14), Skelton J(14), 
+Betteridge E(14), Dolucan J(14), Corton C(14), Bista I(14)(15), Torrance J(14), 
+Tracey A(14), Wood J(14), Uliano-Silva M(14), Howe K(14), McCarthy S(14)(15), 
+Winkler S(16), Kwak W(17), Korlach J(18), Fungtammasan A(19), Fordham D(20), 
+Costa V(20), Mayes S(20), Chiara M(21), Horner DS(21), Myers E(16), Durbin 
+R(14)(15), Achilli A(8), Braun EL(22), Phillippy AM(4), Jarvis ED(23)(24)(25); 
+Vertebrate Genomes Project Consortium.
+
+Collaborators: Kirschel ANG, Digby A, Veale A, Bronikowski A, Murphy B, 
+Robertson B, Baker C, Mazzoni C, Balakrishnan C, Lee C, Mead D, Teeling E, Aiden 
+EL, Todd E, Eichler E, Naylor GJP, Zhang G, Smith J, Wolf J, Touchon J, Delmore 
+K, Jakobsen K, Komoroske L, Wilkinson M, Genner M, Pšenička M, Fuxjager M, 
+Stratton M, Liedvogel M, Gemmell N, Minias P, Dunn PO, Sudmant P, Morin P, Ayub 
+Q, Kraus R, Vernes S, Smith S, Lama T, Edwards T, Smith T, Gilbert T, 
+Marques-Bonet T, Einfeldt T, Venkatesh B, Johnson W, Warren W, Bukhman Y.
+
+Author information:
+(1)The Vertebrate Genome Lab, Rockefeller University, New York, NY, USA. 
+gformenti@rockefeller.edu.
+(2)Laboratory of Neurogenetics of Language, Rockefeller University, New York, 
+NY, USA. gformenti@rockefeller.edu.
+(3)The Howards Hughes Medical Institute, Chevy Chase, MD, USA. 
+gformenti@rockefeller.edu.
+(4)Genome Informatics Section, Computational and Statistical Genomics Branch, 
+National Human Genome Research Institute, National Institutes of Health, 
+Bethesda, MD, USA.
+(5)The Vertebrate Genome Lab, Rockefeller University, New York, NY, USA.
+(6)Laboratory of Neurogenetics of Language, Rockefeller University, New York, 
+NY, USA.
+(7)The Howards Hughes Medical Institute, Chevy Chase, MD, USA.
+(8)Department of Biology and Biotechnology "L. Spallanzani", University of 
+Pavia, Pavia, Italy.
+(9)Monash University Malaysia Genomics Facility, School of Science, Bandar 
+Sunway, Selangor Darul Ehsan, Malaysia.
+(10)Tropical Medicine and Biology Multidisciplinary Platform, Monash University 
+Malaysia, Bandar Sunway, Selangor Darul Ehsan, Malaysia.
+(11)Qatar Falcon Genome Project, Doha, State of Qatar.
+(12)Department of Environmental Science and Policy, University of Milan, Milan, 
+Italy.
+(13)Department of Biology, New Mexico State University, Las Cruces, NM, USA.
+(14)Wellcome Sanger Institute, Cambridge, UK.
+(15)Department of Genetics, University of Cambridge, Cambridge, UK.
+(16)Max Planck Institute of Molecular Cell Biology & Genetics, Dresden, Germany.
+(17)Hoonygen, Seoul, Korea.
+(18)Pacific Biosciences, Menlo Park, CA, USA.
+(19)DNAnexus Inc., Mountain View, CA, USA.
+(20)Oxford Nanopore Technologies Ltd, Oxford Science Park, Oxford, UK.
+(21)Department of Biosciences, University of Milan, Milan, Italy.
+(22)Department of Biology, University of Florida, Gainesville, FL, USA.
+(23)The Vertebrate Genome Lab, Rockefeller University, New York, NY, USA. 
+ejarvis@rockefeller.edu.
+(24)Laboratory of Neurogenetics of Language, Rockefeller University, New York, 
+NY, USA. ejarvis@rockefeller.edu.
+(25)The Howards Hughes Medical Institute, Chevy Chase, MD, USA. 
+ejarvis@rockefeller.edu.
+
+BACKGROUND: Modern sequencing technologies should make the assembly of the 
+relatively small mitochondrial genomes an easy undertaking. However, few tools 
+exist that address mitochondrial assembly directly.
+RESULTS: As part of the Vertebrate Genomes Project (VGP) we develop mitoVGP, a 
+fully automated pipeline for similarity-based identification of mitochondrial 
+reads and de novo assembly of mitochondrial genomes that incorporates both long 
+(> 10 kbp, PacBio or Nanopore) and short (100-300 bp, Illumina) reads. Our 
+pipeline leads to successful complete mitogenome assemblies of 100 vertebrate 
+species of the VGP. We observe that tissue type and library size selection have 
+considerable impact on mitogenome sequencing and assembly. Comparing our 
+assemblies to purportedly complete reference mitogenomes based on short-read 
+sequencing, we identify errors, missing sequences, and incomplete genes in those 
+references, particularly in repetitive regions. Our assemblies also identify 
+novel gene region duplications. The presence of repeats and duplications in over 
+half of the species herein assembled indicates that their occurrence is a 
+principle of mitochondrial structure rather than an exception, shedding new 
+light on mitochondrial genome evolution and organization.
+CONCLUSIONS: Our results indicate that even in the "simple" case of vertebrate 
+mitogenomes the completeness of many currently available reference sequences can 
+be further improved, and caution should be exercised before claiming the 
+complete assembly of a mitogenome, particularly from short reads alone.
+
+DOI: 10.1186/s13059-021-02336-9
+PMCID: PMC8082918
+PMID: 33910595 [Indexed for MEDLINE]
+
+Conflict of interest statement: V. C., S. M., and D. F. are employees of Oxford 
+Nanopore Technologies Limited. J. K. is Chief Scientific Officer of Pacific 
+Biosciences.

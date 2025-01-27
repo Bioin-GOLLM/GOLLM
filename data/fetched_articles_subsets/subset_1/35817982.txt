@@ -1,0 +1,60 @@
+1. Nat Genet. 2022 Jul;54(7):1013-1025. doi: 10.1038/s41588-022-01116-w. Epub
+2022  Jul 11.
+
+DeepLoop robustly maps chromatin interactions from sparse allele-resolved or 
+single-cell Hi-C data at kilobase resolution.
+
+Zhang S(#)(1)(2), Plummer D(#)(3), Lu L(#)(1), Cui J(#)(1), Xu W(1)(2), Wang 
+M(4), Liu X(1), Prabhakar N(3), Shrinet J(4), Srinivasan D(4), Fraser P(4), Li 
+Y(5), Li J(6)(7), Jin F(8)(9)(10).
+
+Author information:
+(1)Department of Genetics and Genome Sciences, School of Medicine, Case Western 
+Reserve University, Cleveland, OH, USA.
+(2)The Biomedical Sciences Training Program, School of Medicine, Case Western 
+Reserve University, Cleveland, OH, USA.
+(3)Department of Computer and Data Sciences, Case Western Reserve University, 
+Cleveland, OH, USA.
+(4)Department of Biological Science, Florida State University, Tallahassee, FL, 
+USA.
+(5)Department of Genetics and Genome Sciences, School of Medicine, Case Western 
+Reserve University, Cleveland, OH, USA. yxl1379@case.edu.
+(6)Department of Computer and Data Sciences, Case Western Reserve University, 
+Cleveland, OH, USA. jingli@cwru.edu.
+(7)Department of Population and Quantitative Health Sciences, Case Comprehensive 
+Cancer Center, Case Western Reserve University, Cleveland, OH, USA. 
+jingli@cwru.edu.
+(8)Department of Genetics and Genome Sciences, School of Medicine, Case Western 
+Reserve University, Cleveland, OH, USA. fxj45@case.edu.
+(9)Department of Computer and Data Sciences, Case Western Reserve University, 
+Cleveland, OH, USA. fxj45@case.edu.
+(10)Department of Population and Quantitative Health Sciences, Case 
+Comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, 
+USA. fxj45@case.edu.
+(#)Contributed equally
+
+Mapping chromatin loops from noisy Hi-C heatmaps remains a major challenge. Here 
+we present DeepLoop, which performs rigorous bias correction followed by 
+deep-learning-based signal enhancement for robust chromatin interaction mapping 
+from low-depth Hi-C data. DeepLoop enables loop-resolution, single-cell Hi-C 
+analysis. It also achieves a cross-platform convergence between different Hi-C 
+protocols and micrococcal nuclease (micro-C). DeepLoop allowed us to map the 
+genetic and epigenetic determinants of allele-specific chromatin interactions in 
+the human genome. We nominate new loci with allele-specific interactions 
+governed by imprinting or allelic DNA methylation. We also discovered that, in 
+the inactivated X chromosome (Xi), local loops at the DXZ4 'megadomain' boundary 
+escape X-inactivation but the FIRRE 'superloop' locus does not. Importantly, 
+DeepLoop can pinpoint heterozygous single-nucleotide polymorphisms and large 
+structure variants that cause allelic chromatin loops, many of which rewire 
+enhancers with transcription consequences. Taken together, DeepLoop expands the 
+use of Hi-C to provide loop-resolution insights into the genetics of the 
+three-dimensional genome.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41588-022-01116-w
+PMCID: PMC10082397
+PMID: 35817982 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interest Statement The authors declare 
+no competing interest.

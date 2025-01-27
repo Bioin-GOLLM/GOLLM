@@ -1,0 +1,38 @@
+1. PLoS One. 2018 Oct 11;13(10):e0205212. doi: 10.1371/journal.pone.0205212. 
+eCollection 2018.
+
+Receding horizon control strategy for an electric vehicle with dual-motor 
+coupling system in consideration of stochastic vehicle mass.
+
+Guo H(1), Shangguan J(1), Tang J(1), Sun Q(1), Wu H(2).
+
+Author information:
+(1)Department of School of Mechanical & Automotive Engineering, Liaocheng 
+University, Liaocheng, Shandong Province, China.
+(2)Department of Zhongtong Bus Holding Co., Ltd, Liaocheng, Shandong Province, 
+China.
+
+Additional degrees of freedom existed in dual-motor coupling system bring 
+considerable challenge to the optimal control of electric vehicles. Moreover, 
+the stochastic characteristic of vehicle mass can further increase this 
+challenge. A receding horizon control (RHC) strategy in consideration of 
+stochastic vehicle mass is proposed in this study to respond to this challenge. 
+Aiming at an electric vehicle with dual-motor coupling, a Markov chain is 
+firstly deployed to predict future driving conditions by a formulated state 
+transition probability matrix, based on historical driving cycles in real-world. 
+Then, future required power is predicted by the predicted driving conditions, 
+stochastic vehicle mass and road gradient, where the stochastic vehicle mass is 
+formulated as stochastic variables in different bus stops. Finally, dynamic 
+programming is employed to calculate the optimal vector of the vehicle within 
+the defined prediction horizon, and only the first control values extracted from 
+the optimal control vector are used to execute real-time power distribution 
+control. The simulation results show that the proposed strategy is reasonable 
+and can at least reduce electric consumption by 4.64%, compared with rule-based 
+strategy.
+
+DOI: 10.1371/journal.pone.0205212
+PMCID: PMC6181328
+PMID: 30308000 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

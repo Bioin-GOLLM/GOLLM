@@ -1,0 +1,78 @@
+1. Cell. 2014 Aug 14;158(4):916-928. doi: 10.1016/j.cell.2014.07.011.
+
+Supergenomic network compression and the discovery of EXP1 as a glutathione 
+transferase inhibited by artesunate.
+
+Lisewski AM(1), Quiros JP(2), Ng CL(3), Adikesavan AK(4), Miura K(5), Putluri 
+N(6), Eastman RT(7), Scanfeld D(3), Regenbogen SJ(8), Altenhofen L(9), Llinás 
+M(9), Sreekumar A(10), Long C(5), Fidock DA(11), Lichtarge O(12).
+
+Author information:
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX 77030, USA; Computational and Integrative Biomedical Research 
+Center, Baylor College of Medicine, Houston, TX 77030, USA. Electronic address: 
+lisewski@bcm.edu.
+(2)Integrative Molecular and Biomedical Sciences Graduate Program, Baylor 
+College of Medicine, Houston, TX 77030, USA.
+(3)Department of Microbiology and Immunology, Columbia University Medical 
+Center, New York, NY 10032, USA.
+(4)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX 77030, USA; Department of Molecular and Cell Biology, Baylor College 
+of Medicine, Houston, TX 77030, USA.
+(5)Laboratory of Malaria and Vector Research, National Institute of Allergy and 
+Infectious Diseases, National Institutes of Health, Rockville, MD 20852, USA.
+(6)Department of Molecular and Cell Biology, Baylor College of Medicine, 
+Houston, TX 77030, USA; Verna and Marrs McLean Department of Biochemistry and 
+Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX 
+77030, USA.
+(7)Department of Microbiology and Immunology, Columbia University Medical 
+Center, New York, NY 10032, USA; Laboratory of Malaria and Vector Research, 
+National Institute of Allergy and Infectious Diseases, National Institutes of 
+Health, Rockville, MD 20852, USA.
+(8)Department of Pharmacology, Baylor College of Medicine, Houston, TX 77030, 
+USA.
+(9)Department of Molecular Biology and Lewis-Sigler Institute for Integrative 
+Genomics, Princeton University, Princeton, NJ 08544, USA; Department of 
+Biochemistry and Molecular Biology and Center for Infectious Disease Dynamics, 
+The Pennsylvania State University, State College, PA 16802, USA.
+(10)Department of Molecular and Cell Biology, Baylor College of Medicine, 
+Houston, TX 77030, USA; Verna and Marrs McLean Department of Biochemistry and 
+Alkek Center for Molecular Discovery, Baylor College of Medicine, Houston, TX 
+77030, USA; Department of Biochemistry and Molecular Biology, Baylor College of 
+Medicine, Houston, TX 77030, USA.
+(11)Department of Microbiology and Immunology, Columbia University Medical 
+Center, New York, NY 10032, USA; Division of Infectious Diseases, Department of 
+Medicine, Columbia University Medical Center, New York, NY 10032, USA.
+(12)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, TX 77030, USA; Computational and Integrative Biomedical Research 
+Center, Baylor College of Medicine, Houston, TX 77030, USA; Verna and Marrs 
+McLean Department of Biochemistry and Alkek Center for Molecular Discovery, 
+Baylor College of Medicine, Houston, TX 77030, USA; Department of Pharmacology, 
+Baylor College of Medicine, Houston, TX 77030, USA. Electronic address: 
+lichtarge@bcm.edu.
+
+Comment in
+    Nat Rev Genet. 2014 Oct;15(10):646. doi: 10.1038/nrg3819.
+    Microb Cell. 2014 Oct 23;1(11):387-389. doi: 10.15698/mic2014.11.177.
+
+A central problem in biology is to identify gene function. One approach is to 
+infer function in large supergenomic networks of interactions and ancestral 
+relationships among genes; however, their analysis can be computationally 
+prohibitive. We show here that these biological networks are compressible. They 
+can be shrunk dramatically by eliminating redundant evolutionary relationships, 
+and this process is efficient because in these networks the number of 
+compressible elements rises linearly rather than exponentially as in other 
+complex networks. Compression enables global network analysis to computationally 
+harness hundreds of interconnected genomes and to produce functional 
+predictions. As a demonstration, we show that the essential, but functionally 
+uncharacterized Plasmodium falciparum antigen EXP1 is a membrane glutathione 
+S-transferase. EXP1 efficiently degrades cytotoxic hematin, is potently 
+inhibited by artesunate, and is associated with artesunate metabolism and 
+susceptibility in drug-pressured malaria parasites. These data implicate EXP1 in 
+the mode of action of a frontline antimalarial drug.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2014.07.011
+PMCID: PMC4167585
+PMID: 25126794 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+1. Lupus Sci Med. 2022 Jan;9(1):e000615. doi: 10.1136/lupus-2021-000615.
+
+Immune gene expression and functional networks in distinct lupus nephritis 
+classes.
+
+Gilmore AC(1), Wilson HR(1), Cairns TD(2), Botto M(1)(2), Lightstone L(1)(2), 
+Bruce IN(3), Terence Cook H(1), Pickering MC(4)(2); MASTERPLANS Consortium.
+
+Author information:
+(1)Department of Immunology and Inflammation, Imperial College London, London, 
+UK.
+(2)Imperial Lupus Centre, Imperial College Healthcare NHS Trust, London, UK.
+(3)Centre for Epidemiology Versus Arthritis, Faculty of Biology, Medicine and 
+Health, The University of Manchester and NIHR Manchester Biomedical Research 
+Centre, Manchester University Hospitals NHS Foundation Trust, Manchester 
+Academic Health Science Centre, Manchester, United Kingdom, The University of 
+Manchester, Manchester, UK.
+(4)Department of Immunology and Inflammation, Imperial College London, London, 
+UK matthew.pickering@imperial.ac.uk.
+
+OBJECTIVE: To explore the utility of the NanoString platform in elucidating 
+kidney immune transcripts for class III, IV and V lupus nephritis (LN) using a 
+retrospective cohort of formalin-fixed paraffin-embedded (FFPE) kidney biopsy 
+tissue.
+METHODS: Immune gene transcript analysis was performed using the NanoString 
+nCounter platform on RNA from LN (n=55), thin basement membrane (TBM) disease 
+(n=14) and membranous nephropathy (MN) (n=9) FFPE kidney biopsy tissue. LN 
+samples consisted of single class III (n=11), IV (n=23) and V (n=21) biopsies 
+with no mixed lesions. Differential gene expression was performed with 
+NanoString nSolver, with visualisations of volcano plots and heatmaps generated 
+in R. Significant transcripts were interrogated to identify functional networks 
+using STRING and Gene ontogeny terms.
+RESULTS: In comparison to TBM, we identified 52 significantly differentially 
+expressed genes common to all three LN classes. Pathway analysis showed 
+enrichment for type I interferon (IFN) signalling, complement and MHC II 
+pathways, with most showing the highest expression in class IV LN. Our class IV 
+LN biopsies also showed significant upregulation of NF-κB signalling and 
+immunological enrichment in comparison to class V LN biopsies. Transcripts from 
+the type I IFN pathway distinguished class V LN from MN.
+CONCLUSION: Our whole kidney section transcriptomic analysis provided insights 
+into the molecular profile of class III, IV and V LN. The data highlighted 
+important pathways common to all three classes and pathways enriched in our 
+class IV LN biopsies. The ability to reveal molecular pathways in LN using FFPE 
+whole biopsy sections could have clinical utility in treatment selection for LN.
+
+© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/lupus-2021-000615
+PMCID: PMC8788334
+PMID: 35074933 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

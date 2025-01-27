@@ -1,0 +1,52 @@
+1. PLoS One. 2023 Jun 14;18(6):e0287019. doi: 10.1371/journal.pone.0287019. 
+eCollection 2023.
+
+A Bayesian approach to estimate the probability of resistance to bedaquiline in 
+the presence of a genomic variant.
+
+Anlay DZ(1)(2), Rivière E(2), Tu PHT(2), Abrams S(2)(3), Van Rie A(2).
+
+Author information:
+(1)School of Nursing, College of Medicine and Health Science, University of 
+Gondar, Gondar, Ethiopia.
+(2)Global Health Institute, Family Medicine and Population Health, Faculty of 
+Medicine and Health Sciences, University of Antwerp, Antwerp, Belgium.
+(3)Data Science Institute, Interuniversity Institute for Biostatistics and 
+statistical Bioinformatics, Uhasselt, Diepenbeek, Belgium.
+
+BACKGROUND: Bedaquiline is a core drug for treatment of rifampicin-resistant 
+tuberculosis. Few genomic variants have been statistically associated with 
+bedaquiline resistance. Alternative approaches for determining the 
+genotypic-phenotypic association are needed to guide clinical care.
+METHODS: Using published phenotype data for variants in Rv0678, atpE, pepQ and 
+Rv1979c genes in 756 Mycobacterium tuberculosis isolates and survey data of the 
+opinion of 33 experts, we applied Bayesian methods to estimate the posterior 
+probability of bedaquiline resistance and corresponding 95% credible intervals.
+RESULTS: Experts agreed on the role of Rv0678, and atpE, were uncertain about 
+the role of pepQ and Rv1979c variants and overestimated the probability of 
+bedaquiline resistance for most variant types, resulting in lower posterior 
+probabilities compared to prior estimates. The posterior median probability of 
+bedaquiline resistance was low for synonymous mutations in atpE (0.1%) and 
+Rv0678 (3.3%), high for missense mutations in atpE (60.8%) and nonsense 
+mutations in Rv0678 (55.1%), relatively low for missense (31.5%) mutations and 
+frameshift (30.0%) in Rv0678 and low for missense mutations in pepQ (2.6%) and 
+Rv1979c (2.9%), but 95% credible intervals were wide.
+CONCLUSIONS: Bayesian probability estimates of bedaquiline resistance given the 
+presence of a specific mutation could be useful for clinical decision-making as 
+it presents interpretable probabilities compared to standard odds ratios. For a 
+newly emerging variant, the probability of resistance for the variant type and 
+gene can still be used to guide clinical decision-making. Future studies should 
+investigate the feasibility of using Bayesian probabilities for bedaquiline 
+resistance in clinical practice.
+
+Copyright: © 2023 Anlay et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0287019
+PMCID: PMC10266631
+PMID: 37315052 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

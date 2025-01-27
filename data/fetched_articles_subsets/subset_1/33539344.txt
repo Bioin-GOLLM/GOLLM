@@ -1,0 +1,48 @@
+1. PLoS Genet. 2021 Feb 4;17(2):e1009309. doi: 10.1371/journal.pgen.1009309. 
+eCollection 2021 Feb.
+
+Transcriptome-wide transmission disequilibrium analysis identifies novel risk 
+genes for autism spectrum disorder.
+
+Huang K(1), Wu Y(2), Shin J(2), Zheng Y(3), Siahpirani AF(4), Lin Y(5), Ni Z(5), 
+Chen J(5), You J(5), Keles S(1)(2)(6), Wang D(2)(6), Roy S(2)(4), Lu Q(1)(2)(7).
+
+Author information:
+(1)Department of Statistics, University of Wisconsin-Madison, Madison, 
+Wisconsin, United States of America.
+(2)Department of Biostatistics and Medical Informatics, University of 
+Wisconsin-Madison, Madison, Wisconsin, United States of America.
+(3)Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research 
+Center, Seattle, Washington, United States of America.
+(4)Department of Computer Sciences, University of Wisconsin-Madison, Madison, 
+Wisconsin, United States of America.
+(5)University of Wisconsin-Madison, Madison, Wisconsin, United States of 
+America.
+(6)Waisman Center, University of Wisconsin-Madison, Madison, Wisconsin, United 
+States of America.
+(7)Center for Demography of Health and Aging, University of Wisconsin-Madison, 
+Madison, Wisconsin, United States of America.
+
+Recent advances in consortium-scale genome-wide association studies (GWAS) have 
+highlighted the involvement of common genetic variants in autism spectrum 
+disorder (ASD), but our understanding of their etiologic roles, especially the 
+interplay with rare variants, is incomplete. In this work, we introduce an 
+analytical framework to quantify the transmission disequilibrium of genetically 
+regulated gene expression from parents to offspring. We applied this framework 
+to conduct a transcriptome-wide association study (TWAS) on 7,805 ASD 
+proband-parent trios, and replicated our findings using 35,740 independent 
+samples. We identified 31 associations at the transcriptome-wide significance 
+level. In particular, we identified POU3F2 (p = 2.1E-7), a transcription factor 
+mainly expressed in developmental brain. Gene targets regulated by POU3F2 showed 
+a 2.7-fold enrichment for known ASD genes (p = 2.0E-5) and a 2.7-fold enrichment 
+for loss-of-function de novo mutations in ASD probands (p = 7.1E-5). These 
+results provide a novel connection between rare and common variants, whereby ASD 
+genes affected by very rare mutations are regulated by an unlinked transcription 
+factor affected by common genetic variations.
+
+DOI: 10.1371/journal.pgen.1009309
+PMCID: PMC7888619
+PMID: 33539344 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

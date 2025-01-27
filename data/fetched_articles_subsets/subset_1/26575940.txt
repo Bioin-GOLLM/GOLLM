@@ -1,0 +1,42 @@
+1. J Chem Theory Comput. 2015 Sep 8;11(9):4500-11. doi: 10.1021/ct501125r. Epub 
+2015 Aug 6.
+
+C-Terminal Domain of Integrase Binds between the Two Active Sites.
+
+Roberts VA(1).
+
+Author information:
+(1)San Diego Supercomputer Center, University of California, San Diego , La 
+Jolla, California 92093, United States.
+
+HIV integrase (HIV-IN), one of three HIV enzymes, is a target for the treatment 
+of AIDS, but the full biological assembly has been difficult to characterize, 
+hampering inhibitor design. The recent crystallographic structures of integrase 
+from prototype foamy virus (PFV-IN) with bound DNA were a breakthrough, 
+revealing how viral DNA organizes two integrase dimers into a tetramer that has 
+the two active sites appropriately spaced for insertion of the viral DNA into 
+host DNA. The organization of domains within each PFV-IN protein chain, however, 
+varies significantly from that found in HIV-IN structures. With the goal of 
+identifying shared structural characteristics, the interactions among components 
+of the PFV-IN and HIV-IN assemblies were investigated with the macromolecular 
+docking program DOT. DOT performs an exhaustive, rigid-body search between two 
+macromolecules. Computational docking reproduced the crystallographic 
+interactions of the PFV-IN catalytic and N-terminal domains with viral DNA and 
+found similar viral DNA interactions for HIV-IN. Computational docking did not 
+reproduce the crystallographic interactions of the PFV-IN C-terminal domain 
+(CTD). Instead, two symmetry-related positions were found for the PFV-IN CTD 
+that indicate formation of a CTD dimer between the two active sites. Our 
+predicted CTD dimer is consistent with cross-linking studies showing 
+interactions of the CTD with viral DNA that appear to be blocked in the PFV-IN 
+structures. The CTD dimer can insert two arginine-rich loops between the two 
+bound vDNA molecules and the host DNA, a region that is unoccupied in the PFV-IN 
+crystallographic structures. The positive potential from these two loops would 
+alleviate the large negative potential created by the close proximity of two 
+viral vDNA ends, helping to bring together the two active sites and assisting 
+host DNA binding. This study demonstrates the ability of computational docking 
+to evaluate complex crystallographic assemblies, identify interactions that are 
+influenced by the crystal environment, and provide plausible alternatives.
+
+DOI: 10.1021/ct501125r
+PMCID: PMC4689733
+PMID: 26575940 [Indexed for MEDLINE]

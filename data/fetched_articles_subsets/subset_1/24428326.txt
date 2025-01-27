@@ -1,0 +1,35 @@
+1. J Am Chem Soc. 2014 Feb 12;136(6):2529-37. doi: 10.1021/ja411338t. Epub 2014
+Jan  27.
+
+Flash memory: photochemical imprinting of neuronal action potentials onto a 
+microbial rhodopsin.
+
+Venkatachalam V(1), Brinks D, Maclaurin D, Hochbaum D, Kralj J, Cohen AE.
+
+Author information:
+(1)Departments of †Chemistry and Chemical Biology, ‡Physics, and §School of 
+Engineering and Applied Sciences, Harvard University , Cambridge, Massachusetts 
+02138, United States.
+
+We developed a technique, "flash memory", to record a photochemical imprint of 
+the activity state--firing or not firing--of a neuron at a user-selected moment 
+in time. The key element is an engineered microbial rhodopsin protein with three 
+states. Two nonfluorescent states, D1 and D2, exist in a voltage-dependent 
+equilibrium. A stable fluorescent state, F, is reached by a photochemical 
+conversion from D2. When exposed to light of a wavelength λ(write), population 
+transfers from D2 to F, at a rate determined by the D1 ⇌ D2 equilibrium. The 
+population of F maintains a record of membrane voltage which persists in the 
+dark. Illumination at a later time at a wavelength λ(read) excites fluorescence 
+of F, probing this record. An optional third flash at a wavelength λ(reset) 
+converts F back to D2, for a subsequent write-read cycle. The flash memory 
+method offers the promise to decouple the recording of neural activity from its 
+readout. In principle, the technique may enable one to generate snapshots of 
+neural activity in a large volume of neural tissue, e.g., a complete mouse 
+brain, by circumventing the challenge of imaging a large volume with 
+simultaneous high spatial and high temporal resolution. The proof-of-principle 
+flash memory sensors presented here will need improvements in sensitivity, 
+speed, brightness, and membrane trafficking before this goal can be realized.
+
+DOI: 10.1021/ja411338t
+PMCID: PMC3985752
+PMID: 24428326 [Indexed for MEDLINE]

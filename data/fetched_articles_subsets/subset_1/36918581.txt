@@ -1,0 +1,36 @@
+1. Sci Data. 2023 Mar 14;10(1):134. doi: 10.1038/s41597-023-02035-z.
+
+SARS-CoV-2 receptor-binding domain deep mutational AlphaFold2 structures.
+
+Kilim O(1), Mentes A(1), Pál B(1)(2), Csabai I(1), Gellért Á(3)(4).
+
+Author information:
+(1)Department of Physics of Complex Systems, Eötvös Loránd University, Budapest, 
+Hungary.
+(2)Wigner Research Centre for Physics, 1121, Budapest, Hungary.
+(3)Department of Physics of Complex Systems, Eötvös Loránd University, Budapest, 
+Hungary. gellert.akos@gmail.com.
+(4)Veterinary Medical Research Institute, Eötvös Loránd Research Network, 1581, 
+Budapest, P.O. box 18, Hungary. gellert.akos@gmail.com.
+
+Leveraging recent advances in computational modeling of proteins with AlphaFold2 
+(AF2) we provide a complete curated data set of all single mutations from each 
+of the 7 main SARS-CoV-2 lineages spike protein receptor binding domain (RBD) 
+resulting in 3819X7 = 26733 PDB structures. We visualize the generated 
+structures and show that AF2 pLDDT values are correlated with state-of-the-art 
+disorder approximations, implying some internal protein dynamics are also 
+captured by the model. Joint increasing mutational coverage of both structural 
+and phenotype data coupled with advances in machine learning can be leveraged to 
+accelerate virology research, specifically future variant prediction. We hope 
+this data release can offer assistance into further understanding of the local 
+and global mutational landscape of SARS-CoV-2 as well as provide insight into 
+the biological understanding that 3D structure acts as a bridge between protein 
+genotype and phenotype.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41597-023-02035-z
+PMCID: PMC10013278
+PMID: 36918581 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

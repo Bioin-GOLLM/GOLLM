@@ -1,0 +1,66 @@
+1. Cancer Res. 2017 Jun 15;77(12):3336-3351. doi: 10.1158/0008-5472.CAN-17-0502. 
+Epub 2017 Apr 11.
+
+An Ex Vivo Platform for the Prediction of Clinical Response in Multiple Myeloma.
+
+Silva A(1), Silva MC(1), Sudalagunta P(1), Distler A(2), Jacobson T(1), Collins 
+A(2), Nguyen T(2), Song J(3), Chen DT(4), Chen L(4), Cubitt C(5), Baz R(2), 
+Perez L(6), Rebatchouk D(7), Dalton W(8), Greene J(9), Gatenby R(10), Gillies 
+R(1), Sontag E(9), Meads MB(2)(11), Shain KH(12)(11).
+
+Author information:
+(1)Department of Cancer Imaging and Metabolism, H. Lee Moffitt Cancer Center and 
+Research Institute, Tampa, Florida.
+(2)Department of Malignant Hematology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, Florida.
+(3)Department of Hematologic Pathology, H. Lee Moffitt Cancer Center and 
+Research Institute, Tampa, Florida.
+(4)Department of Statistics, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, Florida.
+(5)Translational Medicine Core, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, Florida.
+(6)Department of Bone Marrow Transplantation, H. Lee Moffitt Cancer Center and 
+Research Institute, Tampa, Florida.
+(7)nPharmakon, LLC, Piscataway, New Jersey.
+(8)M2Gen, Tampa, Florida.
+(9)Rutgers, New Brunswick, NJ.
+(10)Department of Radiology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, Florida.
+(11)Department of Tumor Biology, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, Florida.
+(12)Department of Malignant Hematology, H. Lee Moffitt Cancer Center and 
+Research Institute, Tampa, Florida. ken.shain@moffitt.org.
+
+Multiple myeloma remains treatable but incurable. Despite a growing 
+armamentarium of effective agents, choice of therapy, especially in relapse, 
+still relies almost exclusively on clinical acumen. We have developed a system, 
+Ex vivo Mathematical Myeloma Advisor (EMMA), consisting of patient-specific 
+mathematical models parameterized by an ex vivo assay that reverse engineers the 
+intensity and heterogeneity of chemosensitivity of primary cells from multiple 
+myeloma patients, allowing us to predict clinical response to up to 31 drugs 
+within 5 days after bone marrow biopsy. From a cohort of 52 multiple myeloma 
+patients, EMMA correctly classified 96% as responders/nonresponders and 
+correctly classified 79% according to International Myeloma Working Group 
+stratification of level of response. We also observed a significant correlation 
+between predicted and actual tumor burden measurements (Pearson r = 0.5658, P < 
+0.0001). Preliminary estimates indicate that, among the patients enrolled in 
+this study, 60% were treated with at least one ineffective agent from their 
+therapy combination regimen, whereas 30% would have responded better if treated 
+with another available drug or combination. Two in silico clinical trials with 
+experimental agents ricolinostat and venetoclax, in a cohort of 19 multiple 
+myeloma patient samples, yielded consistent results with recent phase I/II 
+trials, suggesting that EMMA is a feasible platform for estimating clinical 
+efficacy of drugs and inclusion criteria screening. This unique platform, 
+specifically designed to predict therapeutic response in multiple myeloma 
+patients within a clinically actionable time frame, has shown high predictive 
+accuracy in patients treated with combinations of different classes of drugs. 
+The accuracy, reproducibility, short turnaround time, and high-throughput 
+potential of this platform demonstrate EMMA's promise as a decision support 
+system for therapeutic management of multiple myeloma. Cancer Res; 77(12); 
+3336-51. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/0008-5472.CAN-17-0502
+PMCID: PMC7819642
+PMID: 28400475 [Indexed for MEDLINE]

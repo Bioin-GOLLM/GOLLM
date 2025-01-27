@@ -1,0 +1,46 @@
+1. Nat Methods. 2021 Oct;18(10):1196-1203. doi: 10.1038/s41592-021-01252-x. Epub 
+2021 Oct 4.
+
+Effective gene expression prediction from sequence by integrating long-range 
+interactions.
+
+Avsec Ž(1), Agarwal V(#)(2), Visentin D(#)(3), Ledsam JR(3)(4), 
+Grabska-Barwinska A(3), Taylor KR(3), Assael Y(3), Jumper J(3), Kohli P(5), 
+Kelley DR(6).
+
+Author information:
+(1)DeepMind, London, UK. avsec@google.com.
+(2)Calico Life Sciences, South San Francisco, CA, USA.
+(3)DeepMind, London, UK.
+(4)Google, Tokyo, Japan.
+(5)DeepMind, London, UK. pushmeet@google.com.
+(6)Calico Life Sciences, South San Francisco, CA, USA. drk@calicolabs.com.
+(#)Contributed equally
+
+Comment in
+    Nat Methods. 2021 Oct;18(10):1155-1156. doi: 10.1038/s41592-021-01259-4.
+
+How noncoding DNA determines gene expression in different cell types is a major 
+unsolved problem, and critical downstream applications in human genetics depend 
+on improved solutions. Here, we report substantially improved gene expression 
+prediction accuracy from DNA sequences through the use of a deep learning 
+architecture, called Enformer, that is able to integrate information from 
+long-range interactions (up to 100 kb away) in the genome. This improvement 
+yielded more accurate variant effect predictions on gene expression for both 
+natural genetic variants and saturation mutagenesis measured by massively 
+parallel reporter assays. Furthermore, Enformer learned to predict 
+enhancer-promoter interactions directly from the DNA sequence competitively with 
+methods that take direct experimental data as input. We expect that these 
+advances will enable more effective fine-mapping of human disease associations 
+and provide a framework to interpret cis-regulatory evolution.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41592-021-01252-x
+PMCID: PMC8490152
+PMID: 34608324 [Indexed for MEDLINE]
+
+Conflict of interest statement: Ž.A., A.G-B., K.R.T., Y.A., J.J., and P.K. are 
+employed by DeepMind. V.A., and D.R.K. are employed by Calico Life Sciences. 
+J.R.L. is employed by Google. The remaining authors declare no competing 
+interests.

@@ -1,0 +1,37 @@
+1. Nat Commun. 2019 Dec 10;10(1):5636. doi: 10.1038/s41467-019-13561-z.
+
+Atlas of quantitative single-base-resolution N(6)-methyl-adenine methylomes.
+
+Koh CWQ(1), Goh YT(1), Goh WSS(2).
+
+Author information:
+(1)Genome Institute of Singapore, 60 Biopolis Street, Singapore, 138672, 
+Singapore.
+(2)Genome Institute of Singapore, 60 Biopolis Street, Singapore, 138672, 
+Singapore. sho.goh.ws@gmail.com.
+
+Various methyltransferases and demethylases catalyse methylation and 
+demethylation of N6-methyladenosine (m6A) and N6,2'-O-dimethyladenosine (m6Am) 
+but precise methylomes uniquely mediated by each methyltransferase/demethylase 
+are still lacking. Here, we develop m6A-Crosslinking-Exonuclease-sequencing 
+(m6ACE-seq) to map transcriptome-wide m6A and m6Am at quantitative 
+single-base-resolution. This allows for the generation of a comprehensive atlas 
+of distinct methylomes uniquely mediated by every individual known 
+methyltransferase or demethylase. Our atlas reveals METTL16 to indirectly impact 
+manifold methylation targets beyond its consensus target motif and highlights 
+the importance of precision in mapping PCIF1-dependent m6Am. Rather than reverse 
+RNA methylation, we find that both ALKBH5 and FTO instead maintain their 
+regulated sites in an unmethylated steady-state. In FTO's absence, anomalous 
+m6Am disrupts snRNA interaction with nuclear export machinery, potentially 
+causing aberrant pre-mRNA splicing events.
+
+DOI: 10.1038/s41467-019-13561-z
+PMCID: PMC6904561
+PMID: 31822664 [Indexed for MEDLINE]
+
+Conflict of interest statement: W.S.S.G. has filed a technology disclosure to 
+the institutional technology transfer office and the office has filed a 
+provisional patent application in Singapore on the use of photo-crosslinking 
+RNA-modification-specific antibodies and exoribonucleases to sequence RNA 
+modifications at high resolution. The remaining authors declare no competing 
+interests.

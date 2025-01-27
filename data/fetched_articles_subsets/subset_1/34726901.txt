@@ -1,0 +1,47 @@
+1. ACS Synth Biol. 2021 Nov 19;10(11):3177-3189. doi: 10.1021/acssynbio.1c00461. 
+Epub 2021 Nov 2.
+
+Regulating Expression of Mistranslating tRNAs by Readthrough RNA Polymerase II 
+Transcription.
+
+Berg MD(1)(2), Isaacson JR(3), Cozma E(1), Genereaux J(1), Lajoie P(4), Villén 
+J(2), Brandl CJ(1).
+
+Author information:
+(1)Department of Biochemistry, The University of Western Ontario, London, 
+Ontario N6A 5C1, Canada.
+(2)Department of Genome Sciences, University of Washington, Seattle, Washington 
+98195, United States.
+(3)Department of Biology, The University of Western Ontario, London, Ontario N6A 
+5C1, Canada.
+(4)Department of Anatomy and Cell Biology, The University of Western Ontario, 
+London, Ontario N6A 5C1, Canada.
+
+Transfer RNA (tRNA) variants that alter the genetic code increase protein 
+diversity and have many applications in synthetic biology. Since the tRNA 
+variants can cause a loss of proteostasis, regulating their expression is 
+necessary to achieve high levels of novel protein. Mechanisms to positively 
+regulate transcription with exogenous activator proteins like those often used 
+to regulate RNA polymerase II (RNAP II)-transcribed genes are not applicable to 
+tRNAs as their expression by RNA polymerase III requires elements internal to 
+the tRNA. Here, we show that tRNA expression is repressed by overlapping 
+transcription from an adjacent RNAP II promoter. Regulating the expression of 
+the RNAP II promoter allows inverse regulation of the tRNA. Placing either Gal4- 
+or TetR-VP16-activated promoters downstream of a mistranslating tRNASer variant 
+that misincorporates serine at proline codons in Saccharomyces cerevisiae allows 
+mistranslation at a level not otherwise possible because of the toxicity of the 
+unregulated tRNA. Using this inducible tRNA system, we explore the proteotoxic 
+effects of mistranslation on yeast cells. High levels of mistranslation cause 
+cells to arrest in the G1 phase. These cells are impermeable to propidium 
+iodide, yet growth is not restored upon repressing tRNA expression. High levels 
+of mistranslation increase cell size and alter cell morphology. This regulatable 
+tRNA expression system can be applied to study how native tRNAs and tRNA 
+variants affect the proteome and other biological processes. Variations of this 
+inducible tRNA system should be applicable to other eukaryotic cell types.
+
+DOI: 10.1021/acssynbio.1c00461
+PMCID: PMC8765249
+PMID: 34726901 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

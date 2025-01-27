@@ -1,0 +1,45 @@
+1. PLoS One. 2023 Oct 10;18(10):e0292589. doi: 10.1371/journal.pone.0292589. 
+eCollection 2023.
+
+Designing peptides predicted to bind to the omicron variant better than ACE2 via 
+computational protein design and molecular dynamics.
+
+Sitthiyotha T(1), Treewattanawong W(1), Chunsrivirot S(1).
+
+Author information:
+(1)Structural and Computational Biology Research Unit, Department of 
+Biochemistry, Faculty of Science, Chulalongkorn University, Pathumwan, Bangkok, 
+Thailand.
+
+Brought about by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), 
+coronavirus disease (COVID-19) pandemic has resulted in large numbers of 
+worldwide deaths and cases. Several SARS-CoV-2 variants have evolved, and 
+Omicron (B.1.1.529) was one of the important variants of concern. It gets inside 
+human cells by using its S1 subunit's receptor-binding domain (SARS-CoV-2-RBD) 
+to bind to Angiotensin-converting enzyme 2 receptor's peptidase domain 
+(ACE2-PD). Using peptides to inhibit binding interactions (BIs) between ACE2-PD 
+and SARS-CoV-2-RBD is one of promising COVID-19 therapies. Employing 
+computational protein design (CPD) as well as molecular dynamics (MD), this 
+study used ACE2-PD's α1 helix to generate novel 25-mer peptide binders (SPB25) 
+of Omicron RBD that have predicted binding affinities (ΔGbind (MM‑GBSA)) better 
+than ACE2 by increasing favorable BIs between SPB25 and the conserved residues 
+of RBD. Results from MD and the MM-GBSA method identified two best designed 
+peptides (SPB25T7L/K11A and SPB25T7L/K11L with ΔGbind (MM‑GBSA) of -92.4 ± 0.4 
+and -95.7 ± 0.5 kcal/mol, respectively) that have better ΔGbind (MM‑GBSA) to 
+Omicron RBD than ACE2 (-87.9 ± 0.5 kcal/mol) and SPB25 (-71.6 ± 0.5 kcal/mol). 
+Additionally, they were predicted to have slightly higher stabilities, based on 
+their percent helicities in water, than SBP1 (the experimentally proven 
+inhibitor of SARS-CoV-2-RBD). Our two best designed SPB25s are promising 
+candidates as omicron variant inhibitors.
+
+Copyright: © 2023 Sitthiyotha et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0292589
+PMCID: PMC10564162
+PMID: 37816037 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

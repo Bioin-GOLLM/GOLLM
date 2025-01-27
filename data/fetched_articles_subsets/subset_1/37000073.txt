@@ -1,0 +1,42 @@
+1. Medicine (Baltimore). 2023 Mar 31;102(13):e33346. doi: 
+10.1097/MD.0000000000033346.
+
+Multiple bioinformatics analysis identifies IGFBP1 as associated with the 
+prognosis of stomach adenocarcinoma.
+
+Luo XY(1), Zhang YP(2), Zheng F(1), Zhou L(3).
+
+Author information:
+(1)Surgical Department I, Hangzhou Lin'an TCM Hospital, Hangzhou, Zhejiang, 
+China.
+(2)Department of Pathology, Hangzhou Lin'an TCM Hospital, Hangzhou, Zhejiang, 
+China.
+(3)Surgical Department II, Hangzhou Lin'an TCM Hospital, Hangzhou, Zhejiang, 
+China.
+
+This study aimed to screen the hub gene for predicting the prognosis of patients 
+with stomach adenocarcinoma (STAD). The RNA-sequencing expression data and 
+clinical data of STAD were collected from the cancer genome atlas. The R package 
+"limma" was performed to ascertain the differentially expressed genes (DEGs) 
+between the relapse group and non-relapse group, and the DEGs between the 
+survival dead status group and survival alive status group were screened. The 
+overlapping genes between 2 DEGs sets were identified by the Venn diagram. Many 
+different bioinformatics analysis methods were performed to analyze the 
+importance of hub genes. One gene signature, IGFBP1, was extracted. The KM plot 
+indicated that STAD patients with low IGFBP1 mRNA expression have a shorter 
+overall survival time. The top 100 co-expression genes of IGFBP1 were mainly 
+enriched in complement and coagulation cascades, epithelial cell signaling in 
+Helicobacter pylori infection, and Wnt signaling pathway. Immune infiltration 
+analysis indicated IGFBP1 may inhibit immune cell infiltration in tumors by 
+infiltration and immune escape, leading to tumor metastasis and progression. The 
+bioinformatics analysis results indicate that IGFBP1 can be used as a tool to 
+evaluate the mortality risk of patients with STAD.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000033346
+PMCID: PMC10063289
+PMID: 37000073 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.

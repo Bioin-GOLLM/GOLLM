@@ -1,0 +1,38 @@
+1. PLoS Genet. 2012 Feb;8(2):e1002525. doi: 10.1371/journal.pgen.1002525. Epub
+2012  Feb 9.
+
+Mixed effects modeling of proliferation rates in cell-based models: consequence 
+for pharmacogenomics and cancer.
+
+Im HK(1), Gamazon ER, Stark AL, Huang RS, Cox NJ, Dolan ME.
+
+Author information:
+(1)Department of Health Studies, University of Chicago, Chicago, Illinois, USA. 
+haky@uchicago.edu
+
+The International HapMap project has made publicly available extensive genotypic 
+data on a number of lymphoblastoid cell lines (LCLs). Building on this resource, 
+many research groups have generated a large amount of phenotypic data on these 
+cell lines to facilitate genetic studies of disease risk or drug response. 
+However, one problem that may reduce the usefulness of these resources is the 
+biological noise inherent to cellular phenotypes. We developed a novel method, 
+termed Mixed Effects Model Averaging (MEM), which pools data from multiple 
+sources and generates an intrinsic cellular growth rate phenotype. This 
+intrinsic growth rate was estimated for each of over 500 HapMap cell lines. We 
+then examined the association of this intrinsic growth rate with gene expression 
+levels and found that almost 30% (2,967 out of 10,748) of the genes tested were 
+significant with FDR less than 10%. We probed further to demonstrate evidence of 
+a genetic effect on intrinsic growth rate by determining a significant 
+enrichment in growth-associated genes among genes targeted by top 
+growth-associated SNPs (as eQTLs). The estimated intrinsic growth rate as well 
+as the strength of the association with genetic variants and gene expression 
+traits are made publicly available through a cell-based pharmacogenomics 
+database, PACdb. This resource should enable researchers to explore the 
+mediating effects of proliferation rate on other phenotypes.
+
+DOI: 10.1371/journal.pgen.1002525
+PMCID: PMC3276560
+PMID: 22346769 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

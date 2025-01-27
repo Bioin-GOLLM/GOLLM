@@ -1,0 +1,48 @@
+1. Sci Rep. 2017 Aug 14;7(1):8071. doi: 10.1038/s41598-017-08404-0.
+
+A combinatorial approach for the discovery of cytochrome P450 2D6 inhibitors 
+from nature.
+
+Hochleitner J(1), Akram M(2), Ueberall M(1), Davis RA(3), Waltenberger B(4), 
+Stuppner H(4), Sturm S(4), Ueberall F(1), Gostner JM(5), Schuster D(6).
+
+Author information:
+(1)Division of Medical Biochemistry, Center for Chemistry and Biomedicine, 
+Medical University of Innsbruck, Innsbruck, Austria.
+(2)Institute of Pharmacy/Pharmaceutical Chemistry, Computer Aided Molecular 
+Design Group and Center for Molecular Biosciences Innsbruck (CMBI), University 
+of Innsbruck, Innsbruck, Austria.
+(3)Griffith Institute for Drug Discovery, Griffith University, Brisbane, QLD 
+4111, Australia.
+(4)Institute of Pharmacy/Pharmacognosy and Center for Molecular Biosciences 
+Innsbruck (CMBI), University of Innsbruck, Innsbruck, Austria.
+(5)Division of Medical Biochemistry, Center for Chemistry and Biomedicine, 
+Medical University of Innsbruck, Innsbruck, Austria. 
+Johanna.Gostner@i-med.ac.at.
+(6)Institute of Pharmacy/Pharmaceutical Chemistry, Computer Aided Molecular 
+Design Group and Center for Molecular Biosciences Innsbruck (CMBI), University 
+of Innsbruck, Innsbruck, Austria. Daniela.Schuster@uibk.ac.at.
+
+The human cytochrome P450 2D6 (CYP2D6) enzyme is part of phase-I metabolism and 
+metabolizes at least 20% of all clinically relevant drugs. Therefore, it is an 
+important target for drug-drug interaction (DDI) studies. High-throughput 
+screening (HTS) assays are commonly used tools to examine DDI, but show certain 
+drawbacks with regard to their applicability to natural products. We propose an 
+in silico - in vitro workflow for the reliable identification of natural 
+products with CYP2D6 inhibitory potential. In order to identify candidates from 
+natural product-based databases that share similar structural features with 
+established inhibitors, a pharmacophore model was applied. The virtual hits were 
+tested for the inhibition of recombinant human CYP2D6 in a bioluminescence-based 
+assay. By controlling for unspecific interferences of the test compounds with 
+the detection reaction, the number of false positives were reduced. The success 
+rate of the reported workflow was 76%, as most of the candidates identified in 
+the in silico approach were able to inhibit CYP2D6 activity. In summary, the 
+workflow presented here is a suitable and cost-efficient strategy for the 
+discovery of new CYP2D6 inhibitors with natural product libraries.
+
+DOI: 10.1038/s41598-017-08404-0
+PMCID: PMC5556109
+PMID: 28808272 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

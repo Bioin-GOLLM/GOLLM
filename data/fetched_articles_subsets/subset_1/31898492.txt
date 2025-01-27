@@ -1,0 +1,62 @@
+1. Malar J. 2020 Jan 2;19(1):1. doi: 10.1186/s12936-019-3075-5.
+
+An in vitro toolbox to accelerate anti-malarial drug discovery and development.
+
+Charman SA(1), Andreu A(2), Barker H(2), Blundell S(2), Campbell A(2), Campbell 
+M(2), Chen G(2), Chiu FCK(2), Crighton E(2), Katneni K(2), Morizzi J(2), Patil 
+R(2), Pham T(2), Ryan E(2), Saunders J(2), Shackleford DM(2), White KL(2), 
+Almond L(3), Dickins M(3), Smith DA(4), Moehrle JJ(5), Burrows JN(5), Abla N(5).
+
+Author information:
+(1)Centre for Drug Candidate Optimisation, Monash Institute of Pharmaceutical 
+Sciences, Monash University, 381 Royal Parade, Parkville, VIC, 3052, Australia. 
+susan.charman@monash.edu.
+(2)Centre for Drug Candidate Optimisation, Monash Institute of Pharmaceutical 
+Sciences, Monash University, 381 Royal Parade, Parkville, VIC, 3052, Australia.
+(3)Certara UK Limited, Simcyp Division, Level 2-Acero, 1 Concourse Way, 
+Sheffield, S1 2BJ, UK.
+(4)4 The Maltings, Walmer, Kent, CT14 7AR, UK.
+(5)Medicines for Malaria Venture, PO Box 1826, 20 Route de Pré-Bois, CH-1215, 
+Geneva 15, Switzerland.
+
+BACKGROUND: Modelling and simulation are being increasingly utilized to support 
+the discovery and development of new anti-malarial drugs. These approaches 
+require reliable in vitro data for physicochemical properties, permeability, 
+binding, intrinsic clearance and cytochrome P450 inhibition. This work was 
+conducted to generate an in vitro data toolbox using standardized methods for a 
+set of 45 anti-malarial drugs and to assess changes in physicochemical 
+properties in relation to changing target product and candidate profiles.
+METHODS: Ionization constants were determined by potentiometric titration and 
+partition coefficients were measured using a shake-flask method. Solubility was 
+assessed in biorelevant media and permeability coefficients and efflux ratios 
+were determined using Caco-2 cell monolayers. Binding to plasma and media 
+proteins was measured using either ultracentrifugation or rapid equilibrium 
+dialysis. Metabolic stability and cytochrome P450 inhibition were assessed using 
+human liver microsomes. Sample analysis was conducted by LC-MS/MS.
+RESULTS: Both solubility and fraction unbound decreased, and permeability and 
+unbound intrinsic clearance increased, with increasing Log D7.4. In general, 
+development compounds were somewhat more lipophilic than legacy drugs. For many 
+compounds, permeability and protein binding were challenging to assess and both 
+required the use of experimental conditions that minimized the impact of 
+non-specific binding. Intrinsic clearance in human liver microsomes was varied 
+across the data set and several compounds exhibited no measurable substrate loss 
+under the conditions used. Inhibition of cytochrome P450 enzymes was minimal for 
+most compounds.
+CONCLUSIONS: This is the first data set to describe in vitro properties for 45 
+legacy and development anti-malarial drugs. The studies identified several 
+practical methodological issues common to many of the more lipophilic compounds 
+and highlighted areas which require more work to customize experimental 
+conditions for compounds being designed to meet the new target product profiles. 
+The dataset will be a valuable tool for malaria researchers aiming to develop 
+PBPK models for the prediction of human PK properties and/or drug-drug 
+interactions. Furthermore, generation of this comprehensive data set within a 
+single laboratory allows direct comparison of properties across a large dataset 
+and evaluation of changing property trends that have occurred over time with 
+changing target product and candidate profiles.
+
+DOI: 10.1186/s12936-019-3075-5
+PMCID: PMC6941357
+PMID: 31898492 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

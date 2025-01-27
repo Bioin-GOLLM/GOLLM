@@ -1,0 +1,40 @@
+1. Stat Methods Med Res. 2018 Feb;27(2):593-607. doi: 10.1177/0962280216639859. 
+Epub 2016 Apr 4.
+
+Continuous time Markov chain approaches for analyzing transtheoretical models of 
+health behavioral change: A case study and comparison of model estimations.
+
+Ma J(1)(2), Chan W(2), Tilley BC(2).
+
+Author information:
+(1)1 Department of Biostatistics, The University of Texas MD Anderson Cancer 
+Center, Houston, USA.
+(2)2 Department of Biostatistics, The University of Texas Health Science Center 
+at Houston, Houston, USA.
+
+Continuous time Markov chain models are frequently employed in medical research 
+to study the disease progression but are rarely applied to the transtheoretical 
+model, a psychosocial model widely used in the studies of health-related 
+outcomes. The transtheoretical model often includes more than three states and 
+conceptually allows for all possible instantaneous transitions (referred to as 
+general continuous time Markov chain). This complicates the likelihood function 
+because it involves calculating a matrix exponential that may not be simplified 
+for general continuous time Markov chain models. We undertook a Bayesian 
+approach wherein we numerically evaluated the likelihood using ordinary 
+differential equation solvers available from the gnu scientific library. We 
+compared our Bayesian approach with the maximum likelihood method implemented 
+with the R package MSM. Our simulation study showed that the Bayesian approach 
+provided more accurate point and interval estimates than the maximum likelihood 
+method, especially in complex continuous time Markov chain models with five 
+states. When applied to data from a four-state transtheoretical model collected 
+from a nutrition intervention study in the next step trial, we observed results 
+consistent with the results of the simulation study. Specifically, the two 
+approaches provided comparable point estimates and standard errors for most 
+parameters, but the maximum likelihood offered substantially smaller standard 
+errors for some parameters. Comparable estimates of the standard errors are 
+obtainable from package MSM, which works only when the model estimation 
+algorithm converges.
+
+DOI: 10.1177/0962280216639859
+PMCID: PMC5329136
+PMID: 27048681 [Indexed for MEDLINE]

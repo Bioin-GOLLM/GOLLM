@@ -1,0 +1,58 @@
+1. Microbiol Spectr. 2023 Feb 14;11(1):e0343722. doi: 10.1128/spectrum.03437-22. 
+Epub 2022 Dec 7.
+
+A Novel and Efficient Platform for Discovering Noncanonical Quorum-Quenching 
+Proteins.
+
+Liao J(1), Li Z(1), Xiong D(1), Shen D(1), Wang L(2), Shao X(1), Li T(3), Qian 
+G(1).
+
+Author information:
+(1)College of Plant Protection, Laboratory of Plant Immunity, Key Laboratory of 
+Integrated Management of Crop Diseases and Pests, Nanjing Agricultural 
+University, Nanjing, Jiangsu, People's Republic of China.
+(2)Medical College, China Three Gorges University, Yichang, People's Republic of 
+China.
+(3)Shanghai Veterinary Research Institute, Chinese Academy of Agricultural 
+Sciences, Shanghai, People's Republic of China.
+
+Quorum sensing (QS) is a well-known chemical signaling system responsible for 
+intercellular communication that is widespread in bacteria. Acyl-homoserine 
+lactone (AHL) is the most-studied QS signal. Previously, bacterially encoded 
+AHL-degrading enzymes were considered to be canonical quorum-quenching proteins 
+that have been widely used to control pathogenic infections. Here, we report a 
+novel platform that enabled the efficient discovery of noncanonical AHL 
+quorum-quenching proteins. This platform initially asked bacteriologists to 
+carry out comparative genomic analyses between phylogenetically related 
+AHL-producing and non-AHL-producing members to identify genes that are 
+conservatively shared by non-AHL-producing members but absent in AHL-producing 
+species. These candidate genes were then introduced into recombinant 
+AHL-producing E. coli to screen for target proteins with the ability to block 
+AHL production. Via this platform, we found that non-AHL-producing Lysobacter 
+containing numerous environmentally ubiquitous members encoded a conserved 
+glycosyltransferase-like protein Le4759, which was experimentally shown to be a 
+noncanonical AHL-quenching protein. Le4759 could not directly degrade exogenous 
+AHL but rather recognized and altered the activities of multiple AHL synthases 
+through protein-protein interactions. This versatile capability enabled Le4759 
+to block specific AHL synthase such as CarI from Pectobacterium carotovorum to 
+reduce its protein abundance to suppress AHL synthesis, thereby impairing 
+bacterial infection. Thus, this study provided bacteriologists with a unique 
+platform to discover noncanonical quorum-quenching proteins that could be 
+developed as promising next-generation drug candidates to overcome emerging 
+bacterial antibiotic resistance. IMPORTANCE Targeting and blocking bacterial 
+quorum sensing (QS), the process known as quorum quenching (QQ) is an effective 
+mean to control bacterial infection and overcome the emerging antibiotic 
+resistance. Previously, diverse QS signal-degradation enzymes are identified as 
+canonical QQ proteins. Here, we provided a novel and universal platform that 
+enabled to discover previously unidentified noncanonical QQ proteins that were 
+unable to degrade acyl-homoserine lactone (AHL) but could block AHL generation 
+by recognizing multiple AHL synthases via direct protein-protein interactions. 
+Our findings are believed to trigger broad interest for bacteriologists to 
+identify potentially widely distributed noncanonical QQ proteins that have great 
+potential for developing next-generation anti-infectious drugs.
+
+DOI: 10.1128/spectrum.03437-22
+PMCID: PMC9927378
+PMID: 36475880 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

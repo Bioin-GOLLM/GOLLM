@@ -1,0 +1,50 @@
+1. Front Immunol. 2022 Oct 7;13:988303. doi: 10.3389/fimmu.2022.988303.
+eCollection  2022.
+
+Identification of microsatellite instability and immune-related prognostic 
+biomarkers in colon adenocarcinoma.
+
+Sun Z(1), Li G(2), Shang D(3), Zhang J(1), Ai L(1), Liu M(1).
+
+Author information:
+(1)Colorectal Cancer Surgery Department, The Second Affiliated Hospital of 
+Harbin Medical University, Harbin, China.
+(2)Department of General Surgery, The Fourth Affiliated Hospital of Harbin 
+Medical University, Harbin, China.
+(3)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, China.
+
+BACKGROUND: Colon adenocarcinoma (COAD) is a prevalent malignancy that causes 
+significant mortality. Microsatellite instability plays a pivotal function in 
+COAD development and immunotherapy resistance. However, the detailed underlying 
+mechanism requires further investigation. Consequently, identifying molecular 
+biomarkers with prognostic significance and revealing the role of MSI in COAD is 
+important for addressing key obstacles in the available treatments.
+METHODS: CIBERSORT and ESTIMATE analyses were performed to evaluate immune 
+infiltration in COAD samples, followed by correlation analysis for MSI and 
+immune infiltration. Then, differentially expressed genes (DEGs) in MSI and 
+microsatellite stability (MSS) samples were identified and subjected to weighted 
+gene co-expression network analysis (WGCNA). A prognostic model was established 
+with univariate cox regression and LASSO analyses, then evaluated with 
+Kaplan-Meier analysis. The correlation between the prognostic model and immune 
+checkpoint inhibitor (ICI) response was also analyzed.
+RESULTS: In total, 701 significant DEGs related to MSI status were identified, 
+and WGCNA revealed two modules associated with the immune score. Then, a 
+seven-gene prognostic model was constructed using LASSO and univariate cox 
+regression analyses to predict survival and ICI response. The high-risk score 
+patients in TCGA and GEO cohorts presented a poor prognosis, as well as a high 
+immune checkpoint expression, so they are more likely to benefit from ICI 
+treatment.
+CONCLUSION: The seven-gene prognostic model constructed could predict the 
+survival of COAD and ICI response and serve as a reference for immunotherapy 
+decisions.
+
+Copyright © 2022 Sun, Li, Shang, Zhang, Ai and Liu.
+
+DOI: 10.3389/fimmu.2022.988303
+PMCID: PMC9585257
+PMID: 36275690 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

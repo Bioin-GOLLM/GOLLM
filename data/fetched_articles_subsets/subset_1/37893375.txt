@@ -1,0 +1,42 @@
+1. Micromachines (Basel). 2023 Oct 18;14(10):1938. doi: 10.3390/mi14101938.
+
+Model-Based Feedback Control for an Automated Micro Liquid Dispensing System 
+Based on Contacting Droplet Generation through Image Sensing.
+
+Qian Q(1)(2), Xu W(1)(2), Tian H(2), Cheng W(2)(3), Zhou L(1)(2), Wang J(1)(2).
+
+Author information:
+(1)School of Biomedical Engineering (Suzhou), Division of Life Sciences and 
+Medicine, University of Science and Technology of China, Hefei 230026, China.
+(2)CAS Key Laboratory of Biomedical Diagnostics, Suzhou Institute of Biomedical 
+Engineering and Technology, Chinese Academy of Sciences (CAS), Suzhou 215163, 
+China.
+(3)Tianjin Guoke Medical Engineering and Technology Development Co., Ltd., 
+Tianjin 300399, China.
+
+Over the past few decades, micro liquid dispensing technology has been widely 
+used in biology, chemistry, material and environmental sciences due to its 
+efficacy in processing multiple samples. For practical applications, precise and 
+effective droplet generation is very important. Despite numerous droplet 
+generation methods, the implementation of droplet-on-demand still faces 
+challenges concerning system complexity, precision, cost, and robustness. In 
+this work, a novel on-demand contacting droplet generation method incorporated 
+with model-based feedback control with an image processing unit as a sensor was 
+proposed. By studying droplet identification using image processing techniques, 
+the model of droplet formation was simplified. Then model-based feedback control 
+was implemented using volumes of dispensed samples as sensing signals by tuning 
+related parameters adaptively to resist disturbances. The proposed method was 
+integrated and applied to a homebuilt automated micro liquid dispensing system 
+with droplets ranging from 20 nanoliter to 200 nanoliter. The experimental 
+results demonstrated a high degree of accuracy and precision. Additionally, the 
+proposed system's practical utility was evaluated by analyzing mutations in 
+genes associated with sensorineural hearing loss, verifying its effectiveness.
+
+DOI: 10.3390/mi14101938
+PMCID: PMC10609237
+PMID: 37893375
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.

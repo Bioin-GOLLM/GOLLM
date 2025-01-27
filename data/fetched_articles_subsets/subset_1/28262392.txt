@@ -1,0 +1,36 @@
+1. Structure. 2017 Apr 4;25(4):592-602.e2. doi: 10.1016/j.str.2017.02.004. Epub 
+2017 Mar 2.
+
+Variability of Protein Structure Models from Electron Microscopy.
+
+Monroe L(1), Terashi G(2), Kihara D(3).
+
+Author information:
+(1)Department of Biological Sciences, Purdue University, West Lafayette, IN 
+47907, USA.
+(2)Department of Biological Sciences, Purdue University, West Lafayette, IN 
+47907, USA; School of Pharmacy, Kitasato University, Minato-ku, Tokyo 108-8641, 
+Japan.
+(3)Department of Biological Sciences, Purdue University, West Lafayette, IN 
+47907, USA; Department of Computer Science, Purdue University, West Lafayette, 
+IN 47907, USA. Electronic address: dkihara@purdue.edu.
+
+An increasing number of biomolecular structures are solved by electron 
+microscopy (EM). However, the quality of structure models determined from 
+EM maps vary substantially. To understand to what extent structure models are 
+supported by information embedded in EM maps, we used two computational 
+structure refinement methods to examine how much structures can be refined using 
+a dataset of 49 maps with accompanying structure models. The extent of structure 
+modification as well as the disagreement between refinement models produced by 
+the two computational methods scaled inversely with the global and the local map 
+resolutions. A general quantitative estimation of deviations of structures for 
+particular map resolutions are provided. Our results indicate that the observed 
+discrepancy between the deposited map and the refined models is due to the lack 
+of structural information present in EM maps and thus these annotations must be 
+used with caution for further applications.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.str.2017.02.004
+PMCID: PMC5382112
+PMID: 28262392 [Indexed for MEDLINE]

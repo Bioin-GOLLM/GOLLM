@@ -1,0 +1,52 @@
+1. Nat Commun. 2019 Apr 26;10(1):1937. doi: 10.1038/s41467-019-09987-0.
+
+High-resolution specificity profiling and off-target prediction for 
+site-specific DNA recombinases.
+
+Bessen JL(1)(2)(3), Afeyan LK(1)(2)(3), Dančík V(4), Koblan LW(1)(2)(3), 
+Thompson DB(2)(3), Leichner C(5), Clemons PA(4), Liu DR(6)(7)(8).
+
+Author information:
+(1)Merkin Institute of Transformative Technologies in Healthcare, Broad 
+Institute of Harvard and MIT, Cambridge, MA, 02142, USA.
+(2)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+MA, 02138, USA.
+(3)Howard Hughes Medical Institute, Harvard University, Cambridge, MA, 02138, 
+USA.
+(4)Chemical Biology and Therapeutics Science Program, Broad Institute of Harvard 
+and MIT, Cambridge, MA, 02142, USA.
+(5)Google Inc., Mountain View, CA, 94043, USA.
+(6)Merkin Institute of Transformative Technologies in Healthcare, Broad 
+Institute of Harvard and MIT, Cambridge, MA, 02142, USA. drliu@fas.harvard.edu.
+(7)Department of Chemistry and Chemical Biology, Harvard University, Cambridge, 
+MA, 02138, USA. drliu@fas.harvard.edu.
+(8)Howard Hughes Medical Institute, Harvard University, Cambridge, MA, 02138, 
+USA. drliu@fas.harvard.edu.
+
+Erratum in
+    Nat Commun. 2019 Jul 2;10(1):3003. doi: 10.1038/s41467-019-10892-9.
+
+The development of site-specific recombinases (SSRs) as genome editing agents is 
+limited by the difficulty of altering their native DNA specificities. Here we 
+describe Rec-seq, a method for revealing the DNA specificity determinants and 
+potential off-target substrates of SSRs in a comprehensive and unbiased manner. 
+We applied Rec-seq to characterize the DNA specificity determinants of several 
+natural and evolved SSRs including Cre, evolved variants of Cre, and other SSR 
+family members. Rec-seq profiling of these enzymes and mutants thereof revealed 
+previously uncharacterized SSR interactions, including specificity determinants 
+not evident from SSR:DNA structures. Finally, we used Rec-seq specificity 
+profiles to predict off-target substrates of Tre and Brec1 recombinases, 
+including endogenous human genomic sequences, and confirmed their ability to 
+recombine these off-target sequences in human cells. These findings establish 
+Rec-seq as a high-resolution method for rapidly characterizing the DNA 
+specificity of recombinases with single-nucleotide resolution, and for informing 
+their further development.
+
+DOI: 10.1038/s41467-019-09987-0
+PMCID: PMC6486577
+PMID: 31028261 [Indexed for MEDLINE]
+
+Conflict of interest statement: D.R.L. is a consultant and co-founder of Beam 
+Therapeutics, Editas, and Pairwise Plants, companies that use genome editing. 
+J.L.B., D.B.T., and D.R.L. have filed a patent application on the Rec-seq 
+profiling method. The remaining authors declare no competing interests.

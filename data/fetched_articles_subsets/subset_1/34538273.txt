@@ -1,0 +1,69 @@
+1. Clin Epigenetics. 2021 Sep 19;13(1):176. doi: 10.1186/s13148-021-01156-9.
+
+DNA 5-hydroxymethylcytosine in pediatric central nervous system tumors may 
+impact tumor classification and is a positive prognostic marker.
+
+Azizgolshani N(1)(2), Petersen CL(3)(4), Chen Y(4), Levy JJ(4), Salas LA(4), 
+Perreard L(4), Nguyen LN(5)(6), Christensen BC(7)(4).
+
+Author information:
+(1)Department of Molecular and Systems Biology, Geisel School of Medicine at 
+Dartmouth, Lebanon, NH, 03756, USA. nasimgolshn@gmail.com.
+(2)Department of Epidemiology, Geisel School of Medicine at Dartmouth, Lebanon, 
+NH, 03756, USA. nasimgolshn@gmail.com.
+(3)The Dartmouth Institute for Health Policy and Clinical Practice, Dartmouth 
+College, Lebanon, NH, 03756, USA.
+(4)Department of Epidemiology, Geisel School of Medicine at Dartmouth, Lebanon, 
+NH, 03756, USA.
+(5)Department of Pathology, Dartmouth-Hitchcock Medical Center, Lebanon, NH, 
+03756, USA.
+(6)Department of Laboratory Medicine and Pathobiology, University of Toronto, 
+Toronto, ON, Canada.
+(7)Department of Molecular and Systems Biology, Geisel School of Medicine at 
+Dartmouth, Lebanon, NH, 03756, USA.
+
+BACKGROUND: Nucleotide-specific 5-hydroxymethylcytosine (5hmC) remains 
+understudied in pediatric central nervous system (CNS) tumors. 5hmC is abundant 
+in the brain, and alterations to 5hmC in adult CNS tumors have been reported. 
+However, traditional approaches to measure DNA methylation do not distinguish 
+between 5-methylcytosine (5mC) and its oxidized counterpart 5hmC, including 
+those used to build CNS tumor DNA methylation classification systems. We 
+measured 5hmC and 5mC epigenome-wide at nucleotide resolution in glioma, 
+ependymoma, and embryonal tumors from children, as well as control pediatric 
+brain tissues using tandem bisulfite and oxidative bisulfite treatments followed 
+by hybridization to the Illumina Methylation EPIC Array that interrogates over 
+860,000 CpG loci.
+RESULTS: Linear mixed effects models adjusted for age and sex tested the 
+CpG-specific differences in 5hmC between tumor and non-tumor samples, as well as 
+between tumor subtypes. Results from model-based clustering of tumors was used 
+to test the relation of cluster membership with patient survival through 
+multivariable Cox proportional hazards regression. We also assessed the 
+robustness of multiple epigenetic CNS tumor classification methods to 
+5mC-specific data in both pediatric and adult CNS tumors. Compared to non-tumor 
+samples, tumors were hypohydroxymethylated across the epigenome and tumor 5hmC 
+localized to regulatory elements crucial to cell identity, including 
+transcription factor binding sites and super-enhancers. Differentially 
+hydroxymethylated loci among tumor subtypes tended to be hypermethylated and 
+disproportionally found in CTCF binding sites and genes related to 
+posttranscriptional RNA regulation, such as DICER1. Model-based clustering 
+results indicated that patients with low 5hmC patterns have poorer overall 
+survival and increased risk of recurrence. Our results suggest 5mC-specific data 
+from OxBS-treated samples impacts methylation-based tumor classification systems 
+giving new opportunities for further refinement of classifiers for both 
+pediatric and adult tumors.
+CONCLUSIONS: We identified that 5hmC localizes to super-enhancers, and genes 
+commonly implicated in pediatric CNS tumors were differentially 
+hypohydroxymethylated. We demonstrated that distinguishing methylation and 
+hydroxymethylation is critical in identifying tumor-related epigenetic changes. 
+These results have implications for patient prognostication, considerations of 
+epigenetic therapy in CNS tumors, and for emerging molecular neuropathology 
+classification approaches.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13148-021-01156-9
+PMCID: PMC8451154
+PMID: 34538273 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

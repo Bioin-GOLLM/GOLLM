@@ -1,0 +1,43 @@
+1. J Chem Theory Comput. 2013;9(9):4046-4063. doi: 10.1021/ct4003702.
+
+The Polarizable Atomic Multipole-based AMOEBA Force Field for Proteins.
+
+Shi Y(1), Xia Z, Zhang J, Best R, Wu C, Ponder JW, Ren P.
+
+Author information:
+(1)Department of Biomedical Engineering, The University of Texas at Austin, 
+Austin, TX 78712.
+
+Development of the AMOEBA (Atomic Multipole Optimized Energetics for 
+Biomolecular Simulation) force field for proteins is presented. The current 
+version (AMOEBA-2013) utilizes permanent electrostatic multipole moments through 
+the quadrupole at each atom, and explicitly treats polarization effects in 
+various chemical and physical environments. The atomic multipole electrostatic 
+parameters for each amino acid residue type are derived from high-level gas 
+phase quantum mechanical calculations via a consistent and extensible protocol. 
+Molecular polarizability is modeled via a Thole-style damped interactive 
+induction model based upon distributed atomic polarizabilities. Inter- and 
+intramolecular polarization is treated in a consistent fashion via the Thole 
+model. The intramolecular polarization model ensures transferability of 
+electrostatic parameters among different conformations, as demonstrated by the 
+agreement between QM and AMOEBA electrostatic potentials, and dipole moments of 
+dipeptides. The backbone and side chain torsional parameters were determined by 
+comparing to gas-phase QM (RI-TRIM MP2/CBS) conformational energies of 
+dipeptides and to statistical distributions from the Protein Data Bank. 
+Molecular dynamics simulations are reported for short peptides in explicit water 
+to examine their conformational properties in solution. Overall the calculated 
+conformational free energies and J-coupling constants are consistent with PDB 
+statistics and experimental NMR results, respectively. In addition, the 
+experimental crystal structures of a number of proteins are well maintained 
+during molecular dynamics (MD) simulation. While further calculations are 
+necessary to fully validate the force field, initial results suggest the AMOEBA 
+polarizable multipole force field is able to describe the structure and 
+energetics of peptides and proteins, in both gas-phase and solution 
+environments.
+
+DOI: 10.1021/ct4003702
+PMCID: PMC3806652
+PMID: 24163642
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

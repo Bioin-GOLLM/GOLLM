@@ -1,0 +1,26 @@
+1. Genome Med. 2013 Sep 13;5(9):82. doi: 10.1186/gm486. eCollection 2013.
+
+BAIT: Organizing genomes and mapping rearrangements in single cells.
+
+Hills M(1), O'Neill K(1), Falconer E(1), Brinkman R(1), Lansdorp PM(2).
+
+Author information:
+(1)Terry Fox Laboratory, BC Cancer Agency, Vancouver, BC V5Z 1L3, Canada.
+(2)Terry Fox Laboratory, BC Cancer Agency, Vancouver, BC V5Z 1L3, Canada ; 
+Division of Hematology, Department of Medicine, University of British Columbia, 
+675 West 10th Avenue, Vancouver, BC V5Z 1L3, Canada ; European Research 
+Institute for the Biology of Ageing, University of Groningen, University Medical 
+Centre Groningen, A. Deusinglaan 1, NL-9713 AV Groningen, The Netherlands.
+
+Strand-seq is a single-cell sequencing technique to finely map sister chromatid 
+exchanges (SCEs) and other rearrangements. To analyze these data, we introduce 
+BAIT, software which assigns templates and identifies and localizes SCEs. We 
+demonstrate BAIT can refine completed reference assemblies, identifying 
+approximately 21 Mb of incorrectly oriented fragments and placing over half (2.6 
+Mb) of the orphan fragments in mm10/GRCm38. BAIT also stratifies scaffold-stage 
+assemblies, potentially accelerating the assembling and finishing of reference 
+genomes. BAIT is available at http://sourceforge.net/projects/bait/.
+
+DOI: 10.1186/gm486
+PMCID: PMC3971352
+PMID: 24028793

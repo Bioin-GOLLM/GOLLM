@@ -1,0 +1,56 @@
+1. Microorganisms. 2023 Jun 4;11(6):1495. doi: 10.3390/microorganisms11061495.
+
+Pangenome Reconstruction of Mycobacterium tuberculosis as a Guide to Reveal 
+Genomic Features Associated with Strain Clinical Phenotype.
+
+Negrete-Paz AM(1)(2), Vázquez-Marrufo G(2), Gutiérrez-Moraga A(3), 
+Vázquez-Garcidueñas MS(1).
+
+Author information:
+(1)División de Estudios de Posgrado, Facultad de Ciencias Médicas y Biológicas 
+"Dr. Ignacio Chávez", Universidad Michoacana de San Nicolás de Hidalgo, Morelia 
+58020, Michoacán, Mexico.
+(2)Centro Multidisciplinario de Estudios en Biotecnología, Facultad de Medicina 
+Veterinaria y Zootecnia, Universidad Michoacana de San Nicolás de Hidalgo, 
+Tarímbaro 58893, Michoacán, Mexico.
+(3)Instituto de Ciencias Biomédicas, Vicerrectoría de Investigación y 
+Doctorados, Universidad Autónoma de Chile, Santiago 7500912, Chile.
+
+Tuberculosis (TB) is one of the leading causes of human deaths worldwide caused 
+by infectious diseases. TB infection by Mycobacterium tuberculosis can occur in 
+the lungs, causing pulmonary tuberculosis (PTB), or in any other organ of the 
+body, resulting in extrapulmonary tuberculosis (EPTB). There is no consensus on 
+the genetic determinants of this pathogen that may contribute to EPTB. In this 
+study, we constructed the M. tuberculosis pangenome and used it as a tool to 
+seek genomic signatures associated with the clinical presentation of TB based on 
+its accessory genome differences. The analysis carried out in the present study 
+includes the raw reads of 490 M. tuberculosis genomes (PTB n = 245, EPTB n = 
+245) retrieved from public databases that were assembled, as well as ten genomes 
+from Mexican strains (PTB n = 5, EPTB n = 5) that were sequenced and assembled. 
+All genomes were annotated and then used to construct the pangenome with Roary 
+and Panaroo. The pangenome obtained using Roary consisted of 2231 core genes and 
+3729 accessory genes. On the other hand, the pangenome resulting from Panaroo 
+consisted of 2130 core genes and 5598 accessory genes. Associations between the 
+distribution of accessory genes and the PTB/EPTB phenotypes were examined using 
+the Scoary and Pyseer tools. Both tools found a significant association between 
+the hspR, plcD, Rv2550c, pe_pgrs5, pe_pgrs25, and pe_pgrs57 genes and the PTB 
+genotype. In contrast, the deletion of the aceA, esxR, plcA, and ppe50 genes was 
+significantly associated with the EPTB phenotype. Rv1759c and Rv3740 were found 
+to be associated with the PTB phenotype according to Scoary; however, these 
+associations were not observed when using Pyseer. The robustness of the 
+constructed pangenome and the gene-phenotype associations is supported by 
+several factors, including the analysis of a large number of genomes, the 
+inclusion of the same number of PTB/EPTB genomes, and the reproducibility of 
+results thanks to the different bioinformatic tools used. Such characteristics 
+surpass most of previous M. tuberculosis pangenomes. Thus, it can be inferred 
+that the deletion of these genes can lead to changes in the processes involved 
+in stress response and fatty acid metabolism, conferring phenotypic advantages 
+associated with pulmonary or extrapulmonary presentation of TB. This study 
+represents the first attempt to use the pangenome to seek gene-phenotype 
+associations in M. tuberculosis.
+
+DOI: 10.3390/microorganisms11061495
+PMCID: PMC10300688
+PMID: 37374997
+
+Conflict of interest statement: The authors declare no conflict of interest.

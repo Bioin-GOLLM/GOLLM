@@ -1,0 +1,66 @@
+1. Geo Spat Inf Sci. 2012;15(2):117-133. doi: 10.1080/10095020.2012.714663. Epub 
+2012 Sep 24.
+
+Quasi-Likelihood Techniques in a Logistic Regression Equation for Identifying 
+Simulium damnosum s.l. Larval Habitats Intra-cluster Covariates in Togo.
+
+Jacob BG(1), Novak RJ, Toe L, Sanfo MS, Afriyie AN, Ibrahim MA, Griffith DA, 
+Unnasch TR.
+
+Author information:
+(1)Global Infectious Disease Research Program, Department of Public Health, 
+College of Public Health, University of South Florida, 3720 Spectrum Blvd, Suite 
+304, Tampa, Florida 33612, USA.
+
+The standard methods for regression analyses of clustered riverine larval 
+habitat data of Simulium damnosum s.l. a major black-fly vector of 
+Onchoceriasis, postulate models relating observational ecological-sampled 
+parameter estimators to prolific habitats without accounting for residual 
+intra-cluster error correlation effects. Generally, this correlation comes from 
+two sources: (1) the design of the random effects and their assumed covariance 
+from the multiple levels within the regression model; and, (2) the correlation 
+structure of the residuals. Unfortunately, inconspicuous errors in residual 
+intra-cluster correlation estimates can overstate precision in forecasted 
+S.damnosum s.l. riverine larval habitat explanatory attributes regardless how 
+they are treated (e.g., independent, autoregressive, Toeplitz, etc). In this 
+research, the geographical locations for multiple riverine-based S. damnosum 
+s.l. larval ecosystem habitats sampled from 2 pre-established epidemiological 
+sites in Togo were identified and recorded from July 2009 to June 2010. 
+Initially the data was aggregated into proc genmod. An agglomerative 
+hierarchical residual cluster-based analysis was then performed. The sampled 
+clustered study site data was then analyzed for statistical correlations using 
+Monthly Biting Rates (MBR). Euclidean distance measurements and terrain-related 
+geomorphological statistics were then generated in ArcGIS. A digital overlay was 
+then performed also in ArcGIS using the georeferenced ground coordinates of high 
+and low density clusters stratified by Annual Biting Rates (ABR). This data was 
+overlain onto multitemporal sub-meter pixel resolution satellite data (i.e., 
+QuickBird 0.61m wavbands ). Orthogonal spatial filter eigenvectors were then 
+generated in SAS/GIS. Univariate and non-linear regression-based models (i.e., 
+Logistic, Poisson and Negative Binomial) were also employed to determine 
+probability distributions and to identify statistically significant parameter 
+estimators from the sampled data. Thereafter, Durbin-Watson test statistics were 
+used to test the null hypothesis that the regression residuals were not 
+autocorrelated against the alternative that the residuals followed an 
+autoregressive process in AUTOREG. Bayesian uncertainty matrices were also 
+constructed employing normal priors for each of the sampled estimators in PROC 
+MCMC. The residuals revealed both spatially structured and unstructured error 
+effects in the high and low ABR-stratified clusters. The analyses also revealed 
+that the estimators, levels of turbidity and presence of rocks were 
+statistically significant for the high-ABR-stratified clusters, while the 
+estimators distance between habitats and floating vegetation were important for 
+the low-ABR-stratified cluster. Varying and constant coefficient regression 
+models, ABR- stratified GIS-generated clusters, sub-meter resolution satellite 
+imagery, a robust residual intra-cluster diagnostic test, MBR-based histograms, 
+eigendecomposition spatial filter algorithms and Bayesian matrices can enable 
+accurate autoregressive estimation of latent uncertainity affects and other 
+residual error probabilities (i.e., heteroskedasticity) for testing correlations 
+between georeferenced S. damnosum s.l. riverine larval habitat estimators. The 
+asymptotic distribution of the resulting residual adjusted intra-cluster 
+predictor error autocovariate coefficients can thereafter be established while 
+estimates of the asymptotic variance can lead to the construction of approximate 
+confidence intervals for accurately targeting productive S. damnosum s.l 
+habitats based on spatiotemporal field-sampled count data.
+
+DOI: 10.1080/10095020.2012.714663
+PMCID: PMC3595116
+PMID: 23504576

@@ -1,0 +1,51 @@
+1. J Chem Theory Comput. 2017 Aug 8;13(8):3881-3897. doi:
+10.1021/acs.jctc.7b00071.  Epub 2017 Jul 11.
+
+A New Mixed All-Atom/Coarse-Grained Model: Application to Melittin Aggregation 
+in Aqueous Solution.
+
+Shelley MY(1), Selvan ME(2), Zhao J(3), Babin V(1), Liao C(4), Li J(4), Shelley 
+JC(1).
+
+Author information:
+(1)Schrödinger, Inc. , 101 SW Main Street, Suite 1300, Portland, Oregon 97204, 
+United States.
+(2)Schrödinger, Inc. , 120 W. 45th Street, 17th Floor, New York, New York 10036, 
+United States.
+(3)Cancer and Inflammation Program, National Cancer Institute , Frederick, 
+Maryland 21702, United States.
+(4)Department of Chemistry, University of Vermont , Burlington, Vermont 05405, 
+United States.
+
+We introduce a new mixed resolution, all-atom/coarse-grained approach (AACG), 
+for modeling peptides in aqueous solution and apply it to characterizing the 
+aggregation of melittin. All of the atoms in peptidic components are 
+represented, while a single site is used for each water molecule. With the full 
+flexibility of the peptide retained, our AACG method achieves speedups by a 
+factor of 3-4 for CPU time reduction and another factor of roughly 7 for 
+diffusion. An Ewald treatment permits the inclusion of long-range electrostatic 
+interactions. These characteristics fit well with the requirements for studying 
+peptide association and aggregation, where the system sizes and time scales 
+require considerable computational resources with all-atom models. In 
+particular, AACG is well suited for biologics since changes in peptide shape and 
+long-range electrostatics may play an important role. The application of AACG to 
+melittin, a 26-residue peptide with a well-known propensity to aggregate in 
+solution, serves as an initial demonstration of this technology for studying 
+peptide aggregation. We observed the formation of melittin aggregates during our 
+simulations and characterized the time-evolution of aggregate size distribution, 
+buried surface areas, and residue contacts. Key interactions including π-cation 
+and π-stacking involving TRP19 were also examined. Our AACG simulations 
+demonstrated a clear salt effect and a moderate temperature effect on 
+aggregation and support the molten globule model of melittin aggregates. As a 
+showcase, this work illustrates the useful role for AACG in investigations of 
+peptide aggregation and its potential to guide formulation and design of 
+biologics.
+
+DOI: 10.1021/acs.jctc.7b00071
+PMCID: PMC5551643
+PMID: 28636825 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following competing 
+financial interest(s): Desmond is a product sold to commercial entities by 
+Schrödinger, LLC. Mee Shelley, Myvizhi Esai Selvan, Volodymyr Babin, and John 
+Shelley performed this research as Schrödinger Employees.

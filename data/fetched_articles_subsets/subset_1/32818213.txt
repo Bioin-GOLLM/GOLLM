@@ -1,0 +1,39 @@
+1. Res Sq [Preprint]. 2020 Aug 11:rs.3.rs-49671. doi: 10.21203/rs.3.rs-49671/v1.
+
+Characterizing SARS-CoV-2 mutations in the United States.
+
+Wang R(1), Chen J(1), Gao K(1), Hozumi Y(1), Yin C(2), Wei GW(1)(3)(4).
+
+Author information:
+(1)Department of Mathematics, Michigan State University, MI 48824, USA.
+(2)Department of Mathematics, Statistics, and Computer Science, University of 
+Illinois at Chicago, Chicago, IL 60607, USA.
+(3)Department of Electrical and Computer Engineering, Michigan State University, 
+MI 48824, USA.
+(4)Department of Biochemistry and Molecular Biology, Michigan State University, 
+MI 48824, USA.
+
+Update in
+    Commun Biol. 2021 Feb 15;4(1):228. doi: 10.1038/s42003-021-01754-6.
+
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been 
+mutating since it was first sequenced in early January 2020. The genetic 
+variants have developed into a few distinct clusters with different properties. 
+Since the United States (US) has the highest number of viral infected patients 
+globally, it is essential to understand the US SARS-CoV-2. Using genotyping, 
+sequence-alignment, time-evolution, k-means clustering, protein-folding 
+stability, algebraic topology, and network theory, we reveal that the US 
+SARS-CoV-2 has four substrains and five top US SARS-CoV-2 mutations were first 
+detected in China (2 cases), Singapore (2 cases), and the United Kingdom (1 
+case). The next three top US SARS-CoV-2 mutations were first detected in the US. 
+These eight top mutations belong to two disconnected groups. The first group 
+consisting of 5 concurrent mutations is prevailing, while the other group with 
+three concurrent mutations gradually fades out. We identify that one of the top 
+mutations, 27964C>T-(S24L) on ORF8, has an unusually strong gender dependence. 
+Based on the analysis of all mutations on the spike protein, we further uncover 
+that three of four US SASR-CoV-2 substrains become more infectious. Our study 
+calls for effective viral control and containing strategies in the US.
+
+DOI: 10.21203/rs.3.rs-49671/v1
+PMCID: PMC7430589
+PMID: 32818213

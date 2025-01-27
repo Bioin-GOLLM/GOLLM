@@ -1,0 +1,63 @@
+1. ESMO Open. 2022 Feb;7(1):100396. doi: 10.1016/j.esmoop.2022.100396. Epub 2022 
+Feb 12.
+
+Association of differential expression of immunoregulatory molecules and 
+presence of targetable mutations may inform rational design of clinical trials.
+
+Szeto CW(1), Kurzrock R(2), Kato S(3), Goloubev A(4), Veerapaneni S(1), Preble 
+A(1), Reddy SK(1), Adashek JJ(5).
+
+Author information:
+(1)NantHealth Inc, Santa Cruz, USA.
+(2)WIN Consortium for Precision Medicine, San Diego. Electronic address: 
+teoam2011@gmail.com.
+(3)Center for Personalized Cancer Therapy and Division of Hematology and 
+Oncology, Department of Medicine, University of California San Diego Moores 
+Cancer Center, La Jolla, USA.
+(4)Morsani College of Medicine, University of South Florida, Tampa, USA.
+(5)Department of Internal Medicine, University of South Florida, Tampa, USA. 
+Electronic address: jadashek@westernu.edu.
+
+BACKGROUND: Immune checkpoint inhibitors (ICIs) and genomic biomarker-driven 
+targeted therapies have revolutionized the modern oncologic treatment arsenal. 
+The next step has been to combine targeted agents and ICIs. In doing so, some 
+combination regimens may be more logical than others.
+PATIENTS AND METHODS: Whole-exome and whole-transcriptome sequencing were 
+performed on 2739 unselected later-stage clinical cases from 24 solid tumor 
+subtypes in the NantHealth database, and data were also curated from 5746 
+similarly sequenced patients across 28 solid tumor subtypes in The Cancer Genome 
+Atlas (TCGA). Significant differential expression of 10 immunoregulatory 
+molecules [IRMs (genes)] was analyzed for association with mutant versus 
+wild-type genes.
+RESULTS: Twenty-three significant associations between currently actionable 
+variants and RNA-expressed checkpoint genes were identified in the TCGA cases; 
+10 were validated in the external cohort of 2739 clinical cases from NantHealth 
+(P values were adjusted using Benjamini-Hochberg multiple hypothesis correction 
+to reduce false-discovery rate). Within the same 5746 TCGA profiles, 2740 TCGA 
+patients were identified as having one or more potentially oncogenic 
+single-nucleotide variant (SNV) mutation within an established 50-gene hotspot 
+panel. Of the 50 genes, SNVs within 15 were found to be significantly associated 
+with differential expression of at least one IRM after adjusting for tissue 
+enrichment; six were confirmed significant associations in an independent set of 
+2739 clinical cases from NantHealth.
+CONCLUSIONS: Logically combining ICIs with targeted therapies may offer unique 
+treatment strategies for patients with cancer. The presence of specific 
+mutations impacts the expression of IRMs, an observation of potential importance 
+for selecting combinations of gene- and immune-targeted therapeutics.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.esmoop.2022.100396
+PMCID: PMC8850727
+PMID: 35158206 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure JJA and AG have no disclosures. CWS, 
+SV, AP, and SKR are employees of NantHealth. SK consults for Foundation 
+Medicine; reports speaker’s fee from Roche, and research grant from ACT 
+Genomics, Sysmex, Konica Minolta, and OmniSeq. RK has research funding from 
+Incyte, Genentech, Merck Serono, Pfizer, Sequenom, Foundation Medicine, Guardant 
+Health, Grifols, Boehringer Ingelheim, and Konica Minolta, as well as receiving 
+consultant and/or speaker fees from LOXO, X-Biotech, Actuate Therapeutics, 
+Genentech, Pfizer, Roche, and NeoMed. RK has an equity interest in IDbyDNA and 
+CureMatch, Inc and is a board member of CureMatch and CureMetrix and a 
+co-founder of CureMatch.

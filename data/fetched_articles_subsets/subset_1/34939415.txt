@@ -1,0 +1,43 @@
+1. Anal Chem. 2022 Feb 1;94(4):2180-2188. doi: 10.1021/acs.analchem.1c04700. Epub
+ 2021 Dec 23.
+
+A Miniature Multilevel Structures for Lossless Ion Manipulations Ion Mobility 
+Spectrometer with Wide Mobility Range Separation Capabilities.
+
+Hollerbach AL(1), Norheim RV(1), Kwantwi-Barima P(1), Smith RD(1), Ibrahim 
+YM(1).
+
+Author information:
+(1)Biological Sciences Division, Pacific Northwest National Laboratory, P.O. Box 
+999, Richland, Washington 99354, United States.
+
+Ion mobility spectrometry employing structures for lossless ion manipulations 
+(SLIM-IMS) is an attractive gas-phase separation technique due to its ability to 
+achieve unprecedented effective ion path lengths (>1 km) and IMS resolving 
+powers in a small footprint. The emergence of multilevel SLIM technology, where 
+ions are transferred between vertically stacked SLIM electrode surfaces, has 
+subsequently allowed for ultralong single-pass path lengths (>40 m) to be 
+achieved, enabling ultrahigh resolution IMS measurements to be performed over 
+the entire mobility range in a single experiment. Here, we report on the 
+development of a 1 m path length miniature SLIM module (miniSLIM) based on 
+multilevel SLIM technology. Ion trajectory simulations were used to optimize 
+SLIM board spacings and SLIM board thicknesses, and a new method of efficiently 
+transferring ions between SLIM levels using asymmetric traveling waves (TWs) was 
+demonstrated. We experimentally characterized the performance of the miniSLIM 
+IMS-MS relative to a drift tube IMS-MS using Agilent tuning mixture cations and 
+tetraalkylammonium cations. The miniSLIM achieved a resolving power of up to 131 
+(CCS/ΔCCS), which is ∼1.5× higher than achievable with a 78 cm path length drift 
+tube IMS. Additionally, the entire ion mobility range was successfully 
+transmitted in a single separation. We also demonstrated the miniSLIM's 
+performance as a standalone IMS system (i.e., without MS), which showed baseline 
+separation between all AgTM cations and a clear differentiation between 
+different charge states of a standard peptide mixture. Overall, the miniSLIM 
+provides a compact alternative to high performance IMS instruments possessing 
+similar path lengths.
+
+DOI: 10.1021/acs.analchem.1c04700
+PMCID: PMC9048586
+PMID: 34939415 [Indexed for MEDLINE]
+
+Conflict of interest statement: Notes The authors declare no competing financial 
+interest.

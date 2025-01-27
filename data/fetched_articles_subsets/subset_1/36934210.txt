@@ -1,0 +1,65 @@
+1. Commun Biol. 2023 Mar 18;6(1):291. doi: 10.1038/s42003-023-04674-9.
+
+A dynamic clamping approach using in silico IK1 current for discrimination of 
+chamber-specific hiPSC-derived cardiomyocytes.
+
+Altomare C(1)(2)(3), Bartolucci C(4), Sala L(5)(6), Balbi C(2)(7)(8), Burrello 
+J(1)(9), Pietrogiovanna N(1), Burrello A(10), Bolis S(1)(2)(7), Panella S(1)(2), 
+Arici M(6), Krause R(3), Rocchetti M(6), Severi S(11), Barile 
+L(12)(13)(14)(15)(16).
+
+Author information:
+(1)Cardiovascular Theranostics, Istituto Cardiocentro Ticino, Ente Ospedaliero 
+Cantonale, Lugano, Switzerland.
+(2)Laboratories for Translational Research, Ente Ospedaliero Cantonale, 
+Bellinzona, Switzerland.
+(3)Euler institute, Università Svizzera italiana, Lugano, Switzerland.
+(4)Department of Electrical, Electronic and Information Engineering 'Guglielmo 
+Marconi', University of Bologna, Cesena, Italy.
+(5)Istituto Auxologico Italiano IRCCS, Center for Cardiac Arrhythmias of Genetic 
+Origin and Laboratory of Cardiovascular Genetics, Milan, Italy.
+(6)Department of Biotechnology and Biosciences, University of Milano-Bicocca, 
+Milano, Italy.
+(7)Cellular and Molecular Cardiology, Istituto Cardiocentro Ticino, Ente 
+Ospedaliero Cantonale, Lugano, Switzerland.
+(8)Center for Molecular Cardiology, University of Zurich, Zurich, Switzerland.
+(9)Division of Internal Medicine 4 and Hypertension Unit, Department of Medical 
+Sciences, University of Torino, Torino, Italy.
+(10)Department of Electrical, Electronic and Information Engineering (DEI), 
+University of Bologna, Bologna, Italy.
+(11)Department of Electrical, Electronic and Information Engineering 'Guglielmo 
+Marconi', University of Bologna, Cesena, Italy. stefano.severi@unibo.it.
+(12)Cardiovascular Theranostics, Istituto Cardiocentro Ticino, Ente Ospedaliero 
+Cantonale, Lugano, Switzerland. lucio.barile@eoc.ch.
+(13)Laboratories for Translational Research, Ente Ospedaliero Cantonale, 
+Bellinzona, Switzerland. lucio.barile@eoc.ch.
+(14)Euler institute, Università Svizzera italiana, Lugano, Switzerland. 
+lucio.barile@eoc.ch.
+(15)Faculty of Biomedical Sciences, Università Svizzera italiana, Lugano, 
+Switzerland. lucio.barile@eoc.ch.
+(16)Institute of Life Science, Scuola Superiore Sant'Anna, Pisa, Italy. 
+lucio.barile@eoc.ch.
+
+Human induced pluripotent stem cell (hiPSC)-derived cardiomyocytes (CM) 
+constitute a mixed population of ventricular-, atrial-, nodal-like cells, 
+limiting the reliability for studying chamber-specific disease mechanisms. 
+Previous studies characterised CM phenotype based on action potential (AP) 
+morphology, but the classification criteria were still undefined. Our aim was to 
+use in silico models to develop an automated approach for discriminating the 
+electrophysiological differences between hiPSC-CM. We propose the dynamic clamp 
+(DC) technique with the injection of a specific IK1 current as a tool for 
+deriving nine electrical biomarkers and blindly classifying differentiated CM. 
+An unsupervised learning algorithm was applied to discriminate CM phenotypes and 
+principal component analysis was used to visualise cell clustering. 
+Pharmacological validation was performed by specific ion channel blocker and 
+receptor agonist. The proposed approach improves the translational relevance of 
+the hiPSC-CM model for studying mechanisms underlying inherited or acquired 
+atrial arrhythmias in human CM, and for screening anti-arrhythmic agents.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s42003-023-04674-9
+PMCID: PMC10024709
+PMID: 36934210 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

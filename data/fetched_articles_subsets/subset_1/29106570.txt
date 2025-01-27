@@ -1,0 +1,32 @@
+1. Nucleic Acids Res. 2018 Jan 4;46(D1):D762-D769. doi: 10.1093/nar/gkx1020.
+
+The UCSC Genome Browser database: 2018 update.
+
+Casper J(1), Zweig AS(1), Villarreal C(1), Tyner C(1), Speir ML(1), Rosenbloom 
+KR(1), Raney BJ(1), Lee CM(1), Lee BT(1), Karolchik D(1), Hinrichs AS(1), 
+Haeussler M(1), Guruvadoo L(1), Navarro Gonzalez J(1), Gibson D(1), Fiddes 
+IT(1), Eisenhart C(1), Diekhans M(1), Clawson H(1), Barber GP(1), Armstrong 
+J(1), Haussler D(1)(2), Kuhn RM(1), Kent WJ(1).
+
+Author information:
+(1)Genomics Institute, University of California Santa Cruz, Santa Cruz, CA 
+95064, USA.
+(2)Howard Hughes Medical Institute, University of California Santa Cruz, Santa 
+Cruz, CA 95064, USA.
+
+The UCSC Genome Browser (https://genome.ucsc.edu) provides a web interface for 
+exploring annotated genome assemblies. The assemblies and annotation tracks are 
+updated on an ongoing basis-12 assemblies and more than 28 tracks were added in 
+the past year. Two recent additions are a display of CRISPR/Cas9 guide sequences 
+and an interactive navigator for gene interactions. Other upgrades from the past 
+year include a command-line version of the Variant Annotation Integrator, 
+support for Human Genome Variation Society variant nomenclature input and 
+output, and a revised highlighting tool that now supports multiple simultaneous 
+regions and colors.
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkx1020
+PMCID: PMC5753355
+PMID: 29106570 [Indexed for MEDLINE]

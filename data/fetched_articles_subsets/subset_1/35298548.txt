@@ -1,0 +1,49 @@
+1. PLoS One. 2022 Mar 17;17(3):e0265622. doi: 10.1371/journal.pone.0265622. 
+eCollection 2022.
+
+Genotyping of familial Mediterranean fever gene (MEFV)-Single nucleotide 
+polymorphism-Comparison of Nanopore with conventional Sanger sequencing.
+
+Schmidt J(1)(2)(3), Berghaus S(1), Blessing F(1)(2), Herbeck H(1), Blessing 
+J(1), Schierack P(3)(4), Rödiger S(3)(4), Roggenbuck D(3)(4), Wenzel F(2).
+
+Author information:
+(1)Institute for Laboratory Medicine, Singen, Germany.
+(2)Faculty of Medical and Life Sciences, Furtwangen University, 
+Villingen-Schwenningen, Germany.
+(3)Faculty Environment and Natural Sciences, Institute of Biotechnology, 
+Brandenburg University of Technology Cottbus-Senftenberg, Senftenberg, Germany.
+(4)Faculty of Health Sciences Brandenburg, Brandenburg University of Technology 
+Cottbus-Senftenberg, Senftenberg, Germany.
+
+BACKGROUND: Through continuous innovation and improvement, Nanopore sequencing 
+has become a powerful technology. Because of its fast processing time, low cost, 
+and ability to generate long reads, this sequencing technique would be 
+particularly suitable for clinical diagnostics. However, its raw data accuracy 
+is inferior in contrast to other sequencing technologies. This constraint still 
+results in limited use of Nanopore sequencing in the field of clinical 
+diagnostics and requires further validation and IVD certification.
+METHODS: We evaluated the performance of latest Nanopore sequencing in 
+combination with a dedicated data-analysis pipeline for single nucleotide 
+polymorphism (SNP) genotyping of the familial Mediterranean fever gene (MEFV) by 
+amplicon sequencing of 47 clinical samples. Mutations in MEFV are associated 
+with Mediterranean fever, a hereditary periodic fever syndrome. Conventional 
+Sanger sequencing, which is commonly applied in clinical genetic diagnostics, 
+was used as a reference method.
+RESULTS: Nanopore sequencing enabled the sequencing of 10 target regions within 
+MEFV with high read depth (median read depth 7565x) in all samples and 
+identified a total of 435 SNPs in the whole sample collective, of which 29 were 
+unique. Comparison of both sequencing workflows showed a near perfect agreement 
+with no false negative calls. Precision, Recall, and F1-Score of the Nanopore 
+sequencing workflow were > 0.99, respectively.
+CONCLUSIONS: These results demonstrated the great potential of current Nanopore 
+sequencing for application in clinical diagnostics, at least for SNP genotyping 
+by amplicon sequencing. Other more complex applications, especially structural 
+variant identification, require further in-depth clinical validation.
+
+DOI: 10.1371/journal.pone.0265622
+PMCID: PMC8929590
+PMID: 35298548 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

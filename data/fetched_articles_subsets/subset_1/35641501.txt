@@ -1,0 +1,41 @@
+1. Nat Commun. 2022 May 31;13(1):3026. doi: 10.1038/s41467-022-30780-z.
+
+Modular (de)construction of complex bacterial phenotypes by 
+CRISPR/nCas9-assisted, multiplex cytidine base-editing.
+
+Volke DC(#)(1), Martino RA(#)(2)(3), Kozaeva E(1), Smania AM(2)(3), Nikel PI(4).
+
+Author information:
+(1)The Novo Nordisk Foundation Center for Biosustainability, Technical 
+University of Denmark, Kongens Lyngby, Denmark.
+(2)Departamento de Química Biológica Ranwel Caputto, Facultad de Ciencias 
+Químicas, Universidad Nacional de Córdoba, Córdoba, Argentina.
+(3)Centro de Investigaciones en Química Biológica de Córdoba (CIQUIBIC), 
+CONICET, Universidad Nacional de Córdoba, Córdoba, Argentina.
+(4)The Novo Nordisk Foundation Center for Biosustainability, Technical 
+University of Denmark, Kongens Lyngby, Denmark. pabnik@biosustain.dtu.dk.
+(#)Contributed equally
+
+CRISPR/Cas technologies constitute a powerful tool for genome engineering, yet 
+their use in non-traditional bacteria depends on host factors or exogenous 
+recombinases, which limits both efficiency and throughput. Here we mitigate 
+these practical constraints by developing a widely-applicable genome engineering 
+toolset for Gram-negative bacteria. The challenge is addressed by tailoring a 
+CRISPR base editor that enables single-nucleotide resolution manipulations 
+(C·G → T·A) with >90% efficiency. Furthermore, incorporating Cas6-mediated 
+processing of guide RNAs in a streamlined protocol for plasmid assembly supports 
+multiplex base editing with >85% efficiency. The toolset is adopted to construct 
+and deconstruct complex phenotypes in the soil bacterium Pseudomonas putida. 
+Single-step engineering of an aromatic-compound production phenotype and 
+multi-step deconstruction of the intricate redox metabolism illustrate the 
+versatility of multiplex base editing afforded by our toolbox. Hence, this 
+approach overcomes typical limitations of previous technologies and empowers 
+engineering programs in Gram-negative bacteria that were out of reach thus far.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-30780-z
+PMCID: PMC9156665
+PMID: 35641501 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

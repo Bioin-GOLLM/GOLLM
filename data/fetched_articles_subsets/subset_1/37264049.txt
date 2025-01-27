@@ -1,0 +1,41 @@
+1. Nat Commun. 2023 Jun 1;14(1):3177. doi: 10.1038/s41467-023-38519-0.
+
+Identification of a covert evolutionary pathway between two protein folds.
+
+Chakravarty D(1), Sreenivasan S(2), Swint-Kruse L(2), Porter LL(3)(4).
+
+Author information:
+(1)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD, 20894, USA.
+(2)Department of Biochemistry and Molecular Biology, The University of Kansas 
+Medical Center, Kansas City, KS, 66160, USA.
+(3)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD, 20894, USA. lauren.porter@nih.gov.
+(4)Biochemistry and Biophysics Center, National Heart, Lung, and Blood 
+Institute, National Institutes of Health, Bethesda, MD, 20892, USA. 
+lauren.porter@nih.gov.
+
+Although homologous protein sequences are expected to adopt similar structures, 
+some amino acid substitutions can interconvert α-helices and β-sheets. Such fold 
+switching may have occurred over evolutionary history, but supporting evidence 
+has been limited by the: (1) abundance and diversity of sequenced genes, (2) 
+quantity of experimentally determined protein structures, and (3) assumptions 
+underlying the statistical methods used to infer homology. Here, we overcome 
+these barriers by applying multiple statistical methods to a family of ~600,000 
+bacterial response regulator proteins. We find that their homologous DNA-binding 
+subunits assume divergent structures: helix-turn-helix versus α-helix + β-sheet 
+(winged helix). Phylogenetic analyses, ancestral sequence reconstruction, and 
+AlphaFold2 models indicate that amino acid substitutions facilitated a switch 
+from helix-turn-helix into winged helix. This structural transformation likely 
+expanded DNA-binding specificity. Our approach uncovers an evolutionary pathway 
+between two protein folds and provides a methodology to identify secondary 
+structure switching in other protein families.
+
+© 2023. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1038/s41467-023-38519-0
+PMCID: PMC10235069
+PMID: 37264049 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

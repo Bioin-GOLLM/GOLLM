@@ -1,0 +1,54 @@
+1. Comput Struct Biotechnol J. 2021 Dec 11;20:117-127. doi: 
+10.1016/j.csbj.2021.12.007. eCollection 2022.
+
+Enhanced interpretation of 935 hotspot and non-hotspot RAS variants using 
+evidence-based structural bioinformatics.
+
+Tripathi S(1)(2), Dsouza NR(1), Mathison AJ(3)(4), Leverence E(3), Urrutia 
+R(3)(4)(5), Zimmermann MT(1)(6)(5).
+
+Author information:
+(1)Bioinformatics Research and Development Laboratory, Genomic Sciences and 
+Precision Medicine Center (GSPMC), Medical College of Wisconsin, Milwaukee, WI 
+53226, USA.
+(2)Department of Structural Biology, St. Jude Children's Research Hospital, 
+Memphis, TN, USA.
+(3)Genomic Sciences and Precision Medicine Center (GSPMC), Medical College of 
+Wisconsin, Milwaukee, WI 53226, USA.
+(4)Division of Research, Department of Surgery, Medical College of Wisconsin, 
+Milwaukee, WI 53226, USA.
+(5)Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI 
+53226, USA.
+(6)Clinical and Translational Sciences Institute, Medical College of Wisconsin, 
+Milwaukee, WI 53226, USA.
+
+In the current study, we report computational scores for advancing genomic 
+interpretation of disease-associated genomic variation in members of the RAS 
+family of genes. For this purpose, we applied 31 sequence- and 3D 
+structure-based computational scores, chosen by their breadth of biophysical 
+properties. We parametrized our data by assembling a numerically homogenized 
+experimentally-derived dataset, which when use in our calculations reveal that 
+computational scores using 3D structure highly correlate with experimental 
+measures (e.g., GAP-mediated hydrolysis RSpearman = 0.80 and RAF affinity 
+Rspearman = 0.82), while sequence-based scores are discordant with this data. 
+Performing all-against-all comparisons, we applied this parametrized modeling 
+approach to the study of 935 RAS variants from 7 RAS genes, which led us to 
+identify 4 groups of mutations according to distinct biochemical scores within 
+each group. Each group was comprised of hotspot and non-hotspot KRAS variants, 
+indicating that poorly characterized variants could functionally behave like 
+pathogenic mutations. Combining computational scores using dimensionality 
+reduction indicated that changes to local unfolding propensity associate with 
+changes in enzyme activity by genomic variants. Hence, our systematic approach, 
+combining methodologies from both clinical genomics and 3D structural 
+bioinformatics, represents an expansion for interpreting genomic data, provides 
+information of mechanistic value, and that is transferable to other proteins.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.csbj.2021.12.007
+PMCID: PMC8688876
+PMID: 34976316
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

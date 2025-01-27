@@ -1,0 +1,42 @@
+1. Math Biosci. 2017 Dec;294:1-14. doi: 10.1016/j.mbs.2017.09.005. Epub 2017 Sep 
+14.
+
+An integrative model of prostate cancer interaction with the bone 
+microenvironment.
+
+Farhat A(1), Jiang D(2), Cui D(3), Keller ET(4), Jackson TL(5).
+
+Author information:
+(1)Department of Mathematics, University of Michigan, Ann Arbor, MI 48109-1043, 
+USA.
+(2)Command Post 1412 Broadway, New York, NY 10018, USA.
+(3)Department of Urology, Shanghai General Hospital, Shanghi, China.
+(4)Department of Urology, University of Michigan, Ann Arbor, MI 48109, USA. 
+Electronic address: etkeller@med.umich.edu.
+(5)Department of Mathematics, University of Michigan, Ann Arbor, MI 48109-1043, 
+USA. Electronic address: tjacks@umich.edu.
+
+Despite advanced efforts in early diagnosis, aggressive surgical treatment, and 
+use of targeted chemotherapies, the prognosis for many cancers is still dismal. 
+This emphasizes the necessity to develop new strategies for understanding tumor 
+growth and metastasis. Here we use a systems approach that combines mathematical 
+modeling and numerical simulation to develop a predictive computational model 
+for prostate cancer and its subversion of the bone microenvironment. This model 
+simulates metastatic prostate cancer evolution, progressing from normal bone and 
+hormone levels to quantifiable diseased states. The simulations clearly 
+demonstrate phenomena similar to those found clinically in prostate cancer 
+patients. In addition, the major prediction of this model is the existence of 
+low and high osteogenic states that are markedly different from one another. The 
+existence and potential realization of these steady states appear to be mediated 
+by the Wnt signaling pathway and by the effects of PSA on TGF-β, which 
+encourages the bone microenvironment to evolve. The model is used to explore 
+several potential therapeutic strategies, with some potential drug targets 
+showing more promise than others: in particular, completely blocking Wnt and 
+greatly increasing DKK-1 had significant positive effects, while blocking RANKL 
+did not improve the outcome.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mbs.2017.09.005
+PMCID: PMC5714661
+PMID: 28919575 [Indexed for MEDLINE]

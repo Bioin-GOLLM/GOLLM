@@ -1,0 +1,63 @@
+1. Am J Med Genet B Neuropsychiatr Genet. 2017 Apr;174(3):235-250. doi: 
+10.1002/ajmg.b.32494. Epub 2016 Oct 1.
+
+Highly polygenic architecture of antidepressant treatment response: Comparative 
+analysis of SSRI and NRI treatment in an animal model of depression.
+
+Malki K(1), Tosto MG(1)(2), Mouriño-Talín H(3), Rodríguez-Lorenzo S(4), Pain 
+O(5)(6), Jumhaboy I(1), Liu T(7), Parpas P(7), Newman S(1), Malykh A(2), Carboni 
+L(8), Uher R(1)(9), McGuffin P(1), Schalkwyk LC(10), Bryson K(3), Herbster M(3).
+
+Author information:
+(1)King's College London, MRC Social, Genetic and Developmental Psychiatry 
+Centre at the Institute of Psychiatry, Psychology and Neuroscience (IOPPN), 
+London, United Kingdom.
+(2)LCIBG, Tomsk State University, Tomsk, Russia.
+(3)Department of Computer Science, UCL, London, United Kingdom.
+(4)Division of Medicine, UCL, London, United Kingdom.
+(5)Birkbeck, University of London, United Kingdom.
+(6)London School of Hygiene & Tropical Medicine, United Kingdom.
+(7)Department of Computer Science Imperial College London, United Kingdom.
+(8)Department of Pharmacy and Biotechnology, Alma Mater Studiorum University of 
+Bologna, Bologna, Italy.
+(9)Department of Psychiatry, Dalhousie University, Halifax, Nova Scotia, Canada.
+(10)School of Biological Sciences, University of Essex, Colchester, United 
+Kingdom.
+
+Response to antidepressant (AD) treatment may be a more polygenic trait than 
+previously hypothesized, with many genetic variants interacting in yet unclear 
+ways. In this study we used methods that can automatically learn to detect 
+patterns of statistical regularity from a sparsely distributed signal across 
+hippocampal transcriptome measurements in a large-scale animal pharmacogenomic 
+study to uncover genomic variations associated with AD. The study used four 
+inbred mouse strains of both sexes, two drug treatments, and a control group 
+(escitalopram, nortriptyline, and saline). Multi-class and binary classification 
+using Machine Learning (ML) and regularization algorithms using iterative and 
+univariate feature selection methods, including InfoGain, mRMR, ANOVA, and Chi 
+Square, were used to uncover genomic markers associated with AD response. 
+Relevant genes were selected based on Jaccard distance and carried forward for 
+gene-network analysis. Linear association methods uncovered only one gene 
+associated with drug treatment response. The implementation of ML algorithms, 
+together with feature reduction methods, revealed a set of 204 genes associated 
+with SSRI and 241 genes associated with NRI response. Although only 10% of genes 
+overlapped across the two drugs, network analysis shows that both drugs 
+modulated the CREB pathway, through different molecular mechanisms. Through 
+careful implementation and optimisations, the algorithms detected a weak signal 
+used to predict whether an animal was treated with nortriptyline (77%) or 
+escitalopram (67%) on an independent testing set. The results from this study 
+indicate that the molecular signature of AD treatment may include a much broader 
+range of genomic markers than previously hypothesized, suggesting that response 
+to medication may be as complex as the pathology. The search for biomarkers of 
+antidepressant treatment response could therefore consider a higher number of 
+genetic markers and their interactions. Through predominately different 
+molecular targets and mechanisms of action, the two drugs modulate the same 
+Creb1 pathway which plays a key role in neurotrophic responses and in 
+inflammatory processes. © 2016 The Authors. American Journal of Medical Genetics 
+Part B: Neuropsychiatric Genetics Published by Wiley Periodicals, Inc.
+
+© 2016 The Authors. American Journal of Medical Genetics Part B: 
+Neuropsychiatric Genetics Published by Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajmg.b.32494
+PMCID: PMC5434854
+PMID: 27696737 [Indexed for MEDLINE]

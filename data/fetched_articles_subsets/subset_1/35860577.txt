@@ -1,0 +1,61 @@
+1. Front Oncol. 2022 Jul 4;12:899925. doi: 10.3389/fonc.2022.899925. eCollection 
+2022.
+
+Identification and Validation of Immune-Related Long Non-Coding RNA Signature 
+for Predicting Immunotherapeutic Response and Prognosis in NSCLC Patients 
+Treated With Immunotherapy.
+
+Ma J(1), Zhang M(2), Yu J(1).
+
+Author information:
+(1)Department of Radiotherapy, Shandong University Cancer Center, Jinan, China.
+(2)Department of Medical Oncology, Harbin Medical University Cancer Hospital, 
+Harbin, China.
+
+BACKGROUND: Numerous studies have reported that long non-coding RNAs (lncRNAs) 
+play important roles in immune-related pathways in cancer. However, 
+immune-related lncRNAs and their roles in predicting immunotherapeutic response 
+and prognosis of non-small cell lung cancer (NSCLC) patients treated with 
+immunotherapy remain largely unexplored.
+METHODS: Transcriptomic data from NSCLC patients were used to identify novel 
+lncRNAs by a custom pipeline. ImmuCellAI was utilized to calculate the 
+infiltration score of immune cells. The marker genes of immunotherapeutic 
+response-related (ITR)-immune cells were used to identify immune-related 
+(IR)-lncRNAs. A co-expression network was constructed to determine their 
+functions. LASSO and multivariate Cox analyses were performed on the training 
+set to construct an immunotherapeutic response and immune-related (ITIR)-lncRNA 
+signature for predicting the immunotherapeutic response and prognosis of NSCLC. 
+Four independent datasets involving NSCLC and melanoma patients were used to 
+validate the ITIR-lncRNA signature.
+RESULTS: In total, 7,693 novel lncRNAs were identified for NSCLC. By comparing 
+responders with non-responders, 154 ITR-lncRNAs were identified. Based on the 
+correlation between the marker genes of ITR-immune cells and lncRNAs, 39 
+ITIR-lncRNAs were identified. A co-expression network was constructed and the 
+potential functions of 38 ITIR-lncRNAs were annotated, most of which were 
+related to immune/inflammatory-related pathways. Single-cell RNA-seq analysis 
+was performed to confirm the functional prediction results of an ITIR-lncRNA, 
+LINC01272. Four-ITIR-lncRNA signature was identified and verified for predicting 
+the immunotherapeutic response and prognosis of NSCLC. Compared with 
+non-responders, responders had a lower risk score in both NSCLC datasets 
+(P<0.05). NSCLC patients in the high-risk group had significantly shorter PFS/OS 
+time than those in the low-risk group in the training and testing sets (P<0.05). 
+The AUC value was 1 of responsiveness in the training set. In melanoma 
+validation datasets, patients in the high-risk group also had significantly 
+shorter OS/PFS time than those in the low-risk group (P<0.05). The ITIR-lncRNA 
+signature was an independent prognostic factor (P<0.001).
+CONCLUSION: Thousands of novel lncRNAs in NSCLC were identified and 
+characterized. In total, 39 ITIR-lncRNAs were identified, 38 of which were 
+functionally annotated. Four ITIR-lncRNAs were identified as a novel ITIR-lncRNA 
+signature for predicting the immunotherapeutic response and prognosis in NSCLC 
+patients treated with immunotherapy.
+
+Copyright © 2022 Ma, Zhang and Yu.
+
+DOI: 10.3389/fonc.2022.899925
+PMCID: PMC9289523
+PMID: 35860577
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The handling editor CL 
+declared a shared parent affiliation with the author MZ at the time of review.

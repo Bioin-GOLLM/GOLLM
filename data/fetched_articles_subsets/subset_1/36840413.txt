@@ -1,0 +1,52 @@
+1. Cancer Sci. 2023 Jun;114(6):2596-2608. doi: 10.1111/cas.15764. Epub 2023 Mar
+15.
+
+An integrative epigenomic approach identifies ELF3 as an oncogenic regulator in 
+ASCL1-positive neuroendocrine carcinoma.
+
+Horie M(1)(2), Tanaka H(2), Suzuki M(2), Sato Y(2), Takata S(2), Takai E(2), 
+Miyashita N(3)(4), Saito A(3), Nakatani Y(2), Yachida S(2)(5)(6).
+
+Author information:
+(1)Department of Molecular and Cellular Pathology, Graduate School of Medical 
+Sciences, Kanazawa University, Kanazawa, Japan.
+(2)Department of Cancer Genome Informatics, Graduate School of Medicine, Osaka 
+University, Osaka, Japan.
+(3)Department of Respiratory Medicine, Graduate School of Medicine, The 
+University of Tokyo, Tokyo, Japan.
+(4)Department of Cell Biology, Duke University School of Medicine, Durham, North 
+Carolina, USA.
+(5)Integrated Frontier Research for Medical Science Division, Institute for Open 
+and Transdisciplinary Research Initiatives, Osaka University, Osaka, Japan.
+(6)Division of Genomic Medicine, National Cancer Center Research Institute, 
+Tokyo, Japan.
+
+Neuroendocrine carcinoma (NEC) is a highly aggressive subtype of the 
+neuroendocrine tumor with an extremely poor prognosis. We have previously 
+conducted a comprehensive genomic analysis of over 100 cases of NEC of the 
+gastrointestinal system (GIS-NEC) and unraveled its unique and organ-specific 
+genomic drivers. However, the epigenomic features of GIS-NEC remain unexplored. 
+In this study, we have described the epigenomic landscape of GIS-NEC and small 
+cell lung carcinoma (SCLC) by integrating motif enrichment analysis from the 
+assay of transposase-accessible chromatin sequencing (ATAC-seq) and enhancer 
+profiling from a novel cleavage under targets and tagmentation (CUT&Tag) assay 
+for H3K27ac and identified ELF3 as one of the super-enhancer-related 
+transcriptional factors in NEC. By combining CUT&Tag and knockdown RNA 
+sequencing for ELF3, we uncovered the transcriptional network regulated by ELF3 
+and defined its distinctive gene signature, including AURKA, CDC25B, CLDN4, 
+ITGB6, and YWAHB. Furthermore, a loss-of-function assay revealed that ELF3 
+depletion led to poor cell viability. Finally, using gene expression of clinical 
+samples, we successfully divided GIS-NEC patients into two subgroups according 
+to the ELF3 signature and demonstrated that tumor-promoting pathways were 
+activated in the ELF3 signature-high group. Our findings highlight the 
+transcriptional regulation of ELF3 as an oncogenic transcription factor and its 
+tumor-promoting properties in NEC.
+
+© 2023 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd 
+on behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.15764
+PMCID: PMC10236617
+PMID: 36840413 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.Y. is an Associate Editor of Cancer Science.

@@ -1,0 +1,33 @@
+1. Sci Adv. 2018 Jun 8;4(6):eaar6782. doi: 10.1126/sciadv.aar6782. eCollection
+2018  Jun.
+
+Parity-time-symmetric optoelectronic oscillator.
+
+Zhang J(1), Yao J(1).
+
+Author information:
+(1)Microwave Photonics Research Laboratory, School of Electrical Engineering and 
+Computer Science, University of Ottawa, Ottawa, Ontario K1N 6N5, Canada.
+
+An optoelectronic oscillator (OEO) is a hybrid microwave and photonic system 
+incorporating an amplified positive feedback loop to enable microwave 
+oscillation to generate a high-frequency and low-phase noise microwave signal. 
+The low phase noise is ensured by the high Q factor of the feedback loop enabled 
+by the use of a long and low-loss optical fiber. However, an OEO with a long 
+fiber loop would have a small free spectral range, leading to a large number of 
+closely spaced oscillation modes. To ensure single-mode oscillation, an 
+ultranarrowband optical filter must be used, but such an optical filter is hard 
+to implement and the stability is poor. Here, we use a novel concept to achieve 
+single-mode oscillation without using an ultranarrowband optical filter. The 
+single-mode operation is achieved based on parity-time (PT) symmetry by using 
+two identical feedback loops, with one having a gain and the other having a loss 
+of the same magnitude. The operation is analyzed theoretically and verified by 
+an experiment. Stable single-mode oscillation at an ultralow phase noise is 
+achieved without the use of an ultranarrowband optical filter. The use of PT 
+symmetry in an OEO overcomes the long-existing mode-selection challenge that 
+would greatly simplify the implementation of OEOs for ultralow-phase noise 
+microwave generation.
+
+DOI: 10.1126/sciadv.aar6782
+PMCID: PMC5993476
+PMID: 29888325

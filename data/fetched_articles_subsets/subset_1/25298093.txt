@@ -1,0 +1,26 @@
+1. Genome Biol. 2014;15(10):485. doi: 10.1186/s13059-014-0485-0.
+
+OncoCis: annotation of cis-regulatory mutations in cancer.
+
+Perera D(1), Chacon D, Thoms JA, Poulos RC, Shlien A, Beck D, Campbell PJ, 
+Pimanda JE, Wong JW.
+
+Author information:
+(1)Prince of Wales Clinical School and Lowy Cancer Research Centre, UNSW, 
+Australia, Sydney 2052, Australia.
+
+Whole genome sequencing has enabled the identification of thousands of somatic 
+mutations within non-coding genomic regions of individual cancer samples. 
+However, identification of mutations that potentially alter gene regulation 
+remains a major challenge. Here we present OncoCis, a new method that enables 
+identification of potential cis-regulatory mutations using cell type-specific 
+genome and epigenome-wide datasets along with matching gene expression data. We 
+demonstrate that the use of cell type-specific information and gene expression 
+can significantly reduce the number of candidate cis-regulatory mutations 
+compared with existing tools designed for the annotation of cis-regulatory SNPs. 
+The OncoCis webserver is freely accessible at 
+https://powcs.med.unsw.edu.au/OncoCis/.
+
+DOI: 10.1186/s13059-014-0485-0
+PMCID: PMC4224696
+PMID: 25298093 [Indexed for MEDLINE]

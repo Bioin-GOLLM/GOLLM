@@ -1,0 +1,38 @@
+1. BMC Syst Biol. 2010 May 17;4:66. doi: 10.1186/1752-0509-4-66.
+
+Avoiding transcription factor competition at promoter level increases the 
+chances of obtaining oscillation.
+
+Munteanu A(1), Constante M, Isalan M, Solé RV.
+
+Author information:
+(1)ICREA-Complex Systems Lab, Universitat Pompeu Fabra (PRBB-GRIB), Dr Aiguader 
+88, 08003 Barcelona, Spain. andreea.munteanu@upf.edu
+
+BACKGROUND: The ultimate goal of synthetic biology is the conception and 
+construction of genetic circuits that are reliable with respect to their 
+designed function (e.g. oscillators, switches). This task remains still to be 
+attained due to the inherent synergy of the biological building blocks and to an 
+insufficient feedback between experiments and mathematical models. Nevertheless, 
+the progress in these directions has been substantial.
+RESULTS: It has been emphasized in the literature that the architecture of a 
+genetic oscillator must include positive (activating) and negative (inhibiting) 
+genetic interactions in order to yield robust oscillations. Our results point 
+out that the oscillatory capacity is not only affected by the interaction 
+polarity but by how it is implemented at promoter level. For a chosen oscillator 
+architecture, we show by means of numerical simulations that the existence or 
+lack of competition between activator and inhibitor at promoter level affects 
+the probability of producing oscillations and also leaves characteristic 
+fingerprints on the associated period/amplitude features.
+CONCLUSIONS: In comparison with non-competitive binding at promoters, 
+competition drastically reduces the region of the parameters space characterized 
+by oscillatory solutions. Moreover, while competition leads to pulse-like 
+oscillations with long-tail distribution in period and amplitude for various 
+parameters or noisy conditions, the non-competitive scenario shows a 
+characteristic frequency and confined amplitude values. Our study also situates 
+the competition mechanism in the context of existing genetic oscillators, with 
+emphasis on the Atkinson oscillator.
+
+DOI: 10.1186/1752-0509-4-66
+PMCID: PMC2898670
+PMID: 20478019 [Indexed for MEDLINE]

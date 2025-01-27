@@ -1,0 +1,75 @@
+1. Brain. 2023 Mar 1;146(3):1075-1082. doi: 10.1093/brain/awac160.
+
+Mosaic divergent repeat interruptions in XDP influence repeat stability and 
+disease onset.
+
+Trinh J(1), Lüth T(1), Schaake S(1), Laabs BH(2), Schlüter K(1), Laβ J(1), 
+Pozojevic J(1), Tse R(1), König I(2), Jamora RD(3), Rosales RL(4), Brüggemann 
+N(1)(5), Saranza G(6), Diesta CCE(7), Kaiser FJ(8)(9), Depienne C(8), Pearson 
+CE(10)(11), Westenberger A(1), Klein C(1).
+
+Author information:
+(1)Institute of Neurogenetics, University of Lübeck and University Hospital 
+Schleswig-Holstein, Lübeck, Germany.
+(2)Institute of Medical Biometry and Statistics, University of Lübeck, Lübeck, 
+Germany.
+(3)Department of Neurosciences, College of Medicine-Philippine General Hospital, 
+University of the Philippines Manila, Manila, Philippines.
+(4)Department of Neurology and Psychiatry, University of Santo Tomas and the 
+CNS-Metropolitan Medical Center, Manila, Philippines.
+(5)Department of Neurology, University of Lübeck, Lübeck, Germany.
+(6)Section of Neurology, Department of Internal Medicine, Chong Hua Hospital, 
+Cebu, Philippines.
+(7)Department of Neurosciences, Movement Disorders Clinic, Makati Medical 
+Center, Makati City, Philippines.
+(8)Institute for Human Genetics at the University Hospital Essen, Essen, 
+Germany.
+(9)Center for Rare Diseases (Essenser Zentrum für Seltene Erkrankungen-EZSE) at 
+the University Hospital Essen, Essen, Germany.
+(10)Program of Genetics and Genome Biology, The Hospital for Sick Children, The 
+Peter Gilgan Centre for Research and Learning, Toronto, Canada.
+(11)University of Toronto, Program of Molecular Genetics, Toronto, Canada.
+
+While many genetic causes of movement disorders have been identified, modifiers 
+of disease expression are largely unknown. X-linked dystonia-parkinsonism (XDP) 
+is a neurodegenerative disease caused by a SINE-VNTR-Alu(AGAGGG)n 
+retrotransposon insertion in TAF1, with a polymorphic (AGAGGG)n repeat. Repeat 
+length and variants in MSH3 and PMS2 explain ∼65% of the variance in age at 
+onset (AAO) in XDP. However, additional genetic modifiers are conceivably at 
+play in XDP, such as repeat interruptions. Long-read nanopore sequencing of PCR 
+amplicons from XDP patients (n = 202) was performed to assess potential repeat 
+interruption and instability. Repeat-primed PCR and Cas9-mediated targeted 
+enrichment confirmed the presence of identified divergent repeat motifs. In 
+addition to the canonical pure SINE-VNTR-Alu-5'-(AGAGGG)n, we observed a mosaic 
+of divergent repeat motifs that polarized at the beginning of the tract, where 
+the divergent repeat interruptions varied in motif length by having one, two, or 
+three nucleotides fewer than the hexameric motif, distinct from interruptions in 
+other disease-associated repeats, which match the lengths of the canonical 
+motifs. All divergent configurations occurred mosaically and in two investigated 
+brain regions (basal ganglia, cerebellum) and in blood-derived DNA from the same 
+patient. The most common divergent interruption was AGG 
+[5'-SINE-VNTR-Alu(AGAGGG)2AGG(AGAGGG)n], similar to the pure tract, followed by 
+AGGG [5'-SINE-VNTR-Alu(AGAGGG)2AGGG(AGAGGG)n], at median frequencies of 0.425 
+(IQR: 0.42-0.43) and 0.128 (IQR: 0.12-0.13), respectively. The mosaic AGG motif 
+was not associated with repeat number (estimate = -3.8342, P = 0.869). The 
+mosaic pure tract frequency was associated with repeat number (estimate = 45.32, 
+P = 0.0441) but not AAO (estimate = -41.486, P = 0.378). Importantly, the mosaic 
+frequency of the AGGG negatively correlated with repeat number after adjusting 
+for age at sampling (estimate = -161.09, P = 3.44 × 10-5). When including the 
+XDP-relevant MSH3/PMS2 modifier single nucleotide polymorphisms into the model, 
+the mosaic AGGG frequency was associated with AAO (estimate = 155.1063, P = 
+0.047); however, the association dissipated after including the repeat number 
+(estimate = -92.46430, P = 0.079). We reveal novel mosaic divergent repeat 
+interruptions affecting both motif length and sequence (DRILS) of the canonical 
+motif polarized within the SINE-VNTR-Alu(AGAGGG)n repeat. Our study illustrates: 
+(i) the importance of somatic mosaic genotypes; (ii) the biological plausibility 
+of multiple modifiers (both germline and somatic) that can have additive effects 
+on repeat instability; and (iii) that these variations may remain undetected 
+without assessment of single molecules.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Guarantors of Brain.
+
+DOI: 10.1093/brain/awac160
+PMCID: PMC9976955
+PMID: 35481544 [Indexed for MEDLINE]

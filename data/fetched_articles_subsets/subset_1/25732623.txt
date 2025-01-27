@@ -1,0 +1,36 @@
+1. Metab Eng. 2015 May;29:26-35. doi: 10.1016/j.ymben.2015.02.006. Epub 2015 Feb 
+27.
+
+Futile cycling increases sensitivity toward oxidative stress in Escherichia 
+coli.
+
+Adolfsen KJ(1), Brynildsen MP(2).
+
+Author information:
+(1)Department of Chemical and Biological Engineering, Princeton University, 
+Princeton, NJ 08544, United States. Electronic address: adolfsen@princeton.edu.
+(2)Department of Chemical and Biological Engineering, Princeton University, 
+Princeton, NJ 08544, United States. Electronic address: mbrynild@princeton.edu.
+
+Reactive oxygen species (ROS) are toxic molecules utilized by the immune system 
+to combat invading pathogens. Recent evidence suggests that inefficiencies in 
+ATP production or usage can lead to increased endogenous ROS production and 
+sensitivity to oxidative stress in bacteria. With this as inspiration, and 
+knowledge that ATP is required for a number of DNA repair mechanisms, we 
+hypothesized that futile cycling would be an effective way to increase 
+sensitivity to oxidative stress. We developed a mixed integer linear 
+optimization framework to identify experimentally-tractable futile cycles, and 
+confirmed metabolic modeling predictions that futile cycling depresses growth 
+rate, and increases both O2 consumption and ROS production per biomass 
+generated. Further, intracellular ATP was decreased and sensitivity to oxidative 
+stress increased in all actively cycling strains compared to their catalytically 
+inactive controls. This research establishes a fundamental connection between 
+ATP metabolism, endogenous ROS production, and tolerance toward oxidative stress 
+in bacteria.
+
+Copyright © 2015 International Metabolic Engineering Society. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymben.2015.02.006
+PMCID: PMC4430396
+PMID: 25732623 [Indexed for MEDLINE]

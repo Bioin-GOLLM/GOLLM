@@ -1,0 +1,40 @@
+1. Traffic. 2020 May;21(5):386-397. doi: 10.1111/tra.12727. Epub 2020 Apr 5.
+
+High-content imaging and structure-based predictions reveal functional 
+differences between Niemann-Pick C1 variants.
+
+Vanharanta L(1)(2), Peränen J(1)(2), Pfisterer SG(1), Enkavi G(3)(4), 
+Vattulainen I(3)(4), Ikonen E(1)(2).
+
+Author information:
+(1)Department of Anatomy and Stem Cells and Metabolism Research Program, Faculty 
+of Medicine, University of Helsinki, Helsinki, Finland.
+(2)Minerva Foundation Institute for Medical Research, Helsinki, Finland.
+(3)Department of Physics, University of Helsinki, Helsinki, Finland.
+(4)Computational Physics Laboratory, Tampere University of Technology, Tampere, 
+Finland.
+
+The human Niemann-Pick C1 (NPC1) gene encoding a 1278 amino acid protein is very 
+heterogeneous. While some variants represent benign polymorphisms, NPC disease 
+carriers and patients may possess rare variants, whose functional importance 
+remains unknown. An NPC1 cDNA construct known as NPC1 wild-type variant (WT-V), 
+distributed between laboratories and used as a WT control in several studies, 
+also contains changes regarding specific amino acids compared to the NPC1 
+Genbank reference sequence. To improve the dissection of subtle functional 
+differences, we generated human cells stably expressing NPC1 variants from the 
+AAVS1 safe-harbor locus on an NPC1-null background engineered by CRISPR/Cas9 
+editing. We then employed high-content imaging with automated image analysis to 
+quantitatively assess LDL-induced, time-dependent changes in lysosomal 
+cholesterol content and lipid droplet formation. Our results indicate that the 
+L472P change present in NPC1 WT-V compromises NPC1 functionality in lysosomal 
+cholesterol export. All-atom molecular dynamics simulations suggest that the 
+L472P change alters the relative position of the NPC1 middle and the C-terminal 
+luminal domains, disrupting the recently characterized cholesterol efflux 
+tunnel. These results reveal functional defects in NPC1 WT-V and highlight the 
+strength of simulations and quantitative imaging upon stable protein expression 
+in elucidating subtle differences in protein function.
+
+© 2020 The Authors. Traffic published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/tra.12727
+PMID: 32144825 [Indexed for MEDLINE]

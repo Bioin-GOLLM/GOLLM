@@ -1,0 +1,43 @@
+1. Hum Genet. 2011 Jan;129(1):101-10. doi: 10.1007/s00439-010-0905-5. Epub 2010
+Oct  28.
+
+A novel survival multifactor dimensionality reduction method for detecting 
+gene-gene interactions with application to bladder cancer prognosis.
+
+Gui J(1), Moore JH, Kelsey KT, Marsit CJ, Karagas MR, Andrew AS.
+
+Author information:
+(1)Department of Community and Family Medicine, Norris-Cotton Cancer Center, 
+Dartmouth Medical School, One Medical Center Drive, Lebanon, NH 03756, USA.
+
+The widespread use of high-throughput methods of single nucleotide polymorphism 
+(SNP) genotyping has created a number of computational and statistical 
+challenges. The problem of identifying SNP-SNP interactions in case-control 
+studies has been studied extensively, and a number of new techniques have been 
+developed. Little progress has been made, however, in the analysis of SNP-SNP 
+interactions in relation to time-to-event data, such as patient survival time or 
+time to cancer relapse. We present an extension of the two class multifactor 
+dimensionality reduction (MDR) algorithm that enables detection and 
+characterization of epistatic SNP-SNP interactions in the context of survival 
+analysis. The proposed Survival MDR (Surv-MDR) method handles survival data by 
+modifying MDR's constructive induction algorithm to use the log-rank test. 
+Surv-MDR replaces balanced accuracy with log-rank test statistics as the score 
+to determine the best models. We simulated datasets with a survival outcome 
+related to two loci in the absence of any marginal effects. We compared Surv-MDR 
+with Cox-regression for their ability to identify the true predictive loci in 
+these simulated data. We also used this simulation to construct the empirical 
+distribution of Surv-MDR's testing score. We then applied Surv-MDR to genetic 
+data from a population-based epidemiologic study to find prognostic markers of 
+survival time following a bladder cancer diagnosis. We identified several 
+two-loci SNP combinations that have strong associations with patients' survival 
+outcome. Surv-MDR is capable of detecting interaction models with weak main 
+effects. These epistatic models tend to be dropped by traditional Cox regression 
+approaches to evaluating interactions. With improved efficiency to handle genome 
+wide datasets, Surv-MDR will play an important role in a research strategy that 
+embraces the complexity of the genotype-phenotype mapping relationship since 
+epistatic interactions are an important component of the genetic basis of 
+disease.
+
+DOI: 10.1007/s00439-010-0905-5
+PMCID: PMC3255326
+PMID: 20981448 [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+1. BMC Med Genomics. 2020 Nov 3;13(1):164. doi: 10.1186/s12920-020-00815-9.
+
+Considering the APOE locus in Alzheimer's disease polygenic scores in the Health 
+and Retirement Study: a longitudinal panel study.
+
+Ware EB(1), Faul JD(2), Mitchell CM(2), Bakulski KM(3).
+
+Author information:
+(1)Survey Research Center, Institute for Social Research, University of 
+Michigan, 426 Thompson St., Rm. 3320 ISR-Thompson, Ann Arbor, MI, 48104, USA. 
+ebakshis@umich.edu.
+(2)Survey Research Center, Institute for Social Research, University of 
+Michigan, 426 Thompson St., Rm. 3320 ISR-Thompson, Ann Arbor, MI, 48104, USA.
+(3)Department of Epidemiology, School of Public Health, University of Michigan, 
+Ann Arbor, MI, 48109, USA.
+
+BACKGROUND: Polygenic scores are a strategy to aggregate the small, additive 
+effects of single nucleotide polymorphisms across the genome. With phenotypes 
+like Alzheimer's disease, which have a strong and well-established genomic locus 
+(APOE), the cumulative effect of genetic variants outside of this area has not 
+been well established in a population-representative sample.
+METHODS: Here we examine the association between polygenic scores for 
+Alzheimer's disease both with and without the APOE region (chr19: 45,384,477 to 
+45,432,606, build 37/hg 19) at different P value thresholds and dementia. We 
+also investigate the addition of APOE-ε4 carrier status and its effect on the 
+polygenic score-dementia association in the Health and Retirement Study using 
+generalized linear models accounting for repeated measures by individual and use 
+a binomial distribution, logit link, and unstructured correlation structure.
+RESULTS: In a large sample of European ancestry participants of the Health and 
+Retirement Study (n = 9872) with an average of 5.2 (standard deviation 1.8) 
+visit spaced two years apart, we found that including the APOE region through 
+weighted variants in a polygenic score was insufficient to capture the large 
+amount of risk attributed to this region. We also found that a polygenic score 
+with a P value threshold of 0.01 had the strongest association with the odds of 
+dementia in this sample (odds ratio = 1.10 95%CI 1.0 to 1.2).
+CONCLUSION: We recommend removing the APOE region from polygenic score 
+calculation and treating the APOE locus as an independent covariate when 
+modeling dementia. We also recommend using a moderately conservative P value 
+threshold (e.g. 0.01) when creating polygenic scores for Alzheimer's disease on 
+dementia. These recommendations may help elucidate relationships between 
+polygenic scores and regions of strong significance for phenotypes similar to 
+Alzheimer's disease.
+
+DOI: 10.1186/s12920-020-00815-9
+PMCID: PMC7607711
+PMID: 33143703 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

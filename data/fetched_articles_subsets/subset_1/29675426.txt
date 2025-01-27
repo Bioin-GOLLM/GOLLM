@@ -1,0 +1,44 @@
+1. Biomed Res Int. 2018 Feb 20;2018:5486403. doi: 10.1155/2018/5486403.
+eCollection  2018.
+
+A Novel Method for Drug Screen to Regulate G Protein-Coupled Receptors in the 
+Metabolic Network of Alzheimer's Disease.
+
+Li Y(1)(2), Zheng W(2)(3), Qiqige W(2)(4), Cao S(5), Ruan J(2)(6), Zhang Y(7).
+
+Author information:
+(1)College of Life Sciences, Nankai University, No. 94 Weijin Road, Tianjin 
+300071, China.
+(2)College of Mathematical Sciences and LPMC, Nankai University, No. 94 Weijin 
+Road, Tianjin 300071, China.
+(3)Department of Computational Medicine and Bioinformatics, University of 
+Michigan, Ann Arbor, MI 48109, USA.
+(4)Computer Science and Engineering Department, Michigan State University, East 
+Lansing, MI 48823, USA.
+(5)School of Science, Tianjin Polytechnic University, No. 399 Binshui West Road, 
+Xi Qing District, Tianjin 300387, China.
+(6)State Key Laboratory of Medicinal Chemical Biology, Nankai University, No. 94 
+Weijin Road, Tianjin 300071, China.
+(7)School of Mathematics and Physics, Hebei University of Engineering, No. 199 
+South Street Light, Handan 056038, China.
+
+Alzheimer's disease (AD) is a chronic and progressive neurodegenerative disorder 
+and the pathogenesis of AD is poorly understood. G protein-coupled receptors 
+(GPCRs) are involved in numerous key AD pathways and play a key role in the 
+pathology of AD. To fully understand the pathogenesis of AD and design novel 
+drug therapeutics, analyzing the connection between AD and GPCRs is of great 
+importance. In this paper, we firstly build and analyze the AD-related pathway 
+by consulting the KEGG pathway of AD and a mass of literature and collect 25 
+AD-related GPCRs for drug discovery. Then the ILbind and AutoDock Vina tools are 
+integrated to find out potential drugs related to AD. According to the analysis 
+of DUD-E dataset, we select five drugs, that is, Acarbose (ACR), Carvedilol 
+(CVD), Digoxin (DGX), NADH (NAI), and Telmisartan (TLS), by sorting the ILbind 
+scores (≥0.73). Then depending on their AutoDock Vina scores and pocket position 
+information, the binding patterns of these five drugs are obtained. We analyze 
+the regulation function of GPCRs in the metabolic network of AD based on the 
+drug screen results, which may be helpful for the study of the off-target effect 
+and the side effect of drugs.
+
+DOI: 10.1155/2018/5486403
+PMCID: PMC5838471
+PMID: 29675426 [Indexed for MEDLINE]

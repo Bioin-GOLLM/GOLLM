@@ -1,0 +1,38 @@
+1. Sensors (Basel). 2023 Feb 23;23(5):2466. doi: 10.3390/s23052466.
+
+Assessment of GNSS Galileo Contribution to the Modernization of CROPOS's 
+Services.
+
+Šugar D(1), Kliman A(2), Bačić Ž(1), Nevistić Z(1).
+
+Author information:
+(1)Faculty of Geodesy, University of Zagreb, Kačićeva 26, 10000 Zagreb, Croatia.
+(2)German Aerospace Center (DLR), Institute of Communication and Navigation, 
+Muenchener Str. 20, Oberpfaffenhofen, 82234 Wessling, Germany.
+
+CROPOS, as the Croatian GNSS network, was modernized and upgraded to support the 
+Galileo system in 2019. Two of CROPOS's services-VPPS (Network RTK service) and 
+GPPS (post-processing service)-were assessed for the contribution of the Galileo 
+system to their performance. A station used for field testing was previously 
+examined and surveyed to determine the local horizon and to carry out a detailed 
+mission planning. The whole day of observation was divided into several 
+sessions, each with a different visibility of Galileo satellites. A special 
+observation sequence was designed: VPPS (GPS-GLO-GAL), VPPS (GAL-only), and GPPS 
+(GPS-GLO-GAL-BDS). All observations were taken on the same station with the same 
+GNSS receiver, Trimble R12. Each static observation session was post-processed 
+in Trimble Business Center (TBC) in two different ways: considering all 
+available systems (GGGB) and considering GAL-only observations. A daily static 
+solution based on all systems (GGGB) was considered as the reference for the 
+accuracy assessment of all obtained solutions. The results obtained with VPPS 
+(GPS-GLO-GAL) and VPPS (GAL-only) were analyzed and assessed; the results 
+obtained with GAL-only have shown a slightly higher scatter. It was concluded 
+that the inclusion of the Galileo system in CROPOS has contributed to the 
+availability and reliability of solutions but not to their accuracy. By 
+complying with the observation rules and taking redundant measurements, the 
+accuracy of GAL-only results can be improved.
+
+DOI: 10.3390/s23052466
+PMCID: PMC10007464
+PMID: 36904669
+
+Conflict of interest statement: The authors declare no conflict of interest.

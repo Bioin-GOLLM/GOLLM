@@ -1,0 +1,42 @@
+1. Nucleic Acids Res. 2017 Jan 4;45(D1):D643-D649. doi: 10.1093/nar/gkw1022. Epub
+ 2016 Oct 26.
+
+3DSNP: a database for linking human noncoding SNPs to their three-dimensional 
+interacting genes.
+
+Lu Y(1), Quan C(1), Chen H(2), Bo X(3), Zhang C(4).
+
+Author information:
+(1)Beijing Institute of Radiation Medicine, State Key Laboratory of Proteomics, 
+Beijing 100850, China.
+(2)Beijing Institute of Radiation Medicine, State Key Laboratory of Proteomics, 
+Beijing 100850, China chb-1012@163.com.
+(3)Beijing Institute of Radiation Medicine, State Key Laboratory of Proteomics, 
+Beijing 100850, China boxiaoc@163.com.
+(4)Beijing Institute of Radiation Medicine, State Key Laboratory of Proteomics, 
+Beijing 100850, China zhangcglab@gmail.com.
+
+The vast noncoding portion of the human genome harbors a rich array of 
+functional elements and disease-causing regulatory variants. Recent 
+high-throughput chromosome conformation capture studies have outlined the 
+principles of these elements interacting and regulating the expression of distal 
+target genes through three-dimensional (3D) chromatin looping. Here we present 
+3DSNP, an integrated database for annotating human noncoding variants by 
+exploring their roles in the distal interactions between genes and regulatory 
+elements. 3DSNP integrates 3D chromatin interactions, local chromatin signatures 
+in different cell types and linkage disequilibrium (LD) information from the 
+1000 Genomes Project. 3DSNP provides informative visualization tools to display 
+the integrated local and 3D chromatin signatures and the genetic associations 
+among variants. Data from different functional categories are integrated in a 
+scoring system that quantitatively measures the functionality of SNPs to help 
+select important variants from a large pool. 3DSNP is a valuable resource for 
+the annotation of human noncoding genome sequence and investigating the impact 
+of noncoding variants on clinical phenotypes. The 3DSNP database is available at 
+http://biotech.bmi.ac.cn/3dsnp/.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkw1022
+PMCID: PMC5210526
+PMID: 27789693 [Indexed for MEDLINE]

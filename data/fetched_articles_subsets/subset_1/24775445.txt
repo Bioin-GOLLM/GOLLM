@@ -1,0 +1,37 @@
+1. Vet Res. 2014 Apr 28;45(1):50. doi: 10.1186/1297-9716-45-50.
+
+Use of "one-pot, mix-and-read" peptide-MHC class I tetramers and predictive 
+algorithms to improve detection of cytotoxic T lymphocyte responses in cattle.
+
+Svitek N(1), Hansen AM, Steinaa L, Saya R, Awino E, Nielsen M, Buus S, Nene V.
+
+Author information:
+(1)International Livestock Research Institute (ILRI), P,O, Box 30709, Nairobi 
+00100, Kenya. n.svitek@cgiar.org.
+
+Peptide-major histocompatibility complex (p-MHC) class I tetramer complexes have 
+facilitated the early detection and functional characterisation of epitope 
+specific CD8+ cytotoxic T lymphocytes (CTL). Here, we report on the generation 
+of seven recombinant bovine leukocyte antigens (BoLA) and recombinant bovine 
+β2-microglobulin from which p-MHC class I tetramers can be derived in ~48 h. We 
+validated a set of p-MHC class I tetramers against a panel of CTL lines specific 
+to seven epitopes on five different antigens of Theileria parva, a protozoan 
+pathogen causing the lethal bovine disease East Coast fever. One of the p-MHC 
+class I tetramers was tested in ex vivo assays and we detected T. parva specific 
+CTL in peripheral blood of cattle at day 15-17 post-immunization with a live 
+parasite vaccine. The algorithm NetMHCpan predicted alternative epitope 
+sequences for some of the T. parva CTL epitopes. Using an ELISA assay to measure 
+peptide-BoLA monomer formation and p-MHC class I tetramers of new specificity, 
+we demonstrate that a predicted alternative epitope Tp229-37 rather than the 
+previously reported Tp227-37 epitope is the correct Tp2 epitope presented by 
+BoLA-6*04101. We also verified the prediction by NetMHCpan that the Tp587-95 
+epitope reported as BoLA-T5 restricted can also be presented by BoLA-1*02301, a 
+molecule similar in sequence to BoLA-T5. In addition, Tp587-95 specific bovine 
+CTL were simultaneously stained by Tp5-BoLA-1*02301 and Tp5-BoLA-T5 tetramers 
+suggesting that one T cell receptor can bind to two different BoLA MHC class I 
+molecules presenting the Tp587-95 epitope and that these BoLA molecules fall 
+into a single functional supertype.
+
+DOI: 10.1186/1297-9716-45-50
+PMCID: PMC4018993
+PMID: 24775445 [Indexed for MEDLINE]

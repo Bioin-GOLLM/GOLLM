@@ -1,0 +1,42 @@
+1. Sci Rep. 2020 Apr 23;10(1):6888. doi: 10.1038/s41598-020-63798-8.
+
+Differential Effects of the Hormonal and Copper Intrauterine Device on the 
+Endometrial Transcriptome.
+
+Smith-McCune K(1), Thomas R(2), Averbach S(3)(4), Seidman D(3), Takeda M(3), 
+Houshdaran S(3), Giudice LC(3).
+
+Author information:
+(1)Department of Obstetrics, Gynecology and Reproductive Sciences, University of 
+California San Francisco, San Francisco, CA, USA. Karen.mccune@ucsf.edu.
+(2)Gladstone Institutes, San Francisco, CA, USA.
+(3)Department of Obstetrics, Gynecology and Reproductive Sciences, University of 
+California San Francisco, San Francisco, CA, USA.
+(4)Department of Obstetrics, Gynecology and Reproductive Sciences, University of 
+California San Diego, San Diego, CA, USA.
+
+The contraceptive effectiveness of intrauterine devices (IUDs) has been 
+attributed in part to a foreign body reaction in the endometrium. We performed 
+this study to better understand mechanisms of action of contraceptives of by 
+studying their effects on endometrial and cervical transcriptomes. We collected 
+endometrial and cervical biopsies from women using the levonorgestrel-releasing 
+intrauterine system (LNG-IUS, n = 11), copper intrauterine device (cu-IUD, 
+n = 13) or levonorgestrel-containing combined oral contraceptives (COC, n = 12), 
+and from women not using contraceptives (control group, n = 11). Transcriptional 
+profiling was performed with Affymetrix arrays, Principal Component Analysis and 
+the bioconductor package limma. In endometrial samples from cu-IUD users, there 
+were no genes with statistically significant differential expression compared to 
+controls. In LNG-IUS users, 2509 genes were differentially expressed and mapped 
+predominantly onto immune and inflammatory pathways. The cervical samples showed 
+no statistically significant differential gene expression compared to controls. 
+Hormonal and copper IUDs have significantly different effects on the endometrial 
+transcriptome, with the LNG-IUS transcriptome showing pronounced inflammation 
+and immune activation compared to controls whereas the cu-IUD transcriptome was 
+indistinguishable from luteal phase endometrium. These findings argue against a 
+foreign body reaction as a common mechanism of action of IUDs.
+
+DOI: 10.1038/s41598-020-63798-8
+PMCID: PMC7181869
+PMID: 32327684 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

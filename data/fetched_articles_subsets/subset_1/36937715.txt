@@ -1,0 +1,58 @@
+1. Front Psychiatry. 2023 Mar 2;14:1139451. doi: 10.3389/fpsyt.2023.1139451. 
+eCollection 2023.
+
+Incorporating multi-stage diagnosis status to mine associations between genetic 
+risk variants and the multi-modality phenotype network in major depressive 
+disorder.
+
+Zhang L(1)(2), Pang M(1), Liu X(3), Hao X(4), Wang M(2), Xie C(5), Zhang Z(5), 
+Yuan Y(3), Zhang D(2).
+
+Author information:
+(1)College of Computer Science and Technology, Nanjing Forestry University, 
+Nanjing, China.
+(2)College of Computer Science and Technology, Nanjing University of Aeronautics 
+and Astronautics, Nanjing, China.
+(3)Department of Psychosomatic and Psychiatry, Zhongda Hospital, School of 
+Medicine, Southeast University, Nanjing, China.
+(4)School of Artificial Intelligence, Hebei University of Technology, Tianjin, 
+China.
+(5)Department of Neurology, ZhongDa Hospital, School of Medicine, Southeast 
+University, Nanjing, China.
+
+Depression (major depressive disorder, MDD) is a common and serious medical 
+illness. Globally, it is estimated that 5% of adults suffer from depression. 
+Recently, imaging genetics receives growing attention and become a powerful 
+strategy for discoverying the associations between genetic variants (e.g., 
+single-nucleotide polymorphisms, SNPs) and multi-modality brain imaging data. 
+However, most of the existing MDD imaging genetic research studies conducted by 
+clinicians usually utilize simple statistical analysis methods and only consider 
+single-modality brain imaging, which are limited in the deeper discovery of the 
+mechanistic understanding of MDD. It is therefore imperative to utilize a 
+powerful and efficient technology to fully explore associations between genetic 
+variants and multi-modality brain imaging. In this study, we developed a novel 
+imaging genetic association framework to mine the multi-modality phenotype 
+network between genetic risk variants and multi-stage diagnosis status. 
+Specifically, the multi-modality phenotype network consists of voxel node 
+features and connectivity edge features from structural magnetic resonance 
+imaging (sMRI) and resting-state functional magnetic resonance imaging 
+(rs-fMRI). Thereafter, an association model based on multi-task learning 
+strategy was adopted to fully explore the relationship between the MDD risk SNP 
+and the multi-modality phenotype network. The multi-stage diagnosis status was 
+introduced to further mine the relation among the multiple modalities of 
+different subjects. A multi-modality brain imaging data and genotype data were 
+collected by us from two hospitals. The experimental results not only 
+demonstrate the effectiveness of our proposed method but also identify some 
+consistent and stable brain regions of interest (ROIs) biomarkers from the node 
+and edge features of multi-modality phenotype network. Moreover, four new and 
+potential risk SNPs associated with MDD were discovered.
+
+Copyright © 2023 Zhang, Pang, Liu, Hao, Wang, Xie, Zhang, Yuan and Zhang.
+
+DOI: 10.3389/fpsyt.2023.1139451
+PMCID: PMC10017727
+PMID: 36937715
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

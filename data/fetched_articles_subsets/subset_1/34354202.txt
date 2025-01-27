@@ -1,0 +1,45 @@
+1. Sci Rep. 2021 Aug 5;11(1):15869. doi: 10.1038/s41598-021-95563-w.
+
+Real-time SARS-CoV-2 diagnostic and variants tracking over multiple candidates 
+using nanopore DNA sequencing.
+
+Stüder F(#)(1), Petit JL(#)(1), Engelen S(2), Mendoza-Parra MA(3).
+
+Author information:
+(1)Génomique Métabolique, Genoscope, Institut François Jacob, CEA, CNRS, Univ of 
+Évry, Paris-Saclay University, 91057, Evry, France.
+(2)Genoscope, Institut de Biologie François-Jacob, Commissariat À L'Energie 
+Atomique (CEA), Université Paris-Saclay, Evry, France.
+(3)Génomique Métabolique, Genoscope, Institut François Jacob, CEA, CNRS, Univ of 
+Évry, Paris-Saclay University, 91057, Evry, France. mmendoza@genoscope.cns.fr.
+(#)Contributed equally
+
+Since December 2019, a novel coronavirus responsible for a severe acute 
+respiratory syndrome (SARS-CoV-2) is accountable for a major pandemic situation. 
+The emergence of the B.1.1.7 strain, as a highly transmissible variant has 
+accelerated the world-wide interest in tracking SARS-CoV-2 variants' occurrence. 
+Similarly, other extremely infectious variants, were described and further 
+others are expected to be discovered due to the long period of time on which the 
+pandemic situation is lasting. All described SARS-CoV-2 variants present several 
+mutations within the gene encoding the Spike protein, involved in host receptor 
+recognition and entry into the cell. Hence, instead of sequencing the whole 
+viral genome for variants' tracking, herein we propose to focus on the SPIKE 
+region to increase the number of candidate samples to screen at once; an 
+essential aspect to accelerate diagnostics, but also variants' 
+emergence/progression surveillance. This proof of concept study accomplishes 
+both at once, population-scale diagnostics and variants' tracking. This strategy 
+relies on (1) the use of the portable MinION DNA sequencer; (2) a DNA barcoding 
+and a SPIKE gene-centered variant's tracking, increasing the number of 
+candidates per assay; and (3) a real-time diagnostics and variant's tracking 
+monitoring thanks to our software RETIVAD. This strategy represents an optimal 
+solution for addressing the current needs on SARS-CoV-2 progression 
+surveillance, notably due to its affordable implementation, allowing its 
+implantation even in remote places over the world.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-95563-w
+PMCID: PMC8342707
+PMID: 34354202 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

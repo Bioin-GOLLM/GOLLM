@@ -1,0 +1,100 @@
+1. Cell Genom. 2022 Mar 9;2(3):100101. doi: 10.1016/j.xgen.2022.100101.
+eCollection  2022 Mar 9.
+
+Decoding the diversity of killer immunoglobulin-like receptors by deep 
+sequencing and a high-resolution imputation method.
+
+Sakaue S(1)(2)(3)(4)(5), Hosomichi K(6), Hirata J(1), Nakaoka H(7), Yamazaki 
+K(8)(9)(10), Yawata M(11)(12)(13)(14), Yawata N(15)(16)(17), Naito T(1)(18), 
+Umeno J(19), Kawaguchi T(20), Matsui T(21), Motoya S(22), Suzuki Y(23), Inoko 
+H(24), Tajima A(6), Morisaki T(25), Matsuda K(26), Kamatani Y(5)(27), Yamamoto 
+K(10), Inoue I(7), Okada Y(1)(28)(29)(30)(31).
+
+Author information:
+(1)Department of Statistical Genetics, Osaka University Graduate School of 
+Medicine, 2-2 Yamadaoka, Suita, Osaka 565-0871, Japan.
+(2)Center for Data Sciences, Harvard Medical School, Boston, MA 02115, USA.
+(3)Divisions of Genetics and Rheumatology, Department of Medicine, Brigham and 
+Women's Hospital, Harvard Medical School, Boston, MA 02115, USA.
+(4)Program in Medical and Population Genetics, Broad Institute of MIT and 
+Harvard, Cambridge, MA 02142, USA.
+(5)Laboratory for Statistical Analysis, RIKEN Center for Integrative Medical 
+Sciences, Yokohama 230-0045, Japan.
+(6)Department of Bioinformatics and Genomics, Graduate School of Advanced 
+Preventive Medical Sciences, Kanazawa University, Ishikawa 920-8640, Japan.
+(7)Human Genetics Laboratory, National Institute of Genetics, Shizuoka 411-8540, 
+Japan.
+(8)Laboratory for Genotyping Development, RIKEN Center for Integrative Medical 
+Sciences, Yokohama 230-0045, Japan.
+(9)Department of Public Health, Graduate School of Medicine, Chiba University, 
+Chiba 260-8670, Japan.
+(10)Laboratory for Autoimmune Diseases, RIKEN Center for Integrative Medical 
+Sciences, Yokohama 230-0045, Japan.
+(11)Department of Paediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore, and National University Health System, Singapore 
+119228, Singapore.
+(12)NUSMed Immunology Translational Research Programme, and Immunology 
+Programme, Life Sciences Institute, National University of Singapore, Singapore 
+117456, Singapore.
+(13)Singapore Institute for Clinical Sciences, Agency for Science, Technology 
+and Research, Singapore 117609, Singapore.
+(14)International Research Center for Medical Sciences, Kumamoto University, 
+Kumamoto 860-0811, Japan.
+(15)Department of Ocular Pathology and Imaging Science, Kyushu University, 
+812-8582, Japan.
+(16)Singapore Eye Research Institute, Singapore 169856, Singapore.
+(17)Duke-NUS Medical School, Singapore 169857, Singapore.
+(18)Department of Neurology, Graduate School of Medicine, The University of 
+Tokyo, Tokyo 113-8655, Japan.
+(19)Department of Medicine and Clinical Science, Graduate School of Medical 
+Sciences, Kyushu University, Fukuoka 812-8582, Japan.
+(20)Division of Gastroenterology, Department of Medicine, Tokyo Yamate Medical 
+Center, Tokyo 169-0073, Japan.
+(21)Department of Gastroenterology, Fukuoka University Chikushi Hospital, 
+Fukuoka 818-0067, Japan.
+(22)Department of Gastroenterology, Sapporo-Kosei General Hospital, Sapporo 
+060-0033, Japan.
+(23)Department of Internal Medicine, Faculty of Medicine, Toho University, Chiba 
+274-8510, Japan.
+(24)GenoDive Pharma Inc., Atsugi 243-0018, Japan.
+(25)Division of Molecular Pathology, The Institute of Medical Science, The 
+University of Tokyo, Tokyo 108-8639, Japan.
+(26)Department of Computational Biology and Medical Sciences, Graduate School of 
+Frontier Sciences, The University of Tokyo, Tokyo 108-8639, Japan.
+(27)Laboratory of Complex Trait Genomics, Department of Computational Biology 
+and Medical Sciences, Graduate School of Frontier Sciences, The University of 
+Tokyo, Tokyo 108-8639, Japan.
+(28)Laboratory of Statistical Immunology, Immunology Frontier Research Center 
+(WPI-IFReC), Osaka University, Suita 565-0871, Japan.
+(29)Integrated Frontier Research for Medical Science Division, Institute for 
+Open and Transdisciplinary Research Initiatives, Osaka University, Suita 
+565-0871, Japan.
+(30)Laboratory for Systems Genetics, RIKEN Center for Integrative Medical 
+Sciences, Yokohama 230-0045, Japan.
+(31)Center for Infectious Disease Education and Research (CiDER), Osaka 
+University, Suita 565-0871, Japan.
+
+The killer cell immunoglobulin-like receptor (KIR) recognizes human leukocyte 
+antigen (HLA) class I molecules and modulates the function of natural killer 
+cells. Despite its role in immunity, the complex genomic structure has limited a 
+deep understanding of the KIR genomic landscape. Here we conduct deep sequencing 
+of 16 KIR genes in 1,173 individuals. We devise a bioinformatics pipeline 
+incorporating copy number estimation and insertion or deletion (indel) calling 
+for high-resolution KIR genotyping. We define 118 alleles in 13 genes and 
+demonstrate a linkage disequilibrium structure within and across KIR centromeric 
+and telomeric regions. We construct a KIR imputation reference panel 
+(nreference = 689, imputation accuracy = 99.7%), apply it to biobank genotype 
+(ntotal = 169,907), and perform phenome-wide association studies of 85 traits. 
+We observe a dearth of genome-wide significant associations, even in immune 
+traits implicated previously to be associated with KIR (the smallest p = 1.5 × 
+10-4). Our pipeline presents a broadly applicable framework to evaluate innate 
+immunity in large-scale datasets.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.xgen.2022.100101
+PMCID: PMC9903714
+PMID: 36777335
+
+Conflict of interest statement: H.I. is a founder of GenoDive Pharma. Inc. J.H. 
+is an employee of Teijin Pharma Limited.

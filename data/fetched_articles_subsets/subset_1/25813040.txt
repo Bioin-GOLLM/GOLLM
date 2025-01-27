@@ -1,0 +1,44 @@
+1. Nucleic Acids Res. 2015 Jun 23;43(11):e75. doi: 10.1093/nar/gkv213. Epub 2015 
+Mar 26.
+
+Intramolecular circularization increases efficiency of RNA sequencing and 
+enables CLIP-Seq of nuclear RNA from human cells.
+
+Chu Y(1), Wang T(2), Dodd D(1), Xie Y(3), Janowski BA(1), Corey DR(4).
+
+Author information:
+(1)Departments of Pharmacology and Biochemistry, 6001 Forest Park Road, Dallas, 
+TX 75390-9041, USA.
+(2)Quantitative Biomedical Research Center, Department of Clinical Science, 6001 
+Forest Park Road, Dallas, TX 75390-9041, USA.
+(3)Quantitative Biomedical Research Center, Department of Clinical Science, 6001 
+Forest Park Road, Dallas, TX 75390-9041, USA Simmons Cancer Center, UT 
+Southwestern Medical Center, 6001 Forest Park Road, Dallas, TX 75390-9041, USA.
+(4)Departments of Pharmacology and Biochemistry, 6001 Forest Park Road, Dallas, 
+TX 75390-9041, USA david.corey@utsouthwestern.edu.
+
+RNA sequencing (RNA-Seq) is a powerful tool for analyzing the identity of 
+cellular RNAs but is often limited by the amount of material available for 
+analysis. In spite of extensive efforts employing existing protocols, we 
+observed that it was not possible to obtain useful sequencing libraries from 
+nuclear RNA derived from cultured human cells after crosslinking and 
+immunoprecipitation (CLIP). Here, we report a method for obtaining 
+strand-specific small RNA libraries for RNA sequencing that requires picograms 
+of RNA. We employ an intramolecular circularization step that increases the 
+efficiency of library preparation and avoids the need for intermolecular 
+ligations of adaptor sequences. Other key features include random priming for 
+full-length cDNA synthesis and gel-free library purification. Using our method, 
+we generated CLIP-Seq libraries from nuclear RNA that had been UV-crosslinked 
+and immunoprecipitated with anti-Argonaute 2 (Ago2) antibody. Computational 
+protocols were developed to enable analysis of raw sequencing data and we 
+observe substantial differences between recognition by Ago2 of RNA species in 
+the nucleus relative to the cytoplasm. This RNA self-circularization approach to 
+RNA sequencing (RC-Seq) allows data to be obtained using small amounts of input 
+RNA that cannot be sequenced by standard methods.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkv213
+PMCID: PMC4477644
+PMID: 25813040 [Indexed for MEDLINE]

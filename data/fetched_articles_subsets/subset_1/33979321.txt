@@ -1,0 +1,38 @@
+1. PLoS Comput Biol. 2021 May 12;17(5):e1008977. doi:
+10.1371/journal.pcbi.1008977.  eCollection 2021 May.
+
+Swarm: A federated cloud framework for large-scale variant analysis.
+
+Bahmani A(1)(2)(3), Ferriter K(2)(3), Krishnan V(2)(3), Alavi A(2)(3), Alavi 
+A(2)(3), Tsao PS(4)(5), Snyder MP(1)(2)(3), Pan C(5).
+
+Author information:
+(1)Stanford Healthcare Innovation Lab, Stanford University, California, United 
+States of America.
+(2)Stanford Center for Genomics and Personalized Medicine, Stanford University, 
+California, United States of America.
+(3)Department of Genetics, Stanford University, California, United States of 
+America.
+(4)Division of Cardiovascular Medicine, Stanford University, California, United 
+States of America.
+(5)Palo Alto Epidemiology Research and Information Center for Genomics, VA Palo 
+Alto, California, United States of America.
+
+Genomic data analysis across multiple cloud platforms is an ongoing challenge, 
+especially when large amounts of data are involved. Here, we present Swarm, a 
+framework for federated computation that promotes minimal data motion and 
+facilitates crosstalk between genomic datasets stored on various cloud 
+platforms. We demonstrate its utility via common inquiries of genomic variants 
+across BigQuery in the Google Cloud Platform (GCP), Athena in the Amazon Web 
+Services (AWS), Apache Presto and MySQL. Compared to single-cloud platforms, the 
+Swarm framework significantly reduced computational costs, run-time delays and 
+risks of security breach and privacy violation.
+
+DOI: 10.1371/journal.pcbi.1008977
+PMCID: PMC8143397
+PMID: 33979321 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: MPS is the Cofounder 
+and SAB member of Personalis, Mirvie, SensOmics, Qbio, January, Oralome, 
+Filtricine, Protos; SAB of Genapsys, Jupiter.

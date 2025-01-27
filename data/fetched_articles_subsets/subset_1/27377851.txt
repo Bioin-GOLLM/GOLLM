@@ -1,0 +1,57 @@
+1. J Mol Cell Cardiol. 2016 Oct;99:174-187. doi: 10.1016/j.yjmcc.2016.06.068.
+Epub  2016 Jul 2.
+
+Modeling Na(+)-Ca(2+) exchange in the heart: Allosteric activation, spatial 
+localization, sparks and excitation-contraction coupling.
+
+Chu L(1), Greenstein JL(2), Winslow RL(3).
+
+Author information:
+(1)Department of Biomedical Engineering and the Institute for Computational 
+Medicine, The Johns Hopkins University School of Medicine and Whiting School of 
+Engineering, 3400 N Charles Street, Baltimore, MD, 21218, USA. Electronic 
+address: lchu4@jhu.edu.
+(2)Department of Biomedical Engineering and the Institute for Computational 
+Medicine, The Johns Hopkins University School of Medicine and Whiting School of 
+Engineering, 3400 N Charles Street, Baltimore, MD, 21218, USA. Electronic 
+address: jgreenst@jhu.edu.
+(3)Department of Biomedical Engineering and the Institute for Computational 
+Medicine, The Johns Hopkins University School of Medicine and Whiting School of 
+Engineering, 3400 N Charles Street, Baltimore, MD, 21218, USA. Electronic 
+address: rwinslow@jhu.edu.
+
+The cardiac sodium (Na+)/calcium (Ca2+) exchanger (NCX1) is an electrogenic 
+membrane transporter that regulates Ca2+ homeostasis in cardiomyocytes, serving 
+mainly to extrude Ca2+ during diastole. The direction of Ca2+ transport reverses 
+at membrane potentials near that of the action potential plateau, generating an 
+influx of Ca2+ into the cell. Therefore, there has been great interest in the 
+possible roles of NCX1 in cardiac Ca2+-induced Ca2+ release (CICR). Interest has 
+been reinvigorated by a recent super-resolution optical imaging study suggesting 
+that ~18% of NCX1 co-localize with ryanodine receptor (RyR2) clusters, and ~30% 
+of additional NCX1 are localized to within ~120nm of the nearest RyR2. NCX1 may 
+therefore occupy a privileged position in which to modulate CICR. To examine 
+this question, we have developed a mechanistic biophysically-detailed model of 
+NCX1 that describes both NCX1 transport kinetics and Ca2+-dependent allosteric 
+regulation. This NCX1 model was incorporated into a previously developed 
+super-resolution model of the Ca2+ spark as well as a computational model of the 
+cardiac ventricular myocyte that includes a detailed description of CICR with 
+stochastic gating of L-type Ca2+ channels and RyR2s, and that accounts for local 
+Ca2+ gradients near the dyad via inclusion of a peri-dyadic (PD) compartment. 
+Both models predict that increasing the fraction of NCX1 in the dyad and PD 
+decreases spark frequency, fidelity, and diastolic Ca2+ levels. Spark amplitude 
+and duration are less sensitive to NCX1 spatial redistribution. On the other 
+hand, NCX1 plays an important role in promoting Ca2+ entry into the dyad, and 
+hence contributing to the trigger for RyR2 release at depolarized membrane 
+potentials and in the presence of elevated local Na+ concentration. Whole-cell 
+simulation of NCX1 tail currents are consistent with the finding that a 
+relatively high fraction of NCX1 (~45%) resides in the dyadic and PD spaces, 
+with a dyad-to-PD ratio of roughly 1:2. Allosteric Ca2+ activation of NCX1 helps 
+to "functionally localize" exchanger activity to the dyad and PD by reducing 
+exchanger activity in the cytosol thereby protecting the cell from excessive 
+loss of Ca2+ during diastole.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.yjmcc.2016.06.068
+PMCID: PMC5534334
+PMID: 27377851 [Indexed for MEDLINE]

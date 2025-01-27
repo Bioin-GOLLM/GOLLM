@@ -1,0 +1,45 @@
+1. BMC Syst Biol. 2014 Aug 8;8:90. doi: 10.1186/s12918-014-0090-6.
+
+A system based network approach to ethanol tolerance in Saccharomyces 
+cerevisiae.
+
+Kasavi C, Eraslan S, Arga KY, Oner ET, Kirdar B(1).
+
+Author information:
+(1)Department of Chemical Engineering, Boğaziçi University, Istanbul, Turkey. 
+kirdar@boun.edu.tr.
+
+BACKGROUND: Saccharomyces cerevisiae has been widely used for bio-ethanol 
+production and development of rational genetic engineering strategies leading 
+both to the improvement of productivity and ethanol tolerance is very important 
+for cost-effective bio-ethanol production. Studies on the identification of the 
+genes that are up- or down-regulated in the presence of ethanol indicated that 
+the genes may be involved to protect the cells against ethanol stress, but not 
+necessarily required for ethanol tolerance.
+RESULTS: In the present study, a novel network based approach was developed to 
+identify candidate genes involved in ethanol tolerance. Protein-protein 
+interaction (PPI) network associated with ethanol tolerance (tETN) was 
+reconstructed by integrating PPI data with Gene Ontology (GO) terms. Modular 
+analysis of the constructed networks revealed genes with no previously reported 
+experimental evidence related to ethanol tolerance and resulted in the 
+identification of 17 genes with previously unknown biological functions. We have 
+randomly selected four of these genes and deletion strains of two genes (YDR307W 
+and YHL042W) were found to exhibit improved tolerance to ethanol when compared 
+to wild type strain. The genome-wide transcriptomic response of yeast cells to 
+the deletions of YDR307W and YHL042W in the absence of ethanol revealed that the 
+deletion of YDR307W and YHL042W genes resulted in the transcriptional 
+re-programming of the metabolism resulting from a mis-perception of the 
+nutritional environment. Yeast cells perceived an excess amount of glucose and a 
+deficiency of methionine or sulfur in the absence of YDR307W and YHL042W, 
+respectively, possibly resulting from a defect in the nutritional sensing and 
+signaling or transport mechanisms. Mutations leading to an increase in ribosome 
+biogenesis were found to be important for the improvement of ethanol tolerance. 
+Modulations of chronological life span were also identified to contribute to 
+ethanol tolerance in yeast.
+CONCLUSIONS: The system based network approach developed allows the 
+identification of novel gene targets for improved ethanol tolerance and supports 
+the highly complex nature of ethanol tolerance in yeast.
+
+DOI: 10.1186/s12918-014-0090-6
+PMCID: PMC4236716
+PMID: 25103914 [Indexed for MEDLINE]

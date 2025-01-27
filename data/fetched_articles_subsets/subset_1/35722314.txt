@@ -1,0 +1,52 @@
+1. Front Microbiol. 2022 Jun 3;13:901558. doi: 10.3389/fmicb.2022.901558. 
+eCollection 2022.
+
+Engineering of Src Homology 2 Domain Leading to Sulfotyrosine Recognition With a 
+High Affinity by Integrating a Distinctive Selection Theme and Next-Generation 
+Sequencing.
+
+Zhao D(1)(2), Li C(1), Jiang H(1), Yin Y(2), Zhou C(3), Huang H(2), Qi Y(4), Li 
+L(1).
+
+Author information:
+(1)School of Basic Medicine, Qingdao University, Qingdao, China.
+(2)Department of Drug Discovery, Noventi Biopharmaceuticals Co., Ltd., Shanghai, 
+China.
+(3)Sino Genomics Technology Co., Ltd., Qingdao, China.
+(4)School of Pharmacy, Qingdao University, Qingdao, China.
+
+Tyrosine sulfation plays a vital role in various biochemical reactions. Although 
+sulfated tyrosine (sTyr) has a similar structure to phosphotyrosine (pTyr), the 
+number of available sTyr sites is significantly less than that of pTyr sites, 
+mainly because of the lack of effective sTyr probes. A few sTyr binders were 
+identified on the basis of structural similarity by engineering the pTyr-binding 
+pocket of an Src Homology 2 (SH2) domain through phage selections against sTyr 
+peptides. Nevertheless, they still interact with pTyr peptides with comparable 
+affinity. This study aims to identify sTyr superbinders using the SH2 domain as 
+a template. We created a distinctive phage selection scheme that separately 
+covered selections against sTyr and pTyr peptides, followed by next-generation 
+sequencing (NGS). After selections, phage pools showed strong enzyme-linked 
+immunosorbent assay (ELISA) signal intensities for both modified peptides, 
+indicating that the variants evolved with a high affinity for these peptides, 
+which causes difficulty in identifying sTyr-specific binders. In contrast, NGS 
+data from selected pools showed significant differences, suggesting the 
+enrichment of sTyr-specific variants during selections. Accordingly, we obtained 
+the sTyr features based on NGS data analysis and prioritized a few potential 
+sTyr binders. The variant SH2-4 showed a stronger affinity for sTyr than pTyr 
+and was superior to previous sTyr binders as measured by the Biolayer 
+Interferometry assay. In summary, we described the strategy of integrating NGS 
+data mining with a novel selection scheme to identify sTyr superbinders.
+
+Copyright © 2022 Zhao, Li, Jiang, Yin, Zhou, Huang, Qi and Li.
+
+DOI: 10.3389/fmicb.2022.901558
+PMCID: PMC9204161
+PMID: 35722314
+
+Conflict of interest statement: HH and YY were the employees of Noventi 
+Biopharmaceuticals Co., Ltd. CZ was the employee of Sino Genomics Technology 
+Co., Ltd. LL, DZ, and CZ filed a provisional Chinese patent application related 
+to this work. DZ was an intern of Noventi Biopharmaceuticals. The remaining 
+authors declare that the research was conducted in the absence of any commercial 
+or financial relationships that could be construed as a potential conflict of 
+interest.

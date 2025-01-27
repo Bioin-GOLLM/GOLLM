@@ -1,0 +1,37 @@
+1. PLoS One. 2014 Oct 1;9(10):e108846. doi: 10.1371/journal.pone.0108846. 
+eCollection 2014.
+
+Mechanism of the exchange reaction in HRAS from multiscale modeling.
+
+Kapoor A(1), Travesset A(1).
+
+Author information:
+(1)Physics and Astronomy, Iowa State University, Ames, Iowa, United States of 
+America.
+
+HRAS regulates cell growth promoting signaling processes by cycling between 
+active (GTP-bound) and inactive (GDP-bound) states. Understanding the transition 
+mechanism is central for the design of small molecules to inhibit the formation 
+of RAS-driven tumors. Using a multiscale approach involving coarse-grained (CG) 
+simulations, all-atom classical molecular dynamics (CMD; total of 3.02 µs), and 
+steered molecular dynamics (SMD) in combination with Principal Component 
+Analysis (PCA), we identified the structural features that determine the 
+nucleotide (GDP) exchange reaction. We show that weakening the coupling between 
+the SwitchI (residues 25-40) and SwitchII (residues 59-75) accelerates the 
+opening of SwitchI; however, an open conformation of SwitchI is unstable in the 
+absence of guanine nucleotide exchange factors (GEFs) and rises up towards the 
+bound nucleotide to close the nucleotide pocket. Both I21 and Y32, play a 
+crucial role in SwitchI transition. We show that an open SwitchI conformation is 
+not necessary for GDP destabilization but is required for GDP/Mg escape from the 
+HRAS. Further, we present the first simulation study showing displacement of 
+GDP/Mg away from the nucleotide pocket. Both SwitchI and SwitchII, delays the 
+escape of displaced GDP/Mg in the absence of GEF. Based on these results, a 
+model for the mechanism of GEF in accelerating the exchange process is 
+hypothesized.
+
+DOI: 10.1371/journal.pone.0108846
+PMCID: PMC4182752
+PMID: 25272152 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

@@ -1,0 +1,27 @@
+1. Living Rev Relativ. 2009;12(1):3. doi: 10.12942/lrr-2009-3. Epub 2009 Apr 16.
+
+Characteristic Evolution and Matching.
+
+Winicour J(1)(2).
+
+Author information:
+(1)Albert Einstein Institute, Max Planck Institute for Gravitational Physics, Am 
+Mühlenberg 1, 14476 Potsdam-Golm, Germany.
+(2)Department of Physics and Astronomy, University of Pittsburgh, Pittsburgh, PA 
+15260 USA.
+
+I review the development of numerical evolution codes for general relativity 
+based upon the characteristic initial value problem. Progress is traced from the 
+early stage of 1D feasibility studies to 2D axisymmetric codes that accurately 
+simulate the oscillations and gravitational collapse of relativistic stars and 
+to current 3D codes that provide pieces of a binary black hole spacetime. Cauchy 
+codes have now been successful at simulating all aspects of the binary black 
+hole problem inside an artificially constructed outer boundary. A prime 
+application of characteristic evolution is to eliminate the role of this 
+artificial outer boundary via Cauchy-characteristic matching, by which the 
+radiated waveform can be computed at null infinity. Progress in this direction 
+is discussed.
+
+DOI: 10.12942/lrr-2009-3
+PMCID: PMC5256078
+PMID: 28179825

@@ -1,0 +1,42 @@
+1. Pharmacol Ther. 2020 Feb;206:107449. doi: 10.1016/j.pharmthera.2019.107449.
+Epub  2019 Dec 11.
+
+Time-dependent enzyme inactivation: Numerical analyses of in vitro data and 
+prediction of drug-drug interactions.
+
+Yadav J(1), Paragas E(2), Korzekwa K(2), Nagar S(3).
+
+Author information:
+(1)Amgen Inc., 360 Binney Street, Cambridge, MA 02142, United States; Department 
+of Pharmaceutical Sciences, Temple University, Philadelphia, PA 19140, United 
+States.
+(2)Department of Pharmaceutical Sciences, Temple University, Philadelphia, PA 
+19140, United States.
+(3)Department of Pharmaceutical Sciences, Temple University, Philadelphia, PA 
+19140, United States. Electronic address: swati.nagar@temple.edu.
+
+Cytochrome P450 (CYP) enzyme kinetics often do not conform to Michaelis-Menten 
+assumptions, and time-dependent inactivation (TDI) of CYPs displays complexities 
+such as multiple substrate binding, partial inactivation, quasi-irreversible 
+inactivation, and sequential metabolism. Additionally, in vitro experimental 
+issues such as lipid partitioning, enzyme concentrations, and inactivator 
+depletion can further complicate the parameterization of in vitro TDI. The 
+traditional replot method used to analyze in vitro TDI datasets is unable to 
+handle complexities in CYP kinetics, and numerical approaches using ordinary 
+differential equations of the kinetic schemes offer several advantages. 
+Improvement in the parameterization of CYP in vitro kinetics has the potential 
+to improve prediction of clinical drug-drug interactions (DDIs). This manuscript 
+discusses various complexities in TDI kinetics of CYPs, and numerical approaches 
+to model these complexities. The extrapolation of CYP in vitro TDI parameters to 
+predict in vivo DDIs with static and dynamic modeling is discussed, along with a 
+discussion on current gaps in knowledge and future directions to improve the 
+prediction of DDI with in vitro data for CYP catalyzed drug metabolism.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pharmthera.2019.107449
+PMCID: PMC6995442
+PMID: 31836452 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that there are no conflicts of interest.

@@ -1,0 +1,50 @@
+1. Sci Rep. 2022 Oct 9;12(1):16945. doi: 10.1038/s41598-022-20113-x.
+
+Approaches to long-read sequencing in a clinical setting to improve diagnostic 
+rate.
+
+Sanford Kobayashi E(1)(2), Batalov S(3), Wenger AM(4), Lambert C(4), Dhillon 
+H(4), Hall RJ(4), Baybayan P(4), Ding Y(3), Rego S(3), Wigby K(3)(5), Friedman 
+J(3)(5)(6), Hobbs C(3), Bainbridge MN(3).
+
+Author information:
+(1)Rady Institute for Genomic Medicine, San Diego, CA, USA. esanford@rchsd.org.
+(2)Department of Pediatrics, Cedars-Sinai Medical Center, Los Angeles, CA, USA. 
+esanford@rchsd.org.
+(3)Rady Institute for Genomic Medicine, San Diego, CA, USA.
+(4)Pacific Biosciences, Menlo Park, CA, USA.
+(5)Department of Pediatrics, University of California San Diego and Rady 
+Children's Hospital, San Diego, CA, USA.
+(6)Department of Neuroscience, University of California San Diego and Rady 
+Children's Hospital, San Diego, CA, USA.
+
+Over the past decade, advances in genetic testing, particularly the advent of 
+next-generation sequencing, have led to a paradigm shift in the diagnosis of 
+molecular diseases and disorders. Despite our present collective ability to 
+interrogate more than 90% of the human genome, portions of the genome have 
+eluded us, resulting in stagnation of diagnostic yield with existing 
+methodologies. Here we show how application of a new technology, long-read 
+sequencing, has the potential to improve molecular diagnostic rates. Whole 
+genome sequencing by long reads was able to cover 98% of next-generation 
+sequencing dead zones, which are areas of the genome that are not interpretable 
+by conventional industry-standard short-read sequencing. Through the ability of 
+long-read sequencing to unambiguously call variants in these regions, we 
+discovered an immunodeficiency due to a variant in IKBKG in a subject who had 
+previously received a negative genome sequencing result. Additionally, we 
+demonstrate the ability of long-read sequencing to detect small variants on par 
+with short-read sequencing, its superior performance in identifying structural 
+variants, and thirdly, its capacity to determine genomic methylation defects in 
+native DNA. Though the latter technical abilities have been demonstrated, we 
+demonstrate the clinical application of this technology to successfully identify 
+multiple types of variants using a single test.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-20113-x
+PMCID: PMC9548499
+PMID: 36210382 [Indexed for MEDLINE]
+
+Conflict of interest statement: AMW, CL, HD, RJH, and PB are employees and 
+shareholders of Pacific Biosciences. MNB is the founder of Codified Genomics, 
+LLC. The remaining authors (ESK, SB, YD, SR, KW, JF, CH) declare no competing 
+interests.

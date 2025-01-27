@@ -1,0 +1,52 @@
+1. Nat Commun. 2018 May 10;9(1):1857. doi: 10.1038/s41467-018-04208-6.
+
+The effects of mutational processes and selection on driver mutations across 
+cancer types.
+
+Temko D(1)(2)(3), Tomlinson IPM(4), Severini S(5)(6), Schuster-Böckler B(7), 
+Graham TA(8).
+
+Author information:
+(1)Evolution and Cancer laboratory, Barts Cancer Institute, Barts and the London 
+School of Medicine and Dentistry, Queen Mary University of London, Charterhouse 
+Sq, London, EC1M 6BQ, UK. daniel.temko.13@ucl.ac.uk.
+(2)Department of Computer Science, University College London, London, WC1E 6BT, 
+UK. daniel.temko.13@ucl.ac.uk.
+(3)Centre for Mathematics and Physics in the Life Sciences and Experimental 
+Biology (CoMPLEX), University College London, Gower Street, London, WC1E 6BT, 
+UK. daniel.temko.13@ucl.ac.uk.
+(4)Institute of Cancer and Genomic Sciences, University of Birmingham, 
+Edgbaston, Birmingham, B15 2TT, UK.
+(5)Department of Computer Science, University College London, London, WC1E 6BT, 
+UK.
+(6)Institute of Natural Sciences, Shanghai Jiao Tong University, Dong Chuan 
+Road, Minhang District, Shanghai, 200240, UK.
+(7)Ludwig Institute for Cancer Research, University of Oxford, Old Road Campus 
+Research Building, Roosevelt Dr, Oxford, OX3 7DQ, USA. 
+benjamin.schuster-boeckler@ludwig.ox.ac.uk.
+(8)Evolution and Cancer laboratory, Barts Cancer Institute, Barts and the London 
+School of Medicine and Dentistry, Queen Mary University of London, Charterhouse 
+Sq, London, EC1M 6BQ, UK. t.graham@qmul.ac.uk.
+
+Erratum in
+    Nat Commun. 2020 Apr 20;11(1):1959. doi: 10.1038/s41467-020-15800-0.
+
+Epidemiological evidence has long associated environmental mutagens with 
+increased cancer risk. However, links between specific mutation-causing 
+processes and the acquisition of individual driver mutations have remained 
+obscure. Here we have used public cancer sequencing data from 11,336 cancers of 
+various types to infer the independent effects of mutation and selection on the 
+set of driver mutations in a cancer type. First, we detect associations between 
+a range of mutational processes, including those linked to smoking, ageing, 
+APOBEC and DNA mismatch repair (MMR) and the presence of key driver mutations 
+across cancer types. Second, we quantify differential selection between 
+well-known alternative driver mutations, including differences in selection 
+between distinct mutant residues in the same gene. These results show that while 
+mutational processes have a large role in determining which driver mutations are 
+present in a cancer, the role of selection frequently dominates.
+
+DOI: 10.1038/s41467-018-04208-6
+PMCID: PMC5945620
+PMID: 29748584 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

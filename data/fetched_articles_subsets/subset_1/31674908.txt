@@ -1,0 +1,52 @@
+1. Elife. 2019 Nov 1;8:e51539. doi: 10.7554/eLife.51539.
+
+An efficient CRISPR-based strategy to insert small and large fragments of DNA 
+using short homology arms.
+
+Kanca O(1)(2), Zirin J(3)(4), Garcia-Marques J(5), Knight SM(3)(4), Yang-Zhou 
+D(3)(4), Amador G(3)(4), Chung H(1)(2), Zuo Z(1)(2), Ma L(1), He Y(1)(6), Lin 
+WW(1), Fang Y(1), Ge M(1), Yamamoto S(1)(2)(7)(8), Schulze KL(1)(2)(6), Hu 
+Y(3)(4), Spradling AC(9), Mohr SE(3)(4), Perrimon N(3)(4), Bellen 
+HJ(1)(2)(6)(7)(8).
+
+Author information:
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine, 
+Houston, United States.
+(2)Jan and Dan Duncan Neurological Research Institute, Texas Children's 
+Hospital, Houston, United States.
+(3)Howard Hughes Medical Institute, Harvard Medical School, Boston, United 
+States.
+(4)Department of Genetics, Harvard Medical School, Boston, United States.
+(5)Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, United 
+States.
+(6)Howard Hughes Medical Institute, Baylor College of Medicine, Houston, United 
+States.
+(7)Program in Developmental Biology, Baylor College of Medicine, Houston, United 
+States.
+(8)Department of Neuroscience, Baylor College of Medicine, Houston, United 
+States.
+(9)Department of Embryology, Howard Hughes Medical Institute, Carnegie 
+Institution for Science, Baltimore, United States.
+
+We previously reported a CRISPR-mediated knock-in strategy into introns of 
+Drosophila genes, generating an attP-FRT-SA-T2A-GAL4-polyA-3XP3-EGFP-FRT-attP 
+transgenic library for multiple uses (Lee et al., 2018a). The method relied on 
+double stranded DNA (dsDNA) homology donors with ~1 kb homology arms. Here, we 
+describe three new simpler ways to edit genes in flies. We create single 
+stranded DNA (ssDNA) donors using PCR and add 100 nt of homology on each side of 
+an integration cassette, followed by enzymatic removal of one strand. Using this 
+method, we generated GFP-tagged proteins that mark organelles in S2 cells. We 
+then describe two dsDNA methods using cheap synthesized donors flanked by 100 nt 
+homology arms and gRNA target sites cloned into a plasmid. Upon injection, donor 
+DNA (1 to 5 kb) is released from the plasmid by Cas9. The cassette integrates 
+efficiently and precisely in vivo. The approach is fast, cheap, and scalable.
+
+© 2019, Kanca et al.
+
+DOI: 10.7554/eLife.51539
+PMCID: PMC6855806
+PMID: 31674908 [Indexed for MEDLINE]
+
+Conflict of interest statement: OK, JZ, JG, SK, DY, GA, HC, ZZ, LM, YH, WL, YF, 
+MG, SY, KS, YH, AS, SM, NP No competing interests declared, HB Reviewing editor, 
+eLife

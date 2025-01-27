@@ -1,0 +1,50 @@
+1. Cell Rep. 2023 Jul 25;42(7):112711. doi: 10.1016/j.celrep.2023.112711. Epub
+2023  Jul 11.
+
+Improved HIV-1 neutralization breadth and potency of V2-apex antibodies by in 
+silico design.
+
+Holt GT(1), Gorman J(2), Wang S(3), Lowegard AU(1), Zhang B(2), Liu T(2), Lin 
+BC(2), Louder MK(2), Frenkel MS(4), McKee K(2), O'Dell S(2), Rawi R(2), Shen 
+CH(2), Doria-Rose NA(2), Kwong PD(5), Donald BR(6).
+
+Author information:
+(1)Department of Computer Science, Duke University, Durham, NC, USA; Program in 
+Computational Biology & Bioinformatics, Duke University, Durham, NC, USA.
+(2)Vaccine Research Center, National Institute of Allergy and Infectious 
+Diseases, National Institutes of Health, Bethesda, MD, USA.
+(3)Program in Computational Biology & Bioinformatics, Duke University, Durham, 
+NC, USA.
+(4)Department of Biochemistry, Duke University, Durham, NC, USA.
+(5)Vaccine Research Center, National Institute of Allergy and Infectious 
+Diseases, National Institutes of Health, Bethesda, MD, USA. Electronic address: 
+pdkwong@nih.gov.
+(6)Department of Computer Science, Duke University, Durham, NC, USA; Department 
+of Biochemistry, Duke University, Durham, NC, USA; Department of Mathematics, 
+Duke University, Durham, NC, USA; Department of Chemistry, Duke University, 
+Durham, NC, USA. Electronic address: brd+cell22@cs.duke.edu.
+
+Broadly neutralizing antibodies (bNAbs) against HIV can reduce viral 
+transmission in humans, but an effective therapeutic will require unusually high 
+breadth and potency of neutralization. We employ the OSPREY computational 
+protein design software to engineer variants of two apex-directed bNAbs, PGT145 
+and PG9RSH, resulting in increases in potency of over 100-fold against some 
+viruses. The top designed variants improve neutralization breadth from 39% to 
+54% at clinically relevant concentrations (IC80 < 1 μg/mL) and improve median 
+potency (IC80) by up to 4-fold over a cross-clade panel of 208 strains. To 
+investigate the mechanisms of improvement, we determine cryoelectron microscopy 
+structures of each variant in complex with the HIV envelope trimer. 
+Surprisingly, we find the largest increases in breadth to be a result of 
+optimizing side-chain interactions with highly variable epitope residues. These 
+results provide insight into mechanisms of neutralization breadth and inform 
+strategies for antibody design and improvement.
+
+Copyright © 2023 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2023.112711
+PMCID: PMC10528384
+PMID: 37436900 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests B.R.D. and M.S.F. are 
+founders of Ten63 Therapeutics. B.R.D., S.W., A.U.L., G.T.H., M.S.F., P.D.K., 
+J.G., and N.A.D. are inventors on a patent application filed by Duke University.

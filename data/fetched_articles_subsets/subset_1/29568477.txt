@@ -1,0 +1,44 @@
+1. Chem Sci. 2017 Aug 1;8(8):5335-5344. doi: 10.1039/c7sc01932g. Epub 2017 Jun
+13.
+
+MD simulations and QM/MM calculations show that single-site mutations of 
+cytochrome P450(BM3) alter the active site's complexity and the chemoselectivity 
+of oxidation without changing the active species.
+
+Dubey KD(1), Wang B(1), Vajpai M(2), Shaik S(1).
+
+Author information:
+(1)Institute of Chemistry , The Lise Meitner-Minerva Center for Computational 
+Quantum Chemistry , The Hebrew University of Jerusalem , 91904 , Jerusalem , 
+Israel . Email: sason@yfaat.ch.huji.ac.il.
+(2)Department of Biological Sciences and Bioengineering , Indian Institute of 
+Technology-Kanpur , Kanpur-208016 , UP , India.
+
+It is a long-standing mechanistic consensus that the mutation of the 
+proton-shuttle mediator Threonine (T) in Cytochrome P450 enzymes severs the 
+water channel and thereby quenches the formation of the active species: the 
+high-valent iron(iv)-oxo porphyrin π-cation radical species, compound I (Cpd I). 
+Using MD simulations and hybrid QM/MM calculations of P450BM3 we demonstrate 
+that this is not the case. Thus, while the original water channel is disrupted 
+in the T268A mutant of the enzyme, a new channel is formed that generates Cpd I. 
+With this new understanding, we address the puzzling regiochemical and 
+kinetic-isotope effect (KIE) results (Volz et al., J. Am. Chem. Soc., 2002, 124, 
+9724-9725) on the sulfoxidation and N-dealkylation of 
+dimethyl-(4-methylsulfanyl-phenyl)-amine by wild type (WT) P450BM3 and its T268A 
+vs. F87A mutants. We show that the observed variable ratio of S/Me oxidation for 
+these enzymes, vis-à-vis the constant KIE, originates from Cpd I being the sole 
+oxidant. Thus, while the conserved KIE probes the conserved nature of the 
+transition state, the variable regiochemical S/Me ratio reflects the active-site 
+reorganization in the mutants: the shifted location of the new water channel in 
+T268A tightens the binding of the S-end by Cpd I and increases the S/Me ratio, 
+whereas the absence of π-interaction with the S-end in F87A creates a looser 
+binding that lowers the S/Me ratio. Our results match the experimental findings. 
+As such, this study sheds light on puzzling experimental results, and may shift 
+a central paradigm in P450 research. The broader implication on enzymatic 
+research is that a single-site mutation is not a localised alteration but one 
+that may lead to a profound change in the active site, sufficiently so as to 
+change the chemoselectivity of catalyzed reactions.
+
+DOI: 10.1039/c7sc01932g
+PMCID: PMC5851339
+PMID: 29568477

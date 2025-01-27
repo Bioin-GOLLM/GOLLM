@@ -1,0 +1,54 @@
+1. Biophys Chem. 2017 Nov;230:117-126. doi: 10.1016/j.bpc.2017.09.004. Epub 2017 
+Sep 22.
+
+Investigation of structural dynamics of Thrombocytopenia Cargeeg mutants of 
+human apoptotic cytochrome c: A molecular dynamics simulation approach.
+
+Muneeswaran G(1), Kartheeswaran S(2), Pandiaraj M(3), Muthukumar K(4), 
+Sankaralingam M(5), Arunachalam S(6).
+
+Author information:
+(1)Department of Chemistry, School of Advanced Sciences, Kalasalingam Academy of 
+Research and Education, Krishnankoil 626 126, Tamilnadu, India. Electronic 
+address: kgmunees@gmail.com.
+(2)Department of Master of Computer Applications, School of Computing, 
+Kalasalingam Academy of Research and Education, Krishnankoil 626 126, Tamilnadu, 
+India.
+(3)Bio-MEMS and Microsystems Laboratory, Department of Electrical and Computer 
+Engineering, Florida International University, USA.
+(4)Applied Materials, Sunnyvale 94085, California, USA.
+(5)Department of Chemistry and Nano Science, Ewha Womans University, Seoul 
+03760, Republic of Korea.
+(6)Department of Chemistry, School of Advanced Sciences, Kalasalingam Academy of 
+Research and Education, Krishnankoil 626 126, Tamilnadu, India.
+
+Naturally occurring mutations to cytochrome c (cyt-c) have been identified 
+recently in patients with mild autosomal dominant thrombocytopenia (low platelet 
+levels), which yield cyt-c mutants with enhanced apoptotic activity. However, 
+the molecular mechanism underlying this low platelet production and enhanced 
+apoptosis remain unclear. Therefore, an attempt is made herein for the first 
+time to investigate the effects of mutations of glycine 41 by serine (G41S) and 
+tyrosine 48 by histidine (Y48H) on the conformational and dynamic changes of 
+apoptotic (Fe3+) cyt-c using all atom molecular dynamics (MD) simulations in 
+explicit water solvent. Our 30ns MD simulations demonstrate considerable 
+structural differences in G41S and Y48H compared to wild type (WT) cyt-c, such 
+as increasing distances between the critical electron transfer residues results 
+in open conformation at the heme active site, large fluctuations in β-turns and 
+α-helices. Additionally, although the β-sheets remain mostly unaffected in all 
+the three cyt-c simulations, the α-helices undergo conformational switch to 
+β-turns in both the mutant simulations. Importantly, this conformational switch 
+of α-helix to β-turn around heme active site should attributes to the loss of 
+intraprotein H-bonds in the mutant simulations especially between NE2 (His26) 
+and O (Pro44) in agreement with the experimental report. Further, essential 
+dynamics analysis reveals that overall motions of WT cyt-c is mainly involved 
+only in the first eigenvector, but in G41S and Y48H the overall motions are 
+mainly in three and two eigenvectors respectively. Overall, the detailed 
+atomistic level information provide a unifying description for the molecular 
+mechanism of structural destabilization, disregulation of platelet formation and 
+enhanced peroxidase activity of the mutant cyt-c's in the pathology of intrinsic 
+apoptosis.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bpc.2017.09.004
+PMID: 28958449 [Indexed for MEDLINE]

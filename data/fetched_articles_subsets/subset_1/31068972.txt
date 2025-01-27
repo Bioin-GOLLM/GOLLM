@@ -1,0 +1,34 @@
+1. Front Genet. 2019 Apr 24;10:366. doi: 10.3389/fgene.2019.00366. eCollection 
+2019.
+
+An Ensemble Strategy to Predict Prognosis in Ovarian Cancer Based on Gene 
+Modules.
+
+Gao YC(1), Zhou XH(1), Zhang W(1).
+
+Author information:
+(1)Hubei Key Laboratory of Agricultural Bioinformatics, College of Informatics, 
+Huazhong Agricultural University, Wuhan, China.
+
+Due to the high heterogeneity and complexity of cancer, it is still a challenge 
+to predict the prognosis of cancer patients. In this work, we used a clustering 
+algorithm to divide patients into different subtypes in order to reduce the 
+heterogeneity of the cancer patients in each subtype. Based on the hypothesis 
+that the gene co-expression network may reveal relationships among genes, some 
+communities in the network could influence the prognosis of cancer patients and 
+all the prognosis-related communities could fully reveal the prognosis of cancer 
+patients. To predict the prognosis for cancer patients in each subtype, we 
+adopted an ensemble classifier based on the gene co-expression network of the 
+corresponding subtype. Using the gene expression data of ovarian cancer patients 
+in TCGA (The Cancer Genome Atlas), three subtypes were identified. Survival 
+analysis showed that patients in different subtypes had different survival 
+risks. Three ensemble classifiers were constructed for each subtype. 
+Leave-one-out and independent validation showed that our method outperformed 
+control and literature methods. Furthermore, the function annotation of the 
+communities in each subtype showed that some communities were cancer-related. 
+Finally, we found that the current drug targets can partially support our 
+method.
+
+DOI: 10.3389/fgene.2019.00366
+PMCID: PMC6491874
+PMID: 31068972

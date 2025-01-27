@@ -1,0 +1,45 @@
+1. bioRxiv [Preprint]. 2024 May 17:2023.11.18.567441. doi: 
+10.1101/2023.11.18.567441.
+
+Optical constraints on two-photon voltage imaging.
+
+Brooks FP 3rd(1), Davis HC(1), Wong-Campos JD(1), Cohen AE(1).
+
+Author information:
+(1)Department of Chemistry and Chemical Biology, Harvard University.
+
+Update in
+    Neurophotonics. 2024 Jul;11(3):035007. doi: 10.1117/1.NPh.11.3.035007.
+
+SIGNIFICANCE: Genetically encoded voltage indicators (GEVIs) are a valuable tool 
+for studying neural circuits in vivo, but the relative merits and limitations of 
+one-photon (1P) vs. two-photon (2P) voltage imaging are not well characterized.
+AIM: We consider the optical and biophysical constraints particular to 1P and 2P 
+voltage imaging and compare the imaging properties of commonly used GEVIs under 
+1P and 2P excitation.
+APPROACH: We measure brightness and voltage sensitivity of voltage indicators 
+from commonly used classes under 1P and 2P illumination. We also measure the 
+decrease in fluorescence as a function of depth in mouse brain. We develop a 
+simple model of the number of measurable cells as a function of reporter 
+properties, imaging parameters, and desired signal-to-noise ratio (SNR). We then 
+discuss how the performance of voltage imaging would be affected by sensor 
+improvements and by recently introduced advanced imaging modalities.
+RESULTS: Compared to 1P excitation, 2P excitation requires ~104-fold more 
+illumination power per cell to produce similar photon count rates. For voltage 
+imaging with JEDI-2P in mouse cortex with a target SNR of 10 (spike 
+height:baseline shot noise), a measurement bandwidth of 1 kHz, a thermally 
+limited laser power of 200 mW, and an imaging depth of > 300 μm, 2P voltage 
+imaging using an 80 MHz source can record from no more 12 cells simultaneously.
+CONCLUSIONS: Due to the stringent photon-count requirements of voltage imaging 
+and the modest voltage sensitivity of existing reporters, 2P voltage imaging in 
+vivo faces a stringent tradeoff between shot noise and tissue photodamage. 2P 
+imaging of hundreds of neurons with high SNR at depth > 300 μm will require 
+either major improvements in 2P GEVIs or qualitatively new approaches to 
+imaging.
+
+DOI: 10.1101/2023.11.18.567441
+PMCID: PMC10680948
+PMID: 38014011
+
+Conflict of interest statement: Disclosures. The authors have no competing 
+interests to declare.

@@ -1,0 +1,61 @@
+1. Iran J Med Sci. 2021 Nov;46(6):454-467. doi: 10.30476/ijms.2020.86984.1705.
+
+Engineering of Ocriplasmin Variants by Bioinformatics Methods for the Reduction 
+of Proteolytic and Autolytic Activities.
+
+Baghban R(1)(2)(3), Farajnia S(4), Ghasemi Y(5)(6), Mortazavi M(7), Ghasemali 
+S(1), Zakariazadeh M(8), Zarghami N(1), Samadi N(1).
+
+Author information:
+(1)Department of Medical Biotechnology, School of Advanced Medical Science, 
+Tabriz University of Medical Sciences,Tabriz, Iran.
+(2)Student Research Committee, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(3)Poostchi Ophthalmology Research Center, Shiraz University of Medical 
+Sciences, Shiraz, Iran.
+(4)Drug Applied Research Center, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(5)Pharmaceutical Sciences Research Center, School of Pharmacy, Shiraz 
+University of Medical Sciences, Shiraz, Iran.
+(6)Department of Pharmaceutical Biotechnology, School of Pharmacy, Shiraz 
+University of Medical Sciences, Shiraz, Iran.
+(7)Department of Biotechnology, Institute of Science and High Technology and 
+Environmental Sciences, Graduate University of Advanced Technology, Kerman, 
+Iran.
+(8)Department of Biology, Payame Noor University, Tehran, Iran.
+
+BACKGROUND: Ocriplasmin has been developed for the induction of posterior 
+vitreous detachment in patients with vitreomacular adhesion. At physiological 
+pH, ocriplasmin is susceptible to autolytic and proteolytic degradation, 
+limiting its activity duration. These undesirable properties of ocriplasmin can 
+be reduced by site-directed mutagenesis, so that its enzymatic activities can be 
+augmented. This study aimed to design ocriplasmin variants with improved 
+biological/physicochemical characteristics via bioinformatics tools.
+METHODS: This study was performed in Tabriz University of Medical Sciences, 
+Tabriz, Iran, 2019. Through site-directed mutagenesis, three ocriplasmin 
+variants were designed. Structural analysis was performed on the wild-type 
+variant and the mutant variants using the Protein Interactions Calculator (PIC) 
+server. The interactions between the S-2403 substrate and the ocriplasmin 
+variants were studied by molecular docking simulations, and binding capability 
+was evaluated by the calculation of free binding energy. The conformational 
+features of protein-substrate complex systems for all the variants were 
+evaluated using molecular dynamic simulations at 100 nanoseconds.
+RESULTS: The structural analysis of ocriplasmin revealed that the substitution 
+of threonine for alanine 59 significantly reduced proteolytic activity, while 
+the substitution of glutamic acid for lysine 156 influenced autolytic function. 
+The molecular docking simulation results indicated the appropriate binding of 
+the substrate to the ocriplasmin variants with high-to-low affinities. The 
+binding affinity of the wild-type variant for the substrate was higher than that 
+between the mutant variants and the substrate. Simulation analyses, consisting 
+of the root-mean-square deviation, the root-mean-square fluctuation, and the 
+center-of-mass average distance showed a higher affinity of the substrate for 
+the wild type than for the mutant variants.
+CONCLUSION: The mutational analysis of ocriplasmin revealed that A59T and K156E 
+mutagenesis could be used for the development of a new variant with higher 
+therapeutic efficacy.
+
+Copyright: © Iranian Journal of Medical Sciences.
+
+DOI: 10.30476/ijms.2020.86984.1705
+PMCID: PMC8611222
+PMID: 34840386 [Indexed for MEDLINE]

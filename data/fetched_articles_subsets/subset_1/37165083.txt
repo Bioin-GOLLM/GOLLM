@@ -1,0 +1,66 @@
+1. Nat Biotechnol. 2024 Apr;42(4):663-673. doi: 10.1038/s41587-023-01793-w. Epub 
+2023 May 10.
+
+Pangenome graph construction from genome alignments with Minigraph-Cactus.
+
+Hickey G(#)(1), Monlong J(#)(2), Ebler J(3)(4), Novak AM(2), Eizenga JM(2), Gao 
+Y(5); Human Pangenome Reference Consortium; Marschall T(3)(4), Li H(6)(7), Paten 
+B(8).
+
+Collaborators: Abel HJ, Antonacci-Fulton LL, Asri M, Baid G, Baker CA, Belyaeva 
+A, Billis K, Bourque G, Buonaiuto S, Carroll A, Chaisson MJP, Chang PC, Chang 
+XH, Cheng H, Chu J, Cody S, Colonna V, Cook DE, Cook-Deegan RM, Cornejo OE, 
+Diekhans M, Doerr D, Ebert P, Ebler J, Eichler EE, Fairley S, Fedrigo O, 
+Felsenfeld AL, Feng X, Fischer C, Flicek P, Formenti G, Frankish A, Fulton RS, 
+Garg S, Garrison E, Garrison NA, Giron CG, Green RE, Groza C, Guarracino A, 
+Haggerty L, Hall IM, Harvey WT, Haukness M, Haussler D, Heumos S, Hoekzema K, 
+Hourlier T, Howe K, Jain M, Jarvis ED, Ji HP, Kenny EE, Koenig BA, Kolesnikov A, 
+Korbel JO, Kordosky J, Koren S, Lee H, Lewis AP, Liao WW, Lu S, Lu TY, Lucas JK, 
+Magalhães H, Marco-Sola S, Marijon P, Markello C, Marschall T, Martin FJ, 
+McCartney A, McDaniel J, Miga KH, Mitchell MW, Mountcastle J, Munson KM, Mwaniki 
+MN, Nattestad M, Nurk S, Olsen HE, Olson ND, Pesout T, Phillippy AM, Popejoy AB, 
+Porubsky D, Prins P, Puiu D, Rautiainen M, Regier AA, Rhie A, Sacco S, Sanders 
+AD, Schneider VA, Schultz BI, Shafin K, Sibbesen JA, Sirén J, Smith MW, Sofia 
+HJ, Tayoun ANA, Thibaud-Nissen F, Tomlinson C, Tricomi FF, Villani F, Vollger 
+MR, Wagner J, Walenz B, Wang T, Wood JMD, Zimin AV, Zook JM.
+
+Author information:
+(1)UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa 
+Cruz, CA, USA. glenn.hickey@gmail.com.
+(2)UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa 
+Cruz, CA, USA.
+(3)Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich 
+Heine University Düsseldorf, Düsseldorf, Germany.
+(4)Center for Digital Medicine, Heinrich Heine University Düsseldorf, 
+Düsseldorf, Germany.
+(5)Center for Computational and Genomic Medicine, The Children's Hospital of 
+Philadelphia, Philadelphia, PA, USA.
+(6)Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.
+(7)Department of Biomedical Informatics, Harvard Medical School, Boston, MA, 
+USA.
+(8)UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa 
+Cruz, CA, USA. bpaten@ucsc.edu.
+(#)Contributed equally
+
+Pangenome references address biases of reference genomes by storing a 
+representative set of diverse haplotypes and their alignment, usually as a 
+graph. Alternate alleles determined by variant callers can be used to construct 
+pangenome graphs, but advances in long-read sequencing are leading to widely 
+available, high-quality phased assemblies. Constructing a pangenome graph 
+directly from assemblies, as opposed to variant calls, leverages the graph's 
+ability to represent variation at different scales. Here we present the 
+Minigraph-Cactus pangenome pipeline, which creates pangenomes directly from 
+whole-genome alignments, and demonstrate its ability to scale to 90 human 
+haplotypes from the Human Pangenome Reference Consortium. The method builds 
+graphs containing all forms of genetic variation while allowing use of current 
+mapping and genotyping tools. We measure the effect of the quality and 
+completeness of reference genomes used for analysis within the pangenomes and 
+show that using the CHM13 reference from the Telomere-to-Telomere Consortium 
+improves the accuracy of our methods. We also demonstrate construction of a 
+Drosophila melanogaster pangenome.
+
+© 2023. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41587-023-01793-w
+PMCID: PMC10638906
+PMID: 37165083 [Indexed for MEDLINE]

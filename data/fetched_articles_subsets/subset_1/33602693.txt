@@ -1,0 +1,62 @@
+1. Genome Res. 2021 Apr;31(4):635-644. doi: 10.1101/gr.268961.120. Epub 2021 Feb 
+18.
+
+SARS-CoV-2 genomic diversity and the implications for qRT-PCR diagnostics and 
+transmission.
+
+Sapoval N(1), Mahmoud M(2), Jochum MD(3), Liu Y(1), Elworth RAL(1), Wang Q(4), 
+Albin D(4), Ogilvie HA(1), Lee MD(5)(6), Villapol S(7), Hernandez KM(8)(9), 
+Maljkovic Berry I(10), Foox J(11), Beheshti A(12), Ternus K(13), Aagaard KM(3), 
+Posada D(14)(15)(16), Mason CE(11), Sedlazeck FJ(2), Treangen TJ(1).
+
+Author information:
+(1)Department of Computer Science, Rice University, Houston, Texas 77005, USA.
+(2)Human Genome Sequencing Center, Baylor College of Medicine, Houston, Texas 
+77030, USA.
+(3)Department of Obstetrics and Gynecology, Baylor College of Medicine and Texas 
+Children's Hospital, Houston, Texas 77030, USA.
+(4)Systems, Synthetic, and Physical Biology (SSPB) Graduate Program, Rice 
+University, Houston, Texas 77005, USA.
+(5)Exobiology Branch, NASA Ames Research Center, Mountain View, California 
+94043, USA.
+(6)Blue Marble Space Institute of Science, Seattle, Washington 98104, USA.
+(7)Department of Neurosurgery, Houston Methodist Research Institute, Houston, 
+Texas 77030, USA.
+(8)Department of Medicine, University of Chicago, Chicago, Illinois 60637, USA.
+(9)Center for Translational Data Science, University of Chicago, Chicago, 
+Illinois 60637, USA.
+(10)Walter Reed Army Institute of Research, Silver Spring, Maryland 20910, USA.
+(11)Department of Physiology and Biophysics, Weill Cornell Medicine, New York, 
+New York 10021, USA.
+(12)KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, 
+California 94035, USA.
+(13)Signature Science, LLC, Austin, Texas 78759, USA.
+(14)CINBIO, Universidade de Vigo, 36310 Vigo, Spain.
+(15)Department of Biochemistry, Genetics, and Immunology, Universidade de Vigo, 
+36310 Vigo, Spain.
+(16)Galicia Sur Health Research Institute (IIS Galicia Sur), SERGAS-UVIGO, 36213 
+Vigo, Spain.
+
+Update of
+    bioRxiv. 2020 Jul 02:2020.07.02.184481. doi: 10.1101/2020.07.02.184481.
+
+The COVID-19 pandemic has sparked an urgent need to uncover the underlying 
+biology of this devastating disease. Though RNA viruses mutate more rapidly than 
+DNA viruses, there are a relatively small number of single nucleotide 
+polymorphisms (SNPs) that differentiate the main SARS-CoV-2 lineages that have 
+spread throughout the world. In this study, we investigated 129 RNA-seq data 
+sets and 6928 consensus genomes to contrast the intra-host and inter-host 
+diversity of SARS-CoV-2. Our analyses yielded three major observations. First, 
+the mutational profile of SARS-CoV-2 highlights intra-host single nucleotide 
+variant (iSNV) and SNP similarity, albeit with differences in C > U changes. 
+Second, iSNV and SNP patterns in SARS-CoV-2 are more similar to MERS-CoV than 
+SARS-CoV-1. Third, a significant fraction of insertions and deletions contribute 
+to the genetic diversity of SARS-CoV-2. Altogether, our findings provide insight 
+into SARS-CoV-2 genomic diversity, inform the design of detection tests, and 
+highlight the potential of iSNVs for tracking the transmission of SARS-CoV-2.
+
+© 2021 Sapoval et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.268961.120
+PMCID: PMC8015855
+PMID: 33602693 [Indexed for MEDLINE]

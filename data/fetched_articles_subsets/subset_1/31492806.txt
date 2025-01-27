@@ -1,0 +1,50 @@
+1. Genetics. 2019 Oct;213(2):651-663. doi: 10.1534/genetics.119.302419. Epub 2019
+ Sep 6.
+
+Interpreting Coronary Artery Disease Risk Through Gene-Environment Interactions 
+in Gene Regulation.
+
+Findley AS(1), Richards AL(1), Petrini C(1), Alazizi A(1), Doman E(1), Shanku 
+AG(1), Davis GO(1), Hauff N(2), Sorokin Y(2), Wen X(3), Pique-Regi R(4)(2), Luca 
+F(4)(2).
+
+Author information:
+(1)Center for Molecular Medicine and Genetics, Wayne State University, Detroit, 
+Michigan 48201.
+(2)Department of Obstetrics and Gynecology, Wayne State University, Detroit, 
+Michigan 48201.
+(3)Department of Biostatistics, University of Michigan, Ann Arbor, Michigan 
+48109.
+(4)Center for Molecular Medicine and Genetics, Wayne State University, Detroit, 
+Michigan 48201 rpique@wayne.edu fluca@wayne.edu.
+
+GWAS and eQTL studies identified thousands of genetic variants associated with 
+complex traits and gene expression. Despite the important role of environmental 
+exposures in complex traits, only a limited number of environmental factors were 
+measured in these studies. Measuring molecular phenotypes in tightly controlled 
+cellular environments provides a more tractable setting to study 
+gene-environment interactions in the absence of other confounding variables. We 
+performed RNA-seq and ATAC-seq in endothelial cells exposed to retinoic acid, 
+dexamethasone, caffeine, and selenium to model genetic and environmental effects 
+on gene regulation in the vascular endothelium-a common site of pathology in 
+cardiovascular disease. We found that genes near regions of differentially 
+accessible chromatin were more likely to be differentially expressed [OR = 
+(3.41, 6.52), [Formula: see text]]. Furthermore, we confirmed that 
+environment-specific changes in transcription factor binding are a key mechanism 
+for cellular response to environmental stimuli. Single nucleotide polymorphisms 
+(SNPs) in these transcription response factor footprints for dexamethasone, 
+caffeine, and retinoic acid were enriched in GTEx eQTLs from artery tissues, 
+indicating that these environmental conditions are latently present in GTEx 
+samples. Additionally, SNPs in footprints for response factors in caffeine are 
+enriched in colocalized eQTLs for coronary artery disease (CAD), suggesting a 
+role for caffeine in CAD risk. By combining GWAS, eQTLs, and response genes, we 
+annotated environmental components that can increase or decrease disease risk 
+through changes in gene expression in 43 genes. Interestingly, each treatment 
+may amplify or buffer genetic risk for CAD, depending on the particular SNP or 
+gene considered.
+
+Copyright © 2019 by the Genetics Society of America.
+
+DOI: 10.1534/genetics.119.302419
+PMCID: PMC6781890
+PMID: 31492806 [Indexed for MEDLINE]

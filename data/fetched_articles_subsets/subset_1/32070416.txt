@@ -1,0 +1,64 @@
+1. Parasit Vectors. 2020 Feb 18;13(1):88. doi: 10.1186/s13071-020-3964-z.
+
+Identification of proteins from the secretory/excretory products (SEPs) of the 
+branchiuran ectoparasite Argulus foliaceus (Linnaeus, 1758) reveals unique 
+secreted proteins amongst haematophagous ecdysozoa.
+
+AmbuAli A(1)(2), Monaghan SJ(3), McLean K(4), Inglis NF(4), Bekaert M(3), Wehner 
+S(3)(5), Bron JE(3).
+
+Author information:
+(1)Institute of Aquaculture, School of Natural Sciences, University of Stirling, 
+Stirling, FK9 4LA, UK. hala@squ.edu.om.
+(2)Department of Marine Science and Fisheries, College of Agricultural and 
+Marine Sciences, Sultan Qaboos University, PO Box 34, 123, Al-Khoud, Sultanate 
+of Oman. hala@squ.edu.om.
+(3)Institute of Aquaculture, School of Natural Sciences, University of Stirling, 
+Stirling, FK9 4LA, UK.
+(4)Moredun Proteomics Facility, Moredun Research Institute, Pentland Science 
+Park, Bush Loan, Penicuik, Midlothian, EH26 0PZ, UK.
+(5)Max Planck Institute of Psychiatry, Kraepelinstr. 2-10, 80804, Munich, 
+Germany.
+
+BACKGROUND: It is hypothesised that being a blood-feeding ectoparasite, Argulus 
+foliaceus (Linnaeus, 1758), uses similar mechanisms for digestion and host 
+immune evasion to those used by other haematophagous ecdysozoa, including 
+caligid copepods (e.g. sea louse). We recently described and characterised 
+glands associated with the feeding appendages of A. foliaceus using histological 
+techniques. The work described in the present study is the first undertaken with 
+the objective of identifying and partially characterising the components 
+secreted from these glands using a proteomic approach.
+METHODS: Argulus foliaceus parasites were sampled from the skin of rainbow trout 
+(Oncorhynchus mykiss), from Loch Fad on the Isle of Bute, Scotland, UK. The 
+proteins from A. foliaceus secretory/excretory products (SEPs) were collected 
+from the supernatant of artificial freshwater conditioned with active adult 
+parasites (n = 5-9 per ml; n = 560 total). Proteins within the SEPs were 
+identified and characterised using LC-ESI-MS/MS analysis. Data are available via 
+ProteomeXchange with identifier PXD016226.
+RESULTS: Data mining of a protein database translated from an A. foliaceus 
+dataset using ProteinScape allowed identification of 27 predicted protein 
+sequences from the A. foliaceus SEPs, each protein matching the criteria of 2 
+peptides with at least 4 contiguous amino acids. Nine proteins had no matching 
+sequence through OmicsBox (Blast2GO) analysis searches suggesting that Argulus 
+spp. may additionally have unique proteins present in their SEPs. SignalP 5.0 
+software, identified 13 proteins with a signal sequence suggestive of signal 
+peptides and supportive of secreted proteins being identified. Notably, the 
+functional characteristics of identified A. foliaceus proteins/domains have also 
+been described from the salivary glands and saliva of other blood-feeding 
+arthropods such as ticks. Identified proteins included: transporters, 
+peroxidases, metalloproteases, proteases and serine protease inhibitors which 
+are known to play roles in parasite immune evasion/induction (e.g. astacin), 
+immunomodulation (e.g. serpin) and digestion (e.g. trypsin).
+CONCLUSIONS: To our knowledge, the present study represents the first proteomic 
+analysis undertaken for SEPs from any branchiuran fish louse. Here we reveal 
+possible functional roles of A. foliaceus SEPs in digestion and 
+immunomodulation, with a number of protein families shared with other 
+haematophagous ectoparasites. A number of apparently unique secreted proteins 
+were identified compared to other haematophagous ecdysozoa.
+
+DOI: 10.1186/s13071-020-3964-z
+PMCID: PMC7029603
+PMID: 32070416 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

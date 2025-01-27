@@ -1,0 +1,45 @@
+1. Biomed Res Int. 2022 Mar 29;2022:8114049. doi: 10.1155/2022/8114049.
+eCollection  2022.
+
+Use of Machine Learning and Routine Laboratory Tests for Diabetes Mellitus 
+Screening.
+
+Cardozo G(1)(2), Pintarelli GB(2), Andreis GR(2), Lopes ACW(3), Marques JLB(2).
+
+Author information:
+(1)Academic Department of Health and Services, Federal Institute of Santa 
+Catarina, Florianopolis, SC 88020-300, Brazil.
+(2)Institute of Biomedical Engineering, Federal University of Santa Catarina, 
+Florianopolis, SC 88040-900, Brazil.
+(3)Santa Luzia Medical Laboratory, Florianopolis, SC 88.117-001, Brazil.
+
+Most patients with diabetes mellitus are asymptomatic, which leads to delayed 
+and more complex treatment. At the same time, most individuals are routinely 
+subjected to standard clinical laboratory examinations, which create large 
+health datasets over a lifetime. Computer processing has been used to search for 
+health anomalies and predict diseases using clinical examinations. This work 
+studied machine learning models to support the screening of diabetes through 
+routine laboratory tests using data from laboratory tests of 62,496 patients. 
+The classification and regression models used were the K-nearest neighbor, 
+support vector machines, Bayes naïve, random forest models, and artificial 
+neural networks. Glycated hemoglobin, a test used for diabetes diagnosis, was 
+used as the target. Regression models calculated glycated hemoglobin directly 
+and were later classified. The performance of classification computer models has 
+been studied under various subdataset partitions and combinations (e.g., 
+healthy, prediabetic, and diabetes, as well as no healthy and no diabetes). The 
+best single performance was achieved with the artificial neural network model 
+when detecting prediabetes or diabetes. The artificial neural network 
+classification model scored 78.1%, 78.7%, and 78.4% for sensitivity, precision, 
+and F1 scores, respectively, when identifying no healthy group. Other models 
+also had good results, depending on what is desired. Machine learning-based 
+models can predict glycated hemoglobin values from routine laboratory tests and 
+can be used as a screening tool to refer a patient for further testing.
+
+Copyright © 2022 Glauco Cardozo et al.
+
+DOI: 10.1155/2022/8114049
+PMCID: PMC8983182
+PMID: 35392258 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

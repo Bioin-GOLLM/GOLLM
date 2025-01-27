@@ -1,0 +1,38 @@
+1. Biophys J. 2013 Sep 3;105(5):1217-26. doi: 10.1016/j.bpj.2013.07.041.
+
+CD44 receptor unfolding enhances binding by freeing basic amino acids to contact 
+carbohydrate ligand.
+
+Favreau AJ(1), Faller CE, Guvench O.
+
+Author information:
+(1)Center for Molecular Medicine, Maine Medical Center Research Institute, 
+Scarborough, Maine, USA.
+
+The extracellular carbohydrate-binding domain of the Type I transmembrane 
+receptor CD44 is known to undergo affinity switching, where change in 
+conformation leads to enhanced binding of its carbohydrate ligand hyaluronan. 
+Separate x-ray crystallographic and NMR experiments have led to competing 
+explanations, with the former supporting minor conformational changes at the 
+binding site and the latter a major order-to-disorder unfolding transition 
+distant from the binding site. Here, all-atom explicit-solvent molecular 
+dynamics studies employing adaptive biasing force sampling revealed a 
+substantial favorable free-energy change associated with contact formation 
+between the Arg(41) side chain and hyaluronan at the binding site, independent 
+of whether the distant site was ordered or disordered. Analogous computational 
+experiments on Arg(41)Ala mutants showed loss of this favorable free-energy 
+change, consistent with existing experimental data. More provocatively, the 
+simulation data revealed the molecular mechanism by which the order-to-disorder 
+transition enhances hyaluronan binding: in the disordered state, a number of 
+basic residues gain sufficient conformational freedom-lacking in the ordered 
+state-to spontaneously form side-chain contacts with hyaluronan. Mutation of 
+these residues to Ala had been known to decrease binding affinity, but there had 
+previously been no structural explanation, given their lack of proximity to the 
+carbohydrate-binding site in existing structures of the complex.
+
+Copyright © 2013 Biophysical Society. Published by Elsevier Inc. All rights 
+reserved.
+
+DOI: 10.1016/j.bpj.2013.07.041
+PMCID: PMC3762344
+PMID: 24010665 [Indexed for MEDLINE]

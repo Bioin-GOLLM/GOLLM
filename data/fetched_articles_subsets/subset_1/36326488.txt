@@ -1,0 +1,42 @@
+1. J Biomol Struct Dyn. 2023 Nov;41(19):9503-9522. doi: 
+10.1080/07391102.2022.2142846. Epub 2022 Nov 3.
+
+Computational study of the potential impact of AURKC missense SNPs on 
+AURKC-INCENP interaction and their correlation to macrozoospermia.
+
+Redouane S(1)(2), Charoute H(3), Harmak H(1), Malki A(2), Barakat A(1), Rouba 
+H(1).
+
+Author information:
+(1)Laboratory of Genomics and Human Genetics, Institut Pasteur du Maroc, 
+Casablanca, Morocco.
+(2)Laboratory of Physiopathology and Molecular Genetics, Department of Biology, 
+Faculty of Sciences Ben M'Sik, Hassan II University, Casablanca, Morocco.
+(3)Research Unit of Epidemiology, Biostatistics and Bioinformatics, Institut 
+Pasteur du Maroc, Casablanca, Morocco.
+
+Aurora Kinase C (AURKC) is considered an important element in Chromosome 
+Passenger Complex (CPC), its interaction with Inner Centromere Protein (INCENP) 
+plays a critical role in the establishment and the recruitment of a stable CPC 
+during spermatogenesis. Genetic variations of AURKC gene are susceptible to 
+impact AURKC-INCENP interaction, which may affect CPC stability and predispose 
+male subjects to macrozoospermia. In this study, we systematically applied 
+computational approaches using different bioinformatic tools to predict the 
+effect of missense SNPs reported on AURKC gene, we selected the deleterious ones 
+and we introduced their corresponding amino acid substitutions on AURKC protein 
+structure. Then we did a protein-protein docking between AURKC variants and 
+INCENP followed by a structural assessment of each resulting complex using 
+PRODIGY server, Yassara view, Ligplot + and we choose the complexes of the most 
+impactful variants for molecular dynamics (MD) simulation study. Seventeen 
+missense SNPs of AURKC were identified as deleterious between all reported ones. 
+All of them were located on relatively conserved positions on AURKC protein 
+according to Consurf server. Only the four missense SNPs; E91K, D166V, D221Y and 
+G235V were ranked as the most impactful ones and were chosen for MD simulation. 
+D221Y and G235V were responsible for the most remarkable changes on AURKC-INCENP 
+structural stability, therefore, they were selected as the most deleterious 
+ones. Experimental studies are recommended to test the actual effect of these 
+two variants and their actual impact on the morphology of sperm 
+cells.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2022.2142846
+PMID: 36326488 [Indexed for MEDLINE]

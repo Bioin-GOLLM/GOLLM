@@ -1,0 +1,43 @@
+1. J Biomed Semantics. 2017 Aug 22;8(1):29. doi: 10.1186/s13326-017-0137-x.
+
+Discovering associations between adverse drug events using pattern structures 
+and ontologies.
+
+Personeni G(1), Bresso E(2), Devignes MD(2), Dumontier M(3)(4), Smaïl-Tabbone 
+M(2), Coulet A(2)(4).
+
+Author information:
+(1)LORIA (CNRS, Inria NGE, Université de Lorraine), Campus Scientifique, 
+Vandœuvre-lès-Nancy, F-54506, France. gabin.personeni@loria.fr.
+(2)LORIA (CNRS, Inria NGE, Université de Lorraine), Campus Scientifique, 
+Vandœuvre-lès-Nancy, F-54506, France.
+(3)Institute of Data Science, Maastricht University, MD Maastricht, 6200, 
+Netherlands.
+(4)Stanford Center for Biomedical Informatics Research, Stanford, USA.
+
+BACKGROUND: Patient data, such as electronic health records or adverse event 
+reporting systems, constitute an essential resource for studying Adverse Drug 
+Events (ADEs). We explore an original approach to identify frequently associated 
+ADEs in subgroups of patients.
+RESULTS: Because ADEs have complex manifestations, we use formal concept 
+analysis and its pattern structures, a mathematical framework that allows 
+generalization using domain knowledge formalized in medical ontologies. Results 
+obtained with three different settings and two different datasets show that this 
+approach is flexible and allows extraction of association rules at various 
+levels of generalization.
+CONCLUSIONS: The chosen approach permits an expressive representation of a 
+patient ADEs. Extracted association rules point to distinct ADEs that occur in a 
+same group of patients, and could serve as a basis for a recommandation system. 
+The proposed representation is flexible and can be extended to make use of 
+additional ontologies and various patient records.
+
+DOI: 10.1186/s13326-017-0137-x
+PMCID: PMC5567667
+PMID: 28830518 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+work was done with IRB approval (#24883) at Stanford University. CONSENT FOR 
+PUBLICATION: Not applicable COMPETING INTERESTS: The authors declare that they 
+have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral 
+with regard to jurisdictional claims in published maps and institutional 
+affiliations.

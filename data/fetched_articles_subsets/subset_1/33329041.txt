@@ -1,0 +1,43 @@
+1. Front Physiol. 2020 Nov 24;11:591681. doi: 10.3389/fphys.2020.591681. 
+eCollection 2020.
+
+Prediction of Cardiac Mechanical Performance From Electrical Features During 
+Ventricular Tachyarrhythmia Simulation Using Machine Learning Algorithms.
+
+Jeong DU(1), Lim KM(1)(2).
+
+Author information:
+(1)Computational Medicine Lab, Department of IT Convergence Engineering, Kumoh 
+National Institute of Technology, Gumi, South Korea.
+(2)Computational Medicine Lab, Department of Medical IT Convergence Engineering, 
+Kumoh National Institute of Technology, Gumi, South Korea.
+
+In ventricular tachyarrhythmia, electrical instability features including action 
+potential duration, dominant frequency, phase singularity, and filaments are 
+associated with mechanical contractility. However, there are insufficient 
+studies on estimated mechanical contractility based on electrical features 
+during ventricular tachyarrhythmia using a stochastic model. In this study, we 
+predicted cardiac mechanical performance from features of electrical instability 
+during ventricular tachyarrhythmia simulation using machine learning algorithms, 
+including support vector regression (SVR) and artificial neural network (ANN) 
+models. We performed an electromechanical tachyarrhythmia simulation and 
+extracted 12 electrical instability features and two mechanical properties, 
+including stroke volume and the amplitude of myocardial tension (ampTens). We 
+compared predictive performance according to kernel types of the SVR model and 
+the number of hidden layers of the ANN model. In the SVR model, the prediction 
+accuracies of stroke volume and ampTens were the highest when using the 
+polynomial kernel and linear kernel, respectively. The predictive performance of 
+the ANN model was better than that of the SVR model. The prediction accuracies 
+were the highest when the ANN model consisted of three hidden layers. 
+Accordingly, we propose the ANN model with three hidden layers as an optimal 
+model for predicting cardiac mechanical contractility in ventricular 
+tachyarrhythmia. The results of this study are expected to be used to indirectly 
+estimate the hemodynamic response from the electrical cardiac map measured by 
+the optical mapping system during cardiac surgery, as well as cardiac 
+contractility under normal sinus rhythm conditions.
+
+Copyright © 2020 Jeong and Lim.
+
+DOI: 10.3389/fphys.2020.591681
+PMCID: PMC7732497
+PMID: 33329041

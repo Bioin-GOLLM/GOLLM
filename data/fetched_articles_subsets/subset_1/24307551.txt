@@ -1,0 +1,40 @@
+1. Genome Res. 2014 Feb;24(2):318-28. doi: 10.1101/gr.161497.113. Epub 2013 Dec
+4.
+
+Amplification and thrifty single-molecule sequencing of recurrent somatic 
+structural variations.
+
+Patel A(1), Schwab R, Liu YT, Bafna V.
+
+Author information:
+(1)Bioinformatics and Systems Biology Program, University of California San 
+Diego, La Jolla, California 92093, USA;
+
+Deletion of tumor-suppressor genes as well as other genomic rearrangements 
+pervade cancer genomes across numerous types of solid tumor and hematologic 
+malignancies. However, even for a specific rearrangement, the breakpoints may 
+vary between individuals, such as the recurrent CDKN2A deletion. Characterizing 
+the exact breakpoints for structural variants (SVs) is useful for designating 
+patient-specific tumor biomarkers. We propose AmBre (Amplification of 
+Breakpoints), a method to target SV breakpoints occurring in samples composed of 
+heterogeneous tumor and germline DNA. Additionally, AmBre validates SVs called 
+by whole-exome/genome sequencing and hybridization arrays. AmBre involves a 
+PCR-based approach to amplify the DNA segment containing an SV's breakpoint and 
+then confirms breakpoints using sequencing by Pacific Biosciences RS. To amplify 
+breakpoints with PCR, primers tiling specified target regions are carefully 
+selected with a simulated annealing algorithm to minimize off-target 
+amplification and maximize efficiency at capturing all possible breakpoints 
+within the target regions. To confirm correct amplification and obtain 
+breakpoints, PCR amplicons are combined without barcoding and simultaneously 
+long-read sequenced using a single SMRT cell. Our algorithm efficiently 
+separates reads based on breakpoints. Each read group supporting the same 
+breakpoint corresponds with an amplicon and a consensus amplicon sequence is 
+called. AmBre was used to discover CDKN2A deletion breakpoints in cancer cell 
+lines: A549, CEM, Detroit562, MOLT4, MCF7, and T98G. Also, we successfully 
+assayed RUNX1-RUNX1T1 reciprocal translocations by finding both breakpoints in 
+the Kasumi-1 cell line. AmBre successfully targets SVs where DNA harboring the 
+breakpoints are present in 1:1000 mixtures.
+
+DOI: 10.1101/gr.161497.113
+PMCID: PMC3912422
+PMID: 24307551 [Indexed for MEDLINE]

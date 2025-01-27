@@ -1,0 +1,67 @@
+1. Mol Cell Proteomics. 2021;20:100136. doi: 10.1016/j.mcpro.2021.100136. Epub
+2021  Aug 13.
+
+Proteogenomic Analysis Unveils the HLA Class I-Presented Immunopeptidome in 
+Melanoma and EGFR-Mutant Lung Adenocarcinoma.
+
+Qi YA(1), Maity TK(2), Cultraro CM(2), Misra V(2), Zhang X(2), Ade C(3), Gao 
+S(2), Milewski D(4), Nguyen KD(2), Ebrahimabadi MH(5), Hanada KI(3), Khan J(4), 
+Sahinalp C(6), Yang JC(3), Guha U(7).
+
+Author information:
+(1)Thoracic and GI Malignancies Branch, Center for Cancer Research, NCI, NIH, 
+Bethesda, Maryland, USA. Electronic address: andy.qi@nih.gov.
+(2)Thoracic and GI Malignancies Branch, Center for Cancer Research, NCI, NIH, 
+Bethesda, Maryland, USA.
+(3)Surgery Branch, Center for Cancer Research, NCI, NIH, Bethesda, Maryland, 
+USA.
+(4)Genetics Branch, Center for Cancer Research, NCI, NIH, Bethesda, Maryland, 
+USA.
+(5)Cancer Data Science Laboratory, Center for Cancer Research, NCI, NIH, 
+Bethesda, Maryland, USA; Department of Computer Science, Indiana University, 
+Bloomington, Indiana, USA.
+(6)Cancer Data Science Laboratory, Center for Cancer Research, NCI, NIH, 
+Bethesda, Maryland, USA.
+(7)Thoracic and GI Malignancies Branch, Center for Cancer Research, NCI, NIH, 
+Bethesda, Maryland, USA; Bristol-Myers Squibb, Lawrenceville, New Jersey, USA. 
+Electronic address: udayan.guha@nih.gov.
+
+Immune checkpoint inhibitors and adoptive lymphocyte transfer-based therapies 
+have shown great therapeutic potential in cancers with high tumor mutational 
+burden (TMB), such as melanoma, but not in cancers with low TMB, such as mutant 
+epidermal growth factor receptor (EGFR)-driven lung adenocarcinoma. Precision 
+immunotherapy is an unmet need for most cancers, particularly for cancers that 
+respond inadequately to immune checkpoint inhibitors. Here, we employed 
+large-scale MS-based proteogenomic profiling to identify potential immunogenic 
+human leukocyte antigen (HLA) class I-presented peptides in melanoma and 
+EGFR-mutant lung adenocarcinoma. Similar numbers of peptides were identified 
+from both tumor types. Cell line and patient-specific databases (DBs) were 
+constructed using variants identified from whole-exome sequencing. A de novo 
+search algorithm was used to interrogate the HLA class I immunopeptidome MS 
+data. We identified 12 variant peptides and several classes of tumor-associated 
+antigen-derived peptides. We constructed a cancer germ line (CG) antigen DB with 
+285 antigens. This allowed us to identify 40 class I-presented CG 
+antigen-derived peptides. The class I immunopeptidome comprised more than 1000 
+post-translationally modified (PTM) peptides representing 58 different PTMs, 
+underscoring the critical role PTMs may play in HLA binding. Finally, leveraging 
+de novo search algorithm and an annotated long noncoding RNA (lncRNA) DB, we 
+developed a novel lncRNA-encoded peptide discovery pipeline to identify 44 
+lncRNA-derived peptides that are presented by class I. We validated tandem MS 
+spectra of select variant, CG antigen, and lncRNA-derived peptides using 
+synthetic peptides and performed HLA class I-binding assays to demonstrate 
+binding to class I proteins. In summary, we provide direct evidence of HLA class 
+I presentation of a large number of variant and tumor-associated peptides in 
+both low and high TMB cancer. These results can potentially be useful for 
+precision immunotherapies, such as vaccine or adoptive cell therapies in 
+melanoma and EGFR-mutant lung cancers.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.mcpro.2021.100136
+PMCID: PMC8724932
+PMID: 34391887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest U. G. has a clinical trial 
+agreement with AstraZeneca and had received research funding from AstraZeneca, 
+Aurigene, and Esanex. U. G. is currently an employee of Bristol-Myers Squibb. 
+The other authors declare no competing interests.

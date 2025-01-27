@@ -1,0 +1,59 @@
+1. Sci Rep. 2020 Jun 22;10(1):10070. doi: 10.1038/s41598-020-66668-5.
+
+Risk of sudden cardiac arrest and ventricular arrhythmia with sulfonylureas: An 
+experience with conceptual replication in two independent populations.
+
+Dhopeshwarkar N(1), Brensinger CM(1), Bilker WB(1), Soprano SE(1), Flory 
+JH(1)(2), Dawwas GK(1), Gagne JJ(3), Hennessy S(1)(4), Leonard CE(5).
+
+Author information:
+(1)Center for Pharmacoepidemiology Research and Training, Department of 
+Biostatistics, Epidemiology, and Informatics, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+(2)Endocrinology Service, Department of Subspecialty Medicine, Memorial Sloan 
+Kettering Cancer Center, New York, New York, USA.
+(3)Division of Pharmacoepidemiology and Pharmacoeconomics, Department of 
+Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts, USA.
+(4)Department of Systems Pharmacology and Translational Therapeutics, Perelman 
+School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+(5)Center for Pharmacoepidemiology Research and Training, Department of 
+Biostatistics, Epidemiology, and Informatics, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, Pennsylvania, USA. 
+celeonar@pennmedicine.upenn.edu.
+
+Sulfonylureas are commonly used to treat type 2 diabetes mellitus. Despite 
+awareness of their effects on cardiac physiology, a knowledge gap exists 
+regarding their effects on cardiovascular events in real-world populations. 
+Prior studies reported sulfonylurea-associated cardiovascular death but not 
+serious arrhythmogenic endpoints like sudden cardiac arrest (SCA) or ventricular 
+arrhythmia (VA). We assessed the comparative real-world risk of SCA/VA among 
+users of second-generation sulfonylureas: glimepiride, glyburide, and glipizide. 
+We conducted two incident user cohort studies using five-state Medicaid claims 
+(1999-2012) and Optum Clinformatics commercial claims (2000-2016). Outcomes were 
+SCA/VA events precipitating hospital presentation. We used Cox proportional 
+hazards models, adjusted for high-dimensional propensity scores, to generate 
+adjusted hazard ratios (aHR). We identified 624,406 and 491,940 sulfonylurea 
+users, and 714 and 385 SCA/VA events, in Medicaid and Optum, respectively. 
+Dataset-specific associations with SCA/VA for both glimepiride and glyburide 
+(vs. glipizide) were on opposite sides of and could not exclude the null 
+(glimepiride: aHRMedicaid 1.17, 95% CI 0.96-1.42; aHROptum 0.84, 0.65-1.08; 
+glyburide: aHRMedicaid 0.87, 0.74-1.03; aHROptum 1.11, 0.86-1.42). Database 
+differences in data availability, populations, and documentation completeness 
+may have contributed to the incongruous results. Emphasis should be placed on 
+assessing potential causes of discrepancies between conflicting studies 
+evaluating the same research question.
+
+DOI: 10.1038/s41598-020-66668-5
+PMCID: PMC7308403
+PMID: 32572080 [Indexed for MEDLINE]
+
+Conflict of interest statement: CEL serves on the Executive Committee of and SH 
+directs the University of Pennsylvania’s Center for Pharmacoepidemiology 
+Research and Training. The Center receives unrestricted funds for education from 
+Pfizer and Sanofi. S.H. has consulted for GlaxoSmithKline on matters unrelated 
+to the topic of this paper. J.J.G. has received salary support from grants from 
+Eli Lilly and Company and Novartis Pharmaceuticals Corporation to the Brigham 
+and Women’s Hospital and was a consultant to Optum, Inc., all for unrelated 
+work. N.D., C.M.B., W.B.B., S.E.S., J.H.F. and G.K.D. declare no competing 
+interests.

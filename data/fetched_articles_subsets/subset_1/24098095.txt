@@ -1,0 +1,39 @@
+1. PLoS Comput Biol. 2013;9(10):e1003218. doi: 10.1371/journal.pcbi.1003218. Epub
+ 2013 Oct 3.
+
+Thermal adaptation of conformational dynamics in ribonuclease H.
+
+Stafford KA(1), Robustelli P, Palmer AG 3rd.
+
+Author information:
+(1)Department of Biochemistry and Molecular Biophysics, Columbia University, New 
+York, New York, United States of America.
+
+The relationship between inherent internal conformational processes and 
+enzymatic activity or thermodynamic stability of proteins has proven difficult 
+to characterize. The study of homologous proteins with differing 
+thermostabilities offers an especially useful approach for understanding the 
+functional aspects of conformational dynamics. In particular, ribonuclease HI 
+(RNase H), an 18 kD globular protein that hydrolyzes the RNA strand of RNA:DNA 
+hybrid substrates, has been extensively studied by NMR spectroscopy to 
+characterize the differences in dynamics between homologs from the mesophilic 
+organism E. coli and the thermophilic organism T. thermophilus. Herein, 
+molecular dynamics simulations are reported for five homologous RNase H proteins 
+of varying thermostabilities and enzymatic activities from organisms of markedly 
+different preferred growth temperatures. For the E. coli and T. thermophilus 
+proteins, strong agreement is obtained between simulated and experimental values 
+for NMR order parameters and for dynamically averaged chemical shifts, 
+suggesting that these simulations can be a productive platform for predicting 
+the effects of individual amino acid residues on dynamic behavior. Analyses of 
+the simulations reveal that a single residue differentiates between two 
+different and otherwise conserved dynamic processes in a region of the protein 
+known to form part of the substrate-binding interface. Additional key residues 
+within these two categories are identified through the temperature-dependence of 
+these conformational processes.
+
+DOI: 10.1371/journal.pcbi.1003218
+PMCID: PMC3789780
+PMID: 24098095 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

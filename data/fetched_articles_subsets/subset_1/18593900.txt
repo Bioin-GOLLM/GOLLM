@@ -1,0 +1,47 @@
+1. Cancer Res. 2008 Jul 1;68(13):5023-30. doi: 10.1158/0008-5472.CAN-07-6189.
+
+A syngeneic variance library for functional annotation of human variation: 
+application to BRCA2.
+
+Hucl T(1), Rago C, Gallmeier E, Brody JR, Gorospe M, Kern SE.
+
+Author information:
+(1)The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University, 
+Baltimore, MD 21231, USA.
+
+The enormous scope of natural human genetic variation is now becoming defined. 
+To accurately annotate these variants, and to identify those with clinical 
+importance, is often difficult to assess through functional assays. We explored 
+systematic annotation by using homologous recombination to modify a native gene 
+in hemizygous (wt/Deltaexon) human cancer cells, generating a novel syngeneic 
+variance library (SyVaL). We created a SyVaL of BRCA2 variants: nondeleterious, 
+proposed deleterious, deleterious, and of uncertain significance. We found that 
+the null states BRCA2(Deltaex11/Deltaex11) and BRCA2(Deltaex11/Y3308X) were 
+deleterious as assessed by a loss of RAD51 focus formation on genotoxic damage 
+and by acquisition of toxic hypersensitivity to mitomycin C and etoposide, 
+whereas BRCA2(Deltaex11/Y3308Y), BRCA2(Deltaex11/P3292L), and 
+BRCA2(Deltaex11/P3280H) had wild-type function. A proposed phosphorylation site 
+at codon 3291 affecting function was confirmed by substitution of an acidic 
+residue (glutamate, BRCA2(Deltaex11/S3291E)) for the native serine, but in 
+contrast to a prior report, phosphorylation was dispensable (alanine, 
+BRCA2(Deltaex11/S3291A)) for BRCA2-governed cellular phenotypes. These results 
+show that SyVaLs offer a means to comprehensively annotate gene function, 
+facilitating numerical and unambiguous readouts. SyVaLs may be especially useful 
+for genes in which functional assays using exogenous expression are toxic or 
+otherwise unreliable. They also offer a stable, distributable cellular resource 
+for further research.
+
+DOI: 10.1158/0008-5472.CAN-07-6189
+PMCID: PMC2536704
+PMID: 18593900 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure of Potential Conflicts of Interest: 
+The Johns Hopkins University School of Medicine has property rights in the 
+materials (cell lines) reported in this article. T. Hucl and S.E. Kern are 
+entitled as inventors to a share of the royalty received by the University for 
+licensed uses of the materials by commercial entities. The terms of licensing 
+agreement(s) are being managed by the Johns Hopkins University School of 
+Medicine Committee on Conflict of Interest in accordance with its conflict of 
+interest policy. (Licensing agreements covering the materials in this article 
+total and inventors' interest of less than $10,000 in total.) The other authors 
+disclosed no potential conflicts of interest.

@@ -1,0 +1,50 @@
+1. Bioinform Biol Insights. 2014 Jan 8;8:1-16. doi: 10.4137/BBI.S13076.
+eCollection  2014 Jan 8.
+
+GeneSV - an Approach to Help Characterize Possible Variations in Genomic and 
+Protein Sequences.
+
+Zemla A(1), Kostova T(2), Gorchakov R(3), Volkova E(3), Beasley DW(4), Cardosa 
+J(5), Weaver SC(3), Vasilakis N(3), Naraghi-Arani P(6).
+
+Author information:
+(1)Computing Application and Research Department, Lawrence Livermore National 
+Laboratory, Livermore, CA, USA.
+(2)Center for Applied Scientific Computing, Lawrence Livermore National 
+Laboratory.
+(3)Department of Pathology and Center for Biodefense and Emerging Infectious 
+Diseases, University of Texas Medical Branch, Galveston, TX, USA. ; Center for 
+Tropical Diseases, University of Texas Medical Branch, Galveston, TX 77555-0609. 
+; Institute for Human Infections and Immunity, University of Texas Medical 
+Branch, Galveston, TX, USA.
+(4)Department of Pathology and Center for Biodefense and Emerging Infectious 
+Diseases, University of Texas Medical Branch, Galveston, TX, USA. ; Center for 
+Tropical Diseases, University of Texas Medical Branch, Galveston, TX 77555-0609. 
+; Institute for Human Infections and Immunity, University of Texas Medical 
+Branch, Galveston, TX, USA. ; Department of Microbiology and Immunology, 
+University of Texas Medical Branch, Galveston.
+(5)Sentinext Therapeutics Sdn Bhd, Penang, Malaysia.
+(6)Physical and Life Sciences Directorate, Lawrence Livermore National 
+Laboratory, Livermore, CA, USA.
+
+A computational approach for identification and assessment of genomic sequence 
+variability (GeneSV) is described. For a given nucleotide sequence, GeneSV 
+collects information about the permissible nucleotide variability (changes that 
+potentially preserve function) observed in corresponding regions in genomic 
+sequences, and combines it with conservation/variability results from protein 
+sequence and structure-based analyses of evaluated protein coding regions. 
+GeneSV was used to predict effects (functional vs. non-functional) of 37 amino 
+acid substitutions on the NS5 polymerase (RdRp) of dengue virus type 2 (DENV-2), 
+36 of which are not observed in any publicly available DENV-2 sequence. 32 novel 
+mutants with single amino acid substitutions in the RdRp were generated using a 
+DENV-2 reverse genetics system. In 81% (26 of 32) of predictions tested, GeneSV 
+correctly predicted viability of introduced mutations. In 4 of 5 (80%) mutants 
+with double amino acid substitutions proximal in structure to one another GeneSV 
+was also correct in its predictions. Predictive capabilities of the developed 
+system were illustrated on dengue RNA virus, but described in the manuscript a 
+general approach to characterize real or theoretically possible variations in 
+genomic and protein sequences can be applied to any organism.
+
+DOI: 10.4137/BBI.S13076
+PMCID: PMC3893053
+PMID: 24453480

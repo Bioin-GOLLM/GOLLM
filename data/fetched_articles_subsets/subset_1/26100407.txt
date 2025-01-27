@@ -1,0 +1,53 @@
+1. Genome Biol. 2015 Jun 23;16(1):130. doi: 10.1186/s13059-015-0696-z.
+
+FOXM1 binds directly to non-consensus sequences in the human genome.
+
+Sanders DA(1)(2), Gormally MV(3), Marsico G(4), Beraldi D(5), Tannahill D(6), 
+Balasubramanian S(7)(8)(9).
+
+Author information:
+(1)Cancer Research UK, Cambridge Research Institute, Li Ka Shing Center, 
+Robinson Way, Cambridge, CB2 0RE, UK. das1001@cam.ac.uk.
+(2)Present address: Domainex, 162 Cambridge Science Park, Milton Road, 
+Cambridge, CB4 0GH, UK. das1001@cam.ac.uk.
+(3)Cancer Research UK, Cambridge Research Institute, Li Ka Shing Center, 
+Robinson Way, Cambridge, CB2 0RE, UK. mg606@cam.ac.uk.
+(4)Cancer Research UK, Cambridge Research Institute, Li Ka Shing Center, 
+Robinson Way, Cambridge, CB2 0RE, UK. Giovanni.Marsico@cruk.cam.ac.uk.
+(5)Cancer Research UK, Cambridge Research Institute, Li Ka Shing Center, 
+Robinson Way, Cambridge, CB2 0RE, UK. Dario.Beraldi@cruk.cam.ac.uk.
+(6)Cancer Research UK, Cambridge Research Institute, Li Ka Shing Center, 
+Robinson Way, Cambridge, CB2 0RE, UK. David.Tannahill@cruk.cam.ac.uk.
+(7)Cancer Research UK, Cambridge Research Institute, Li Ka Shing Center, 
+Robinson Way, Cambridge, CB2 0RE, UK. sb10031@cam.ac.uk.
+(8)Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge, 
+CB2 1EW, UK. sb10031@cam.ac.uk.
+(9)School of Clinical Medicine, The University of Cambridge, Addenbrooke's 
+Hospital, Hills Road, Cambridge, CB2 0SP, UK. sb10031@cam.ac.uk.
+
+BACKGROUND: The Forkhead (FKH) transcription factor FOXM1 is a key regulator of 
+the cell cycle and is overexpressed in most types of cancer. FOXM1, similar to 
+other FKH factors, binds to a canonical FKH motif in vitro. However, genome-wide 
+mapping studies in different cell lines have shown a lack of enrichment of the 
+FKH motif, suggesting an alternative mode of chromatin recruitment. We have 
+investigated the role of direct versus indirect DNA binding in FOXM1 recruitment 
+by performing ChIP-seq with wild-type and DNA binding deficient FOXM1.
+RESULTS: An in vitro fluorescence polarization assay identified point mutations 
+in the DNA binding domain of FOXM1 that inhibit binding to a FKH consensus 
+sequence. Cell lines expressing either wild-type or DNA binding deficient 
+GFP-tagged FOXM1 were used for genome-wide mapping studies comparing the 
+distribution of the DNA binding deficient protein to the wild-type. This shows 
+that interaction of the FOXM1 DNA binding domain with target DNA is essential 
+for recruitment. Moreover, analysis of the protein interactome of wild-type 
+versus DNA binding deficient FOXM1 shows that the reduced recruitment is not due 
+to inhibition of protein-protein interactions.
+CONCLUSIONS: A functional DNA binding domain is essential for FOXM1 chromatin 
+recruitment. Even in FOXM1 mutants with almost complete loss of binding, the 
+protein-protein interactions and pattern of phosphorylation are largely 
+unaffected. These results strongly support a model whereby FOXM1 is specifically 
+recruited to chromatin through co-factor interactions by binding directly to 
+non-canonical DNA sequences.
+
+DOI: 10.1186/s13059-015-0696-z
+PMCID: PMC4492089
+PMID: 26100407 [Indexed for MEDLINE]

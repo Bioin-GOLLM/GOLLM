@@ -1,0 +1,43 @@
+1. PLoS One. 2022 Jul 21;17(7):e0270852. doi: 10.1371/journal.pone.0270852. 
+eCollection 2022.
+
+NTD-DR: Nonnegative tensor decomposition for drug repositioning.
+
+Jamali AA(1), Tan Y(1)(2), Kusalik A(1)(3), Wu FX(1)(3)(4).
+
+Author information:
+(1)Division of Biomedical Engineering, University of Saskatchewan, Saskatoon, 
+SK, Canada.
+(2)School of Mathematics and Statistics, Huazhong Normal University, Wuhan, 
+China.
+(3)Department of Computer Science, University of Saskatchewan, Saskatoon, SK, 
+Canada.
+(4)Department of Mechanical Engineering, University of Saskatchewan, Saskatoon, 
+SK, Canada.
+
+Computational drug repositioning aims to identify potential applications of 
+existing drugs for the treatment of diseases for which they were not designed. 
+This approach can considerably accelerate the traditional drug discovery process 
+by decreasing the required time and costs of drug development. Tensor 
+decomposition enables us to integrate multiple drug- and disease-related data to 
+boost the performance of prediction. In this study, a nonnegative tensor 
+decomposition for drug repositioning, NTD-DR, is proposed. In order to capture 
+the hidden information in drug-target, drug-disease, and target-disease 
+networks, NTD-DR uses these pairwise associations to construct a 
+three-dimensional tensor representing drug-target-disease triplet associations 
+and integrates them with similarity information of drugs, targets, and disease 
+to make a prediction. We compare NTD-DR with recent state-of-the-art methods in 
+terms of the area under the receiver operating characteristic (ROC) curve (AUC) 
+and the area under the precision and recall curve (AUPR) and find that our 
+method outperforms competing methods. Moreover, case studies with five diseases 
+also confirm the reliability of predictions made by NTD-DR. Our proposed method 
+identifies more known associations among the top 50 predictions than other 
+methods. In addition, novel associations identified by NTD-DR are validated by 
+literature analyses.
+
+DOI: 10.1371/journal.pone.0270852
+PMCID: PMC9302855
+PMID: 35862409 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

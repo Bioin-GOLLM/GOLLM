@@ -1,0 +1,52 @@
+1. Sci Rep. 2019 Nov 22;9(1):17411. doi: 10.1038/s41598-019-53449-y.
+
+A simple method for sequencing the whole human mitochondrial genome directly 
+from samples and its application to genetic testing.
+
+Yao Y(1), Nishimura M(2), Murayama K(3), Kuranobu N(3), Tojo S(1), Beppu 
+M(1)(2), Ishige T(2), Itoga S(2), Tsuchida S(4), Mori M(5), Takayanagi M(3), 
+Yokoyama M(1), Yamagata K(1), Kishita Y(6), Okazaki Y(6), Nomura F(4), 
+Matsushita K(2), Tanaka T(7).
+
+Author information:
+(1)Department of Molecular Diagnosis, Graduate School of Medicine, Chiba 
+University, 1-8-1 Inohana, Chuo-ku, Chiba, 260-8670, Japan.
+(2)Division of Laboratory Medicine, Clinical Genetics and Proteomics, Chiba 
+University Hospital, 1-8-1 Inohana, Chuo-ku, Chiba, 260-8670, Japan.
+(3)Division of Metabolism, Chiba Children's Hospital, Chiba, 266-0007, Japan.
+(4)Division of Clinical Mass Spectrometry, Chiba University Hospital, 1-8-1 
+Inohana, Chuo-ku, Chiba, 260-8670, Japan.
+(5)Department of Pediatrics, Matsudo City Hospital, Matsudo, 270-2296, Japan.
+(6)Diagnostics and Therapeutics of Intractable Diseases, Intractable Disease 
+Research Center, Graduate School of Medicine, Juntendo University, Hongo 2-1-1, 
+Bunkyo-ku, Tokyo, 113-8421, Japan.
+(7)Department of Molecular Diagnosis, Graduate School of Medicine, Chiba 
+University, 1-8-1 Inohana, Chuo-ku, Chiba, 260-8670, Japan. 
+tomoaki@restaff.chiba-u.jp.
+
+Next-generation sequencing (NGS) is a revolutionary sequencing technology for 
+analyzing genomes. However, preprocessing methods for mitochondrial DNA (mtDNA) 
+sequencing remain complex, and it is required to develop an authenticated 
+preprocessing method. Here, we developed a simple and easy preprocessing method 
+based on isothermal rolling circle mtDNA amplification using commercially 
+available reagents. Isothermal amplification of mtDNA was successfully performed 
+using both nanoliter quantities of plasma directly and 25 ng of total DNA 
+extracted from blood or tissue samples. Prior to mtDNA amplification, it was 
+necessary to treat the extracted total DNA with Exonuclease V, but it was not 
+required to treat plasma. The NGS libraries generated from the amplified mtDNA 
+provided sequencing coverage of the entire human mitochondrial genome. 
+Furthermore, the sequencing results successfully detected heteroplasmy in 
+patient samples, with called mutations and variants matching those from 
+previous, independent, Sanger sequencing analysis. Additionally, a novel single 
+nucleotide variant was detected in a healthy volunteer. The successful analysis 
+of mtDNA using very small samples from patients is likely to be valuable in 
+clinical medicine, as it could reduce patient discomfort by reducing 
+sampling-associated damage to tissues. Overall, the simple and convenient 
+preprocessing method described herein may facilitate the future development of 
+NGS-based clinical and forensic mtDNA tests.
+
+DOI: 10.1038/s41598-019-53449-y
+PMCID: PMC6874554
+PMID: 31757988 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

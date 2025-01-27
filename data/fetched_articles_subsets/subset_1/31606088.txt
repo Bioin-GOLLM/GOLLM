@@ -1,0 +1,45 @@
+1. Methods Enzymol. 2019;626:475-498. doi: 10.1016/bs.mie.2019.07.036. Epub 2019 
+Aug 12.
+
+Quantitative analysis of global protein lysine methylation by mass spectrometry.
+
+Lund PJ(1), Lehman SM(1), Garcia BA(2).
+
+Author information:
+(1)Epigenetics Institute, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA, United States.
+(2)Department of Biochemistry and Biophysics, Penn Epigenetics Institute, Smilow 
+Center for Translational Research, University of Pennsylvania School of 
+Medicine, Philadelphia, PA, United States. Electronic address: 
+bgarci@pennmedicine.upenn.edu.
+
+Since protein activity is often regulated by posttranslational modifications, 
+the qualitative and quantitative analysis of modification sites is critical for 
+understanding the regulation of biological pathways that control cell function 
+and phenotype. Methylation constitutes one of the many types of 
+posttranslational modifications that target lysine residues. Although lysine 
+methylation is perhaps most commonly associated with histone proteins and the 
+epigenetic regulation of processes involving chromatin, methylation has also 
+been observed as an important regulatory modification on other proteins, which 
+has spurred the development of methods to profile lysine methylation sites more 
+globally. As with many posttranslational modifications, tandem mass spectrometry 
+represents an ideal platform for the high-throughput analysis of lysine 
+methylation due to its high sensitivity and resolving power. The following 
+protocol outlines a general method to assay lysine methylation across the 
+proteome using SILAC and quantitative proteomics. First, cells are labeled by 
+SILAC to allow for relative quantitation across different experimental 
+conditions, such as cells with or without ectopic expression of a 
+methyltransferase. Next, cells are lysed and proteins are digested into 
+peptides. Methylated peptides are then enriched by immunoprecipitation with 
+pan-specific antibodies against methylated lysine. Finally, the enriched 
+peptides are analyzed by LC-MS/MS to identify methylated peptides and their 
+modification sites and to compare the relative abundance of methylation events 
+between different conditions. This approach should yield detection of a couple 
+hundred lysine methylation sites, and those showing differential abundance may 
+then be prioritized for further study.
+
+© 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.mie.2019.07.036
+PMCID: PMC8259617
+PMID: 31606088 [Indexed for MEDLINE]

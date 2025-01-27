@@ -1,0 +1,45 @@
+1. J Med Chem. 2023 Apr 13;66(7):4588-4602. doi: 10.1021/acs.jmedchem.2c01448.
+Epub  2023 Apr 3.
+
+Expanding the Paradigm of Structure-Based Drug Design: Molecular Dynamics 
+Simulations Support the Development of New Pyridine-Based Protein Kinase 
+C-Targeted Agonists.
+
+Lautala S(1), Provenzani R(2), Tarvainen I(3), Sirna K(2), Karhu ST(3), 
+Grazhdankin E(2), Lehtinen AK(2), Sa'd H(1)(4), Koivuniemi A(1), Xhaard H(2), 
+Tuominen RK(3), Talman V(3), Bunker A(1), Yli-Kauhaluoma J(2).
+
+Author information:
+(1)Drug Research Program, Division of Pharmaceutical Biosciences, University of 
+Helsinki, P.O. Box 56 (Viikinkaari 5 E), FI-00014 Helsinki, Finland.
+(2)Drug Research Program, Division of Pharmaceutical Chemistry and Technology, 
+University of Helsinki, P.O. Box 56 (Viikinkaari 5 E), FI-00014 Helsinki, 
+Finland.
+(3)Drug Research Program, Division of Pharmacology and Pharmacotherapy, 
+University of Helsinki, P.O. Box 56 (Viikinkaari 5 E), FI-00014 Helsinki, 
+Finland.
+(4)School of Pharmacy, The University of Jordan, Queen Rania Street, 11942 
+Amman, Jordan.
+
+Protein kinase C (PKC) modulators hold therapeutic potential for various 
+diseases, including cancer, heart failure, and Alzheimer's disease. Targeting 
+the C1 domain of PKC represents a promising strategy; the available protein 
+structures warrant the design of PKC-targeted ligands via a structure-based 
+approach. However, the PKC C1 domain penetrates the lipid membrane during 
+binding, complicating the design of drug candidates. The standard 
+docking-scoring approach for PKC lacks information regarding the dynamics and 
+the membrane environment. Molecular dynamics (MD) simulations with PKC, ligands, 
+and membranes have been used to address these shortcomings. Previously, we 
+observed that less computationally intensive simulations of just ligand-membrane 
+interactions may help elucidate C1 domain-binding prospects. Here, we present 
+the design, synthesis, and biological evaluation of new pyridine-based PKC 
+agonists implementing an enhanced workflow with ligand-membrane MD simulations. 
+This workflow holds promise to expand the approach in drug design for ligands 
+targeted to weakly membrane-associated proteins.
+
+DOI: 10.1021/acs.jmedchem.2c01448
+PMCID: PMC10108360
+PMID: 37010933 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

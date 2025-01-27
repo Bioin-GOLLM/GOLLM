@@ -1,0 +1,63 @@
+1. PLoS Biol. 2020 Oct 13;18(10):e3000877. doi: 10.1371/journal.pbio.3000877. 
+eCollection 2020 Oct.
+
+High-throughput mapping of the phage resistance landscape in E. coli.
+
+Mutalik VK(1)(2), Adler BA(2)(3), Rishi HS(4)(5), Piya D(2)(3), Zhong C(1), 
+Koskella B(6), Kutter EM(7), Calendar R(8), Novichkov PS(1), Price MN(1), 
+Deutschbauer AM(1)(2)(9), Arkin AP(1)(2)(3)(4)(5).
+
+Author information:
+(1)Environmental Genomics and Systems Biology Division, Lawrence Berkeley 
+National Laboratory, Berkeley, California, United States of America.
+(2)Innovative Genomics Institute, Berkeley, California, United States of 
+America.
+(3)Department of Bioengineering, University of California - Berkeley, Berkeley, 
+California, United States of America.
+(4)Biophysics Graduate Group, University of California - Berkeley, Berkeley, 
+California, United States of America.
+(5)Designated Emphasis Program in Computational and Genomic Biology, University 
+of California - Berkeley, Berkeley, California, United States of America.
+(6)Department of Integrative Biology, University of California - Berkeley, 
+Berkeley, California, United States of America.
+(7)The Evergreen State College, Olympia, Washington, United States of America.
+(8)Department of Molecular and Cell Biology, University of California - 
+Berkeley, Berkeley, California, United States of America.
+(9)Department of Plant and Microbial Biology, University of California - 
+Berkeley, Berkeley, California, United States of America.
+
+Bacteriophages (phages) are critical players in the dynamics and function of 
+microbial communities and drive processes as diverse as global biogeochemical 
+cycles and human health. Phages tend to be predators finely tuned to attack 
+specific hosts, even down to the strain level, which in turn defend themselves 
+using an array of mechanisms. However, to date, efforts to rapidly and 
+comprehensively identify bacterial host factors important in phage infection and 
+resistance have yet to be fully realized. Here, we globally map the host genetic 
+determinants involved in resistance to 14 phylogenetically diverse 
+double-stranded DNA phages using two model Escherichia coli strains (K-12 and 
+BL21) with known sequence divergence to demonstrate strain-specific differences. 
+Using genome-wide loss-of-function and gain-of-function genetic technologies, we 
+are able to confirm previously described phage receptors as well as uncover a 
+number of previously unknown host factors that confer resistance to one or more 
+of these phages. We uncover differences in resistance factors that strongly 
+align with the susceptibility of K-12 and BL21 to specific phage. We also 
+identify both phage-specific mechanisms, such as the unexpected role of 
+cyclic-di-GMP in host sensitivity to phage N4, and more generic defenses, such 
+as the overproduction of colanic acid capsular polysaccharide that defends 
+against a wide array of phages. Our results indicate that host responses to 
+phages can occur via diverse cellular mechanisms. Our systematic and 
+high-throughput genetic workflow to characterize phage-host interaction 
+determinants can be extended to diverse bacteria to generate datasets that allow 
+predictive models of how phage-mediated selection will shape bacterial phenotype 
+and evolution. The results of this study and future efforts to map the phage 
+resistance landscape will lead to new insights into the coevolution of hosts and 
+their phage, which can ultimately be used to design better phage therapeutic 
+treatments and tools for precision microbiome engineering.
+
+DOI: 10.1371/journal.pbio.3000877
+PMCID: PMC7553319
+PMID: 33048924 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: VKM, AMD, and APA 
+consult for and hold equity in Felix Biotechnology, Inc.

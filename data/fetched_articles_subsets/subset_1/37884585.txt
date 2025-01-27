@@ -1,0 +1,50 @@
+1. Sci Rep. 2023 Oct 26;13(1):18399. doi: 10.1038/s41598-023-45272-3.
+
+Computational completion of the Aurora interaction region of N-Myc in the Aurora 
+a kinase complex.
+
+Altiner P(1), Çınaroğlu SS(2), Timucin AC(3), Timucin E(4).
+
+Author information:
+(1)Institut de Pharmacologie et de Biologie Structurale (IPBS), CNRS, Université 
+Toulouse III - Paul Sabatier (UT3), 31077, Toulouse, France.
+(2)Department of Biochemistry, University of Oxford, South Parks Road, Oxford, 
+OX1 3QU, UK.
+(3)Department of Molecular Biology and Genetics, Faculty of Engineering and 
+Natural Sciences, Acibadem University, 34752, Istanbul, Turkey. 
+ahmet.timucin@acibadem.edu.tr.
+(4)Department of Biostatistics and Medical Informatics, School of Medicine, 
+Acibadem University, 34752, Istanbul, Turkey. emel.timucin@acibadem.edu.tr.
+
+Inhibiting protein-protein interactions of the Myc family is a viable 
+pharmacological strategy for modulation of the levels of Myc oncoproteins in 
+cancer. Aurora A kinase (AurA) and N-Myc interaction is one of the most 
+attractive targets of this strategy because formation of this complex blocks 
+proteasomal degradation of N-Myc in neuroblastoma. Two crystallization studies 
+have captured this complex (PDB IDs: 5g1x, 7ztl), partially resolving the AurA 
+interaction region (AIR) of N-Myc. Prompted by the missing N-Myc fragment in 
+these crystal structures, we modeled the complete structure between AurA and 
+N-Myc, and comprehensively analyzed how the incomplete and complete N-Myc behave 
+in complex by molecular dynamics simulations. Molecular dynamics simulations of 
+the incomplete PDB complex (5g1x) repeatedly showed partial dissociation of the 
+short N-Myc fragment (61-89) from the kinase. The missing N-Myc (19-60) fragment 
+was modeled utilizing the N-terminal lobe of AurA as the protein-protein 
+interaction surface, wherein TPX2, a well-known partner of AurA, also binds. 
+Binding free energy calculations along with flexibility analysis confirmed that 
+the complete AIR of N-Myc stabilizes the complex, accentuating the N-terminal 
+lobe of AurA as a binding site for the missing N-Myc fragment (19-60). We 
+further generated additional models consisting of only the missing N-Myc 
+(19-60), and the fused form of TPX2 (7-43) and N-Myc (61-89). These partners 
+also formed more stable interactions with the N-terminal lobe of AurA than did 
+the incomplete N-Myc fragment (61-89) in the 5g1x complex. Altogether, this 
+study provides structural insights into the involvement of the N-terminus of the 
+AIR of N-Myc and the N-terminal lobe of AurA in formation of a stable complex, 
+reflecting its potential for effective targeting of N-Myc.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-45272-3
+PMCID: PMC10603048
+PMID: 37884585 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

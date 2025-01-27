@@ -1,0 +1,64 @@
+1. Hum Mol Genet. 2022 Sep 10;31(18):3051-3067. doi: 10.1093/hmg/ddac079.
+
+Integrative multi-omics database (iMOMdb) of Asian pregnant women.
+
+Pan H(1)(2), Tan PF(1)(2), Lim IY(1)(2), Huan J(1), Teh AL(1)(2), Chen L(1), 
+Gong M(1), Tin F(1), Mir SA(3)(4), Narasimhan K(1), Chan JKY(5)(6), Tan 
+KH(6)(7), Kobor MS(8)(9), Meikle PJ(10), Wenk MR(3)(4), Chong YS(1)(11), 
+Eriksson JG(1)(11)(12)(13), Gluckman PD(1)(14), Karnani N(1)(2)(3).
+
+Author information:
+(1)Singapore Institute for Clinical Sciences, Agency for Science, Technology and 
+Research, Singapore.
+(2)Bioinformatics Institute, Agency for Science, Technology and Research, 
+Singapore.
+(3)Department of Biochemistry, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore.
+(4)Singapore Lipidomics Incubator, Life Sciences Institute, National University 
+of Singapore, Singapore.
+(5)Department of Reproductive Medicine, KK Women's and Children's Hospital, 
+Singapore.
+(6)Academic Clinical Program in Obstetrics and Gynaecology, Duke-NUS Medical 
+School, Singapore.
+(7)Department of Maternal Fetal Medicine, KK Women's and Children's Hospital, 
+Singapore.
+(8)Centre for Molecular Medicine and Therapeutics, Department of Medical 
+Genetics, University of British Columbia, Vancouver, BC, Canada.
+(9)Department of Medical Genetics, University of British Columbia, Vancouver, 
+BC, Canada.
+(10)Metabolomics Laboratory, Baker Heart and Diabetes Institute, Melbourne, VIC, 
+Australia.
+(11)Department of Obstetrics and Gynecology and Human Potential Translational 
+Research Program, Yong Loo Lin School of Medicine, National University of 
+Singapore, Singapore.
+(12)Folkhälsan Research Center, Helsinki, Finland.
+(13)Department of General Practice and Primary Health Care, University of 
+Helsinki, Helsinki, Finland.
+(14)Liggins Institute, University of Auckland, Auckland, New Zealand.
+
+Asians are underrepresented across many omics databases, thereby limiting the 
+potential of precision medicine in nearly 60% of the global population. As such, 
+there is a pressing need for multi-omics derived quantitative trait loci (QTLs) 
+to fill the knowledge gap of complex traits in populations of Asian ancestry. 
+Here, we provide the first blood-based multi-omics analysis of Asian pregnant 
+women, constituting high-resolution genotyping (N = 1079), DNA methylation 
+(N = 915) and transcriptome profiling (N = 238). Integrative omics analysis 
+identified 219 154 CpGs associated with cis-DNA methylation QTLs (meQTLs) and 
+3703 RNAs associated with cis-RNA expression QTLs (eQTLs). Ethnicity was the 
+largest contributor of inter-individual variation across all omics datasets, 
+with 2561 genes identified as hotspots of this variation; 395 of these hotspot 
+genes also contained both ethnicity-specific eQTLs and meQTLs. Gene set 
+enrichment analysis of these ethnicity QTL hotspots showed pathways involved in 
+lipid metabolism, adaptive immune system and carbohydrate metabolism. Pathway 
+validation by profiling the lipidome (~480 lipids) of antenatal plasma (N = 752) 
+and placenta (N = 1042) in the same cohort showed significant lipid differences 
+among Chinese, Malay and Indian women, validating ethnicity-QTL gene effects 
+across different tissue types. To develop deeper insights into the complex 
+traits and benefit future precision medicine research in Asian pregnant women, 
+we developed iMOMdb, an open-access database.
+
+© The Author(s) 2021. Published by Oxford University Press.
+
+DOI: 10.1093/hmg/ddac079
+PMCID: PMC9476622
+PMID: 35445712 [Indexed for MEDLINE]

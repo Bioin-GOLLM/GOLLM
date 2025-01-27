@@ -1,0 +1,72 @@
+1. Gigascience. 2020 Oct 20;9(10):giaa102. doi: 10.1093/gigascience/giaa102.
+
+A single-cell RNA-sequencing training and analysis suite using the Galaxy 
+framework.
+
+Tekman M(1), Batut B(1), Ostrovsky A(2), Antoniewski C(3)(4), Clements D(2), 
+Ramirez F(5), Etherington GJ(6), Hotz HR(7)(8), Scholtalbers J(9), Manning 
+JR(10), Bellenger L(3), Doyle MA(11)(12), Heydarian M(2), Huang N(10)(13), 
+Soranzo N(6), Moreno P(10), Mautner S(1), Papatheodorou I(10), Nekrutenko A(14), 
+Taylor J(2), Blankenberg D(15), Backofen R(1), Grüning B(1).
+
+Author information:
+(1)Department of Bioinformatics, University of Freiburg, Georges-Köhler-Allee 
+106, 79110 Freiburg, Germany.
+(2)Department of Biology, Johns Hopkins University, Mudd Hall 144, 3400 N. 
+Charles Street, Baltimore, MD 21218, USA.
+(3)ARTbio, Sorbonne Université, CNRS FR 3631, Inserm US 037, Paris, France.
+(4)Institut de Biologie Paris Seine, 9 Quai Saint-Bernard Université Pierre et 
+Marie Curie, Campus Jussieu, Bâtiments A-B-C, 75005 Paris, France.
+(5)Boehringer Ingelheim International GmbH, Binger Strasse 173, 55216 Ingelheim 
+am Rhein, Biberach, Germany.
+(6)Earlham Institute, Norwich Research Park, Norwich NR4 7UZ, UK.
+(7)Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, 
+4058 Basel, Switzerland.
+(8)SIB Swiss Institute of Bioinformatics, Maulbeerstrasse 66, 4058 Basel, 
+Switzerland.
+(9)European Molecular Biology Laboratory, Genome Biology Unit, Meyerhofstraße 1, 
+69117 Heidelberg, Germany.
+(10)European Molecular Biology Laboratory, European Bioinformatics Institute, 
+EMBL-EBI, Wellcome Genome Campus, Hinxton, Cambridgeshire, CB10 1SD, UK.
+(11)Research Computing Facility, Peter MacCallum Cancer Centre, Melbourne, 305 
+Grattan Street, Victoria 3000, Australia.
+(12)Sir Peter MacCallum Department of Oncology, The University of Melbourne, 
+Victoria 3010, Australia.
+(13)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire, 
+CB10 1SA, UK.
+(14)Department of Biochemistry and Molecular Biology, The Pennsylvania State 
+University, University Park, PA 16802, USA.
+(15)Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, 
+9500 Euclid Avenue, NB21 Cleveland, OH 44195, USA.
+
+BACKGROUND: The vast ecosystem of single-cell RNA-sequencing tools has until 
+recently been plagued by an excess of diverging analysis strategies, 
+inconsistent file formats, and compatibility issues between different software 
+suites. The uptake of 10x Genomics datasets has begun to calm this diversity, 
+and the bioinformatics community leans once more towards the large computing 
+requirements and the statistically driven methods needed to process and 
+understand these ever-growing datasets.
+RESULTS: Here we outline several Galaxy workflows and learning resources for 
+single-cell RNA-sequencing, with the aim of providing a comprehensive analysis 
+environment paired with a thorough user learning experience that bridges the 
+knowledge gap between the computational methods and the underlying cell biology. 
+The Galaxy reproducible bioinformatics framework provides tools, workflows, and 
+trainings that not only enable users to perform 1-click 10x preprocessing but 
+also empower them to demultiplex raw sequencing from custom tagged and 
+full-length sequencing protocols. The downstream analysis supports a range of 
+high-quality interoperable suites separated into common stages of analysis: 
+inspection, filtering, normalization, confounder removal, and clustering. The 
+teaching resources cover concepts from computer science to cell biology. Access 
+to all resources is provided at the singlecell.usegalaxy.eu portal.
+CONCLUSIONS: The reproducible and training-oriented Galaxy framework provides a 
+sustainable high-performance computing environment for users to run flexible 
+analyses on both 10x and alternative platforms. The tutorials from the Galaxy 
+Training Network along with the frequent training workshops hosted by the Galaxy 
+community provide a means for users to learn, publish, and teach single-cell 
+RNA-sequencing analysis.
+
+© The Author(s) 2020. Published by Oxford University Press GigaScience.
+
+DOI: 10.1093/gigascience/giaa102
+PMCID: PMC7574357
+PMID: 33079170 [Indexed for MEDLINE]

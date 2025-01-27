@@ -1,0 +1,66 @@
+1. Theranostics. 2022 Jul 18;12(13):5727-5743. doi: 10.7150/thno.71872.
+eCollection  2022.
+
+RNA N(6) -methyladenosine reader YTHDC1 is essential for TGF-beta-mediated 
+metastasis of triple negative breast cancer.
+
+Tan B(1), Zhou K(1), Liu W(1)(2), Prince E(1), Qing Y(1), Li Y(1)(3), Han 
+L(1)(4), Qin X(1), Su R(1), Pokharel SP(1), Yang L(1), Zhao Z(1)(5), Shen C(1), 
+Li W(1), Chen Z(1), Zhang Z(1), Deng X(1), Small A(1), Wang K(1), Leung K(1), 
+Chen CW(1), Shen B(6), Chen J(1)(7).
+
+Author information:
+(1)Department of Systems Biology, Beckman Research Institute of City of Hope, 
+Monrovia, CA 91016, USA.
+(2)Department of Immunology, School of Basic Medicine, Hebei Medical University, 
+361 Zhongshan East Road, Shijiazhuang, Hebei 050017, China.
+(3)Department of Radiation Oncology, The First Affiliated Hospital of Sun 
+Yat-sen University, Guangzhou, Guangdong 510080, China.
+(4)Department of Pharmacology, School of Pharmacy, China Medical University, 
+Shenyang 110122, China.
+(5)Department of Liver Surgery, Renji Hospital, Shanghai Jiao Tong University 
+School of Medicine, Shanghai 200127, China.
+(6)Department of Cancer Genetics and Epigenetics, Beckman Research Institute of 
+City of Hope, Duarte, CA91010, USA.
+(7)Gehr Family Center for Leukemia Research, City of Hope, Duarte, CA 91010, 
+USA.
+
+RNA N6 -methyladenosine (m6A) modification and its regulators fine tune gene 
+expression and contribute to tumorigenesis. This study aims to uncover the 
+essential role and the underlying molecular mechanism(s) of the m6A reader 
+YTHDC1 in promoting triple negative breast cancer (TNBC) metastasis.
+METHODS: In vitro and in vivo models were employed to determine the pathological 
+function of YTHDC1 in TNBC metastasis. To identify bona fide YTHDC1 target RNAs, 
+we conducted RNA-seq, m6A-seq, and RIP-seq, followed by integrative data 
+analysis and validation assays.
+RESULTS: By analyzing The Cancer Genome Atlas (TCGA) dataset, we found that 
+elevated expression of YTHDC1 is positively correlated with poor prognosis in 
+breast cancer patients. Using a mammary fat pad mouse model of TNBC, YTHDC1 
+significantly promoted lung metastasis of TNBC cells. Through multiple 
+transcriptome-wide sequencing and integrative data analysis, we revealed 
+dysregulation of metastasis-related pathways following YTHDC1 depletion and 
+identified SMAD3 as a bona fide YTHDC1 target RNA. Depletion of YTHDC1 caused 
+nuclear retention of SMAD3 mRNA, leading to lower SMAD3 protein levels. Loss of 
+YTHDC1 led to impaired TGF-β-induced gene expression, leading to inhibition of 
+epithelial-mesenchymal transition (EMT) and suppressed TNBC cell migration and 
+invasion. SMAD3 overexpression was able to restore the response to TGF-β in 
+YTHDC1 depleted TNBC cells. Furthermore, we demonstrated that the oncogenic role 
+of YTHDC1 is mediated through its recognition of m6A as m6A-binding defective 
+mutants of YTHDC1 were unable to rescue the impaired cell migration and invasion 
+of YTHDC1 knockout TNBC cells.
+CONCLUSIONS: We show that YTHDC1 plays a critical oncogenic role in TNBC 
+metastasis through promoting the nuclear export and expression of SMAD3 to 
+augment the TGF-β signaling cascade. Overall, our study demonstrates that YTHDC1 
+is vital for TNBC progression by enhancing TNBC cell survival and TGF-β-mediated 
+EMT via SMAD3 to enable the formation of distant metastasis and highlights the 
+therapeutic potential of targeting the YTHDC1/m6A/SMAD3 axis for TNBC treatment.
+
+© The author(s).
+
+DOI: 10.7150/thno.71872
+PMCID: PMC9373808
+PMID: 35966596 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: J.C. is a scientific 
+advisory board member of Race Oncology. The other authors declare no potential 
+conflicts of interest.

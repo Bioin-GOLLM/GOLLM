@@ -1,0 +1,45 @@
+1. PLoS One. 2023 Jul 20;18(7):e0283400. doi: 10.1371/journal.pone.0283400. 
+eCollection 2023.
+
+SARS-CoV-2 protein structure and sequence mutations: Evolutionary analysis and 
+effects on virus variants.
+
+Lomoio U(1), Puccio B(1), Tradigo G(2), Guzzi PH(1), Veltri P(3).
+
+Author information:
+(1)Department of Surgical and Medical Sciences, University of Catanzaro, 
+Catanzaro, Italy.
+(2)e-Campus University, Novedrate, Italy.
+(3)DIMES, University of Calabria, Rende, Italy.
+
+The structure and sequence of proteins strongly influence their biological 
+functions. New models and algorithms can help researchers in understanding how 
+the evolution of sequences and structures is related to changes in functions. 
+Recently, studies of SARS-CoV-2 Spike (S) protein structures have been performed 
+to predict binding receptors and infection activity in COVID-19, hence the 
+scientific interest in the effects of virus mutations due to sequence, structure 
+and vaccination arises. However, there is the need for models and tools to study 
+the links between the evolution of S protein sequence, structure and functions, 
+and virus transmissibility and the effects of vaccination. As studies on S 
+protein have been generated a large amount of relevant information, we propose 
+in this work to use Protein Contact Networks (PCNs) to relate protein structures 
+with biological properties by means of network topology properties. Topological 
+properties are used to compare the structural changes with sequence changes. We 
+find that both node centrality and community extraction analysis can be used to 
+relate protein stability and functionality with sequence mutations. Starting 
+from this we compare structural evolution to sequence changes and study 
+mutations from a temporal perspective focusing on virus variants. Finally by 
+applying our model to the Omicron variant we report a timeline correlation 
+between Omicron and the vaccination campaign.
+
+Copyright: © 2023 Lomoio et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0283400
+PMCID: PMC10358949
+PMID: 37471335 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

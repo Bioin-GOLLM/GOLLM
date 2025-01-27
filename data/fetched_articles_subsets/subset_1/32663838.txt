@@ -1,0 +1,98 @@
+1. Nature. 2020 Sep;585(7823):79-84. doi: 10.1038/s41586-020-2547-7. Epub 2020
+Jul  14.
+
+Telomere-to-telomere assembly of a complete human X chromosome.
+
+Miga KH(#)(1), Koren S(#)(2), Rhie A(2), Vollger MR(3), Gershman A(4), Bzikadze 
+A(5), Brooks S(6), Howe E(7), Porubsky D(3), Logsdon GA(3), Schneider VA(8), 
+Potapova T(7), Wood J(9), Chow W(9), Armstrong J(10), Fredrickson J(11), Pak 
+E(12), Tigyi K(10), Kremitzki M(13), Markovic C(13), Maduro V(14), Dutra A(12), 
+Bouffard GG(6), Chang AM(2), Hansen NF(15), Wilfert AB(3), Thibaud-Nissen F(8), 
+Schmitt AD(16), Belton JM(16), Selvaraj S(16), Dennis MY(17), Soto DC(17), 
+Sahasrabudhe R(18), Kaya G(17), Quick J(19), Loman NJ(19), Holmes N(20), Loose 
+M(20), Surti U(21), Risques RA(11), Graves Lindsay TA(13), Fulton R(13), Hall 
+I(13), Paten B(10), Howe K(9), Timp W(4), Young A(6), Mullikin JC(6), Pevzner 
+PA(22), Gerton JL(7), Sullivan BA(23), Eichler EE(3)(24), Phillippy AM(25).
+
+Author information:
+(1)UC Santa Cruz Genomics Institute, University of California Santa Cruz, Santa 
+Cruz, CA, USA. khmiga@ucsc.edu.
+(2)Genome Informatics Section, Computational and Statistical Genomics Branch, 
+National Human Genome Research Institute, National Institutes of Health, 
+Bethesda, MD, USA.
+(3)Department of Genome Sciences, University of Washington School of Medicine, 
+Seattle, WA, USA.
+(4)Department of Molecular Biology and Genetics, Department of Biomedical 
+Engineering, Johns Hopkins University, Baltimore, MD, USA.
+(5)Graduate Program in Bioinformatics and Systems Biology, University of 
+California San Diego, San Diego, CA, USA.
+(6)NIH Intramural Sequencing Center, National Human Genome Research Institute, 
+National Institutes of Health, Rockville, MD, USA.
+(7)Stowers Institute for Medical Research, Kansas City, MO, USA.
+(8)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD, USA.
+(9)Wellcome Sanger Institute, Hinxton, UK.
+(10)UC Santa Cruz Genomics Institute, University of California Santa Cruz, Santa 
+Cruz, CA, USA.
+(11)Department of Pathology, University of Washington, Seattle, WA, USA.
+(12)Cytogenetic and Microscopy Core, National Human Genome Research Institute, 
+National Institutes of Health, Bethesda, MD, USA.
+(13)McDonnell Genome Institute at Washington University, St Louis, MO, USA.
+(14)Undiagnosed Diseases Program, National Human Genome Research Institute, 
+National Institutes of Health, Bethesda, MD, USA.
+(15)Comparative Genomics Analysis Unit, Cancer Genetics and Comparative Genomics 
+Branch, National Human Genome Research Institute, National Institutes of Health, 
+Bethesda, MD, USA.
+(16)Arima Genomics, San Diego, CA, USA.
+(17)Department of Biochemistry and Molecular Medicine, Genome Center, MIND 
+Institute, University of California Davis, Davis, CA, USA.
+(18)DNA Technologies Core, Genome Center, University of California Davis, Davis, 
+CA, USA.
+(19)Institute of Microbiology and Infection, University of Birmingham, 
+Birmingham, UK.
+(20)DeepSeq, School of Life Sciences, University of Nottingham, Nottingham, UK.
+(21)Department of Pathology, University of Pittsburgh, Pittsburgh, PA, USA.
+(22)Department of Computer Science and Engineering, University of California San 
+Diego, San Diego, CA, USA.
+(23)Department of Molecular Genetics and Microbiology, Division of Human 
+Genetics, Duke University Medical Center, Durham, NC, USA.
+(24)Howard Hughes Medical Institute, University of Washington, Seattle, WA, USA.
+(25)Genome Informatics Section, Computational and Statistical Genomics Branch, 
+National Human Genome Research Institute, National Institutes of Health, 
+Bethesda, MD, USA. adam.phillippy@nih.gov.
+(#)Contributed equally
+
+Comment in
+    Nat Rev Genet. 2020 Oct;21(10):577. doi: 10.1038/s41576-020-0273-5.
+
+After two decades of improvements, the current human reference genome (GRCh38) 
+is the most accurate and complete vertebrate genome ever produced. However, no 
+single chromosome has been finished end to end, and hundreds of unresolved gaps 
+persist1,2. Here we present a human genome assembly that surpasses the 
+continuity of GRCh382, along with a gapless, telomere-to-telomere assembly of a 
+human chromosome. This was enabled by high-coverage, ultra-long-read nanopore 
+sequencing of the complete hydatidiform mole CHM13 genome, combined with 
+complementary technologies for quality improvement and validation. Focusing our 
+efforts on the human X chromosome3, we reconstructed the centromeric satellite 
+DNA array (approximately 3.1 Mb) and closed the 29 remaining gaps in the current 
+reference, including new sequences from the human pseudoautosomal regions and 
+from cancer-testis ampliconic gene families (CT-X and GAGE). These sequences 
+will be integrated into future human reference genome releases. In addition, the 
+complete chromosome X, combined with the ultra-long nanopore data, allowed us to 
+map methylation patterns across complex tandem repeats and satellite arrays. Our 
+results demonstrate that finishing the entire human genome is now within reach, 
+and the data presented here will facilitate ongoing efforts to complete the 
+other human chromosomes.
+
+DOI: 10.1038/s41586-020-2547-7
+PMCID: PMC7484160
+PMID: 32663838 [Indexed for MEDLINE]
+
+Conflict of interest statement: E.E.E. is on the scientific advisory board of 
+DNAnexus. K.H.M., S.K. and W.T. have received travel funds to speak at symposia 
+organized by Oxford Nanopore. W.T. has two patents licensed to Oxford Nanopore 
+(US patent 8,748,091 and US patent 8,394,584). A.D.S., J.-M.B. and S.S. are 
+employees of Arima Genomics. R.R. shares equity in NanoString Technologies and 
+is the principal investigator on an NIH SBIR subcontract research agreement with 
+TwinStrand Biosciences. All other authors have no competing interests to 
+declare.

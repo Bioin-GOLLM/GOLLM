@@ -1,0 +1,45 @@
+1. PLoS One. 2010 Apr 13;5(4):e10153. doi: 10.1371/journal.pone.0010153.
+
+Uncovering molecular biomarkers that correlate cognitive decline with the 
+changes of hippocampus' gene expression profiles in Alzheimer's disease.
+
+Gómez Ravetti M(1), Rosso OA, Berretta R, Moscato P.
+
+Author information:
+(1)Centre for Bioinformatics, Biomarker Discovery and Information-Based 
+Medicine, The University of Newcastle, Callaghan, New South Wales, Australia.
+
+BACKGROUND: Alzheimer's disease (AD) is characterized by a neurodegenerative 
+progression that alters cognition. On a phenotypical level, cognition is 
+evaluated by means of the MiniMental State Examination (MMSE) and the 
+post-mortem examination of Neurofibrillary Tangle count (NFT) helps to confirm 
+an AD diagnostic. The MMSE evaluates different aspects of cognition including 
+orientation, short-term memory (retention and recall), attention and language. 
+As there is a normal cognitive decline with aging, and death is the final state 
+on which NFT can be counted, the identification of brain gene expression 
+biomarkers from these phenotypical measures has been elusive.
+METHODOLOGY/PRINCIPAL FINDINGS: We have reanalysed a microarray dataset 
+contributed in 2004 by Blalock et al. of 31 samples corresponding to hippocampus 
+gene expression from 22 AD subjects of varying degree of severity and 9 
+controls. Instead of only relying on correlations of gene expression with the 
+associated MMSE and NFT measures, and by using modern bioinformatics methods 
+based on information theory and combinatorial optimization, we uncovered a 
+1,372-probe gene expression signature that presents a high-consensus with 
+established markers of progression in AD. The signature reveals alterations in 
+calcium, insulin, phosphatidylinositol and wnt-signalling. Among the most 
+correlated gene probes with AD severity we found those linked to synaptic 
+function, neurofilament bundle assembly and neuronal plasticity.
+CONCLUSIONS/SIGNIFICANCE: A transcription factors analysis of 1,372-probe 
+signature reveals significant associations with the EGR/KROX family of proteins, 
+MAZ, and E2F1. The gene homologous of EGR1, zif268, Egr-1 or Zenk, together with 
+other members of the EGR family, are consolidating a key role in the neuronal 
+plasticity in the brain. These results indicate a degree of commonality between 
+putative genes involved in AD and prion-induced neurodegenerative processes that 
+warrants further investigation.
+
+DOI: 10.1371/journal.pone.0010153
+PMCID: PMC2854141
+PMID: 20405009 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

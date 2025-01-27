@@ -1,0 +1,43 @@
+1. G3 (Bethesda). 2018 Feb 2;8(2):447-460. doi: 10.1534/g3.117.300139.
+
+Direct Testing for Allele-Specific Expression Differences Between Conditions.
+
+León-Novelo L(1), Gerken AR(2), Graze RM(3), McIntyre LM(4), Marroni F(5)(6).
+
+Author information:
+(1)Department of Biostatistics and Data Science, The University of Texas Health 
+Science Center at Houston-School of Public Health, Texas 77030.
+(2)United States Department of Agriculture, Agricultural Research Service, 
+Center for Grain and Animal Health Research, Manhattan, Kansas 66502.
+(3)Department of Biological Sciences, Auburn University, Alabama 36849.
+(4)Genetics Institute and Department of Molecular Genetics and Microbiology, 
+University of Florida, Gainesville, Florida 32603.
+(5)Dipartimento di Scienze Agroalimentari, Ambientali e Animali, Università di 
+Udine, 33100, Italy marroni@appliedgenomics.org.
+(6)Istituto di Genomica Applicata, 33100 Udine, Italy.
+
+Allelic imbalance (AI) indicates the presence of functional variation in cis 
+regulatory regions. Detecting cis regulatory differences using AI is widespread, 
+yet there is no formal statistical methodology that tests whether AI differs 
+between conditions. Here, we present a novel model and formally test differences 
+in AI across conditions using Bayesian credible intervals. The approach tests AI 
+by environment (G×E) interactions, and can be used to test AI between 
+environments, genotypes, sex, and any other condition. We incorporate bias into 
+the modeling process. Bias is allowed to vary between conditions, making the 
+formulation of the model general. As gene expression affects power for detection 
+of AI, and, as expression may vary between conditions, the model explicitly 
+takes coverage into account. The proposed model has low type I and II error 
+under several scenarios, and is robust to large differences in coverage between 
+conditions. We reanalyze RNA-seq data from a Drosophila melanogaster population 
+panel, with F1 genotypes, to compare levels of AI between mated and virgin 
+female flies, and we show that AI × genotype interactions can also be tested. To 
+demonstrate the use of the model to test genetic differences and interactions, a 
+formal test between two F1s was performed, showing the expected 20% difference 
+in AI. The proposed model allows a formal test of G×E and G×G, and reaffirms a 
+previous finding that cis regulation is robust between environments.
+
+Copyright © 2018 Novelo et al.
+
+DOI: 10.1534/g3.117.300139
+PMCID: PMC5919738
+PMID: 29167272 [Indexed for MEDLINE]

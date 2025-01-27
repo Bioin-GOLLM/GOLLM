@@ -1,0 +1,56 @@
+1. BMC Pulm Med. 2023 Jul 5;23(1):244. doi: 10.1186/s12890-023-02537-x.
+
+High accuracy epidermal growth factor receptor mutation prediction via 
+histopathological deep learning.
+
+Zhao D(1), Zhao Y(1), He S(2), Liu Z(1), Li K(1), Zhang L(1), Zhang X(3), Wang 
+S(4), Che N(5), Jin M(6).
+
+Author information:
+(1)Department of Pathology, Beijing Chest Hospital, Capital Medical 
+University/Beijing Tuberculosis and Thoracic Tumor Research Institute, Beijing, 
+101149, China.
+(2)Digital Manufacturing Laboratory, Beijing Institute of Technology, Beijing, 
+100081, China.
+(3)Thorough Lab, Thorough Future, Beijing, 100036, China.
+(4)Thorough Lab, Thorough Future, Beijing, 100036, China. to@shuhao.wang.
+(5)Department of Pathology, Beijing Chest Hospital, Capital Medical 
+University/Beijing Tuberculosis and Thoracic Tumor Research Institute, Beijing, 
+101149, China. cheny0448@163.com.
+(6)Department of Pathology, Beijing Chaoyang Hospital, Capital Medical 
+University, Beijing, 100020, China. kinmokuran@163.com.
+
+BACKGROUND: The detection of epidermal growth factor receptor (EGFR) mutations 
+in patients with non-small cell lung cancer is critical for tyrosine kinase 
+inhibitor therapy. EGFR detection requires tissue samples, which are difficult 
+to obtain in some patients, costing them the opportunity for further treatment. 
+To realize EGFR mutation prediction without molecular detection, we aimed to 
+build a high-accuracy deep learning model with only haematoxylin and eosin 
+(H&E)-stained slides.
+METHODS: We collected 326 H&E-stained non-small cell lung cancer slides from 
+Beijing Chest Hospital, China, and used 226 slides (88 with EGFR mutations) for 
+model training. The remaining 100 images (50 with EGFR mutations) were used for 
+testing. We trained a convolutional neural network based on ResNet-50 to 
+classify EGFR mutation status on the slide level.
+RESULTS: The sensitivity and specificity of the model were 76% and 74%, 
+respectively, with an area under the curve of 0.82. When applying the 
+double-threshold approach, 33% of the patients could be predicted by the deep 
+learning model as EGFR positive or negative with a sensitivity and specificity 
+of 100.0% and 87.5%. The remaining 67% of the patients got an uncertain result 
+and will be recommenced to perform further examination. By incorporating 
+adenocarcinoma subtype information, we achieved 100% sensitivity in predicting 
+EGFR mutations in 37.3% of adenocarcinoma patients.
+CONCLUSIONS: Our study demonstrates the potential of a deep learning-based EGFR 
+mutation prediction model for rapid and cost-effective pre-screening. It could 
+serve as a high-accuracy complement to current molecular detection methods and 
+provide treatment opportunities for non-small cell lung cancer patients from 
+whom limited samples are available.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12890-023-02537-x
+PMCID: PMC10320949
+PMID: 37407963 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have declared no conflicts of 
+interests.

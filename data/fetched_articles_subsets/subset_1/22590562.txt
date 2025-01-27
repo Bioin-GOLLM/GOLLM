@@ -1,0 +1,40 @@
+1. PLoS One. 2012;7(5):e36546. doi: 10.1371/journal.pone.0036546. Epub 2012 May
+8.
+
+Integrated analysis of residue coevolution and protein structure in ABC 
+transporters.
+
+Gulyás-Kovács A(1).
+
+Author information:
+(1)Laboratory of Cardiac/Membrane Physiology, Rockefeller University, New York, 
+New York, United States of America. agulyaskov@rockefeller.edu
+
+Intraprotein side chain contacts can couple the evolutionary process of amino 
+acid substitution at one position to that at another. This coupling, known as 
+residue coevolution, may vary in strength. Conserved contacts thus not only 
+define 3-dimensional protein structure, but also indicate which residue-residue 
+interactions are crucial to a protein's function. Therefore, prediction of 
+strongly coevolving residue-pairs helps clarify molecular mechanisms underlying 
+function. Previously, various coevolution detectors have been employed 
+separately to predict these pairs purely from multiple sequence alignments, 
+while disregarding available structural information. This study introduces an 
+integrative framework that improves the accuracy of such predictions, relative 
+to previous approaches, by combining multiple coevolution detectors and 
+incorporating structural contact information. This framework is applied to the 
+ABC-B and ABC-C transporter families, which include the drug exporter 
+P-glycoprotein involved in multidrug resistance of cancer cells, as well as the 
+CFTR chloride channel linked to cystic fibrosis disease. The predicted 
+coevolving pairs are further analyzed based on conformational changes inferred 
+from outward- and inward-facing transporter structures. The analysis suggests 
+that some pairs coevolved to directly regulate conformational changes of the 
+alternating-access transport mechanism, while others to stabilize 
+rigid-body-like components of the protein structure. Moreover, some identified 
+pairs correspond to residues previously implicated in cystic fibrosis.
+
+DOI: 10.1371/journal.pone.0036546
+PMCID: PMC3348156
+PMID: 22590562 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

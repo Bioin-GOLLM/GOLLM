@@ -1,0 +1,50 @@
+1. Neuroimage. 2018 Apr 15;170:471-481. doi: 10.1016/j.neuroimage.2017.04.012.
+Epub  2017 Apr 6.
+
+Robust automated constellation-based landmark detection in human brain imaging.
+
+Ghayoor A(1), Vaidya JG(2), Johnson HJ(3).
+
+Author information:
+(1)Department of Electrical and Computer Engineering, 1402 Seamans Center for 
+the Engineering Arts and Science, The University of Iowa, Iowa City, IA 52240, 
+USA; Department of Psychiatry, University of Iowa Hospitals & Clinics, Iowa 
+City, IA 52242, USA.
+(2)Department of Psychiatry, University of Iowa Hospitals & Clinics, Iowa City, 
+IA 52242, USA.
+(3)Department of Electrical and Computer Engineering, 1402 Seamans Center for 
+the Engineering Arts and Science, The University of Iowa, Iowa City, IA 52240, 
+USA; Department of Psychiatry, University of Iowa Hospitals & Clinics, Iowa 
+City, IA 52242, USA. Electronic address: hans-johnson@uiowa.edu.
+
+A robust fully automated algorithm for identifying an arbitrary number of 
+landmark points in the human brain is described and validated. The proposed 
+method combines statistical shape models with trained brain morphometric 
+measures to estimate midbrain landmark positions reliably and accurately. Gross 
+morphometric constraints provided by automatically identified eye centers and 
+the center of the head mass are shown to provide robust initialization in the 
+presence of large rotations in the initial head orientation. Detection of 
+primary midbrain landmarks are used as the foundation from which extended 
+detection of an arbitrary set of secondary landmarks in different brain regions 
+by applying a linear model estimation and principle component analysis. This 
+estimation model sequentially uses the knowledge of each additional detected 
+landmark as an improved foundation for improved prediction of the next landmark 
+location. The accuracy and robustness of the presented method was evaluated by 
+comparing the automatically generated results to two manual raters on 30 
+identified landmark points extracted from each of 30 T1-weighted magnetic 
+resonance images. For the landmarks with unambiguous anatomical definitions, the 
+average discrepancy between the algorithm results and each human observer 
+differed by less than 1 mm from the average inter-observer variability when the 
+algorithm was evaluated on imaging data collected from the same site as the 
+model building data. Similar results were obtained when the same model was 
+applied to a set of heterogeneous image volumes from seven different collection 
+sites representing 3 scanner manufacturers. This method is reliable for general 
+application in large-scale multi-site studies that consist of a variety of 
+imaging data with different orientations, spacings, origins, and field 
+strengths.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2017.04.012
+PMCID: PMC5630513
+PMID: 28392490 [Indexed for MEDLINE]

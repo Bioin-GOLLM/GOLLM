@@ -1,0 +1,40 @@
+1. J Chem Theory Comput. 2015 Aug 11;11(8):3946-54. doi:
+10.1021/acs.jctc.5b00411.
+
+Quantifying the Binding Interaction between the Hypoxia-Inducible Transcription 
+Factor and the von Hippel-Lindau Suppressor.
+
+Domene C(1)(2), Jorgensen C(2), Vanommeslaeghe K(1), Schofield CJ(3), MacKerell 
+A Jr(1).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, University of Maryland School of 
+Pharmacy , 20 Penn St., Baltimore, Maryland 21201, United States.
+(2)Physical & Theoretical Chemistry Laboratory, South Parks Road, University of 
+Oxford , Oxford OX1 3QZ, United Kingdom.
+(3)Chemistry Research Laboratory, University of Oxford , Mansfield Road, Oxford 
+OX1 3TA, United Kingdom.
+
+The hypoxia-inducible transcription factors (HIF) play a central role in the 
+human oxygen sensing signaling pathway. The binding of the von Hippel-Lindau 
+tumor suppressor protein (pVHL)-ElonginC-ElonginB complex (VCB) to HIF-1α is 
+highly selective for the trans-4-hydroxylation form of when Pro564 in the 
+C-terminal oxygen-dependent degradation domain (ODDD) of HIF-1α. The binding of 
+HIFα for VCB is increased by ∼1000-fold upon addition of a single hydroxyl group 
+to either of two conserved proline-residues. Here, we address how this addition 
+governs selective recognition and characterizes the strength of the interaction 
+of this "switch-like" signaling event. A new set of molecular mechanics 
+parameters for 4-hydroxyproline has been developed following the CHARMM force 
+field philosophy. Using the free energy perturbation (FEP) formalism, the 
+difference in the binding free energies between HIF-1α in the nonhydroxylated 
+and hydroxylated forms with the VCB complex was estimated using over 3 μs of MD 
+trajectories. These results can favorably be compared to an experimental value 
+of ∼4 kcal mol(-1). It is observed that the optimized hydrogen bonding network 
+to the buried hydroxyprolyl group confers precise discrimination between 
+hydroxylated and unmodified prolyl residues. These observations provide insight 
+that will aid in developing therapeutic agents that block HIF-α recognition by 
+pVHL.
+
+DOI: 10.1021/acs.jctc.5b00411
+PMCID: PMC5283694
+PMID: 26574473 [Indexed for MEDLINE]

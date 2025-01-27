@@ -1,0 +1,50 @@
+1. BMC Biol. 2020 Jul 3;18(1):81. doi: 10.1186/s12915-020-00790-8.
+
+AIMTOR, a BRET biosensor for live imaging, reveals subcellular mTOR signaling 
+and dysfunctions.
+
+Bouquier N(1), Moutin E(1), Tintignac LA(2), Reverbel A(3), Jublanc E(3), 
+Sinnreich M(2), Chastagnier Y(1), Averous J(4), Fafournoux P(4), Verpelli C(5), 
+Boeckers T(6), Carnac G(7), Perroy J(8), Ollendorff V(9).
+
+Author information:
+(1)IGF, University of Montpellier, CNRS, INSERM, Montpellier, France.
+(2)University Hospital Basel, Department of Biomedecine, Basel, Switzerland.
+(3)DMEM, University of Montpellier, INRAE, Montpellier, France.
+(4)Université Clermont Auvergne, INRAE, Unité de Nutrition Humaine, UMR1019, 
+Clermont-Ferrand, France.
+(5)Cnr Institute of Neuroscience, Via Vanvitelli, 3220129, Milan, Italy.
+(6)Anatomie und Zellbiologie Universität Ulm, Albert-Einstein Allee 11, 
+Raumnummer 4105, M24, 89081, Ulm, Germany.
+(7)Phymedexp, University of Montpellier, CNRS, INSERM, Montpellier, France.
+(8)IGF, University of Montpellier, CNRS, INSERM, Montpellier, France. 
+julie.perroy@igf.cnrs.fr.
+(9)DMEM, University of Montpellier, INRAE, Montpellier, France. 
+vincent.ollendorff@inrae.fr.
+
+BACKGROUND: mTOR signaling is an essential nutrient and energetic sensing 
+pathway. Here we describe AIMTOR, a sensitive genetically encoded BRET 
+(Bioluminescent Resonance Energy Transfer) biosensor to study mTOR activity in 
+living cells.
+RESULTS: As a proof of principle, we show in both cell lines and primary cell 
+cultures that AIMTOR BRET intensities are modified by mTOR activity changes 
+induced by specific inhibitors and activators of mTORC1 including amino acids 
+and insulin. We further engineered several versions of AIMTOR enabling 
+subcellular-specific assessment of mTOR activities. We then used AIMTOR to 
+decipher mTOR signaling in physio-pathological conditions. First, we show that 
+mTORC1 activity increases during muscle cell differentiation and in response to 
+leucine stimulation in different subcellular compartments such as the cytosol 
+and at the surface of the lysosome, the nucleus, and near the mitochondria. 
+Second, in hippocampal neurons, we found that the enhancement of neuronal 
+activity increases mTOR signaling. AIMTOR further reveals mTOR-signaling 
+dysfunctions in neurons from mouse models of autism spectrum disorder.
+CONCLUSIONS: Altogether, our results demonstrate that AIMTOR is a sensitive and 
+specific tool to investigate mTOR-signaling dynamics in living cells and 
+phenotype mTORopathies.
+
+DOI: 10.1186/s12915-020-00790-8
+PMCID: PMC7334845
+PMID: 32620110 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

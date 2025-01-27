@@ -1,0 +1,48 @@
+1. Nat Commun. 2020 Mar 23;11(1):1515. doi: 10.1038/s41467-020-14918-5.
+
+Developing a highly efficient hydroxytyrosol whole-cell catalyst by 
+de-bottlenecking rate-limiting steps.
+
+Yao J(#)(1)(2), He Y(#)(3), Su N(3), Bharath SR(3), Tao Y(1), Jin JM(4), Chen 
+W(5), Song H(6), Tang SY(7).
+
+Author information:
+(1)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, 
+State Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese 
+Academy of Sciences, Beijing, China.
+(2)University of Chinese Academy of Sciences, Beijing, China.
+(3)Institute of Molecular and Cell Biology, 61 Biopolis Drive, Singapore, 
+Singapore.
+(4)Beijing Key Laboratory of Plant Resources Research and Development, Beijing 
+Technology and Business University, Beijing, China. jinjianming@btbu.edu.cn.
+(5)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, 
+State Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese 
+Academy of Sciences, Beijing, China. chenw@im.ac.cn.
+(6)Institute of Molecular and Cell Biology, 61 Biopolis Drive, Singapore, 
+Singapore. haiwei@imcb.a-star.edu.sg.
+(7)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, 
+State Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese 
+Academy of Sciences, Beijing, China. tangsy@im.ac.cn.
+(#)Contributed equally
+
+Hydroxytyrosol is an antioxidant free radical scavenger that is biosynthesized 
+from tyrosine. In metabolic engineering efforts, the use of the mouse tyrosine 
+hydroxylase limits its production. Here, we design an efficient whole-cell 
+catalyst of hydroxytyrosol in Escherichia coli by de-bottlenecking two 
+rate-limiting enzymatic steps. First, we replace the mouse tyrosine hydroxylase 
+by an engineered two-component flavin-dependent monooxygenase HpaBC of E. coli 
+through structure-guided modeling and directed evolution. Next, we elucidate the 
+structure of the Corynebacterium glutamicum VanR regulatory protein complexed 
+with its inducer vanillic acid. By switching its induction specificity from 
+vanillic acid to hydroxytyrosol, VanR is engineered into a hydroxytyrosol 
+biosensor. Then, with this biosensor, we use in vivo-directed evolution to 
+optimize the activity of tyramine oxidase (TYO), the second rate-limiting enzyme 
+in hydroxytyrosol biosynthesis. The final strain reaches a 95% conversion rate 
+of tyrosine. This study demonstrates the effectiveness of sequentially 
+de-bottlenecking rate-limiting steps for whole-cell catalyst development.
+
+DOI: 10.1038/s41467-020-14918-5
+PMCID: PMC7090077
+PMID: 32251291 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,32 @@
+1. Metabolites. 2023 Mar 19;13(3):449. doi: 10.3390/metabo13030449.
+
+In Silico Prediction of Metabolic Reaction Catalyzed by Human Aldehyde Oxidase.
+
+Huang M(1), Zhu K(1), Wang Y(1), Lou C(1), Sun H(1), Li W(1), Tang Y(1), Liu 
+G(1).
+
+Author information:
+(1)Shanghai Frontiers Science Center of Optogenetic Techniques for Cell 
+Metabolism, Shanghai Key Laboratory of New Drug Design, School of Pharmacy, East 
+China University of Science and Technology, Shanghai 200237, China.
+
+Aldehyde oxidase (AOX) plays an important role in drug metabolism. Human AOX 
+(hAOX) is widely distributed in the body, and there are some differences between 
+species. Currently, animal models cannot accurately predict the metabolism of 
+hAOX. Therefore, more and more in silico models have been constructed for the 
+prediction of the hAOX metabolism. These models are based on molecular docking 
+and quantum chemistry theory, which are time-consuming and difficult to 
+automate. Therefore, in this study, we compared traditional machine learning 
+methods, graph convolutional neural network methods, and sequence-based methods 
+with limited data, and proposed a ligand-based model for the metabolism 
+prediction catalyzed by hAOX. Compared with the published models, our model 
+achieved better performance (ACC = 0.91, F1 = 0.77). What's more, we built a web 
+server to predict the sites of metabolism (SOMs) for hAOX. In summary, this 
+study provides a convenient and automatable model and builds a web server named 
+Meta-hAOX for accelerating the drug design and optimization stage.
+
+DOI: 10.3390/metabo13030449
+PMCID: PMC10059660
+PMID: 36984889
+
+Conflict of interest statement: The authors declare no conflict of interest.

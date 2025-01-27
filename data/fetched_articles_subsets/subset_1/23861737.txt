@@ -1,0 +1,39 @@
+1. PLoS One. 2013 Jul 5;8(7):e65245. doi: 10.1371/journal.pone.0065245. Print
+2013.
+
+A unified framework for association analysis with multiple related phenotypes.
+
+Stephens M(1).
+
+Author information:
+(1)Department of Statistics and Department of Human Genetics, University of 
+Chicago, Chicago, Illinois, USA. mstephens@uchicago.edu
+
+Erratum in
+    PLoS One. 2019 Mar 19;14(3):e0213951. doi: 10.1371/journal.pone.0213951.
+
+We consider the problem of assessing associations between multiple related 
+outcome variables, and a single explanatory variable of interest. This problem 
+arises in many settings, including genetic association studies, where the 
+explanatory variable is genotype at a genetic variant. We outline a framework 
+for conducting this type of analysis, based on Bayesian model comparison and 
+model averaging for multivariate regressions. This framework unifies several 
+common approaches to this problem, and includes both standard univariate and 
+standard multivariate association tests as special cases. The framework also 
+unifies the problems of testing for associations and explaining associations - 
+that is, identifying which outcome variables are associated with genotype. This 
+provides an alternative to the usual, but conceptually unsatisfying, approach of 
+resorting to univariate tests when explaining and interpreting significant 
+multivariate findings. The method is computationally tractable genome-wide for 
+modest numbers of phenotypes (e.g. 5-10), and can be applied to summary data, 
+without access to raw genotype and phenotype data. We illustrate the methods on 
+both simulated examples, and to a genome-wide association study of blood lipid 
+traits where we identify 18 potential novel genetic associations that were not 
+identified by univariate analyses of the same data.
+
+DOI: 10.1371/journal.pone.0065245
+PMCID: PMC3702528
+PMID: 23861737 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The author has declared 
+that no competing interests exist.

@@ -1,0 +1,38 @@
+1. PLoS One. 2010 Oct 29;5(10):e13761. doi: 10.1371/journal.pone.0013761.
+
+Channelrhodopsin-2 localised to the axon initial segment.
+
+Grubb MS(1), Burrone J.
+
+Author information:
+(1)Medical Research Council Centre for Developmental Neurobiology, King's 
+College London, London, United Kingdom. matthew.grubb@kcl.ac.uk
+
+The light-gated cation channel Channelrhodopsin-2 (ChR2) is a powerful and 
+versatile tool for controlling neuronal activity. Currently available versions 
+of ChR2 either distribute uniformly throughout the plasma membrane or are 
+localised specifically to somatodendritic or synaptic domains. Localising ChR2 
+instead to the axon initial segment (AIS) could prove an extremely useful 
+addition to the optogenetic repertoire, targeting the channel directly to the 
+site of action potential initiation, and limiting depolarisation and associated 
+calcium entry elsewhere in the neuron. Here, we describe a ChR2 construct that 
+we localised specifically to the AIS by adding the ankyrinG-binding loop of 
+voltage-gated sodium channels (Na(v)II-III) to its intracellular terminus. 
+Expression of ChR2-YFP-Na(v)II-III did not significantly affect the passive or 
+active electrical properties of cultured rat hippocampal neurons. However, the 
+tiny ChR2 currents and small membrane depolarisations resulting from AIS 
+targeting meant that optogenetic control of action potential firing with 
+ChR2-YFP-Na(v)II-III was unsuccessful in baseline conditions. We did succeed in 
+stimulating action potentials with light in some ChR2-YFP-Na(v)II-III-expressing 
+neurons, but only when blocking KCNQ voltage-gated potassium channels. We 
+discuss possible alternative approaches to obtaining precise control of neuronal 
+spiking with AIS-targeted optogenetic constructs and propose potential uses for 
+our ChR2-YFP-Na(v)II-III probe where subthreshold modulation of action potential 
+initiation is desirable.
+
+DOI: 10.1371/journal.pone.0013761
+PMCID: PMC2966437
+PMID: 21048938 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

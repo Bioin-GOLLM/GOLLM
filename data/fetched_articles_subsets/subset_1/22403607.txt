@@ -1,0 +1,48 @@
+1. PLoS One. 2012;7(3):e29578. doi: 10.1371/journal.pone.0029578. Epub 2012 Mar
+5.
+
+Unsupervised analysis of classical biomedical markers: robustness and medical 
+relevance of patient clustering using bioinformatics tools.
+
+Markovich Gordon M(1), Moser AM, Rubin E.
+
+Author information:
+(1)Sharaga Segal Dept of Microbiology and Immunology, Ben Gurion University of 
+the Negev, Beersheba, Israel.
+
+MOTIVATION: It has been proposed that clustering clinical markers, such as blood 
+test results, can be used to stratify patients. However, the robustness of 
+clusters formed with this approach to data pre-processing and clustering 
+algorithm choices has not been evaluated, nor has clustering reproducibility. 
+Here, we made use of the NHANES survey to compare clusters generated with 
+various combinations of pre-processing and clustering algorithms, and tested 
+their reproducibility in two separate samples.
+METHOD: Values of 44 biomarkers and 19 health/life style traits were extracted 
+from the National Health and Nutrition Examination Survey (NHANES). The 
+1999-2002 survey was used for training, while data from the 2003-2006 survey was 
+tested as a validation set. Twelve combinations of pre-processing and clustering 
+algorithms were applied to the training set. The quality of the resulting 
+clusters was evaluated both by considering their properties and by comparative 
+enrichment analysis. Cluster assignments were projected to the validation set 
+(using an artificial neural network) and enrichment in health/life style traits 
+in the resulting clusters was compared to the clusters generated from the 
+original training set.
+RESULTS: The clusters obtained with different pre-processing and clustering 
+combinations differed both in terms of cluster quality measures and in terms of 
+reproducibility of enrichment with health/life style properties. Z-score 
+normalization, for example, dramatically improved cluster quality and 
+enrichments, as compared to unprocessed data, regardless of the clustering 
+algorithm used. Clustering diabetes patients revealed a group of patients 
+enriched with retinopathies. This could indicate that routine laboratory tests 
+can be used to detect patients suffering from complications of diabetes, 
+although other explanations for this observation should also be considered.
+CONCLUSIONS: Clustering according to classical clinical biomarkers is a robust 
+process, which may help in patient stratification. However, optimization of the 
+pre-processing and clustering process may be still required.
+
+DOI: 10.1371/journal.pone.0029578
+PMCID: PMC3293863
+PMID: 22403607 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

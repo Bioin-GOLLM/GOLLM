@@ -1,0 +1,37 @@
+1. PLoS One. 2012;7(7):e40540. doi: 10.1371/journal.pone.0040540. Epub 2012 Jul
+17.
+
+Protein surface matching by combining local and global geometric information.
+
+Ellingson L(1), Zhang J.
+
+Author information:
+(1)Department of Mathematics and Statistics, Texas Tech University, Lubbock, 
+Texas, United States of America.
+
+Comparison of the binding sites of proteins is an effective means for predicting 
+protein functions based on their structure information. Despite the importance 
+of this problem and much research in the past, it is still very challenging to 
+predict the binding ligands from the atomic structures of protein binding sites. 
+Here, we designed a new algorithm, TIPSA (Triangulation-based 
+Iterative-closest-point for Protein Surface Alignment), based on the iterative 
+closest point (ICP) algorithm. TIPSA aims to find the maximum number of atoms 
+that can be superposed between two protein binding sites, where any pair of 
+superposed atoms has a distance smaller than a given threshold. The search 
+starts from similar tetrahedra between two binding sites obtained from 3D 
+Delaunay triangulation and uses the Hungarian algorithm to find additional 
+matched atoms. We found that, due to the plasticity of protein binding sites, 
+matching the rigid body of point clouds of protein binding sites is not adequate 
+for satisfactory binding ligand prediction. We further incorporated global 
+geometric information, the radius of gyration of binding site atoms, and used 
+nearest neighbor classification for binding site prediction. Tested on benchmark 
+data, our method achieved a performance comparable to the best methods in the 
+literature, while simultaneously providing the common atom set and atom 
+correspondences.
+
+DOI: 10.1371/journal.pone.0040540
+PMCID: PMC3398928
+PMID: 22815760 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

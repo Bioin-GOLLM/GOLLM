@@ -1,0 +1,61 @@
+1. Microbiol Spectr. 2023 Jun 15;11(3):e0501322. doi: 10.1128/spectrum.05013-22. 
+Epub 2023 May 24.
+
+Transmission Dynamics of a Mycobacterium tuberculosis Complex Outbreak in an 
+Indigenous Population in the Colombian Amazon Region.
+
+Pérez-Llanos FJ(1), Dreyer V(1)(2), Barilar I(1)(2), Utpatel C(1)(2), Kohl 
+TA(1)(2), Murcia MI(3), Homolka S(1), Merker M(#)(1)(2)(4), Niemann S(#)(1)(2).
+
+Author information:
+(1)Molecular and Experimental Mycobacteriology, Research Center Borstel, 
+Borstel, Germany.
+(2)German Center for Infection Research, Hamburg-Lübeck-Borstel-Riems, Germany.
+(3)Grupo MICOBAC-UN, Departamento de Microbiología, Facultad de Medicina, 
+Universidad Nacional de Colombia, Bogotá, Colombia.
+(4)Evolution of the Resistome, Research Center Borstel, Borstel, Germany.
+(#)Contributed equally
+
+Whole genome sequencing (WGS) has become the main tool for studying the 
+transmission of Mycobacterium tuberculosis complex (MTBC) strains; however, the 
+clonal expansion of one strain often limits its application in local MTBC 
+outbreaks. The use of an alternative reference genome and the inclusion of 
+repetitive regions in the analysis could potentially increase the resolution, 
+but the added value has not yet been defined. Here, we leveraged short and long 
+WGS read data of a previously reported MTBC outbreak in the Colombian Amazon 
+Region to analyze possible transmission chains among 74 patients in the 
+indigenous setting of Puerto Nariño (March to October 2016). In total, 90.5% 
+(67/74) of the patients were infected with one distinct MTBC strain belonging to 
+lineage 4.3.3. Employing a reference genome from an outbreak strain and highly 
+confident single nucleotide polymorphisms (SNPs) in repetitive genomic regions, 
+e.g., the proline-glutamic acid/proline-proline-glutamic-acid (PE/PPE) gene 
+family, increased the phylogenetic resolution compared to a classical H37Rv 
+reference mapping approach. Specifically, the number of differentiating SNPs 
+increased from 890 to 1,094, which resulted in a more granular transmission 
+network as judged by an increasing number of individual nodes in a maximum 
+parsimony tree, i.e., 5 versus 9 nodes. We also found in 29.9% (20/67) of the 
+outbreak isolates, heterogenous alleles at phylogenetically informative sites, 
+suggesting that these patients are infected with more than one clone. In 
+conclusion, customized SNP calling thresholds and employment of a local 
+reference genome for a mapping approach can improve the phylogenetic resolution 
+in highly clonal MTBC populations and help elucidate within-host MTBC diversity. 
+IMPORTANCE The Colombian Amazon around Puerto Nariño has a high tuberculosis 
+burden with a prevalence of 1,267/100,000 people in 2016. Recently, an outbreak 
+of Mycobacterium tuberculosis complex (MTBC) bacteria among the indigenous 
+populations was identified with classical MTBC genotyping methods. Here, we 
+employed a whole-genome sequencing-based outbreak investigation in order to 
+improve the phylogenetic resolution and gain new insights into the transmission 
+dynamics in this remote Colombian Amazon Region. The inclusion of well-supported 
+single nucleotide polymorphisms in repetitive regions and a de novo-assembled 
+local reference genome provided a more granular picture of the circulating 
+outbreak strain and revealed new transmission chains. Multiple patients from 
+different settlements were possibly infected with at least two different clones 
+in this high-incidence setting. Thus, our results have the potential to improve 
+molecular surveillance studies in other high-burden settings, especially regions 
+with few clonal multidrug-resistant (MDR) MTBC lineages/clades.
+
+DOI: 10.1128/spectrum.05013-22
+PMCID: PMC10269451
+PMID: 37222610 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,37 @@
+1. Am J Hum Genet. 2009 Feb;84(2):178-87. doi: 10.1016/j.ajhg.2008.12.015. Epub 
+2009 Jan 29.
+
+Searching for genotype-phenotype structure: using hierarchical log-linear models 
+in Crohn disease.
+
+Chapman JM(1), Onnie CM, Prescott NJ, Fisher SA, Mansfield JC, Mathew CG, Lewis 
+CM, Verzilli CJ, Whittaker JC.
+
+Author information:
+(1)Department of Epidemiology and Population Health, London School of Hygiene 
+and Tropical Medicine, London WC1E 7HT, UK.
+
+There has been considerable recent success in the detection of gene-disease 
+associations. We consider here the development of tools that facilitate the more 
+detailed characterization of the effect of a genetic variant on disease. We 
+replace the simplistic classification of individuals according to a single 
+binary disease indicator with classification according to a number of 
+subphenotypes. This more accurately reflects the underlying biological 
+complexity of the disease process, but it poses additional analytical 
+difficulties. Notably, the subphenotypes that make up a particular disease are 
+typically highly associated, and it becomes difficult to distinguish which genes 
+might be causing which subphenotypes. Such problems arise in many complex 
+diseases. Here, we concentrate on an application to Crohn disease (CD). We 
+consider this problem as one of model selection based upon log-linear models, 
+fitted in a Bayesian framework via reversible-jump Metropolis-Hastings approach. 
+We evaluate the performance of our suggested approach with a simple simulation 
+study and then apply the method to a real data example in CD, revealing a sparse 
+disease structure. Most notably, the associated NOD2.908G-->R mutation appears 
+to be directly related to more severe disease behaviors, whereas the other two 
+associated NOD2 variants, 1007L-->FS and 702R-->W, are more generally related to 
+disease in the small bowel (ileum and jejenum). The ATG16L1.300T-->A variant 
+appears to be directly associated with only disease of the small bowel.
+
+DOI: 10.1016/j.ajhg.2008.12.015
+PMCID: PMC2668013
+PMID: 19185283 [Indexed for MEDLINE]

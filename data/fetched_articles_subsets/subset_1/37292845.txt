@@ -1,0 +1,78 @@
+1. bioRxiv [Preprint]. 2023 May 24:2023.05.23.540554. doi: 
+10.1101/2023.05.23.540554.
+
+GPR161 structure uncovers the redundant role of sterol-regulated ciliary cAMP 
+signaling in the Hedgehog pathway.
+
+Hoppe N(1)(2), Harrison S(1)(2), Hwang SH(3), Chen Z(4)(5), Karelina 
+M(6)(7)(8)(9)(10), Deshpande I(1), Suomivuori CM(7)(8)(9)(10), Palicharla VR(3), 
+Berry SP(11), Tschaikner P(12)(13), Regele D(12), Covey DF(4)(5)(14)(15), Stefan 
+E(12)(13), Marks DS(11), Reiter J(16), Dror RO(6)(7)(8)(9)(10), Evers 
+AS(4)(5)(15), Mukhopadhyay S(3), Manglik A(1)(17)(18).
+
+Author information:
+(1)Department of Pharmaceutical Chemistry, University of California, San 
+Francisco, CA, USA.
+(2)Biophysics Graduate Program, University of California, San Francisco, CA, 
+USA.
+(3)Department of Cell Biology, University of Texas Southwestern Medical Center, 
+Dallas, TX, USA.
+(4)Department of Anesthesiology, Washington University School of Medicine, St. 
+Louis, MO 63110, USA.
+(5)Taylor Institute for Innovative Psychiatric Research, St. Louis, MO 63110, 
+USA.
+(6)Biophysics Program, Stanford University, Stanford, CA 94305, USA.
+(7)Department of Computer Science, Stanford University, Stanford, CA, USA.
+(8)Department of Molecular and Cellular Physiology, Stanford University School 
+of Medicine, Stanford, CA, USA.
+(9)Department of Structural Biology, Stanford University School of Medicine, 
+Stanford, CA, USA.
+(10)Institute for Computational and Mathematical Engineering, Stanford 
+University, Stanford, CA, USA.
+(11)Department of Systems Biology, Blavatnik Institute, Harvard Medical School, 
+Boston, MA, USA.
+(12)Institute of Molecular Biology and Center for Molecular Biosciences, 
+University of Innsbruck, Innsbruck 6020, Austria.
+(13)Institute of Biochemistry and Center for Molecular Biosciences, University 
+of Innsbruck; Tyrolean Cancer Research Institute (TKFI), Innsbruck 6020, 
+Austria.
+(14)Department of Psychiatry, Washington University School of Medicine, St. 
+Louis, MO 63110, USA.
+(15)Department of Developmental Biology, Washington University School of 
+Medicine, St. Louis, MO 63110, USA.
+(16)Department of Biochemistry and Biophysics, Cardiovascular Research 
+Institute, University of California, San Francisco, San Francisco, California 
+94158.
+(17)Department of Anesthesia and Perioperative Care, University of California, 
+San Francisco, CA, USA.
+(18)Chan Zuckerberg Biohub, San Francisco, CA, USA.
+
+Update in
+    Nat Struct Mol Biol. 2024 Apr;31(4):667-677. doi: 
+10.1038/s41594-024-01223-8.
+
+The orphan G protein-coupled receptor (GPCR) GPR161 is enriched in primary 
+cilia, where it plays a central role in suppressing Hedgehog signaling1. GPR161 
+mutations lead to developmental defects and cancers2,3,4. The fundamental basis 
+of how GPR161 is activated, including potential endogenous activators and 
+pathway-relevant signal transducers, remains unclear. To elucidate GPR161 
+function, we determined a cryogenic-electron microscopy structure of active 
+GPR161 bound to the heterotrimeric G protein complex Gs. This structure revealed 
+an extracellular loop 2 that occupies the canonical GPCR orthosteric ligand 
+pocket. Furthermore, we identify a sterol that binds to a conserved extrahelical 
+site adjacent to transmembrane helices 6 and 7 and stabilizes a GPR161 
+conformation required for Gs coupling. Mutations that prevent sterol binding to 
+GPR161 suppress cAMP pathway activation. Surprisingly, these mutants retain the 
+ability to suppress GLI2 transcription factor accumulation in cilia, a key 
+function of ciliary GPR161 in Hedgehog pathway suppression. By contrast, a 
+protein kinase A-binding site in the GPR161 C-terminus is critical in 
+suppressing GLI2 ciliary accumulation. Our work highlights how unique structural 
+features of GPR161 interface with the Hedgehog pathway and sets a foundation to 
+understand the broader role of GPR161 function in other signaling pathways.
+
+DOI: 10.1101/2023.05.23.540554
+PMCID: PMC10245861
+PMID: 37292845
+
+Conflict of interest statement: Competing Interests A.M. and R.O.D. are 
+consultants for and stockholders in Septerna Inc.

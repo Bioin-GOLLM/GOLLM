@@ -1,0 +1,58 @@
+1. Sci Rep. 2020 Sep 28;10(1):15918. doi: 10.1038/s41598-020-72575-6.
+
+Data-driven malaria prevalence prediction in large densely populated urban 
+holoendemic sub-Saharan West Africa.
+
+Brown BJ(1)(2)(3), Manescu P(3)(4), Przybylski AA(4), Caccioli F(4), Oyinloye 
+G(1)(2), Elmi M(4), Shaw MJ(4), Pawar V(4), Claveau R(4), Shawe-Taylor J(4), 
+Srinivasan MA(4), Afolabi NK(1)(2), Rees G(5), Orimadegun AE(1), Ajetunmobi 
+WA(1), Akinkunmi F(1), Kowobari O(1), Osinusi K(1), Akinbami FO(1), Omokhodion 
+S(1), Shokunbi WA(6), Lagunju I(1)(2)(3), Sodeinde O(1)(2)(3)(4), 
+Fernandez-Reyes D(7)(8)(9)(10).
+
+Author information:
+(1)Department of Paediatrics, College of Medicine, University of Ibadan, 
+University College Hospital, Ibadan, Nigeria.
+(2)Childhood Malaria Research Group, College of Medicine, University of Ibadan, 
+University College Hospital, Ibadan, Nigeria.
+(3)African Computational Sciences Centre for Health and Development, University 
+of Ibadan, Ibadan, Nigeria.
+(4)Department of Computer Science, Faculty of Engineering Sciences, University 
+College London, Gower Street, London, WC1E 6BT, UK.
+(5)Faculty of Life Sciences, University College London, Gower Street, London, 
+WC1E 6BT, UK.
+(6)Department of Haematology, College of Medicine, University of Ibadan, 
+University College Hospital, Ibadan, Nigeria.
+(7)Department of Paediatrics, College of Medicine, University of Ibadan, 
+University College Hospital, Ibadan, Nigeria. Delmiro.Fernandez-Reyes@ucl.ac.uk.
+(8)Childhood Malaria Research Group, College of Medicine, University of Ibadan, 
+University College Hospital, Ibadan, Nigeria. Delmiro.Fernandez-Reyes@ucl.ac.uk.
+(9)African Computational Sciences Centre for Health and Development, University 
+of Ibadan, Ibadan, Nigeria. Delmiro.Fernandez-Reyes@ucl.ac.uk.
+(10)Department of Computer Science, Faculty of Engineering Sciences, University 
+College London, Gower Street, London, WC1E 6BT, UK. 
+Delmiro.Fernandez-Reyes@ucl.ac.uk.
+
+Over 200 million malaria cases globally lead to half-million deaths annually. 
+The development of malaria prevalence prediction systems to support malaria care 
+pathways has been hindered by lack of data, a tendency towards universal 
+"monolithic" models (one-size-fits-all-regions) and a focus on long lead time 
+predictions. Current systems do not provide short-term local predictions at an 
+accuracy suitable for deployment in clinical practice. Here we show a 
+data-driven approach that reliably produces one-month-ahead prevalence 
+prediction within a densely populated all-year-round malaria metropolis of over 
+3.5 million inhabitants situated in Nigeria which has one of the largest global 
+burdens of P. falciparum malaria. We estimate one-month-ahead prevalence in a 
+unique 22-years prospective regional dataset of > 9 × 104 participants attending 
+our healthcare services. Our system agrees with both magnitude and direction of 
+the prediction on validation data achieving MAE ≤ 6 × 10-2, MSE ≤ 7 × 10-3, PCC 
+(median 0.63, IQR 0.3) and with more than 80% of estimates within a (+ 0.1 to 
+- 0.05) error-tolerance range which is clinically relevant for decision-support 
+in our holoendemic setting. Our data-driven approach could facilitate healthcare 
+systems to harness their own data to support local malaria care pathways.
+
+DOI: 10.1038/s41598-020-72575-6
+PMCID: PMC7522256
+PMID: 32985514 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

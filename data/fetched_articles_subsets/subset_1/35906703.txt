@@ -1,0 +1,36 @@
+1. Genome Med. 2022 Jul 29;14(1):81. doi: 10.1186/s13073-022-01078-y.
+
+X-CAP improves pathogenicity prediction of stopgain variants.
+
+Rastogi R(1), Stenson PD(2), Cooper DN(2), Bejerano G(3)(4)(5)(6).
+
+Author information:
+(1)Department of Computer Science, Stanford University, Stanford, USA.
+(2)Institute of Medical Genetics, Cardiff University, Cardiff, UK.
+(3)Department of Computer Science, Stanford University, Stanford, USA. 
+bejerano@stanford.edu.
+(4)Department of Developmental Biology, Stanford University, Stanford, USA. 
+bejerano@stanford.edu.
+(5)Department of Pediatrics, Stanford University, Stanford, USA. 
+bejerano@stanford.edu.
+(6)Department of Biomedical Data Science, Stanford University, Stanford, USA. 
+bejerano@stanford.edu.
+
+Stopgain substitutions are the third-largest class of monogenic human disease 
+mutations and often examined first in patient exomes. Existing computational 
+stopgain pathogenicity predictors, however, exhibit poor performance at the high 
+sensitivity required for clinical use. Here, we introduce a new classifier, 
+termed X-CAP, which uses a novel training methodology and unique feature set to 
+improve the AUROC by 18% and decrease the false-positive rate 4-fold on large 
+variant databases. In patient exomes, X-CAP prioritizes causal stopgains better 
+than existing methods do, further illustrating its clinical utility. X-CAP is 
+available at https://github.com/bejerano-lab/X-CAP .
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13073-022-01078-y
+PMCID: PMC9338606
+PMID: 35906703 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,51 @@
+1. Front Oncol. 2022 Oct 12;12:929960. doi: 10.3389/fonc.2022.929960. eCollection
+ 2022.
+
+A novel melanoma prognostic model based on the ferroptosis-related long 
+non-coding RNA.
+
+Rao Y(1), Zhu J(1), Zheng H(1), Dong W(2), Lin Q(1).
+
+Author information:
+(1)Department of Pathology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(2)Department of Pathology, Eastern Hepatobilliary Surgery Hospital, The Second 
+Military Medical University, Shanghai, China.
+
+Ferroptosis is an iron-dependent programmed cell death related to the biological 
+process of many kinds of tumors. Long noncoding RNAs (LncRNA) have been found to 
+play essential roles in the tumor, and their functions in the ferroptosis of 
+tumor cells have been partially discovered. However, there is no summary of 
+ferroptosis-related LncRNA and its functions in melanoma. In the present study, 
+we aim to explore the expression profile of ferroptosis-related LncRNA genes and 
+their value in melanoma prognosis by bioinformatics analysis. The expression of 
+ferroptosis-related gene (FRG) from melanoma clinical data was extracted based 
+on the Cancer Genome Atlas (TCGA) database. By screening the RNA expression data 
+of 472 cases of melanoma and 810 cases of normal skin, eighteen 
+ferroptosis-related differential genes were found to be related to the overall 
+survival rate. Furthermore, 384 ferroptosis-related LncRNAs were discovered 
+through constructing the mRNA-LncRNA co-expression network, and ten of them were 
+found with prognostic significance in melanoma by multivariate Cox analysis. 
+Risk assessment showed that the high expression of LncRNA00520 is associated 
+with poor prognosis, while the increased expression of the other LncRNA is 
+beneficial to the prognosis of patients with melanoma. From univariate and 
+multivariate Cox regression analysis, there were ten ferroptosis-related LncRNA 
+risk models towards to be significant independent prognostic factors for 
+patients with melanoma and valuable predictive factors for overall survival 
+(OS)(P<0.05). The ROC curve further suggested that the risk score has relatively 
+reliable predictive ability (AUC=0.718). The protein level of 
+ferroptosis-related genes was verified by the HPA database and IHC test, leading 
+to the discovery that the expressions of ALOX5, PEBP1, ACSL4, and ZEB1 proteins 
+up-regulated in tumor tissues, and existed differences between tumor tissues and 
+normal tissues. In conclusion, we identified ten ferroptosis-related LncRNA and 
+constructed a prognosis model base.
+
+Copyright © 2022 Rao, Zhu, Zheng, Dong and Lin.
+
+DOI: 10.3389/fonc.2022.929960
+PMCID: PMC9598429
+PMID: 36313708
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

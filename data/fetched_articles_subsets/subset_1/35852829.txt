@@ -1,0 +1,62 @@
+1. JMIR Med Inform. 2022 Jul 19;10(7):e37201. doi: 10.2196/37201.
+
+Extraction of Explicit and Implicit Cause-Effect Relationships in 
+Patient-Reported Diabetes-Related Tweets From 2017 to 2021: Deep Learning 
+Approach.
+
+Ahne A(1)(2), Khetan V(3), Tannier X(4), Rizvi MIH(5), Czernichow T(2), Orchard 
+F(2), Bour C(6), Fano A(3), Fagherazzi G(6).
+
+Author information:
+(1)Center of Epidemiology and Population Health, Inserm, Hospital Gustave 
+Roussy, Paris-Saclay University, Villejuif, France.
+(2)Epiconcept Company, Paris, France.
+(3)Accenture Labs, San Francisco, CA, United States.
+(4)Laboratoire d'Informatique Médicale et d'Ingénierie des Connaissances pour la 
+e-Santé, Inserm, University Sorbonne Paris Nord, Sorbonne University, Paris, 
+France.
+(5)Indian Institute of Science, Bengaluru, India.
+(6)Deep Digital Phenotyping Research Unit, Department of Precision Health, 
+Luxembourg Institute of Health, Strassen, Luxembourg.
+
+BACKGROUND: Intervening in and preventing diabetes distress requires an 
+understanding of its causes and, in particular, from a patient's perspective. 
+Social media data provide direct access to how patients see and understand their 
+disease and consequently show the causes of diabetes distress.
+OBJECTIVE: Leveraging machine learning methods, we aim to extract both explicit 
+and implicit cause-effect relationships in patient-reported diabetes-related 
+tweets and provide a methodology to better understand the opinions, feelings, 
+and observations shared within the diabetes online community from a causality 
+perspective.
+METHODS: More than 30 million diabetes-related tweets in English were collected 
+between April 2017 and January 2021. Deep learning and natural language 
+processing methods were applied to focus on tweets with personal and emotional 
+content. A cause-effect tweet data set was manually labeled and used to train 
+(1) a fine-tuned BERTweet model to detect causal sentences containing a causal 
+relation and (2) a conditional random field model with Bidirectional Encoder 
+Representations from Transformers (BERT)-based features to extract possible 
+cause-effect associations. Causes and effects were clustered in a semisupervised 
+approach and visualized in an interactive cause-effect network.
+RESULTS: Causal sentences were detected with a recall of 68% in an imbalanced 
+data set. A conditional random field model with BERT-based features outperformed 
+a fine-tuned BERT model for cause-effect detection with a macro recall of 68%. 
+This led to 96,676 sentences with cause-effect relationships. "Diabetes" was 
+identified as the central cluster followed by "death" and "insulin." Insulin 
+pricing-related causes were frequently associated with death.
+CONCLUSIONS: A novel methodology was developed to detect causal sentences and 
+identify both explicit and implicit, single and multiword cause, and the 
+corresponding effect, as expressed in diabetes-related tweets leveraging 
+BERT-based architectures and visualized as cause-effect network. Extracting 
+causal associations in real life, patient-reported outcomes in social media data 
+provide a useful complementary source of information in diabetes research.
+
+©Adrian Ahne, Vivek Khetan, Xavier Tannier, Md Imbesat Hassan Rizvi, Thomas 
+Czernichow, Francisco Orchard, Charline Bour, Andrew Fano, Guy Fagherazzi. 
+Originally published in JMIR Medical Informatics (https://medinform.jmir.org), 
+19.07.2022.
+
+DOI: 10.2196/37201
+PMCID: PMC9346561
+PMID: 35852829
+
+Conflict of interest statement: Conflicts of Interest: None declared.

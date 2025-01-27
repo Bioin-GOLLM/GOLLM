@@ -1,0 +1,122 @@
+1. NPJ Precis Oncol. 2022 Dec 27;6(1):94. doi: 10.1038/s41698-022-00335-y.
+
+Drug sensitivity profiling of 3D tumor tissue cultures in the pediatric 
+precision oncology program INFORM.
+
+Peterziel H(1)(2)(3), Jamaladdin N(1)(2)(3)(4), ElHarouni D(1)(4)(5)(6), Gerloff 
+XF(1)(2)(3)(7), Herter S(1)(2)(3)(4), Fiesel P(1)(8), Berker Y(1)(2)(3), 
+Blattner-Johnson M(1)(9), Schramm K(1)(9), Jones BC(1)(9)(10), Reuss D(11)(8), 
+Turunen L(12), Friedenauer A(1)(2)(3), Holland-Letz T(13), Sill M(1)(6), Weiser 
+L(14), Previti C(1)(6)(14), Balasubramanian G(1)(6), Gerber NU(15), Gojo J(16), 
+Hutter C(17)(18), Øra I(19), Lohi O(20), Kattamis A(21), de Wilde B(22), 
+Westermann F(1)(23), Tippelt S(24), Graf N(25), Nathrath M(26)(27), 
+Sparber-Sauer M(28)(29), Sehested A(30), Kramm CM(31), Dirksen U(24), 
+Kallioniemi O(12)(32), Pfister SM(1)(6)(10), van Tilburg CM(1)(2)(3)(10), Jones 
+DTW(1)(9), Saarela J(12), Pietiäinen V(12)(32), Jäger N(1)(6), Schlesner 
+M(5)(33), Kopp-Schneider A(13), Oppermann S(1)(2)(3), Milde T(1)(2)(3)(10), Witt 
+O(#)(1)(2)(3)(10), Oehme I(#)(34)(35)(36).
+
+Author information:
+(1)Hopp Children's Cancer Center Heidelberg (KiTZ), 69120, Heidelberg, Germany.
+(2)Clinical Cooperation Unit Pediatric Oncology, German Cancer Research Center 
+(DKFZ) and German Cancer Consortium (DKTK), 69120, Heidelberg, Germany.
+(3)National Center for Tumor Diseases (NCT), 69120, Heidelberg, Germany.
+(4)Faculty of Biosciences, Heidelberg University, 69120, Heidelberg, Germany.
+(5)Bioinformatics and Omics Data Analytics, German Cancer Research Center 
+(DKFZ), 69120, Heidelberg, Germany.
+(6)Division of Pediatric Neurooncology, German Cancer Research Center (DKFZ) and 
+German Cancer Consortium (DKTK), 69120, Heidelberg, Germany.
+(7)Faculty of Mathematics and Computer Science, Heidelberg University, 69120, 
+Heidelberg, Germany.
+(8)Clinical Cooperation Unit Neuropathology, German Cancer Research Center 
+(DKFZ), German Consortium for Translational Cancer Research (DKTK), 69120, 
+Heidelberg, Germany.
+(9)Division of Pediatric Glioma Research, German Cancer Research Center (DKFZ) 
+and German Cancer Consortium (DKTK), 69120, Heidelberg, Germany.
+(10)Department of Pediatric Oncology, Hematology, Immunology and Pulmonology, 
+Heidelberg University Hospital, 69120, Heidelberg, Germany.
+(11)Department Neuropathology at Institute of Pathology, Heidelberg University 
+Hospital, 69120, Heidelberg, Germany.
+(12)Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life 
+Science (HiLIFE), University of Helsinki, 00014, Helsinki, Finland.
+(13)Division of Biostatistics, German Cancer Research Center (DKFZ), Heidelberg, 
+Germany.
+(14)Core Facility Omics IT and Data Management (ODCF), German Cancer Research 
+Center (DKFZ), 69120, Heidelberg, Germany.
+(15)Department of Oncology, University Children's Hospital Zürich, CH-8032, 
+Zürich, Switzerland.
+(16)Department of Pediatrics and Adolescent Medicine, Comprehensive Cancer 
+Center and Comprehensive Center for Pediatrics, Medical University of Vienna, 
+1090, Vienna, Austria.
+(17)St. Anna Children's Hospital, Department of Pediatrics and Adolescent 
+Medicine, Medical University of Vienna, 1090, Vienna, Austria.
+(18)St. Anna Children's Cancer Research Institute (CCRI), Vienna, Austria.
+(19)Children's Hospital, Pediatric Oncology, Skåne University Hospital, Lund & 
+Karolinska University Hospital, Stockholm, Sweden.
+(20)Faculty of Medicine and Health Technology, Tampere Center for Child Health 
+Research, Tampere University, Tampere, Finland, and Tays Cancer Center, Tampere 
+University Hospital, Tampere, Finland.
+(21)First Department of Pediatrics, National and Kapodistrian University of 
+Athens, Athens, Greece.
+(22)Center for Medical Genetics, Ghent University, Ghent, Belgium.
+(23)Division of Neuroblastoma Genomics, German Cancer Research Center, 
+Heidelberg, Germany.
+(24)Pediatrics III Pediatric Hematology, Oncology, Immunology, Cardiology, 
+Pulmonology, West German Cancer Center; German Cancer Consortium (DKTK), 
+University Hospital Essen, Essen, Germany.
+(25)Department of Pediatric Oncology, Saarland University Medical Center, 66421, 
+Homburg, Germany.
+(26)Department of Pediatric Oncology, Klinikum Kassel, Kassel, Germany.
+(27)Department of Pediatrics and Children's Cancer Research Center, Klinikum 
+rechts der Isar, Technical University of Munich, Munich, Germany.
+(28)Klinikum der Landeshauptstadt Stuttgart gKAöR, Olgahospital, Stuttgart 
+Cancer Center, Zentrum für Kinder-, Jugend- und Frauenmedizin, Pädiatrie 5 
+(Pädiatrische Onkologie, Hämatologie, Immunologie), Stuttgart, Germany.
+(29)University of Medicine Tübingen, Tübingen, Germany.
+(30)Department of Pediatrics and Adolescent Medicine, Rigshospitalet, 
+Copenhagen, Denmark.
+(31)Division of Pediatric Hematology and Oncology, University Medical Center 
+Göttingen, Göttingen, Germany.
+(32)iCAN Digital Precision Cancer Medicine Flagship, University of Helsinki, 
+Helsinki, FI-00014, Finland.
+(33)Biomedical Informatics, Data Mining and Data Analytics, Faculty of Applied 
+Computer Science and Medical Faculty, University of Augsburg, Augsburg, Germany.
+(34)Hopp Children's Cancer Center Heidelberg (KiTZ), 69120, Heidelberg, Germany. 
+i.oehme@kitz-heidelberg.de.
+(35)Clinical Cooperation Unit Pediatric Oncology, German Cancer Research Center 
+(DKFZ) and German Cancer Consortium (DKTK), 69120, Heidelberg, Germany. 
+i.oehme@kitz-heidelberg.de.
+(36)National Center for Tumor Diseases (NCT), 69120, Heidelberg, Germany. 
+i.oehme@kitz-heidelberg.de.
+(#)Contributed equally
+
+The international precision oncology program INFORM enrolls relapsed/refractory 
+pediatric cancer patients for comprehensive molecular analysis. We report a 
+two-year pilot study implementing ex vivo drug sensitivity profiling (DSP) using 
+a library of 75-78 clinically relevant drugs. We included 132 viable tumor 
+samples from 35 pediatric oncology centers in seven countries. DSP was conducted 
+on multicellular fresh tumor tissue spheroid cultures in 384-well plates with an 
+overall mean processing time of three weeks. In 89 cases (67%), sufficient 
+viable tissue was received; 69 (78%) passed internal quality controls. The DSP 
+results matched the identified molecular targets, including BRAF, ALK, MET, and 
+TP53 status. Drug vulnerabilities were identified in 80% of cases lacking 
+actionable (very) high-evidence molecular events, adding value to the molecular 
+data. Striking parallels between clinical courses and the DSP results were 
+observed in selected patients. Overall, DSP in clinical real-time is feasible in 
+international multicenter precision oncology programs.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41698-022-00335-y
+PMCID: PMC9794727
+PMID: 36575299
+
+Conflict of interest statement: C.M.v.T. and I. Øra participated in the advisory 
+boards of Novartis and Bayer. S.M.P. receives funding from Bayer, Pfizer, 
+Eli-Lilly, Roche, Amgen, Astra Zeneca, PharmaMar, Sanofi and Servier in the 
+context of an IMI-2-funded EU project entitled ITCC-P4 (www.itccp4.eu). M.S.-S. 
+participated in advisory boards of SOBI, Roche and Bayer (hemophilia) and 
+receives funding from Bayer for providing data on patients with NTRK-positive 
+infantile fibrosarcoma as a historical cohort. O.W. participated in the advisory 
+boards of Novartis, BMS and Janssen and received research grants from BVD, Day 
+One Therapeutics. The remaining authors declare no competing interests.

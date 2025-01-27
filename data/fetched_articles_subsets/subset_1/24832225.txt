@@ -1,0 +1,44 @@
+1. Biology (Basel). 2012 Jul 26;1(2):245-59. doi: 10.3390/biology1020245.
+
+Free Energy Profile of APOBEC3G Protein Calculated by a Molecular Dynamics 
+Simulation.
+
+Fukunishi Y(1), Hongo S(2), Lintuluoto M(3), Matsuo H(4).
+
+Author information:
+(1)Biomedicinal Information Research Center (BIRC), National Institute of 
+Advanced Industrial Science and Technology (AIST), 2-3-26, Aomi, Koto-ku, Tokyo 
+135-0064, Japan. y-fukunishi@aist.go.jp.
+(2)Division of Applied Life Science, Graduate School of Life and Environmental 
+Science, Kyoto Prefectural University, Kyoto 606-8522, Japan. 
+s_hongo@mei.kpu.ac.jp.
+(3)Division of Applied Life Science, Graduate School of Life and Environmental 
+Science, Kyoto Prefectural University, Kyoto 606-8522, Japan. masami@kpu.ac.jp.
+(4)Department of Biochemistry, Molecular Biology and Biophysics, University of 
+Minnesota, Minneapolis, MN 55455, USA. matsu029@umn.edu.
+
+The human APOBEC3G protein (A3G) is a single-stranded DNA deaminase that 
+inhibits the replication of retrotransposons and retroviruses, including HIV-1. 
+Atomic details of A3G's catalytic mechanism have started to emerge, as the 
+structure of its catalytic domain (A3Gctd) has been revealed by NMR and X-ray 
+crystallography. The NMR and crystal structures are similar overall; however, 
+differences are apparent for β2 strand (β2) and loops close to the catalytic 
+site. To add some insight into these differences and to better characterize 
+A3Gctd dynamics, we calculated its free energy profile by using the 
+Generalized-Born surface area (GBSA) method accompanied with a molecular 
+dynamics simulation. The GBSA method yielded an enthalpy term for A3Gctd's free 
+energy, and we developed a new method that takes into account the distribution 
+of the protein's dihedral angles to calculate its entropy term. The structure 
+solved by NMR was found to have a lower energy than that of the crystal 
+structure, suggesting that this conformation is dominant in solution. In 
+addition, β2-loop-β2' configuration was stable throughout a 20-ns molecular 
+dynamics (MD) simulation. This finding suggests that in solution A3Gctd is not 
+likely to adopt the continuous β2 strand configuration present in the APOBEC2 
+crystal structure. In the NMR structure, the solvent water accessibility of the 
+catalytic Zn2+ was limited throughout the 20-ns MD simulation. This result 
+explains previous observations in which A3G did not bind or catalyze single 
+cytosine nucleotide, even when at excessive concentrations.
+
+DOI: 10.3390/biology1020245
+PMCID: PMC4009775
+PMID: 24832225

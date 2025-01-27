@@ -1,0 +1,82 @@
+1. Front Pharmacol. 2023 Feb 7;14:1090717. doi: 10.3389/fphar.2023.1090717. 
+eCollection 2023.
+
+Variant-specific deleterious mutations in the SARS-CoV-2 genome reveal immune 
+responses and potentials for prophylactic vaccine development.
+
+Islam MA(1)(2), Shahi S(3), Marzan AA(3), Amin MR(2), Hasan MN(4), Hoque MN(5), 
+Ghosh A(3), Barua A(2), Khan A(6)(7), Dhama K(8), Chakraborty C(9), Bhattacharya 
+P(10), Wei DQ(6)(7)(11).
+
+Author information:
+(1)Advanced Molecular Lab, Department of Microbiology, President Abdul Hamid 
+Medical College, Karimganj, Bangladesh.
+(2)COVID-19 Diagnostic lab, Department of Microbiology, Noakhali Science and 
+Technology University, Noakhali, Bangladesh.
+(3)Department of Biochemistry and Molecular Biology, Shahjalal University of 
+Science and Technology, Sylhet, Bangladesh.
+(4)Department of Statistics, Shahjalal University of Science and Technology, 
+Sylhet, Bangladesh.
+(5)Department of Gynecology, Obstetrics and Reproductive Health, Faculty of 
+Veterinary Medicine and Animal Science, Bangabandhu Sheikh Mujibur Rahman 
+Agricultural University, Gazipur, Bangladesh.
+(6)Department of Bioinformatics and Biological Statistics, School of Life 
+Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+(7)Zhongjing Research and Industrialization Institute of Chinese Medicine, 
+Zhongguancun Scientific Park, Nayang, Henan, China.
+(8)Division of Pathology, ICAR-Indian Veterinary Research Institute, Bareilly, 
+Uttar Pradesh, India.
+(9)Department of Biotechnology, School of Life Science and Biotechnology, Adamas 
+University, Kolkata, West Bengal, India.
+(10)COVID-19 Research @KTH, Department of Sustainable Development, Environmental 
+Science and Engineering, KTH Royal Institute of Technology, Stockholm, Sweden.
+(11)Peng Cheng Laboratory, Shenzhen, Guangdong, China.
+
+Introduction: Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, has had 
+a disastrous effect worldwide during the previous three years due to widespread 
+infections with SARS-CoV-2 and its emerging variations. More than 674 million 
+confirmed cases and over 6.7 million deaths have been attributed to successive 
+waves of SARS-CoV-2 infections as of 29th January 2023. Similar to other RNA 
+viruses, SARS-CoV-2 is more susceptible to genetic evolution and spontaneous 
+mutations over time, resulting in the continual emergence of variants with 
+distinct characteristics. Spontaneous mutations of SARS-CoV-2 variants increase 
+its transmissibility, virulence, and disease severity and diminish the efficacy 
+of therapeutics and vaccines, resulting in vaccine-breakthrough infections and 
+re-infection, leading to high mortality and morbidity rates. Materials and 
+methods: In this study, we evaluated 10,531 whole genome sequences of all 
+reported variants globally through a computational approach to assess the spread 
+and emergence of the mutations in the SARS-CoV-2 genome. The available data 
+sources of NextCladeCLI 2.3.0 (https://clades.nextstrain.org/) and NextStrain 
+(https://nextstrain.org/) were searched for tracking SARS-CoV-2 mutations, 
+analysed using the PROVEAN, Polyphen-2, and Predict SNP mutational analysis 
+tools and validated by Machine Learning models. Result: Compared to the 
+Wuhan-Hu-1 reference strain NC 045512.2, genome-wide annotations showed 16,954 
+mutations in the SARS-CoV-2 genome. We determined that the Omicron variant had 
+6,307 mutations (retrieved sequence:1947), including 67.8% unique mutations, 
+more than any other variant evaluated in this study. The spike protein of the 
+Omicron variant harboured 876 mutations, including 443 deleterious mutations. 
+Among these deleterious mutations, 187 were common and 256 were unique 
+non-synonymous mutations. In contrast, after analysing 1,884 sequences of the 
+Delta variant, we discovered 4,468 mutations, of which 66% were unique, and not 
+previously reported in other variants. Mutations affecting spike proteins are 
+mostly found in RBD regions for Omicron, whereas most of the Delta variant 
+mutations drawn to focus on amino acid regions ranging from 911 to 924 in the 
+context of epitope prediction (B cell & T cell) and mutational stability impact 
+analysis protruding that Omicron is more transmissible. Discussion: The 
+pathogenesis of the Omicron variant could be prevented if the deleterious and 
+persistent unique immunosuppressive mutations can be targeted for vaccination or 
+small-molecule inhibitor designing. Thus, our findings will help researchers 
+monitor and track the continuously evolving nature of SARS-CoV-2 strains, the 
+associated genetic variants, and their implications for developing effective 
+control and prophylaxis strategies.
+
+Copyright © 2023 Islam, Shahi, Marzan, Amin, Hasan, Hoque, Ghosh, Barua, Khan, 
+Dhama, Chakraborty, Bhattacharya and Wei.
+
+DOI: 10.3389/fphar.2023.1090717
+PMCID: PMC9941545
+PMID: 36825152
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

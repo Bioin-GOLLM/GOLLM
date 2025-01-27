@@ -1,0 +1,44 @@
+1. PLoS Comput Biol. 2014 Jul 31;10(7):e1003763. doi:
+10.1371/journal.pcbi.1003763.  eCollection 2014 Jul.
+
+Robustness and evolvability of the human signaling network.
+
+Kim J(1), Vandamme D(2), Kim JR(3), Munoz AG(2), Kolch W(4), Cho KH(1).
+
+Author information:
+(1)Department of Bio and Brain Engineering, Korea Advanced Institute of Science 
+and Technology (KAIST), Yuseong-gu, Daejeon, Republic of Korea.
+(2)Systems Biology Ireland, University College Dublin, Dublin, Ireland.
+(3)Department of Bio and Brain Engineering, Korea Advanced Institute of Science 
+and Technology (KAIST), Yuseong-gu, Daejeon, Republic of Korea; Department of 
+Mathematics, University of Seoul, Seoul, Republic of Korea.
+(4)Systems Biology Ireland, University College Dublin, Dublin, Ireland; Conway 
+Institute of Biomolecular and Biomedical Research, University College Dublin, 
+Dublin, Ireland; School of Medicine and Medical Science, University College 
+Dublin, Dublin, Ireland.
+
+Biological systems are known to be both robust and evolvable to internal and 
+external perturbations, but what causes these apparently contradictory 
+properties? We used Boolean network modeling and attractor landscape analysis to 
+investigate the evolvability and robustness of the human signaling network. Our 
+results show that the human signaling network can be divided into an evolvable 
+core where perturbations change the attractor landscape in state space, and a 
+robust neighbor where perturbations have no effect on the attractor landscape. 
+Using chemical inhibition and overexpression of nodes, we validated that 
+perturbations affect the evolvable core more strongly than the robust neighbor. 
+We also found that the evolvable core has a distinct network structure, which is 
+enriched in feedback loops, and features a higher degree of scale-freeness and 
+longer path lengths connecting the nodes. In addition, the genes with high 
+evolvability scores are associated with evolvability-related properties such as 
+rapid evolvability, low species broadness, and immunity whereas the genes with 
+high robustness scores are associated with robustness-related properties such as 
+slow evolvability, high species broadness, and oncogenes. Intriguingly, US Food 
+and Drug Administration-approved drug targets have high evolvability scores 
+whereas experimental drug targets have high robustness scores.
+
+DOI: 10.1371/journal.pcbi.1003763
+PMCID: PMC4117429
+PMID: 25077791 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

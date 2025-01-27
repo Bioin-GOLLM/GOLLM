@@ -1,0 +1,59 @@
+1. J Pathol. 2021 Jun;254(2):147-158. doi: 10.1002/path.5662. Epub 2021 Apr 27.
+
+Independent real-world application of a clinical-grade automated prostate cancer 
+detection system.
+
+da Silva LM(1), Pereira EM(1), Salles PG(2), Godrich R(3), Ceballos R(3), Kunz 
+JD(3), Casson A(3), Viret J(3), Chandarlapaty S(4), Ferreira CG(1), Ferrari 
+B(1), Rothrock B(3), Raciti P(3), Reuter V(5), Dogdas B(3), DeMuth G(6), Sue 
+J(3), Kanan C(3), Grady L(3), Fuchs TJ(3), Reis-Filho JS(5).
+
+Author information:
+(1)Grupo Oncoclinicas, Sao Paulo, Brazil.
+(2)Instituto Mario Penna, Belo Horizonte, Brazil.
+(3)Paige, New York, NY, USA.
+(4)Department of Medicine and Human Oncology and Pathogenesis Program, Memorial 
+Sloan Kettering Cancer Center, New York, NY, USA.
+(5)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, 
+NY, USA.
+(6)Stat One, Wilmington, NC, USA.
+
+Artificial intelligence (AI)-based systems applied to histopathology whole-slide 
+images have the potential to improve patient care through mitigation of 
+challenges posed by diagnostic variability, histopathology caseload, and 
+shortage of pathologists. We sought to define the performance of an AI-based 
+automated prostate cancer detection system, Paige Prostate, when applied to 
+independent real-world data. The algorithm was employed to classify slides into 
+two categories: benign (no further review needed) or suspicious (additional 
+histologic and/or immunohistochemical analysis required). We assessed the 
+sensitivity, specificity, positive predictive values (PPVs), and negative 
+predictive values (NPVs) of a local pathologist, two central pathologists, and 
+Paige Prostate in the diagnosis of 600 transrectal ultrasound-guided prostate 
+needle core biopsy regions ('part-specimens') from 100 consecutive patients, and 
+to ascertain the impact of Paige Prostate on diagnostic accuracy and efficiency. 
+Paige Prostate displayed high sensitivity (0.99; CI 0.96-1.0), NPV (1.0; CI 
+0.98-1.0), and specificity (0.93; CI 0.90-0.96) at the part-specimen level. At 
+the patient level, Paige Prostate displayed optimal sensitivity (1.0; CI 
+0.93-1.0) and NPV (1.0; CI 0.91-1.0) at a specificity of 0.78 (CI 0.64-0.89). 
+The 27 part-specimens considered by Paige Prostate as suspicious, whose final 
+diagnosis was benign, were found to comprise atrophy (n = 14), atrophy and 
+apical prostate tissue (n = 1), apical/benign prostate tissue (n = 9), adenosis 
+(n = 2), and post-atrophic hyperplasia (n = 1). Paige Prostate resulted in the 
+identification of four additional patients whose diagnoses were upgraded from 
+benign/suspicious to malignant. Additionally, this AI-based test provided an 
+estimated 65.5% reduction of the diagnostic time for the material analyzed. 
+Given its optimal sensitivity and NPV, Paige Prostate has the potential to be 
+employed for the automated identification of patients whose histologic slides 
+could forgo full histopathologic review. In addition to providing incremental 
+improvements in diagnostic accuracy and efficiency, this AI-based system 
+identified patients whose prostate cancers were not initially diagnosed by three 
+experienced histopathologists. © 2021 The Authors. The Journal of Pathology 
+published by John Wiley & Sons, Ltd. on behalf of The Pathological Society of 
+Great Britain and Ireland.
+
+© 2021 The Authors. The Journal of Pathology published by John Wiley & Sons, 
+Ltd. on behalf of The Pathological Society of Great Britain and Ireland.
+
+DOI: 10.1002/path.5662
+PMCID: PMC8252036
+PMID: 33904171 [Indexed for MEDLINE]

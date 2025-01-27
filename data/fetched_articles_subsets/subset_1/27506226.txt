@@ -1,0 +1,44 @@
+1. Bioinformatics. 2016 Dec 1;32(23):3619-3626. doi:
+10.1093/bioinformatics/btw503.  Epub 2016 Aug 9.
+
+DTMiner: identification of potential disease targets through biomedical 
+literature mining.
+
+Xu D(1), Zhang M(2), Xie Y(1), Wang F(1), Chen M(2), Zhu KQ(1), Wei J(2).
+
+Author information:
+(1)Department of CSE, Shanghai Jiao Tong University, Shanghai 200240, China.
+(2)R&D Information, Innovation Center China, AstraZeneca, Pudong, Shanghai 
+201203, China.
+
+MOTIVATION: Biomedical researchers often search through massive catalogues of 
+literature to look for potential relationships between genes and diseases. Given 
+the rapid growth of biomedical literature, automatic relation extraction, a 
+crucial technology in biomedical literature mining, has shown great potential to 
+support research of gene-related diseases. Existing work in this field has 
+produced datasets that are limited both in scale and accuracy.
+RESULTS: In this study, we propose a reliable and efficient framework that takes 
+large biomedical literature repositories as inputs, identifies credible 
+relationships between diseases and genes, and presents possible genes related to 
+a given disease and possible diseases related to a given gene. The framework 
+incorporates name entity recognition (NER), which identifies occurrences of 
+genes and diseases in texts, association detection whereby we extract and 
+evaluate features from gene-disease pairs, and ranking algorithms that estimate 
+how closely the pairs are related. The F1-score of the NER phase is 0.87, which 
+is higher than existing studies. The association detection phase takes 
+drastically less time than previous work while maintaining a comparable F1-score 
+of 0.86. The end-to-end result achieves a 0.259 F1-score for the top 50 genes 
+associated with a disease, which performs better than previous work. In 
+addition, we released a web service for public use of the dataset.
+AVAILABILITY AND IMPLEMENTATION: The implementation of the proposed algorithms 
+is publicly available at 
+http://gdr-web.rwebox.com/public_html/index.php?page=download.php The web 
+service is available at http://gdr-web.rwebox.com/public_html/index.php CONTACT: 
+jenny.wei@astrazeneca.com or kzhu@cs.sjtu.edu.cn Supplementary information: 
+Supplementary data are available at Bioinformatics online.
+
+© The Author 2016. Published by Oxford University Press.
+
+DOI: 10.1093/bioinformatics/btw503
+PMCID: PMC5181534
+PMID: 27506226 [Indexed for MEDLINE]

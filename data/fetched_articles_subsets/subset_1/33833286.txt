@@ -1,0 +1,46 @@
+1. Sci Rep. 2021 Apr 8;11(1):7810. doi: 10.1038/s41598-021-86770-6.
+
+Single molecule network analysis identifies structural changes to caveolae and 
+scaffolds due to mutation of the caveolin-1 scaffolding domain.
+
+Wong TH(#)(1), Khater IM(#)(2), Joshi B(1), Shahsavari M(2), Hamarneh G(#)(3), 
+Nabi IR(#)(4)(5).
+
+Author information:
+(1)Life Sciences Institute, Department of Cellular and Physiological Sciences, 
+University of British Columbia, Vancouver, BC, V6T 1Z3, Canada.
+(2)School of Computing Science, Simon Fraser University, Burnaby, BC, V5A 1S6, 
+Canada.
+(3)School of Computing Science, Simon Fraser University, Burnaby, BC, V5A 1S6, 
+Canada. hamarneh@sfu.ca.
+(4)Life Sciences Institute, Department of Cellular and Physiological Sciences, 
+University of British Columbia, Vancouver, BC, V6T 1Z3, Canada. 
+irnabi@mail.ubc.ca.
+(5)School of Biomedical Engineering, University of British Columbia, Vancouver, 
+BC, V6T 1Z3, Canada. irnabi@mail.ubc.ca.
+(#)Contributed equally
+
+Caveolin-1 (CAV1), the caveolae coat protein, also associates with non-caveolar 
+scaffold domains. Single molecule localization microscopy (SMLM) network 
+analysis distinguishes caveolae and three scaffold domains, hemispherical S2 
+scaffolds and smaller S1B and S1A scaffolds. The caveolin scaffolding domain 
+(CSD) is a highly conserved hydrophobic region that mediates interaction of CAV1 
+with multiple effector molecules. F92A/V94A mutation disrupts CSD function, 
+however the structural impact of CSD mutation on caveolae or scaffolds remains 
+unknown. Here, SMLM network analysis quantitatively shows that expression of the 
+CAV1 CSD F92A/V94A mutant in CRISPR/Cas CAV1 knockout MDA-MB-231 breast cancer 
+cells reduces the size and volume and enhances the elongation of caveolae and 
+scaffold domains, with more pronounced effects on S2 and S1B scaffolds. Convex 
+hull analysis of the outer surface of the CAV1 point clouds confirms the size 
+reduction of CSD mutant CAV1 blobs and shows that CSD mutation reduces volume 
+variation amongst S2 and S1B CAV1 blobs at increasing shrink values, that may 
+reflect retraction of the CAV1 N-terminus towards the membrane, potentially 
+preventing accessibility of the CSD. Detection of point mutation-induced changes 
+to CAV1 domains highlights the utility of SMLM network analysis for mesoscale 
+structural analysis of oligomers in their native environment.
+
+DOI: 10.1038/s41598-021-86770-6
+PMCID: PMC8032680
+PMID: 33833286 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

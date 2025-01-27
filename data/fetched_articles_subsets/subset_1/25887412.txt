@@ -1,0 +1,40 @@
+1. BMC Genomics. 2015 Apr 1;16(1):256. doi: 10.1186/s12864-015-1461-0.
+
+GRACOMICS: software for graphical comparison of multiple results with omics 
+data.
+
+Seo M(1), Yoon J(2), Park T(3)(4).
+
+Author information:
+(1)Interdiciplinary of Bioinformatics Program, Seoul National University, 1 
+Gwanak-ro, Gwanak-gu, Seoul, Korea. nijorral@gmail.com.
+(2)Interdiciplinary of Bioinformatics Program, Seoul National University, 1 
+Gwanak-ro, Gwanak-gu, Seoul, Korea. joonyoon.jay@gmail.com.
+(3)Interdiciplinary of Bioinformatics Program, Seoul National University, 1 
+Gwanak-ro, Gwanak-gu, Seoul, Korea. tspark@stats.snu.ac.kr.
+(4)Department of Statistics, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 
+Seoul, Korea. tspark@stats.snu.ac.kr.
+
+BACKGROUND: Analysis of large-scale omics data has become more and more 
+challenging due to high dimensionality. More complex analysis methods and tools 
+are required to handle such data. While many methods already exist, those 
+methods often produce different results. To help users obtain more appropriate 
+results (i.e. candidate genes), we propose a tool, GRACOMICS that compares 
+numerous analysis results visually in a more systematic way; this enables the 
+users to easily interpret the results more comfortably.
+RESULTS: GRACOMICS has the ability to visualize multiple analysis results 
+interactively. We developed GRACOMICS to provide instantaneous results (plots 
+and tables), corresponding to user-defined threshold values, since there are yet 
+no other up-to-date omics data visualization tools that provide such features. 
+In our analysis, we successfully employed two types of omics data: 
+transcriptomic data (microarray and RNA-seq data) and genomic data (SNP chip and 
+NGS data).
+CONCLUSIONS: GRACOMICS is a graphical user interface (GUI)-based program written 
+in Java for cross-platform computing environments, and can be applied to compare 
+analysis results for any type of large-scale omics data. This tool can be useful 
+for biologists to identify genes commonly found by intersected statistical 
+methods, for further experimental validation.
+
+DOI: 10.1186/s12864-015-1461-0
+PMCID: PMC4387734
+PMID: 25887412 [Indexed for MEDLINE]

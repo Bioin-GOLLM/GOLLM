@@ -1,0 +1,59 @@
+1. PLoS One. 2017 Sep 21;12(9):e0184584. doi: 10.1371/journal.pone.0184584. 
+eCollection 2017.
+
+Transcriptome analysis of sex-related genes in the blood clam Tegillarca 
+granosa.
+
+Chen H(1)(2)(3), Xiao G(1)(2)(3), Chai X(1)(2)(3), Lin X(1)(2)(3), Fang 
+J(1)(2)(3), Teng S(1)(2)(3).
+
+Author information:
+(1)Zhejiang Mariculture Research Institute, Wenzhou, Zhejiang, China.
+(2)Zhejiang Key Laboratory of Exploitation and Preservation of Coastal 
+Bio-resource, Wenzhou, Zhejiang, China.
+(3)Engineering Research Center for Marine Bivalves, Chinese Academy of Fishery 
+Sciences, Wenzhou, Zhejiang, China.
+
+BACKGROUND: Blood clams (Tegillarca granosa) are one of the most commercial 
+shellfish in China and South Asia with wide distribution in Indo-Pacific 
+tropical to temperate estuaries. However, recent data indicate a decline in the 
+germplasm of this species. Furthermore, the molecular mechanisms underpinning 
+reproductive regulation remain unclear and information regarding genetic 
+diversity is limited. Understanding the reproductive biology of shellfish is 
+important in interpreting their embryology development, reproduction and 
+population structure. Transcriptome sequencing (RNA-seq) rapidly obtains genetic 
+sequence information from almost all transcripts of a particular tissue and 
+currently represents the most prevalent and effective method for constructing 
+genetic expression profiles.
+RESULTS: Non-reference RNA-seq, an Illumina HiSeq2500 Solexa system, and de novo 
+assembly were used to construct a gonadal expression profile of the blood clam. 
+A total of 63.75 Gb of clean data, with at least 89.46% of Quality30 (Q30), were 
+generated which was then combined into 214,440 transcripts and 125,673 unigenes 
+with a mean length of 1,122.63 and 781.30 base pairs (bp). In total, 27,325 
+genes were annotated by comparison with public databases. Of these, 2,140 and 
+2,070 differentially expressed genes (DEGs) were obtained (T05 T08 vs T01 T02 
+T04, T06 T07 vs T01 T02 T04; in which T01-T04 and T05-T08 represent biological 
+replicates of individual female and male clams, respectively) and classified 
+into two groups according to the evaluation of biological replicates. Then 35 
+DEGs and 5 sex-related unigenes, in other similar species, were investigated 
+using qRT-PCR, the results of which were confirmed to data arising from RNA-seq. 
+Among the DEGs, sex-related genes were identified, including forkhead box L2 
+(Foxl2), sex determining region Y-box (Sox), beta-catenin (β-catenin), chromobox 
+homolog (CBX) and Sex-lethal (Sxl). In addition, 6,283 simple sequence repeats 
+(SSRs) and 614,710 single nucleotide polymorphisms (SNPs) were identified from 
+the RNA-seq results.
+CONCLUSIONS: This study provided the first complete gonadal transcriptome data 
+for the blood clam and allowed us to search many aspects of gene sequence 
+information, not limited to gender. This data will improve our understanding of 
+the transcriptomics and reproductive biology of the blood clam. Furthermore, 
+molecular markers such as SSRs and SNPs will be useful in the analysis of 
+genetic evolution, bulked segregant analysis (BSA) and genome-wide association 
+studies (GWAS). Our transcriptome data will therefore provide important genetic 
+information for the breeding and conservation of germplasm.
+
+DOI: 10.1371/journal.pone.0184584
+PMCID: PMC5608214
+PMID: 28934256 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

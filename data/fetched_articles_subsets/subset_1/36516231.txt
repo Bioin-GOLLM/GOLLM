@@ -1,0 +1,51 @@
+1. PLoS Comput Biol. 2022 Dec 14;18(12):e1010346. doi: 
+10.1371/journal.pcbi.1010346. eCollection 2022 Dec.
+
+Dissecting peripheral protein-membrane interfaces.
+
+Tubiana T(1)(2), Sillitoe I(3), Orengo C(3), Reuter N(1)(2).
+
+Author information:
+(1)Department of Chemistry, University of Bergen, Bergen, Norway.
+(2)Computational Biology Unit, University of Bergen, Bergen, Norway.
+(3)Department of Structural and Molecular Biology, University College London, 
+London, United Kingdom.
+
+Peripheral membrane proteins (PMPs) include a wide variety of proteins that have 
+in common to bind transiently to the chemically complex interfacial region of 
+membranes through their interfacial binding site (IBS). In contrast to 
+protein-protein or protein-DNA/RNA interfaces, peripheral protein-membrane 
+interfaces are poorly characterized. We collected a dataset of PMP domains 
+representative of the variety of PMP functions: membrane-targeting domains 
+(Annexin, C1, C2, discoidin C2, PH, PX), enzymes (PLA, PLC/D) and lipid-transfer 
+proteins (START). The dataset contains 1328 experimental structures and 1194 
+AphaFold models. We mapped the amino acid composition and structural patterns of 
+the IBS of each protein in this dataset, and evaluated which were more likely to 
+be found at the IBS compared to the rest of the domains' accessible surface. In 
+agreement with earlier work we find that about two thirds of the PMPs in the 
+dataset have protruding hydrophobes (Leu, Ile, Phe, Tyr, Trp and Met) at their 
+IBS. The three aromatic amino acids Trp, Tyr and Phe are a hallmark of PMPs IBS 
+regardless of whether they protrude on loops or not. This is also the case for 
+lysines but not arginines suggesting that, unlike for Arg-rich membrane-active 
+peptides, the less membrane-disruptive lysine is preferred in PMPs. Another 
+striking observation was the over-representation of glycines at the IBS of PMPs 
+compared to the rest of their surface, possibly procuring IBS loops a 
+much-needed flexibility to insert in-between membrane lipids. The analysis of 
+the 9 superfamilies revealed amino acid distribution patterns in agreement with 
+their known functions and membrane-binding mechanisms. Besides revealing novel 
+amino acids patterns at protein-membrane interfaces, our work contributes a new 
+PMP dataset and an analysis pipeline that can be further built upon for future 
+studies of PMPs properties, or for developing PMPs prediction tools using for 
+example, machine learning approaches.
+
+Copyright: © 2022 Tubiana et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pcbi.1010346
+PMCID: PMC9797079
+PMID: 36516231 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

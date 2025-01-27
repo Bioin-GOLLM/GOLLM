@@ -1,0 +1,55 @@
+1. BMC Med Genomics. 2023 Mar 27;16(1):60. doi: 10.1186/s12920-023-01485-z.
+
+Golgi-apparatus genes related signature for predicting the progression-free 
+interval of patients with papillary thyroid carcinoma.
+
+Liu R(#)(1)(2), Cao Z(#)(2), Wu M(2), Li X(2), Fan P(3), Liu Z(4).
+
+Author information:
+(1)Department of Breast and Thyroid Surgery, Hunan Provincial People's 
+Hospital/The First Affiliated Hospital of Hunan Normal University, Changsha, 
+410005, China.
+(2)Department of General Surgery, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences and Peking Union Medical College, Beijing, 100730, 
+China.
+(3)Department of Breast and Thyroid Surgery, Hunan Provincial People's 
+Hospital/The First Affiliated Hospital of Hunan Normal University, Changsha, 
+410005, China. Fanpzh64@163.com.
+(4)Department of General Surgery, Peking Union Medical College Hospital, Chinese 
+Academy of Medical Sciences and Peking Union Medical College, Beijing, 100730, 
+China. Liuziwen@pumch.cn.
+(#)Contributed equally
+
+BACKGROUND: We aimed to build a novel model with golgi apparatus related genes 
+(GaGs) signature and relevant clinical parameters for predicting 
+progression-free interval (PFI) after surgery for papillary thyroid carcinoma 
+(PTC).
+METHODS: We performed a bioinformatic analysis of integrated PTC datasets with 
+the GaGs to identify differentially expressed GaGs (DE-GaGs). Then we generated 
+PFI-related DE-GaGs and established a novel GaGs based signature. After that, we 
+validated the signature on multiple external datasets and PTC cell lines. 
+Further, we conducted uni- and multivariate analyses to identify independent 
+prognostic characters. Finally, we established a signature and clinical 
+parameters-based nomogram for predicting the PFI of PTC.
+RESULTS: We identified 260 DE-GaGs related to PFI in PTC. The functional 
+enrichment analysis showed that the DE-MTGs were associated with an essential 
+oncogenic glycoprotein biosynthetic process. Consequently, we established and 
+optimized a novel 11 gene signature that could distinguish patients with poorer 
+prognoses and predicted PFI accurately. The novel signature had a C-index of 
+0.78, and the relevant nomogram had a C-index of 0.79. Also, it was closely 
+related to the pivotal clinical characters of and anaplastic potential in 
+datasets and PTC cell lines. And the signature was confirmed a significant 
+independent prognostic factor in PTC. Finally, we built a nomogram by including 
+the signature and relevant clinical factors. Validation analysis showed that the 
+nomogram's efficacy was satisfying in predicting PTC's PFI.
+CONCLUSION: The GaGs signature and nomogram were closely associated with PTC 
+prognosis and may help clinicians improve the individualized prediction of PFI, 
+especially for high-risk patients after surgery.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12920-023-01485-z
+PMCID: PMC10041766
+PMID: 36973751 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.

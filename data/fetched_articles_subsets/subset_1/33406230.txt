@@ -1,0 +1,33 @@
+1. Nucleic Acids Res. 2021 Apr 6;49(6):e32. doi: 10.1093/nar/gkaa1231.
+
+Gene-specific mutagenesis enables rapid continuous evolution of enzymes in vivo.
+
+Park H(1), Kim S(1).
+
+Author information:
+(1)Department of Chemistry, Seoul National University, 1 Gwanak-ro, Gwanak-gu, 
+Seoul 08826, South Korea.
+
+Erratum in
+    Nucleic Acids Res. 2022 Nov 11;50(20):11996. doi: 10.1093/nar/gkac1117.
+
+Various in vivo mutagenesis methods have been developed to facilitate fast and 
+efficient continuous evolution of proteins in cells. However, they either modify 
+the DNA region that does not match the target gene, or suffer from low mutation 
+rates. Here, we report a mutator, eMutaT7 (enhanced MutaT7), with very fast in 
+vivo mutation rate and high gene-specificity in Escherichia coli. eMutaT7, a 
+cytidine deaminase fused to an orthogonal RNA polymerase, can introduce up to ∼4 
+mutations per 1 kb per day, rivalling the rate in typical in vitro mutagenesis 
+for directed evolution of proteins, and promotes rapid continuous evolution of 
+model proteins for antibiotic resistance and allosteric activation. eMutaT7 
+provides a very simple and tunable method for continuous directed evolution of 
+proteins, and suggests that the fusion of new DNA-modifying enzymes to the 
+orthogonal RNA polymerase is a promising strategy to explore the expanded 
+sequence space without compromising gene specificity.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkaa1231
+PMCID: PMC8034631
+PMID: 33406230 [Indexed for MEDLINE]

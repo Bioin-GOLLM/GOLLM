@@ -1,0 +1,45 @@
+1. J Phys Chem B. 2017 May 4;121(17):4341-4354. doi: 10.1021/acs.jpcb.6b12888.
+Epub  2017 Apr 26.
+
+Impact of Mutations at C-Terminus on Structures and Dynamics of Aβ40 and Aβ42: A 
+Molecular Simulation Study.
+
+Linh NH(1)(2), Minh Thu TT(1)(2), Tu L(1)(2), Hu CK(3)(4)(5), Li MS(1)(6).
+
+Author information:
+(1)Institute for Computational Science and Technology , SBI Building, Quang 
+Trung Software City, Tan Chanh Hiep Ward, District 12, Ho Chi Minh City, 
+Vietnam.
+(2)Biomedical Engineering Department, University of Technology - VNU HCM , 268 
+Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Vietnam.
+(3)Institute of Physics, Academia Sinica , 128 Academia Road Section 2, Taipei 
+11529, Taiwan.
+(4)National Center for Theoretical Sciences, National Tsing Hua University , 101 
+Kuang-Fu Road Section 2, Hsinch 30013, Taiwan.
+(5)Business School, University of Shanghai for Science and Technology , 334 Jun 
+Gong Road, Shanghai 200093, China.
+(6)Institute of Physics Polish Academy of Sciences , Al. Lotnikow 32/46, 02-668 
+Warsaw, Poland.
+
+Alzheimer's disease is presumed to be caused by the formation of intracellular 
+plaques of amyloid β (Aβ) peptides inside neurons. The most abundant Aβ forms 
+are Aβ40 and Aβ42 comprising, respectively, 40 and 42 residues. Recent 
+experiments showed that the triple Gly33Val-Val36Pro-Gly38Val (VPV) mutation 
+causes Aβ42 to become "super-Aβ42" with elevated aggregation rates and toxicity. 
+Upon VPV mutation, oligomerization pathways of Aβ40 become similar to those of 
+the Aβ42 wild type. It was hypothesized that the super behavior of Aβ42 occurs 
+due to an enhanced content of the β-turn and β-hairpin, centered at residues 
+36-37, and the similarity in oligomerization pathways of Aβ40-VPV and Aβ42-WT 
+comes from the increased β-turn population. As this is based on simulation of 
+the truncated fragments, this hypothesis may not be valid for the full-length 
+case, motivating us to perform all-atom molecular dynamics simulations for 
+full-length Aβ sequences. We showed that the results obtained for truncated 
+peptides fall short in explaining the similarity of self-assembly pathways of 
+Aβ40-VPV and Aβ42-WT. Instead, we propose that the similarity is due to not only 
+increased β-turn population but also due to the elevated β-structure of the 
+entire sequence. Similar to VPV, the Gly33Val-Val36Asn-Gly38Leu mutation 
+enhances the β-structure and the C-terminal β-turn making the behavior of Aβ40 
+similar to that of Aβ42-WT.
+
+DOI: 10.1021/acs.jpcb.6b12888
+PMID: 28414234 [Indexed for MEDLINE]

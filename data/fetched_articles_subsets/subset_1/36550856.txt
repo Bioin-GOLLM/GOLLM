@@ -1,0 +1,54 @@
+1. Medicine (Baltimore). 2022 Dec 16;101(50):e32132. doi: 
+10.1097/MD.0000000000032132.
+
+Analyzing network pharmacology and molecular docking to clarify Duhuo Jisheng 
+decoction potential mechanism of osteoarthritis mitigation.
+
+Cui Z(1), Zhang W(1), Le X(2), Song K(1), Zhang C(1), Zhao W(3), Sha L(2).
+
+Author information:
+(1)Changchun University of Chinese Medicine, Changchun, Jilin, China.
+(2)The Third Affiliated Hospital of the Changchun University of Chinese 
+Medicine, Changchun, Jilin, China.
+(3)Affiliated Hospital of the Changchun University of Chinese Medicine, 
+Changchun, Jilin, China.
+
+As a classic remedy for treating Osteoarthritis (OA), Duhuo Jisheng decoction 
+has successfully treated countless patients. Nevertheless, its specific 
+mechanism is unknown. This study explored the active constituents of Duhuo 
+Jisheng decoction and the potential molecular mechanisms for treating OA using a 
+Network Pharmacology approaches. Screening active components and corresponding 
+targets of Duhuo parasite decoction by traditional Chinese medicine systems 
+pharmacology database and analysis platform database. Combining the following 
+databases yielded OA disease targets: GeneCards, DrugBank, PharmGkb, Online 
+Mendelian Inheritance in Man, and therapeutic target database. The interaction 
+analysis of the herb-active ingredient-core target network and protein-protein 
+interaction protein network was constructed by STRING platform and Cytoscape 
+software. Gene ontology functional enrichment analysis and Kyoto Encyclopedia of 
+Genes and Genomes pathway enrichment analysis were carried out. PyMOL and other 
+software were used to verify the molecular docking between the essential active 
+components and the core target. 262 active ingredients were screened, and their 
+main components were quercetin, kaempferol, wogonin, baicalein, and 
+beta-carotene. 108 intersection targets of disease and drug were identified, and 
+their main components were RELA, FOS, STAT3, MAPK14, MAPK1, JUN, and ESR1. Gene 
+ontology analysis showed that the key targets were mainly involved in biological 
+processes such as response to lipopolysaccharide, response to xenobiotic 
+stimulus, and response to nutrient levels. The results of Kyoto Encyclopedia of 
+Genes and Genomes analysis show that the signal pathways include the AGE - RAGE 
+signaling pathway, IL - 17 signaling pathway, TNF signaling pathway, and 
+Toll - like receptor signaling pathway. Molecular docking showed that the main 
+active components of Duhuo parasitic decoction had a good bonding activity with 
+the key targets in treating OA. Duhuo Jisheng decoction can reduce the 
+immune-inflammatory reaction, inhibit apoptosis of chondrocytes, strengthen 
+proliferation and repair of chondrocytes and reduce the inflammatory response in 
+a multi-component-multi-target-multi-pathway way to play a role in the treatment 
+of OA.
+
+Copyright © 2022 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000032132
+PMCID: PMC9771196
+PMID: 36550856 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.

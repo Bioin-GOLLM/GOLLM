@@ -1,0 +1,65 @@
+1. Mol Metab. 2024 Jan;79:101845. doi: 10.1016/j.molmet.2023.101845. Epub 2023
+Nov  25.
+
+Independent activation of CREB3L2 by glucose fills a regulatory gap in mouse 
+β-cells by co-ordinating insulin biosynthesis with secretory granule formation.
+
+Sue N(1), Thai LM(1), Saito A(2), Boyer CK(3), Fordham AM(1), Yan C(1), 
+Davenport A(1), Tao J(1), Bensellam M(1), Cantley J(1), Shi YC(4), Stephens 
+SB(3), Imaizumi K(2), Biden TJ(5).
+
+Author information:
+(1)Garvan Institute of Medical Research, 384 Victoria St, Darlinghurst, NSW 
+2010, Australia.
+(2)Department of Biochemistry, Institute of Biomedical and Health Sciences, 
+Hiroshima University, Hiroshima, Japan.
+(3)Fraternal Order of Eagles Diabetes Research Center, Department of Internal 
+Medicine, University of Iowa, Iowa City, IA 52246, USA.
+(4)Garvan Institute of Medical Research, 384 Victoria St, Darlinghurst, NSW 
+2010, Australia; St Vincent's Clinical School, Faculty of Medicine, The 
+University of New South Wales, Sydney, Australia.
+(5)Garvan Institute of Medical Research, 384 Victoria St, Darlinghurst, NSW 
+2010, Australia; St Vincent's Clinical School, Faculty of Medicine, The 
+University of New South Wales, Sydney, Australia. Electronic address: 
+t.biden@garvan.org.au.
+
+OBJECTIVE: Although individual steps have been characterized, there is little 
+understanding of the overall process whereby glucose co-ordinates the 
+biosynthesis of insulin with its export out of the endoplasmic reticulum (ER) 
+and incorporation into insulin secretory granules (ISGs). Here we investigate a 
+role for the transcription factor CREB3L2 in this context.
+METHODS: MIN6 cells and mouse islets were analysed by immunoblotting after 
+treatment with glucose, fatty acids, thapsigargin and various inhibitors. 
+Knockdown of CREB3L2 was achieved using si or sh constructs by transfection, or 
+viral delivery. In vivo metabolic phenotyping was conducted after deletion of 
+CREB3L2 in β-cells of adult mice using Ins1-CreER+. Islets were isolated for 
+RNAseq and assays of glucose-stimulated insulin secretion (GSIS). Trafficking 
+was monitored in islet monolayers using a GFP-tagged proinsulin construct that 
+allows for synchronised release from the ER.
+RESULTS: With a Km ≈3.5 mM, glucose rapidly (T1/2 0.9 h) increased full length 
+(FL) CREB3L2 followed by a slower rise (T1/2 2.5 h) in its 
+transcriptionally-active cleavage product, P60 CREB3L2. Glucose stimulation 
+repressed the ER stress marker, CHOP, and this was partially reverted by 
+knockdown of CREB3L2. Activation of CREB3L2 by glucose was not due to ER stress, 
+however, but a combination of O-GlcNAcylation, which impaired proteasomal 
+degradation of FL-CREB3L2, and mTORC1 stimulation, which enhanced its conversion 
+to P60. cAMP generation also activated CREB3L2, but independently of glucose. 
+Deletion of CREB3L2 inhibited GSIS ex vivo and, following a high-fat diet (HFD), 
+impaired glucose tolerance and insulin secretion in vivo. RNAseq revealed that 
+CREB3L2 regulated genes controlling trafficking to-and-from the Golgi, as well 
+as a broader cohort associated with β-cell compensation during a HFD. Although 
+post-Golgi trafficking appeared intact, knockdown of CREB3L2 impaired the 
+generation of both nascent ISGs and proinsulin condensates in the Golgi, 
+implying a defect in ER export of proinsulin and/or its processing in the Golgi.
+CONCLUSION: The stimulation of CREB3L2 by glucose defines a novel, rapid and 
+direct mechanism for co-ordinating the synthesis, packaging and storage of 
+insulin, thereby minimizing ER overload and optimizing β-cell function under 
+conditions of high secretory demand. Upregulation of CREB3L2 also potentially 
+contributes to the benefits of GLP1 agonism and might in itself constitute a 
+novel means of treating β-cell failure.
+
+Crown Copyright © 2023. Published by Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.molmet.2023.101845
+PMCID: PMC10755490
+PMID: 38013154 [Indexed for MEDLINE]

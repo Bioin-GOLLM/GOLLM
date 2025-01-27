@@ -1,0 +1,65 @@
+1. NPJ Breast Cancer. 2023 Sep 27;9(1):72. doi: 10.1038/s41523-023-00572-9.
+
+Predictive modelling of response to neoadjuvant therapy in HER2+ breast cancer.
+
+Cosgrove N(#)(1), Eustace AJ(#)(2), O'Donovan P(1), Madden SF(3), Moran B(4), 
+Crown J(5), Moulton B(6), Morris PG(7), Grogan L(7), Breathnach O(7), Power 
+C(8), Allen M(8), Walshe JM(5), Hill AD(8), Blümel A(9), O'Connor D(9), Das 
+S(9), Milewska M(10), Fay J(11), Kay E(12), Toomey S(10), Hennessy BT(13)(14), 
+Furney SJ(15).
+
+Author information:
+(1)Genomic Oncology Research Group, Department of Physiology and Medical 
+Physics, RCSI University of Medicine and Health Sciences, Dublin, Ireland.
+(2)School of Biotechnology, National Institute for Cellular Biotechnology, 
+Dublin City University, Dublin, Ireland.
+(3)Data Science Centre, RCSI University of Medicine and Health Sciences, Dublin, 
+Ireland.
+(4)Conway Institute, University College Dublin, Dublin, Ireland.
+(5)Department of Medical Oncology, St Vincent's University Hospital, Dublin, 
+Ireland.
+(6)Clinical Oncology Development Europe, Dublin, Ireland.
+(7)Department of Medical Oncology, Beaumont Hospital, Dublin, Ireland.
+(8)Department of Surgery, RCSI University of Medicine and Health Sciences, 
+Dublin, Ireland.
+(9)School of Pharmacy and Biomolecular Sciences, RCSI University of Medicine and 
+Health Sciences, Dublin, Ireland.
+(10)Medical Oncology Group, Department of Molecular Medicine, Royal College of 
+Surgeons in Ireland, Dublin, 9, Ireland.
+(11)RCSI Biobank Service, RCSI University of Medicine and Health Sciences, 
+Beaumont Hospital, Dublin, 9, Ireland.
+(12)Department of Pathology, RCSI University of Medicine and Health Sciences, 
+Beaumont Hospital, Dublin, 9, Ireland.
+(13)Department of Medical Oncology, Beaumont Hospital, Dublin, Ireland. 
+bryanhennessy@rcsi.ie.
+(14)Medical Oncology Group, Department of Molecular Medicine, Royal College of 
+Surgeons in Ireland, Dublin, 9, Ireland. bryanhennessy@rcsi.ie.
+(15)Genomic Oncology Research Group, Department of Physiology and Medical 
+Physics, RCSI University of Medicine and Health Sciences, Dublin, Ireland. 
+simonfurney@rcsi.ie.
+(#)Contributed equally
+
+HER2-positive (HER2+) breast cancer accounts for 20-25% of all breast cancers. 
+Predictive biomarkers of neoadjuvant therapy response are needed to better 
+identify patients with early stage disease who may benefit from tailored 
+treatments in the adjuvant setting. As part of the TCHL phase-II clinical trial 
+(ICORG10-05/NCT01485926) whole exome DNA sequencing was carried out on 
+normal-tumour pairs collected from 22 patients. Here we report predictive 
+modelling of neoadjuvant therapy response using clinicopathological and genomic 
+features of pre-treatment tumour biopsies identified age, estrogen receptor (ER) 
+status and level of immune cell infiltration may together be important for 
+predicting response. Clonal evolution analysis of longitudinally collected 
+tumour samples show subclonal diversity and dynamics are evident with potential 
+therapy resistant subclones detected. The sources of greater pre-treatment 
+immunogenicity associated with a pathological complete response is largely 
+unexplored in HER2+ tumours. However, here we point to the possibility of APOBEC 
+associated mutagenesis, specifically in the ER-neg/HER2+ subtype as a potential 
+mediator of this immunogenic phenotype.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41523-023-00572-9
+PMCID: PMC10533568
+PMID: 37758711
+
+Conflict of interest statement: The authors declare no competing interests.

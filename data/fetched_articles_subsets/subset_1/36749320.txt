@@ -1,0 +1,47 @@
+1. Elife. 2023 Feb 7;12:e83062. doi: 10.7554/eLife.83062.
+
+Multiple polarity kinases inhibit phase separation of F-BAR protein Cdc15 and 
+antagonize cytokinetic ring assembly in fission yeast.
+
+Bhattacharjee R(1), Hall AR(2), Mangione MC(1), Igarashi MG(1), 
+Roberts-Galbraith RH(1), Chen JS(1), Vavylonis D(2)(3), Gould KL(1).
+
+Author information:
+(1)Department of Cell and Developmental Biology, Vanderbilt University School of 
+Medicine, Nashville, United States.
+(2)Department of Physics, Lehigh University, Bethlehem, United States.
+(3)Center for Computational Biology, Flatiron Institute, New York, United 
+States.
+
+The F-BAR protein Cdc15 is essential for cytokinesis in Schizosaccharomyces 
+pombe and plays a key role in attaching the cytokinetic ring (CR) to the plasma 
+membrane (PM). Cdc15's abilities to bind to the membrane and oligomerize via its 
+F-BAR domain are inhibited by phosphorylation of its intrinsically disordered 
+region (IDR). Multiple cell polarity kinases regulate Cdc15 IDR phosphostate, 
+and of these the DYRK kinase Pom1 phosphorylation sites on Cdc15 have been shown 
+in vivo to prevent CR formation at cell tips. Here, we compared the ability of 
+Pom1 to control Cdc15 phosphostate and cortical localization to that of other 
+Cdc15 kinases: Kin1, Pck1, and Shk1. We identified distinct but overlapping 
+cohorts of Cdc15 phosphorylation sites targeted by each kinase, and the number 
+of sites correlated with each kinases' abilities to influence Cdc15 PM 
+localization. Coarse-grained simulations predicted that cumulative IDR 
+phosphorylation moves the IDRs of a dimer apart and toward the F-BAR tips. 
+Further, simulations indicated that the overall negative charge of 
+phosphorylation masks positively charged amino acids necessary for F-BAR 
+oligomerization and membrane interaction. Finally, simulations suggested that 
+dephosphorylated Cdc15 undergoes phase separation driven by IDR interactions. 
+Indeed, dephosphorylated but not phosphorylated Cdc15 undergoes liquid-liquid 
+phase separation to form droplets in vitro that recruit Cdc15 binding partners. 
+In cells, Cdc15 phosphomutants also formed PM-bound condensates that recruit 
+other CR components. Together, we propose that a threshold of Cdc15 
+phosphorylation by assorted kinases prevents Cdc15 condensation on the PM and 
+antagonizes CR assembly.
+
+© 2023, Bhattacharjee et al.
+
+DOI: 10.7554/eLife.83062
+PMCID: PMC9904764
+PMID: 36749320 [Indexed for MEDLINE]
+
+Conflict of interest statement: RB, AH, MM, MI, RR, JC, DV, KG No competing 
+interests declared

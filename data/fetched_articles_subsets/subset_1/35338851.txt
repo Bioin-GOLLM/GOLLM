@@ -1,0 +1,53 @@
+1. Curr Biol. 2022 May 9;32(9):2076-2083.e2. doi: 10.1016/j.cub.2022.03.004. Epub
+ 2022 Mar 25.
+
+Mechanical constraints to cell-cycle progression in a pseudostratified 
+epithelium.
+
+Hecht S(1), Perez-Mockus G(2), Schienstock D(2), Recasens-Alvarez C(2), 
+Merino-Aceituno S(3), Smith M(2), Salbreux G(2), Degond P(4), Vincent JP(5).
+
+Author information:
+(1)The Francis Crick Institute, London NW1 1AT, UK; Imperial College London, 
+Department of Mathematics, London SW7 2AZ, UK.
+(2)The Francis Crick Institute, London NW1 1AT, UK.
+(3)University of Vienna, Faculty of Mathematics, Oskar-Morgenstern-Platz 1, Wien 
+1090, Austria; University of Sussex, Department of Mathematics, Falmer BN1 9RH, 
+UK.
+(4)Imperial College London, Department of Mathematics, London SW7 2AZ, UK. 
+Electronic address: p.degond@imperial.ac.uk.
+(5)The Francis Crick Institute, London NW1 1AT, UK. Electronic address: 
+jp.vincent@crick.ac.uk.
+
+As organs and tissues approach their normal size during development or 
+regeneration, growth slows down, and cell proliferation progressively comes to a 
+halt. Among the various processes suggested to contribute to growth 
+termination,1-10 mechanical feedback, perhaps via adherens junctions, has been 
+suggested to play a role.11-14 However, since adherens junctions are only 
+present in a narrow plane of the subapical region, other structures are likely 
+needed to sense mechanical stresses along the apical-basal (A-B) axis, 
+especially in a thick pseudostratified epithelium. This could be achieved by 
+nuclei, which have been implicated in mechanotransduction in tissue culture.15 
+In addition, mechanical constraints imposed by nuclear crowding and spatial 
+confinement could affect interkinetic nuclear migration (IKNM),16 which allows 
+G2 nuclei to reach the apical surface, where they normally undergo mitosis.17-25 
+To explore how mechanical constraints affect IKNM, we devised an 
+individual-based model that treats nuclei as deformable objects constrained by 
+the cell cortex and the presence of other nuclei. The model predicts changes in 
+the proportion of cell-cycle phases during growth, which we validate with the 
+cell-cycle phase reporter FUCCI (Fluorescent Ubiquitination-based Cell Cycle 
+Indicator).26 However, this model does not preclude indefinite growth, leading 
+us to postulate that nuclei must migrate basally to access a putative basal 
+signal required for S phase entry. With this refinement, our updated model 
+accounts for the observed progressive slowing down of growth and explains how 
+pseudostratified epithelia reach a stereotypical thickness upon completion of 
+growth.
+
+Crown Copyright © 2022. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cub.2022.03.004
+PMCID: PMC7615048
+PMID: 35338851 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

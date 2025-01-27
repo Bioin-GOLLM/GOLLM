@@ -1,0 +1,213 @@
+1. Cell. 2018 Apr 5;173(2):321-337.e10. doi: 10.1016/j.cell.2018.03.035.
+
+Oncogenic Signaling Pathways in The Cancer Genome Atlas.
+
+Sanchez-Vega F(1), Mina M(2), Armenia J(1), Chatila WK(3), Luna A(4), La KC(3), 
+Dimitriadoy S(5), Liu DL(6), Kantheti HS(7), Saghafinia S(2), Chakravarty D(3), 
+Daian F(3), Gao Q(8), Bailey MH(8), Liang WW(8), Foltz SM(8), Shmulevich I(9), 
+Ding L(10), Heins Z(3), Ochoa A(3), Gross B(3), Gao J(3), Zhang H(3), Kundra 
+R(3), Kandoth C(3), Bahceci I(11), Dervishi L(11), Dogrusoz U(11), Zhou W(12), 
+Shen H(12), Laird PW(12), Way GP(13), Greene CS(13), Liang H(14), Xiao Y(15), 
+Wang C(16), Iavarone A(17), Berger AH(18), Bivona TG(19), Lazar AJ(20), Hammer 
+GD(21), Giordano T(22), Kwong LN(23), McArthur G(24), Huang C(25), Tward AD(26), 
+Frederick MJ(25), McCormick F(27), Meyerson M(6); Cancer Genome Atlas Research 
+Network; Van Allen EM(6), Cherniack AD(6), Ciriello G(28), Sander C(29), Schultz 
+N(30).
+
+Collaborators: Caesar-Johnson SJ, Demchok JA, Felau I, Kasapi M, Ferguson ML, 
+Hutter CM, Sofia HJ, Tarnuzzer R, Wang Z, Yang L, Zenklusen JC, Zhang JJ, 
+Chudamani S, Liu J, Lolla L, Naresh R, Pihl T, Sun Q, Wan Y, Wu Y, Cho J, 
+DeFreitas T, Frazer S, Gehlenborg N, Getz G, Heiman DI, Kim J, Lawrence MS, Lin 
+P, Meier S, Noble MS, Saksena G, Voet D, Zhang H, Bernard B, Chambwe N, Dhankani 
+V, Knijnenburg T, Kramer R, Leinonen K, Liu Y, Miller M, Reynolds S, Shmulevich 
+I, Thorsson V, Zhang W, Akbani R, Broom BM, Hegde AM, Ju Z, Kanchi RS, Korkut A, 
+Li J, Liang H, Ling S, Liu W, Lu Y, Mills GB, Ng KS, Rao A, Ryan M, Wang J, 
+Weinstein JN, Zhang J, Abeshouse A, Armenia J, Chakravarty D, Chatila WK, de 
+Bruijn I, Gao J, Gross BE, Heins ZJ, Kundra R, La K, Ladanyi M, Luna A, Nissan 
+MG, Ochoa A, Phillips SM, Reznik E, Sanchez-Vega F, Sander C, Schultz N, 
+Sheridan R, Sumer SO, Sun Y, Taylor BS, Wang J, Zhang H, Anur P, Peto M, 
+Spellman P, Benz C, Stuart JM, Wong CK, Yau C, Hayes DN, Parker JS, Wilkerson 
+MD, Ally A, Balasundaram M, Bowlby R, Brooks D, Carlsen R, Chuah E, Dhalla N, 
+Holt R, Jones SJM, Kasaian K, Lee D, Ma Y, Marra MA, Mayo M, Moore RA, Mungall 
+AJ, Mungall K, Robertson AG, Sadeghi S, Schein JE, Sipahimalani P, Tam A, 
+Thiessen N, Tse K, Wong T, Berger AC, Beroukhim R, Cherniack AD, Cibulskis C, 
+Gabriel SB, Gao GF, Ha G, Meyerson M, Schumacher SE, Shih J, Kucherlapati MH, 
+Kucherlapati RS, Baylin S, Cope L, Danilova L, Bootwalla MS, Lai PH, Maglinte 
+DT, Van Den Berg DJ, Weisenberger DJ, Auman JT, Balu S, Bodenheimer T, Fan C, 
+Hoadley KA, Hoyle AP, Jefferys SR, Jones CD, Meng S, Mieczkowski PA, Mose LE, 
+Perou AH, Perou CM, Roach J, Shi Y, Simons JV, Skelly T, Soloway MG, Tan D, 
+Veluvolu U, Fan H, Hinoue T, Laird PW, Shen H, Zhou W, Bellair M, Chang K, 
+Covington K, Creighton CJ, Dinh H, Doddapaneni H, Donehower LA, Drummond J, 
+Gibbs RA, Glenn R, Hale W, Han Y, Hu J, Korchina V, Lee S, Lewis L, Li W, Liu X, 
+Morgan M, Morton D, Muzny D, Santibanez J, Sheth M, Shinbrot E, Wang L, Wang M, 
+Wheeler DA, Xi L, Zhao F, Hess J, Appelbaum EL, Bailey M, Cordes MG, Ding L, 
+Fronick CC, Fulton LA, Fulton RS, Kandoth C, Mardis ER, McLellan MD, Miller CA, 
+Schmidt HK, Wilson RK, Crain D, Curley E, Gardner J, Lau K, Mallery D, Morris S, 
+Paulauskis J, Penny R, Shelton C, Shelton T, Sherman M, Thompson E, Yena P, 
+Bowen J, Gastier-Foster JM, Gerken M, Leraas KM, Lichtenberg TM, Ramirez NC, 
+Wise L, Zmuda E, Corcoran N, Costello T, Hovens C, Carvalho AL, de Carvalho AC, 
+Fregnani JH, Longatto-Filho A, Reis RM, Scapulatempo-Neto C, Silveira HCS, Vidal 
+DO, Burnette A, Eschbacher J, Hermes B, Noss A, Singh R, Anderson ML, Castro PD, 
+Ittmann M, Huntsman D, Kohl B, Le X, Thorp R, Andry C, Duffy ER, Lyadov V, 
+Paklina O, Setdikova G, Shabunin A, Tavobilov M, McPherson C, Warnick R, 
+Berkowitz R, Cramer D, Feltmate C, Horowitz N, Kibel A, Muto M, Raut CP, Malykh 
+A, Barnholtz-Sloan JS, Barrett W, Devine K, Fulop J, Ostrom QT, Shimmel K, 
+Wolinsky Y, Sloan AE, De Rose A, Giuliante F, Goodman M, Karlan BY, Hagedorn CH, 
+Eckman J, Harr J, Myers J, Tucker K, Zach LA, Deyarmin B, Hu H, Kvecher L, 
+Larson C, Mural RJ, Somiari S, Vicha A, Zelinka T, Bennett J, Iacocca M, Rabeno 
+B, Swanson P, Latour M, Lacombe L, Têtu B, Bergeron A, McGraw M, Staugaitis SM, 
+Chabot J, Hibshoosh H, Sepulveda A, Su T, Wang T, Potapova O, Voronina O, 
+Desjardins L, Mariani O, Roman-Roman S, Sastre X, Stern MH, Cheng F, Signoretti 
+S, Berchuck A, Bigner D, Lipp E, Marks J, McCall S, McLendon R, Secord A, Sharp 
+A, Behera M, Brat DJ, Chen A, Delman K, Force S, Khuri F, Magliocca K, Maithel 
+S, Olson JJ, Owonikoko T, Pickens A, Ramalingam S, Shin DM, Sica G, Van Meir EG, 
+Zhang H, Eijckenboom W, Gillis A, Korpershoek E, Looijenga L, Oosterhuis W, 
+Stoop H, van Kessel KE, Zwarthoff EC, Calatozzolo C, Cuppini L, Cuzzubbo S, 
+DiMeco F, Finocchiaro G, Mattei L, Perin A, Pollo B, Chen C, Houck J, 
+Lohavanichbutr P, Hartmann A, Stoehr C, Stoehr R, Taubert H, Wach S, Wullich B, 
+Kycler W, Murawa D, Wiznerowicz M, Chung K, Edenfield WJ, Martin J, Baudin E, 
+Bubley G, Bueno R, De Rienzo A, Richards WG, Kalkanis S, Mikkelsen T, Noushmehr 
+H, Scarpace L, Girard N, Aymerich M, Campo E, Giné E, Guillermo AL, Van Bang N, 
+Hanh PT, Phu BD, Tang Y, Colman H, Evason K, Dottino PR, Martignetti JA, Gabra 
+H, Juhl H, Akeredolu T, Stepa S, Hoon D, Ahn K, Kang KJ, Beuschlein F, Breggia 
+A, Birrer M, Bell D, Borad M, Bryce AH, Castle E, Chandan V, Cheville J, Copland 
+JA, Farnell M, Flotte T, Giama N, Ho T, Kendrick M, Kocher JP, Kopp K, Moser C, 
+Nagorney D, O'Brien D, O'Neill BP, Patel T, Petersen G, Que F, Rivera M, Roberts 
+L, Smallridge R, Smyrk T, Stanton M, Thompson RH, Torbenson M, Yang JD, Zhang L, 
+Brimo F, Ajani JA, Gonzalez AMA, Behrens C, Bondaruk J, Broaddus R, Czerniak B, 
+Esmaeli B, Fujimoto J, Gershenwald J, Guo C, Lazar AJ, Logothetis C, 
+Meric-Bernstam F, Moran C, Ramondetta L, Rice D, Sood A, Tamboli P, Thompson T, 
+Troncoso P, Tsao A, Wistuba I, Carter C, Haydu L, Hersey P, Jakrot V, Kakavand 
+H, Kefford R, Lee K, Long G, Mann G, Quinn M, Saw R, Scolyer R, Shannon K, 
+Spillane A, Stretch J, Synott M, Thompson J, Wilmott J, Al-Ahmadie H, Chan TA, 
+Ghossein R, Gopalan A, Levine DA, Reuter V, Singer S, Singh B, Tien NV, Broudy 
+T, Mirsaidi C, Nair P, Drwiega P, Miller J, Smith J, Zaren H, Park JW, Hung NP, 
+Kebebew E, Linehan WM, Metwalli AR, Pacak K, Pinto PA, Schiffman M, Schmidt LS, 
+Vocke CD, Wentzensen N, Worrell R, Yang H, Moncrieff M, Goparaju C, Melamed J, 
+Pass H, Botnariuc N, Caraman I, Cernat M, Chemencedji I, Clipca A, Doruc S, 
+Gorincioi G, Mura S, Pirtac M, Stancul I, Tcaciuc D, Albert M, Alexopoulou I, 
+Arnaout A, Bartlett J, Engel J, Gilbert S, Parfitt J, Sekhon H, Thomas G, Rassl 
+DM, Rintoul RC, Bifulco C, Tamakawa R, Urba W, Hayward N, Timmers H, Antenucci 
+A, Facciolo F, Grazi G, Marino M, Merola R, de Krijger R, Gimenez-Roqueplo AP, 
+Piché A, Chevalier S, McKercher G, Birsoy K, Barnett G, Brewer C, Farver C, 
+Naska T, Pennell NA, Raymond D, Schilero C, Smolenski K, Williams F, Morrison C, 
+Borgia JA, Liptay MJ, Pool M, Seder CW, Junker K, Omberg L, Dinkin M, Manikhas 
+G, Alvaro D, Bragazzi MC, Cardinale V, Carpino G, Gaudio E, Chesla D, Cottingham 
+S, Dubina M, Moiseenko F, Dhanasekaran R, Becker KF, Janssen KP, 
+Slotta-Huspenina J, Abdel-Rahman MH, Aziz D, Bell S, Cebulla CM, Davis A, Duell 
+R, Elder JB, Hilty J, Kumar B, Lang J, Lehman NL, Mandt R, Nguyen P, Pilarski R, 
+Rai K, Schoenfield L, Senecal K, Wakely P, Hansen P, Lechan R, Powers J, 
+Tischler A, Grizzle WE, Sexton KC, Kastl A, Henderson J, Porten S, Waldmann J, 
+Fassnacht M, Asa SL, Schadendorf D, Couce M, Graefen M, Huland H, Sauter G, 
+Schlomm T, Simon R, Tennstedt P, Olabode O, Nelson M, Bathe O, Carroll PR, Chan 
+JM, Disaia P, Glenn P, Kelley RK, Landen CN, Phillips J, Prados M, Simko J, 
+Smith-McCune K, VandenBerg S, Roggin K, Fehrenbach A, Kendler A, Sifri S, Steele 
+R, Jimeno A, Carey F, Forgie I, Mannelli M, Carney M, Hernandez B, Campos B, 
+Herold-Mende C, Jungk C, Unterberg A, von Deimling A, Bossler A, Galbraith J, 
+Jacobus L, Knudson M, Knutson T, Ma D, Milhem M, Sigmund R, Godwin AK, Madan R, 
+Rosenthal HG, Adebamowo C, Adebamowo SN, Boussioutas A, Beer D, Giordano T, 
+Mes-Masson AM, Saad F, Bocklage T, Landrum L, Mannel R, Moore K, Moxley K, 
+Postier R, Walker J, Zuna R, Feldman M, Valdivieso F, Dhir R, Luketich J, Pinero 
+EMM, Quintero-Aguilo M, Carlotti CG Jr, Dos Santos JS, Kemp R, Sankarankuty A, 
+Tirapelli D, Catto J, Agnew K, Swisher E, Creaney J, Robinson B, Shelley CS, 
+Godwin EM, Kendall S, Shipman C, Bradford C, Carey T, Haddad A, Moyer J, 
+Peterson L, Prince M, Rozek L, Wolf G, Bowman R, Fong KM, Yang I, Korst R, 
+Rathmell WK, Fantacone-Campbell JL, Hooke JA, Kovatich AJ, Shriver CD, DiPersio 
+J, Drake B, Govindan R, Heath S, Ley T, Van Tine B, Westervelt P, Rubin MA, Lee 
+JI, Aredes ND, Mariamidze A.
+
+Author information:
+(1)Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan 
+Kettering Cancer Center, New York, NY 10065, USA; Human Oncology and 
+Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 
+10065, USA.
+(2)Department of Computational Biology, University of Lausanne (UNIL), 1011 
+Lausanne, Vaud, Switzerland and Swiss Institute of Bioinformatics (SIB), 
+Lausanne, Switzerland.
+(3)Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial Sloan 
+Kettering Cancer Center, New York, NY 10065, USA.
+(4)cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell 
+Biology, Harvard Medical School, Boston, MA.
+(5)Princeton University, Princeton, NJ, USA.
+(6)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA; 
+Cancer Program, Broad Institute of MIT and Harvard, Cambridge, MA, US.
+(7)University of Texas at Dallas, Richardson, TX 75080, USA.
+(8)Department of Medicine and McDonnell Genome Institute, Washington University 
+in St. Louis, St. Louis, Missouri, 63110, USA.
+(9)Institute for Systems Biology, Seattle, WA, USA.
+(10)Department of Medicine and McDonnell Genome Institute, Washington University 
+in St. Louis, St. Louis, Missouri, 63110, USA; Siteman Cancer Center, Washington 
+University School of Medicine, St. Louis, MO 63110, USA.
+(11)Computer Engineering Department, Bilkent University, Ankara 06800, Turkey.
+(12)Van Andel Research Institute, 333 Bostwick Ave NE, Grand Rapids Michigan, 
+49503, USA.
+(13)Department of Systems Pharmacology and Translational Therapeutics, 
+University of Pennsylvania, Philadelphia, PA, 19104, USA.
+(14)Department of Bioinformatics and Computational Biology, The University of 
+Texas MD Anderson Cancer Center, Houston, TX, 77030, USA.
+(15)TESARO Inc., Waltham, MA, 02451, USA.
+(16)Department of Health Sciences Research and Department of Obstetrics and 
+Gynecology, Mayo Clinic College of Medicine, 200 First Street SW, Rochester, MN, 
+55905, USA.
+(17)Institute for Cancer Genetics, Department of Neurology and Department of 
+Pathology and Cell Biology, Columbia University Medical Center, New York, NY, 
+10032, USA.
+(18)Human Biology Division, Fred Hutchinson Cancer Research Center, Seattle, WA 
+98109, USA.
+(19)UCSF Helen Diller Family Comprehensive Cancer Center, University of 
+California San Francisco, 1450 3rd Street, San Francisco, California 94143, USA.
+(20)Departments of Pathology, Genomic Medicine & Translational Molecular 
+Pathology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe 
+Blvd-Unit 85, Houston, Texas 77030, USA.
+(21)Department of Internal Medicine, Division of Metabolism, Endocrinology and 
+Diabetes, Endocrine Oncology Program, University of Michigan, Ann Arbor, 
+Michigan, MI 48105, USA.
+(22)Department of Pathology, University of Michigan Medical School, Ann Arbor, 
+MI; Department of Internal Medicine, Division of Metabolism, Endocrinology & 
+Diabetes, University of Michigan Medical School, Ann Arbor, MI; Comprehensive 
+Cancer Center, Michigan Medicine, Ann Arbor, MI, USA.
+(23)Department of Translational Molecular Pathology, The University of Texas MD 
+Anderson Cancer Center, Houston, TX, USA.
+(24)Peter MacCallum Cancer Centre, Melbourne, VIC, Australia; University of 
+Melbourne, Melbourne, VIC, Australia.
+(25)Dept. of Otolaryngology, Baylor College of Medicine, USA.
+(26)University of California, San Francisco Department of Otolaryngology-Head 
+and Neck Surgery. 2233 Post Street, San Francisco, CA, 94143, USA.
+(27)UCSF Helen Diller Family Comprehensive Cancer Center, University of 
+California San Francisco, 1450 3rd Street, San Francisco, CA 94143, USA.
+(28)Department of Computational Biology, University of Lausanne (UNIL), 1011 
+Lausanne, Vaud, Switzerland and Swiss Institute of Bioinformatics (SIB), 
+Lausanne, Switzerland. Electronic address: Giovanni.Ciriello@unil.ch.
+(29)cBio Center, Dana-Farber Cancer Institute, Boston, MA; Department of Cell 
+Biology, Harvard Medical School, Boston, MA. Electronic address: 
+sander.research@gmail.com.
+(30)Marie-Josée and Henry R. Kravis Center for Molecular Oncology, Memorial 
+Sloan Kettering Cancer Center, New York, NY 10065, USA; Human Oncology and 
+Pathogenesis Program, Memorial Sloan Kettering Cancer Center, New York, NY 
+10065, USA; Departments of Epidemiology and Biostatistics, Memorial Sloan 
+Kettering Cancer Center, New York, NY 10065, USA. Electronic address: 
+schultz@cbio.mskcc.org.
+
+Comment in
+    Pathol Oncol Res. 2020 Jul;26(3):1997-1999. doi: 10.1007/s12253-019-00709-x.
+
+Genetic alterations in signaling pathways that control cell-cycle progression, 
+apoptosis, and cell growth are common hallmarks of cancer, but the extent, 
+mechanisms, and co-occurrence of alterations in these pathways differ between 
+individual tumors and tumor types. Using mutations, copy-number changes, mRNA 
+expression, gene fusions and DNA methylation in 9,125 tumors profiled by The 
+Cancer Genome Atlas (TCGA), we analyzed the mechanisms and patterns of somatic 
+alterations in ten canonical pathways: cell cycle, Hippo, Myc, Notch, Nrf2, 
+PI-3-Kinase/Akt, RTK-RAS, TGFβ signaling, p53 and β-catenin/Wnt. We charted the 
+detailed landscape of pathway alterations in 33 cancer types, stratified into 64 
+subtypes, and identified patterns of co-occurrence and mutual exclusivity. 
+Eighty-nine percent of tumors had at least one driver alteration in these 
+pathways, and 57% percent of tumors had at least one alteration potentially 
+targetable by currently available drugs. Thirty percent of tumors had multiple 
+targetable alterations, indicating opportunities for combination therapy.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cell.2018.03.035
+PMCID: PMC6070353
+PMID: 29625050 [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+1. J Psychopharmacol. 2023 Jun;37(6):610-626. doi: 10.1177/02698811231161582.
+Epub  2023 Mar 29.
+
+The NK1 antagonist L-733,060 facilitates sequence learning.
+
+Favila N(1)(2), Gurney K(1), Overton PG(1).
+
+Author information:
+(1)Department of Psychology, The University of Sheffield, Sheffield, UK.
+(2)German Center for Neurodegenerative Diseases (DZNE), Bonn, NRW, Germany.
+
+BACKGROUND: Although several brain regions and electrophysiological patterns 
+have been related to sequence learning, less attention has been paid to the role 
+that different neuromodulators play.
+AIMS: Here we sought to investigate the role of substance P (SP) in sequence 
+learning in an operant conditioning preparation, supported by a reinforcement 
+learning model.
+METHODS: Two experiments were performed to test the effects of an NK1 receptor 
+(at which SP primarily acts) antagonist on learning and performing action 
+sequences. In experiment 1, rats were trained to perform an action sequence 
+until stable performance was achieved, and then, in phase 2, they were switched 
+to perform the reverse sequence. In experiment 2, rats were trained to perform 
+an action sequence, and in phase 2, they continued to do the same sequence. In 
+both experiments in the first 3 days of phase 2, rats were injected with an NK1 
+receptor antagonist (L-733,060, i.p.) or with vehicle. Additionally, we 
+developed a reinforcement learning model which allowed the in silico replication 
+of our experimental tasks.
+RESULTS: We found that administering an NK1 receptor antagonist weakened the 
+stable retention of a well-learned sequence, allowing the faster acquisition of 
+a new sequence, without impairing the continued performance of a crystallized 
+sequence. Using our reinforcement learning model, we suggest that SP could be 
+acting through the state value learning rate, modulating the effects of the 
+reward prediction error.
+CONCLUSIONS: Our results suggest that SP could be involved in the consolidation 
+of a sequence representation through a modulatory effect on the reward 
+prediction error.
+
+DOI: 10.1177/02698811231161582
+PMCID: PMC10291388
+PMID: 36988219 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.

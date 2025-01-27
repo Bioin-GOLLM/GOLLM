@@ -1,0 +1,45 @@
+1. Cell Mol Bioeng. 2011 Jun 1;4(2):281-301. doi: 10.1007/s12195-011-0162-2.
+
+Regulation of Adipose Tissue Metabolism in Humans: Analysis of Responses to the 
+Hyperinsulinemic-Euglycemic Clamp Experiment.
+
+Kim J(1), Saidel GM, Kalhan SC.
+
+Author information:
+(1)Department of Biomedical Engineering, Case Western Reserve University, 
+Cleveland, OH 44106, USA ; Center for Modeling Integrated Metabolic Systems, 
+Case Western Reserve University, Cleveland, OH 44106, USA ; Department of 
+Pathobiology, Lerner Research Institute, NE4-203, Cleveland Clinic Foundation, 
+9500 Euclid Avenue, Cleveland, OH 44195, USA.
+
+The suppression of lipolysis is one of the key metabolic responses of the 
+adipose tissue during hyperinsulinemia. The failure to respond and resulting 
+increase in plasma fatty acids could contribute to the development of insulin 
+resistance and perturbations in the fuel homeostasis in the whole body. In this 
+study, a mechanistic, computational model of adipose tissue metabolism in vivo 
+has been enhanced to simulate the physiological responses during 
+hyperinsulinemic-euglycemic clamp experiment in humans. The model incorporates 
+metabolic intermediates and pathways that are important in the fed state. In 
+addition, it takes into account the heterogeneity of triose phosphate pools 
+(glycolytic vs. glyceroneogenic), within the adipose tissue. The model can 
+simulate not only steady-state responses at different insulin levels, but also 
+concentration dynamics of major metabolites in the adipose tissue venous blood 
+in accord with the in vivo data. Simulations indicate that (1) regulation of 
+lipoprotein lipase (LPL) reaction is important when the intracellular lipolysis 
+is suppressed by insulin; (2) intracellular diglyceride levels can affect the 
+regulatory mechanisms; and (3) glyceroneogenesis is the dominant pathway for 
+glycerol-3-phosphate synthesis even in the presence of increased glucose uptake 
+by the adipose tissue. Reduced redox and increased phosphorylation states 
+provide a favorable milieu for glyceroneogenesis in response to insulin. A 
+parameter sensitivity analysis predicts that insulin-stimulated glucose uptake 
+would be more severely affected by impairment of GLUT4 translocation and 
+glycolysis than by impairment of glycogen synthesis and pyruvate oxidation. 
+Finally, simulations predict metabolic responses to altered expression of 
+phosphoenolpyruvate carboxykinase (PEP-CK). Specifically, the increase in the 
+rate of re-esterification of fatty acids observed experimentally with the 
+overexpression of PEPCK in the adipose tissue would be accompanied by the 
+up-regulation of acyl Co-A synthase.
+
+DOI: 10.1007/s12195-011-0162-2
+PMCID: PMC3641796
+PMID: 23646067

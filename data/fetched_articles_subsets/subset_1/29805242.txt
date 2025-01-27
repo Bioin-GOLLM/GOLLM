@@ -1,0 +1,23 @@
+1. SIAM J Optim. 2018;28(1):223-250. doi: 10.1137/16M108940X. Epub 2018 Jan 30.
+
+ANOTHER LOOK AT THE FAST ITERATIVE SHRINKAGE/THRESHOLDING ALGORITHM (FISTA).
+
+Kim D(1), Fessler JA(1).
+
+Author information:
+(1)Dept. of Electrical Engineering and Computer Science, University of Michigan, 
+Ann Arbor, MI 48109 USA.
+
+This paper provides a new way of developing the "Fast Iterative 
+Shrinkage/Thresholding Algorithm (FISTA)" [3] that is widely used for minimizing 
+composite convex functions with a nonsmooth term such as the ℓ1 regularizer. In 
+particular, this paper shows that FISTA corresponds to an optimized approach to 
+accelerating the proximal gradient method with respect to a worst-case bound of 
+the cost function. This paper then proposes a new algorithm that is derived by 
+instead optimizing the step coefficients of the proximal gradient method with 
+respect to a worst-case bound of the composite gradient mapping. The proof is 
+based on the worst-case analysis called Performance Estimation Problem in [11].
+
+DOI: 10.1137/16M108940X
+PMCID: PMC5966151
+PMID: 29805242

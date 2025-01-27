@@ -1,0 +1,45 @@
+1. G3 (Bethesda). 2020 Nov 5;10(11):3929-3947. doi: 10.1534/g3.120.401723.
+
+Genome Profiling for Aflatoxin B(1) Resistance in Saccharomyces cerevisiae 
+Reveals a Role for the CSM2/SHU Complex in Tolerance of Aflatoxin 
+B(1)-Associated DNA Damage.
+
+St John N(1), Freedland J(1), Baldino H(1), Doyle F(1), Cera C(1), Begley T(2), 
+Fasullo M(3).
+
+Author information:
+(1)College of Nanoscale Science and Engineering, State University of New York 
+Polytechnic Institute, Albany, New York 12203.
+(2)RNA Institute, University at Albany, Albany, New York 12222.
+(3)College of Nanoscale Science and Engineering, State University of New York 
+Polytechnic Institute, Albany, New York 12203 mfasullo@sunypoly.edu.
+
+Exposure to the mycotoxin aflatoxin B1 (AFB1) strongly correlates with 
+hepatocellular carcinoma (HCC). P450 enzymes convert AFB1 into a highly reactive 
+epoxide that forms unstable 8,9-dihydro-8-(N7-guanyl)-9-hydroxyaflatoxin B1 
+(AFB1-N7-Gua) DNA adducts, which convert to stable mutagenic AFB1 
+formamidopyrimidine (FAPY) DNA adducts. In CYP1A2-expressing budding yeast, AFB1 
+is a weak mutagen but a potent recombinagen. However, few genes have been 
+identified that confer AFB1 resistance. Here, we profiled the yeast genome for 
+AFB1 resistance. We introduced the human CYP1A2 into ∼90% of the diploid 
+deletion library, and pooled samples from CYP1A2-expressing libraries and the 
+original library were exposed to 50 μM AFB1 for 20 hs. By using next generation 
+sequencing (NGS) to count molecular barcodes, we initially identified 86 genes 
+from the CYP1A2-expressing libraries, of which 79 were confirmed to confer AFB1 
+resistance. While functionally diverse genes, including those that function in 
+proteolysis, actin reorganization, and tRNA modification, were identified, those 
+that function in postreplication DNA repair and encode proteins that bind to DNA 
+damage were over-represented, compared to the yeast genome, at large. DNA 
+metabolism genes also included those functioning in checkpoint recovery and 
+replication fork maintenance, emphasizing the potency of the mycotoxin to 
+trigger replication stress. Among genes involved in postreplication repair, we 
+observed that CSM2, a member of the CSM2(SHU) complex, functioned in 
+AFB1-associated sister chromatid recombination while suppressing AFB1-associated 
+mutations. These studies thus broaden the number of AFB1 resistance genes and 
+have elucidated a mechanism of error-free bypass of AFB1-associated DNA adducts.
+
+Copyright © 2020 John et al.
+
+DOI: 10.1534/g3.120.401723
+PMCID: PMC7642924
+PMID: 32994210 [Indexed for MEDLINE]

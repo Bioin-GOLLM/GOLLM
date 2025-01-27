@@ -1,0 +1,31 @@
+1. Pharmacogenet Genomics. 2010 Apr;20(4):269-73. doi: 
+10.1097/FPC.0b013e328337b8d6.
+
+PACdb: a database for cell-based pharmacogenomics.
+
+Gamazon ER(1), Duan S, Zhang W, Huang RS, Kistner EO, Dolan ME, Cox NJ.
+
+Author information:
+(1)Department of Medicine, The University of Chicago, Chicago, IL 60637, USA.
+
+We have developed Pharmacogenomics And Cell database (PACdb), a results database 
+that makes available relationships between single nucleotide polymorphisms, gene 
+expression, and cellular sensitivity to various drugs in cell-based models to 
+help determine genetic variants associated with drug response. The current 
+version also supports summary analysis on differentially expressed genes between 
+the HapMap samples of European and African ancestry, as well as queries for 
+summary information of correlations between gene expression and pharmacological 
+phenotypes. At present, data generated on the following anticancer agents are 
+included: carboplatin, cisplatin, etoposide, daunorubicin, and cytarabine 
+(Ara-C). The database is also available to assist in the investigation of the 
+effects of potential confounding variables (e.g. cell proliferation rate) in 
+lymphoblastoid cell lines. PACdb will be regularly updated to include more drugs 
+and new datasets (e.g. baseline microRNA levels). PACdb will be linked into 
+PharmGKB to benefit the next wave of pharmacogenetic and pharmacogenomic 
+discovery.
+
+DOI: 10.1097/FPC.0b013e328337b8d6
+PMCID: PMC2914089
+PMID: 20216476 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest: none declared.

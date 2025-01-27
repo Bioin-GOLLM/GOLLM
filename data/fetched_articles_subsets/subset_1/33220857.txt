@@ -1,0 +1,43 @@
+1. Cell Syst. 2020 Nov 18;11(5):449-460.e2. doi: 10.1016/j.cels.2020.09.003.
+
+Comparing the Efficacy of Cancer Therapies between Subgroups in Basket Trials.
+
+Palmer AC(1), Plana D(2), Sorger PK(3).
+
+Author information:
+(1)Laboratory of Systems Pharmacology, and the Department of Systems Biology, 
+Harvard Medical School, Boston, MA 02115, USA.
+(2)Laboratory of Systems Pharmacology, and the Department of Systems Biology, 
+Harvard Medical School, Boston, MA 02115, USA; Harvard-MIT Division of Health 
+Sciences and Technology, Cambridge, MA 02139, USA.
+(3)Laboratory of Systems Pharmacology, and the Department of Systems Biology, 
+Harvard Medical School, Boston, MA 02115, USA. Electronic address: 
+peter_sorger@hms.harvard.edu.
+
+The need to test anticancer drugs in multiple indications has been addressed by 
+basket trials, which are Phase I or II clinical trials involving multiple tumor 
+subtypes and a single master protocol. Basket trials typically involve few 
+patients per type, making it challenging to rigorously compare responses across 
+types. We describe the use of permutation testing to test for differences among 
+subgroups using empirical null distributions and the Benjamini-Hochberg 
+procedure to control for false discovery. We apply the approach retrospectively 
+to tumor-volume changes and progression-free survival in published basket trials 
+for neratinib, larotrectinib, pembrolizumab, and imatinib and uncover examples 
+of therapeutic benefit missed by conventional binomial testing. For example, we 
+identify an overlooked opportunity for use of neratinib in lung cancers carrying 
+ERBB2 Exon 20 mutations. Permutation testing can be used to design basket trials 
+but is more conservatively introduced alongside established approaches to 
+enrollment such as Simon's two-stage design.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cels.2020.09.003
+PMCID: PMC8022348
+PMID: 33220857 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests P.K.S. is a member of 
+the SAB or Board of Directors of Glencoe Software, Applied Biomath, and RareCyte 
+Inc. and has equity in these companies; P.K.S. is also a member of the SAB of 
+NanoString. P.K.S. declares that none of these relationships are directly or 
+indirectly related to the content of this manuscript. The other authors declares 
+no competing interests.

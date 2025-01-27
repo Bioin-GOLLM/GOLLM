@@ -1,0 +1,51 @@
+1. Circ Arrhythm Electrophysiol. 2017 Feb;10(2):e004400. doi: 
+10.1161/CIRCEP.116.004400.
+
+Revealing the Concealed Nature of Long-QT Type 3 Syndrome.
+
+Greer-Short A(1), George SA(1), Poelzing S(2), Weinberg SH(2).
+
+Author information:
+(1)From the Virginia Tech Carilion Research Institute, Virginia Polytechnic 
+Institute and State University, Roanoke (A.G.-S., S.A.G., S.P.); and Department 
+of Biomedical Engineering, Virginia Commonwealth University, Richmond (S.H.W.).
+(2)From the Virginia Tech Carilion Research Institute, Virginia Polytechnic 
+Institute and State University, Roanoke (A.G.-S., S.A.G., S.P.); and Department 
+of Biomedical Engineering, Virginia Commonwealth University, Richmond (S.H.W.). 
+shweinberg@vcu.edu poelzing@vtc.vt.edu.
+
+Comment in
+    Circ Arrhythm Electrophysiol. 2017 Feb;10(2):e004955. doi: 
+10.1161/CIRCEP.117.004955.
+
+BACKGROUND: Gain-of-function mutations in the voltage-gated sodium channel 
+(Nav1.5) are associated with the long-QT-3 (LQT3) syndrome. Nav1.5 is densely 
+expressed at the intercalated disk, and narrow intercellular separation can 
+modulate cell-to-cell coupling via extracellular electric fields and depletion 
+of local sodium ion nanodomains. Models predict that significantly decreasing 
+intercellular cleft widths slows conduction because of reduced sodium current 
+driving force, termed "self-attenuation." We tested the novel hypothesis that 
+self-attenuation can "mask" the LQT3 phenotype by reducing the driving force and 
+late sodium current that produces early afterdepolarizations (EADs).
+METHODS AND RESULTS: Acute interstitial edema was used to increase intercellular 
+cleft width in isolated guinea pig heart experiments. In a drug-induced LQT3 
+model, acute interstitial edema exacerbated action potential duration 
+prolongation and produced EADs, in particular, at slow pacing rates. In a 
+computational cardiac tissue model incorporating extracellular electric field 
+coupling, intercellular cleft sodium nanodomains, and LQT3-associated mutant 
+channels, myocytes produced EADs for wide intercellular clefts, whereas for 
+narrow clefts, EADs were suppressed. For both wide and narrow clefts, mutant 
+channels were incompletely inactivated. However, for narrow clefts, late sodium 
+current was reduced via self-attenuation, a protective negative feedback 
+mechanism, masking EADs.
+CONCLUSIONS: We demonstrated a novel mechanism leading to the concealing and 
+revealing of EADs in LQT3 models. Simulations predict that this mechanism may 
+operate independent of the specific mutation, suggesting that future therapies 
+could target intercellular cleft separation as a compliment or alternative to 
+sodium channels.
+
+© 2017 American Heart Association, Inc.
+
+DOI: 10.1161/CIRCEP.116.004400
+PMCID: PMC5319726
+PMID: 28213505 [Indexed for MEDLINE]

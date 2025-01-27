@@ -1,0 +1,52 @@
+1. Front Neurosci. 2022 Jun 8;16:872392. doi: 10.3389/fnins.2022.872392. 
+eCollection 2022.
+
+Combination of Acupoints for Alzheimer's Disease: An Association Rule Analysis.
+
+Wang YC(1)(2), Wu CC(3), Huang AP(4), Hsieh PC(5), Kung WM(6)(7).
+
+Author information:
+(1)Department of Emergency, Min-Sheng General Hospital, Taoyuan, Taiwan.
+(2)Graduate Institute of Injury Prevention and Control, College of Public 
+Health, Taipei Medical University, Taipei, Taiwan.
+(3)Department of Healthcare Information and Management, School of Health 
+Technology, Ming Chuan University, Taipei, Taiwan.
+(4)Division of Neurosurgery, Department of Surgery, National Taiwan University 
+Hospital, College of Medicine, National Taiwan University, Taipei, Taiwan.
+(5)Department of Chinese Medicine, Taipei Tzu Chi Hospital, Buddhist Tzu Chi 
+Medical Foundation, New Taipei City, Taiwan.
+(6)Division of Neurosurgery, Department of Surgery, Taipei Tzu Chi Hospital, 
+Buddhist Tzu Chi Medical Foundation, New Taipei City, Taiwan.
+(7)Department of Exercise and Health Promotion, College of Kinesiology and 
+Health, Chinese Culture University, Taipei, Taiwan.
+
+BACKGROUND: Alzheimer's disease (AD) is an ongoing neurological degeneration 
+characterized by amnesia and a decline in cognitive abilities. Hippocampal 
+neurogenesis is the leading cause of AD. Mild cognitive impairment (MCI), a 
+prodromal state of AD, is mainly due to the degradation of neuropsychiatric 
+manifestations. Previous systematic reviews demonstrated that treatment with 
+acupuncture with Chinese herbs is tolerable and effective in improving cognitive 
+function in patients with AD. Our investigation aimed to discover the main 
+acupoint combination for AD management based on a preceding systematic review 
+and meta-analysis of randomized control trials (RCTs).
+MATERIALS AND METHODS: Our investigation was executed using association rule 
+analysis, which is a common data mining technique accessible within R. Our study 
+elucidated acupoint locations as binary data from 15 of the included studies 
+using the Apriori algorithm.
+RESULTS: Thirty-two acupoints were selected from 15 RCTs. The 10 most frequent 
+acupoints were selected. We inspected 503 association rules using the 
+interpreted acupuncture data. The obtained results showed that {SP6, BI10} ≥ 
+{HT7} and {HT7, BI10} ≥ {SP6} were the most associated rules in 15 RCTs.
+CONCLUSION: The combination of acupoints ({SP6, BI10} ≥ {HT7} and {HT7, BI10} ≥ 
+{SP6}) can be acknowledged as a core combination for future acupuncture regimens 
+of AD.
+
+Copyright © 2022 Wang, Wu, Huang, Hsieh and Kung.
+
+DOI: 10.3389/fnins.2022.872392
+PMCID: PMC9213672
+PMID: 35757540
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

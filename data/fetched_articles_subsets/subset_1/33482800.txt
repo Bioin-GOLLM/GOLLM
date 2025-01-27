@@ -1,0 +1,64 @@
+1. BMC Complement Med Ther. 2021 Jan 22;21(1):42. doi:
+10.1186/s12906-021-03209-1.
+
+Comparative study of Danshen and Siwu decoction based on the molecular 
+structures of the components and predicted targets.
+
+Li Y(1), Qiao L(2), Chen C(3), Wang Z(3), Fu X(4)(5)(6)(7).
+
+Author information:
+(1)College of Intelligence and Information Engineering, Shandong University of 
+Traditional Chinese Medicine, Ji'nan, 250355, Shandong, China.
+(2)Experimental Center, Shandong University of Traditional Chinese Medicine, 
+Ji'nan, 250355, Shandong, China.
+(3)Institute of Traditional Chinese Medicine Literature and Culture, Shandong 
+University of Traditional Chinese Medicine, Ji'nan, 250355, Shandong, China.
+(4)Institute of Traditional Chinese Medicine Literature and Culture, Shandong 
+University of Traditional Chinese Medicine, Ji'nan, 250355, Shandong, China. 
+xianxiu@hotmail.com.
+(5)Center for Marine Traditional Chinese Medicine Research, Qingdao Academy of 
+Chinese Medical Science, Qingdao, 260000, Shandong, China. xianxiu@hotmail.com.
+(6)Laboratory of Traditional Chinese Medicine Network Pharmacology, Shandong 
+University of Traditional Chinese Medicine, Ji'nan, 250355, Shandong, China. 
+xianxiu@hotmail.com.
+(7)Shandong Research Center of Engineering and Technology for omics of TCM, 
+Ji'nan, 250355, Shandong, China. xianxiu@hotmail.com.
+
+BACKGROUND: The sentence of "Danshen (Salvia Miltiorrhizae Radix et Rhizoma) and 
+Siwu decoction are similar in function" was first recorded in an ancient Chinese 
+medical book "Fu Ren Ming Li Lun". This theory has far-reaching influence on the 
+clinical practice of Chinese medicine and is highly respected by Chinese medical 
+doctors. However, the theory has limitations and controversial part for there is 
+no in-depth and system comparative study.
+METHODS: We collected the molecular structures of 129 compounds of Danshen and 
+81 compounds of Siwu decoction from the literatures. MACCS fingerprints and 
+Tanimoto similarity were calculated based on the molecular structures for 
+comparing the structural feature. Molecular descriptors which represent physical 
+and chemical properties were calculated by Discovery Studio. Principal component 
+analysis (PCA) of was performed based on the descriptors. The ADMET properties 
+were predicted by FAF-Drugs4. The effect targets for the compounds with good 
+ADMET properties were confirmed from experimental data and predicted using the 
+algorithm comprising Bernoulli Naive Bayes profiling.
+RESULTS: Based on the molecular structures, the presented study compared the 
+structural feature, physical and chemical properties, ADMET properties, and 
+effect targets of compounds of Danshen and Siwu decoction. It is found that 
+Danshen and Siwu decoction do not have the same main active components. 
+Moreover, the 2D structure of compounds from Danshen and Siwu decoction is not 
+similar. Some of the compounds of Danshen and Siwu decoction are similar in 3D 
+structure. The compounds with good ADMET properties of Danshen and Siwu 
+decoction have same predicted targets, but some have different targets.
+CONCLUSIONS: It can be inferred from the result that Danshen and Siwu decoction 
+have some similarities, but also present differences from each other in the 
+structure of the compounds and predicted targets. This may be the material basis 
+of the similar and different traditional efficacy of Danshen and Siwu decoction. 
+The setence of " Danshen and Siwu decoction are similar in function. " which is 
+used in clinical has its material basis and target connotation to some extent. 
+However, the traditional effects of Danshen and Siwu decoction are not exactly 
+the same.
+
+DOI: 10.1186/s12906-021-03209-1
+PMCID: PMC7821527
+PMID: 33482800 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

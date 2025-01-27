@@ -1,0 +1,48 @@
+1. Int J Radiat Oncol Biol Phys. 2013 Aug 1;86(5):956-63. doi: 
+10.1016/j.ijrobp.2013.05.003.
+
+Effect of normal lung definition on lung dosimetry and lung toxicity prediction 
+in radiation therapy treatment planning.
+
+Wang W(1), Xu Y, Schipper M, Matuszak MM, Ritter T, Cao Y, Ten Haken RK, Kong 
+FM.
+
+Author information:
+(1)Department of Radiation Oncology, University of Michigan, Ann Arbor, 
+Michigan, USA.
+
+PURPOSE: This study aimed to compare lung dose-volume histogram (DVH) parameters 
+such as mean lung dose (MLD) and the lung volume receiving ≥20 Gy (V20) of 
+commonly used definitions of normal lung in terms of tumor/target subtraction 
+and to determine to what extent they differ in predicting radiation pneumonitis 
+(RP).
+METHODS AND MATERIALS: One hundred lung cancer patients treated with definitive 
+radiation therapy were assessed. The gross tumor volume (GTV) and clinical 
+planning target volume (PTVc) were defined by the treating physician and 
+dosimetrist. For this study, the clinical target volume (CTV) was defined as GTV 
+with 8-mm uniform expansion, and the PTV was defined as CTV with an 8-mm uniform 
+expansion. Lung DVHs were generated with exclusion of targets: (1) GTV (DVHG); 
+(2) CTV (DVHC); (3) PTV (DVHP); and (4) PTVc (DVHPc). The lung DVHs, V20s, and 
+MLDs from each of the 4 methods were compared, as was their significance in 
+predicting radiation pneumonitis of grade 2 or greater (RP2).
+RESULTS: There are significant differences in dosimetric parameters among the 
+various definition methods (all Ps<.05). The mean and maximum differences in V20 
+are 4.4% and 12.6% (95% confidence interval 3.6%-5.1%), respectively. The mean 
+and maximum differences in MLD are 3.3 Gy and 7.5 Gy (95% confidence interval, 
+1.7-4.8 Gy), respectively. MLDs of all methods are highly correlated with each 
+other and significantly correlated with clinical RP2, although V20s are not. For 
+RP2 prediction, on the receiver operating characteristic curve, MLD from DVHG 
+(MLDG) has a greater area under curve of than MLD from DVHC (MLDC) or DVHP 
+(MLDP). Limiting RP2 to 30%, the threshold is 22.4, 20.6, and 18.8 Gy, for MLDG, 
+MLDC, and MLDP, respectively.
+CONCLUSIONS: The differences in MLD and V20 from various lung definitions are 
+significant. MLD from the GTV exclusion method may be more accurate in 
+predicting clinical significant radiation pneumonitis.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.ijrobp.2013.05.003
+PMCID: PMC4028143
+PMID: 23845844 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: none.

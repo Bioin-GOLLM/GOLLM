@@ -1,0 +1,44 @@
+1. Mol Biol Cell. 2022 Dec 1;33(14):ar138. doi: 10.1091/mbc.E21-11-0540. Epub
+2022  Oct 6.
+
+Agent-based modeling predicts RAC1 is critical for ovarian cancer metastasis.
+
+Rivera M(1), Toledo-Jacobo L(1), Romero E(1), Oprea TI(2)(3), Moses ME(4), 
+Hudson LG(5)(6), Wandinger-Ness A(1)(5), Grimes MM(5)(6).
+
+Author information:
+(1)Department of Pathology, University of New Mexico Health Sciences Center, 
+Albuquerque, NM 87131.
+(2)Division of Translational Informatics, Department of Medicine, University of 
+New Mexico Health Sciences Center, Albuquerque, NM 87131.
+(3)Translational Informatics, Roivant Discovery, Boston, MA 02210.
+(4)Department of Computer Science, University of New Mexico, Albuquerque, NM 
+87131.
+(5)Cancer Research Facility, Comprehensive Cancer Center, University of New 
+Mexico, Albuquerque, NM 87131.
+(6)Department of Pharmaceutical Sciences, College of Pharmacy, University of New 
+Mexico Health Sciences Center, Albuquerque, NM 87131.
+
+Experimental and computational studies pinpoint rate-limiting step(s) in 
+metastasis governed by Rac1. Using ovarian cancer cell and animal models, Rac1 
+expression was manipulated, and quantitative measurements of cell-cell and 
+cell-substrate adhesion, cell invasion, mesothelial clearance, and peritoneal 
+tumor growth discriminated the tumor behaviors most highly influenced by Rac1. 
+The experimental data were used to parameterize an agent-based computational 
+model simulating peritoneal niche colonization, intravasation, and hematogenous 
+metastasis to distant organs. Increased ovarian cancer cell survival afforded by 
+the more rapid adhesion and intravasation upon Rac1 overexpression is predicted 
+to increase the numbers of and the rates at which tumor cells are disseminated 
+to distant sites. Surprisingly, crowding of cancer cells along the blood vessel 
+was found to decrease the numbers of cells reaching a distant niche irrespective 
+of Rac1 overexpression or knockdown, suggesting that sites for tumor cell 
+intravasation are rate limiting and become accessible if cells intravasate 
+rapidly or are displaced due to diminished viability. Modeling predictions were 
+confirmed through animal studies of Rac1-dependent metastasis to the lung. 
+Collectively, the experimental and modeling approaches identify cell adhesion, 
+rapid intravasation, and survival in the blood as parameters in the ovarian 
+metastatic cascade that are most critically dependent on Rac1.
+
+DOI: 10.1091/mbc.E21-11-0540
+PMCID: PMC9727804
+PMID: 36200848 [Indexed for MEDLINE]

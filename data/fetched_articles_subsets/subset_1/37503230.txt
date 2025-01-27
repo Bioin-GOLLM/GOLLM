@@ -1,0 +1,59 @@
+1. bioRxiv [Preprint]. 2023 Aug 3:2023.07.17.549377. doi: 
+10.1101/2023.07.17.549377.
+
+C9orf72 gene networks in the human brain correlate with cortical thickness in 
+C9-FTD and implicate vulnerable cell types.
+
+Broce IJ(1)(2), Sirkis DW(1), Nillo RM(3), Bonham LW(1)(3), Lee SE(1), Miller 
+B(1), Castruita P(1), Sturm VE(1)(4), Sugrue LS(3), Desikan RS(3), Yokoyama 
+JS(1)(3)(4).
+
+Author information:
+(1)Memory and Aging Center, Department of Neurology, Weill Institute for 
+Neurosciences, University of California, San Francisco, San Francisco, CA, 
+United States.
+(2)Department of Neurosciences, University of California, San Diego, San Diego, 
+CA, United States.
+(3)Department of Radiology and Biomedical Imaging, University of California, San 
+Francisco, San Francisco, CA, United States.
+(4)Global Brain Health Institute, University of California, San Francisco, San 
+Francisco, CA, and Trinity College Dublin, Dublin, Ireland.
+
+Update in
+    Front Neurosci. 2024 Feb 26;18:1258996. doi: 10.3389/fnins.2024.1258996.
+
+INTRODUCTION: A hexanucleotide repeat expansion (HRE) intronic to chromosome 9 
+open reading frame 72 (C9orf72) is recognized as the most common genetic cause 
+of amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and 
+ALS-FTD. Identifying genes that show similar regional co-expression patterns to 
+C9orf72 may help identify novel gene targets and biological mechanisms that 
+mediate selective vulnerability to ALS and FTD pathogenesis.
+METHODS: We leveraged mRNA expression data in healthy brain from the Allen Human 
+Brain Atlas to evaluate C9orf72 co-expression patterns. To do this, we 
+correlated average C9orf72 expression values in 51 regions across different 
+anatomical divisions (cortex, subcortex, cerebellum) with average gene 
+expression values for 15,633 protein-coding genes, including 50 genes known to 
+be associated with ALS, FTD, or ALS-FTD. We then evaluated whether the 
+identified C9orf72 co-expressed genes correlated with patterns of cortical 
+thickness in symptomatic C9orf72 pathogenic HRE carriers (n=19). Lastly, we 
+explored whether genes with significant C9orf72 radiogenomic correlations (i.e., 
+'C9orf72 gene network') were enriched in specific cell populations in the brain 
+and enriched for specific biological and molecular pathways.
+RESULTS: A total of 1,748 genes showed an anatomical distribution of gene 
+expression in the brain similar to C9orf72 and significantly correlated with 
+patterns of cortical thickness in C9orf72 HRE carriers. This C9orf72 gene 
+network was differentially expressed in cell populations previously implicated 
+in ALS and FTD, including layer 5b cells, cholinergic motor neurons in the 
+spinal cord, and medium spiny neurons of the striatum, and was enriched for 
+biological and molecular pathways associated with multiple neurotransmitter 
+systems, protein ubiquitination, autophagy, and MAPK signaling, among others.
+CONCLUSIONS: Considered together, we identified a network of C9orf72-associated 
+genes that may influence selective regional and cell-type-specific 
+vulnerabilities in ALS/FTD.
+
+DOI: 10.1101/2023.07.17.549377
+PMCID: PMC10370095
+PMID: 37503230
+
+Conflict of interest statement: Conflict of Interest Statement The authors 
+report no competing interests related to this paper.

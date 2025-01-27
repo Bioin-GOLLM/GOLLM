@@ -1,0 +1,53 @@
+1. Front Genet. 2022 Jun 22;13:917142. doi: 10.3389/fgene.2022.917142.
+eCollection  2022.
+
+Causal Inference of Genetic Variants and Genes in Amyotrophic Lateral Sclerosis.
+
+Pan S(1)(2), Liu X(1)(3), Liu T(1), Zhao Z(4), Dai Y(4), Wang YY(1), Jia P(1), 
+Liu F(1)(3).
+
+Author information:
+(1)CAS Key Laboratory of Genomic and Precision Medicine, Beijing Institute of 
+Genomics, Chinese Academy of Sciences and China National Center for 
+Bioinformation, Beijing, China.
+(2)College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 
+China.
+(3)School of Future Technology, University of Chinese Academy of Sciences, 
+Beijing, China.
+(4)Center for Precision Health, School of Biomedical Informatics, The University 
+of Texas Health Science Center at Houston, Houston, TX, United States.
+
+Amyotrophic lateral sclerosis (ALS) is a fatal progressive multisystem disorder 
+with limited therapeutic options. Although genome-wide association studies 
+(GWASs) have revealed multiple ALS susceptibility loci, the exact identities of 
+causal variants, genes, cell types, tissues, and their functional roles in the 
+development of ALS remain largely unknown. Here, we reported a comprehensive 
+post-GWAS analysis of the recent large ALS GWAS (n = 80,610), including 
+functional mapping and annotation (FUMA), transcriptome-wide association study 
+(TWAS), colocalization (COLOC), and summary data-based Mendelian randomization 
+analyses (SMR) in extensive multi-omics datasets. Gene property analysis 
+highlighted inhibitory neuron 6, oligodendrocytes, and GABAergic neurons 
+(Gad1/Gad2) as functional cell types of ALS and confirmed cerebellum and 
+cerebellar hemisphere as functional tissues of ALS. Functional annotation 
+detected the presence of multiple deleterious variants at three loci (9p21.2, 
+12q13.3, and 12q14.2) and highlighted a list of SNPs that are potentially 
+functional. TWAS, COLOC, and SMR identified 43 genes at 24 loci, including 23 
+novel genes and 10 novel loci, showing significant evidence of causality. 
+Integrating multiple lines of evidence, we further proposed that rs2453555 at 
+9p21.2 and rs229243 at 14q12 functionally contribute to the development of ALS 
+by regulating the expression of C9orf72 in pituitary and SCFD1 in skeletal 
+muscle, respectively. Together, these results advance our understanding of the 
+biological etiology of ALS, feed into new therapies, and provide a guide for 
+subsequent functional experiments.
+
+Copyright © 2022 Pan, Liu, Liu, Zhao, Dai, Wang, Jia and Liu.
+
+DOI: 10.3389/fgene.2022.917142
+PMCID: PMC9257137
+PMID: 35812739
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The reviewer YY declared a 
+shared parent affiliation with the authors ZZ and YD to the handling editor at 
+the time of the review.

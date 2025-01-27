@@ -1,0 +1,57 @@
+1. Proc Natl Acad Sci U S A. 2021 Jan 5;118(1):e2021958118. doi: 
+10.1073/pnas.2021958118.
+
+Single-molecule nanopore sequencing reveals extreme target copy number 
+heterogeneity in arylomycin-resistant mutants.
+
+Girgis HS(1), DuPai CD(2), Lund J(3), Reeder J(2), Guillory J(3), Durinck S(4), 
+Liang Y(3), Kaminker J(2), Smith PA(5), Skippington E(6).
+
+Author information:
+(1)Department of Infectious Diseases, Genentech, South San Francisco, CA 94080.
+(2)Department of OMNI Bioinformatics, Genentech, South San Francisco, CA 94080.
+(3)Department of Proteomics, Lipidomics and Next Generation Sequencing, 
+Genentech, South San Francisco, CA 94080.
+(4)Department of Oncology Bioinformatics, Genentech, South San Francisco, CA 
+94080.
+(5)Department of Infectious Diseases, Genentech, South San Francisco, CA 94080; 
+smith.peter@gene.com skippington.elizabeth@gene.com.
+(6)Department of OMNI Bioinformatics, Genentech, South San Francisco, CA 94080; 
+smith.peter@gene.com skippington.elizabeth@gene.com.
+
+Tandem gene amplification is a frequent and dynamic source of antibiotic 
+resistance in bacteria. Ongoing expansions and contractions of repeat arrays 
+during population growth are expected to manifest as cell-to-cell differences in 
+copy number (CN). As a result, a clonal bacterial culture could comprise 
+subpopulations of cells with different levels of antibiotic sensitivity that 
+result from variable gene dosage. Despite the high potential for 
+misclassification of heterogenous cell populations as either 
+antibiotic-susceptible or fully resistant in clinical settings, and the 
+concomitant risk of inappropriate treatment, CN distribution among cells has 
+defied analysis. Here, we use the MinION single-molecule nanopore sequencer to 
+uncover CN heterogeneity in clonal populations of Escherichia coli and 
+Acinetobacter baumannii grown from single cells isolated while selecting for 
+resistance to an optimized arylomycin, a member of a recently discovered class 
+of Gram-negative antibiotic. We found that gene amplification of the arylomycin 
+target, bacterial type I signal peptidase LepB, is a mechanism of unstable 
+arylomycin resistance and demonstrate in E. coli that amplification instability 
+is independent of RecA. This instability drives the emergence of a nonuniform 
+distribution of lepB CN among cells with a range of 1 to at least 50 copies of 
+lepB identified in a single clonal population. In sum, this remarkable 
+heterogeneity, and the evolutionary plasticity it fuels, illustrates how gene 
+amplification can enable bacterial populations to respond rapidly to novel 
+antibiotics. This study establishes a rationale for further nanopore-sequencing 
+studies of heterogeneous cell populations to uncover CN variability at 
+single-molecule resolution.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2021958118
+PMCID: PMC7817135
+PMID: 33443214 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interest statement: P.A.S. is listed 
+as an inventor on patent WO2017084630. H.S.G., C.D.D., J.R., J.L., S.D., Y.L., 
+J.K., P.A.S. and E.S. are employees of Genentech, a member of the Roche Group, 
+and are shareholders in Roche. J.G. is employed by Oxford Nanopore Technologies 
+Ltd.

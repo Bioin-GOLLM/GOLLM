@@ -1,0 +1,57 @@
+1. Front Behav Neurosci. 2022 Dec 8;16:1022713. doi: 10.3389/fnbeh.2022.1022713. 
+eCollection 2022.
+
+Temporal scaling and computing time in neural circuits: Should we stop watching 
+the clock and look for its gears?
+
+De Corte BJ(1)(2), Akdoğan B(1)(2), Balsam PD(1)(2)(3).
+
+Author information:
+(1)Department of Psychology, Columbia University, New York, NY, United States.
+(2)Division of Developmental Neuroscience, New York State Psychiatric Institute, 
+New York, NY, United States.
+(3)Department of Neuroscience and Behavior, Barnard College, New York, NY, 
+United States.
+
+Timing underlies a variety of functions, from walking to perceiving causality. 
+Neural timing models typically fall into one of two categories-"ramping" and 
+"population-clock" theories. According to ramping models, individual neurons 
+track time by gradually increasing or decreasing their activity as an event 
+approaches. To time different intervals, ramping neurons adjust their slopes, 
+ramping steeply for short intervals and vice versa. In contrast, according to 
+"population-clock" models, multiple neurons track time as a group, and each 
+neuron can fire nonlinearly. As each neuron changes its rate at each point in 
+time, a distinct pattern of activity emerges across the population. To time 
+different intervals, the brain learns the population patterns that coincide with 
+key events. Both model categories have empirical support. However, they often 
+differ in plausibility when applied to certain behavioral effects. Specifically, 
+behavioral data indicate that the timing system has a rich computational 
+capacity, allowing observers to spontaneously compute novel intervals from 
+previously learned ones. In population-clock theories, population patterns map 
+to time arbitrarily, making it difficult to explain how different patterns can 
+be computationally combined. Ramping models are viewed as more plausible, 
+assuming upstream circuits can set the slope of ramping neurons according to a 
+given computation. Critically, recent studies suggest that neurons with 
+nonlinear firing profiles often scale to time different intervals-compressing 
+for shorter intervals and stretching for longer ones. This "temporal scaling" 
+effect has led to a hybrid-theory where, like a population-clock model, 
+population patterns encode time, yet like a ramping neuron adjusting its slope, 
+the speed of each neuron's firing adapts to different intervals. Here, we argue 
+that these "relative" population-clock models are as computationally plausible 
+as ramping theories, viewing population-speed and ramp-slope adjustments as 
+equivalent. Therefore, we view identifying these "speed-control" circuits as a 
+key direction for evaluating how the timing system performs computations. 
+Furthermore, temporal scaling highlights that a key distinction between 
+different neural models is whether they propose an absolute or relative 
+time-representation. However, we note that several behavioral studies suggest 
+the brain processes both scales, cautioning against a dichotomy.
+
+Copyright © 2022 De Corte, Akdoğan and Balsam.
+
+DOI: 10.3389/fnbeh.2022.1022713
+PMCID: PMC9773401
+PMID: 36570701
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,38 @@
+1. Front Cell Dev Biol. 2022 Aug 19;10:942762. doi: 10.3389/fcell.2022.942762. 
+eCollection 2022.
+
+PanCircBase: An online resource for the exploration of circular RNAs in 
+pancreatic islets.
+
+Sinha T(1)(2), Mishra SS(1), Singh S(1)(2), Panda AC(1).
+
+Author information:
+(1)Institute of Life Sciences, Nalco Square, Bhubaneswar, Odisha, India.
+(2)Regional Center for Biotechnology, Faridabad, India.
+
+Circular RNAs (circRNAs) are a novel class of covalently closed RNA molecules 
+that recently emerged as a critical regulator of gene expression in development 
+and diseases. Recent research has highlighted the importance of novel circRNAs 
+in the biosynthesis and secretion of insulin from β-cells of pancreatic islets. 
+However, all circRNAs expressed in pancreatic islets or β-cells are not readily 
+available in the database. In this study, we analyzed publicly available 
+RNA-sequencing datasets of the pancreatic islets to catalog all circRNAs 
+expressed in pancreatic islets to construct the PanCircBase 
+(https://www.pancircbase.net/) database that provides the following resources: 
+1) pancreatic islet circRNA annotation details (genomic position, host gene, 
+exon information, splice length, sequence, other database IDs, cross-species 
+conservation), 2) divergent primers for PCR analysis of circRNAs, 3) siRNAs for 
+silencing of target circRNAs, 4) miRNAs associated with circRNAs, 5) possible 
+protein-coding circRNAs and their polypeptides. In summary, this is a 
+comprehensive online resource for exploring circRNA expression and its possible 
+function in pancreatic β-cells.
+
+Copyright © 2022 Sinha, Mishra, Singh and Panda.
+
+DOI: 10.3389/fcell.2022.942762
+PMCID: PMC9437246
+PMID: 36060809
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

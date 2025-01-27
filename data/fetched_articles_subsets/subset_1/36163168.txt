@@ -1,0 +1,60 @@
+1. Nat Commun. 2022 Sep 26;13(1):5632. doi: 10.1038/s41467-022-33290-0.
+
+RAS oncogenic activity predicts response to chemotherapy and outcome in lung 
+adenocarcinoma.
+
+East P(1), Kelly GP(1), Biswas D(2), Marani M(3), Hancock DC(3), Creasy T(4), 
+Sachsenmeier K(5), Swanton C(2); TRACERx consortium; Downward J(6)(7), de Carné 
+Trécesson S(8).
+
+Author information:
+(1)Bioinformatics and Biostatistics, The Francis Crick Institute, 1 Midland 
+Road, London, NW1 1AT, UK.
+(2)Cancer Evolution and Genome Instability Laboratory, The Francis Crick 
+Institute, 1 Midland Road, London, NW1 1AT, UK.
+(3)Oncogene Biology Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, UK.
+(4)Oncology Data Science, Oncology Research and Development, AstraZeneca, 200 
+Orchard Ridge Drive, Gaithersburg, MD, 20878, USA.
+(5)Oncology Research and Development, AstraZeneca, 35 Gatehouse Drive, Waltham, 
+MA, 02451, USA.
+(6)Oncogene Biology Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, UK. julian.downward@crick.ac.uk.
+(7)Lung Cancer Group, Institute of Cancer Research, 237 Fulham Road, London, SW3 
+6JB, UK. julian.downward@crick.ac.uk.
+(8)Oncogene Biology Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, UK. sophie.decarne@crick.ac.uk.
+
+Activating mutations in KRAS occur in 32% of lung adenocarcinomas (LUAD). 
+Despite leading to aggressive disease and resistance to therapy in preclinical 
+studies, the KRAS mutation does not predict patient outcome or response to 
+treatment, presumably due to additional events modulating RAS pathways. To 
+obtain a broader measure of RAS pathway activation, we developed RAS84, a 
+transcriptional signature optimised to capture RAS oncogenic activity in LUAD. 
+We report evidence of RAS pathway oncogenic activation in 84% of LUAD, including 
+65% KRAS wild-type tumours, falling into four groups characterised by coincident 
+alteration of STK11/LKB1, TP53 or CDKN2A, suggesting that the classifications 
+developed when considering only KRAS mutant tumours have significance in a 
+broader cohort of patients. Critically, high RAS activity patient groups show 
+adverse clinical outcome and reduced response to chemotherapy. Patient 
+stratification using oncogenic RAS transcriptional activity instead of genetic 
+alterations could ultimately assist in clinical decision-making.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-33290-0
+PMCID: PMC9512813
+PMID: 36163168 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.D. has acted as a consultant for AstraZeneca, 
+Bayer, Novartis, TheRas, Vividion, Jubilant and has received research funding 
+from AstraZeneca, Bristol Myers Squibb and Revolution Medicines. SCT has acted 
+as a consultant for Revolution Medicines. C.S. is a co-founder of Achilles 
+Therapeutics, receives grant support from Pfizer, AstraZeneca, BMS, 
+Roche–Ventana and Boehringer Ingelheim, has consulted for Pfizer, Novartis, 
+GlaxoSmithKline, MSD, BMS, Celgene, AstraZeneca, Illumina, Genentech, 
+Roche–Ventana, GRAIL, Medicxi and the Sarah Cannon Research Institute, is a 
+shareholder of ApoGen Biotechnologies, Epic Bioscience and GRAIL. K.S. and T.C. 
+were employees of AstraZeneca at the time the study was carried out. None of the 
+other authors of this manuscript have a financial or non-financial interest 
+related to this work.

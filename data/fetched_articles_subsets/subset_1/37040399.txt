@@ -1,0 +1,47 @@
+1. Proc Natl Acad Sci U S A. 2023 Apr 18;120(16):e2214430120. doi: 
+10.1073/pnas.2214430120. Epub 2023 Apr 11.
+
+A mutagenesis study of autoantigen optimization for potential T1D vaccine 
+design.
+
+Song Y(1), Bell DR(2)(3), Ahmed R(4), Chan KC(1), Lee S(2)(5), Hamad ARA(4), 
+Zhou R(1)(2)(6).
+
+Author information:
+(1)Institute of Quantitative Biology, College of Life Sciences, Zhejiang 
+University, Hangzhou 310058, China.
+(2)Computational Biological Center, International Business Machine (IBM) Thomas 
+J. Watson Research Center, Yorktown Heights, NY 10598.
+(3)Advanced Biomedical Computational Science, Frederick National Laboratory for 
+Cancer Research, Frederick, MD 21702.
+(4)Department of Pathology, Department of Medicine, Johns Hopkins University 
+School of Medicine, Baltimore, MD 21205.
+(5)Department of Biochemistry, Weill Cornell Medical College, New York, NY 
+10065.
+(6)Department of Chemistry, Columbia University, New York, NY 10027.
+
+A previously reported autoreactive antigen, termed the X-idiotype, isolated from 
+a unique cell population in Type 1 diabetes (T1D) patients, was found to 
+stimulate their CD4+ T cells. This antigen was previously determined to bind 
+more favorably than insulin and its mimic (insulin superagonist) to HLA-DQ8, 
+supporting its strong role in CD4+ T cell activation. In this work, we probed 
+HLA-X-idiotype-TCR binding and designed enhanced-reactive pHLA-TCR antigens 
+using an in silico mutagenesis approach which we functionally validated by cell 
+proliferation assays and flow cytometry. From a combination of single, double, 
+and swap mutations, we identified antigen-binding sites p4 and p6 as potential 
+mutation sites for HLA binding affinity enhancement. Site p6 is revealed to 
+favor smaller but more hydrophobic residues than the native tyrosine, such as 
+valine (Y6V) and isoleucine (Y6I), indicating a steric mechanism in binding 
+affinity improvement. Meanwhile, site p4 methionine mutation to hydrophobic 
+residues isoleucine (M4I) or leucine (M4L) modestly increases HLA binding 
+affinity. Select p6 mutations to cysteine (Y6C) or isoleucine (Y6I) exhibit 
+favorable TCR binding affinities, while a swap p5-p6 tyrosine-valine double 
+mutant (V5Y_Y6V) and a p6-p7 glutamine-glutamine double mutant (Y6Q_Y7Q) exhibit 
+enhanced HLA binding affinity but weakened TCR affinity. This work holds 
+relevance to potential T1D antigen-based vaccine design and optimization.
+
+DOI: 10.1073/pnas.2214430120
+PMCID: PMC10120010
+PMID: 37040399 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.

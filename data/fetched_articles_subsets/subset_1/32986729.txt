@@ -1,0 +1,57 @@
+1. PLoS One. 2020 Sep 28;15(9):e0238497. doi: 10.1371/journal.pone.0238497. 
+eCollection 2020.
+
+Signatures of somatic mutations and gene expression from p16INK4A positive head 
+and neck squamous cell carcinomas (HNSCC).
+
+Saba NF(1), Dinasarapu AR(2), Magliocca KR(1), Dwivedi B(1), Seby S(3), Qin 
+ZS(4), Patel M(1), Griffith CC(5), Wang X(1), El-Deiry M(1), Steuer CE(1), 
+Kowalski J(6), Shin DM(1), Zwick ME(2), Chen ZG(1)(7).
+
+Author information:
+(1)Winship Cancer Institute, Emory University, Atlanta, GA, United States of 
+America.
+(2)Department of Human Genetics, Emory University, Atlanta, GA, United States of 
+America.
+(3)Centers for Disease Control (CDC), Atlanta, GA, United States of America.
+(4)Department of Biostatistics and Bioinformatics, Emory University Atlanta, 
+Atlanta, GA, United States of America.
+(5)Department of Pathology, Cleveland Clinics, Cleveland, OH, United States of 
+America.
+(6)Department of Oncology, Dell Medical School, Austin, Texas, United States of 
+America.
+(7)Department of Hematology and Medical Oncology, Emory University Atlanta, 
+Atlanta, GA, United States of America.
+
+Erratum in
+    PLoS One. 2024 Aug 8;19(8):e0308819. doi: 10.1371/journal.pone.0308819.
+
+Human papilloma virus (HPV) causes a subset of head and neck squamous cell 
+carcinomas (HNSCC) of the oropharynx. We combined targeted DNA- and genome-wide 
+RNA-sequencing to identify genetic variants and gene expression signatures 
+respectively from patients with HNSCC including oropharyngeal squamous cell 
+carcinomas (OPSCC). DNA and RNA were purified from 35- formalin fixed and 
+paraffin embedded (FFPE) HNSCC tumor samples. Immuno-histochemical evaluation of 
+tumors was performed to determine the expression levels of p16INK4A and 
+classified tumor samples either p16+ or p16-. Using ClearSeq Comprehensive 
+Cancer panel, we examined the distribution of somatic mutations. Somatic 
+single-nucleotide variants (SNV) were called using GATK-Mutect2 ("tumor-only" 
+mode) approach. Using RNA-seq, we identified a catalog of 1,044 and 8 genes as 
+significantly expressed between p16+ and p16-, respectively at FDR 0.05 (5%) and 
+0.1 (10%). The clinicopathological characteristics of the patients including 
+anatomical site, smoking and survival were analyzed when comparing p16+ and p16- 
+tumors. The majority of tumors (65%) were p16+. Population sequence variant 
+databases, including gnomAD, ExAC, COSMIC and dbSNP, were used to identify the 
+mutational landscape of somatic sequence variants within sequenced genes. 
+Hierarchical clustering of The Cancer Genome Atlas (TCGA) samples based on 
+HPV-status was observed using differentially expressed genes. Using RNA-seq in 
+parallel with targeted DNA-seq, we identified mutational and gene expression 
+signatures characteristic of p16+ and p16- HNSCC. Our gene signatures are 
+consistent with previously published data including TCGA and support the need to 
+further explore the biologic relevance of these alterations in HNSCC.
+
+DOI: 10.1371/journal.pone.0238497
+PMCID: PMC7521680
+PMID: 32986729 [Indexed for MEDLINE]
+
+Conflict of interest statement: No Authors have competing interests.

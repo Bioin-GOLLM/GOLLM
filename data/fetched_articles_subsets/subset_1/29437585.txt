@@ -1,0 +1,78 @@
+1. Ann Rheum Dis. 2018 Jul;77(7):1039-1047. doi: 10.1136/annrheumdis-2017-212534.
+ Epub 2018 Feb 6.
+
+MR-PheWAS: exploring the causal effect of SUA level on multiple disease outcomes 
+by using genetic instruments in UK Biobank.
+
+Li X(#)(1), Meng X(#)(1), Spiliopoulou A(2), Timofeeva M(3), Wei WQ(4), Gifford 
+A(4), Shen X(1)(5), He Y(1)(6), Varley T(7), McKeigue P(2), Tzoulaki 
+I(8)(9)(10), Wright AF(11), Joshi P(1), Denny JC(4), Campbell H(1), Theodoratou 
+E(1)(12).
+
+Author information:
+(1)Centre for Global Health Research, Usher Institute of Population Health 
+Sciences and Informatics, University of Edinburgh, Edinburgh, UK.
+(2)Centre for Population Health Sciences, Usher Institute of Population Health 
+Sciences and Informatics, University of Edinburgh, Edinburgh, UK.
+(3)Colon Cancer Genetics Group, Medical Research Council Human Genetics Unit, 
+Medical Research Council, Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Edinburgh, UK.
+(4)Department of Biomedical Informatics, Vanderbilt University Medical Center, 
+Nashville, Tennessee, USA.
+(5)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden.
+(6)West China School of Medicine, West China Hospital, Sichuan University, 
+Sichuan, China.
+(7)Public Health and Intelligence, NHS National Services Scotland, Edinburgh, 
+UK.
+(8)Department Epidemiology and Biostatistics, School of Public Health, Imperial 
+College London, London, UK.
+(9)MRC-PHE Centre for Environment, School of Public Health, Imperial College 
+London, London, UK.
+(10)Department of Hygiene and Epidemiology, University of Ioannina Medical 
+School, Ioannina, Greece.
+(11)Medical Research Council Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Edinburgh, UK.
+(12)Edinburgh Cancer Research Centre, Institute of Genetics and Molecular 
+Medicine, University of Edinburgh, Edinburgh, UK.
+(#)Contributed equally
+
+OBJECTIVES: We aimed to investigate the role of serum uric acid (SUA) level in a 
+broad spectrum of disease outcomes using data for 120 091 individuals from UK 
+Biobank.
+METHODS: We performed a phenome-wide association study (PheWAS) to identify 
+disease outcomes associated with SUA genetic risk loci. We then implemented 
+conventional Mendelianrandomisation (MR) analysis to investigate the causal 
+relevance between SUA level and disease outcomes identified from PheWAS. We next 
+applied MR Egger analysis to detect and account for potential pleiotropy, which 
+conventional MR analysis might mistake for causality, and used the HEIDI 
+(heterogeneity in dependent instruments) test to remove cross-phenotype 
+associations that were likely due to genetic linkage.
+RESULTS: Our PheWAS identified 25 disease groups/outcomes associated with SUA 
+genetic risk loci after multiple testing correction (P<8.57e-05). Our 
+conventional MR analysis implicated a causal role of SUA level in three disease 
+groups: inflammatory polyarthropathies (OR=1.22, 95% CI 1.11 to 1.34), 
+hypertensive disease (OR=1.08, 95% CI 1.03 to 1.14) and disorders of metabolism 
+(OR=1.07, 95% CI 1.01 to 1.14); and four disease outcomes: gout (OR=4.88, 95% CI 
+3.91 to 6.09), essential hypertension (OR=1.08, 95% CI 1.03 to 1.14), myocardial 
+infarction (OR=1.16, 95% CI 1.03 to 1.30) and coeliac disease (OR=1.41, 95% CI 
+1.05 to 1.89). After balancing pleiotropic effects in MR Egger analysis, only 
+gout and its encompassing disease group of inflammatory polyarthropathies were 
+considered to be causally associated with SUA level. Our analysis highlighted a 
+locus (ATXN2/S2HB3) that may influence SUA level and multiple cardiovascular and 
+autoimmune diseases via pleiotropy.
+CONCLUSIONS: Elevated SUA level is convincing to cause gout and inflammatory 
+polyarthropathies, and might act as a marker for the wider range of diseases 
+with which it associates. Our findings support further investigation on the 
+clinical relevance of SUA level with cardiovascular, metabolic, autoimmune and 
+respiratory diseases.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/annrheumdis-2017-212534
+PMCID: PMC6029646
+PMID: 29437585 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

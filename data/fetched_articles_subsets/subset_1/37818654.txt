@@ -1,0 +1,41 @@
+1. J Int Med Res. 2023 Oct;51(10):3000605231202141. doi:
+10.1177/03000605231202141.
+
+Machine learning-based analysis of risk factors for chronic total occlusion in 
+an Asian population.
+
+Shi Y(1), Cheng Z(1), Jian W(1), Liu Y(1), Liu J(1).
+
+Author information:
+(1)Center for Coronary Artery Disease (CCAD), Beijing Anzhen Hospital, Capital 
+Medical University, and Beijing Institute of Heart, Lung and Blood Vessel 
+Diseases, Beijing, China.
+
+OBJECTIVES: Chronic total occlusion (CTO) is a form of coronary artery disease 
+(CAD) requiring percutaneous coronary intervention. There has been minimal 
+research regarding CTO-specific risk factors and predictive models. We developed 
+machine learning predictive models based on clinical characteristics to identify 
+patients with CTO before coronary angiography.
+METHODS: Data from 1473 patients with CAD, including 317 patients with and 1156 
+patients without CTO, were retrospectively analyzed. Partial least squares 
+discriminant analysis (PLS-DA), random forest (RF), and support vector machine 
+(SVM) models were used to identify CTO-specific risk factors and predict CTO 
+development. Receiver operating characteristic (ROC) curve analysis was 
+performed for model validation.
+RESULTS: For CTO prediction, the PLS-DA model included 10 variables; the ROC 
+value was 0.706. The RF model included 42 variables; the ROC value was 0.702. 
+The SVM model included 20 variables; the ROC value was 0.696. DeLong's test 
+showed no difference among the three models. Four variables were present in all 
+models: sex, neutrophil percentage, creatinine, and brain natriuretic peptide 
+(BNP).
+CONCLUSIONS: Validation of machine learning prediction models for CTO revealed 
+that the PLS-DA model had the best prediction performance. Sex, neutrophil 
+percentage, creatinine, and BNP may be important risk factors for CTO 
+development.
+
+DOI: 10.1177/03000605231202141
+PMCID: PMC10566279
+PMID: 37818654 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interestsThe authors 
+declare that there is no conflict of interest.

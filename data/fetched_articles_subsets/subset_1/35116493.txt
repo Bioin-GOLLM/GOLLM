@@ -1,0 +1,46 @@
+1. Transl Cancer Res. 2021 Apr;10(4):1679-1691. doi: 10.21037/tcr-20-3220.
+
+Integrated bioinformatics analysis to identify key genes related to the 
+prognosis of esophageal squamous cell carcinoma.
+
+Yang Y(1), Sun Z(1), Shi Y(1), Sun J(1), Zhang X(1).
+
+Author information:
+(1)The VIP-II Gastrointestinal Cancer Division of Medical Department, Key 
+Laboratory of Carcinogenesis & Translational Research (Ministry of Education), 
+Peking University Cancer Hospital & Institute, Beijing, China.
+
+BACKGROUND: Esophageal squamous cell carcinoma (ESCC) is a serious threat to 
+human health and life. The National Center for Biotechnology Information Gene 
+Expression Omnibus (NCBI-GEO) database provides valuable information on genes 
+related to the pathogenesis and prognosis of ESCC, which helps us to make 
+in-depth understanding about the disease and improve its prognosis.
+METHODS: Four microarray profiles [GSE77861 (African Americans), GSE26886 
+(Germans), GSE17351 (Americans), and GSE45670 (Chinese)] from the NCBI-GEO 
+including 49 ESCC tissues and 41 corresponding normal tissues were collected. 
+Integrated bioinformatics methods, including protein-protein interaction (PPI) 
+network analysis, Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes 
+(KEGG) pathway enrichment analyses, and Kaplan-Meier plotter were applied to 
+determine the differentially expressed genes (DEGs) in ESCC together with their 
+core functions and relationship with survival.
+RESULTS: A total of 220 upregulated and 112 downregulated genes were identified 
+as DEGs in ESCC, of which, 40 upregulated genes were core function genes. The 
+DEGs were mostly involved in DNA replication and cell cycle pathways. Survival 
+analysis and Bonferroni adjustment showed kinesin family member 18A (KIF18A) and 
+TTK protein kinase (TTK) to be related to prognosis in ESCC.
+CONCLUSIONS: The findings of the present study verified the previously proposed 
+association between TTK and patient survival in ESCC, and identified KIF18A as 
+ESCC prognosis-related gene markers for the first time. The underlying mechanism 
+needs to be further investigated using larger sample size studies and biological 
+experiments in future.
+
+2021 Translational Cancer Research. All rights reserved.
+
+DOI: 10.21037/tcr-20-3220
+PMCID: PMC8798886
+PMID: 35116493
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+http://dx.doi.org/10.21037/tcr-20-3220). The authors have no conflicts of 
+interest to declare.

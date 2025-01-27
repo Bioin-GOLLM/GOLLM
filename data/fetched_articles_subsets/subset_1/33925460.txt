@@ -1,0 +1,44 @@
+1. Biology (Basel). 2021 Apr 27;10(5):375. doi: 10.3390/biology10050375.
+
+Identification of an 11-Autophagy-Related-Gene Signature as Promising Prognostic 
+Biomarker for Bladder Cancer Patients.
+
+Zhou C(1), Li AH(1), Liu S(1), Sun H(1).
+
+Author information:
+(1)Department of Environmental Medicine, New York University School of Medicine, 
+341 East 25 Street, New York, NY 10010, USA.
+
+BACKGROUND: Survival rates for highly invasive bladder cancer (BC) patients have 
+been very low, with a 5-year survival rate of 6%. Accurate prediction of tumor 
+progression and survival is important for diagnosis and therapeutic decisions 
+for BC patients. Our study aims to develop an autophagy-related-gene (ARG) 
+signature that helps to predict the survival of BC patients.
+METHODS: RNA-seq data of 403 BC patients were retrieved from The Cancer Genome 
+Atlas Urothelial Bladder Carcinoma (TCGA-BLCA) database. Univariate Cox 
+regression analysis was performed to identify overall survival (OS)-related 
+ARGs. The Lasso Cox regression model was applied to establish an ARG signature 
+in the TCGA training cohort (N = 203). The performance of the 11-gene ARG 
+signature was further evaluated in a training cohort and an independent 
+validation cohort (N = 200) using Kaplan-Meier OS curve analysis, receiver 
+operating characteristic (ROC) analysis, as well as univariate and multivariate 
+Cox regression analysis.
+RESULTS: Our study identified an 11-gene ARG signature that is significantly 
+associated with OS, including APOL1, ATG4B, BAG1, CASP3, DRAM1, ITGA3, KLHL24, 
+P4HB, PRKCD, ULK2, and WDR45. The ARGs-derived high-risk bladder cancer patients 
+exhibited significantly poor OS in both training and validation cohorts. The 
+prognostic model showed good predictive efficacy, with the area under the ROC 
+curve (AUCs) for 1-year, 3-year, and 5-year overall survival of 0.702 (0.695), 
+0.744 (0.640), and 0.794 (0.658) in the training and validation cohorts, 
+respectively. A prognostic nomogram, which included the ARGs-derived risk 
+factor, age and stage for eventual clinical translation, was established.
+CONCLUSION: We identified a novel ARG signature for risk-stratification and 
+robust prediction of overall survival for BC patients.
+
+DOI: 10.3390/biology10050375
+PMCID: PMC8146553
+PMID: 33925460
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

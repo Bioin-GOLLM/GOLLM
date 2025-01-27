@@ -1,0 +1,46 @@
+1. J Mol Graph Model. 2020 Nov;100:107657. doi: 10.1016/j.jmgm.2020.107657. Epub 
+2020 Jun 24.
+
+Computational reverse engineering of the lipase from Pseudomonas aeruginosa 
+PAO1: α-helices.
+
+Elatico AJJ(1), Nellas RB(2).
+
+Author information:
+(1)Institute of Chemistry, College of Science, University of the Philippines 
+Diliman, Quezon City, Philippines.
+(2)Institute of Chemistry, College of Science, University of the Philippines 
+Diliman, Quezon City, Philippines. Electronic address: rbnellas@up.edu.ph.
+
+Lipases are important enzymes in many biochemical industries, thus making them 
+attractive targets for protein engineering to improve enzymatic properties. In 
+this work, a ''reverse engineering'' approach was explored: disrupt secondary 
+structures to determine their contribution to enzyme stability and activity. All 
+the α-helices of the lipase from Pseudomonas aeruginosa PAO1 (PAL) were 
+systematically disrupted using computational proline mutagenesis and molecular 
+dynamics (MD) simulations. This method identified the α3 mutant (R89P), located 
+within the vicinity of the active site, to be significantly important for 
+stability and activity. In addition, the α6 system (L159P), part of the ''cap'' 
+domain that regulates substrate entry into the active site, was found to be 
+critical for activity as it pushed the lipase to adopt a completely closed 
+conformation. The perturbation introduced by the proline mutations resulted in 
+increased backbone flexibility that significantly decreased protein stability. 
+Moreover, mutations within the cap domain helices - α4 (A115P), α5 (S132P, 
+G139P), α6 (L159P), and α7 (R169P) - resulted in increased flexibility of the 
+N-terminal region of the α5 helix, the mobile ''lid'' helix, that pushes the 
+gorge into a partially closed conformation. The α6 mutation (L159P) further 
+increased the flexibility of the helix-loop region at the C-terminal end of the 
+α5 helix to push the lid into the fully closed state. Therefore, the α3 and α6 
+helices could be ''hot spots'' for stabilizing mutations that could improve the 
+overall enzyme stability and activity this lipase. The insights obtained in this 
+work may be validated experimentally in future works.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jmgm.2020.107657
+PMID: 32712552 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

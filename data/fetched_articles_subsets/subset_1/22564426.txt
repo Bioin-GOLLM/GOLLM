@@ -1,0 +1,44 @@
+1. BMC Res Notes. 2012 May 8;5:222. doi: 10.1186/1756-0500-5-222.
+
+Bone to pick: the importance of evaluating reference genes for RT-qPCR 
+quantification of gene expression in craniosynostosis and bone-related tissues 
+and cells.
+
+Yang X(1), Hatfield JT, Hinze SJ, Mu X, Anderson PJ, Powell BC.
+
+Author information:
+(1)Department of Plastic and Reconstructive Surgery, Shanghai Ninth People’s 
+Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+
+BACKGROUND: RT-qPCR is a common tool for quantification of gene expression, but 
+its accuracy is dependent on the choice and stability (steady state expression 
+levels) of the reference gene/s used for normalization. To date, in the bone 
+field, there have been few studies to determine the most stable reference genes 
+and, usually, RT-qPCR data is normalised to non-validated reference genes, most 
+commonly GAPDH, ACTB and 18 S rRNA. Here we draw attention to the potential 
+deleterious impact of using classical reference genes to normalise expression 
+data for bone studies without prior validation of their stability.
+RESULTS: Using the geNorm and Normfinder programs, panels of mouse and human 
+genes were assessed for their stability under three different experimental 
+conditions: 1) disease progression of Crouzon syndrome (craniosynostosis) in a 
+mouse model, 2) proliferative culture of cranial suture cells isolated from 
+craniosynostosis patients and 3) osteogenesis of a mouse bone marrow stromal 
+cell line. We demonstrate that classical reference genes are not always the most 
+'stable' genes and that gene 'stability' is highly dependent on experimental 
+conditions. Selected stable genes, individually or in combination, were then 
+used to normalise osteocalcin and alkaline phosphatase gene expression data 
+during cranial suture fusion in the craniosynostosis mouse model and strategies 
+compared. Strikingly, the expression trends of alkaline phosphatase and 
+osteocalcin varied significantly when normalised to the least stable, the most 
+stable or the three most stable genes.
+CONCLUSION: To minimise errors in evaluating gene expression levels, analysis of 
+a reference panel and subsequent normalization to several stable genes is 
+strongly recommended over normalization to a single gene. In particular, we 
+conclude that use of single, non-validated "housekeeping" genes such as GAPDH, 
+ACTB and 18 S rRNA, currently a widespread practice by researchers in the bone 
+field, is likely to produce data of questionable reliability when changes are 2 
+fold or less, and such data should be interpreted with due caution.
+
+DOI: 10.1186/1756-0500-5-222
+PMCID: PMC3476976
+PMID: 22564426 [Indexed for MEDLINE]

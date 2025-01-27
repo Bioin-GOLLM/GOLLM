@@ -1,0 +1,45 @@
+1. J Phys Chem B. 2022 Dec 8;126(48):10034-10044. doi: 10.1021/acs.jpcb.2c06235. 
+Epub 2022 Nov 25.
+
+Path Sampling Simulations Reveal How the Q61L Mutation Alters the Dynamics of 
+KRas.
+
+Roet S(1)(2), Hooft F(1), Bolhuis PG(1), Swenson DWH(1)(3), Vreede J(1).
+
+Author information:
+(1)Van't Hoff Institute for Molecular Sciences, University of Amsterdam, Science 
+Park 904, 1098 XHAmsterdam, The Netherlands.
+(2)Department of Chemistry, Norwegian University of Science and Technology 
+(NTNU), NO-7491Trondheim, Norway.
+(3)Laboratoire de Physique and Centre Blaise Pascal, CNRS, Univ Lyon, ENS de 
+Lyon, Univ Claude Bernard, 69007Lyon, France.
+
+Flexibility is essential for many proteins to function, but can be difficult to 
+characterize. Experiments lack resolution in space and time, while the time 
+scales involved are prohibitively long for straightforward molecular dynamics 
+simulations. In this work, we present a multiple state transition path sampling 
+simulation study of a protein that has been notoriously difficult to 
+characterize in its active state. The GTPase enzyme KRas is a signal 
+transduction protein in pathways for cell differentiation, growth, and division. 
+When active, KRas tightly binds guanosine triphosphate (GTP) in a rigid state. 
+The protein-GTP complex can also visit more flexible states, in which it is not 
+active. KRas mutations can affect the conversion between these rigid and 
+flexible states, thus prolonging the activation of signal transduction pathways, 
+which may result in tumor formation. In this work, we apply path sampling 
+simulations to investigate the dynamic behavior of KRas-4B (wild type, WT) and 
+the oncogenic mutant Q61L (Q61L). Our results show that KRas visits several 
+conformational states, which are the same for WT and Q61L. The multiple state 
+transition path sampling (MSTPS) method samples transitions between the 
+different states in a single calculation. Tracking which transitions occur shows 
+large differences between WT and Q61L. The MSTPS results further reveal that for 
+Q61L, a route to a more flexible state is inaccessible, thus shifting the 
+equilibrium to more rigid states. The methodology presented here enables a 
+detailed characterization of protein flexibility on time scales not accessible 
+with brute-force molecular dynamics simulations.
+
+DOI: 10.1021/acs.jpcb.2c06235
+PMCID: PMC9743084
+PMID: 36427204 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

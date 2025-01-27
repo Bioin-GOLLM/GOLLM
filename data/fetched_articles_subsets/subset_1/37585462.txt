@@ -1,0 +1,44 @@
+1. Proc Natl Acad Sci U S A. 2023 Aug 22;120(34):e2305142120. doi: 
+10.1073/pnas.2305142120. Epub 2023 Aug 16.
+
+Organelle-dependent polyprotein designs enable stoichiometric expression of 
+nitrogen fixation components targeted to mitochondria.
+
+Yang J(#)(1), Xiang N(#)(1), Liu Y(1), Guo C(1), Li C(1), Li H(1), Cai S(1), 
+Dixon R(2), Wang YP(1).
+
+Author information:
+(1)State Key Laboratory of Protein and Plant Gene Research, School of Advanced 
+Agricultural Sciences and School of Life Sciences, Peking University, Beijing 
+100871, China.
+(2)Department of Molecular Microbiology, John Innes Centre, NR4 7UH Norwich, 
+United Kingdom.
+(#)Contributed equally
+
+Introducing nitrogen fixation (nif   ) genes into eukaryotic genomes and 
+targeting Nif components to mitochondria or chloroplasts is a promising strategy 
+for engineering nitrogen-fixing plants. A prerequisite for achieving nitrogen 
+fixation in crops is stable and stoichiometric expression of each component in 
+organelles. Previously, we designed a polyprotein-based nitrogenase system 
+depending on Tobacco Etch Virus protease (TEVp) to release functional Nif 
+components from five polyproteins. Although this system satisfies the demand for 
+specific expression ratios of Nif components in Escherichia coli, we encountered 
+issues with TEVp cleavage of polyproteins targeted to yeast mitochondria. To 
+overcome this obstacle, a version of the Nif polyprotein system was constructed 
+by replacing TEVp cleavage sites with minimal peptide sequences, identified by 
+knowledge-based engineering, that are susceptible to cleavage by the endogenous 
+mitochondrial-processing peptidase. This replacement not only further reduces 
+the number of genes required, but also prevents potential precleavage of 
+polyproteins outside the target organelle. This version of the polyprotein-based 
+nitrogenase system achieved levels of nitrogenase activity in E. coli, 
+comparable to those observed with the TEVp-based polyprotein nitrogenase system. 
+When applied to yeast mitochondria, stable and balanced expression of Nif 
+components was realized. This strategy has potential advantages, not only for 
+transferring nitrogen fixation to eukaryotic cells, but also for the engineering 
+of other metabolic pathways that require mitochondrial compartmentalization.
+
+DOI: 10.1073/pnas.2305142120
+PMCID: PMC10450427
+PMID: 37585462 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.

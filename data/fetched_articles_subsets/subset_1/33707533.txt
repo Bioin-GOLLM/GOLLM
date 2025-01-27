@@ -1,0 +1,58 @@
+1. Sci Rep. 2021 Mar 11;11(1):5729. doi: 10.1038/s41598-021-85100-0.
+
+Pseudomonas aeruginosa PA80 is a cystic fibrosis isolate deficient in RhlRI 
+quorum sensing.
+
+Ahmed SAKS(#)(1), Rudden M(#)(2), Elias SM(1), Smyth TJ(3), Marchant R(4), Banat 
+IM(4), Dooley JSG(5).
+
+Author information:
+(1)School of Environment and Life Sciences, Independent University, Bangladesh 
+(IUB), Dhaka, Bangladesh.
+(2)Department of Biology, University of York, Wentworth, York, YO10 5DD, UK.
+(3)School of Science, Institute of Technology Sligo, Sligo, Ireland.
+(4)School of Biomedical Sciences, Ulster University, Coleraine, UK.
+(5)School of Biomedical Sciences, Ulster University, Coleraine, UK. 
+jsg.dooley@ulster.ac.uk.
+(#)Contributed equally
+
+Pseudomonas aeruginosa uses quorum sensing (QS) to modulate the expression of 
+several virulence factors that enable it to establish severe infections. The QS 
+system in P. aeruginosa is complex, intricate and is dominated by two main 
+N-acyl-homoserine lactone circuits, LasRI and RhlRI. These two QS systems work 
+in a hierarchical fashion with LasRI at the top, directly regulating RhlRI. 
+Together these QS circuits regulate several virulence associated genes, 
+metabolites, and enzymes in P. aeruginosa. Paradoxically, LasR mutants are 
+frequently isolated from chronic P. aeruginosa infections, typically among 
+cystic fibrosis (CF) patients. This suggests P. aeruginosa can undergo 
+significant evolutionary pathoadaptation to persist in long term chronic 
+infections. In contrast, mutations in the RhlRI system are less common. Here, we 
+have isolated a clinical strain of P. aeruginosa from a CF patient that has 
+deleted the transcriptional regulator RhlR entirely. Whole genome sequencing 
+shows the rhlR locus is deleted in PA80 alongside a few non-synonymous mutations 
+in virulence factors including protease lasA and rhamnolipid rhlA, rhlB, rhlC. 
+Importantly we did not observe any mutations in the LasRI QS system. PA80 does 
+not appear to have an accumulation of mutations typically associated with 
+several hallmark pathoadaptive genes (i.e., mexT, mucA, algR, rpoN, exsS, ampR). 
+Whole genome comparisons show that P. aeruginosa strain PA80 is closely related 
+to the hypervirulent Liverpool epidemic strain (LES) LESB58. PA80 also contains 
+several genomic islands (GI's) encoding virulence and/or resistance determinants 
+homologous to LESB58. To further understand the effect of these mutations in 
+PA80 QS regulatory and virulence associated genes, we compared transcriptional 
+expression of genes and phenotypic effects with isogenic mutants in the genetic 
+reference strain PAO1. In PAO1, we show that deletion of rhlR has a much more 
+significant impact on the expression of a wide range of virulence associated 
+factors rather than deletion of lasR. In PA80, no QS regulatory genes were 
+expressed, which we attribute to the inactivation of the RhlRI QS system by 
+deletion of rhlR and mutation of rhlI. This study demonstrates that inactivation 
+of the LasRI system does not impact RhlRI regulated virulence factors. PA80 has 
+bypassed the common pathoadaptive mutations observed in LasR by targeting the 
+RhlRI system. This suggests that RhlRI is a significant target for the long-term 
+persistence of P. aeruginosa in chronic CF patients. This raises important 
+questions in targeting QS systems for therapeutic interventions.
+
+DOI: 10.1038/s41598-021-85100-0
+PMCID: PMC7970962
+PMID: 33707533 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

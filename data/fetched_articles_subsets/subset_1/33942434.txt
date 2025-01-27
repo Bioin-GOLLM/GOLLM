@@ -1,0 +1,41 @@
+1. Hum Mutat. 2021 Jul;42(7):799-810. doi: 10.1002/humu.24212. Epub 2021 May 20.
+
+Benchmarking deep learning splice prediction tools using functional splice 
+assays.
+
+Riepe TV(1)(2), Khan M(2), Roosing S(2), Cremers FPM(2), 't Hoen PAC(1).
+
+Author information:
+(1)Centre for Molecular and Biomolecular Informatics, Radboud Institute for 
+Molecular Life Sciences, Radboud University Medical Center, Nijmegen, The 
+Netherlands.
+(2)Department of Human Genetics and Donders Institute for Brain, Cognition and 
+Behavior, Radboud University Medical Center, Nijmegen, The Netherlands.
+
+Hereditary disorders are frequently caused by genetic variants that affect 
+pre-messenger RNA splicing. Though genetic variants in the canonical splice 
+motifs are almost always disrupting splicing, the pathogenicity of variants in 
+the noncanonical splice sites (NCSS) and deep intronic (DI) regions are 
+difficult to predict. Multiple splice prediction tools have been developed for 
+this purpose, with the latest tools employing deep learning algorithms. We 
+benchmarked established and deep learning splice prediction tools on published 
+gold standard sets of 71 NCSS and 81 DI variants in the ABCA4 gene and 61 NCSS 
+variants in the MYBPC3 gene with functional assessment in midigene and minigene 
+splice assays. The selection of splice prediction tools included CADD, DSSP, 
+GeneSplicer, MaxEntScan, MMSplice, NNSPLICE, SPIDEX, SpliceAI, SpliceRover, and 
+SpliceSiteFinder-like. The best-performing splice prediction tool for the 
+different variants was SpliceRover for ABCA4 NCSS variants, SpliceAI for ABCA4 
+DI variants, and the Alamut 3/4 consensus approach (GeneSplicer, MaxEntScacn, 
+NNSPLICE and SpliceSiteFinder-like) for NCSS variants in MYBPC3 based on the 
+area under the receiver operator curve. Overall, the performance in a real-time 
+clinical setting is much more modest than reported by the developers of the 
+tools.
+
+© 2021 The Authors. Human Mutation published by Wiley Periodicals LLC.
+
+DOI: 10.1002/humu.24212
+PMCID: PMC8360004
+PMID: 33942434 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no 
+conflict of interests.

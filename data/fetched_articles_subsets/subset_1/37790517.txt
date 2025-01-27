@@ -1,0 +1,60 @@
+1. Res Sq [Preprint]. 2023 Sep 11:rs.3.rs-3317816. doi: 
+10.21203/rs.3.rs-3317816/v1.
+
+Adaptive rewiring of purine metabolism promotes treatment resistance in 
+H3K27M-mutant diffuse midline glioma.
+
+Peterson ER(1), Sajjakulnukit P(1), Scott AJ(1), Heaslip C(2), Andren A(1), 
+Wilder-Romans K(1), Zhou W(1), Palavalasa S(1), Korimerla N(1), Lin A(1), Obrien 
+A(1), Kothari A(1), Zhao Z(1), Zhang L(1), Morgan MA(1), Venneti S(1), Koschmann 
+C(1), Jabado N(3), Lyssiotis CA(1), Castro MG(1), Wahl DR(1).
+
+Author information:
+(1)University of Michigan.
+(2)Massachusetts College of Pharmacy and Health Sciences.
+(3)McGill University.
+
+Update in
+    Cancer Metab. 2024 Apr 9;12(1):11. doi: 10.1186/s40170-024-00341-7.
+
+BACKGROUND: Diffuse midline gliomas (DMG), including diffuse intrinsic pontine 
+gliomas (DIPGs), are a fatal form of brain cancer. These tumors often carry a 
+driver mutation on histone H3 converting lysine 27 to methionine (H3K27M). 
+DMG-H3K27M are characterized by altered metabolism and resistance to standard of 
+care radiation (RT), but how the H3K27M mediates the metabolic response to 
+radiation and consequent treatment resistance is uncertain.
+METHODS: We performed metabolomics on irradiated and untreated H3K27M isogenic 
+DMG cell lines and observed an H3K27M-specific enrichment for purine synthesis 
+pathways. We profiled the expression of purine synthesis enzymes in publicly 
+available patient data and in our models, quantified purine synthetic flux using 
+stable isotope tracing, and characterized the in vitro and in vivo response to 
+de novo and salvage purine synthesis inhibition in combination with RT.
+RESULTS: DMG-H3K27M cells activate purine metabolism in an H3K27M-specific 
+fashion. In the absence of genotoxic treatment, H3K27M-expressing cells have 
+higher relative activity of de novosynthesis and lower activity of purine 
+salvage due to decreased expression of the purine salvage enzymes. Inhibition of 
+de novo synthesis radiosensitized DMG-H3K27M cells in vitro and in vivo. 
+Irradiated H3K27M cells adaptively upregulate purine salvage enzyme expression 
+and pathway activity. Silencing the rate limiting enzyme in purine salvage, 
+hypoxanthine guanine phosphoribosyl transferase (HGPRT) when combined with 
+radiation markedly suppressed DMG-H3K27M tumor growth in vivo.
+CONCLUSIONS: H3K27M expressing cells rely on de novo purine synthesis but 
+adaptively upregulate purine salvage in response to RT. Inhibiting purine 
+salvage may help overcome treatment resistance in DMG-H3K27M tumors.
+
+DOI: 10.21203/rs.3.rs-3317816/v1
+PMCID: PMC10543500
+PMID: 37790517
+
+Conflict of interest statement: Declarations Competing interests CAL is a member 
+of the Editorial Board of Cancer & Metabolism, and has received consulting fees 
+from Astellas Pharmaceuticals, Odyssey Therapeutics, and T-Knife Therapeutics, 
+and is an inventor on patents pertaining to KRAS-regulated metabolic pathways, 
+redox control pathways in pancreatic cancer, and targeting the GOT1-pathway as a 
+therapeutic approach (US patent 2015126580-A1, 05/07/2015; US patent 
+20190136238, 05/09/2019; international patent WO2013177426-A2, 04/23/2015). DRW 
+has received consulting fees from Agios Pharmaceuticals and Innocrin 
+Pharmaceuticals and is an inventor on patents pertaining to the treatment of 
+patients with brain tumors (U.S. Provisional Patent Application 63/416,146, U.S. 
+Provisional Patent Application 62/744,342, U.S. Provisional Patent Applicant 
+62/724,337).

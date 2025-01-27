@@ -1,0 +1,63 @@
+1. Front Genet. 2020 Feb 27;10:1406. doi: 10.3389/fgene.2019.01406. eCollection 
+2019.
+
+Single-Nucleotide Polymorphisms (SNP) Mining and Their Effect on the 
+Tridimensional Protein Structure Prediction in a Set of Immunity-Related 
+Expressed Sequence Tags (EST) in Atlantic Salmon (Salmo salar).
+
+Vallejos-Vidal E(1), Reyes-Cerpa S(2)(3), Rivas-Pardo JA(2)(3), Maisey K(4), 
+Yáñez JM(5), Valenzuela H(4), Cea PA(6), Castro-Fernandez V(6), Tort L(1), 
+Sandino AM(4), Imarai M(4), Reyes-López FE(1).
+
+Author information:
+(1)Department of Cell Biology, Physiology and Immunology, Faculty of 
+Biosciences, Universitat Autònoma de Barcelona, Barcelona, Spain.
+(2)Centro de Genómica y Bioinformática, Facultad de Ciencias, Universidad Mayor, 
+Santiago, Chile.
+(3)Escuela de Biotecnología, Facultad de Ciencias, Universidad Mayor, Santiago, 
+Chile.
+(4)Centro de Biotecnología Acuícola, Departamento de Biología, Facultad de 
+Química y Biología, Universidad de Santiago de Chile, Santiago, Chile.
+(5)Facultad de Ciencias Veterinarias y Pecuarias, Universidad de Chile, 
+Santiago, Chile.
+(6)Facultad de Ciencias, Universidad de Chile, Santiago, Chile.
+
+Single-nucleotide polymorphisms (SNPs) are single genetic code variations 
+considered one of the most common forms of nucleotide modifications. Such SNPs 
+can be located in genes associated to immune response and, therefore, they may 
+have direct implications over the phenotype of susceptibility to infections 
+affecting the productive sector. In this study, a set of immune-related genes 
+(cc motif chemokine 19 precursor [ccl19], integrin β2 (itβ2, also named cd18), 
+glutathione transferase omega-1 [gsto-1], heat shock 70 KDa protein [hsp70], 
+major histocompatibility complex class I [mhc-I]) were analyzed to identify SNPs 
+by data mining. These genes were chosen based on their previously reported 
+expression on infectious pancreatic necrosis virus (IPNV)-infected Atlantic 
+salmon phenotype. The available EST sequences for these genes were obtained from 
+the Unigene database. Twenty-eight SNPs were found in the genes evaluated and 
+identified most of them as transition base changes. The effect of the SNPs 
+located on the 5'-untranslated region (UTR) or 3'-UTR upon transcription factor 
+binding sites and alternative splicing regulatory motifs was assessed and ranked 
+with a low-medium predicted FASTSNP score risk. Synonymous SNPs were found on 
+itβ2 (c.2275G > A), gsto-1 (c.558G > A), and hsp70 (c.1950C > T) with low 
+FASTSNP predicted score risk. The difference in the relative synonymous codon 
+usage (RSCU) value between the variant codons and the wild-type codon (ΔRSCU) 
+showed one negative (hsp70 c.1950C > T) and two positive ΔRSCU values (itβ2 
+c.2275G > A; gsto-1 c.558G > A), suggesting that these synonymous SNPs (sSNPs) 
+may be associated to differences in the local rate of elongation. Nonsynonymous 
+SNPs (nsSNPs) in the gsto-1 translatable gene region were ranked, using SIFT and 
+POLYPHEN web-tools, with the second highest (c.205A > G; c484T > C) and the 
+highest (c.499T > C; c.769A > C) predicted score risk possible. Using homology 
+modeling to predict the effect of these nonsynonymous SNPs, the most relevant 
+nucleotide changes for gsto-1 were observed for the nsSNPs c.205A > G, c484T > 
+C, and c.769A > C. Molecular dynamics was assessed to analyze if these GSTO-1 
+variants have significant differences in their conformational dynamics, 
+suggesting these SNPs could have allosteric effects modulating its catalysis. 
+Altogether, these results suggest that candidate SNPs identified may play a 
+crucial potential role in the immune response of Atlantic salmon.
+
+Copyright © 2020 Vallejos-Vidal, Reyes-Cerpa, Rivas-Pardo, Maisey, Yáñez, 
+Valenzuela, Cea, Castro-Fernandez, Tort, Sandino, Imarai and Reyes-López.
+
+DOI: 10.3389/fgene.2019.01406
+PMCID: PMC7056891
+PMID: 32174954

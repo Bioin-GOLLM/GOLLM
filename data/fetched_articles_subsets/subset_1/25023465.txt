@@ -1,0 +1,48 @@
+1. BMC Genomics. 2014 Jul 15;15(1):595. doi: 10.1186/1471-2164-15-595.
+
+Gene network-based analysis identifies two potential subtypes of small 
+intestinal neuroendocrine tumors.
+
+Kidd M(1), Modlin IM, Drozdov I.
+
+Author information:
+(1)Yale University School of Medicine, New Haven, CT 06510, USA. 
+mark.kidd@yale.edu.
+
+BACKGROUND: Tumor transcriptomes contain information of critical value to 
+understanding the different capacities of a cell at both a physiological and 
+pathological level. In terms of clinical relevance, they provide information 
+regarding the cellular "toolbox" e.g., pathways associated with malignancy and 
+metastasis or drug dependency. Exploration of this resource can therefore be 
+leveraged as a translational tool to better manage and assess neoplastic 
+behavior. The availability of public genome-wide expression datasets, provide an 
+opportunity to reassess neuroendocrine tumors at a more fundamental level. We 
+hypothesized that stringent analysis of expression profiles as well as 
+regulatory networks of the neoplastic cell would provide novel information that 
+facilitates further delineation of the genomic basis of small intestinal 
+neuroendocrine tumors.
+RESULTS: We re-analyzed two publically available small intestinal tumor 
+transcriptomes using stringent quality control parameters and network-based 
+approaches and validated expression of core secretory regulatory elements e.g., 
+CPE, PCSK1, secretogranins, including genes involved in depolarization e.g., 
+SCN3A, as well as transcription factors associated with neurodevelopment 
+(NKX2-2, NeuroD1, INSM1) and glucose homeostasis (APLP1). The candidate 
+metastasis-associated transcription factor, ST18, was highly expressed 
+(>14-fold, p < 0.004). Genes previously associated with neoplasia, CEBPA and 
+SDHD, were decreased in expression (-1.5 - -2, p < 0.02). Genomic interrogation 
+indicated that intestinal tumors may consist of two different subtypes, 
+serotonin-producing neoplasms and serotonin/substance P/tachykinin lesions. QPCR 
+validation in an independent dataset (n = 13 neuroendocrine tumors), confirmed 
+up-regulated expression of 87% of genes (13/15).
+CONCLUSIONS: An integrated cellular transcriptomic analysis of small intestinal 
+neuroendocrine tumors identified that they are regulated at a developmental 
+level, have key activation of hypoxic pathways (a known regulator of malignant 
+stem cell phenotypes) as well as activation of genes involved in apoptosis and 
+proliferation. Further refinement of these analyses by RNAseq studies of 
+large-scale databases will enable definition of individual master regulators and 
+facilitate the development of novel tissue and blood-based tools to better 
+understand diagnose and treat tumors.
+
+DOI: 10.1186/1471-2164-15-595
+PMCID: PMC4124138
+PMID: 25023465 [Indexed for MEDLINE]

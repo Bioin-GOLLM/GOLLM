@@ -1,0 +1,32 @@
+1. Eur Phys J B. 2021 Oct;94(10):203. doi: 10.1140/epjb/s10051-021-00207-7. Epub 
+2021 Oct 11.
+
+TYROSINE KINASES: COMPLEX MOLECULAR SYSTEMS CHALLENGING COMPUTATIONAL 
+METHODOLOGIES.
+
+Thomas T(1), Roux B(1).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Chicago, 
+Gordon Center for Integrative Science, 929 E 57 Street, Room W323B, Chicago, Il, 
+60637, USA.
+
+Classical molecular dynamics (MD) simulations based on atomic models play an 
+increasingly important role in a wide range of applications in physics, biology, 
+and chemistry. Nonetheless, generating genuine knowledge about biological 
+systems using MD simulations remains challenging. Protein tyrosine kinases are 
+important cellular signaling enzymes that regulate cell growth, proliferation, 
+metabolism, differentiation, and migration. Due to the large conformational 
+changes and long timescales involved in their function, these kinases present 
+particularly challenging problems to modern computational and theoretical 
+frameworks aimed at elucidating the dynamics of complex biomolecular systems. 
+Markov state models have achieved limited success in tackling the broader 
+conformational ensemble and biased methods are often employed to examine 
+specific long timescale events. Recent advances in machine learning continue to 
+push the limitations of current methodologies and provide notable improvements 
+when integrated with the existing frameworks. A broad perspective is drawn from 
+a critical review of recent studies.
+
+DOI: 10.1140/epjb/s10051-021-00207-7
+PMCID: PMC9749240
+PMID: 36524055

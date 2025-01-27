@@ -1,0 +1,55 @@
+1. Comput Struct Biotechnol J. 2023 Mar 2;21:1995-2008. doi: 
+10.1016/j.csbj.2023.02.051. eCollection 2023.
+
+Computational tools for exploring peptide-membrane interactions in gram-positive 
+bacteria.
+
+Kumar S(1)(2), Balaya RDA(1), Kanekar S(1), Raju R(1)(2), Prasad TSK(2), 
+Kandasamy RK(3)(4).
+
+Author information:
+(1)Centre for Integrative Omics Data Science, Yenepoya (Deemed to be 
+University), Mangalore 575018, India.
+(2)Centre for Systems Biology and Molecular Medicine, Yenepoya Research Centre, 
+Yenepoya (Deemed to be University), Mangalore 575018, India.
+(3)Centre of Molecular Inflammation Research (CEMIR), and Department of Clinical 
+and Molecular Medicine (IKOM), Norwegian University of Science and Technology, 
+7491 Trondheim, Norway.
+(4)Department of Laboratory Medicine and Pathology, Center for Individualized 
+Medicine, Mayo Clinic, Rochester, MN 55905, USA.
+
+The vital cellular functions in Gram-positive bacteria are controlled by 
+signaling molecules known as quorum sensing peptides (QSPs), considered 
+promising therapeutic interventions for bacterial infections. In the bacterial 
+system QSPs bind to membrane-coupled receptors, which then auto-phosphorylate 
+and activate intracellular response regulators. These response regulators induce 
+target gene expression in bacteria. One of the most reliable trends in drug 
+discovery research for virulence-associated molecular targets is the use of 
+peptide drugs or new functionalities. In this perspective, computational methods 
+act as auxiliary aids for biologists, where methodologies based on machine 
+learning and in silico analysis are developed as suitable tools for target 
+peptide identification. Therefore, the development of quick and reliable 
+computational resources to identify or predict these QSPs along with their 
+receptors and inhibitors is receiving considerable attention. The databases such 
+as Quorumpeps and Quorum Sensing of Human Gut Microbes (QSHGM) provide a 
+detailed overview of the structures and functions of QSPs. The tools and 
+algorithms such as QSPpred, QSPred-FL, iQSP, EnsembleQS and PEPred-Suite have 
+been used for the generic prediction of QSPs and feature representation. The 
+availability of compiled key resources for utilizing peptide features based on 
+amino acid composition, positional preferences, and motifs as well as structural 
+and physicochemical properties, including biofilm inhibitory peptides, can aid 
+in elucidating the QSP and membrane receptor interactions in infectious 
+Gram-positive pathogens. Herein, we present a comprehensive survey of diverse 
+computational approaches that are suitable for detecting QSPs and QS 
+interference molecules. This review highlights the utility of these methods for 
+developing potential biomarkers against infectious Gram-positive pathogens.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.csbj.2023.02.051
+PMCID: PMC10025024
+PMID: 36950221
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

@@ -1,0 +1,37 @@
+1. BMC Bioinformatics. 2012 Mar 29;13:52. doi: 10.1186/1471-2105-13-52.
+
+Detecting disease-associated genes with confounding variable adjustment and the 
+impact on genomic meta-analysis: with application to major depressive disorder.
+
+Wang X(1), Lin Y, Song C, Sibille E, Tseng GC.
+
+Author information:
+(1)Department of Biostatistics, University of Pittsburgh, Pittsburgh, PA 15261, 
+USA.
+
+BACKGROUND: Detecting candidate markers in transcriptomic studies often 
+encounters difficulties in complex diseases, particularly when overall signals 
+are weak and sample size is small. Covariates including demographic, clinical 
+and technical variables are often confounded with the underlying disease 
+effects, which further hampers accurate biomarker detection. Our motivating 
+example came from an analysis of five microarray studies in major depressive 
+disorder (MDD), a heterogeneous psychiatric illness with mostly uncharacterized 
+genetic mechanisms.
+RESULTS: We applied a random intercept model to account for confounding 
+variables and case-control paired design. A variable selection scheme was 
+developed to determine the effective confounders in each gene. Meta-analysis 
+methods were used to integrate information from five studies and post hoc 
+analyses enhanced biological interpretations. Simulations and application 
+results showed that the adjustment for confounding variables and meta-analysis 
+improved detection of biomarkers and associated pathways.
+CONCLUSIONS: The proposed framework simultaneously considers correction for 
+confounding variables, selection of effective confounders, random effects from 
+paired design and integration by meta-analysis. The approach improved 
+disease-related biomarker and pathway detection, which greatly enhanced 
+understanding of MDD neurobiology. The statistical framework can be applied to 
+similar experimental design encountered in other complex and heterogeneous 
+diseases.
+
+DOI: 10.1186/1471-2105-13-52
+PMCID: PMC3342232
+PMID: 22458711 [Indexed for MEDLINE]

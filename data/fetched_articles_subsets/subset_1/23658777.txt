@@ -1,0 +1,45 @@
+1. PLoS One. 2013 May 2;8(5):e62803. doi: 10.1371/journal.pone.0062803. Print
+2013.
+
+Equivalent indels--ambiguous functional classes and redundancy in databases.
+
+Assmus J(1), Kleffe J, Schmitt AO, Brockmann GA.
+
+Author information:
+(1)Breeding Biology and Molecular Genetics, Humboldt-Universität zu Berlin, 
+Berlin, Germany. Jens.Assmus@hu-berlin.de
+
+Erratum in
+    PLoS One. 2013 Dec 19;8(12). doi: 
+10.1371/annotation/7e304601-fc5c-40fe-857c-d6ea894d1647.
+
+There is considerable interest in studying sequenced variations. However, while 
+the positions of substitutions are uniquely identifiable by sequence alignment, 
+the location of insertions and deletions still poses problems. Each insertion 
+and deletion causes a change of sequence. Yet, due to low complexity or 
+repetitive sequence structures, the same indel can sometimes be annotated in 
+different ways. Two indels which differ in allele sequence and position can be 
+one and the same, i.e. the alternative sequence of the whole chromosome is 
+identical in both cases and, therefore, the two deletions are biologically 
+equivalent. In such a case, it is impossible to identify the exact position of 
+an indel merely based on sequence alignment. Thus, variation entries in a 
+mutation database are not necessarily uniquely defined. We prove the existence 
+of a contiguous region around an indel in which all deletions of the same length 
+are biologically identical. Databases often show only one of several possible 
+locations for a given variation. Furthermore, different data base entries can 
+represent equivalent variation events. We identified 1,045,590 such problematic 
+entries of insertions and deletions out of 5,860,408 indel entries in the 
+current human database of Ensembl. Equivalent indels are found in sequence 
+regions of different functions like exons, introns or 5' and 3' UTRs. One and 
+the same variation can be assigned to several different functional 
+classifications of which only one is correct. We implemented an algorithm that 
+determines for each indel database entry its complete set of equivalent indels 
+which is uniquely characterized by the indel itself and a given interval of the 
+reference sequence.
+
+DOI: 10.1371/journal.pone.0062803
+PMCID: PMC3642179
+PMID: 23658777 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

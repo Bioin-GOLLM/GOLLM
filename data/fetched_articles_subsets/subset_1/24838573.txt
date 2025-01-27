@@ -1,0 +1,42 @@
+1. Nucleic Acids Res. 2014 Jun;42(11):7473-85. doi: 10.1093/nar/gku402. Epub 2014
+ May 16.
+
+CRISPR/Cas9 systems have off-target activity with insertions or deletions 
+between target DNA and guide RNA sequences.
+
+Lin Y(1), Cradick TJ(1), Brown MT(1), Deshmukh H(1), Ranjan P(2), Sarode N(2), 
+Wile BM(1), Vertino PM(3), Stewart FJ(2), Bao G(4).
+
+Author information:
+(1)Department of Biomedical Engineering, Georgia Institute of Technology and 
+Emory University, Atlanta, GA 30332, USA.
+(2)School of Biology, Georgia Institute of Technology, Atlanta, GA 30332, USA.
+(3)Department of Radiation Oncology, Emory University School of Medicine, 
+Atlanta, GA 30322, USA.
+(4)Department of Biomedical Engineering, Georgia Institute of Technology and 
+Emory University, Atlanta, GA 30332, USA gang.bao@bme.gatech.edu.
+
+CRISPR/Cas9 systems are a versatile tool for genome editing due to the highly 
+efficient targeting of DNA sequences complementary to their RNA guide strands. 
+However, it has been shown that RNA-guided Cas9 nuclease cleaves genomic DNA 
+sequences containing mismatches to the guide strand. A better understanding of 
+the CRISPR/Cas9 specificity is needed to minimize off-target cleavage in large 
+mammalian genomes. Here we show that genomic sites could be cleaved by 
+CRISPR/Cas9 systems when DNA sequences contain insertions ('DNA bulge') or 
+deletions ('RNA bulge') compared to the RNA guide strand, and Cas9 nickases used 
+for paired nicking can also tolerate bulges in one of the guide strands. 
+Variants of single-guide RNAs (sgRNAs) for four endogenous loci were used as 
+model systems, and their cleavage activities were quantified at different 
+positions with 1- to 5-bp bulges. We further investigated 114 putative genomic 
+off-target loci of 27 different sgRNAs and confirmed 15 off-target sites, each 
+harboring a single-base bulge and one to three mismatches to the guide strand. 
+Our results strongly indicate the need to perform comprehensive off-target 
+analysis related to DNA and sgRNA bulges in addition to base mismatches, and 
+suggest specific guidelines for reducing potential off-target cleavage.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gku402
+PMCID: PMC4066799
+PMID: 24838573 [Indexed for MEDLINE]

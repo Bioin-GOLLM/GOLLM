@@ -1,0 +1,49 @@
+1. Cell Biol Toxicol. 2023 Apr;39(2):415-433. doi: 10.1007/s10565-022-09712-6.
+Epub  2022 May 4.
+
+High-content high-throughput imaging reveals distinct connections between 
+mitochondrial morphology and functionality for OXPHOS complex I, III, and V 
+inhibitors.
+
+van der Stel W(1), Yang H(1), le Dévédec SE(1), van de Water B(1), Beltman 
+JB(1), Danen EHJ(2).
+
+Author information:
+(1)Division of Drug Discovery and Safety, Leiden Academic Centre of Drug 
+Research, Leiden University, Einsteinweg, 55, 2333 CC, Leiden, The Netherlands.
+(2)Division of Drug Discovery and Safety, Leiden Academic Centre of Drug 
+Research, Leiden University, Einsteinweg, 55, 2333 CC, Leiden, The Netherlands. 
+e.danen@lacdr.leidenuniv.nl.
+
+Cells can adjust their mitochondrial morphology by altering the balance between 
+mitochondrial fission and fusion to adapt to stressful conditions. The 
+connection between a chemical perturbation, changes in mitochondrial function, 
+and altered mitochondrial morphology is not well understood. Here, we made use 
+of high-throughput high-content confocal microscopy to assess the effects of 
+distinct classes of oxidative phosphorylation (OXPHOS) complex inhibitors on 
+mitochondrial parameters in a concentration and time resolved manner. 
+Mitochondrial morphology phenotypes were clustered based on machine learning 
+algorithms and mitochondrial integrity patterns were mapped. In parallel, 
+changes in mitochondrial membrane potential (MMP), mitochondrial and cellular 
+ATP levels, and viability were microscopically assessed. We found that 
+inhibition of MMP, mitochondrial ATP production, and oxygen consumption rate 
+(OCR) using sublethal concentrations of complex I and III inhibitors did not 
+trigger mitochondrial fragmentation. Instead, complex V inhibitors that 
+suppressed ATP and OCR but increased MMP provoked a more fragmented 
+mitochondrial morphology. In agreement, complex V but not complex I or III 
+inhibitors triggered proteolytic cleavage of the mitochondrial fusion protein, 
+OPA1. The relation between increased MMP and fragmentation did not extend beyond 
+OXPHOS complex inhibitors: increasing MMP by blocking the mPTP pore did not lead 
+to OPA1 cleavage or mitochondrial fragmentation and the OXPHOS uncoupler FCCP 
+was associated with OPA1 cleavage and MMP reduction. Altogether, our findings 
+connect vital mitochondrial functions and phenotypes in a high-throughput 
+high-content confocal microscopy approach that help understanding of 
+chemical-induced toxicity caused by OXPHOS complex perturbing chemicals.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s10565-022-09712-6
+PMCID: PMC10247858
+PMID: 35505273 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

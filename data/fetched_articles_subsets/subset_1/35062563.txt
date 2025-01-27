@@ -1,0 +1,50 @@
+1. Sensors (Basel). 2022 Jan 13;22(2):607. doi: 10.3390/s22020607.
+
+Hash-Chain Fog/Edge: A Mode-Based Hash-Chain for Secured Mutual Authentication 
+Protocol Using Zero-Knowledge Proofs in Fog/Edge.
+
+Pardeshi MS(1)(2), Sheu RK(3), Yuan SM(4).
+
+Author information:
+(1)Electrical Engineering and Computer Science Department (EECS), National Chiao 
+Tung University, Hsinchu 30010, Taiwan.
+(2)AI Center, Tunghai University, Taichung 407224, Taiwan.
+(3)Department of Computer Science, Tunghai University, Taichung 407224, Taiwan.
+(4)Computer Science Department, National Yang Ming Chiao Tung University, 
+Hsinchu 30010, Taiwan.
+
+Authentication is essential for the prevention of various types of attacks in 
+fog/edge computing. Therefore, a novel mode-based hash chain for secure mutual 
+authentication is necessary to address the Internet of Things (IoT) devices' 
+vulnerability, as there have been several years of growing concerns regarding 
+their security. Therefore, a novel model is designed that is stronger and 
+effective against any kind of unauthorized attack, as IoT devices' vulnerability 
+is on the rise due to the mass production of IoT devices (embedded processors, 
+camera, sensors, etc.), which ignore the basic security requirements (passwords, 
+secure communication), making them vulnerable and easily accessible. 
+Furthermore, crackable passwords indicate that the security measures taken are 
+insufficient. As per the recent studies, several applications regarding its 
+requirements are the IoT distributed denial of service attack (IDDOS), 
+micro-cloud, secure university, Secure Industry 4.0, secure government, secure 
+country, etc. The problem statement is formulated as the "design and 
+implementation of dynamically interconnecting fog servers and edge devices using 
+the mode-based hash chain for secure mutual authentication protocol", which is 
+stated to be an NP-complete problem. The hash-chain fog/edge implementation 
+using timestamps, mode-based hash chaining, the zero-knowledge proof property, a 
+distributed database/blockchain, and cryptography techniques can be utilized to 
+establish the connection of smart devices in large numbers securely. The 
+hash-chain fog/edge uses blockchain for identity management only, which is used 
+to store the public keys in distributed ledger form, and all these keys are 
+immutable. In addition, it has no overhead and is highly secure as it performs 
+fewer calculations and requires minimum infrastructure. Therefore, we designed 
+the hash-chain fog/edge (HCFE) protocol, which provides a novel mutual 
+authentication scheme for effective session key agreement (using ZKP properties) 
+with secure protocol communications. The experiment outcomes proved that the 
+hash-chain fog/edge is more efficient at interconnecting various devices and 
+competed favorably in the benchmark comparison.
+
+DOI: 10.3390/s22020607
+PMCID: PMC8777787
+PMID: 35062563
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,33 @@
+1. Image Vis Comput. 2019 Jan;81:1-14. doi: 10.1016/j.imavis.2018.10.002. Epub
+2018  Oct 28.
+
+Learning Facial Action Units with Spatiotemporal Cues and Multi-label Sampling.
+
+Chu WS(1), De la Torre F(1), Cohn JF(2).
+
+Author information:
+(1)Robotics Institute, Carnegie Mellon University, Pittsburgh, USA.
+(2)Department of Psychology, University of Pittsburgh, Pittsburgh, USA.
+
+Facial action units (AUs) may be represented spatially, temporally, and in terms 
+of their correlation. Previous research focuses on one or another of these 
+aspects or addresses them disjointly. We propose a hybrid network architecture 
+that jointly models spatial and temporal representations and their correlation. 
+In particular, we use a Convolutional Neural Network (CNN) to learn spatial 
+representations, and a Long Short-Term Memory (LSTM) to model temporal 
+dependencies among them. The outputs of CNNs and LSTMs are aggregated into a 
+fusion network to produce per-frame prediction of multiple AUs. The hybrid 
+network was compared to previous state-of-the-art approaches in two large 
+FACS-coded video databases, GFT and BP4D, with over 400,000 AU-coded frames of 
+spontaneous facial behavior in varied social contexts. Relative to standard 
+multi-label CNN and feature-based state-of-the-art approaches, the hybrid system 
+reduced person-specific biases and obtained increased accuracy for AU detection. 
+To address class imbalance within and between batches during training the 
+network, we introduce multi-labeling sampling strategies that further increase 
+accuracy when AUs are relatively sparse. Finally, we provide visualization of 
+the learned AU models, which, to the best of our best knowledge, reveal for the 
+first time how machines see AUs.
+
+DOI: 10.1016/j.imavis.2018.10.002
+PMCID: PMC6277040
+PMID: 30524157

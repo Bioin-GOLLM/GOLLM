@@ -1,0 +1,45 @@
+1. Mol Cancer. 2013 Jun 16;12:63. doi: 10.1186/1476-4598-12-63.
+
+Regulation of protumorigenic pathways by insulin like growth factor binding 
+protein2 and its association along with β-catenin in breast cancer lymph node 
+metastasis.
+
+Sehgal P(1), Kumar N, Praveen Kumar VR, Patil S, Bhattacharya A, Vijaya Kumar M, 
+Mukherjee G, Kondaiah P.
+
+Author information:
+(1)Department of Molecular Reproduction, Development and Genetics, Indian 
+Institute of Science, Bangalore 560012, India.
+
+BACKGROUND: Insulin like growth factor binding proteins modulate the mitogenic 
+and pro survival effects of IGF. Elevated expression of IGFBP2 is associated 
+with progression of tumors that include prostate, ovarian, glioma among others. 
+Though implicated in the progression of breast cancer, the molecular mechanisms 
+involved in IGFBP2 actions are not well defined. This study investigates the 
+molecular targets and biological pathways targeted by IGFBP2 in breast cancer.
+METHODS: Transcriptome analysis of breast tumor cells (BT474) with stable 
+knockdown of IGFBP2 and breast tumors having differential expression of IGFBP2 
+by immunohistochemistry was performed using microarray. Differential gene 
+expression was established using R-Bioconductor package. For validation, gene 
+expression was determined by qPCR. Inhibitors of IGF1R and integrin pathway were 
+utilized to study the mechanism of regulation of β-catenin. Immunohistochemical 
+and immunocytochemical staining was performed on breast tumors and experimental 
+cells, respectively for β-catenin and IGFBP2 expression.
+RESULTS: Knockdown of IGFBP2 resulted in differential expression of 2067 up 
+regulated and 2002 down regulated genes in breast cancer cells. Down regulated 
+genes principally belong to cell cycle, DNA replication, repair, p53 signaling, 
+oxidative phosphorylation, Wnt signaling. Whole genome expression analysis of 
+breast tumors with or without IGFBP2 expression indicated changes in genes 
+belonging to Focal adhesion, Map kinase and Wnt signaling pathways. 
+Interestingly, IGFBP2 knockdown clones showed reduced expression of β- catenin 
+compared to control cells which was restored upon IGFBP2 re-expression. The 
+regulation of β-catenin by IGFBP2 was found to be IGF1R and integrin pathway 
+dependent. Furthermore, IGFBP2 and β-catenin are co-ordinately overexpressed in 
+breast tumors and correlate with lymph node metastasis.
+CONCLUSION: This study highlights regulation of β-catenin by IGFBP2 in breast 
+cancer cells and most importantly, combined expression of IGFBP2 and β-catenin 
+is associated with lymph node metastasis of breast tumors.
+
+DOI: 10.1186/1476-4598-12-63
+PMCID: PMC3698021
+PMID: 23767917 [Indexed for MEDLINE]

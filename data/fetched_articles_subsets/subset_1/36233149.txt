@@ -1,0 +1,66 @@
+1. Int J Mol Sci. 2022 Oct 6;23(19):11851. doi: 10.3390/ijms231911851.
+
+Systematic Down-Selection of Repurposed Drug Candidates for COVID-19.
+
+MacRaild CA(1), Mohammed MU(2), Faheem(2)(3), Murugesan S(2), Styles IK(1), 
+Peterson AL(1)(4), Kirkpatrick CMJ(5), Cooper MA(6), Palombo EA(7), Simpson 
+MM(8), Jain HA(9), Agarwal V(10), McAuley AJ(11), Kumar A(12), Creek DJ(1), 
+Trevaskis NL(1), Vasan SS(11)(13)(14).
+
+Author information:
+(1)Drug Delivery, Disposition and Dynamics, Monash Institute of Pharmaceutical 
+Sciences, Monash University, Parkville, VIC 3800, Australia.
+(2)Department of Pharmacy, Birla Institute of Technology and Science, Pilani 
+Campus, Pilani 333031, Rajasthan, India.
+(3)Department of Medicinal Chemistry, University of Utah, Salt Lake City, UT 
+84112, USA.
+(4)Bio21 Institute, University of Melbourne, Parkville, VIC 3052, Australia.
+(5)Centre for Medicine Use and Safety, Monash Institute of Pharmaceutical 
+Sciences, Monash University, Parkville, VIC 3800, Australia.
+(6)Institute for Molecular Bioscience, The University of Queensland, Brisbane, 
+QLD 4072, Australia.
+(7)Department of Chemistry and Biotechnology, Swinburne University of 
+Technology, Hawthorn, VIC 3122, Australia.
+(8)Griffith Institute for Drug Discovery, Griffith University, Nathan, QLD 4111, 
+Australia.
+(9)Department of Electrical and Electronics Engineering, Birla Institute of 
+Technology and Science, Pilani 333031, Rajasthan, India.
+(10)Department of Computer Science and Information Systems, Birla Institute of 
+Technology and Science, Pilani 333031, Rajasthan, India.
+(11)Commonwealth Scientific and Industrial Research Organisation, Australian 
+Centre for Disease Preparedness, Portarlington Road, Geelong, VIC 3220, 
+Australia.
+(12)Commonwealth Scientific and Industrial Research Organisation, Land and 
+Water, Waite Campus, SA 5064, Australia.
+(13)Department of Health, 189 Royal Street, East Perth, WA 6004, Australia.
+(14)Department of Health Sciences, University of York, York YO10 5DD, UK.
+
+SARS-CoV-2 is the cause of the COVID-19 pandemic which has claimed more than 6.5 
+million lives worldwide, devastating the economy and overwhelming healthcare 
+systems globally. The development of new drug molecules and vaccines has played 
+a critical role in managing the pandemic; however, new variants of concern still 
+pose a significant threat as the current vaccines cannot prevent all infections. 
+This situation calls for the collaboration of biomedical scientists and 
+healthcare workers across the world. Repurposing approved drugs is an effective 
+way of fast-tracking new treatments for recently emerged diseases. To this end, 
+we have assembled and curated a database consisting of 7817 compounds from the 
+Compounds Australia Open Drug collection. We developed a set of eight filters 
+based on indicators of efficacy and safety that were applied sequentially to 
+down-select drugs that showed promise for drug repurposing efforts against 
+SARS-CoV-2. Considerable effort was made to evaluate approximately 14,000 assay 
+data points for SARS-CoV-2 FDA/TGA-approved drugs and provide an average 
+activity score for 3539 compounds. The filtering process identified 12 
+FDA-approved molecules with established safety profiles that have plausible 
+mechanisms for treating COVID-19 disease. The methodology developed in our study 
+provides a template for prioritising drug candidates that can be repurposed for 
+the safe, efficacious, and cost-effective treatment of COVID-19, long COVID, or 
+any other future disease. We present our database in an easy-to-use interactive 
+interface (CoviRx that was also developed to enable the scientific community to 
+access to the data of over 7000 potential drugs and to implement alternative 
+prioritisation and down-selection strategies.
+
+DOI: 10.3390/ijms231911851
+PMCID: PMC9569752
+PMID: 36233149 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,47 @@
+1. Int J Mol Sci. 2022 Mar 19;23(6):3337. doi: 10.3390/ijms23063337.
+
+A Study on the Effect of the Substituent against PAK4 Inhibition Using In Silico 
+Methods.
+
+Yoon HR(1), Chai CC(2), Kim CH(2), Kang NS(1).
+
+Author information:
+(1)Graduate School of New Drug Discovery and Development, Chungnam National 
+University, 99 Daehak-ro, Yuseong-gu, Daejeon 34134, Korea.
+(2)Pharos iBio Co., Ltd. #1408, 38 Heungan-daero 427, Dongan-gu, Anyang-si 
+14059, Korea.
+
+The intrinsic inductive properties of atoms or functional groups depend on the 
+chemical properties of either electron-withdrawing groups (EWGs) or 
+electron-donating groups (EDGs). This study aimed to evaluate in silico methods 
+to determine whether changes in chemical properties of the compound by single 
+atomic substitution affect the biological activity of target proteins and 
+whether the results depend on the properties of the functional groups. We found 
+an imidazo[4,5-b]pyridine-based PAK4 inhibitor, compound 1, as an initial hit 
+compound with the well-defined binding mode for PAK4. In this study, we used 
+both experimental and in silico methods to investigate the effect of atomic 
+substitution on biological activity to optimize the initial hit compound. In 
+biological assays, in the case of EWG, as the size of the halogen atom became 
+smaller and the electronegativity increased, the biological activity IC50 value 
+ranged from 5150 nM to inactive; in the case of EDG, biological activity was 
+inactive. Furthermore, we analyzed the interactions of PAK4 with compounds, 
+focusing on the hinge region residues, L398 and E399, and gatekeeper residues, 
+M395 and K350, of the PAK4 protein using molecular docking studies and fragment 
+molecular orbital (FMO) methods to determine the differences between the effect 
+of EWG and EDG on the activity of target proteins. These results of the docking 
+score and binding energy did not explain the differences in biological activity. 
+However, the pair-interaction energy obtained from the results of the FMO method 
+indicated that there was a difference in the interaction energy between the EWG 
+and EDG in the hinge region residues, L398 and E399, as well as in M395 and 
+K350. The two groups with different properties exhibited opposite electrostatic 
+energy and charge transfer energy between L398 and E399. Additionally, we 
+investigated the electron distribution of the parts interacting with the hinge 
+region by visualizing the molecular electrostatic potential (MEP) surface of the 
+compounds. In conclusion, we described the properties of functional groups that 
+affect biological activity using an in silico method, FMO.
+
+DOI: 10.3390/ijms23063337
+PMCID: PMC8953563
+PMID: 35328758 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

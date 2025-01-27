@@ -1,0 +1,29 @@
+1. J Chem Theory Comput. 2023 May 23;19(10):2721-2734. doi: 
+10.1021/acs.jctc.2c01113. Epub 2023 May 2.
+
+Robust Inversion of Time-Resolved Data via Forward-Optimization in a Trajectory 
+Basis.
+
+Acheson K(1), Kirrander A(2).
+
+Author information:
+(1)EaStCHEM, School of Chemistry and Centre for Science at Extreme Conditions, 
+University of Edinburgh, David Brewster Road, Edinburgh EH9 3FJ, United Kingdom.
+(2)Physical and Theoretical Chemistry Laboratory, Department of Chemistry, 
+University of Oxford, South Parks Road, Oxford OX1 3QZ, United Kingdom.
+
+An inversion method for time-resolved data from ultrafast experiments is 
+introduced, based on forward-optimization in a trajectory basis. The method is 
+applied to experimental data from X-ray scattering of the photochemical 
+ring-opening reaction of 1,3-cyclohexadiene and electron diffraction of the 
+photodissociation of CS2. In each case, inversion yields a model that reproduces 
+the experimental data, identifies the main dynamic motifs, and agrees with 
+independent experimental observations. Notably, the method explicitly accounts 
+for continuity constraints and is robust even for noisy data.
+
+DOI: 10.1021/acs.jctc.2c01113
+PMCID: PMC10210245
+PMID: 37129988
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

@@ -1,0 +1,47 @@
+1. BMC Biochem. 2004 Nov 17;5:16. doi: 10.1186/1471-2091-5-16.
+
+The "Transport Specificity Ratio": a structure-function tool to search the 
+protein fold for loci that control transition state stability in membrane 
+transport catalysis.
+
+King SC(1).
+
+Author information:
+(1)Integrative Biosciences, Oregon Health & Science University, Portland, Oregon 
+97239-3097, USA. kingst@ohsu.edu
+
+BACKGROUND: In establishing structure-function relationships for membrane 
+transport proteins, the interpretation of phenotypic changes can be problematic, 
+owing to uncertainties in protein expression levels, sub-cellular localization, 
+and protein-folding fidelity. A dual-label competitive transport assay called 
+"Transport Specificity Ratio" (TSR) analysis has been developed that is simple 
+to perform, and circumvents the "expression problem," providing a reliable TSR 
+phenotype (a constant) for comparison to other transporters.
+RESULTS: Using the Escherichia coli GABA (4-aminobutyrate) permease (GabP) as a 
+model carrier, it is demonstrated that the TSR phenotype is largely independent 
+of assay conditions, exhibiting: (i) indifference to the particular substrate 
+concentrations used, (ii) indifference to extreme changes (40-fold) in 
+transporter expression level, and within broad limits (iii) indifference to 
+assay duration. The theoretical underpinnings of TSR analysis predict all of the 
+above observations, supporting that TSR has (i) applicability in the analysis of 
+membrane transport, and (ii) particular utility in the face of incomplete 
+information on protein expression levels and initial reaction rate intervals 
+(e.g., in high-throughput screening situations). The TSR was used to identify 
+gab permease (GabP) variants that exhibit relative changes in catalytic 
+specificity (kcat/Km) for [14C]GABA (4-aminobutyrate) versus [3H]NA (nipecotic 
+acid).
+CONCLUSIONS: The TSR phenotype is an easily measured constant that reflects 
+innate molecular properties of the transition state, and provides a reliable 
+index of the difference in catalytic specificity that a carrier exhibits toward 
+a particular pair of substrates. A change in the TSR phenotype, called a 
+Delta(TSR), represents a specificity shift attributable to underlying changes in 
+the intrinsic substrate binding energy (DeltaGb) that translocation catalysts 
+rely upon to decrease activation energy (Delta G(T)(++). TSR analysis is 
+therefore a structure-function tool that enables parsimonious scanning for 
+positions in the protein fold that couple to the transition state, creating 
+stability and thereby serving as functional determinants of catalytic power 
+(efficiency, or specificity).
+
+DOI: 10.1186/1471-2091-5-16
+PMCID: PMC535561
+PMID: 15548327 [Indexed for MEDLINE]

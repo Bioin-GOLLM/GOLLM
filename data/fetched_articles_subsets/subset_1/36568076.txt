@@ -1,0 +1,63 @@
+1. Front Endocrinol (Lausanne). 2022 Dec 8;13:1056310. doi: 
+10.3389/fendo.2022.1056310. eCollection 2022.
+
+Machine learning to construct sphingolipid metabolism genes signature to 
+characterize the immune landscape and prognosis of patients with uveal melanoma.
+
+Chi H(1), Peng G(1), Yang J(2), Zhang J(2), Song G(2), Xie X(2), Strohmer DF(3), 
+Lai G(4), Zhao S(5), Wang R(1), Yang F(6), Tian G(7).
+
+Author information:
+(1)Clinical Medical College, Southwest Medical University, Luzhou, China.
+(2)School of Stomatology, Southwest Medical University, Luzhou, China.
+(3)Department of General, Visceral, and Transplant Surgery, 
+Ludwig-Maximilians-University Munich, Munich, Germany.
+(4)Department of Epidemiology and Health Statistics, School of Public Health, 
+Chongqing Medical University, Chongqing, China.
+(5)Department of Neurosurgery, Wuxi People's Hospital Affiliated to Nanjing 
+Medical University, Wuxi, China.
+(6)Department of Ophthalmology, Charité - Universitätsmedizin Berlin, Campus 
+Virchow-Klinikum, Berlin, Germany.
+(7)Department of Laboratory Medicine, The Affiliated Hospital of Southwest 
+Medical University, Luzhou, China.
+
+Erratum in
+    Front Endocrinol (Lausanne). 2024 May 09;15:1421538. doi: 
+10.3389/fendo.2024.1421538.
+
+BACKGROUND: Uveal melanoma (UVM) is the most common primary intraocular 
+malignancy in adults and is highly metastatic, resulting in a poor patient 
+prognosis. Sphingolipid metabolism plays an important role in tumor development, 
+diagnosis, and prognosis. This study aimed to establish a reliable signature 
+based on sphingolipid metabolism genes (SMGs), thus providing a new perspective 
+for assessing immunotherapy response and prognosis in patients with UVM.
+METHODS: In this study, SMGs were used to classify UVM from the TCGA-UVM and GEO 
+cohorts. Genes significantly associated with prognosis in UVM patients were 
+screened using univariate cox regression analysis. The most significantly 
+characterized genes were obtained by machine learning, and 4-SMGs prognosis 
+signature was constructed by stepwise multifactorial cox. External validation 
+was performed in the GSE84976 cohort. The level of immune infiltration of 4-SMGs 
+in high- and low-risk patients was analyzed by platforms such as CIBERSORT. The 
+prediction of 4-SMGs on immunotherapy and immune checkpoint blockade (ICB) 
+response in UVM patients was assessed by ImmuCellAI and TIP portals.
+RESULTS: 4-SMGs were considered to be strongly associated with the prognosis of 
+UVM and were good predictors of UVM prognosis. Multivariate analysis found that 
+the model was an independent predictor of UVM, with patients in the low-risk 
+group having higher overall survival than those in the high-risk group. The 
+nomogram constructed from clinical characteristics and risk scores had good 
+prognostic power. The high-risk group showed better results when receiving 
+immunotherapy.
+CONCLUSIONS: 4-SMGs signature and nomogram showed excellent predictive 
+performance and provided a new perspective for assessing pre-immune efficacy, 
+which will facilitate future precision immuno-oncology studies.
+
+Copyright © 2022 Chi, Peng, Yang, Zhang, Song, Xie, Strohmer, Lai, Zhao, Wang, 
+Yang and Tian.
+
+DOI: 10.3389/fendo.2022.1056310
+PMCID: PMC9772281
+PMID: 36568076 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

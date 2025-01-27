@@ -1,0 +1,39 @@
+1. Genet Epidemiol. 2011 Dec;35(8):755-65. doi: 10.1002/gepi.20625. Epub 2011 Sep
+ 15.
+
+Multilocus association testing with penalized regression.
+
+Basu S(1), Pan W, Shen X, Oetting WS.
+
+Author information:
+(1)Division of Biostatistics, School of Public Health, University of Minnesota, 
+Minneapolis, MN 55455, USA.
+
+In multilocus association analysis, since some markers may not be associated 
+with a trait, it seems attractive to use penalized regression with the 
+capability of automatic variable selection. On the other hand, in spite of a 
+rapidly growing body of literature on penalized regression, most focus on 
+variable selection and outcome prediction, for which penalized methods are 
+generally more effective than their nonpenalized counterparts. However, for 
+statistical inference, i.e. hypothesis testing and interval estimation, it is 
+less clear how penalized methods would perform, or even how to best apply them, 
+largely due to lack of studies on this topic. In our motivating data for a 
+cohort of kidney transplant recipients, it is of primary interest to assess 
+whether a group of genetic variants are associated with a binary clinical 
+outcome, acute rejection at 6 months. In this article, we study some technical 
+issues and alternative implementations of hypothesis testing in Lasso penalized 
+logistic regression, and compare their performance with each other and with 
+several existing global tests, some of which are specifically designed as 
+variance component tests for high-dimensional data. The most interesting, and 
+perhaps surprising, conclusion of this study is that, for low to moderately 
+high-dimensional data, statistical tests based on Lasso penalized regression are 
+not necessarily more powerful than some existing global tests. In addition, in 
+penalized regression, rather than building a test based on a single selected 
+"best" model, combining multiple tests, each of which is built on a candidate 
+model, might be more promising.
+
+© 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/gepi.20625
+PMCID: PMC3350336
+PMID: 21922539 [Indexed for MEDLINE]

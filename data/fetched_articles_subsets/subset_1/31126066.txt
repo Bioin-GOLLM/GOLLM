@@ -1,0 +1,46 @@
+1. Int J Mol Sci. 2019 May 23;20(10):2536. doi: 10.3390/ijms20102536.
+
+Systems Biology Approaches to Investigate Genetic and Epigenetic Molecular 
+Progression Mechanisms for Identifying Gene Expression Signatures in Papillary 
+Thyroid Cancer.
+
+Yeh SJ(1), Lin CY(2), Li CW(3), Chen BS(4).
+
+Author information:
+(1)Laboratory of Automatic Control, Signal Processing and Systems Biology, 
+Department of Electrical Engineering, National Tsing Hua University, Hsinchu 
+30013, Taiwan. m793281@gmail.com.
+(2)Laboratory of Automatic Control, Signal Processing and Systems Biology, 
+Department of Electrical Engineering, National Tsing Hua University, Hsinchu 
+30013, Taiwan. s105061632@m105.nthu.edu.tw.
+(3)Laboratory of Automatic Control, Signal Processing and Systems Biology, 
+Department of Electrical Engineering, National Tsing Hua University, Hsinchu 
+30013, Taiwan. cwlitw@gmail.com.
+(4)Laboratory of Automatic Control, Signal Processing and Systems Biology, 
+Department of Electrical Engineering, National Tsing Hua University, Hsinchu 
+30013, Taiwan. bschen@ee.nthu.edu.tw.
+
+Thyroid cancer is the most common endocrine cancer. Particularly, papillary 
+thyroid cancer (PTC) accounts for the highest proportion of thyroid cancer. Up 
+to now, there are few researches discussing the pathogenesis and progression 
+mechanisms of PTC from the viewpoint of systems biology approaches. In this 
+study, first we constructed the candidate genetic and epigenetic network (GEN) 
+consisting of candidate protein-protein interaction network (PPIN) and candidate 
+gene regulatory network (GRN) by big database mining. Secondly, system 
+identification and system order detection methods were applied to prune 
+candidate GEN via next-generation sequencing (NGS) and DNA methylation profiles 
+to obtain the real GEN. After that, we extracted core GENs from real GENs by the 
+principal network projection (PNP) method. To investigate the pathogenic and 
+progression mechanisms in each stage of PTC, core GEN was denoted in respect of 
+KEGG pathways. Finally, by comparing two successive core signaling pathways of 
+PTC, we not only shed light on the causes of PTC progression, but also 
+identified essential biomarkers with specific gene expression signature. 
+Moreover, based on the identified gene expression signature, we suggested 
+potential candidate drugs to prevent the progression of PTC with querying 
+Connectivity Map (CMap).
+
+DOI: 10.3390/ijms20102536
+PMCID: PMC6566633
+PMID: 31126066 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

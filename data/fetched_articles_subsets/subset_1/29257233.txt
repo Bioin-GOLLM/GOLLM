@@ -1,0 +1,39 @@
+1. Mol Med Rep. 2018 Feb;17(2):3014-3020. doi: 10.3892/mmr.2017.8213. Epub 2017
+Dec  7.
+
+Exploring of the molecular mechanism of rhinitis via bioinformatics methods.
+
+Song Y(1), Yan Z(1).
+
+Author information:
+(1)Department of Otolaryngology, The Third Central Hospital of Tianjin, Tianjin 
+300170, P.R. China.
+
+The aim of this study was to analyze gene expression profiles for exploring the 
+function and regulatory network of differentially expressed genes (DEGs) in 
+pathogenesis of rhinitis by a bioinformatics method. The gene expression profile 
+of GSE43523 was downloaded from the Gene Expression Omnibus database. The 
+dataset contained 7 seasonal allergic rhinitis samples and 5 non‑allergic normal 
+samples. DEGs between rhinitis samples and normal samples were identified via 
+the limma package of R. The webGestal database was used to identify enriched 
+Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways of the DEGs. The 
+differentially co‑expressed pairs of the DEGs were identified via the DCGL 
+package in R, and the differential co‑expression network was constructed based 
+on these pairs. A protein‑protein interaction (PPI) network of the DEGs was 
+constructed based on the Search Tool for the Retrieval of Interacting Genes 
+database. A total of 263 DEGs were identified in rhinitis samples compared with 
+normal samples, including 125 downregulated ones and 138 upregulated ones. The 
+DEGs were enriched in 7 KEGG pathways. 308 differential co‑expression gene pairs 
+were obtained. A differential co‑expression network was constructed, containing 
+212 nodes. In total, 148 PPI pairs of the DEGs were identified, and a PPI 
+network was constructed based on these pairs. Bioinformatics methods could help 
+us identify significant genes and pathways related to the pathogenesis of 
+rhinitis. Steroid biosynthesis pathway and metabolic pathways might play 
+important roles in the development of allergic rhinitis (AR). Genes such as 
+CDC42 effector protein 5, solute carrier family 39 member A11 and PR/SET domain 
+10 might be also associated with the pathogenesis of AR, which provided 
+references for the molecular mechanisms of AR.
+
+DOI: 10.3892/mmr.2017.8213
+PMCID: PMC5783521
+PMID: 29257233 [Indexed for MEDLINE]

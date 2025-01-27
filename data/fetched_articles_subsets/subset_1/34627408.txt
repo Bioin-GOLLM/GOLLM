@@ -1,0 +1,48 @@
+1. Genes Environ. 2021 Oct 9;43(1):45. doi: 10.1186/s41021-021-00218-x.
+
+Genetic interaction between RLM1 and F-box motif encoding gene SAF1 contributes 
+to stress response in Saccharomyces cerevisiae.
+
+Sharma M(1), Verma V(1), Bairwa NK(2).
+
+Author information:
+(1)Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno 
+Devi University, Katra, Jammu & Kashmir, 182320, India.
+(2)Genome Stability Regulation Lab, School of Biotechnology, Shri Mata Vaishno 
+Devi University, Katra, Jammu & Kashmir, 182320, India. 
+narendra.bairwa@smvdu.ac.in.
+
+BACKGROUND: Stress response is mediated by the transcription of 
+stress-responsive genes. The F-box motif protein Saf1p is involved in SCF-E3 
+ligase mediated degradation of the adenine deaminase, Aah1p upon nutrient 
+stress. The four transcription regulators, BUR6, MED6, SPT10, SUA7, are listed 
+for SAF1 in the genome database of Saccharomyces cerevisiae. Here in this study, 
+we carried out an in-silico analysis of gene expression and transcription factor 
+databases to understand the regulation of SAF1 expression during stress for 
+hypothesis and experimental analysis.
+RESULT: An analysis of the GEO profile database indicated an increase in SAF1 
+expression when cells were treated with stress agents such as Clioquinol, 
+Pterostilbene, Gentamicin, Hypoxia, Genotoxic, desiccation, and heat. The 
+increase in expression of SAF1 during stress conditions correlated positively 
+with the expression of RLM1, encoding the Rlm1p transcription factor. The 
+expression of AAH1 encoding Aah1p, a Saf1p substrate for ubiquitination, 
+appeared to be negatively correlated with the expression of RLM1 as revealed by 
+an analysis of the Yeastract expression database. Based on analysis of 
+expression profile and regulatory association of SAF1 and RLM1, we hypothesized 
+that inactivation of both the genes together may contribute to stress tolerance. 
+The experimental analysis of cellular growth response of cells lacking both SAF1 
+and RLM1 to selected stress agents such as cell wall and osmo-stressors, by spot 
+assay indicated stress tolerance phenotype similar to parental strain however 
+sensitivity to genotoxic and microtubule depolymerizing stress agents.
+CONCLUSIONS: Based on in-silico and experimental data we suggest that SAF1 and 
+RLM1 both interact genetically in differential response to genotoxic and general 
+stressors.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s41021-021-00218-x
+PMCID: PMC8501602
+PMID: 34627408
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest with the content of this article.

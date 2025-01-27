@@ -1,0 +1,116 @@
+1. Cardiovasc Res. 2022 Mar 16;118(4):1088-1102. doi: 10.1093/cvr/cvab136.
+
+Cis-epistasis at the LPA locus and risk of cardiovascular diseases.
+
+Zeng L(1), Moser S(2)(3), Mirza-Schreiber N(2)(4), Lamina C(5), Coassin S(5), 
+Nelson CP(6)(7), Annilo T(8), Franzén O(9)(10), Kleber ME(11), Mack S(5), 
+Andlauer TFM(2)(12), Jiang B(2), Stiller B(1), Li L(1), Willenborg C(13), Munz 
+M(13)(14)(15), Kessler T(1)(16), Kastrati A(1)(16), Laugwitz KL(17), Erdmann 
+J(13)(14), Moebus S(18)(19), Nöthen MM(20), Peters A(21)(22), Strauch 
+K(21)(22)(23), Müller-Nurasyid M(21)(22)(23)(24), Gieger C(21)(25), Meitinger 
+T(26), Steinhagen-Thiessen E(27), März W(11)(28), Metspalu A(8)(29), Björkegren 
+JLM(9)(10), Samani NJ(6)(7), Kronenberg F(5), Müller-Myhsok B(2)(30)(31), 
+Schunkert H(1)(14).
+
+Author information:
+(1)Deutsches Herzzentrum München, Klinik für Herz- und Kreislauferkrankungen, 
+Technische Universität München, 80636 Munich, Germany.
+(2)Department of Translational Research in Psychiatry, Max Planck Institute of 
+Psychiatry, 80804 Munich, Germany.
+(3)International Max Planck Research School for Translational Psychiatry 
+(IMPRS-TP), Munich 80804, Germany.
+(4)Institute of Neurogenomics, Helmholtz Zentrum München, 85764 Neuherberg, 
+Germany.
+(5)Institute of Genetic Epidemiology, Department of Genetics and Pharmacology, 
+Medical University of Innsbruck, Innsbruck 6020, Austria.
+(6)Department of Cardiovascular Sciences, University of Leicester, BHF 
+Cardiovascular Research Centre, Glenfield Hospital, Groby Rd, Leicester LE3 9QP, 
+UK.
+(7)NIHR Leicester Biomedical Research Centre, Glenfield Hospital, Leicester LE3 
+9QP, UK.
+(8)Estonian Genome Center, Institute of Genomics, University of Tartu, 51010 
+Tartu, Estonia.
+(9)Department of Genetics and Genomic Sciences and Institute for Genomics and 
+Multiscale Biology, Icahn School of Medicine at Mount Sinai, One Gustave L. Levy 
+Place, New York, NY 10029, USA.
+(10)Integrated Cardio Metabolic Centre, Karolinska Institutet, Huddinge, 14186 
+Stockholm, Sweden.
+(11)Medizinische Klinik V (Nephrologie, Hypertensiologie, Rheumatologie, 
+Endokrinologie, Diabetologie), Medizinische Fakultät Mannheim der Universität 
+Heidelberg, 69120 Heidelberg, Germany.
+(12)Department of Neurology, Klinikum rechts der Isar, School of Medicine, 
+Technical University of Munich, 81675 Munich, Germany.
+(13)Institute for Cardiogenetics and University Heart Center Luebeck, University 
+of Lübeck, 23562 Lübeck, Germany.
+(14)Deutsches Zentrum für Herz- und Kreislauf-Forschung (DZHK), Partner Site 
+Hamburg/Lübeck/Kiel, 23562 Lübeck, Germany.
+(15)Charité - University Medicine Berlin, Corporate Member of Freie Universität 
+Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, 
+Institute for Dental and Craniofacial Sciences, Department of Periodontology and 
+Synoptic Dentistry, 14197 Berlin, Germany.
+(16)Deutsches Zentrum für Herz- und Kreislauf-Forschung (DZHK), Partner Site 
+Munich Heart Alliance, 80636 Munich, Germany.
+(17)Medizinische Klinik, Klinikum rechts der Isar, Technische Universität 
+München, 81675 Munich, Germany.
+(18)Institute for Medical Informatics, Biometry and Epidemiology, University 
+Hospital Essen, 45147 Essen, Germany.
+(19)Centre for Urbane Epidemiology, University Hospital Essen, 45147 Essen, 
+Germany.
+(20)Institute of Human Genetics, University of Bonn School of Medicine & 
+University Hospital Bonn, 53012 Bonn, Germany.
+(21)Institute of Genetic Epidemiology, Helmholtz Zentrum München, German 
+Research Center for Environmental Health, 85764 Neuherberg, Germany.
+(22)IBE, Faculty of Medicine, LMU Munich, 81377 Munich, Germany.
+(23)Institute of Medical Biostatistics, Epidemiology and Informatics (IMBEI), 
+University Medical Center, Johannes Gutenberg University, 55101 Mainz, Germany.
+(24)Department of Internal Medicine I (Cardiology), Hospital of the 
+Ludwig-Maximilians-University (LMU) Munich, 81377 Munich, Germany.
+(25)Institute of Epidemiology II, Helmholtz Zentrum München, 85764 Neuherberg, 
+Germany.
+(26)Institute of Human Genetics, Helmholtz Zentrum München, 85764 Neuherberg, 
+Germany.
+(27)Center for Internal Medicine with Gastroenterology and Nephrology, Lipid 
+Clinic, Charité, 13353 Berlin, Germany.
+(28)Synlab Akademie, Synlab Holding Deutschland GmbH, Mannheim und Augsburg, 
+86156 Augsburg, Germany.
+(29)Institute of Molecular and Cell Biology, University of Tartu, 51010 Tartu, 
+Estonia.
+(30)Munich Cluster of Systems Biology, SyNergy, 81377 Munich, Germany.
+(31)Department of Health Data Science, University of Liverpool, Liverpool L69 
+3BX, UK.
+
+AIMS: Coronary artery disease (CAD) has a strong genetic predisposition. 
+However, despite substantial discoveries made by genome-wide association studies 
+(GWAS), a large proportion of heritability awaits identification. Non-additive 
+genetic effects might be responsible for part of the unaccounted genetic 
+variance. Here, we attempted a proof-of-concept study to identify non-additive 
+genetic effects, namely epistatic interactions, associated with CAD.
+METHODS AND RESULTS: We tested for epistatic interactions in 10 CAD case-control 
+studies and UK Biobank with focus on 8068 SNPs at 56 loci with known 
+associations with CAD risk. We identified a SNP pair located in cis at the LPA 
+locus, rs1800769 and rs9458001, to be jointly associated with risk for CAD [odds 
+ratio (OR) = 1.37, P = 1.07 × 10-11], peripheral arterial disease (OR = 1.22, 
+P = 2.32 × 10-4), aortic stenosis (OR = 1.47, P = 6.95 × 10-7), hepatic 
+lipoprotein(a) (Lp(a)) transcript levels (beta = 0.39, P = 1.41 × 10-8), and 
+Lp(a) serum levels (beta = 0.58, P = 8.7 × 10-32), while individual SNPs 
+displayed no association. Further exploration of the LPA locus revealed a strong 
+dependency of these associations on a rare variant, rs140570886, that was 
+previously associated with Lp(a) levels. We confirmed increased CAD risk for 
+heterozygous (relative OR = 1.46, P = 9.97 × 10-32) and individuals homozygous 
+for the minor allele (relative OR = 1.77, P = 0.09) of rs140570886. Using 
+forward model selection, we also show that epistatic interactions between 
+rs140570886, rs9458001, and rs1800769 modulate the effects of the rs140570886 
+risk allele.
+CONCLUSIONS: These results demonstrate the feasibility of a large-scale 
+knowledge-based epistasis scan and provide rare evidence of an epistatic 
+interaction in a complex human disease. We were directed to a variant 
+(rs140570886) influencing risk through additive genetic as well as epistatic 
+effects. In summary, this study provides deeper insights into the genetic 
+architecture of a locus important for cardiovascular diseases.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the 
+European Society of Cardiology.
+
+DOI: 10.1093/cvr/cvab136
+PMCID: PMC8930071
+PMID: 33878186 [Indexed for MEDLINE]

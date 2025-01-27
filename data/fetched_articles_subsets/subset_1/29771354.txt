@@ -1,0 +1,33 @@
+1. Nucleic Acids Res. 2018 Jun 20;46(11):5678-5691. doi: 10.1093/nar/gky284.
+
+Methylation guide RNA evolution in archaea: structure, function and genomic 
+organization of 110 C/D box sRNA families across six Pyrobaculum species.
+
+Lui LM(1), Uzilov AV(1), Bernick DL(1), Corredor A(1), Lowe TM(1), Dennis PP(2).
+
+Author information:
+(1)Department of Biomolecular Engineering, University of California Santa Cruz, 
+Santa Cruz, CA 95064, USA.
+(2)Department of Biology, Whitman College, Walla Walla, WA 99362, USA.
+
+Archaeal homologs of eukaryotic C/D box small nucleolar RNAs (C/D box sRNAs) 
+guide precise 2'-O-methyl modification of ribosomal and transfer RNAs. Although 
+C/D box sRNA genes constitute one of the largest RNA gene families in archaeal 
+thermophiles, most genomes have incomplete sRNA gene annotation because 
+reliable, fully automated detection methods are not available. We expanded and 
+curated a comprehensive gene set across six species of the crenarchaeal genus 
+Pyrobaculum, particularly rich in C/D box sRNA genes. Using high-throughput 
+small RNA sequencing, specialized computational searches and comparative 
+genomics, we analyzed 526 Pyrobaculum C/D box sRNAs, organizing them into 110 
+families based on synteny and conservation of guide sequences which determine 
+methylation targets. We examined gene duplications and rearrangements, including 
+one family that has expanded in a pattern similar to retrotransposed repetitive 
+elements in eukaryotes. New training data and inclusion of kink-turn secondary 
+structural features enabled creation of an improved search model. Our analyses 
+provide the most comprehensive, dynamic view of C/D box sRNA evolutionary 
+history within a genus, in terms of modification function, feature plasticity, 
+and gene mobility.
+
+DOI: 10.1093/nar/gky284
+PMCID: PMC6009581
+PMID: 29771354 [Indexed for MEDLINE]

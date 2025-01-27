@@ -1,0 +1,65 @@
+1. Mol Ecol Resour. 2022 Aug;22(6):2285-2303. doi: 10.1111/1755-0998.13622. Epub 
+2022 May 3.
+
+Design and implementation of multiplexed amplicon sequencing panels to serve 
+genomic epidemiology of infectious disease: A malaria case study.
+
+LaVerriere E(1)(2), Schwabl P(1)(2), Carrasquilla M(1)(2)(3), Taylor AR(2)(4), 
+Johnson ZM(1)(2), Shieh M(1)(2), Panchal R(1)(2), Straub TJ(1)(2), Kuzma 
+R(1)(2), Watson S(1), Buckee CO(4), Andrade CM(5), Portugal S(3)(5), Crompton 
+PD(6), Traore B(7), Rayner JC(8), Corredor V(9), James K(10), Cox H(11), Early 
+AM(1)(2), MacInnis BL(2), Neafsey DE(1)(2).
+
+Author information:
+(1)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, Massachusetts, USA.
+(2)Infectious Disease and Microbiome Program, Broad Institute of MIT and 
+Harvard, Cambridge, Massachusetts, USA.
+(3)Max Planck Institute for Infection Biology, Berlin, Germany.
+(4)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, Massachusetts, USA.
+(5)Centre of Infectious Diseases, Parasitology, Heidelberg University Hospital, 
+Heidelberg, Germany.
+(6)Malaria Infection Biology and Immunity Section, Laboratory of Immunogenetics, 
+National Institute of Allergy and Infectious Diseases, National Institutes of 
+Health, Rockville, Maryland, USA.
+(7)Mali International Center of Excellence in Research, University of Sciences, 
+Technique and Technology of Bamako, Bamako, Mali.
+(8)Cambridge Institute for Medical Research, University of Cambridge, Cambridge, 
+UK.
+(9)Departamento de Salud Pública, Facultad de Medicina, Universidad Nacional de 
+Colombia, Bogotá, Colombia.
+(10)Guyana National Malaria Control Program, Ministry of Health, Georgetown, 
+Guyana.
+(11)Guyana Vector Control Services, Ministry of Health, Georgetown, Guyana.
+
+Multiplexed PCR amplicon sequencing (AmpSeq) is an increasingly popular 
+application for cost-effective monitoring of threatened species and managed 
+wildlife populations, and shows strong potential for the genomic epidemiology of 
+infectious disease. AmpSeq data from infectious microbes can inform disease 
+control in multiple ways, such as by measuring drug resistance marker 
+prevalence, distinguishing imported from local cases, and determining the 
+effectiveness of therapeutics. We describe the design and comparative evaluation 
+of two new AmpSeq assays for Plasmodium falciparum malaria parasites: a 
+four-locus panel ("4CAST") composed of highly diverse antigens, and a 129-locus 
+panel ("AMPLseq") composed of drug resistance markers, highly diverse loci for 
+inferring relatedness, and a locus to detect Plasmodium vivax co-infection. We 
+explore the performance of each panel in various public health use cases with in 
+silico simulations as well as empirical experiments. The 4CAST panel appears 
+highly suitable for evaluating the number of distinct parasite strains within 
+samples (complexity of infection), showing strong performance across a wide 
+range of parasitaemia levels without a DNA pre-amplification step. For 
+relatedness inference, the larger AMPLseq panel performs similarly to two 
+existing panels of comparable size, despite differences in the data and approach 
+used for designing each panel. Finally, we describe an R package (paneljudge) 
+that facilitates the design and comparative evaluation of genetic panels for 
+relatedness estimation, and we provide general guidance on the design and 
+implementation of AmpSeq panels for the genomic epidemiology of infectious 
+disease.
+
+© 2022 The Authors. Molecular Ecology Resources published by John Wiley & Sons 
+Ltd.
+
+DOI: 10.1111/1755-0998.13622
+PMCID: PMC9288814
+PMID: 35437908 [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+1. Nat Commun. 2018 Nov 9;9(1):4730. doi: 10.1038/s41467-018-07224-8.
+
+Transcriptome-wide identification of transient RNA G-quadruplexes in human 
+cells.
+
+Yang SY(1), Lejault P(2), Chevrier S(3), Boidot R(3), Robertson AG(4), Wong 
+JMY(5), Monchaud D(6).
+
+Author information:
+(1)Faculty of Pharmaceutical Sciences, University of British Columbia, 
+Pharmaceutical Sciences Building, 2405 Wesbrook Mall, Vancouver, BC, V6T 1Z3, 
+Canada.
+(2)Institut de Chimie Moléculaire (ICMUB), UBFC Dijon, CNRS UMR6302, 9, Rue 
+Alain Savary, 21078, Dijon, France.
+(3)Platform of Transfer in Cancer Biology, Centre Georges-François Leclerc, BP 
+77980, 1, Rue Professeur Marion, 21079, Dijon, France.
+(4)Genome Sciences Center, BC Cancer Agency, 570 W 7th Ave, Vancouver, BC, V5Z 
+4S6, Canada.
+(5)Faculty of Pharmaceutical Sciences, University of British Columbia, 
+Pharmaceutical Sciences Building, 2405 Wesbrook Mall, Vancouver, BC, V6T 1Z3, 
+Canada. judy.wong@ubc.ca.
+(6)Institut de Chimie Moléculaire (ICMUB), UBFC Dijon, CNRS UMR6302, 9, Rue 
+Alain Savary, 21078, Dijon, France. david.monchaud@cnrs.fr.
+
+Guanine-rich RNA sequences can fold into four-stranded structures, termed 
+G-quadruplexes (G4-RNAs), whose biological roles are poorly understood, and in 
+vivo existence is debated. To profile biologically relevant G4-RNA in the human 
+transcriptome, we report here on G4RP-seq, which combines G4-RNA-specific 
+precipitation (G4RP) with sequencing. This protocol comprises a chemical 
+crosslinking step, followed by affinity capture with the G4-specific 
+small-molecule ligand/probe BioTASQ, and target identification by sequencing, 
+allowing for capturing global snapshots of transiently folded G4-RNAs. We detect 
+widespread G4-RNA targets within the transcriptome, indicative of transient G4 
+formation in living human cells. Using G4RP-seq, we also demonstrate that 
+G4-stabilizing ligands (BRACO-19 and RHPS4) can change the G4 transcriptomic 
+landscape, most notably in long non-coding RNAs. G4RP-seq thus provides a method 
+for studying the G4-RNA landscape, as well as ways of considering the mechanisms 
+underlying G4-RNA formation, and the activity of G4-stabilizing ligands.
+
+DOI: 10.1038/s41467-018-07224-8
+PMCID: PMC6226477
+PMID: 30413703 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

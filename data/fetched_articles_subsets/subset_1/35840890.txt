@@ -1,0 +1,59 @@
+1. BMC Gastroenterol. 2022 Jul 15;22(1):345. doi: 10.1186/s12876-022-02421-8.
+
+Construction of a novel necroptosis-related lncRNA signature for prognosis 
+prediction in esophageal cancer.
+
+Liu Y(1), Hao H(2), Kang L(1), Zheng G(1), Guo X(3), Li B(1), Zhao H(4), Hao 
+H(5).
+
+Author information:
+(1)Department of Pathology, Hebei General Hospital, Shijiazhuang, China.
+(2)Department of Neurology, Hebei General Hospital, Shijiazhuang, China.
+(3)Department of Radiology, Hebei General Hospital, Shijiazhuang, China.
+(4)Department of Pathology, Hebei General Hospital, Shijiazhuang, China. 
+ZHAO552588@126.com.
+(5)Department of Pharmacology, The Key Laboratory of New Drug Pharmacology and 
+Toxicology, Center of Innovative Drug Research and Evaluation, Hebei Medical 
+University, Shijiazhuang, China. haohan555@163.com.
+
+BACKGROUND: Esophageal cancer (EC), one highly malignant gastrointestinal 
+cancer, is the 6th leading cause of cancer-related deaths worldwide. Necroptosis 
+and long non-coding RNA (lncRNA) play important roles in the occurrence and 
+development of EC, but the research on the role of necroptosis-related lncRNA in 
+EC is not conclusive. This study aims to use bioinformatics to investigate the 
+prognostic value of necroptosis-related lncRNA in EC.
+METHODS: Transcriptome data containing EC and normal samples, and clinical 
+information were obtained from the Cancer Genome Atlas database. 102 
+necroptosis-related genes were obtained from Kanehisa Laboratories. 
+Necroptosis-related lncRNAs were screened out via univariate, multivariate Cox 
+and the least absolute shrinkage and selection operator regression analyses to 
+construct the risk predictive model. The reliability of the risk model was 
+evaluated mainly through quantitative real-time PCR (qRT-PCR), the receiver 
+operating characteristic (ROC) curves and the constructed nomogram. KEGG 
+pathways were explored in the high- and low-risk groups of EC patients via gene 
+set enrichment analyses (GSEA) software. Immune microenvironment and potential 
+therapeutic agents in risk groups were also analyzed.
+RESULTS: A 6 necroptosis-related lncRNAs risk model composed of AC022211.2, 
+Z94721.1, AC007991.2, SAMD12-AS1, AL035461.2 and AC051619.4 was established to 
+predict the prognosis level of EC patients. qRT-PCR analysis showed upregulated 
+Z94721.1 and AL035461.2 mRNA levels and downregulated AC051619.4 mRNA level in 
+EC tissues compared with normal tissues. According to clinical characteristics, 
+the patients in the high-risk group had a shorter overall survival than the 
+low-risk group. The ROC curve and nomogram confirmed this model as one 
+independent and predominant predictor. GSEA analysis showed metabolic and 
+immune-related pathways enriched in the risk model. Most of the immune cells and 
+immune checkpoints were positively correlated with the risk model, mainly active 
+in the high-risk group. For the prediction of potential therapeutic drugs, 16 
+compounds in the high-risk group and 2 compounds in the low-risk group exhibited 
+higher sensitivity.
+CONCLUSIONS: Our results supported the necroptosis-related lncRNA signature 
+could independently predict prognosis of EC patients, and provided theoretical 
+basis for improving the clinical treatment of EC.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12876-022-02421-8
+PMCID: PMC9287891
+PMID: 35840890 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

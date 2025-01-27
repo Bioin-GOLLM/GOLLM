@@ -1,0 +1,37 @@
+1. PLoS One. 2018 Nov 21;13(11):e0206806. doi: 10.1371/journal.pone.0206806. 
+eCollection 2018.
+
+An empirical study on solving an integrated production and distribution problem 
+with a hybrid strategy.
+
+Li F(1), Zhou L(1), Xu G(2), Lu H(3), Wang K(4), Tsai SB(4)(5)(6).
+
+Author information:
+(1)School of Information, Beijing Wuzi University, Beijing, China.
+(2)School of Logistics, Beijing Wuzi University, Beijing, China.
+(3)Tianhua College, Shanghai Normal University, Shanghai, China.
+(4)College of Business Administration, Capital University of Economics and 
+Business, Beijing, China.
+(5)Zhongshan Institute, University of Electronic Science and Technology, 
+Zhongshan, China.
+(6)Research Center for Environment and Sustainable Development of China Civil 
+Aviation, Civil Aviation University of China, Tianjin, China.
+
+Coordination is essential for improving supply chain performance, and one of the 
+most critical factors in achieving the coordination of a supply chain is the 
+integrated research of production and distribution. In this paper, a novel 
+two-stage hybrid solution methodology is proposed. In the first stage, products 
+are processed on the serial machines of multiple manufacturers located in two 
+industrial parks. A fuzzy multi-objective scheduling optimization is performed 
+using a modified non-dominated sorting genetic algorithm II (NSGA-II). The 
+result obtained in the first stage is used in the second stage to optimize the 
+distribution scheduling problem using a modified genetic annealing algorithm 
+(GAA). Finally, simulation results verify both the feasibility and efficiency of 
+the proposed solution methodology.
+
+DOI: 10.1371/journal.pone.0206806
+PMCID: PMC6248926
+PMID: 30462675 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

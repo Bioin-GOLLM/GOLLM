@@ -1,0 +1,55 @@
+1. Comput Biol Chem. 2020 Feb;84:107166. doi: 10.1016/j.compbiolchem.2019.107166.
+ Epub 2019 Nov 17.
+
+Cytochrome P450 2C9 polymorphism: Effect of amino acid substitutions on protein 
+flexibility in the presence of tamoxifen.
+
+Manish M(1), Lynn AM(2), Mishra S(3).
+
+Author information:
+(1)School of Computational & Integrative Sciences, Jawaharlal Nehru University, 
+New Delhi, 110067, India; ICMR-National Institute of Malaria Research, Dwarka, 
+Sector-8, New Delhi, 110077, India.
+(2)School of Computational & Integrative Sciences, Jawaharlal Nehru University, 
+New Delhi, 110067, India.
+(3)School of Computational & Integrative Sciences, Jawaharlal Nehru University, 
+New Delhi, 110067, India. Electronic address: s_mishra@jnu.ac.in.
+
+Tamoxifen is a prodrug and cytochrome P450 2C9 (CYP2C9) has a significant role 
+in the formation of a therapeutically more potent metabolite 
+(4-hydroxytamoxifen) than tamoxifen. Since CYP2C9 exhibits genetic polymorphism, 
+it may contribute to different phenotypic drug response. Moreover, it may be 
+misleading if the possibility of heterogeneous clinical observations of 
+pharmacogenetic investigations is ignored. Above all, clinical investigation of 
+all the polymorphic variants is beyond the scope of a pharmacogenetic study. 
+Therefore, in order to understand the genotype-phenotype association, it is 
+aimed to study the interatomic interactions of amino acid substitutions in 
+CYP2C9 variants in the presence of tamoxifen. Computational structural biology 
+approach was adopted to study the effect of amino acid substitutions of 
+polymorphic variants of CYP2C9 R144C (*2), I359 L (*3), D360E (*5), R150H (*8), 
+R335W (*11) and L90 P (*13) on the flexibility of the enzyme in the presence of 
+tamoxifen. The mutations were selected based on previously determined 
+associations on genotype and clinical outcome of drugs. Against the above plane, 
+docking of tamoxifen was performed with the crystal structure representing the 
+wild-type form of the enzyme. The docked conformation of tamoxifen was 
+favourable for 4-hydroxylation with the site of metabolism within 5 Å of 
+oxyferrylheme consistent with the drug metabolism pathway of tamoxifen. Further, 
+the effect of amino acid substitutions CYP2C9 variants on the protein 
+flexibility in the presence of tamoxifen in 4-hydroxy orientation was evaluated 
+by molecular dynamics (MD) simulations. Distinct protein flexibility modulations 
+between variants were observed in F/G segment constituting the substrate 
+access/egress channels, helix B' involved with substrate specificity and helix I 
+associated with the holding of substrates. Root Mean Square Fluctuation analysis 
+of the trajectories of variants exhibited fluctuations in F/G segment, B' and I 
+helix. Dominant motions in the structure were identified by performing Principal 
+Component Analysis on trajectories and the porcupine plot depicted displaced F/G 
+segment in variants. Thus, the interatomic interaction study of CYP2C9 variants 
+in the presence of tamoxifen predicts the plausible effect of the investigated 
+variants on the therapeutic outcome of tamoxifen. It is presumed that the 
+observations of the study would be meaningful to understand tamoxifen 
+pharmacogenetics.
+
+Copyright © 2019 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2019.107166
+PMID: 31785970 [Indexed for MEDLINE]

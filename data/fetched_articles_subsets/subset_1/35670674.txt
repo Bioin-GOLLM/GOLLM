@@ -1,0 +1,41 @@
+1. Nucleic Acids Res. 2022 Jun 24;50(11):6414-6422. doi: 10.1093/nar/gkac462.
+
+CRISPR-Cas12a targeting of ssDNA plays no detectable role in immunity.
+
+Marino ND(1), Pinilla-Redondo R(2), Bondy-Denomy J(1)(3)(4).
+
+Author information:
+(1)Department of Microbiology and Immunology, University of California, San 
+Francisco, San Francisco, CA 94158, USA.
+(2)Section of Microbiology, University of Copenhagen, Universitetsparken 15, 
+2100 Copenhagen, Denmark.
+(3)Quantitative Biosciences Institute, University of California, San Francisco, 
+San Francisco, CA 94158, USA.
+(4)Innovative Genomics Institute, Berkeley, CA 94720, USA.
+
+CRISPR-Cas12a (Cpf1) is a bacterial RNA-guided nuclease that cuts 
+double-stranded DNA (dsDNA) at sites specified by a CRISPR RNA (crRNA) guide. 
+Additional activities have been ascribed to this enzyme in vitro: site-specific 
+(cis) single-stranded DNA (ssDNA) cleavage and indiscriminate (trans) 
+degradation of ssDNA, RNA, and dsDNA after activation by a complementary target. 
+The ability of Cas12a to cleave nucleic acids indiscriminately has been 
+harnessed for many applications, including diagnostics, but it remains unknown 
+if it contributes to bacterial immunity. Here, we provide evidence that cleavage 
+of ssDNA in cis or in trans by Cas12a is insufficient to impact immunity. Using 
+LbCas12a expressed in either Pseudomonas aeruginosa or Escherichia coli, we 
+observed that cleavage of dsDNA targets did not elicit cell death or dormancy, 
+suggesting insignificant levels of collateral damage against host RNA or DNA. 
+Canonical immunity against invasive dsDNA also had no impact on the replicative 
+fitness of co-infecting dsDNA phage, ssDNA phage or plasmid in trans. Lastly, 
+crRNAs complementary to invasive ssDNA did not provide protection, suggesting 
+that ssDNA cleavage does not occur in vivo or is insignificant. Overall, these 
+results suggest that CRISPR-Cas12a immunity predominantly occurs via canonical 
+targeting of dsDNA, and that the other activities do not significantly impact 
+infection outcomes.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac462
+PMCID: PMC9226536
+PMID: 35670674 [Indexed for MEDLINE]

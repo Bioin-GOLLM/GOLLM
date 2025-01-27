@@ -1,0 +1,47 @@
+1. Cytokine. 2022 Jan;149:155722. doi: 10.1016/j.cyto.2021.155722. Epub 2021 Oct
+5.
+
+Quantile-specific heritability of monocyte chemoattractant protein-1, and 
+relevance to rs1024611-disease interactions.
+
+Williams PT(1).
+
+Author information:
+(1)Lawrence Berkeley National Laboratory, Molecular Biophysics & Integrated 
+Bioimaging Division, 1 Cyclotron Road, Berkeley, CA 94720, United States. 
+Electronic address: ptwilliams@lbl.gov.
+
+BACKGROUND: Monocyte chemoattractant protein-1 (MCP-1) concentrations are 34% to 
+47% heritable. Larger -2518 G/A (rs1024611) genotypes differences are reported 
+for: 1) MCP-1 production in stimulated vs. basal cells; and 2) MCP-1 
+concentrations in diseased (sepsis, brain abscess, hepatitis B virus, 
+Alzheimer's disease, Behcet's disease, and systemic lupus erythematosus) vs. 
+healthy patients. Those results suggest that the -2518 G/A effect size may 
+depend on whether the phenotype is high or low relative to its distribution 
+(quantile-dependent expressivity).
+METHOD: To test whether quantile-dependent expressivity applies more broadly to 
+genetic influences on MCP-1 concentrations, quantile-specific offspring-parent 
+(βOP) and full-sib regression slopes (βFS) were estimated by applying quantile 
+regression to the age- and sex-adjusted serum MCP-1 concentrations of Framingham 
+Heart Study families. Quantile-specific heritabilities were calculated as 
+h2 = 2βOP/(1 + rspouse) and h2={(1 + 8rspouseβFS)0.5-1}/(2rspouse)).
+RESULTS: Heritability (h2 ± SE) of MCP-1 concentrations increased from 
+0.15 ± 0.05 at the 10th percentile of the MCP-1 distribution, 0.23 ± 0.04 at the 
+25th, 0.32 ± 0.05 at the 50th, 0.43 ± 0.07 at the 75th, and 0.44 ± 0.07 at the 
+90th percentile, or an 0.0041 ± 0.0009 increase for each one-percent increment 
+in the MCP-1 distribution (Plinear trend = 2.4 × 10-5) when estimated from βOP, 
+and (Plinear trend = 7.7 × 10-9) when estimated from βFS. Compared to the 10th 
+percentile, βOP-estimated h2 was 3-fold greater at the 90th percentile 
+(Pdifference = 0.0003), and 6.9-fold greater when estimated from βFS 
+(Pdifference = 3.3 × 10-6). Re-analysis of in vivo comparison of MCP-1 
+concentrations in controls vs. patients with MCP-1-elevating conditions, and in 
+vitro studies of MCP-1 production in basal vs. stimulated cells, show rs1024611 
+genotypes differences that were consistent with quantile-dependent expressivity.
+CONCLUSION: The heritability of circulating MCP-1 concentrations is 
+quantile-dependent.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.cyto.2021.155722
+PMCID: PMC10124179
+PMID: 34624603 [Indexed for MEDLINE]

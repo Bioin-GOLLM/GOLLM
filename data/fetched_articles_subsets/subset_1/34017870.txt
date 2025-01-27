@@ -1,0 +1,52 @@
+1. Front Vet Sci. 2021 May 4;8:624233. doi: 10.3389/fvets.2021.624233.
+eCollection  2021.
+
+Development of a Dissemination Platform for Spatiotemporal and Phylogenetic 
+Analysis of Avian Infectious Bronchitis Virus.
+
+Jara M(1), Crespo R(1), Roberts DL(2), Chapman A(2), Banda A(3), Machado G(1).
+
+Author information:
+(1)Department of Population Health and Pathobiology, College of Veterinary 
+Medicine, North Carolina State University, Raleigh, NC, United States.
+(2)Department of Computer Science North Carolina State University, Raleigh, NC, 
+United States.
+(3)Poultry Research and Diagnostic Laboratory, College of Veterinary Medicine, 
+Mississippi State University, Pearl, MS, United States.
+
+Infecting large portions of the global poultry populations, the avian infectious 
+bronchitis virus (IBV) remains a major economic burden in North America. With 
+more than 30 serotypes globally distributed, Arkansas, Connecticut, Delaware, 
+Georgia, and Massachusetts are among the most predominant serotypes in the 
+United States. Even though vaccination is widely used, the high mutation rate 
+exhibited by IBV is continuously triggering the emergence of new viral strains 
+and hindering control and prevention measures. For that reason, targeted 
+strategies based on constantly updated information on the IBV circulation are 
+necessary. Here, we sampled IBV-infected farms from one US state and collected 
+and analyzed 65 genetic sequences coming from three different lineages along 
+with the immunization information of each sampled farm. Phylodynamic analyses 
+showed that IBV dispersal velocity was 12.3 km/year. The majority of IBV 
+infections appeared to have derived from the introduction of the Arkansas DPI 
+serotype, and the Arkansas DPI and Georgia 13 were the predominant serotypes. 
+When analyzed against IBV sequences collected across the United States and 
+deposited in the GenBank database, the most likely viral origin of our sequences 
+was from the states of Alabama, Georgia, and Delaware. Information about 
+vaccination showed that the MILDVAC-MASS+ARK vaccine was applied on 26% of the 
+farms. Using a publicly accessible open-source tool for real-time interactive 
+tracking of pathogen spread and evolution, we analyzed the spatiotemporal spread 
+of IBV and developed an online reporting dashboard. Overall, our work 
+demonstrates how the combination of genetic and spatial information could be 
+used to track the spread and evolution of poultry diseases, providing timely 
+information to the industry. Our results could allow producers and veterinarians 
+to monitor in near-real time the current IBV strain circulating, making it more 
+informative, for example, in vaccination-related decisions.
+
+Copyright © 2021 Jara, Crespo, Roberts, Chapman, Banda and Machado.
+
+DOI: 10.3389/fvets.2021.624233
+PMCID: PMC8129014
+PMID: 34017870
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

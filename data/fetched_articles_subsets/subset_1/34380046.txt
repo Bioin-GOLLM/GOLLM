@@ -1,0 +1,84 @@
+1. Cell. 2021 Sep 2;184(18):4819-4837.e22. doi: 10.1016/j.cell.2021.07.017. Epub 
+2021 Aug 10.
+
+Whole-body integration of gene expression and single-cell morphology.
+
+Vergara HM(1), Pape C(2), Meechan KI(3), Zinchenko V(3), Genoud C(4), Wanner 
+AA(5), Mutemi KN(6), Titze B(7), Templin RM(8), Bertucci PY(6), Simakov O(9), 
+Dürichen W(6), Machado P(10), Savage EL(6), Schermelleh L(11), Schwab Y(12), 
+Friedrich RW(13), Kreshuk A(14), Tischer C(15), Arendt D(16).
+
+Author information:
+(1)Developmental Biology Unit, European Molecular Biology Laboratory (EMBL), 
+Meyerhofstrasse 1, Heidelberg 69117, Germany; Sainsbury Wellcome Centre for 
+Neural Circuits and Behaviour, Howland Street 25, London W1T 4JG, UK.
+(2)Cell Biology and Biophysics Unit, European Molecular Biology Laboratory 
+(EMBL), Meyerhofstrasse 1, Heidelberg 69117, Germany; Heidelberg Collaboratory 
+for Image Processing, Institut für Wissenschaftliches Rechnen, Ruprecht Karls 
+Universität Heidelberg, Heidelberg, Germany.
+(3)Cell Biology and Biophysics Unit, European Molecular Biology Laboratory 
+(EMBL), Meyerhofstrasse 1, Heidelberg 69117, Germany; Collaboration for joint 
+PhD degree between EMBL and Heidelberg University, Faculty of Biosciences.
+(4)Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, 
+Basel 4058, Switzerland; Electron Microscopy Facility, Faculty of Biology and 
+Medicine, University of Lausanne, biophore, quartier Sorges, 1015 Lausanne, 
+Switzerland.
+(5)Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, 
+Basel 4058, Switzerland; Princeton Neuroscience Institute, Princeton University, 
+Washington Road, Princeton, NJ 08544, USA; Paul Scherrer Institute (PSI), 
+Forschungsstrasse 111, 5232 Villigen PSI, Switzerland.
+(6)Developmental Biology Unit, European Molecular Biology Laboratory (EMBL), 
+Meyerhofstrasse 1, Heidelberg 69117, Germany.
+(7)Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, 
+Basel 4058, Switzerland.
+(8)Cell Biology and Biophysics Unit, European Molecular Biology Laboratory 
+(EMBL), Meyerhofstrasse 1, Heidelberg 69117, Germany.
+(9)Department of Neuroscience and Developmental Biology, University of Vienna, 
+Althanstr. 14, Vienna 1090, Austria.
+(10)Centre for Ultrastructural Imaging, King's College London, New Hunt's House 
+Guy's Campus, London SE1 1UL, UK.
+(11)Micron Advanced Bioimaging Unit, Department of Biochemistry, University of 
+Oxford, South Parks Road, Oxford OX1 3QU, UK.
+(12)Cell Biology and Biophysics Unit/Electron Microscopy Core Facility, European 
+Molecular Biology Laboratory (EMBL), Meyerhofstrasse 1, Heidelberg 69117, 
+Germany. Electronic address: yannick.schwab@embl.de.
+(13)Friedrich Miescher Institute for Biomedical Research, Maulbeerstrasse 66, 
+Basel 4058, Switzerland. Electronic address: rainer.friedrich@fmi.ch.
+(14)Cell Biology and Biophysics Unit, European Molecular Biology Laboratory 
+(EMBL), Meyerhofstrasse 1, Heidelberg 69117, Germany. Electronic address: 
+anna.kreshuk@embl.de.
+(15)Centre for Bioimage Analysis, Core Facilities, European Molecular Biology 
+Laboratory (EMBL), Meyerhofstrasse 1, Heidelberg 69117, Germany. Electronic 
+address: christian.tischer@embl.de.
+(16)Developmental Biology Unit, European Molecular Biology Laboratory (EMBL), 
+Meyerhofstrasse 1, Heidelberg 69117, Germany; Centre for Organismal Studies 
+(COS), University of Heidelberg, Heidelberg, Germany. Electronic address: 
+arendt@embl.de.
+
+Comment in
+    Nat Methods. 2021 Oct;18(10):1145. doi: 10.1038/s41592-021-01293-2.
+
+Animal bodies are composed of cell types with unique expression programs that 
+implement their distinct locations, shapes, structures, and functions. Based on 
+these properties, cell types assemble into specific tissues and organs. To 
+systematically explore the link between cell-type-specific gene expression and 
+morphology, we registered an expression atlas to a whole-body electron 
+microscopy volume of the nereid Platynereis dumerilii. Automated segmentation of 
+cells and nuclei identifies major cell classes and establishes a link between 
+gene activation, chromatin topography, and nuclear size. Clustering of segmented 
+cells according to gene expression reveals spatially coherent tissues. In the 
+brain, genetically defined groups of neurons match ganglionic nuclei with 
+coherent projections. Besides interneurons, we uncover sensory-neurosecretory 
+cells in the nereid mushroom bodies, which thus qualify as sensory organs. They 
+furthermore resemble the vertebrate telencephalon by molecular anatomy. We 
+provide an integrated browser as a Fiji plugin for remote exploration of all 
+available multimodal datasets.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2021.07.017
+PMCID: PMC8445025
+PMID: 34380046 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests A.A.W. is the founder 
+and owner of ariadne.ai ag.

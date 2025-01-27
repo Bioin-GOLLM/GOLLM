@@ -1,0 +1,52 @@
+1. Front Cell Dev Biol. 2021 Feb 11;9:605977. doi: 10.3389/fcell.2021.605977. 
+eCollection 2021.
+
+Prediction of Lymph-Node Metastasis in Cancers Using Differentially Expressed 
+mRNA and Non-coding RNA Signatures.
+
+Zhang S(1), Zhang C(1), Du J(2), Zhang R(2), Yang S(3), Li B(4), Wang P(5), Deng 
+W(1).
+
+Author information:
+(1)College of Life Science and Health, Wuhan University of Science and 
+Technology, Wuhan, China.
+(2)State Key Laboratory of Tea Plant Biology and Utilization, Anhui Agricultural 
+University, Hefei, China.
+(3)Central Laboratory, Xiaogan Hospital Affiliated to Wuhan University of 
+Science and Technology, Xiaogan, China.
+(4)School of Computer Science and Technology, Wuhan University of Science and 
+Technology, Wuhan, China.
+(5)School of Life Science and Technology, Harbin Institute of Technology, 
+Harbin, China.
+
+Accurate prediction of lymph-node metastasis in cancers is pivotal for the next 
+targeted clinical interventions that allow favorable prognosis for patients. 
+Different molecular profiles (mRNA and non-coding RNAs) have been widely used to 
+establish classifiers for cancer prediction (e.g., tumor origin, cancerous or 
+non-cancerous state, cancer subtype). However, few studies focus on lymphatic 
+metastasis evaluation using these profiles, and the performance of classifiers 
+based on different profiles has also not been compared. Here, differentially 
+expressed mRNAs, miRNAs, and lncRNAs between lymph-node metastatic and 
+non-metastatic groups were identified as molecular signatures to construct 
+classifiers for lymphatic metastasis prediction in different cancers. With this 
+similar feature selection strategy, support vector machine (SVM) classifiers 
+based on different profiles were systematically compared in their prediction 
+performance. For representative cancers (a total of nine types), these 
+classifiers achieved comparative overall accuracies of 81.00% (67.96-92.19%), 
+81.97% (70.83-95.24%), and 80.78% (69.61-90.00%) on independent mRNA, miRNA, and 
+lncRNA datasets, with a small set of biomarkers (6, 12, and 4 on average). 
+Therefore, our proposed feature selection strategies are economical and 
+efficient to identify biomarkers that aid in developing competitive classifiers 
+for predicting lymph-node metastasis in cancers. A user-friendly webserver was 
+also deployed to help researchers in metastasis risk determination by submitting 
+their expression profiles of different origins.
+
+Copyright © 2021 Zhang, Zhang, Du, Zhang, Yang, Li, Wang and Deng.
+
+DOI: 10.3389/fcell.2021.605977
+PMCID: PMC7905047
+PMID: 33644044
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

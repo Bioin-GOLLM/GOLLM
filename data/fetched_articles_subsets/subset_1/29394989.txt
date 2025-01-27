@@ -1,0 +1,58 @@
+1. Am J Hum Genet. 2018 Feb 1;102(2):233-248. doi: 10.1016/j.ajhg.2017.12.013.
+Epub  2018 Jan 25.
+
+Assessment of the Clinical Relevance of BRCA2 Missense Variants by Functional 
+and Computational Approaches.
+
+Guidugli L(1), Shimelis H(1), Masica DL(2), Pankratz VS(3), Lipton GB(4), Singh 
+N(5), Hu C(1), Monteiro ANA(6), Lindor NM(7), Goldgar DE(8), Karchin R(9), 
+Iversen ES(4), Couch FJ(10).
+
+Author information:
+(1)Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN 
+55905, USA.
+(2)Department of Biomedical Engineering and Institute for Computational 
+Medicine, Johns Hopkins University, Baltimore, MD 21205, USA.
+(3)Division of Nephrology, University of New Mexico, Albuquerque, NM 87131, USA.
+(4)Department of Statistical Science, Duke University, Durham, NC 27708, USA.
+(5)Department of Structural Biology, University of California, San Diego, San 
+Diego, CA 92093, USA.
+(6)Cancer Epidemiology Program, H. Lee Moffitt Cancer Center, Tampa, FL 33612, 
+USA.
+(7)Department of Health Sciences Research, Mayo Clinic, Scottsdale, AZ 85259, 
+USA.
+(8)Huntsman Cancer Institute and Department of Dermatology, University of Utah, 
+Salt Lake City, UT 84132, USA.
+(9)Department of Biomedical Engineering and Institute for Computational 
+Medicine, Johns Hopkins University, Baltimore, MD 21205, USA; Department of 
+Oncology, Johns Hopkins University School of Medicine, Baltimore, MD 21218, USA.
+(10)Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN 
+55905, USA. Electronic address: couch.fergus@mayo.edu.
+
+Many variants of uncertain significance (VUS) have been identified in BRCA2 
+through clinical genetic testing. VUS pose a significant clinical challenge 
+because the contribution of these variants to cancer risk has not been 
+determined. We conducted a comprehensive assessment of VUS in the BRCA2 
+C-terminal DNA binding domain (DBD) by using a validated functional assay of 
+BRCA2 homologous recombination (HR) DNA-repair activity and defined a classifier 
+of variant pathogenicity. Among 139 variants evaluated, 54 had ?99% probability 
+of pathogenicity, and 73 had ?95% probability of neutrality. Functional assay 
+results were compared with predictions of variant pathogenicity from the 
+Align-GVGD protein-sequence-based prediction algorithm, which has been used for 
+variant classification. Relative to the HR assay, Align-GVGD significantly (p < 
+0.05) over-predicted pathogenic variants. We subsequently combined functional 
+and Align-GVGD prediction results in a Bayesian hierarchical model (VarCall) to 
+estimate the overall probability of pathogenicity for each VUS. In addition, to 
+predict the effects of all other BRCA2 DBD variants and to prioritize variants 
+for functional studies, we used the endoPhenotype-Optimized Sequence Ensemble 
+(ePOSE) algorithm to train classifiers for BRCA2 variants by using data from the 
+HR functional assay. Together, the results show that systematic functional 
+assays in combination with in silico predictors of pathogenicity provide robust 
+tools for clinical annotation of BRCA2 VUS.
+
+Copyright © 2017 American Society of Human Genetics. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.ajhg.2017.12.013
+PMCID: PMC5985401
+PMID: 29394989 [Indexed for MEDLINE]

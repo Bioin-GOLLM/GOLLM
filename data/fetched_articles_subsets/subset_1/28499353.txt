@@ -1,0 +1,49 @@
+1. BMC Microbiol. 2017 May 12;17(1):112. doi: 10.1186/s12866-017-1013-7.
+
+Transposon insertion sequencing reveals T4SS as the major genetic trait for 
+conjugation transfer of multi-drug resistance pEIB202 from Edwardsiella.
+
+Liu Y(1), Gao Y(1), Liu X(1)(2)(3), Liu Q(1)(2)(3), Zhang Y(1)(2)(3), Wang 
+Q(1)(2)(3), Xiao J(4)(5)(6).
+
+Author information:
+(1)State Key Laboratory of Bioreactor Engineering, East China University of 
+Science and Technology, Shanghai, 200237, China.
+(2)Shanghai Engineering Research Center of Maricultured Animal Vaccines, 
+Shanghai, China.
+(3)Shanghai Collaborative Innovation Center for Biomanufacturing, 130 Meilong 
+Road, Shanghai, 200237, China.
+(4)State Key Laboratory of Bioreactor Engineering, East China University of 
+Science and Technology, Shanghai, 200237, China. jfxiao@ecust.edu.cn.
+(5)Shanghai Engineering Research Center of Maricultured Animal Vaccines, 
+Shanghai, China. jfxiao@ecust.edu.cn.
+(6)Shanghai Collaborative Innovation Center for Biomanufacturing, 130 Meilong 
+Road, Shanghai, 200237, China. jfxiao@ecust.edu.cn.
+
+BACKGROUND: Conjugation is a major type of horizontal transmission of genes that 
+involves transfer of a plasmid into a recipient using specific conjugation 
+machinery, which results in an extended spectrum of bacterial antibiotics 
+resistance. However, there is inadequate knowledge about the regulator and 
+mechanisms that control the conjugation processes, especially in an aquaculture 
+environment where a cocktail of antibiotics may be present. Here, we 
+investigated these with pEIB202, a typical multi-drug resistant IncP plasmid 
+encoding tetracycline, streptomycin, sulfonamide and chloramphenicol resistance 
+in fish pathogen Edwardsiella piscicida strain EIB202.
+RESULTS: We used transposon insertion sequencing (TIS) to identify genes that 
+are responsible for conjugation transfer of pEIB202. All ten of the 
+plasmid-borne type IV secretion system (T4SS) genes and a putative lipoprotein 
+p007 were identified to play an important role in pEIB202 horizontal transfer. 
+Antibiotics appear to modulate conjugation frequencies by repressing T4SS gene 
+expression. In addition, we identified topA gene, which encodes topoisomerase I, 
+as an inhibitor of pEIB202 transfer. Furthermore, the RNA-seq analysis of the 
+response regulator EsrB encoded on the chromosome also revealed its essential 
+role in facilitating the conjugation by upregulating the T4SS genes.
+CONCLUSIONS: Collectively, our screens unraveled the genetic basis of the 
+conjugation transfer of pEIB202 and the influence of horizontally acquired EsrB 
+on this process. Our results will improve the understanding of the mechanism of 
+plasmid conjugation processes that facilitate dissemination of antibiotic 
+resistance especially in aquaculture industries.
+
+DOI: 10.1186/s12866-017-1013-7
+PMCID: PMC5427535
+PMID: 28499353 [Indexed for MEDLINE]

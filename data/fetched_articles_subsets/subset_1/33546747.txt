@@ -1,0 +1,48 @@
+1. Genome Med. 2021 Feb 5;13(1):18. doi: 10.1186/s13073-021-00836-8.
+
+Noninvasive prenatal testing of α-thalassemia and β-thalassemia through 
+population-based parental haplotyping.
+
+Chen C(#)(1)(2), Li R(#)(3), Sun J(#)(1)(2), Zhu Y(1)(2), Jiang L(1)(2), Li 
+J(3), Fu F(3), Wan J(3), Guo F(1)(2), An X(1)(2), Wang Y(1)(2), Fan L(1)(2), Sun 
+Y(1)(4), Guo X(1), Zhao S(1)(2), Wang W(1)(2), Zeng F(1), Yang Y(1)(4)(5), Ni 
+P(1)(2), Ding Y(1)(2), Xiang B(1), Peng Z(6), Liao C(7).
+
+Author information:
+(1)BGI Genomics, BGI-Shenzhen, Shenzhen, 518083, China.
+(2)Tianjin Medical Laboratory, BGI-Tianjin, BGI-Shenzhen, Tianjin, 300308, 
+China.
+(3)Department of Prenatal Diagnostic Center, Guangzhou Women and Children's 
+Medical Center, Guangzhou Medical University, Guangzhou, 510623, China.
+(4)BGI-Wuhan Clinical Laboratories, BGI-Shenzhen, Wuhan, 490079, China.
+(5)Department of Obstetrics and Gynecology, The Second Affiliated Hospital of 
+Zhengzhou University, Zhengzhou, 450052, China.
+(6)BGI Genomics, BGI-Shenzhen, Shenzhen, 518083, China. pengzhiyu@bgi.com.
+(7)Department of Prenatal Diagnostic Center, Guangzhou Women and Children's 
+Medical Center, Guangzhou Medical University, Guangzhou, 510623, China. 
+canliao6008@163.com.
+(#)Contributed equally
+
+BACKGROUND: Noninvasive prenatal testing (NIPT) of recessive monogenic diseases 
+depends heavily on knowing the correct parental haplotypes. However, the 
+currently used family-based haplotyping method requires pedigrees, and molecular 
+haplotyping is highly challenging due to its high cost, long turnaround time, 
+and complexity. Here, we proposed a new two-step approach, population-based 
+haplotyping-NIPT (PBH-NIPT), using α-thalassemia and β-thalassemia as 
+prototypes.
+METHODS: First, we deduced parental haplotypes with Beagle 4.0 with training on 
+a large retrospective carrier screening dataset (4356 thalassemia carrier 
+screening-positive cases). Second, we inferred fetal haplotypes using a parental 
+haplotype-assisted hidden Markov model (HMM) and the Viterbi algorithm.
+RESULTS: With this approach, we enrolled 59 couples at risk of having a fetus 
+with thalassemia and successfully inferred 94.1% (111/118) of fetal alleles. We 
+confirmed these alleles by invasive prenatal diagnosis, with 99.1% (110/111) 
+accuracy (95% CI, 95.1-100%).
+CONCLUSIONS: These results demonstrate that PBH-NIPT is a sensitive, fast, and 
+inexpensive strategy for NIPT of thalassemia.
+
+DOI: 10.1186/s13073-021-00836-8
+PMCID: PMC7866698
+PMID: 33546747 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

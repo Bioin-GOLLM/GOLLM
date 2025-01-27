@@ -1,0 +1,59 @@
+1. PLoS Pathog. 2022 Oct 12;18(10):e1010887. doi: 10.1371/journal.ppat.1010887. 
+eCollection 2022 Oct.
+
+Inhibitors of ApiAP2 protein DNA binding exhibit multistage activity against 
+Plasmodium parasites.
+
+Russell TJ(1)(2)(3)(4), De Silva EK(5), Crowley VM(1), Shaw-Saliba K(6), Dube 
+N(1), Josling G(1)(3)(4), Pasaje CFA(7), Kouskoumvekaki I(8), Panagiotou 
+G(9)(10), Niles JC(7), Jacobs-Lorena M(6), Denise Okafor C(1)(11), Gamo FJ(12), 
+Llinás M(1)(2)(3)(4)(11).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, Pennsylvania State 
+University, State College, Pennsylvania, United States of America.
+(2)Huck Institutes Center for Eukaryotic Gene Regulation (CEGR), Pennsylvania 
+State University, State College, Pennsylvania, United States of America.
+(3)Huck Institutes Center for Malaria Research (CMaR), Pennsylvania State 
+University, State College, Pennsylvania, United States of America.
+(4)Huck Institutes Center for Infectious Disease Dynamics, Pennsylvania State 
+University, State College, Pennsylvania, United States of America.
+(5)Lewis-Singler Institute for Integrative Genomics, Princeton University, 
+Princeton, New Jersey, United States of America.
+(6)Department of Molecular Biology and Immunology, Malaria Research Institute, 
+Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, United 
+States of America.
+(7)Department of Biological Engineering, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts, United States of America.
+(8)Department of Systems Biology, Technical University of Denmark, Kongens 
+Lyngby, Denmark.
+(9)Systems Biology and Bioinformatics, Leibniz Institute for Natural Products 
+Research and Infection Biology, Hans Knöll Institute, Jena, Germany.
+(10)Department of Medicine, the University of Hong Kong, Hong Kong SAR, China.
+(11)Department of Chemistry, Pennsylvania State University, State College, 
+Pennsylvania, United States of America.
+(12)Global Health Medicines, GlaxoSmithKline, Tres Cantos, Spain.
+
+Plasmodium parasites are reliant on the Apicomplexan AP2 (ApiAP2) transcription 
+factor family to regulate gene expression programs. AP2 DNA binding domains have 
+no homologs in the human or mosquito host genomes, making them potential 
+antimalarial drug targets. Using an in-silico screen to dock thousands of small 
+molecules into the crystal structure of the AP2-EXP (Pf3D7_1466400) AP2 domain 
+(PDB:3IGM), we identified putative AP2-EXP interacting compounds. Four compounds 
+were found to block DNA binding by AP2-EXP and at least one additional ApiAP2 
+protein. Our top ApiAP2 competitor compound perturbs the transcriptome of P. 
+falciparum trophozoites and results in a decrease in abundance of log2 fold 
+change > 2 for 50% (46/93) of AP2-EXP target genes. Additionally, two ApiAP2 
+competitor compounds have multi-stage anti-Plasmodium activity against blood and 
+mosquito stage parasites. In summary, we describe a novel set of antimalarial 
+compounds that interact with AP2 DNA binding domains. These compounds may be 
+used for future chemical genetic interrogation of ApiAP2 proteins or serve as 
+starting points for a new class of antimalarial therapeutics.
+
+DOI: 10.1371/journal.ppat.1010887
+PMCID: PMC9591056
+PMID: 36223427 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: F.J.G. is a 
+GlaxoSmithKline employee and own shares of the company.

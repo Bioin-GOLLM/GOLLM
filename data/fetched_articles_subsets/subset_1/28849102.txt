@@ -1,0 +1,48 @@
+1. Mol Med Rep. 2017 Nov;16(5):5954-5964. doi: 10.3892/mmr.2017.7346. Epub 2017
+Aug  24.
+
+Investigating the mechanisms of papillary thyroid carcinoma using transcriptome 
+analysis.
+
+Qiu J(1), Zhang W(2), Xia Q(3), Liu F(4), Zhao S(5), Zhang K(1), Chen M(1), Zang 
+C(1), Ge R(1), Liang D(1), Sun Y(1).
+
+Author information:
+(1)Otolaryngology Head and Neck Surgery, The Affiliated Hospital of Qingdao 
+University, Qingdao, Shandong 266003, P.R. China.
+(2)Radiology Department, The Affiliated Hospital of Qingdao University, Qingdao, 
+Shandong 266003, P.R. China.
+(3)Otolaryngology Head and Neck Surgery, Qingdao Municipal Hospital, Qingdao, 
+Shandong 266071, P.R. China.
+(4)Otolaryngology Head and Neck Surgery, Shaoxing Municipal Hospital, Shaoxing, 
+Zhejiang 312000, P.R. China.
+(5)Otolaryngology Head and Neck Surgery, Shanghai Chang Zheng Hospital, Shanghai 
+200003, P.R. China.
+
+As the predominant thyroid cancer, papillary thyroid cancer (PTC) accounts for 
+75‑85% of thyroid cancer cases. This research aimed to investigate 
+transcriptomic changes and key genes in PTC. Using RNA‑sequencing technology, 
+the transcriptional profiles of 5 thyroid tumor tissues and 5 adjacent normal 
+tissues were obtained. The single nucleotide polymorphisms (SNPs) were 
+identified by SAMtools software and then annotated by ANNOVAR software. After 
+differentially expressed genes (DEGs) were selected by edgR software, they were 
+further investigated by enrichment analysis, protein domain analysis, and 
+protein‑protein interaction (PPI) network analysis. Additionally, the potential 
+gene fusion events were predicted using FusionMap software. A total of 70,172 
+SNPs and 2,686 DEGs in the tumor tissues, as well as 83,869 SNPs in the normal 
+tissues were identified. In the PPI network, fibronectin 1 (FN1; degree=31) and 
+transforming growth factor β receptor 1 (TGFβR1; degree=22) had higher degrees. 
+A total of 7 PPI pairs containing the non‑synonymous risk SNP loci in the 
+interaction domains were identified. Particularly, the interaction domains 
+involved in the interactions of FN1 and 5 other proteins (such as FN1‑tenascin 
+C, TNC) had non‑synonymous risk SNP loci. Furthermore, 11 and 4 gene fusion 
+events were identified in all of the tumor tissues and normal tissues, 
+respectively. Additionally, the NK2 homeobox 1‑surfactant associated 3 
+(NKX2‑1‑SFTA3) gene fusion was identified in both tumor and normal tissues. 
+These results indicated that TGFβR1 and the NKX2‑1‑SFTA3 gene fusion may be 
+involved in PTC. Furthermore, FN1 and TNC containing the non‑synonymous risk SNP 
+loci might serve a role in PTC by interacting with each other.
+
+DOI: 10.3892/mmr.2017.7346
+PMCID: PMC5865774
+PMID: 28849102 [Indexed for MEDLINE]

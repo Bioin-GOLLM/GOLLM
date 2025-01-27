@@ -1,0 +1,65 @@
+1. PLoS One. 2015 Sep 30;10(9):e0139360. doi: 10.1371/journal.pone.0139360. 
+eCollection 2015.
+
+Tissue-Specific Enrichment of Lymphoma Risk Loci in Regulatory Elements.
+
+Hayes JE(1), Trynka G(2), Vijai J(3), Offit K(3), Raychaudhuri S(4), Klein 
+RJ(5).
+
+Author information:
+(1)Clinical Genetics Service, Department of Medicine, Memorial Sloan-Kettering 
+Cancer Center, New York, New York, United States of America; Program in Cancer 
+Biology and Genetics, Memorial Sloan-Kettering Cancer Center, New York, New 
+York, United States of America; Cell and Developmental Biology Graduate Program, 
+Weill Cornell Graduate School of Medical Sciences, Cornell University, New York, 
+New York, United States of America; Department of Genetics and Genomic Sciences, 
+Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+Mount Sinai, New York, New York, United States of America.
+(2)Division of Rheumatology, Immunology and Allergy, Department of Medicine, 
+Brigham and Women's Hospital, Boston, Massachusetts, United States of America; 
+Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Boston, Massachusetts, United States of America; Partners Center for 
+Personalized Genetic Medicine, Boston, Massachusetts, United States of America; 
+Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, 
+Cambridge, Massachusetts, United States of America.
+(3)Clinical Genetics Service, Department of Medicine, Memorial Sloan-Kettering 
+Cancer Center, New York, New York, United States of America; Program in Cancer 
+Biology and Genetics, Memorial Sloan-Kettering Cancer Center, New York, New 
+York, United States of America.
+(4)Division of Rheumatology, Immunology and Allergy, Department of Medicine, 
+Brigham and Women's Hospital, Boston, Massachusetts, United States of America; 
+Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Boston, Massachusetts, United States of America; Partners Center for 
+Personalized Genetic Medicine, Boston, Massachusetts, United States of America; 
+Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, 
+Cambridge, Massachusetts, United States of America; Faculty of Medical and Human 
+Sciences, University of Manchester, Manchester, United Kingdom.
+(5)Clinical Genetics Service, Department of Medicine, Memorial Sloan-Kettering 
+Cancer Center, New York, New York, United States of America; Program in Cancer 
+Biology and Genetics, Memorial Sloan-Kettering Cancer Center, New York, New 
+York, United States of America; Department of Genetics and Genomic Sciences, 
+Icahn Institute for Genomics and Multiscale Biology, Icahn School of Medicine at 
+Mount Sinai, New York, New York, United States of America.
+
+Though numerous polymorphisms have been associated with risk of developing 
+lymphoma, how these variants function to promote tumorigenesis is poorly 
+understood. Here, we report that lymphoma risk SNPs, especially in the 
+non-Hodgkin's lymphoma subtype chronic lymphocytic leukemia, are significantly 
+enriched for co-localization with epigenetic marks of active gene regulation. 
+These enrichments were seen in a lymphoid-specific manner for numerous ENCODE 
+datasets, including DNase-hypersensitivity as well as multiple 
+segmentation-defined enhancer regions. Furthermore, we identify putatively 
+functional SNPs that are both in regulatory elements in lymphocytes and are 
+associated with gene expression changes in blood. We developed an algorithm, 
+UES, that uses a Monte Carlo simulation approach to calculate the enrichment of 
+previously identified risk SNPs in various functional elements. This multiscale 
+approach integrating multiple datasets helps disentangle the underlying biology 
+of lymphoma, and more broadly, is generally applicable to GWAS results from 
+other diseases as well.
+
+DOI: 10.1371/journal.pone.0139360
+PMCID: PMC4589387
+PMID: 26422229 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

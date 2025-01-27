@@ -1,0 +1,30 @@
+1. Chem Zvesti. 2017;71(11):2217-2232. doi: 10.1007/s11696-017-0215-7. Epub 2017 
+Jun 5.
+
+SCRAMBLE'N'GAMBLE: a tool for fast and facile generation of random data for 
+statistical evaluation of QSAR models.
+
+Lipiński PFJ(1), Szurmak P(2).
+
+Author information:
+(1)Department of Neuropeptides, Mossakowski Medical Research Centre Polish 
+Academy of Sciences, 02-106 Warsaw, Poland.
+(2)ChemPharmSoft, 01-926 Warsaw, Poland.
+
+A common practice in modern QSAR modelling is to derive models by variable 
+selection methods working on large descriptor pools. As pointed out previously, 
+this is intrinsically burdened with the risk of finding random correlations. 
+Therefore it is desirable to perform tests showing the performance of models 
+built on random data. In this contribution, we introduce a simple and freely 
+available software tool SCRAMBLE'N'GAMBLE that is aimed at facilitating data 
+preparation for y-randomization and pseudo-descriptors tests. Then, four 
+close-to-real-world modelling situations are analysed. The tests indicate what 
+the quality of obtained QSAR models is like in comparison to chance models 
+derived from random data. The non-randomness is not the only requirement for a 
+good QSAR model, however, it is a good practice to consider it together with 
+internal statistical parameters and possible physical interpretations of a 
+model.
+
+DOI: 10.1007/s11696-017-0215-7
+PMCID: PMC5655615
+PMID: 29104352

@@ -1,0 +1,63 @@
+1. J Neurosci. 2020 Jul 15;40(29):5572-5588. doi: 10.1523/JNEUROSCI.0905-19.2020.
+ Epub 2020 Jun 8.
+
+Dynamical Mechanisms of Interictal Resting-State Functional Connectivity in 
+Epilepsy.
+
+Courtiol J(1), Guye M(2)(3), Bartolomei F(1)(4), Petkoski S(5), Jirsa VK(5).
+
+Author information:
+(1)Aix-Marseille Univ, Inserm, INS, Institut de Neurosciences des Systèmes, 
+13005 Marseille, France.
+(2)Aix-Marseille Univ, CNRS, Centre de Résonance Magnétique et Biologique et 
+Médicale (CRMBM), 13005 Marseille, France.
+(3)Assistance Publique-Hôpitaux de Marseille, Hôpital de La Timone, CEMEREM, 
+Pôle d'Imagerie Médicale, CHU, 13005 Marseille, France.
+(4)Assistance Publique-Hôpitaux de Marseille, Hôpital de La Timone, Service de 
+Neurophysiologie Clinique, CHU, 13005 Marseille, France.
+(5)Aix-Marseille Univ, Inserm, INS, Institut de Neurosciences des Systèmes, 
+13005 Marseille, France spase.petkoski@univ-amu.fr viktor.jirsa@univ-amu.fr.
+
+Drug-resistant focal epilepsy is a large-scale brain networks disorder 
+characterized by altered spatiotemporal patterns of functional connectivity 
+(FC), even during interictal resting state (RS). Although RS-FC-based metrics 
+can detect these changes, results from RS functional magnetic resonance imaging 
+(RS-fMRI) studies are unclear and difficult to interpret, and the underlying 
+dynamical mechanisms are still largely unknown. To better capture the RS 
+dynamics, we phenomenologically extended the neural mass model of partial 
+seizures, the Epileptor, by including two neuron subpopulations of epileptogenic 
+and nonepileptogenic type, making it capable of producing physiological 
+oscillations in addition to the epileptiform activity. Using the 
+neuroinformatics platform The Virtual Brain, we reconstructed 14 epileptic and 5 
+healthy human (of either sex) brain network models (BNMs), based on individual 
+anatomical connectivity and clinically defined epileptogenic heatmaps. Through 
+systematic parameter exploration and fitting to neuroimaging data, we 
+demonstrated that epileptic brains during interictal RS are associated with 
+lower global excitability induced by a shift in the working point of the model, 
+indicating that epileptic brains operate closer to a stable equilibrium point 
+than healthy brains. Moreover, we showed that functional networks are unaffected 
+by interictal spikes, corroborating previous experimental findings; 
+additionally, we observed higher excitability in epileptogenic regions, in 
+agreement with the data. We shed light on new dynamical mechanisms responsible 
+for altered RS-FC in epilepsy, involving the following two key factors: (1) a 
+shift of excitability of the whole brain leading to increased stability; and (2) 
+a locally increased excitability in the epileptogenic regions supporting the 
+mixture of hyperconnectivity and hypoconnectivity in these areas.SIGNIFICANCE 
+STATEMENT Advances in functional neuroimaging provide compelling evidence for 
+epilepsy-related brain network alterations, even during the interictal resting 
+state (RS). However, the dynamical mechanisms underlying these changes are still 
+elusive. To identify local and network processes behind the RS-functional 
+connectivity (FC) spatiotemporal patterns, we systematically manipulated the 
+local excitability and the global coupling in the virtual human epileptic 
+patient brain network models (BNMs), complemented by the analysis of the impact 
+of interictal spikes and fitting to the neuroimaging data. Our results suggest 
+that a global shift of the dynamic working point of the brain model, coupled 
+with locally hyperexcitable node dynamics of the epileptogenic networks, 
+provides a mechanistic explanation of the epileptic processes during the 
+interictal RS period. These, in turn, are associated with the changes in FC.
+
+Copyright © 2020 the authors.
+
+DOI: 10.1523/JNEUROSCI.0905-19.2020
+PMCID: PMC7363471
+PMID: 32513827 [Indexed for MEDLINE]

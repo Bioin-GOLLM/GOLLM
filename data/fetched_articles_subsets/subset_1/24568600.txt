@@ -1,0 +1,36 @@
+1. J Biomed Semantics. 2014 Feb 25;5(1):11. doi: 10.1186/2041-1480-5-11.
+
+Benchmarking infrastructure for mutation text mining.
+
+Klein A(1), Riazanov A, Hindle MM, Baker CJ.
+
+Author information:
+(1)Computer Science And Applied Statistics Department, University of New 
+Brunswick, Saint John, Canada. artjom.unb@gmail.com.
+
+BACKGROUND: Experimental research on the automatic extraction of information 
+about mutations from texts is greatly hindered by the lack of consensus 
+evaluation infrastructure for the testing and benchmarking of mutation text 
+mining systems.
+RESULTS: We propose a community-oriented annotation and benchmarking 
+infrastructure to support development, testing, benchmarking, and comparison of 
+mutation text mining systems. The design is based on semantic standards, where 
+RDF is used to represent annotations, an OWL ontology provides an extensible 
+schema for the data and SPARQL is used to compute various performance metrics, 
+so that in many cases no programming is needed to analyze results from a text 
+mining system. While large benchmark corpora for biological entity and relation 
+extraction are focused mostly on genes, proteins, diseases, and species, our 
+benchmarking infrastructure fills the gap for mutation information. The core 
+infrastructure comprises (1) an ontology for modelling annotations, (2) SPARQL 
+queries for computing performance metrics, and (3) a sizeable collection of 
+manually curated documents, that can support mutation grounding and mutation 
+impact extraction experiments.
+CONCLUSION: We have developed the principal infrastructure for the benchmarking 
+of mutation text mining tasks. The use of RDF and OWL as the representation for 
+corpora ensures extensibility. The infrastructure is suitable for out-of-the-box 
+use in several important scenarios and is ready, in its current state, for 
+initial community adoption.
+
+DOI: 10.1186/2041-1480-5-11
+PMCID: PMC3939821
+PMID: 24568600

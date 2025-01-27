@@ -1,0 +1,48 @@
+1. Protein Expr Purif. 2024 Jan;213:106362. doi: 10.1016/j.pep.2023.106362. Epub 
+2023 Sep 7.
+
+Optimized expression and purification of a human adenosine deaminase in E. coli 
+and characterization of its Asp8Asn variant.
+
+Jennings MR(1), Min S(1), Xu GS(1), Homayuni K(1), Suresh B(1), Haikal YA(1), 
+Blazeck J(2).
+
+Author information:
+(1)School of Chemical and Biomolecular Engineering, Georgia Institute of 
+Technology, Atlanta, GA, 30332, USA.
+(2)School of Chemical and Biomolecular Engineering, Georgia Institute of 
+Technology, Atlanta, GA, 30332, USA. Electronic address: 
+john.blazeck@chbe.gatech.edu.
+
+Homo sapiens adenosine deaminase isoform 1 (HsADA1) hydrolyzes adenosine and 
+2-deoxyadenosine as a key step in the purine nucleoside salvage pathway. Some 
+HsADA1 mutations have severe deleterious effects, as is the case in a severe 
+combined immunodeficiency resulting from loss of enzyme activity (ADA-SCID). 
+Other mutations that reduce enzyme activity, for instance the Asp8Asn (D8N) 
+variant, do not cause ADA-SCID but are correlated with other consequences to 
+health. To ease further study of HsADA1 and its variants, we optimized an 
+inexpensive, recombinant expression process in an Escherichia coli host through 
+multiplexed parameter testing enabled by a lysate-based microtiter plate assay. 
+We demonstrate the importance of gene codon usage, induction time and 
+temperature, and alcohol supplementation towards improving enzyme yield to a 
+final titer of 5 mg per liter of culture. We further show that use of a 
+double-histidine-tag (his-tag) system greatly improves purity. We then utilize 
+our expression and purification framework to produce the HsADA1 D8N variant, 
+which had previously not been purified to homogeneity. We confirm that the D8N 
+variant is ∼30% less active than the wildtype HsADA1 and show that it better 
+retains its activity in human serum. Additionally, we show that both HsADA1 and 
+the D8N variant have heightened activity in serum, driven in part by a 
+previously undescribed phenomenon involving albumin. Therefore, this work 
+presents a valuable process to produce HsADA1 that allows for insights into it 
+and its variants' behavior. We also confirm the utility of lysate-based activity 
+assays towards finding optimal E. coli expression conditions for enzymes and 
+show how fusing his-tags in tandem can enhance product purity.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2023.106362
+PMCID: PMC10664833
+PMID: 37683902 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest JB and MRJ 
+have filed a patent application in relation to this work.

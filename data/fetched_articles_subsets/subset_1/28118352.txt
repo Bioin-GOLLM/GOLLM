@@ -1,0 +1,75 @@
+1. PLoS Med. 2017 Jan 24;14(1):e1002221. doi: 10.1371/journal.pmed.1002221. 
+eCollection 2017 Jan.
+
+Using Genetic Variation to Explore the Causal Effect of Maternal Pregnancy 
+Adiposity on Future Offspring Adiposity: A Mendelian Randomisation Study.
+
+Richmond RC(1)(2), Timpson NJ(1)(2), Felix JF(3)(4)(5), Palmer T(6), Gaillard 
+R(3)(4)(5), McMahon G(2), Davey Smith G(1)(2), Jaddoe VW(3)(4)(5), Lawlor 
+DA(1)(2).
+
+Author information:
+(1)MRC Integrative Epidemiology Unit, University of Bristol, Bristol, United 
+Kingdom.
+(2)School of Social and Community Medicine, University of Bristol, Bristol, 
+United Kingdom.
+(3)The Generation R Study Group, Erasmus MC, University Medical Center 
+Rotterdam, Rotterdam, the Netherlands.
+(4)Department of Epidemiology, Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, the Netherlands.
+(5)Department of Pediatrics, Erasmus MC, University Medical Center Rotterdam, 
+Rotterdam, the Netherlands.
+(6)Department of Mathematics and Statistics, Lancaster University, Lancaster, 
+United Kingdom.
+
+BACKGROUND: It has been suggested that greater maternal adiposity during 
+pregnancy affects lifelong risk of offspring fatness via intrauterine 
+mechanisms. Our aim was to use Mendelian randomisation (MR) to investigate the 
+causal effect of intrauterine exposure to greater maternal body mass index (BMI) 
+on offspring BMI and fat mass from childhood to early adulthood.
+METHODS AND FINDINGS: We used maternal genetic variants as instrumental 
+variables (IVs) to test the causal effect of maternal BMI in pregnancy on 
+offspring fatness (BMI and dual-energy X-ray absorptiometry [DXA] determined fat 
+mass index [FMI]) in a MR approach. This was investigated, with repeat 
+measurements, from ages 7 to 18 in the Avon Longitudinal Study of Parents and 
+Children (ALSPAC; n = 2,521 to 3,720 for different ages). We then sought to 
+replicate findings with results for BMI at age 6 in Generation R (n = 2,337 for 
+replication sample; n = 6,057 for total pooled sample). In confounder-adjusted 
+multivariable regression in ALSPAC, a 1 standard deviation (SD, equivalent of 
+3.7 kg/m2) increase in maternal BMI was associated with a 0.25 SD (95% CI 
+0.21-0.29) increase in offspring BMI at age 7, with similar results at later 
+ages and when FMI was used as the outcome. A weighted genetic risk score was 
+generated from 32 genetic variants robustly associated with BMI (minimum 
+F-statistic = 45 in ALSPAC). The MR results using this genetic risk score as an 
+IV in ALSPAC were close to the null at all ages (e.g., 0.04 SD (95% CI 
+-0.21-0.30) at age 7 and 0.03 SD (95% CI -0.26-0.32) at age 18 per SD increase 
+in maternal BMI), which was similar when a 97 variant generic risk score was 
+used in ALSPAC. When findings from age 7 in ALSPAC were meta-analysed with those 
+from age 6 in Generation R, the pooled confounder-adjusted multivariable 
+regression association was 0.22 SD (95% CI 0.19-0.25) per SD increase in 
+maternal BMI and the pooled MR effect (pooling the 97 variant score results from 
+ALSPAC with the 32 variant score results from Generation R) was 0.05 SD (95%CI 
+-0.11-0.21) per SD increase in maternal BMI (p-value for difference between the 
+two results = 0.05). A number of sensitivity analyses exploring violation of the 
+MR results supported our main findings. However, power was limited for some of 
+the sensitivity tests and further studies with relevant data on maternal, 
+offspring, and paternal genotype are required to obtain more precise (and 
+unbiased) causal estimates.
+CONCLUSIONS: Our findings provide little evidence to support a strong causal 
+intrauterine effect of incrementally greater maternal BMI resulting in greater 
+offspring adiposity.
+
+DOI: 10.1371/journal.pmed.1002221
+PMCID: PMC5261553
+PMID: 28118352 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal's policy and the authors 
+of this manuscript have the following competing interests: GDS is a member of 
+the Editorial Board of PLOS Medicine. In addition to grant funding that is 
+acknowledged in the paper and that was relevant to the conduct of the study 
+reported in the paper, the University of Bristol has received funds from public, 
+charity, and industry funders from grants on which DAL is the Principal 
+applicant (UK Medical Research Council, UK Economic and Social Research Council, 
+UK National Institute of Health Research, Wellcome Trust, British Heart 
+Foundation, Roche Diagnostics, Ferring Pharmaceuticals, and Medtronic PLC.) 
+These funders had no impact on any aspect of the work presented in this paper.

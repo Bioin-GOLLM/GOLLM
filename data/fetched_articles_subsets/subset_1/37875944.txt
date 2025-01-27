@@ -1,0 +1,61 @@
+1. BMC Med Genomics. 2023 Oct 24;16(1):259. doi: 10.1186/s12920-023-01677-7.
+
+Identification of asthma-related genes using asthmatic blood eQTLs of Korean 
+patients.
+
+Kim DJ(#)(1), Lim JE(#)(1), Jung HU(2), Chung JY(2), Baek EJ(3), Jung H(2), Kwon 
+SY(2), Kim HK(1), Kang JO(1), Park K(4), Won S(4)(5), Kim TB(6), Oh B(7)(8)(9).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, School of Medicine, Kyung 
+Hee University, Seoul, Republic of Korea.
+(2)Department of Biomedical Science, Graduate School, Kyung Hee University, 
+Seoul, Korea.
+(3)Mendel Inc, Seoul, Republic of Korea.
+(4)Interdisciplinary Program of Bioinformatics, Seoul National University, 
+Seoul, Republic of Korea.
+(5)Department of Public Health Sciences, School of Public Health, Seoul National 
+University, Seoul, Republic of Korea.
+(6)Department of Allergy and Clinical Immunology, Asan Medical Center, 
+University of Ulsan College of Medicine, Seoul, Republic of Korea. 
+tbkim@amc.seoul.kr.
+(7)Department of Biochemistry and Molecular Biology, School of Medicine, Kyung 
+Hee University, Seoul, Republic of Korea. ohbs@khu.ac.kr.
+(8)Department of Biomedical Science, Graduate School, Kyung Hee University, 
+Seoul, Korea. ohbs@khu.ac.kr.
+(9)Mendel Inc, Seoul, Republic of Korea. ohbs@khu.ac.kr.
+(#)Contributed equally
+
+BACKGROUND: More than 200 asthma-associated genetic variants have been 
+identified in genome-wide association studies (GWASs). Expression quantitative 
+trait loci (eQTL) data resources can help identify causal genes of the GWAS 
+signals, but it can be difficult to find an eQTL that reflects the disease state 
+because most eQTL data are obtained from normal healthy subjects.
+METHODS: We performed a blood eQTL analysis using transcriptomic and genotypic 
+data from 433 Korean asthma patients. To identify asthma-related genes, we 
+carried out colocalization, Summary-based Mendelian Randomization (SMR) 
+analysis, and Transcriptome-Wide Association Study (TWAS) using the results of 
+asthma GWASs and eQTL data. In addition, we compared the results of disease eQTL 
+data and asthma-related genes with two normal blood eQTL data from 
+Genotype-Tissue Expression (GTEx) project and a Japanese study.
+RESULTS: We identified 340,274 cis-eQTL and 2,875 eGenes from asthmatic eQTL 
+analysis. We compared the disease eQTL results with GTEx and a Japanese study 
+and found that 64.1% of the 2,875 eGenes overlapped with the GTEx eGenes and 
+39.0% with the Japanese eGenes. Following the integrated analysis of the 
+asthmatic eQTL data with asthma GWASs, using colocalization and SMR methods, we 
+identified 15 asthma-related genes specific to the Korean asthmatic eQTL data.
+CONCLUSIONS: We provided Korean asthmatic cis-eQTL data and identified 
+asthma-related genes by integrating them with GWAS data. In addition, we 
+suggested these asthma-related genes as therapeutic targets for asthma. We 
+envisage that our findings will contribute to understanding the etiological 
+mechanisms of asthma and provide novel therapeutic targets.
+
+© 2023. BioMed Central Ltd., part of Springer Nature.
+
+DOI: 10.1186/s12920-023-01677-7
+PMCID: PMC10599017
+PMID: 37875944 [Indexed for MEDLINE]
+
+Conflict of interest statement: DJK, JEL, H-UJ, JYC, HJ, SYK, HKK, J-OK, KP, SW, 
+T-BK declare no conflicts of interest. EJB is an employee in Mendel Inc.. BO is 
+Chief Executive Officer of Mendel Inc.

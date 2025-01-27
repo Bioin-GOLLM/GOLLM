@@ -1,0 +1,36 @@
+1. Methods Mol Biol. 2018;1762:455-472. doi: 10.1007/978-1-4939-7756-7_23.
+
+Understanding G Protein-Coupled Receptor Allostery via Molecular Dynamics 
+Simulations: Implications for Drug Discovery.
+
+Basith S(1), Lee Y(1), Choi S(2).
+
+Author information:
+(1)National Leading Research Laboratory (NLRL) of Molecular Modeling & Drug 
+Design, College of Pharmacy and Graduate School of Pharmaceutical Sciences, Ewha 
+Womans University, Seoul, Republic of Korea.
+(2)National Leading Research Laboratory (NLRL) of Molecular Modeling & Drug 
+Design, College of Pharmacy and Graduate School of Pharmaceutical Sciences, Ewha 
+Womans University, Seoul, Republic of Korea. sunchoi@ewha.ac.kr.
+
+Unraveling the mystery of protein allostery has been one of the greatest 
+challenges in both structural and computational biology. However, recent 
+advances in computational methods, particularly molecular dynamics (MD) 
+simulations, have led to its utility as a powerful and popular tool for the 
+study of protein allostery. By capturing the motions of a protein's constituent 
+atoms, simulations can enable the discovery of allosteric hot spots and the 
+determination of the mechanistic basis for allostery. These structural and 
+dynamic studies can provide a foundation for a wide range of applications, 
+including rational drug design and protein engineering. In our laboratory, the 
+use of MD simulations and network analysis assisted in the elucidation of the 
+allosteric hotspots and intracellular signal transduction of G protein-coupled 
+receptors (GPCRs), primarily on one of the adenosine receptor subtypes, A2A 
+adenosine receptor (A2AAR). In this chapter, we describe a method for 
+calculating the map of allosteric signal flow in different GPCR conformational 
+states and illustrate how these concepts have been utilized in understanding the 
+mechanism of GPCR allostery. These structural studies will provide valuable 
+insights into the allosteric and orthosteric modulations that would be of great 
+help to design novel drugs targeting GPCRs in pathological states.
+
+DOI: 10.1007/978-1-4939-7756-7_23
+PMID: 29594786 [Indexed for MEDLINE]

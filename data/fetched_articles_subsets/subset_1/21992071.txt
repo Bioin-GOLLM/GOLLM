@@ -1,0 +1,48 @@
+1. BMC Bioinformatics. 2011;12 Suppl 4(Suppl 4):S5. doi: 
+10.1186/1471-2105-12-S4-S5. Epub 2011 Jul 5.
+
+A formalized description of the standard human variant nomenclature in Extended 
+Backus-Naur Form.
+
+Laros JF(1), Blavier A, den Dunnen JT, Taschner PE.
+
+Author information:
+(1)Department of Human Genetics, Center for Human and Clinical Genetics, Leiden 
+University Medical Center, Leiden, the Netherlands.
+
+BACKGROUND: The use of a standard human sequence variant nomenclature is 
+advocated by the Human Genome Variation Society in order to unambiguously 
+describe genetic variants in databases and literature. There is a clear need for 
+tools that allow the mining of data about human sequence variants and their 
+functional consequences from databases and literature. Existing text mining 
+focuses on the recognition of protein variants and their effects. The 
+recognition of variants at the DNA and RNA levels is essential for dissemination 
+of variant data for diagnostic purposes. Development of new tools is hampered by 
+the complexity of the current nomenclature, which requires processing at the 
+character level to recognize the specific syntactic constructs used in variant 
+descriptions.
+RESULTS: We approached the gene variant nomenclature as a scientific sublanguage 
+and created two formal descriptions of the syntax in Extended Backus-Naur Form: 
+one at the DNA-RNA level and one at the protein level. To ensure compatibility 
+to older versions of the human sequence variant nomenclature, previously 
+recommended variant description formats have been included. The first grammar 
+versions were designed to help build variant description handling in the Alamut 
+mutation interpretation software. The DNA and RNA level descriptions were then 
+updated and used to construct the context-free parser of the Mutalyzer 2 
+sequence variant nomenclature checker, which has already been used to check more 
+than one million variant descriptions.
+CONCLUSIONS: The Extended Backus-Naur Form provided an overview of the full 
+complexity of the syntax of the sequence variant nomenclature, which remained 
+hidden in the textual format and the division of the recommendations across the 
+DNA, RNA and protein sections of the Human Genome Variation Society nomenclature 
+website (http://www.hgvs.org/mutnomen/). This insight into the syntax of the 
+nomenclature could be used to design detailed and clear rules for software 
+development. The Mutalyzer 2 parser demonstrated that it facilitated 
+decomposition of complex variant descriptions into their individual parts. The 
+Extended Backus-Naur Form or parts of it can be used or modified by adding 
+rules, allowing the development of specific sequence variant text mining tools 
+and other programs, which can generate or handle sequence variant descriptions.
+
+DOI: 10.1186/1471-2105-12-S4-S5
+PMCID: PMC3194197
+PMID: 21992071 [Indexed for MEDLINE]

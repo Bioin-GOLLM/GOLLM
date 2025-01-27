@@ -1,0 +1,51 @@
+1. EBioMedicine. 2022 Jan;75:103783. doi: 10.1016/j.ebiom.2021.103783. Epub 2021 
+Dec 28.
+
+Genomic insights in ascending aortic size and distensibility.
+
+Benjamins JW(1), Yeung MW(2), van de Vegte YJ(3), Said MA(3), van der Linden 
+T(3), Ties D(3), Juarez-Orozco LE(2), Verweij N(3), van der Harst P(2).
+
+Author information:
+(1)University of Groningen, University Medical Center Groningen, Department of 
+Cardiology, Groningen, the Netherlands. Electronic address: 
+j.w.benjamins@umcg.nl.
+(2)University of Groningen, University Medical Center Groningen, Department of 
+Cardiology, Groningen, the Netherlands; Department of Heart and Lungs, 
+University Medical Center Utrecht, University of Utrecht, Utrecht, the 
+Netherland.
+(3)University of Groningen, University Medical Center Groningen, Department of 
+Cardiology, Groningen, the Netherlands.
+
+BACKGROUND: Alterations in the anatomic and biomechanical properties of the 
+ascending aorta (AAo) can give rise to various vascular pathologies. The aim of 
+the current study is to gain additional insights in the biology of the AAo size 
+and function.
+METHODS: We developed an AI based analysis pipeline for the segmentation of the 
+AAo, and the extraction of AAO parameters. We then performed genome-wide 
+association studies of AAo maximum area, AAo minimum area and AAo distensibility 
+in up to 37,910 individuals from the UK Biobank. Variants that were 
+significantly associated with AAo phenotypes were used as instrumental variables 
+in Mendelian randomization analyses to investigate potential causal 
+relationships with coronary artery disease, myocardial infarction, stroke and 
+aneurysms.
+FINDINGS: Genome-wide association studies revealed a total of 107 SNPs in 78 
+loci. We annotated 101 candidate genes involved in various biological processes, 
+including connective tissue development (THSD4 and COL6A3). Mendelian 
+randomization analyses showed a causal association with aneurysm development, 
+but not with other vascular diseases.
+INTERPRETATION: We identified 78 loci that provide insights into mechanisms 
+underlying AAo size and function in the general population and provide genetic 
+evidence for their role in aortic aneurysm development.
+
+Copyright © 2021 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2021.103783
+PMCID: PMC8718733
+PMID: 34968759 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests Niek Verweij was 
+employed by Regeneron Pharmaceuticals. Jan Walter Benjamins, Ming Wai Yeung, 
+Yordi J. van de Vegte, M. Abdullah Said, Thijs van der Linden, Daan Ties, Luis 
+E. Juarez-Orozco and Pim van der Harst declare that they have no competing 
+interests.

@@ -1,0 +1,55 @@
+1. Nat Commun. 2022 Apr 6;13(1):1857. doi: 10.1038/s41467-022-29501-3.
+
+Waffle Method: A general and flexible approach for improving throughput in 
+FIB-milling.
+
+Kelley K(1), Raczkowski AM(#)(1)(2), Klykov O(#)(1)(3), Jaroenlak P(#)(4), Bobe 
+D(#)(1), Kopylov M(1), Eng ET(1), Bhabha G(4), Potter CS(1)(3), Carragher 
+B(5)(6), Noble AJ(7).
+
+Author information:
+(1)National Center for In-situ Tomographic Ultramicroscopy, Simons Electron 
+Microscopy Center, New York Structural Biology Center, New York, NY, USA.
+(2)Cryo-Electron Microscopy Lab, Life Sciences Institute, University of 
+Michigan, Ann Arbor, MI, USA.
+(3)Department of Biochemistry and Molecular Biophysics, Columbia University, New 
+York, NY, USA.
+(4)Skirball Institute of Biomolecular Medicine and Department of Cell Biology, 
+New York University School of Medicine, New York, NY, USA.
+(5)National Center for In-situ Tomographic Ultramicroscopy, Simons Electron 
+Microscopy Center, New York Structural Biology Center, New York, NY, USA. 
+bcarr@nysbc.org.
+(6)Skirball Institute of Biomolecular Medicine and Department of Cell Biology, 
+New York University School of Medicine, New York, NY, USA. bcarr@nysbc.org.
+(7)National Center for In-situ Tomographic Ultramicroscopy, Simons Electron 
+Microscopy Center, New York Structural Biology Center, New York, NY, USA. 
+anoble@nysbc.org.
+(#)Contributed equally
+
+Cryo-FIB/SEM combined with cryo-ET has emerged from within the field of cryo-EM 
+as the method for obtaining the highest resolution structural information of 
+complex biological samples in-situ in native and non-native environments. 
+However, challenges remain in conventional cryo-FIB/SEM workflows, including 
+milling thick specimens with vitrification issues, specimens with preferred 
+orientation, low-throughput when milling small and/or low concentration 
+specimens, and specimens that distribute poorly across grid squares. Here we 
+present a general approach called the 'Waffle Method' which leverages 
+high-pressure freezing to address these challenges. We illustrate the mitigation 
+of these challenges by applying the Waffle Method and cryo-ET to reveal the 
+macrostructure of the polar tube in microsporidian spores in multiple 
+complementary orientations, which was previously not possible due to preferred 
+orientation. We demonstrate the broadness of the Waffle Method by applying it to 
+three additional cellular samples and a single particle sample using a variety 
+of cryo-FIB-milling hardware, with manual and automated approaches. We also 
+present a unique and critical stress-relief gap designed specifically for 
+waffled lamellae. We propose the Waffle Method as a way to achieve many 
+advantages of cryo-liftout on the specimen grid while avoiding the long, 
+challenging, and technically-demanding process required for cryo-liftout.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-29501-3
+PMCID: PMC8987090
+PMID: 35387991 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

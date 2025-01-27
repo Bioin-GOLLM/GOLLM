@@ -1,0 +1,57 @@
+1. bioRxiv [Preprint]. 2023 Oct 5:2023.06.06.543877. doi: 
+10.1101/2023.06.06.543877.
+
+An X Chromosome Transcriptome Wide Association Study Implicates ARMCX6 in 
+Alzheimer's Disease.
+
+Zhang X(1), Gomez L(2), Below J(3), Naj A(4), Martin E(5), Kunkle B(5), Bush 
+WS(1).
+
+Author information:
+(1)Department of Population and Quantitative Health Sciences, Case Western 
+Reserve University, Cleveland, 44106, USA.
+(2)John P. Hussman Institute for Human Genomics, Miller School of Medicine, 
+University of Miami, Miami, FL, 33136, USA.
+(3)Vanderbilt Genetics Institute, Vanderbilt University Medical Center, 
+Nashville, 37235, USA.
+(4)Department of Biostatistics, Epidemiology, and Informatics, Penn 
+Neurodegeneration Genomics Center, University of Pennsylvania Perelman School of 
+Medicine, Philadelphia, 19104, USA; Department of Pathology and Laboratory 
+Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, 
+19104, USA.
+(5)John P. Hussman Institute for Human Genomics, University of Miami Miller 
+School of Medicine, Miami, 33176, USA.
+
+Update in
+    J Alzheimers Dis. 2024;98(3):1053-1067. doi: 10.3233/JAD-231075.
+
+BACKGROUND: The X chromosome is often omitted in disease association studies 
+despite containing thousands of genes which may provide insight into well-known 
+sex differences in the risk of Alzheimer's Disease.
+OBJECTIVE: To model the expression of X chromosome genes and evaluate their 
+impact on Alzheimer's Disease risk in a sex-stratified manner.
+METHODS: Using elastic net, we evaluated multiple modeling strategies in a set 
+of 175 whole blood samples and 126 brain cortex samples, with whole genome 
+sequencing and RNA-seq data. SNPs (MAF>0.05) within the cis-regulatory window 
+were used to train tissue-specific models of each gene. We apply the best models 
+in both tissues to sex-stratified summary statistics from a meta-analysis of 
+Alzheimer's disease Genetics Consortium (ADGC) studies to identify AD-related 
+genes on the X chromosome.
+RESULTS: Across different model parameters, sample sex, and tissue types, we 
+modeled the expression of 217 genes (95 genes in blood and 135 genes in brain 
+cortex). The average model R2 was 0.12 (range from 0.03 to 0.34). We also 
+compared sex-stratified and sex-combined models on the X chromosome. We further 
+investigated genes that escaped X chromosome inactivation (XCI) to determine if 
+their genetic regulation patterns were distinct. We found ten genes associated 
+with AD at p 0.05, with only ARMCX6 in female brain cortex (p = 0.008) nearing 
+the significance threshold after adjusting for multiple testing (α = 0.002).
+CONCLUSIONS: We optimized the expression prediction of X chromosome genes, 
+applied these models to sex-stratified AD GWAS summary statistics, and 
+identified one putative AD risk gene, ARMCX6.
+
+DOI: 10.1101/2023.06.06.543877
+PMCID: PMC10274627
+PMID: 37333116
+
+Conflict of interest statement: Conflict of Interest The authors have no 
+conflict of interest to report.

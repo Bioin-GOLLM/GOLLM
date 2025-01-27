@@ -1,0 +1,36 @@
+1. J Am Stat Assoc. 2017;112(517):64-76. doi: 10.1080/01621459.2016.1192039. Epub
+ 2017 May 3.
+
+The Generalized Higher Criticism for Testing SNP-Set Effects in Genetic 
+Association Studies.
+
+Barnett I(1), Mukherjee R(2), Lin X(1).
+
+Author information:
+(1)Department of Biostatistics, Harvard School of Public Health, Boston, MA.
+(2)Department of Statistics, Stanford University, Stanford, CA.
+
+It is of substantial interest to study the effects of genes, genetic pathways, 
+and networks on the risk of complex diseases. These genetic constructs each 
+contain multiple SNPs, which are often correlated and function jointly, and 
+might be large in number. However, only a sparse subset of SNPs in a genetic 
+construct is generally associated with the disease of interest. In this article, 
+we propose the generalized higher criticism (GHC) to test for the association 
+between an SNP set and a disease outcome. The higher criticism is a test 
+traditionally used in high-dimensional signal detection settings when marginal 
+test statistics are independent and the number of parameters is very large. 
+However, these assumptions do not always hold in genetic association studies, 
+due to linkage disequilibrium among SNPs and the finite number of SNPs in an SNP 
+set in each genetic construct. The proposed GHC overcomes the limitations of the 
+higher criticism by allowing for arbitrary correlation structures among the SNPs 
+in an SNP-set, while performing accurate analytic p-value calculations for any 
+finite number of SNPs in the SNP-set. We obtain the detection boundary of the 
+GHC test. We compared empirically using simulations the power of the GHC method 
+with existing SNP-set tests over a range of genetic regions with varied 
+correlation structures and signal sparsity. We apply the proposed methods to 
+analyze the CGEM breast cancer genome-wide association study. Supplementary 
+materials for this article are available online.
+
+DOI: 10.1080/01621459.2016.1192039
+PMCID: PMC5517103
+PMID: 28736464

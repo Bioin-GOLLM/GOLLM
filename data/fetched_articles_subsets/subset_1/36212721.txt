@@ -1,0 +1,52 @@
+1. Biomed Res Int. 2022 Sep 28;2022:2016006. doi: 10.1155/2022/2016006.
+eCollection  2022.
+
+Differentiating Glioblastoma Multiforme from Brain Metastases Using 
+Multidimensional Radiomics Features Derived from MRI and Multiple Machine 
+Learning Models.
+
+Bijari S(1), Jahanbakhshi A(2), Hajishafiezahramini P(3), Abdolmaleki P(4).
+
+Author information:
+(1)Department of Medical Physics, Faculty of Medical Sciences, Tarbiat Modares 
+University, Tehran, Iran.
+(2)Stem Cell and Regenerative Research Center, Iran University of Medical 
+Sciences, Tehran, Iran.
+(3)Department of Biophysics, Faculty of Biological Sciences, Tarbiat Modares 
+University, Jalal AleAhmad, Nasr, P.O. Box 14115-111, Tehran, Iran.
+(4)Department of Biophysics, Faculty of Biological Sciences, Tarbiat Modares 
+University, Tehran, Iran.
+
+Due to different treatment strategies, it is extremely important to 
+differentiate between glioblastoma multiforme (GBM) and brain metastases (MET). 
+It often proves difficult to distinguish between GBM and MET using MRI due to 
+their similar appearance on the imaging modalities. Surgical methods are still 
+necessary for definitive diagnosis, despite the importance of magnetic resonance 
+imaging in detecting, characterizing, and monitoring brain tumors. We introduced 
+an accurate, convenient, and user-friendly method to differentiate between GBM 
+and MET through routine MRI sequence and radiomics analyses. We collected 91 
+patients from one institution, including 50 with GBM and 41 with MET, which were 
+proven pathologically. The tumors separately were segmented on all MRI images 
+(T1-weighted imaging (T1WI), contrast-enhanced T1-weighted imaging (T1C), 
+T2-weighted imaging (T2WI), and fluid-attenuated inversion recovery (FLAIR)) to 
+form the volume of interest (VOI). Eight ML models and feature reduction 
+strategies were evaluated using routine MRI sequences (T1W, T2W, T1-CE, and 
+FLAIR) in two methods with (second model) and without wavelet transform (first 
+model) radiomics. The optimal model was selected based on each model's accuracy, 
+AUC-roc, and F1-score values. In this study, we have achieved the result of 
+0.98, 0.99, and 0.98 percent for accuracy, AUC-roc, and F1-score, respectively, 
+which have yielded a better result than the first model. In most investigated 
+models, there were significant improvements in the multidimensional wavelets 
+model compared to the non-multidimensional wavelets model. Multidimensional 
+discrete wavelet transform can analyze hidden features of the MRI from a 
+different perspective and generate accurate features which are highly correlated 
+with the model accuracy.
+
+Copyright © 2022 Salar Bijari et al.
+
+DOI: 10.1155/2022/2016006
+PMCID: PMC9534611
+PMID: 36212721 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

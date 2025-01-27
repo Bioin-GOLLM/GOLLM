@@ -1,0 +1,37 @@
+1. PLoS One. 2016 Nov 10;11(11):e0166372. doi: 10.1371/journal.pone.0166372. 
+eCollection 2016.
+
+A Platform for Designing Genome-Based Personalized Immunotherapy or Vaccine 
+against Cancer.
+
+Gupta S(1), Chaudhary K(1), Dhanda SK(1), Kumar R(1), Kumar S(1), Sehgal M(1), 
+Nagpal G(1), Raghava GP(1).
+
+Author information:
+(1)Bioinformatics Centre, CSIR-Institute of Microbial Technology, 
+Chandigarh-160036, India.
+
+Due to advancement in sequencing technology, genomes of thousands of cancer 
+tissues or cell-lines have been sequenced. Identification of cancer-specific 
+epitopes or neoepitopes from cancer genomes is one of the major challenges in 
+the field of immunotherapy or vaccine development. This paper describes a 
+platform Cancertope, developed for designing genome-based immunotherapy or 
+vaccine against a cancer cell. Broadly, the integrated resources on this 
+platform are apportioned into three precise sections. First section explains a 
+cancer-specific database of neoepitopes generated from genome of 905 cancer cell 
+lines. This database harbors wide range of epitopes (e.g., B-cell, CD8+ T-cell, 
+HLA class I, HLA class II) against 60 cancer-specific vaccine antigens. Second 
+section describes a partially personalized module developed for predicting 
+potential neoepitopes against a user-specific cancer genome. Finally, we 
+describe a fully personalized module developed for identification of neoepitopes 
+from genomes of cancerous and healthy cells of a cancer-patient. In order to 
+assist the scientific community, wide range of tools are incorporated in this 
+platform that includes screening of epitopes against human reference proteome 
+(http://www.imtech.res.in/raghava/cancertope/).
+
+DOI: 10.1371/journal.pone.0166372
+PMCID: PMC5104390
+PMID: 27832200 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

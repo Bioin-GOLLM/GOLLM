@@ -1,0 +1,34 @@
+1. Pac Symp Biocomput. 2017;22:414-425. doi: 10.1142/9789813207813_0039.
+
+HUMAN KINASES DISPLAY MUTATIONAL HOTSPOTS AT COGNATE POSITIONS WITHIN CANCER.
+
+Gallion J(1), Wilkins AD, Lichtarge O.
+
+Author information:
+(1)Structural Computational Biology and Molecular Biophysics, Baylor College of 
+Medicine, One Baylor Plaza Houston, TX, 77030, USA†The authors gratefully 
+acknowledge support from the National Institutes of Health (GM066099 and 
+GM079656), from the National Science Foundation (DBI-1356569), and from DARPA 
+(N66001-15-C-4042), Jonathan.Gallion@bcm.edu.
+
+The discovery of driver genes is a major pursuit of cancer genomics, usually 
+based on observing the same mutation in different patients. But the 
+heterogeneity of cancer pathways plus the high background mutational frequency 
+of tumor cells often cloud the distinction between less frequent drivers and 
+innocent passenger mutations. Here, to overcome these disadvantages, we grouped 
+together mutations from close kinase paralogs under the hypothesis that cognate 
+mutations may functionally favor cancer cells in similar ways. Indeed, we find 
+that kinase paralogs often bear mutations to the same substituted amino acid at 
+the same aligned positions and with a large predicted Evolutionary Action. 
+Functionally, these high Evolutionary Action, non-random mutations affect known 
+kinase motifs, but strikingly, they do so differently among different kinase 
+types and cancers, consistent with differences in selective pressures. Taken 
+together, these results suggest that cancer pathways may flexibly distribute a 
+dependence on a given functional mutation among multiple close kinase paralogs. 
+The recognition of this "mutational delocalization" of cancer drivers among 
+groups of paralogs is a new phenomena that may help better identify relevant 
+mechanisms and therefore eventually guide personalized therapy.
+
+DOI: 10.1142/9789813207813_0039
+PMCID: PMC5157159
+PMID: 27896994 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+1. Dev Cell. 2015 Nov 23;35(4):444-57. doi: 10.1016/j.devcel.2015.10.023.
+
+Network Analysis Identifies Mitochondrial Regulation of Epidermal 
+Differentiation by MPZL3 and FDXR.
+
+Bhaduri A(1), Ungewickell A(2), Boxer LD(3), Lopez-Pajares V(1), Zarnegar BJ(1), 
+Khavari PA(4).
+
+Author information:
+(1)Program in Epithelial Biology, Stanford University School of Medicine, 
+Stanford, CA 94305, USA.
+(2)Program in Epithelial Biology, Stanford University School of Medicine, 
+Stanford, CA 94305, USA; Division of Hematology, Stanford University, Stanford, 
+CA 94305, USA.
+(3)Program in Epithelial Biology, Stanford University School of Medicine, 
+Stanford, CA 94305, USA; Department of Biology, Stanford University, Stanford, 
+CA 94305, USA.
+(4)Program in Epithelial Biology, Stanford University School of Medicine, 
+Stanford, CA 94305, USA; Veterans Affairs Palo Alto Healthcare System, Palo 
+Alto, CA 94304, USA. Electronic address: khavari@stanford.edu.
+
+Current gene expression network approaches commonly focus on transcription 
+factors (TFs), biasing network-based discovery efforts away from potentially 
+important non-TF proteins. We developed proximity analysis, a network 
+reconstruction method that uses topological constraints of scale-free, 
+small-world biological networks to reconstruct relationships in eukaryotic 
+systems, independent of subcellular localization. Proximity analysis identified 
+MPZL3 as a highly connected hub that is strongly induced during epidermal 
+differentiation. MPZL3 was essential for normal differentiation, acting 
+downstream of p63, ZNF750, KLF4, and RCOR1, each of which bound near the MPZL3 
+gene and controlled its expression. MPZL3 protein localized to mitochondria, 
+where it interacted with FDXR, which was itself also found to be essential for 
+differentiation. Together, MPZL3 and FDXR increased reactive oxygen species 
+(ROS) to drive epidermal differentiation. ROS-induced differentiation is 
+dependent upon promotion of FDXR enzymatic activity by MPZL3. ROS induction by 
+the MPZL3 and FDXR mitochondrial proteins is therefore essential for epidermal 
+differentiation.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2015.10.023
+PMCID: PMC4845910
+PMID: 26609959 [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+1. Cancers (Basel). 2021 May 14;13(10):2366. doi: 10.3390/cancers13102366.
+
+Sequence Neighborhoods Enable Reliable Prediction of Pathogenic Mutations in 
+Cancer Genomes.
+
+Banerjee S(1)(2)(3), Raman K(1)(2)(3), Ravindran B(1)(2)(4).
+
+Author information:
+(1)Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI), 
+Indian Institute of Technology (IIT) Madras, Chennai 600 036, India.
+(2)Initiative for Biological Systems Engineering, Indian Institute of Technology 
+(IIT) Madras, Chennai 600 036, India.
+(3)Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences, 
+Indian Institute of Technology (IIT) Madras, Chennai 600 036, India.
+(4)Department of Computer Science and Engineering, Indian Institute of 
+Technology (IIT) Madras, Chennai 600 036, India.
+
+Identifying cancer-causing mutations from sequenced cancer genomes hold much 
+promise for targeted therapy and precision medicine. "Driver" mutations are 
+primarily responsible for cancer progression, while "passengers" are 
+functionally neutral. Although several computational approaches have been 
+developed for distinguishing between driver and passenger mutations, very few 
+have concentrated on using the raw nucleotide sequences surrounding a particular 
+mutation as potential features for building predictive models. Using 
+experimentally validated cancer mutation data in this study, we explored various 
+string-based feature representation techniques to incorporate information on the 
+neighborhood bases immediately 5' and 3' from each mutated position. Density 
+estimation methods showed significant distributional differences between the 
+neighborhood bases surrounding driver and passenger mutations. Binary 
+classification models derived using repeated cross-validation experiments 
+provided comparable performances across all window sizes. Integrating sequence 
+features derived from raw nucleotide sequences with other genomic, structural, 
+and evolutionary features resulted in the development of a pan-cancer mutation 
+effect prediction tool, NBDriver, which was highly efficient in identifying 
+pathogenic variants from five independent validation datasets. An ensemble 
+predictor obtained by combining the predictions from NBDriver with three other 
+commonly used driver prediction tools (FATHMM (cancer), CONDEL, and 
+MutationTaster) significantly outperformed existing pan-cancer models in 
+prioritizing a literature-curated list of driver and passenger mutations. Using 
+the list of true positive mutation predictions derived from NBDriver, we 
+identified a list of 138 known driver genes with functional evidence from 
+various sources. Overall, our study underscores the efficacy of using raw 
+nucleotide sequences as features to distinguish between driver and passenger 
+mutations from sequenced cancer genomes.
+
+DOI: 10.3390/cancers13102366
+PMCID: PMC8156421
+PMID: 34068918
+
+Conflict of interest statement: The authors declare no conflict of interest.

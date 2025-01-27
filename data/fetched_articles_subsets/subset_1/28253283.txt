@@ -1,0 +1,51 @@
+1. PLoS One. 2017 Mar 2;12(3):e0172959. doi: 10.1371/journal.pone.0172959. 
+eCollection 2017.
+
+A flexible method to model HIV serodiscordance among couples in Mozambique.
+
+Juga AJ(1)(2), Hens N(2)(3)(4), Osman N(5)(6), Aerts M(2).
+
+Author information:
+(1)Department of Mathematics and Informatics, Faculty of Sciences, Eduardo 
+Mondlane University, Maputo, Mozambique.
+(2)I-BioStat, Hasselt University, Diepenbeek, Belgium.
+(3)Centre for Health Economic Research and Modelling Infectious Diseases, 
+Vaccine and Infectious Disease Institute (VAXINFECTIO), University of Antwerp, 
+Antwerp, Belgium.
+(4)Epidemiology and Social Medicine (ESOC), Faculty of Medicine and Health 
+Sciences, University of Antwerp, Antwerp, Belgium.
+(5)Department of Obstetrics and Gynaecology, Maputo Central Hospital, Maputo, 
+Mozambique.
+(6)Faculty of Medicine, Eduardo Mondlane University, Maputo, Mozambique.
+
+Whereas the number of people newly infected by HIV is continuing to decline 
+globally, the epidemic continues to expand in many parts of the world. As the 
+HIV/AIDS epidemic has matured in many countries, it is believed that the 
+proportion of new infections occurring within couples has risen. Across 
+countries, including Mozambique, a sizeable proportion of couples with HIV 
+infection are discordant. A serodiscordant couple is a couple in which one 
+partner has tested positive for HIV and the other has not. To describe the HIV 
+serodiscordance among couples, a variety of association measures can be used. In 
+this paper, we propose the serodiscordance measure (SDM) as a new alternative 
+measure. Focus is on the specification of flexible marginal and random effects 
+models for multivariate correlated binary data together with a full-likelihood 
+estimation method, to adequately and directly describe the measure of interest. 
+Fitting joint models allows examining the effects of different risk factors and 
+other covariates on the probability to be HIV positive for each member within a 
+couple, and estimating common effects for both probabilities more efficiently, 
+while accounting for the association between their infection status. Moreover, 
+the interpretation of the proposed association parameter SDM is more direct and 
+relevant and effects of covariates can be studied as well. Results show that the 
+HIV prevalence for the province where a couple was located as well as the union 
+number for the woman within a couple are factors associated with HIV 
+serodiscordance. These findings are important for the Mozambican public health 
+policy makers to design national prevention plans, which include policies to 
+stimulate regular HIV testing for couples as well as adolescents and young 
+adults, prior to getting married or living together as a couple.
+
+DOI: 10.1371/journal.pone.0172959
+PMCID: PMC5416904
+PMID: 28253283 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

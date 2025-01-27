@@ -1,0 +1,32 @@
+1. BMC Bioinformatics. 2009 Jan 30;10 Suppl 1(Suppl 1):S38. doi: 
+10.1186/1471-2105-10-S1-S38.
+
+Prediction of RNA secondary structure with pseudoknots using integer 
+programming.
+
+Poolsap U(1), Kato Y, Akutsu T.
+
+Author information:
+(1)Bioinformatics Center, Institute for Chemical Research, Kyoto University, 
+Gokasho, Uji, Kyoto 611-0011, Japan. unyanee@kuicr.kyoto-u.ac.jp
+
+BACKGROUND: RNA secondary structure prediction is one major task in 
+bioinformatics, and various computational methods have been proposed so far. 
+Pseudoknot is one of the typical substructures appearing in several RNAs, and 
+plays an important role in some biological processes. Prediction of RNA 
+secondary structure with pseudoknots is still challenging since the problem is 
+NP-hard when arbitrary pseudoknots are taken into consideration.
+RESULTS: We introduce a new method of predicting RNA secondary structure with 
+pseudoknots based on integer programming. In our formulation, we aim at 
+minimizing the value of the objective function that reflects free energy of a 
+folding structure of an input RNA sequence. We focus on a practical class of 
+pseudoknots by setting constraints appropriately. Experimental results for a set 
+of real RNA sequences show that our proposed method outperforms several existing 
+methods in sensitivity. Furthermore, for a set of sequences of small length, our 
+approach achieved good performance in both sensitivity and specificity.
+CONCLUSION: Our integer programming-based approach for RNA structure prediction 
+is flexible and extensible.
+
+DOI: 10.1186/1471-2105-10-S1-S38
+PMCID: PMC2648744
+PMID: 19208139 [Indexed for MEDLINE]

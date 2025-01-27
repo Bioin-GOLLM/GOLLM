@@ -1,0 +1,46 @@
+1. PLoS One. 2020 Aug 11;15(8):e0237559. doi: 10.1371/journal.pone.0237559. 
+eCollection 2020.
+
+Global cataloguing of variations in untranslated regions of viral genome and 
+prediction of key host RNA binding protein-microRNA interactions modulating 
+genome stability in SARS-CoV-2.
+
+Mukherjee M(1), Goswami S(1).
+
+Author information:
+(1)National Institute of Biomedical Genomics, Kalyani, West Bengal, India.
+
+BACKGROUND: The world is going through the critical phase of COVID-19 pandemic, 
+caused by human coronavirus, SARS-CoV-2. Worldwide concerted effort to identify 
+viral genomic changes across different sub-types has identified several strong 
+changes in the coding region. However, there have not been many studies focusing 
+on the variations in the 5' and 3' untranslated regions and their consequences. 
+Considering the possible importance of these regions in host mediated regulation 
+of viral RNA genome, we wanted to explore the phenomenon.
+METHODS: To have an idea of the global changes in 5' and 3'-UTR sequences, we 
+downloaded 8595 complete and high-coverage SARS-CoV-2 genome sequence 
+information from human host in FASTA format from Global Initiative on Sharing 
+All Influenza Data (GISAID) from 15 different geographical regions. Next, we 
+aligned them using Clustal Omega software and investigated the UTR variants. We 
+also looked at the putative host RNA binding protein (RBP) and microRNA binding 
+sites in these regions by 'RBPmap' and 'RNA22 v2' respectively. Expression 
+status of selected RBPs and microRNAs were checked in lungs tissue.
+RESULTS: We identified 28 unique variants in SARS-CoV-2 UTR region based on a 
+minimum variant percentage cut-off of 0.5. Along with 241C>T change the 
+important 5'-UTR change identified was 187A>G, while 29734G>C, 29742G>A/T and 
+29774C>T were the most familiar variants of 3'UTR among most of the continents. 
+Furthermore, we found that despite the variations in the UTR regions, binding of 
+host RBP to them remains mostly unaltered, which further influenced the 
+functioning of specific miRNAs.
+CONCLUSION: Our results, shows for the first time in SARS-Cov-2 infection, a 
+possible cross-talk between host RBPs-miRNAs and viral UTR variants, which 
+ultimately could explain the mechanism of escaping host RNA decay machinery by 
+the virus. The knowledge might be helpful in developing anti-viral compounds in 
+future.
+
+DOI: 10.1371/journal.pone.0237559
+PMCID: PMC7418985
+PMID: 32780783 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

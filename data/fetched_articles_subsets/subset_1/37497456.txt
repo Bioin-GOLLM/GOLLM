@@ -1,0 +1,57 @@
+1. Bio Protoc. 2023 Jul 20;13(14):e4724. doi: 10.21769/BioProtoc.4724.
+eCollection  2023 Jul 20.
+
+HDR-based CRISPR/Cas9-mediated Knockout of PD-L1 in C57BL/6 Mice.
+
+Heeb LV(1), Taskoparan B(2), Katsoulas A(2), Beffinger M(2), Clavien PA(1), 
+Kobold S(3)(4), Gupta A(1), Berg JV(2).
+
+Author information:
+(1)Department of Visceral Surgery and Transplantation University Hospital 
+Zurich, Zurich, Switzerland.
+(2)Institute of Laboratory Animal Science, University of Zurich, Zurich, 
+Switzerland.
+(3)Division of Clinical Pharmacology, Department of Medicine IV, Klinikum der 
+Universität München, München, Germany.
+(4)German Cancer Consortium (DKTK), partner site Munich, Munich, Germany.
+
+The immune-inhibitory molecule programmed cell death ligand 1 (PD-L1) has been 
+shown to play a role in pathologies such as autoimmunity, infections, and 
+cancer. The expression of PD-L1 not only on cancer cells but also on 
+non-transformed host cells is known to be associated with cancer progression. 
+Generation of PD-L1 deficiency in the murine system enables us to specifically 
+study the role of PD-L1 in physiological processes and diseases. One of the most 
+versatile and easy to use site-specific gene editing tools is the CRISPR/Cas9 
+system, which is based on an RNA-guided nuclease system. Similar to its 
+predecessors, the Zinc finger nucleases or transcription activator-like effector 
+nucleases (TALENs), CRISPR/Cas9 catalyzes double-strand DNA breaks, which can 
+result in frameshift mutations due to random nucleotide insertions or deletions 
+via non-homologous end joining (NHEJ). Furthermore, although less frequently, 
+CRISPR/Cas9 can lead to insertion of defined sequences due to homology-directed 
+repair (HDR) in the presence of a suitable template. Here, we describe a 
+protocol for the knockout of PD-L1 in the murine C57BL/6 background using 
+CRISPR/Cas9. Targeting of exon 3 coupled with the insertion of a HindIII 
+restriction site leads to a premature stop codon and a loss-of-function 
+phenotype. We describe the targeting strategy as well as founder screening, 
+genotyping, and phenotyping. In comparison to NHEJ-based strategy, the presented 
+approach results in a defined stop codon with comparable efficiency and 
+timelines as NHEJ, generates convenient founder screening and genotyping 
+options, and can be swiftly adapted to other targets.
+
+©Copyright : © 2023 The Authors; This is an open access article under the CC BY 
+license.
+
+DOI: 10.21769/BioProtoc.4724
+PMCID: PMC10366997
+PMID: 37497456
+
+Conflict of interest statement: Competing interestsJ.v.B. and M.B. are 
+shareholders and part time employees of InCephalo AG. J.v.B. is an inventor of 
+patents related to immunotherapy of cancer and has received licensing fees for 
+these, speaker fees from Bristol Meyer Squibb and research support by Boehringer 
+Ingelheim Animal Health for work not related to this manuscript. S.K. is 
+inventor of several patents in the field of immuno-oncology. S.K. received 
+license fees from TCR2 Inc and Carina Biotech. S.K. received research support 
+from TCR2 Inc., Arcus Bioscience, Plectonic GmBH and Tabby Therapeutics for work 
+unrelated to the manuscript. Beyond this, the authors have no relevant financial 
+interest to disclose.

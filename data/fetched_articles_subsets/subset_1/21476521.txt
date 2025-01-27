@@ -1,0 +1,42 @@
+1. J Chem Inf Model. 2011 May 23;51(5):1132-50. doi: 10.1021/ci200055s. Epub 2011
+ Apr 8.
+
+Rigorous treatment of multispecies multimode ligand-receptor interactions in 
+3D-QSAR: CoMFA analysis of thyroxine analogs binding to transthyretin.
+
+Natesan S(1), Wang T, Lukacova V, Bartus V, Khandelwal A, Balaz S.
+
+Author information:
+(1)Albany College of Pharmacy and Health Sciences , Vermont Campus, Colchester, 
+Vermont 05446, United States.
+
+For a rigorous analysis of the receptor-ligand binding, speciation of the 
+ligands caused by ionization, tautomerism, covalent hydration, and dynamic 
+stereoisomerism needs to be considered. Each species may bind in several 
+orientations or conformations (modes), especially for flexible ligands and 
+receptors. A thermodynamic description of the multispecies (MS), multimode (MM) 
+binding events shows that the overall association constant is equal to the 
+weighted sum of the sums of microscopic association constants of individual 
+modes for each species, with the weights given by the unbound fractions of 
+individual species. This expression is a prerequisite for a precise quantitative 
+characterization of the ligand-receptor interactions in both structure-based and 
+ligand-based structure-activity analyses. We have implemented the MS-MM 
+correlation expression into the comparative molecular field analysis (CoMFA), 
+which deduces a map of the binding site from structures and binding affinities 
+of a ligand set, in the absence of experimental structural information on the 
+receptor. The MS-MM CoMFA approach was applied to published data for binding to 
+transthyretin of 28 thyroxine analogs, each forming up to four ionization 
+species under physiological conditions. The published X-ray structures of 
+several analogs, exhibiting multiple binding modes, served as templates for the 
+MS-MM superposition of thyroxine analogs. Additional modes were generated for 
+compounds with flexible alkyl substituents, to identify bound conformations. The 
+results demonstrate that the MS-MM modification improved predictive abilities of 
+the CoMFA models, even for the standard procedure with MS-MM selected species 
+and modes. The predicted prevalences of individual modes and the generated 
+receptor site model are in reasonable agreement with the available X-ray data. 
+The calibrated model can help in the design of inhibitors of transthyretin 
+amyloid fibril formation.
+
+DOI: 10.1021/ci200055s
+PMCID: PMC3223556
+PMID: 21476521 [Indexed for MEDLINE]

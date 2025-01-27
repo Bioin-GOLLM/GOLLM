@@ -1,0 +1,42 @@
+1. Sci Rep. 2023 Jul 26;13(1):12093. doi: 10.1038/s41598-023-39282-4.
+
+Immune cell identifier and classifier (ImmunIC) for single cell transcriptomic 
+readouts.
+
+Park SY(1), Ter-Saakyan S(1), Faraci G(1), Lee HY(2).
+
+Author information:
+(1)Department of Molecular Microbiology and Immunology, Keck School of Medicine, 
+University of Southern California, Los Angeles, USA.
+(2)Department of Molecular Microbiology and Immunology, Keck School of Medicine, 
+University of Southern California, Los Angeles, USA. hayoun@usc.edu.
+
+Single cell RNA sequencing has a central role in immune profiling, identifying 
+specific immune cells as disease markers and suggesting therapeutic target genes 
+of immune cells. Immune cell-type annotation from single cell transcriptomics is 
+in high demand for dissecting complex immune signatures from multicellular blood 
+and organ samples. However, accurate cell type assignment from single-cell RNA 
+sequencing data alone is complicated by a high level of gene expression 
+heterogeneity. Many computational methods have been developed to respond to this 
+challenge, but immune cell annotation accuracy is not highly desirable. We 
+present ImmunIC, a simple and robust tool for immune cell identification and 
+classification by combining marker genes with a machine learning method. With 
+over two million immune cells and half-million non-immune cells from 66 single 
+cell RNA sequencing studies, ImmunIC shows 98% accuracy in the identification of 
+immune cells. ImmunIC outperforms existing immune cell classifiers, categorizing 
+into ten immune cell types with 92% accuracy. We determine peripheral blood 
+mononuclear cell compositions of severe COVID-19 cases and healthy controls 
+using previously published single cell transcriptomic data, permitting the 
+identification of immune cell-type specific differential pathways. Our publicly 
+available tool can maximize the utility of single cell RNA profiling by 
+functioning as a stand-alone bioinformatic cell sorter, advancing cell-type 
+specific immune profiling for the discovery of disease-specific immune 
+signatures and therapeutic targets.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41598-023-39282-4
+PMCID: PMC10372073
+PMID: 37495649 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,53 @@
+1. Mol Ther Nucleic Acids. 2012 Apr 3;1(4):e17. doi: 10.1038/mtna.2012.6.
+
+Deep Sequencing Analyses of DsiRNAs Reveal the Influence of 3' Terminal 
+Overhangs on Dicing Polarity, Strand Selectivity, and RNA Editing of siRNAs.
+
+Zhou J(1), Song MS, Jacobi AM, Behlke MA, Wu X, Rossi JJ.
+
+Author information:
+(1)Department of Molecular and Cellular Biology, Beckman Research Institute of 
+City of Hope, Duarte, California, USA.
+
+25/27 Base duplex RNAs that are substrates for Dicer have been demonstrated to 
+enhance RNA interference (RNAi) potency and efficacy. Since the target sites are 
+not always equally susceptible to suppression by small interfering RNA (siRNA), 
+not all 27-mer duplexes that are processed into the corresponding conventional 
+siRNAs show increased potency. Thus random designing of Dicer-substrate siRNAs 
+(DsiRNAs) may generate siRNAs with poor RNAi due to unpredictable Dicer 
+processing. Previous studies have demonstrated that the 3'-overhang affects 
+dicing cleavage site and the orientation of Dicer entry. Moreover, an asymmetric 
+27-mer duplex having a 3' two-nucleotide overhang and 3'-DNA residues on the 
+blunt end has been rationally designed to obtain greater efficacy. This 
+asymmetric structure directs dicing to predictably yield a single primary 
+cleavage product. In the present study, we analyzed the in vitro and 
+intracellular dicing patterns of chemically synthesized duplex RNAs with 
+different 3'-overhangs. Consistent with previous studies, we observed that Dicer 
+preferentially processes these RNAs at a site 21-22 nucleotide (nt) from the 
+two-base 3'-overhangs. We also observed that the direction and ability of human 
+Dicer to generate siRNAs can be partially or completely blocked by DNA residues 
+at the 3'-termimi. To examine the effects of various 3'-end modifications on 
+Dicer processing in cells, we employed Illumina Deep sequencing analyses to 
+unravel the fates of the asymmetric 27-mer duplexes. To validate the strand 
+selection process and knockdown capabilities we also conducted dual-luciferase 
+psiCHECK reporter assays to monitor the RNAi potencies of both the "sense" (S) 
+and "antisense" (AS) strands derived from these DsiRNAs. Consistent with our in 
+vitro Dicer assays, the asymmetric duplexes were predictably processed into 
+desired primary cleavage products of 21-22-mers in cells. We also observed the 
+trimming of the 3' end, especially when DNA residues were incorporated into the 
+overhangs and this trimming ultimately influenced the Dicer-cleavage site and 
+RNAi potency. Moreover, the observation that the most efficacious strand was the 
+most abundant revealed that the relative frequencies of each "S" or "AS" strand 
+are highly correlated with the silencing activity and strand selectivity. 
+Collectively, our data demonstrate that even though the only differences between 
+a family of DsiRNAs was the 3' two-nuclotide overhang, dicing polarity and 
+strand selectivity are distinct depending upon the sequence and chemical nature 
+of this overhang. Thus, it is possible to predictably control dicing polarity 
+and strand selectivity via simply changing the 3'-end overhangs without altering 
+the original duplex sequence. These optimal design features of 3'-overhangs 
+might provide a facile approach for rationally designing highly potent 25/27-mer 
+DsiRNAs.
+
+DOI: 10.1038/mtna.2012.6
+PMCID: PMC3384246
+PMID: 23343928

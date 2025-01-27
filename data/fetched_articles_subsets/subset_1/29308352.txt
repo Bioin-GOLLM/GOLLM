@@ -1,0 +1,40 @@
+1. In Silico Pharmacol. 2017 Nov 20;5(1):16. doi: 10.1007/s40203-017-0037-x. 
+eCollection 2017.
+
+Impact of protein-ligand solvation and desolvation on transition state 
+thermodynamic properties of adenosine A(2A) ligand binding kinetics.
+
+Deganutti G(1), Zhukov A(2), Deflorian F(2), Federico S(3), Spalluto G(3), Cooke 
+RM(2), Moro S(1), Mason JS(2), Bortolato A(2).
+
+Author information:
+(1)Molecular Modeling Section (MMS), Department of Pharmaceutical and 
+Pharmacological Sciences, University of Padova, Via Marzolo 5, Padua, Italy.
+(2)Heptares Therapeutics Ltd., BioPark, Broadwater Road, Welwyn Garden City, 
+Herts AL7 3AX UK.
+(3)Department of Chemical and Pharmaceutical Sciences, University of Trieste, 
+Piazzale Europa, 34127 Trieste, Italy.
+
+Ligand-protein binding kinetic rates are growing in importance as parameters to 
+consider in drug discovery and lead optimization. In this study we analysed 
+using surface plasmon resonance (SPR) the transition state (TS) properties of a 
+set of six adenosine A2A receptor inhibitors, belonging to both the xanthine and 
+the triazolo-triazine scaffolds. SPR highlighted interesting differences among 
+the ligands in the enthalpic and entropic components of the TS energy barriers 
+for the binding and unbinding events. To better understand at a molecular level 
+these differences, we developed suMetaD, a novel molecular dynamics (MD)-based 
+approach combining supervised MD and metadynamics. This method allows simulation 
+of the ligand unbinding and binding events. It also provides the system 
+conformation corresponding to the highest energy barrier the ligand is required 
+to overcome to reach the final state. For the six ligands evaluated in this 
+study their TS thermodynamic properties were linked in particular to the role of 
+water molecules in solvating/desolvating the pocket and the small molecules. 
+suMetaD identified kinetic bottleneck conformations near the bound state 
+position or in the vestibule area. In the first case the barrier is mainly 
+enthalpic, requiring the breaking of strong interactions with the protein. In 
+the vestibule TS location the kinetic bottleneck is instead mainly of entropic 
+nature, linked to the solvent behaviour.
+
+DOI: 10.1007/s40203-017-0037-x
+PMCID: PMC5755719
+PMID: 29308352

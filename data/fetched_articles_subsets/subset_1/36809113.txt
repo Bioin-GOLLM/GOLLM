@@ -1,0 +1,51 @@
+1. mBio. 2023 Apr 25;14(2):e0012723. doi: 10.1128/mbio.00127-23. Epub 2023 Feb
+21.
+
+Genome-Scale CRISPR Screening Reveals Host Factors Required for Ribosome 
+Formation and Viral Replication.
+
+Ohlson MB(1), Eitson JL(1), Wells AI(1), Kumar A(2), Jang S(3), Ni C(3), Xing 
+C(2)(4)(5), Buszczak M(3), Schoggins JW(1).
+
+Author information:
+(1)Department of Microbiology, University of Texas Southwestern Medical Center, 
+Dallas, Texas, USA.
+(2)Eugene McDermott Center for Human Growth and Development, University of Texas 
+Southwestern Medical Center, Dallas, Texas, USA.
+(3)Department of Molecular Biology, University of Texas Southwestern Medical 
+Center, Dallas, Texas, USA.
+(4)Department of Bioinformatics, University of Texas Southwestern Medical 
+Center, Dallas, Texas, USA.
+(5)Department of Population and Data Sciences, University of Texas Southwestern 
+Medical Center, Dallas, Texas, USA.
+
+Viruses are known to co-opt host machinery for translation initiation, but less 
+is known about which host factors are required for the formation of ribosomes 
+used to synthesize viral proteins. Using a loss-of-function CRISPR screen, we 
+show that synthesis of a flavivirus-encoded fluorescent reporter depends on 
+multiple host factors, including several 60S ribosome biogenesis proteins. Viral 
+phenotyping revealed that two of these factors, SBDS, a known ribosome 
+biogenesis factor, and the relatively uncharacterized protein SPATA5, were 
+broadly required for replication of flaviviruses, coronaviruses, alphaviruses, 
+paramyxoviruses, an enterovirus, and a poxvirus. Mechanistic studies revealed 
+that loss of SPATA5 caused defects in rRNA processing and ribosome assembly, 
+suggesting that this human protein may be a functional ortholog of yeast Drg1. 
+These studies implicate specific ribosome biogenesis proteins as viral host 
+dependency factors that are required for synthesis of virally encoded protein 
+and accordingly, optimal viral replication. IMPORTANCE Viruses are well known 
+for their ability to co-opt host ribosomes to synthesize viral proteins. The 
+specific factors involved in translation of viral RNAs are not fully described. 
+In this study, we implemented a unique genome-scale CRISPR screen to identify 
+previously uncharacterized host factors that are important for the synthesis of 
+virally encoded protein. We found that multiple genes involved in 60S ribosome 
+biogenesis were required for viral RNA translation. Loss of these factors 
+severely impaired viral replication. Mechanistic studies on the AAA ATPase 
+SPATA5 indicate that this host factor is required for a late step in ribosome 
+formation. These findings reveal insight into the identity and function of 
+specific ribosome biogenesis proteins that are critical for viral infections.
+
+DOI: 10.1128/mbio.00127-23
+PMCID: PMC10128003
+PMID: 36809113 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,43 @@
+1. Molecules. 2018 Oct 16;23(10):2652. doi: 10.3390/molecules23102652.
+
+Mapping Free Energy Pathways for ATP Hydrolysis in the E. coli ABC Transporter 
+HlyB by the String Method.
+
+Zhou Y(1), Ojeda-May P(2), Nagaraju M(3), Kim B(4), Pu J(5).
+
+Author information:
+(1)Department of Chemistry and Chemical Biology, Indiana University-Purdue 
+University Indianapolis, 402 N. Blackford St., LD326, Indianapolis, IN 46202, 
+USA. zhouyan@gxun.edu.cn.
+(2)Department of Chemistry and Chemical Biology, Indiana University-Purdue 
+University Indianapolis, 402 N. Blackford St., LD326, Indianapolis, IN 46202, 
+USA. pedro.ojeda-may@umu.se.
+(3)Department of Chemistry and Chemical Biology, Indiana University-Purdue 
+University Indianapolis, 402 N. Blackford St., LD326, Indianapolis, IN 46202, 
+USA. mulpurinagaraju@gmail.com.
+(4)Department of Chemistry and Chemical Biology, Indiana University-Purdue 
+University Indianapolis, 402 N. Blackford St., LD326, Indianapolis, IN 46202, 
+USA. brykim@iu.edu.
+(5)Department of Chemistry and Chemical Biology, Indiana University-Purdue 
+University Indianapolis, 402 N. Blackford St., LD326, Indianapolis, IN 46202, 
+USA. jpu@iupui.edu.
+
+HlyB functions as an adenosine triphosphate (ATP)-binding cassette (ABC) 
+transporter that enables bacteria to secrete toxins at the expense of ATP 
+hydrolysis. Our previous work, based on potential energy profiles from combined 
+quantum mechanical and molecular mechanical (QM/MM) calculations, has suggested 
+that the highly conserved H-loop His residue H662 in the nucleotide binding 
+domain (NBD) of E. coli HlyB may catalyze the hydrolysis of ATP through proton 
+relay. To further test this hypothesis when entropic contributions are taken 
+into account, we obtained QM/MM minimum free energy paths (MFEPs) for the HlyB 
+reaction, making use of the string method in collective variables. The free 
+energy profiles along the MFEPs confirm the direct participation of H662 in 
+catalysis. The MFEP simulations of HlyB also reveal an intimate coupling between 
+the chemical steps and a local protein conformational change involving the 
+signature-loop residue S607, which may serve a catalytic role similar to an 
+Arg-finger motif in many ATPases and GTPases in stabilizing the 
+phosphoryl-transfer transition state.
+
+DOI: 10.3390/molecules23102652
+PMCID: PMC6222333
+PMID: 30332773 [Indexed for MEDLINE]

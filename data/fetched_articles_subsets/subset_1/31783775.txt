@@ -1,0 +1,57 @@
+1. Genome Med. 2019 Nov 29;11(1):77. doi: 10.1186/s13073-019-0683-1.
+
+Comparative analysis of functional assay evidence use by ClinGen Variant 
+Curation Expert Panels.
+
+Kanavy DM(1), McNulty SM(1), Jairath MK(1), Brnich SE(1), Bizon C(2), Powell 
+BC(1), Berg JS(3).
+
+Author information:
+(1)Department of Genetics, School of Medicine, University of North Carolina at 
+Chapel Hill, Chapel Hill, NC, USA.
+(2)Renaissance Computing Institute, University of North Carolina at Chapel Hill, 
+Chapel Hill, NC, USA.
+(3)Department of Genetics, School of Medicine, University of North Carolina at 
+Chapel Hill, Chapel Hill, NC, USA. jonathan_berg@med.unc.edu.
+
+BACKGROUND: The 2015 American College of Medical Genetics and Genomics (ACMG) 
+and the Association for Molecular Pathology (AMP) guidelines for clinical 
+sequence variant interpretation state that "well-established" functional studies 
+can be used as evidence in variant classification. These guidelines articulated 
+key attributes of functional data, including that assays should reflect the 
+biological environment and be analytically sound; however, details of how to 
+evaluate these attributes were left to expert judgment. The Clinical Genome 
+Resource (ClinGen) designates Variant Curation Expert Panels (VCEPs) in specific 
+disease areas to make gene-centric specifications to the ACMG/AMP guidelines, 
+including more specific definitions of appropriate functional assays. We set out 
+to evaluate the existing VCEP guidelines for functional assays.
+METHODS: We evaluated the functional criteria (PS3/BS3) of six VCEPs (CDH1, 
+Hearing Loss, Inherited Cardiomyopathy-MYH7, PAH, PTEN, RASopathy). We then 
+established criteria for evaluating functional studies based on disease 
+mechanism, general class of assay, and the characteristics of specific assay 
+instances described in the primary literature. Using these criteria, we 
+extensively curated assay instances cited by each VCEP in their pilot variant 
+classification to analyze VCEP recommendations and their use in the 
+interpretation of functional studies.
+RESULTS: Unsurprisingly, our analysis highlighted the breadth of VCEP-approved 
+assays, reflecting the diversity of disease mechanisms among VCEPs. We also 
+noted substantial variability between VCEPs in the method used to select these 
+assays and in the approach used to specify strength modifications, as well as 
+differences in suggested validation parameters. Importantly, we observed 
+discrepancies between the parameters VCEPs specified as required for approved 
+assay instances and the fulfillment of these requirements in the individual 
+assays cited in pilot variant interpretation.
+CONCLUSIONS: Interpretation of the intricacies of functional assays often 
+requires expert-level knowledge of the gene and disease, and current VCEP 
+recommendations for functional assay evidence are a useful tool to improve the 
+accessibility of functional data by providing a starting point for curators to 
+identify approved functional assays and key metrics. However, our analysis 
+suggests that further guidance is needed to standardize this process and ensure 
+consistency in the application of functional evidence.
+
+DOI: 10.1186/s13073-019-0683-1
+PMCID: PMC6884856
+PMID: 31783775 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

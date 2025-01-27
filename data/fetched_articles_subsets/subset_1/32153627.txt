@@ -1,0 +1,40 @@
+1. Front Genet. 2020 Feb 21;10:1378. doi: 10.3389/fgene.2019.01378. eCollection 
+2019.
+
+OSgbm: An Online Consensus Survival Analysis Web Server for Glioblastoma.
+
+Dong H(1), Wang Q(1), Li N(1), Lv J(1), Ge L(1), Yang M(1), Zhang G(1), An Y(1), 
+Wang F(1), Xie L(1), Li Y(1), Zhu W(2), Zhang H(3), Zhang M(4), Guo X(1).
+
+Author information:
+(1)Department of Predictive Medicine, Institute of Biomedical Informatics, Cell 
+Signal Transduction Laboratory, Bioinformatics Center, Henan Provincial 
+Engineering Center for Tumor Molecular Medicine, School of Software, School of 
+Basic Medical Sciences, Henan University, Kaifeng, China.
+(2)Department of Anesthesia, Stanford University School of Medicine, Stanford, 
+CA, United States.
+(3)Department of Pathology, Stanford University School of Medicine, Stanford, 
+CA, United States.
+(4)Nanjing Jiliang Biotechnology Co., Ltd., Nanjing, China.
+
+Glioblastoma (GBM) is the most common malignant tumor of the central nervous 
+system. GBM causes poor clinical outcome and high mortality rate, mainly due to 
+the lack of effective targeted therapy and prognostic biomarkers. Here, we 
+developed a user-friendly Online Survival analysis web server for GlioBlastoMa, 
+abbreviated OSgbm, to assess the prognostic value of candidate genes. Currently, 
+OSgbm contains 684 samples with transcriptome profiles and clinical information 
+from The Cancer Genome Atlas (TCGA), Gene Expression Omnibus (GEO) and Chinese 
+Glioma Genome Atlas (CGGA). The survival analysis results can be graphically 
+presented by Kaplan-Meier (KM) plot with Hazard ratio (HR) and log-rank p value. 
+As demonstration, the prognostic value of 51 previously reported survival 
+associated biomarkers, such as PROM1 (HR = 2.4120, p = 0.0071) and CXCR4 (HR = 
+1.5578, p < 0.001), were confirmed in OSgbm. In summary, OSgbm allows users to 
+evaluate and develop prognostic biomarkers of GBM. The web server of OSgbm is 
+available at http://bioinfo.henu.edu.cn/GBM/GBMList.jsp.
+
+Copyright © 2020 Dong, Wang, Li, Lv, Ge, Yang, Zhang, An, Wang, Xie, Li, Zhu, 
+Zhang, Zhang and Guo.
+
+DOI: 10.3389/fgene.2019.01378
+PMCID: PMC7046682
+PMID: 32153627

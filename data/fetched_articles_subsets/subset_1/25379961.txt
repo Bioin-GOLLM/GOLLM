@@ -1,0 +1,46 @@
+1. PLoS One. 2014 Nov 7;9(11):e111811. doi: 10.1371/journal.pone.0111811. 
+eCollection 2014.
+
+Interplay of the bacterial ribosomal A-site, S12 protein mutations and 
+paromomycin binding: a molecular dynamics study.
+
+Panecka J(1), Mura C(2), Trylska J(3).
+
+Author information:
+(1)Division of Biophysics, Institute of Experimental Physics, University of 
+Warsaw, Warsaw, Poland; Interdisciplinary Centre for Mathematical and 
+Computational Modelling, University of Warsaw, Warsaw, Poland.
+(2)Department of Chemistry, University of Virginia, Charlottesville, VA, United 
+States of America.
+(3)Centre of New Technologies, University of Warsaw, Warsaw, Poland.
+
+The conformational properties of the aminoacyl-tRNA binding site (A-site), and 
+its surroundings in the Escherichia coli 30S ribosomal subunit, are of great 
+relevance in designing antibacterial agents. The 30S subunit A-site is near 
+ribosomal protein S12, which neighbors helices h27 and H69; this latter helix, 
+of the 50S subunit, is a functionally important component of an intersubunit 
+bridge. Experimental work has shown that specific point mutations in S12 (K42A, 
+R53A) yield hyper-accurate ribosomes, which in turn confers resistance to the 
+antibiotic 'paromomycin' (even when this aminoglycoside is bound to the A-site). 
+Suspecting that these effects can be elucidated in terms of the local atomic 
+interactions and detailed dynamics of this region of the bacterial ribosome, we 
+have used molecular dynamics simulations to explore the motion of a fragment of 
+the E. coli ribosome, including the A-site. We found that the ribosomal regions 
+surrounding the A-site modify the conformational space of the flexible A-site 
+adenines 1492/93. Specifically, we found that A-site mobility is affected by 
+stacking interactions between adenines A1493 and A1913, and by contacts between 
+A1492 and a flexible side-chain (K43) from the S12 protein. In addition, our 
+simulations reveal possible indirect pathways by which the R53A and K42A 
+mutations in S12 are coupled to the dynamical properties of the A-site. Our work 
+extends what is known about the atomistic dynamics of the A-site, and suggests 
+possible links between the biological effects of hyper-accurate mutations in the 
+S12 protein and conformational properties of the ribosome; the implications for 
+S12 dynamics help elucidate how the miscoding effects of paromomycin may be 
+evaded in antibiotic-resistant mutants of the bacterial ribosome.
+
+DOI: 10.1371/journal.pone.0111811
+PMCID: PMC4224418
+PMID: 25379961 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

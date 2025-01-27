@@ -1,0 +1,54 @@
+1. Nat Genet. 2020 Feb;52(2):208-218. doi: 10.1038/s41588-019-0572-y. Epub 2020
+Feb  3.
+
+Identification of cancer driver genes based on nucleotide context.
+
+Dietlein F(#)(1)(2), Weghorn D(#)(3)(4)(5), Taylor-Weiner A(6)(7), Richters 
+A(7)(8), Reardon B(6)(7), Liu D(6)(7), Lander ES(7), Van Allen EM(9)(10), 
+Sunyaev SR(11)(12).
+
+Author information:
+(1)Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical 
+School, Boston, MA, USA. Felix_Dietlein@dfci.harvard.edu.
+(2)Broad Institute of Massachusetts Institute of Technology and Harvard, 
+Cambridge, MA, USA. Felix_Dietlein@dfci.harvard.edu.
+(3)Division of Genetics, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, MA, USA.
+(4)Department of Biomedical Informatics, Harvard Medical School, Boston, MA, 
+USA.
+(5)Centre for Genomic Regulation, Barcelona, Spain.
+(6)Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical 
+School, Boston, MA, USA.
+(7)Broad Institute of Massachusetts Institute of Technology and Harvard, 
+Cambridge, MA, USA.
+(8)Koch Institute for Integrative Cancer Research, Massachusetts Institute of 
+Technology, Cambridge, MA, USA.
+(9)Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical 
+School, Boston, MA, USA. EliezerM_VanAllen@dfci.harvard.edu.
+(10)Broad Institute of Massachusetts Institute of Technology and Harvard, 
+Cambridge, MA, USA. EliezerM_VanAllen@dfci.harvard.edu.
+(11)Division of Genetics, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, MA, USA. ssunyaev@rics.bwh.harvard.edu.
+(12)Department of Biomedical Informatics, Harvard Medical School, Boston, MA, 
+USA. ssunyaev@rics.bwh.harvard.edu.
+(#)Contributed equally
+
+Cancer genomes contain large numbers of somatic mutations but few of these 
+mutations drive tumor development. Current approaches either identify driver 
+genes on the basis of mutational recurrence or approximate the functional 
+consequences of nonsynonymous mutations by using bioinformatic scores. Passenger 
+mutations are enriched in characteristic nucleotide contexts, whereas driver 
+mutations occur in functional positions, which are not necessarily surrounded by 
+a particular nucleotide context. We observed that mutations in contexts that 
+deviate from the characteristic contexts around passenger mutations provide a 
+signal in favor of driver genes. We therefore developed a method that combines 
+this feature with the signals traditionally used for driver-gene identification. 
+We applied our method to whole-exome sequencing data from 11,873 tumor-normal 
+pairs and identified 460 driver genes that clustered into 21 cancer-related 
+pathways. Our study provides a resource of driver genes across 28 tumor types 
+with additional driver genes identified according to mutations in unusual 
+nucleotide contexts.
+
+DOI: 10.1038/s41588-019-0572-y
+PMCID: PMC7031046
+PMID: 32015527 [Indexed for MEDLINE]

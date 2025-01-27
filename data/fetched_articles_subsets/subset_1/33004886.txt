@@ -1,0 +1,40 @@
+1. Sci Rep. 2020 Oct 1;10(1):16268. doi: 10.1038/s41598-020-73255-1.
+
+Pharmacokinetic prediction of an antibody in mice based on an in vitro 
+cell-based approach using target receptor-expressing cells.
+
+Noguchi Y(1), Ozeki K(2), Akita H(3).
+
+Author information:
+(1)Research Division, Chugai Pharmaceutical Co., Ltd., 1-135, Komakado, Gotemba, 
+Shizuoka, 412-8513, Japan.
+(2)Research Division, Chugai Pharmaceutical Co., Ltd., 1-135, Komakado, Gotemba, 
+Shizuoka, 412-8513, Japan. ozekikzh@chugai-pharm.co.jp.
+(3)Laboratory of DDS Design and Drug Disposition, Graduate School of 
+Pharmaceutical Sciences, Chiba University, 1-8-1 Inohana, Chuo-ku, Chiba, Chiba, 
+260-0856, Japan.
+
+In vivo pharmacokinetics (PK) studies using mice and monkeys are the main 
+approaches for evaluating and predicting the PK of antibodies, and there is a 
+strong demand for methods that do not require animal experiments. In this work, 
+we focused on quantitatively predicting the nonlinear PK of an antibody based on 
+cell-based assays. An anti-mouse Fc gamma receptor IIB antibody was used as a 
+model antibody. To determine the PK parameters related to nonspecific 
+elimination in vivo, the plasma concentration profile at 100 mg/kg, at which 
+target-specific clearance is saturated, was analyzed by a 2-compartment model. 
+To estimate the parameters related to target-specific elimination, the 
+Michaelis-Menten constant (Km) and the maximum elimination rate (Vmax) were 
+determined by an uptake assay using Chinese hamster ovary (CHO) cells expressing 
+the target receptor. Finally, the integration of all of these parameters 
+permitted the PK to be predicted at doses ranging from 1 to 100 mg/kg regardless 
+of whether target-specific clearance was saturated or nonsaturated. The findings 
+presented herein show that in vitro assays using target-expressing cells are 
+useful tools for obtaining PK parameters and predicting PK profiles and, in some 
+cases, eliminate the need for in vivo PK studies using experimental animals.
+
+DOI: 10.1038/s41598-020-73255-1
+PMCID: PMC7529773
+PMID: 33004886 [Indexed for MEDLINE]
+
+Conflict of interest statement: Y.N. and K.O. are employees of Chugai 
+Pharmaceutical Co., Ltd. H.A. declares no competing interest.

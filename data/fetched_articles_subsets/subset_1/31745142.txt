@@ -1,0 +1,49 @@
+1. Sci Rep. 2019 Nov 19;9(1):17018. doi: 10.1038/s41598-019-53439-0.
+
+Effect of second-order magnetic anisotropy on nonlinearity of conductance in 
+CoFeB/MgO/CoFeB magnetic tunnel junction for magnetic sensor devices.
+
+Ogasawara T(1), Oogane M(2)(3)(4), Al-Mahdawi M(5)(6), Tsunoda M(6)(7), Ando 
+Y(8)(5)(6).
+
+Author information:
+(1)Department of Applied Physics, Tohoku University, Sendai, 980-8579, Japan. 
+takahiro.ogasawara.p3@dc.tohoku.ac.jp.
+(2)Department of Applied Physics, Tohoku University, Sendai, 980-8579, Japan. 
+oogane@mlab.apph.tohoku.ac.jp.
+(3)Center for Science and Innovation in Spintronics (Core Research Cluster) 
+Organization for Advanced Studies, Tohoku University, Sendai, 980-8577, Japan. 
+oogane@mlab.apph.tohoku.ac.jp.
+(4)Center for Spintronics Research Network, Tohoku University, Sendai, 980-8577, 
+Japan. oogane@mlab.apph.tohoku.ac.jp.
+(5)Center for Science and Innovation in Spintronics (Core Research Cluster) 
+Organization for Advanced Studies, Tohoku University, Sendai, 980-8577, Japan.
+(6)Center for Spintronics Research Network, Tohoku University, Sendai, 980-8577, 
+Japan.
+(7)Department of Electronic Engineering, Tohoku University, Sendai, 980-8579, 
+Japan.
+(8)Department of Applied Physics, Tohoku University, Sendai, 980-8579, Japan.
+
+We studied the effect of second-order magnetic anisotropy on the linear 
+conductance output of magnetic tunnel junctions (MTJs) for magnetic-field-sensor 
+applications. Experimentally, CoFeB/MgO/CoFeB-based MTJs were fabricated, and 
+the nonlinearity, NL was evaluated for different thicknesses, t of the CoFeB 
+free layer from the conductance. As increasing t from 1.5 to 2.0 nm, maximum NL, 
+NLmax was found to decrease from 1.86 to 0.17% within the dynamic range, 
+Hd = 1.0 kOe. For understanding the origin of such NL behavior, a theoretical 
+model based on the Slonczewski model was constructed, wherein the NL was 
+demonstrated to be dependent on both the normalized second-order magnetic 
+anisotropy field of Hk2/|Hkeff| and the normalized dynamic range of Hd/|Hkeff|. 
+Here, Hkeff, Hk2, are the effective and second-order magnetic anisotropy field 
+of the free layer in MTJ. Remarkably, experimental NLmax plotted as a function 
+of Hk2/|Hkeff| and Hd/|Hkeff|, which were measured from FMR technique coincided 
+with the predictions of our model. Based on these experiment and calculation, we 
+conclude that Hk2 is the origin of NL and strongly influences its magnitude. 
+This finding gives us a guideline for understanding NL and pioneers a new 
+prospective for linear-output MTJ sensors to control sensing properties by Hk2.
+
+DOI: 10.1038/s41598-019-53439-0
+PMCID: PMC6864244
+PMID: 31745142
+
+Conflict of interest statement: The authors declare no competing interests.

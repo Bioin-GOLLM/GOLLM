@@ -1,0 +1,40 @@
+1. BMC Bioinformatics. 2005 Jul 15;6 Suppl 2(Suppl 2):S8. doi: 
+10.1186/1471-2105-6-S2-S8.
+
+A microarray study of MPP+-treated PC12 Cells: Mechanisms of toxicity (MOT) 
+analysis using bioinformatics tools.
+
+Xu Z(1), Patterson TA, Wren JD, Han T, Shi L, Duhart H, Ali SF, Slikker W Jr.
+
+Author information:
+(1)Division of Neurotoxicology, National Center for Toxicological Research, U.S. 
+Food and Drug Administration, 3900 NCTR Road, Jefferson, Arkansas 72079, USA. 
+axu@genelogic.com
+
+BACKGROUND: This paper describes a microarray study including data quality 
+control, data analysis and the analysis of the mechanism of toxicity (MOT) 
+induced by 1-methyl-4-phenylpyridinium (MPP+) in a rat adrenal pheochromocytoma 
+cell line (PC12 cells) using bioinformatics tools. MPP+ depletes dopamine 
+content and elicits cell death in PC12 cells. However, the mechanism of 
+MPP+-induced neurotoxicity is still unclear.
+RESULTS: In this study, Agilent rat oligo 22K microarrays were used to examine 
+alterations in gene expression of PC12 cells after 500 muM MPP+ treatment. 
+Relative gene expression of control and treated cells represented by spot 
+intensities on the array chips was analyzed using bioinformatics tools. Raw data 
+from each array were input into the NCTR ArrayTrack database, and normalized 
+using a Lowess normalization method. Data quality was monitored in ArrayTrack. 
+The means of the averaged log ratio of the paired samples were used to identify 
+the fold changes of gene expression in PC12 cells after MPP+ treatment. Our data 
+showed that 106 genes and ESTs (Expressed Sequence Tags) were changed 2-fold and 
+above with MPP+ treatment; among these, 75 genes had gene symbols and 59 genes 
+had known functions according to the Agilent gene Refguide and ArrayTrack-linked 
+gene library. The mechanism of MPP+-induced toxicity in PC12 cells was analyzed 
+based on their genes functions, biological process, pathways and previous 
+published literatures.
+CONCLUSION: Multiple pathways were suggested to be involved in the mechanism of 
+MPP+-induced toxicity, including oxidative stress, DNA and protein damage, cell 
+cycling arrest, and apoptosis.
+
+DOI: 10.1186/1471-2105-6-S2-S8
+PMCID: PMC1637031
+PMID: 16026605 [Indexed for MEDLINE]

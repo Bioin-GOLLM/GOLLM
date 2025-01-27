@@ -1,0 +1,37 @@
+1. BioData Min. 2013 Feb 14;6(1):3. doi: 10.1186/1756-0381-6-3.
+
+Identification of SNPs associated with variola virus virulence.
+
+Hoen AG(1), Gardner SN, Moore JH.
+
+Author information:
+(1)Department of Community and Family Medicine, The Geisel School of Medicine at 
+Dartmouth, Dartmouth College, One Medical Center Drive, Lebanon, NH 03756, USA. 
+jason.h.moore@dartmouth.edu.
+
+BACKGROUND: Decades after the eradication of smallpox, its etiological agent, 
+variola virus (VARV), remains a threat as a potential bioweapon. Outbreaks of 
+smallpox around the time of the global eradication effort exhibited variable 
+case fatality rates (CFRs), likely attributable in part to complex viral genetic 
+determinants of smallpox virulence. We aimed to identify genome-wide single 
+nucleotide polymorphisms associated with CFR. We evaluated unadjusted and 
+outbreak geographic location-adjusted models of single SNPs and two- and 
+three-way interactions between SNPs.
+FINDINGS: Using the data mining approach multifactor dimensionality reduction 
+(MDR), we identified five VARV SNPs in models significantly associated with CFR. 
+The top performing unadjusted model and adjusted models both revealed the same 
+two-way gene-gene interaction. We discuss the biological plausibility of the 
+influence of the SNPs identified these and other significant models on the 
+strain-specific virulence of VARV.
+CONCLUSIONS: We have identified genetic loci in the VARV genome that are 
+statistically associated with VARV virulence as measured by CFR. While our 
+ability to infer a causal relationship between the specific SNPs identified in 
+our analysis and VARV virulence is limited, our results suggest that smallpox 
+severity is in part associated with VARV strain variation and that VARV 
+virulence may be determined by multiple genetic loci. This study represents the 
+first application of MDR to the identification of pathogen gene-gene 
+interactions for predicting infectious disease outbreak severity.
+
+DOI: 10.1186/1756-0381-6-3
+PMCID: PMC3599518
+PMID: 23410064

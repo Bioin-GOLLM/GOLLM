@@ -1,0 +1,34 @@
+1. Life (Basel). 2021 Jan 20;11(2):74. doi: 10.3390/life11020074.
+
+Qualitative Prediction of Ligand Dissociation Kinetics from Focal Adhesion 
+Kinase Using Steered Molecular Dynamics.
+
+Spiriti J(1), Wong CF(1).
+
+Author information:
+(1)Department of Chemistry and Bochemistry, University of Missouri-St. Louis, 
+St. Louis, MO 63121-4400, USA.
+
+Most early-stage drug discovery projects focus on equilibrium binding affinity 
+to the target alongside selectivity and other pharmaceutical properties. Since 
+many approved drugs have nonequilibrium binding characteristics, there has been 
+increasing interest in optimizing binding kinetics early in the drug discovery 
+process. As focal adhesion kinase (FAK) is an important drug target, we examine 
+whether steered molecular dynamics (SMD) can be useful for identifying drug 
+candidates with the desired drug-binding kinetics. In simulating the 
+dissociation of 14 ligands from FAK, we find an empirical power-law relationship 
+between the simulated time needed for ligand unbinding and the experimental rate 
+constant for dissociation, with a strong correlation depending on the SMD force 
+used. To improve predictions, we further develop regression models connecting 
+experimental dissociation rate with various structural and energetic quantities 
+derived from the simulations. These models can be used to predict dissociation 
+rates from FAK for related compounds.
+
+DOI: 10.3390/life11020074
+PMCID: PMC7909260
+PMID: 33498237
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

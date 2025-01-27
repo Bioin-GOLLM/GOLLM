@@ -1,0 +1,48 @@
+1. Front Genet. 2014 May 12;5:96. doi: 10.3389/fgene.2014.00096. eCollection
+2014.
+
+Imputation of TPMT defective alleles for the identification of patients with 
+high-risk phenotypes.
+
+Almoguera B(1), Vazquez L(1), Connolly JJ(1), Bradfield J(1), Sleiman P(2), 
+Keating B(2), Hakonarson H(2).
+
+Author information:
+(1)Center for Applied Genomics, The Children's Hospital of Philadelphia 
+Philadelphia, PA, USA.
+(2)Center for Applied Genomics, The Children's Hospital of Philadelphia 
+Philadelphia, PA, USA ; Department of Pediatrics, University of Pennsylvania 
+Perelman School of Medicine Philadelphia, PA, USA.
+
+BACKGROUND: The activity of thiopurine methyltransferase (TPMT) is subject to 
+genetic variation. Loss-of-function alleles are associated with various degrees 
+of myelosuppression after treatment with thiopurine drugs, thus genotype-based 
+dosing recommendations currently exist. The aim of this study was to evaluate 
+the potential utility of leveraging genomic data from large biorepositories in 
+the identification of individuals with TPMT defective alleles.
+MATERIAL AND METHODS: TPMT variants were imputed using the 1000 Genomes Project 
+reference panel in 87,979 samples from the biobank at The Children's Hospital of 
+Philadelphia. Population ancestry was determined by principal component analysis 
+using HapMap3 samples as reference. Frequencies of the TPMT imputed alleles, 
+genotypes and the associated phenotype were determined across the different 
+populations. A sample of 630 subjects with genotype data from Sanger sequencing 
+(N = 59) and direct genotyping (N = 583) (12 samples overlapping in the two 
+groups) was used to check the concordance between the imputed and observed 
+genotypes, as well as the sensitivity, specificity and positive and negative 
+predictive values of the imputation.
+RESULTS: Two SNPs (rs1800460 and rs1142345) that represent three TPMT alleles 
+((*)3A, (*)3B, and (*)3C) were imputed with adequate quality. Frequency for the 
+associated enzyme activity varied across populations and 89.36-94.58% were 
+predicted to have normal TPMT activity, 5.3-10.31% intermediate and 0.12-0.34% 
+poor activities. Overall, 98.88% of individuals (623/630) were correctly imputed 
+into carrying no risk alleles (553/553), heterozygous (45/46) and homozygous 
+(25/31). Sensitivity, specificity and predictive values of imputation were over 
+90% in all cases except for the sensitivity of imputing homozygous subjects that 
+was 80.64%.
+CONCLUSION: Imputation of TPMT alleles from existing genomic data can be used as 
+a first step in the screening of individuals at risk of developing serious 
+adverse events secondary to thiopurine drugs.
+
+DOI: 10.3389/fgene.2014.00096
+PMCID: PMC4026736
+PMID: 24860591

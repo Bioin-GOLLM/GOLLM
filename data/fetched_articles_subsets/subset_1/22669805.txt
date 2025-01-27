@@ -1,0 +1,39 @@
+1. Mol Pharmacol. 2012 Sep;82(3):448-63. doi: 10.1124/mol.112.079137. Epub 2012
+Jun  5.
+
+Computational and experimental analysis of the transmembrane domain 4/5 
+dimerization interface of the serotonin 5-HT(1A) receptor.
+
+Gorinski N(1), Kowalsman N, Renner U, Wirth A, Reinartz MT, Seifert R, Zeug A, 
+Ponimaskin E, Niv MY.
+
+Author information:
+(1)Cellular Neurophysiology, Medical School Hannover, Germany.
+
+Experimental evidence suggests that most members of class A G-protein coupled 
+receptors (GPCRs) can form homomers and heteromers in addition to functioning as 
+single monomers. In particular, serotonin (5-HT) receptors were shown to 
+homodimerize and heterodimerize with other GPCRs, although the details and the 
+physiological role of the oligomerization has not yet been fully elucidated. 
+Here we used computational modeling of the 5-HT(1A) receptor monomer and dimer 
+to predict residues important for dimerization. Based on these results, we 
+carried out rationally designed site-directed mutagenesis. The ability of the 
+mutants to dimerize was evaluated using different FRET-based approaches. The 
+reduced levels of acceptor photobleaching-Förster resonance energy transfer 
+(FRET) and the lower number of monomers participating in oligomers, as assessed 
+by lux-FRET, confirmed the decreased ability of the mutants to dimerize and the 
+involvement of the predicted contacts (Trp175(4.64), Tyr198(5.41), Arg151(4.40), 
+and Arg152(4.41)) at the interface. This information was reintroduced as 
+constraints for computational protein-protein docking to obtain a high-quality 
+dimer model. Analysis of the refined model as well as molecular dynamics 
+simulations of wild-type (WT) and mutant dimers revealed compensating 
+interactions in dimers composed of WT and W175A mutant. This provides an 
+explanation for the requirement of mutations of Trp175(4.64) in both homomers 
+for disrupting dimerization. Our iterative computational-experimental study 
+demonstrates that transmembrane domains TM4/TM5 can form an interaction 
+interface in 5-HT(1A) receptor dimers and indicates that specific amino acid 
+interactions maintain this interface. The mutants and the optimized model of the 
+dimer structure may be used in functional studies of serotonin dimers.
+
+DOI: 10.1124/mol.112.079137
+PMID: 22669805 [Indexed for MEDLINE]

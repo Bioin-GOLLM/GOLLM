@@ -1,0 +1,35 @@
+1. Genet Epidemiol. 2009 Jul;33(5):394-405. doi: 10.1002/gepi.20393.
+
+On the adjustment for covariates in genetic association analysis: a novel, 
+simple principle to infer direct causal effects.
+
+Vansteelandt S(1), Goetgeluk S, Lutz S, Waldman I, Lyon H, Schadt EE, Weiss ST, 
+Lange C.
+
+Author information:
+(1)Department of Applied Mathematics and Computer Sciences, Ghent University, 
+Belgium.
+
+In genetic association studies, different complex phenotypes are often 
+associated with the same marker. Such associations can be indicative of 
+pleiotropy (i.e. common genetic causes), of indirect genetic effects via one of 
+these phenotypes, or can be solely attributable to non-genetic/environmental 
+links between the traits. To identify the phenotypes with the inducing genetic 
+association, statistical methodology is needed that is able to distinguish 
+between the different causes of the genetic associations. Here, we propose a 
+simple, general adjustment principle that can be incorporated into many standard 
+genetic association tests which are then able to infer whether an SNP has a 
+direct biological influence on a given trait other than through the SNP's 
+influence on another correlated phenotype. Using simulation studies, we show 
+that, in the presence of a non-marker related link between phenotypes, standard 
+association tests without the proposed adjustment can be biased. In contrast to 
+that, the proposed methodology remains unbiased. Its achieved power levels are 
+identical to those of standard adjustment methods, making the adjustment 
+principle universally applicable in genetic association studies. The principle 
+is illustrated by an application to three genome-wide association analyses.
+
+2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/gepi.20393
+PMCID: PMC5621606
+PMID: 19219893 [Indexed for MEDLINE]

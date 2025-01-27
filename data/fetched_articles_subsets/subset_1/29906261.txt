@@ -1,0 +1,47 @@
+1. Microb Genom. 2018 Jul;4(7):e000188. doi: 10.1099/mgen.0.000188. Epub 2018 Jun
+ 15.
+
+A complete high-quality MinION nanopore assembly of an extensively 
+drug-resistant Mycobacterium tuberculosis Beijing lineage strain identifies 
+novel variation in repetitive PE/PPE gene regions.
+
+Bainomugisa A(1)(2), Duarte T(1), Lavu E(3), Pandey S(4), Coulter C(4), Marais 
+BJ(5), Coin LM(1).
+
+Author information:
+(1)1​Institute for Molecular Bioscience, The University of Queensland, Brisbane, 
+Australia.
+(2)2​Faculty of Medicine, The University of Queensland, Brisbane, Australia.
+(3)3​Central Public Health Laboratory, Port Moresby, Papua New Guinea.
+(4)4​Queensland Mycobacteria Reference Laboratory, Brisbane, Australia.
+(5)5​Marie Bashir Institute for Infectious Diseases and Biosecurity, University 
+of Sydney, Sydney, Australia.
+
+A better understanding of the genomic changes that facilitate the emergence and 
+spread of drug-resistant Mycobacterium tuberculosis strains is currently 
+required. Here, we report the use of the MinION nanopore sequencer (Oxford 
+Nanopore Technologies) to sequence and assemble an extensively drug-resistant 
+(XDR) isolate, which is part of a modern Beijing sub-lineage strain, prevalent 
+in Western Province, Papua New Guinea. Using 238-fold coverage obtained from a 
+single flow-cell, de novo assembly of nanopore reads resulted into one 
+contiguous assembly with 99.92 % assembly accuracy. Incorporation of 
+complementary short read sequences (Illumina) as part of consensus error 
+correction resulted in a 4 404 064 bp genome with 99.98 % assembly accuracy. 
+This assembly had an average nucleotide identity of 99.7 % relative to the 
+reference genome, H37Rv. We assembled nearly all GC-rich repetitive PE/PPE 
+family genes (166/168) and identified variants within these genes. With an 
+estimated genotypic error rate of 5.3 % from MinION data, we demonstrated 
+identification of variants to include the conventional drug resistance 
+mutations, and those that contribute to the resistance phenotype (efflux 
+pumps/transporter) and virulence. Reference-based alignment of the assembly 
+allowed detection of deletions and insertions. MinION sequencing provided a 
+fully annotated assembly of a transmissible XDR strain from an endemic setting 
+and showed its utility to provide further understanding of genomic processes 
+within Mycobacterium tuberculosis.
+
+DOI: 10.1099/mgen.0.000188
+PMCID: PMC6113869
+PMID: 29906261 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there was no conflict 
+of interest.

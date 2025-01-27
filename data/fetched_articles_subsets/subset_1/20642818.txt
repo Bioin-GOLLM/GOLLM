@@ -1,0 +1,52 @@
+1. BMC Cancer. 2010 Jul 19;10:377. doi: 10.1186/1471-2407-10-377.
+
+Expression profile and specific network features of the apoptotic machinery 
+explain relapse of acute myeloid leukemia after chemotherapy.
+
+Ragusa M(1), Avola G, Angelica R, Barbagallo D, Guglielmino MR, Duro LR, 
+Majorana A, Statello L, Salito L, Consoli C, Camuglia MG, Di Pietro C, Milone G, 
+Purrello M.
+
+Author information:
+(1)Dipartimento di Scienze BioMediche, Unità di BioMedicina Molecolare Genomica 
+e dei Sistemi Complessi, Genetica, Biologia Computazionale G Sichel, Via Santa 
+Sofia 87, 95123 Catania, Italy, EU.
+
+BACKGROUND: According to the different sensitivity of their bone marrow CD34+ 
+cells to in vitro treatment with Etoposide or Mafosfamide, Acute Myeloid 
+Leukaemia (AML) patients in apparent complete remission (CR) after chemotherapy 
+induction may be classified into three groups: (i) normally responsive; (ii) 
+chemoresistant; (iii) highly chemosensitive. This inversely correlates with in 
+vivo CD34+ mobilization and, interestingly, also with the prognosis of the 
+disease: patients showing a good mobilizing activity are resistant to 
+chemotherapy and subject to significantly higher rates of Minimal Residual 
+Disease (MRD) and relapse than the others. Based on its known role in patients' 
+response to chemotherapy, we hypothesized an involvement of the Apoptotic 
+Machinery (AM) in these phenotypic features.
+METHODS: To investigate the molecular bases of the differential chemosensitivity 
+of bone marrow hematopoietic stem cells (HSC) in CR AML patients, and the 
+relationship between chemosensitivity, mobilizing activity and relapse rates, we 
+analyzed their AM expression profile by performing Real Time RT-PCR of 84 AM 
+genes in CD34+ pools from the two extreme classes of patients (i.e., 
+chemoresistant and highly chemosensitive), and compared them with normal 
+controls.
+RESULTS: The AM expression profiles of patients highlighted features that could 
+satisfactorily explain their in vitro chemoresponsive phenotype: specifically, 
+in chemoresistant patients we detected up regulation of antiapoptotic BIRC genes 
+and down regulation of proapoptotic APAF1, FAS, FASL, TNFRSF25. Interestingly, 
+our analysis of the AM network showed that the dysregulated genes in these 
+patients are characterized by high network centrality (i.e., high values of 
+betweenness, closeness, radiality, stress) and high involvement in drug 
+response.
+CONCLUSIONS: AM genes represent critical nodes for the proper execution of cell 
+death following pharmacological induction in patients. We propose that their 
+dysregulation (either due to inborn or de novo genomic mutations selected by 
+treatment) could cause a relapse in apparent CR AML patients. Based on this, AM 
+profiling before chemotherapy and transplantation could identify patients with a 
+predisposing genotype to MRD and relapse: accordingly, they should undergo a 
+different, specifically tailored, therapeutic regimen and should be carefully 
+checked during the post-treatment period.
+
+DOI: 10.1186/1471-2407-10-377
+PMCID: PMC2914706
+PMID: 20642818 [Indexed for MEDLINE]

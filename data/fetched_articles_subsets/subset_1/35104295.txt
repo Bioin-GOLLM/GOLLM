@@ -1,0 +1,82 @@
+1. PLoS Med. 2022 Feb 1;19(2):e1003679. doi: 10.1371/journal.pmed.1003679. 
+eCollection 2022 Feb.
+
+Obesity and risk of female reproductive conditions: A Mendelian randomisation 
+study.
+
+Venkatesh SS(1)(2), Ferreira T(1)(3), Benonisdottir S(1), Rahmioglu N(2)(3), 
+Becker CM(3), Granne I(3), Zondervan KT(2)(3), Holmes MV(4)(5), Lindgren 
+CM(1)(2)(3)(4)(6), Wittemans LBL(1)(3).
+
+Author information:
+(1)Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, 
+University of Oxford, Oxford, United Kingdom.
+(2)Wellcome Centre for Human Genetics, Nuffield Department of Medicine, 
+University of Oxford, Oxford, United Kingdom.
+(3)Nuffield Department of Women's and Reproductive Health, Medical Sciences 
+Division, University of Oxford, Oxford, United Kingdom.
+(4)Nuffield Department of Population Health, University of Oxford, Oxford, 
+United Kingdom.
+(5)Medical Research Council Population Health Research Unit, University of 
+Oxford, Oxford, United Kingdom.
+(6)Broad Institute of MIT and Harvard, Cambridge, Massachusetts, United States 
+of America.
+
+Erratum in
+    PLoS Med. 2022 Sep 2;19(9):e1004095. doi: 10.1371/journal.pmed.1004095.
+
+BACKGROUND: Obesity is observationally associated with altered risk of many 
+female reproductive conditions. These include polycystic ovary syndrome (PCOS), 
+abnormal uterine bleeding, endometriosis, infertility, and pregnancy-related 
+disorders. However, the roles and mechanisms of obesity in the aetiology of 
+reproductive disorders remain unclear. Thus, we aimed to estimate observational 
+and genetically predicted causal associations between obesity, metabolic 
+hormones, and female reproductive disorders.
+METHODS AND FINDINGS: Logistic regression, generalised additive models, and 
+Mendelian randomisation (MR) (2-sample, non-linear, and multivariable) were 
+applied to obesity and reproductive disease data on up to 257,193 women of 
+European ancestry in UK Biobank and publicly available genome-wide association 
+studies (GWASs). Body mass index (BMI), waist-to-hip ratio (WHR), and WHR 
+adjusted for BMI were observationally (odds ratios [ORs] = 1.02-1.87 per 1-SD 
+increase in obesity trait) and genetically (ORs = 1.06-2.09) associated with 
+uterine fibroids (UF), PCOS, heavy menstrual bleeding (HMB), and pre-eclampsia. 
+Genetically predicted visceral adipose tissue (VAT) mass was associated with the 
+development of HMB (OR [95% CI] per 1-kg increase in predicted VAT mass = 1.32 
+[1.06-1.64], P = 0.0130), PCOS (OR [95% CI] = 1.15 [1.08-1.23], P = 3.24 × 
+10-05), and pre-eclampsia (OR [95% CI] = 3.08 [1.98-4.79], P = 6.65 × 10-07). 
+Increased waist circumference posed a higher genetic risk (ORs = 1.16-1.93) for 
+the development of these disorders and UF than did increased hip circumference 
+(ORs = 1.06-1.10). Leptin, fasting insulin, and insulin resistance each mediated 
+between 20% and 50% of the total genetically predicted association of obesity 
+with pre-eclampsia. Reproductive conditions clustered based on shared genetic 
+components of their aetiological relationships with obesity. This study was 
+limited in power by the low prevalence of female reproductive conditions among 
+women in the UK Biobank, with little information on pre-diagnostic 
+anthropometric traits, and by the susceptibility of MR estimates to genetic 
+pleiotropy.
+CONCLUSIONS: We found that common indices of overall and central obesity were 
+associated with increased risks of reproductive disorders to heterogenous 
+extents in a systematic, large-scale genetics-based analysis of the aetiological 
+relationships between obesity and female reproductive conditions. Our results 
+suggest the utility of exploring the mechanisms mediating the causal 
+associations of overweight and obesity with gynaecological health to identify 
+targets for disease prevention and treatment.
+
+DOI: 10.1371/journal.pmed.1003679
+PMCID: PMC8806071
+PMID: 35104295 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: C.M.B. reports grants 
+from Bayer AG, AbbVie Inc, Volition Rx, MDNA Life Sciences, Roche Diagnostics 
+Inc., and consultancy for Myovant. He is a member of the independent data 
+monitoring board at ObsEva; I.G. reports grants from Bayer AG; K.T.Z. reports 
+grants from Bayer AG, AbbVie Inc, Volition Rx, MDNA Life Sciences, Roche 
+Diagnostics Inc, and non-financial scientific collaboration with Population 
+Diagnostics Ltd, outside the submitted work; M.V.H. has consulted for Boehringer 
+Ingelheim, and in adherence to the University of Oxford’s Clinical Trial Service 
+Unit & Epidemiological Studies Unit (CSTU) staff policy, did not accept personal 
+honoraria or other payments from pharmaceutical companies; C.M.L. reports grants 
+from Bayer AG and Novo Nordisk and has a partner who works at Vertex; no other 
+relationships or activities that could appear to have influenced the submitted 
+work. All disclosed competing interests are outside the submitted work.

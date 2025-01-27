@@ -1,0 +1,80 @@
+1. Nat Commun. 2023 Dec 5;14(1):8048. doi: 10.1038/s41467-023-43790-2.
+
+Leukemia-intrinsic determinants of CAR-T response revealed by iterative in vivo 
+genome-wide CRISPR screening.
+
+Ramos A(#)(1)(2), Koch CE(#)(1)(2), Liu-Lupo Y(#)(1)(2), Hellinger RD(1), Kyung 
+T(1)(3), Abbott KL(1)(2), Fröse J(1), Goulet D(1), Gordon KS(1)(3), Eidell 
+KP(1), Leclerc P(1), Whittaker CA(1), Larson RC(4)(5), Muscato AJ(6)(7), Yates 
+KB(6)(7), Dubrot J(6)(7)(8), Doench JG(7), Regev A(2)(7)(9)(10), Vander Heiden 
+MG(1)(2)(11), Maus MV(4)(5)(6)(7)(12), Manguso RT(5)(6)(7), Birnbaum ME(1)(3), 
+Hemann MT(13)(14).
+
+Author information:
+(1)Koch Institute for Integrative Cancer Research, Massachusetts Institute of 
+Technology, Cambridge, MA, USA.
+(2)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA.
+(3)Department of Biological Engineering, Massachusetts Institute of Technology, 
+Cambridge, MA, USA.
+(4)Cellular Immunotherapy Program, Cancer Center, Department of Medicine, 
+Massachusetts General Hospital, Boston, MA, USA.
+(5)Immunology Program, Harvard Medical School, Boston, MA, USA.
+(6)Center for Cancer Research, Massachusetts General Hospital, Charlestown, MA, 
+USA.
+(7)Broad Institute of Harvard and Massachusetts Institute of Technology, 
+Cambridge, Massachusetts, 02142, USA.
+(8)Solid Tumors Program, Division of Oncology, Center for Applied Medical 
+Research (CIMA), University of Navarra, Pamplona, Spain.
+(9)Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, 
+USA.
+(10)Howard Hughes Medical Institute, Chevy Chase, MD, USA.
+(11)Dana-Farber Cancer Institute, Boston, MA, USA.
+(12)Ragon Institute of MIT, MGH, and Harvard, Cambridge, MA, USA.
+(13)Koch Institute for Integrative Cancer Research, Massachusetts Institute of 
+Technology, Cambridge, MA, USA. hemann@mit.edu.
+(14)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, 
+USA. hemann@mit.edu.
+(#)Contributed equally
+
+CAR-T therapy is a promising, novel treatment modality for B-cell malignancies 
+and yet many patients relapse through a variety of means, including loss of 
+CAR-T cells and antigen escape. To investigate leukemia-intrinsic CAR-T 
+resistance mechanisms, we performed genome-wide CRISPR-Cas9 loss-of-function 
+screens in an immunocompetent murine model of B-cell acute lymphoblastic 
+leukemia (B-ALL) utilizing a modular guide RNA library. We identified 
+IFNγR/JAK/STAT signaling and components of antigen processing and presentation 
+pathway as key mediators of resistance to CAR-T therapy in vivo; intriguingly, 
+loss of this pathway yielded the opposite effect in vitro (sensitized leukemia 
+to CAR-T cells). Transcriptional characterization of this model demonstrated 
+upregulation of these pathways in tumors relapsed after CAR-T treatment, and 
+functional studies showed a surprising role for natural killer (NK) cells in 
+engaging this resistance program. Finally, examination of data from B-ALL 
+patients treated with CAR-T revealed an association between poor outcomes and 
+increased expression of JAK/STAT and MHC-I in leukemia cells. Overall, our data 
+identify an unexpected mechanism of resistance to CAR-T therapy in which tumor 
+cell interaction with the in vivo tumor microenvironment, including NK cells, 
+induces expression of an adaptive, therapy-induced, T-cell resistance program in 
+tumor cells.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41467-023-43790-2
+PMCID: PMC10698189
+PMID: 38052854 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.V.M. is on the Board of Directors of 
+2SeventyBio, and holds equity in TCR2, Century Therapeutics, Oncternal, and 
+Neximmune, and has served as a consultant for multiple companies involved in 
+cell therapies. R.T.M. has received consulting or speaking fees from Bristol 
+Myers Squibb, Gilead Sciences and Immunai Therapeutics, has equity ownership in 
+OncoRev, and receives research funding from Calico Life Sciences. M.G.V.H. 
+declares he is an advisory board member for Agios Pharmaceuticals, Aeglea 
+Biotherapeutics, Faeth Therapeutics, Drioa Ventures and iTeos Therapeutics, and 
+a co-founder of Auron Therapeutics. M.E.B. is an equity holder in 3 T 
+Biosciences, and is a co-founder, equity holder, and consultant of Kelonia 
+Therapeutics and Abata Therapeutics. AR is a co-founder and equity holder of 
+Celsius Therapeutics, an equity holder in Immunitas and, until 31 July 2020, was 
+a scientific advisory board member of Thermo Fisher Scientific, Syros 
+Pharmaceuticals, Neogene Therapeutics and Asimov. AR is an employee of Genentech 
+from August 1st, 2020. The remaining authors declare no competing interests.

@@ -1,0 +1,48 @@
+1. Medicine (Baltimore). 2019 May;98(21):e15796. doi:
+10.1097/MD.0000000000015796.
+
+KEGG-expressed genes and pathways in intervertebral disc degeneration: Protocol 
+for a systematic review and data mining.
+
+Mo S(1), Liu C, Chen L, Ma Y, Liang T, Xue J, Zeng H, Zhan X.
+
+Author information:
+(1)Spine and Osteopathy Ward, The First Affiliated Hospital of Guangxi Medical 
+University, Nanning, Guangxi, People's Republic of China.
+
+miRNAs and genes play significant roles in the etiology and pathogenesis of 
+intervertebral disc degeneration (IDD). This study aimed to identify aberrantly 
+expressed miRNAs, genes, and pathways in IDD through a comprehensive 
+bioinformatics analysis.Data of miRNAs expression microarrays (GSE63492) and 
+genes microarrays (GSE23130) were obtained from GEO database. Similarly, 
+aberrantly expressed miRNAs and genes were obtained using GEO2R. In addition, 
+functional and enrichment analyses of selected miRNAs and genes were performed 
+using the DAVID database. Meanwhile, protein-protein interaction (PPI) network 
+was constructed using STRING, and then visualized in Cytoscape.A total of 98 
+upregulated miRNAs were identified. They were enriched in biological processes 
+of response to organelle, ion binding, cellular nitrogen compound metabolic 
+process, biosynthetic process, small molecule metabolic process, cellular 
+protein modification process, catabolic process, molecular function, 
+neurotrophin TRK receptor signaling pathway, and protein complex. In addition, 
+1405 high expression protein genes were detected. It indicated enrichment in 
+biological processes, such as translational initiation, nonsense-mediated decay, 
+viral transcription, cell-cell adhesion, rRNA processing, translation, 
+RP-dependent cotranslational protein targeting to membrane, nuclear-transcribed 
+mRNA catabolic process, regulation of mRNA stability, and mRNA splicing via 
+spliceosome and extracellular matrix organization. In addition, pathway analysis 
+exhibited the common enrichment in focal adhesion, Hippo signaling pathway, 
+ECM-receptor interaction, Wnt signaling pathway, PI3K-Akt signaling pathway, 
+endocytosis, proteoglycans in cancer, and so on. The top 10 central genes of PPI 
+network were POTEE, PPP2CA, RPL17, HSP90AA1, POTEF, RPL13A, ACTB, RPL18, RPS24, 
+and HSPA1A.In conclusion, our research proposed abnormally expressed miRNAs, 
+genes, and pathways in IDD through bioinformatics methods, which may provide new 
+insights into the pathogenesis of IDD. Thus, the Hub gene involving POTEE, 
+PPP2CA, RPL17, HSP90AA1, POTEF, RPL13A, ACTB, RPL18, RPS24, and HSPA1A may be 
+biomarkers for accurate diagnosis and treatment of IDD in the future.
+
+DOI: 10.1097/MD.0000000000015796
+PMCID: PMC6571259
+PMID: 31124977 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.

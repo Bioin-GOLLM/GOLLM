@@ -1,0 +1,45 @@
+1. PLoS One. 2016 Jan 28;11(1):e0147651. doi: 10.1371/journal.pone.0147651. 
+eCollection 2016.
+
+Simulating Serial-Target Antibacterial Drug Synergies Using Flux Balance 
+Analysis.
+
+Krueger AS(1), Munck C(2), Dantas G(3)(4)(5), Church GM(6), Galagan J(1)(7), 
+Lehár J(1), Sommer MO(2).
+
+Author information:
+(1)Boston University, 44 Cummington St, Boston, MA, United States of America.
+(2)Technical University of Denmark, Novo Nordisk Foundation Center for 
+Biosustainability, Hørsholm, Denmark.
+(3)Center for Genome Science & Systems Biology, Washington University School of 
+Medicine, St Louis, Missouri, United States of America.
+(4)Department of Pathology & Immunology, Washington University School of 
+Medicine, St Louis, Missouri, United States of America.
+(5)Department of Biomedical Engineering, Washington University, St. Louis, 
+Missouri, United States of America.
+(6)Department of Genetics, Harvard Medical School, Boston, Massachusetts, United 
+States of America.
+(7)Broad Institute, Cambridge Center, Cambridge, Massachusetts, United States of 
+America.
+
+Flux balance analysis (FBA) is an increasingly useful approach for modeling the 
+behavior of metabolic systems. However, standard FBA modeling of genetic 
+knockouts cannot predict drug combination synergies observed between serial 
+metabolic targets, even though such synergies give rise to some of the most 
+widely used antibiotic treatments. Here we extend FBA modeling to simulate 
+responses to chemical inhibitors at varying concentrations, by diverting 
+enzymatic flux to a waste reaction. This flux diversion yields very similar 
+qualitative predictions to prior methods for single target activity. However, we 
+find very different predictions for combinations, where flux diversion, which 
+mimics the kinetics of competitive metabolic inhibitors, can explain serial 
+target synergies between metabolic enzyme inhibitors that we confirmed in 
+Escherichia coli cultures. FBA flux diversion opens the possibility for more 
+accurate genome-scale predictions of drug synergies, which can be used to 
+suggest treatments for infections and other diseases.
+
+DOI: 10.1371/journal.pone.0147651
+PMCID: PMC4731467
+PMID: 26821252 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

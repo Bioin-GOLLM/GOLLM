@@ -1,0 +1,43 @@
+1. ACS Synth Biol. 2023 Apr 21;12(4):1058-1071. doi: 10.1021/acssynbio.2c00530. 
+Epub 2023 Mar 15.
+
+Standard Intein Gene Expression Ramps (SIGER) for Protein-Independent Expression 
+Control.
+
+Fages-Lartaud M(1), Mueller Y(1), Elie F(1), Courtade G(1), Hohmann-Marriott 
+MF(1)(2).
+
+Author information:
+(1)Department of Biotechnology and Food Science, Norwegian University of Science 
+and Technology, Trondheim N-7491, Norway.
+(2)United Scientists CORE (Limited), Dunedin 9016, Aotearoa, New Zealand.
+
+Coordination of multigene expression is one of the key challenges of metabolic 
+engineering for the development of cell factories. Constraints on translation 
+initiation and early ribosome kinetics of mRNA are imposed by features of the 
+5'UTR in combination with the start of the gene, referred to as the "gene ramp", 
+such as rare codons and mRNA secondary structures. These features strongly 
+influence the translation yield and protein quality by regulating the ribosome 
+distribution on mRNA strands. The utilization of genetic expression sequences, 
+such as promoters and 5'UTRs in combination with different target genes, leads 
+to a wide variety of gene ramp compositions with irregular translation rates, 
+leading to unpredictable levels of protein yield and quality. Here, we present 
+the Standard Intein Gene Expression Ramp (SIGER) system for controlling protein 
+expression. The SIGER system makes use of inteins to decouple the translation 
+initiation features from the gene of a target protein. We generated 
+sequence-specific gene expression sequences for two inteins (DnaB and DnaX) that 
+display defined levels of protein expression. Additionally, we used inteins that 
+possess the ability to release the C-terminal fusion protein in vivo to avoid 
+the impairment of protein functionality by the fused intein. Overall, our 
+results show that SIGER systems are unique tools to mitigate the undesirable 
+effects of gene ramp variation and to control the relative ratios of enzymes 
+involved in molecular pathways. As a proof of concept of the potential of the 
+system, we also used a SIGER system to express two difficult-to-produce 
+proteins, GumM and CBM73.
+
+DOI: 10.1021/acssynbio.2c00530
+PMCID: PMC10127266
+PMID: 36920366 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

@@ -1,0 +1,71 @@
+1. J Nanobiotechnology. 2021 Jan 12;19(1):22. doi: 10.1186/s12951-020-00767-3.
+
+Genomic instability-derived plasma extracellular vesicle-microRNA signature as a 
+minimally invasive predictor of risk and unfavorable prognosis in breast cancer.
+
+Bao S(1), Hu T(2), Liu J(3), Su J(1), Sun J(1), Ming Y(4), Li J(3), Wu N(5), 
+Chen H(6), Zhou M(7).
+
+Author information:
+(1)School of Biomedical Engineering, School of Ophthalmology & Optometry and Eye 
+Hospital, Wenzhou Medical University, Wenzhou, 325027, People's Republic of 
+China.
+(2)State Key Laboratory of Molecular Oncology, National Cancer Center/National 
+Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical 
+Sciences and Peking Union Medical College, Beijing, 100021, People's Republic of 
+China.
+(3)Department of Breast Surgical Oncology, National Cancer Center/National 
+Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical 
+Sciences and Peking Union Medical College, Beijing, 100021, People's Republic of 
+China.
+(4)PET-CT Center, National Cancer Center/Cancer Hospital, Chinese Academy of 
+Medical Sciences and Peking Union Medical College, Beijing, 100021, People's 
+Republic of China.
+(5)Department of Orthopedic Surgery, Beijing Key Laboratory for Genetic Research 
+of Skeletal Deformity & Key Laboratory of Big Data for Spinal Deformities, State 
+Key Laboratory of Complex Severe and Rare Diseases, All at Peking Union Medical 
+College Hospital, Peking Union Medical College and Chinese Academy of Medical 
+Sciences, Beijing, 100730, People's Republic of China. dr.wunan@pumch.cn.
+(6)State Key Laboratory of Molecular Oncology, National Cancer Center/National 
+Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical 
+Sciences and Peking Union Medical College, Beijing, 100021, People's Republic of 
+China. chenhongyan@cicams.ac.cn.
+(7)School of Biomedical Engineering, School of Ophthalmology & Optometry and Eye 
+Hospital, Wenzhou Medical University, Wenzhou, 325027, People's Republic of 
+China. zhoumeng@wmu.edu.cn.
+
+BACKGROUND: Breast cancer (BC) is the most frequently diagnosed cancer and the 
+leading cause of cancer-associated deaths in women. Recent studies have 
+indicated that microRNA (miRNA) regulation in genomic instability (GI) is 
+associated with disease risk and clinical outcome. Herein, we aimed to identify 
+the GI-derived miRNA signature in extracellular vesicles (EVs) as a minimally 
+invasive biomarker for early diagnosis and prognostic risk stratification.
+EXPERIMENTAL DESIGN: Integrative analysis of miRNA expression and somatic 
+mutation profiles was performed to identify GI-associated miRNAs. Then, we 
+constructed a discovery and validation study with multicenter prospective 
+cohorts. The GI-derived miRNA signature (miGISig) was developed in the TCGA 
+discovery cohort (n = 261), and was subsequently independently validated in 
+internal TCGA validation (n = 261) and GSE22220 (n = 210) cohorts for prognosis 
+prediction, and in GSE73002 (n = 3966), GSE41922 (n = 54), and in-house clinical 
+exosome (n = 30) cohorts for diagnostic performance.
+RESULTS: We identified a GI-derived three miRNA signature (MIR421, MIR128-1 and 
+MIR128-2) in the serum extracellular vesicles of BC patients, which was 
+significantly associated with poor prognosis in all the cohorts tested and 
+remained as an independent prognostic factor using multivariate analyses. When 
+integrated with the clinical characteristics, the composite miRNA-clinical 
+prognostic indicator showed improved prognostic performance. The miGISig also 
+showed high accuracy in differentiating BC from healthy controls with the area 
+under the receiver operating characteristics curve (ROC) with 0.915, 0.794 and 
+0.772 in GSE73002, GSE41922 and TCGA cohorts, respectively. Furthermore, 
+circulating EVs from BC patients in the in-house cohort harbored elevated levels 
+of miGISig, with effective diagnostic accuracy.
+CONCLUSIONS: We report a novel GI-derived three miRNA signature in EVs, as an 
+excellent minimally invasive biomarker for the early diagnosis and unfavorable 
+prognosis in BC.
+
+DOI: 10.1186/s12951-020-00767-3
+PMCID: PMC7802300
+PMID: 33436002 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,515 @@
+1. Nat Commun. 2016 Jan 21;7:10023. doi: 10.1038/ncomms10023.
+
+Genetic associations at 53 loci highlight cell types and biological pathways 
+relevant for kidney function.
+
+Pattaro C(1), Teumer A(2)(3), Gorski M(4)(5), Chu AY(6), Li M(7), Mijatovic 
+V(8), Garnaas M(9), Tin A(7), Sorice R(10), Li Y(11), Taliun D(1), Olden 
+M(4)(5), Foster M(12), Yang Q(13), Chen MH(13)(14), Pers TH(15)(16), Johnson 
+AD(17), Ko YA(18), Fuchsberger C(1), Tayo B(19), Nalls M(20), Feitosa MF(21), 
+Isaacs A(22)(23), Dehghan A(24), d'Adamo P(25), Adeyemo A(26), Dieffenbach 
+AK(27)(28), Zonderman AB(29), Nolte IM(30), van der Most PJ(30), Wright AF(31), 
+Shuldiner AR(32)(33), Morrison AC(34), Hofman A(24), Smith AV(35)(36), Dreisbach 
+AW(37), Franke A(38), Uitterlinden AG(39), Metspalu A(40)(41), Tonjes A(42), 
+Lupo A(43), Robino A(25), Johansson Å(44), Demirkan A(22), Kollerits B(45), 
+Freedman BI(46), Ponte B(47), Oostra BA(48), Paulweber B(49), Krämer BK(50), 
+Mitchell BD(32)(33), Buckley BM(51), Peralta CA(52), Hayward C(31), Helmer 
+C(53)(54), Rotimi CN(26), Shaffer CM(55), Müller C(56)(57), Sala C(58), van 
+Duijn CM(22), Saint-Pierre A(1)(59), Ackermann D(47), Shriner D(26), Ruggiero 
+D(10), Toniolo D(58)(60), Lu Y(61), Cusi D(62), Czamara D(63), Ellinghaus D(38), 
+Siscovick DS(64), Ruderfer D(65), Gieger C(66), Grallert H(67)(68)(69), 
+Rochtchina E(70), Atkinson EJ(71), Holliday EG(72)(73), Boerwinkle E(34), Salvi 
+E(62), Bottinger EP(61), Murgia F(74), Rivadeneira F(39), Ernst F(2), Kronenberg 
+F(45), Hu FB(75), Navis GJ(76), Curhan GC(77), Ehret GB(78), Homuth G(2), 
+Coassin S(45), Thun GA(79)(80), Pistis G(58), Gambaro G(81), Malerba G(8), 
+Montgomery GW(82), Eiriksdottir G(35), Jacobs G(83), Li G(64), Wichmann 
+HE(84)(85)(86), Campbell H(87), Schmidt H(88), Wallaschofski H(89)(90), Völzke 
+H(3)(90), Brenner H(27)(28), Kroemer HK(91), Kramer H(19), Lin H(92), Leach 
+IM(93), Ford I(94), Guessous I(95)(96)(97), Rudan I(87), Prokopenko I(98), 
+Borecki I(21), Heid IM(4)(66), Kolcic I(99), Persico I(74), Jukema 
+JW(100)(101)(102)(103), Wilson JF(87), Felix JF(24), Divers J(104), Lambert 
+JC(105), Stafford JM(104), Gaspoz JM(95), Smith JA(106), Faul JD(107), Wang 
+JJ(108), Ding J(109), Hirschhorn JN(15)(16)(110), Attia J(71)(72), Whitfield 
+JB(82), Chalmers J(111), Viikari J(112), Coresh J(7)(113), Denny JC(114), 
+Karjalainen J(115), Fernandes JK(116), Endlich K(117), Butterbach K(27), Keene 
+KL(118), Lohman K(46), Portas L(74), Launer LJ(119), Lyytikäinen LP(120), Yengo 
+L(121)(122)(123), Franke L(115), Ferrucci L(124), Rose LM(6), Kedenko L(49), Rao 
+M(12), Struchalin M(125)(126), Kleber ME(127), Cavalieri M(128), Haun M(45), 
+Cornelis MC(75), Ciullo M(10), Pirastu M(74), de Andrade M(71), McEvoy MA(129), 
+Woodward M(7)(111)(112)(130), Adam M(79)(80), Cocca M(58), Nauck M(89)(90), 
+Imboden M(79)(80), Waldenberger M(67), Pruijm M(131), Metzger M(132), Stumvoll 
+M(42), Evans MK(133), Sale MM(134), Kähönen M(135), Boban M(99), Bochud M(136), 
+Rheinberger M(5), Verweij N(93), Bouatia-Naji N(137)(138), Martin NG(82)(139), 
+Hastie N(31), Probst-Hensch N(79)(80), Soranzo N(140), Devuyst O(141), Raitakari 
+O(142), Gottesman O(61), Franco OH(24), Polasek O(99), Gasparini P(25), Munroe 
+PB(143)(144), Ridker PM(145), Mitchell P(108), Muntner P(146)(147), Meisinger 
+C(68), Smit JH(148); ICBP Consortium; AGEN Consortium; CARDIOGRAM; CHARGe-Heart 
+Failure Group; ECHOGen Consortium; Kovacs P(149), Wild PS(150), Froguel 
+P(121)(122)(123), Rettig R(151), Mägi R(40), Biffar R(152), Schmidt R(128), 
+Middelberg RP(82), Carroll RJ(114), Penninx BW(148), Scott RJ(153), Katz R(154), 
+Sedaghat S(24), Wild SH(87), Kardia SL(106), Ulivi S(155), Hwang SJ(17), Enroth 
+S(44), Kloiber S(63), Trompet S(100), Stengel B(132), Hancock SJ(72)(73), Turner 
+ST(156), Rosas SE(18), Stracke S(105)(157), Harris TB(119), Zeller T(56)(57), 
+Zemunik T(99), Lehtimäki T(120), Illig T(68), Aspelund T(35)(36), Nikopensius 
+T(40)(41), Esko T(15)(40)(41), Tanaka T(124), Gyllensten U(44), Völker U(2)(90), 
+Emilsson V(35)(158), Vitart V(31), Aalto V(159), Gudnason V(35)(36), Chouraki 
+V(105), Chen WM(134), Igl W(44), März W(160), Koenig W(161), Lieb W(83), Loos 
+RJ(61)(162), Liu Y(46), Snieder H(30), Pramstaller PP(1)(163)(164), Parsa 
+A(165), O'Connell JR(32), Susztak K(18), Hamet P(166), Tremblay J(166), de Boer 
+IH(154), Böger CA(5), Goessling W(9), Chasman DI(6)(145), Köttgen A(7)(11), Kao 
+WH(7)(113), Fox CS(17)(167).
+
+Collaborators: Abecasis GR, Adair LS, Alexander M, Altshuler D, Amin N, Arking 
+DE, Arora P, Aulchenko Y, Bakker SJ, Bandinelli S, Barroso I, Beckmann JS, 
+Beilby JP, Bergman RN, Bergmann S, Bis JC, Boehnke M, Bonnycastle LL, Bornstein 
+SR, Bots ML, Bragg-Gresham JL, Brand SM, Brand E, Braund PS, Brown MJ, Burton 
+PR, Casas JP, Caulfield MJ, Chakravarti A, Chambers JC, Chandak GR, Chang YP, 
+Charchar FJ, Chaturvedi N, Shin Cho Y, Clarke R, Collins FS, Collins R, Connell 
+JM, Cooper JA, Cooper MN, Cooper RS, Corsi AM, Dörr M, Dahgam S, Danesh J, Davey 
+Smith G, Day IN, Deloukas P, Denniff M, Dominiczak AF, Dong Y, Doumatey A, 
+Elliott P, Elosua R, Erdmann J, Eyheramendy S, Farrall M, Fava C, Forrester T, 
+Fowkes FG, Fox ER, Frayling TM, Galan P, Ganesh SK, Garcia M, Gaunt TR, Glazer 
+NL, Go MJ, Goel A, Grässler J, Grobbee DE, Groop L, Guarrera S, Guo X, Hadley D, 
+Hamsten A, Han BG, Hardy R, Hartikainen AL, Heath S, Heckbert SR, Hedblad B, 
+Hercberg S, Hernandez D, Hicks AA, Hilton G, Hingorani AD, Bolton JA, Hopewell 
+JC, Howard P, Humphries SE, Hunt SC, Hveem K, Ikram MA, Islam M, Iwai N, 
+Jarvelin MR, Jackson AU, Jafar TH, Janipalli CS, Johnson T, Kathiresan S, Khaw 
+KT, Kim HL, Kinra S, Kita Y, Kivimaki M, Kooner JS, Kumar MJ, Kuh D, Kulkarni 
+SR, Kumari M, Kuusisto J, Kuznetsova T, Laakso M, Laan M, Laitinen J, Lakatta 
+EG, Langefeld CD, Larson MG, Lathrop M, Lawlor DA, Lawrence RW, Lee JY, Lee NR, 
+Levy D, Li Y, Longstreth WT, Luan J, Lucas G, Ludwig B, Mangino M, Mani KR, 
+Marmot MG, Mattace-Raso FU, Matullo G, McArdle WL, McKenzie CA, Meitinger T, 
+Melander O, Meneton P, Meschia JF, Miki T, Milaneschi Y, Mohlke KL, Mooser V, 
+Morken MA, Morris RW, Mosley TH, Najjar S, Narisu N, Newton-Cheh C, Nguyen KD, 
+Nilsson P, Nyberg F, O'Donnell CJ, Ogihara T, Ohkubo T, Okamura T, Ong RT, Ongen 
+H, Onland-Moret NC, O'Reilly PF, Org E, Orru M, Palmas W, Palmen J, Palmer LJ, 
+Palmer ND, Parker AN, Peden JF, Peltonen L, Perola M, Pihur V, Platou CG, Plump 
+A, Prabhakaran D, Psaty BM, Raffel LJ, Rao DC, Rasheed A, Ricceri F, Rice KM, 
+Rosengren A, Rotter JI, Rudock ME, Sõber S, Salako T, Saleheen D, Salomaa V, 
+Samani NJ, Schwartz SM, Schwarz PE, Scott LJ, Scott J, Scuteri A, Sehmi JS, 
+Seielstad M, Seshadri S, Sharma P, Shaw-Hawkins S, Shi G, Shrine NR, Sijbrands 
+EJ, Sim X, Singleton A, Sjögren M, Smith NL, Soler Artigas M, Spector TD, 
+Staessen JA, Stancakova A, Steinle NI, Strachan DP, Stringham HM, Sun YV, Swift 
+AJ, Tabara Y, Tai ES, Talmud PJ, Taylor A, Terzic J, Thelle DS, Tobin MD, 
+Tomaszewski M, Tripathy V, Tuomilehto J, Tzoulaki I, Uda M, Ueshima H, Uiterwaal 
+CS, Umemura S, van der Harst P, van der Schouw YT, van Gilst WH, Vartiainen E, 
+Vasan RS, Veldre G, Verwoert GC, Viigimaa M, Vinay DG, Vineis P, Voight BF, 
+Vollenweider P, Wagenknecht LE, Wain LV, Wang X, Wang TJ, Wareham NJ, Watkins H, 
+Weder AB, Whincup PH, Wiggins KL, Witteman JC, Wong A, Wu Y, Yajnik CS, Yao J, 
+Young JH, Zelenika D, Zhai G, Zhang W, Zhang F, Zhao JH, Zhu H, Zhu X, Zitting 
+P, Zukowska-Szczechowska E, Okada Y, Wu JY, Gu D, Takeuchi F, Takahashi A, Maeda 
+S, Tsunoda T, Chen P, Lim SC, Wong TY, Liu J, Young TL, Aung T, Teo YY, Kim YJ, 
+Kang D, Chen CH, Tsai FJ, Chang LC, Fann SJ, Mei H, Hixson JE, Chen S, Katsuya 
+T, Isono M, Albrecht E, Yamamoto K, Kubo M, Nakamura Y, Kamatani N, Kato N, He 
+J, Chen YT, Tanaka T, Reilly MP, Schunkert H, Assimes TL, Hall A, Hengstenberg 
+C, König IR, Laaksonen R, McPherson R, Thompson JR, Thorsteinsdottir U, Ziegler 
+A, Absher D, Chen L, Cupples LA, Halperin E, Li M, Musunuru K, Preuss M, 
+Schillert A, Thorleifsson G, Wells GA, Holm H, Roberts R, Stewart AF, Fortmann 
+S, Go A, Hlatky M, Iribarren C, Knowles J, Myers R, Quertermous T, Sidney S, 
+Risch N, Tang H, Blankenberg S, Schnabel R, Sinning C, Lackner KJ, Tiret L, 
+Nicaud V, Cambien F, Bickel C, Rupprecht HJ, Perret C, Proust C, Münzel TF, 
+Barbalic M, Chen IY, Demissie-Banjaw S, Folsom A, Lumley T, Marciante K, Taylor 
+KD, Volcik K, Gretarsdottir S, Gulcher JR, Kong A, Stefansson K, Thorgeirsson G, 
+Andersen K, Fischer M, Grosshennig A, Linsel-Nitschke P, Stark K, Schreiber S, 
+Aherrahrou Z, Bruse P, Doering A, Klopp N, Diemert P, Loley C, Medack A, 
+Nahrstedt J, Peters A, Wagner AK, Willenborg C, Böhm BO, Dobnig H, Grammer TB, 
+Hoffmann MM, Meinitzer A, Winkelmann BR, Pilz S, Renner W, Scharnagl H, 
+Stojakovic T, Tomaschitz A, Winkler K, Guiducci C, Burtt N, Gabriel SB, Dandona 
+S, Jarinova O, Qu L, Wilensky R, Matthai W, Hakonarson HH, Devaney J, Burnett 
+MS, Pichard AD, Kent KM, Satler L, Lindsay JM, Waksman R, Knouff CW, Waterworth 
+DM, Walker MC, Epstein SE, Rader DJ, Nelson CP, Wright BJ, Balmforth AJ, Ball 
+SG, Loehr LR, Rosamond WD, Benjamin E, Haritunians T, Couper D, Murabito J, Wang 
+YA, Stricker BH, Chang PP, Willerson JT, Felix SB, Watzinger N, Aragam J, 
+Zweiker R, Lind L, Rodeheffer RJ, Greiser KH, Deckers JW, Stritzke J, Ingelsson 
+E, Kullo I, Haerting J, Reffelmann T, Redfield MM, Werdan K, Mitchell GF, Arnett 
+DK, Gottdiener JS, Blettner M, Friedrich N.
+
+Author information:
+(1)Center for Biomedicine, European Academy of Bozen/Bolzano (EURAC), affiliated 
+to the University of Lübeck, Via Galvani 31, Bolzano 39100, Italy.
+(2)Interfaculty Institute for Genetics and Functional Genomics, 
+Ernst-Moritz-Arndt-University Greifswald, Friedrich-Loeffler-Straße 15a, 
+Greifswald 17487, Germany.
+(3)Institute for Community Medicine, University of Greifswald, 
+Walther-Rathenau-Strasse 48, Greifswald 17487, Germany.
+(4)Department of Genetic Epidemiology, Institute of Epidemiology and Preventive 
+Medicine, University of Regensburg, Franz-Josef-Strauß-Allee 11, Regensburg 
+93053, Germany.
+(5)Department of Nephrology, University Hospital Regensburg, 
+Franz-Josef-Strauß-Allee 11, Regensburg 93053, Germany.
+(6)Preventive Medicine, Brigham and Women's Hospital, 900 Commonwealth Avenue 
+East, Boston, Massachusetts 02215, USA.
+(7)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+615 North Wolfe Street, Baltimore, Maryland 21205, USA.
+(8)Department of Life and Reproduction Sciences, University of Verona, Strada Le 
+Grazie 8, Verona 37134, Italy.
+(9)Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Harvard Medical School, New Research Building77 Avenue Louis Pasteur, Room 458, 
+Boston, Massachusetts 02115, USA.
+(10)Institute of Genetics and Biophysics "Adriano Buzzati-Traverso"-CNR, Via P. 
+Castellino 111, Napoli 80131, Italy.
+(11)Department of Internal Medicine IV, University Hospital Freiburg, Berliner 
+Allee 29, Freiburg 79110, Germany.
+(12)Division of Nephrology/Tufts Evidence Practice Center, Tufts University 
+School of Medicine, Tufts Medical Center, Boston, Massachusetts 02111, USA.
+(13)Department of Biostatistics, Boston University School of Public Health, 715 
+Albany Street, Boston, Massachusetts 02118, USA.
+(14)Department of Neurology, Boston University School of Medicine, 72 East 
+Concord ST B603, Boston, Massachusetts 02118, USA.
+(15)Division of Endocrinology and Center for Basic and Translational Obesity 
+Research, Boston Children's Hospital, 300 Longwood Avenue, Boston, Massachusetts 
+02115, USA.
+(16)Medical and Population Genetics Program, Broad Institute of MIT and Harvard, 
+Cambridge, Massachusetts 2142, USA.
+(17)NHLBI's Framingham Heart Study and the Center for Population Studies, 73 Mt 
+Wayte Avenue, Suite 2, Framingham, Massachusetts 01702, USA.
+(18)Renal Electrolyte and Hypertension Division, Perelman School of Medicine, 
+University of Pennsylvania, 415 Curie Boulevard, 405B Clinical Research 
+Building, Philadelphia, Pennsylvania 19104-4539, USA.
+(19)Department of Public Health Sciences, Loyola Medical Center, 2160 S First 
+Avenue, Maywood, Illinois 60153, USA.
+(20)Laboratory of Neurogenetics, Building 35-Porter Building, 1A1015, National 
+Institute on Aging/NIH, Bethesda, Maryland 20892, USA.
+(21)Division of Statistical Genomics, Washington University School of Medicine, 
+4444 Forest Park Boulevard, Box 8506, St Louis, Missouri 63108, USA.
+(22)Genetic Epidemiology Unit, Department of Epidemiology, Erasmus University 
+Medical Center, Dr Molewaterplein 50, PO Box 2040, Rotterdam 3000 CA, The 
+Netherlands.
+(23)Centre for Medical Systems Biology Leiden, Dr Molewaterplein 50, PO Box 
+2040, Rotterdam 3000 CA, The Netherlands.
+(24)Department of Epidemiology, Erasmus University Medical Center, PO Box 2040, 
+Rotterdam 3000 CA, The Netherlands.
+(25)Institute for Maternal and Child Health-IRCCS "Burlo Garofolo" and 
+University of Trieste, via dell'Istria 65/1, Trieste 34137, Italy.
+(26)Center for Research on Genomics and Global Health, National Human Genome 
+Research Institute, Building 12A, Room 4047, 12 South Dr, MSC 5635, Bethesda, 
+Maryland 20892-5635, USA.
+(27)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center (DKFZ), Im Neuenheimer Feld 581, Heidelberg 69120, Germany.
+(28)German Cancer Consortium (DKTK), Im Neuenheimer Feld 581, Heidelberg 69120, 
+Germany.
+(29)Laboratory of Personality and Cognition, National Institute on Aging, 
+National Institutes of Health, NIH Biomedical Center, 251 Bayview Boulevard, 
+Suite 100, Baltimore, Maryland 21224, USA.
+(30)Unit of Genetic Epidemiology and Bioinformatics, Department of Epidemiology, 
+University Medical Center Groningen, PO Box 30001, Groningen 9700 RB, The 
+Netherlands.
+(31)MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine, 
+University of Edinburgh, Crewe Road, Edinburgh EH4 2XU, UK.
+(32)Department of Medicine, University of Maryland School of Medicine, 685 West 
+Baltimore Street, Baltimore, Maryland 21201, USA.
+(33)Geriatric Research and Education Clinical Center, Veterans Administration 
+Medical Center, 10 North Greene Street, Baltimore, Maryland 21201, USA.
+(34)Human Genetics Center, University of Texas Health Science Center at Houston, 
+1200 Pressler St Suite 453E, Houston, Texas 77030, USA.
+(35)Icelandic Heart Association, Research Institute, Holtasmari 1, Kopavogur 
+201, Iceland.
+(36)University of Iceland, Sæmundargötu 2, Reykjavik 101, Iceland.
+(37)Division of Nephrology, University of Mississippi, 2500 North State Street, 
+Jackson, Mississippi 39216, USA.
+(38)Institute of Clinical Molecular Biology, Christian-Albrechts University of 
+Kiel, Schittenhelmstraße 12, Kiel 24105, Germany.
+(39)Department of Internal Medicine, Erasmus University Medical Center, PO Box 
+1738, Rotterdam 3000 DR, The Netherlands.
+(40)Estonian Genome Center of University of Tartu (EGCUT), Riia 23B, Tartu 
+51010, Estonia.
+(41)Institute of Molecular and Cell Biology, University of Tartu and Estonian 
+Biocenter, Riia 23, Tartu 51010, Estonia.
+(42)Department of Medicine, University of Leipzig, Liebigstraße 18, Leipzig 
+04103, Germany.
+(43)Division of Nephrology, Department of Medicine, University of Verona, 
+Piazzale Aristide Stefani 1, Verona 37126, Italy.
+(44)Uppsala University, Department of Immunology, Genetics and Pathology, 
+Biomedical Center, SciLifeLab, Uppsala University, Uppsala SE- 75108, Sweden.
+(45)Innsbruck Medical University, Division of Genetic Epidemiology, 
+Schoepfstraße 41, Innsbruck 6020, Austria.
+(46)Internal Medicine Department, Wake Forest School of Medicine, Medical Center 
+Boulevard, Winston-Salem, North Carolina 27157-1053, USA.
+(47)Nephrology Division, Department of Specialties of Internal Medicine, Geneva 
+University Hospital, 4 rue Gabrielle-Perret-Gentil, Geneve 1211, Switzerland.
+(48)Department of Clinical Genetics, Erasmus University Medical Center, Dr 
+Molewaterplein 50, PO Box 2040, Rotterdam 3000 CA, The Netherlands.
+(49)First Department of Internal Medicine, Paracelsus Medical 
+University/Salzburger Landeskliniken, Müllner Hauptstraße 48, Salzburg 5020, 
+Austria.
+(50)University Medical Centre Mannheim, 5th Department of Medicine, University 
+of Heidelberg, Theodor Kutzer Ufer 1-3, Mannheim 68167, Germany.
+(51)Department of Pharmacology and Therapeutics, University College Cork, 
+Clinical Investigations Building, Western Rd, Cork, Ireland.
+(52)Division of Nephrology, University of California, San Francisco Medical 
+School and San Francisco VA Medical Center, 4150 Clement Street, San Francisco, 
+California 94121, USA.
+(53)INSERM, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, Bordeaux 
+F-33000, France.
+(54)Université Bordeaux, ISPED, Centre INSERM U897-Epidemiologie-Biostatistique, 
+Bordeaux F-33000, France.
+(55)Vanderbilt University School of Medicine, 2215-B Garland Avenue 1224-MRB4 
+(Light Hall)Nashville, Tennessee 37232, USA.
+(56)University Heart Center Hamburg, Clinic for general and interventional 
+cardiology, Martinistraße 52, Hamburg 20246, Germany.
+(57)German Center for Cardiovascular Research (DZHK), Partner Site 
+Hamburg/Lübeck/Kiel, Martinistraße 52, Hamburg 20246, Germany.
+(58)Division of Genetics and Cell Biology, San Raffaele Scientific Institute, 
+Via Olgettina 58, Milano 20132, Italy.
+(59)INSERM U1078, Etablissement Français du Sang, 46 rue Félix Le Dantec, CS 
+51819, Brest Cedex 2 29218, France.
+(60)Institute of Molecular Genetics-CNR, Via Abbiategrasso 207, Pavia 27100, 
+Italy.
+(61)The Charles Bronfman Institute for Personalized Medicine, Icahn School of 
+Medicine at Mount Sinai, New York, New York 10029, USA.
+(62)Department of Health Sciences, University of Milano, Via Antonio di Rudinì 
+8, Milano 20142, Italy.
+(63)Max Planck Institute of Psychiatry, Kraepelinstraße 2-10, Munich 80804, 
+Germany.
+(64)Cardiovascular Health Research Unit, Departments of Epidemiology and 
+Medicine, University of Washington, 1730 Minor Ave, Suite 1360, Seattle, 
+Washington 98101, USA.
+(65)Division of Psychiatric Genomics, Department of Psychiatry, Icahn School of 
+Medicine at Mount Sinai, New York, New York 10029, USA.
+(66)Institute of Genetic Epidemiology, Helmholtz Zentrum München, German 
+Research Center for Environmental Health, Ingolstaedter Landstraße 1, 85764 
+Neuherberg, Germany.
+(67)Research Unit of Molecular Epidemiology, Helmholtz Zentrum München, German 
+Research Center for Environmental Health, Ingolstaedter Landstraße 1, 85764 
+Neuherberg, Germany.
+(68)Institute of Epidemiology II, Helmholtz Zentrum München, German Research 
+Center for Environmental Health, 85764 Neuherberg, Germany.
+(69)German Center for Diabetes Research (DZD), Ingolstaedter Landstraße 1, 
+Neuherberg 85764, Germany.
+(70)Westmead Millennium Institute, Centre for Vision Research, University of 
+Sydney, C24 Westmead Hospital, New South Wales 2145, Australia.
+(71)Division of Biomedical Statistics and Informatics, Mayo Clinic, 200 First 
+Street SW, Rochester, Minnesota 55905, USA.
+(72)Centre for Clinical Epidemiology and Biostatistics, School of Medicine and 
+Public Health, University of Newcastle, HMRI Building1, Kookaburra Circuit, New 
+Lambton New South Wales 2305, Australia.
+(73)Clinical Research Design, Information Technology and Statistical Support, 
+Hunter Medical Research Institute, Newcastle, 1 Kookaburra Circuit, New Lambton 
+Heights, New South Wales 2305, Australia.
+(74)Institute of Population Genetics-CNR, Traversa La Crucca 3, 07040 Reg. 
+Baldinca, Li Punti, Sassari, Italy.
+(75)Department of Nutrition, Harvard School of Public Health, 665 Huntington 
+Avenue, Building 2, Boston, Massachusetts 02115, USA.
+(76)Department of Internal Medicine, University Medical Center Groningen, 
+University of Groningen, Hanzeplein 1, Groningen 9713 GZ, The Netherlands.
+(77)Brigham and Women's Hospital and Channing Laboratory, Harvard Medical 
+School, 181 Longwood Avenue, Boston, Massachusetts 02115, USA.
+(78)Cardiology, Department of Specialties of Internal Medicine, Geneva 
+University Hospitals, Rue Gabrielle-Perret-Gentil 4, Geneva 1205, Switzerland.
+(79)Swiss Tropical and Public Health Institute, PO Box 4002, Basel, Switzerland.
+(80)University of Basel, Petersplatz 1, Basel 4003, Switzerland.
+(81)Division of Nephrology, Department of Internal Medicine and Medical 
+Specialties, Columbus-Gemelli University Hospital, Catholic University, Via 
+Moscati 31, Rome 00168, Italy.
+(82)Genetic Epidemiology, Queensland Institute of Medical Research, QIMR, PO 
+Royal Brisbane Hospital, Queensland 4029, Australia.
+(83)Institute of Epidemiology and Biobank popgen, Christian-Albrechts 
+University, Niemannsweg 11, Kiel 24105, Germany.
+(84)Institute of Epidemiology I, Helmholtz Zentrum München, German Research 
+Center for Environmental Health, Ingolstädter Landstraße 1, Neuherberg 85764, 
+Germany.
+(85)Institute of Medical Informatics, Biometry and Epidemiology, 
+Ludwig-Maximilians-Universität, Ingolstädter Landstrasse 1, 85764 Neuherberg, 
+Germany.
+(86)Klinikum Grosshadern, Ingolstädter Landstraße 1, Neuherberg 85764, Germany.
+(87)Centre for Population Health Sciences, University of Edinburgh, Teviot 
+Place, Edinburgh, EH8 9AG Scotland, UK.
+(88)Austrian Stroke Prevention Study, Institute of Molecular Biology and 
+Biochemistry, Department of Neurology, Medical University Graz, Harrachgasse 21, 
+Graz 8010, Austria.
+(89)Institute of Clinical Chemistry and Laboratory Medicine, University Medicine 
+Greifswald, Ferdinand-Sauerbruch-Straße, Greifswald 17475, Germany.
+(90)German Center for Cardiovascular Research (DZHK), Partner site Greifswald, 
+Ferdinand-Sauerbruch-Straße, Greifswald 17475, Germany.
+(91)Institute of Pharmacology, University of Greifswald, 
+Friedrich-Loeffler-Straße 23d, Greifswald 17487, Germany.
+(92)Boston University School of Medicine, 72 East Concord Street, B-616, Boston, 
+Massachusetts 02118, USA.
+(93)Department of Cardiology, University Medical Center Groningen, University of 
+Groningen, PO Box 30.001, Groningen 9700 RB, The Netherlands.
+(94)Robertson Centre for Biostatistics, University of Glasgow, R1122B Level 11, 
+Robertson Centre, Boyd Orr Building, Glasgow G12 8QQ, UK.
+(95)Division of Primary Care Medicine, Department of Community Medicine, Primary 
+Care and Emergency Medicine, Geneva University Hospitals, Faculty of Medicine, 
+University of Geneva, Geneva 1211, Switzerland.
+(96)Community Prevention Unit, University Institute of Social and Preventive 
+Medicine, Lausanne University Hospital, Route de la Corniche 10, Lausanne 1010, 
+Switzerland.
+(97)Department of Epidemiology, Rollins School of Public Health, Emory 
+University, 1518 Clifton Road, NE, Atlanta, Georgia 30322, USA.
+(98)Department of Genomics of Common Disease, School of Public Health, Imperial 
+College London, London W12 0NN, UK.
+(99)Croatian Centre for Global Health, University of Split Medical School, 
+Šoltanska 2, Split 21000, Croatia.
+(100)Department of Cardiology, Leiden University Medical Center, PO Box 9600, 
+Leiden 2300 RC, The Netherlands.
+(101)Interuniversity Cardiology Institute of the Netherlands (ICIN), 
+Moreelsepark 1, Utrecht 3511 EP, The Netherlands.
+(102)Einthoven Laboratory for Experimental Vascular Medicine, Albinusdreef 2, 
+Leiden 2333 ZA, The Netherlands.
+(103)Durrer Center for Cardiogenetic Research, Meibergdreef 9, Amsterdam 1105 
+AZ, The Netherlands.
+(104)Division of Public Health Sciences, Department of Biostatistical Sciences, 
+Wake Forest University Health Sciences, 2326 Medical Center Boulevard, 
+Winston-Salem, North Carolina 27157-1063, USA.
+(105)INSERM U744, Institut Pasteur de Lille, 1 rue du Pr, Calmette, Lille Cédex 
+59019, France.
+(106)Department of Epidemiology, School of Public Health, University of 
+Michigan, 1415 Washington Heights, Ann Arbor, Michigan 48109-2029, USA.
+(107)Survey Research Center, Institute for Social Research, University of 
+Michigan, 426 Thompson Street, #3456, Ann Arbor, Michigan 48104, USA.
+(108)Centre for Vision Research, Westmead Millennium Institute, University of 
+Sydney, C24 Westmead Hospital, New South Wales 2145, Australia.
+(109)Wake Forest School of Medicine, Department of Internal Medicine/Geriatrics, 
+Medical center Boulevard, Winston-Salem, North Carolina 27157, USA.
+(110)Department of Genetics, Harvard Medical School, 77 Avenue Louis Pasteur, 
+NRB 0330, Boston, Massachusetts 02115, USA.
+(111)University of Sydney, The George Institute for Global Health, Level 10, 
+King George V Building, 83-117 Missenden Road, Camperdown, New South Wales 2050, 
+Australia.
+(112)Department of Medicine, University of Turku, Turku University Hospital, PO 
+Box 52, Turku 20521, Finland.
+(113)Welch Center for Prevention, Epidemiology and Clinical Research, 2024 East 
+Monument St, Suite 2-600, Baltimore, Maryland 21287, USA.
+(114)Vanderbilt University School of Medicine, 448 Eskind Biomedical Library, 
+2209 Garland Avenue, Nashville, Tennessee 37212, USA.
+(115)Department of Genetics, University of Groningen, University Medical Centre 
+Groningen, PO Box 72, Groningen 9700 AB, The Netherlands.
+(116)Division of Endocrinology, Medical University of South Carolina, 171 Ashley 
+Avenue, Charleston, South Carolina 29425, USA.
+(117)Institute of Anatomy and Cell Biology, University of Greifswald, 
+Friedrich-Loeffler-Straße 23c, Greifswald 17487, Germany.
+(118)Center for Health Disparities, Department of Biology, East Carolina 
+University, 1001 East 10th Street, N209 Howell Science Complex Mailstop 551, 
+Greenville, North Carolina 27858, USA.
+(119)Intramural Research Program, Laboratory of Epidemiology, Demography, and 
+Biometry, National Institute on Aging, Gateway Building, 3C309, 7201 Winsconsin 
+Avenue, Bethesda, Maryland 20892-9205, USA.
+(120)Department of Clinical Chemistry, Fimlab Laboratories, University of 
+Tampere, School of Medicine, Tampere 33520, Finland.
+(121)CNRS UMR 8199, 1 Rue du Professeur Calmette, Lille 59000, France.
+(122)Lille Pasteur Institute, 1 Rue du Professeur Calmette, Lille 59000, France.
+(123)Lille II University, 42 Rue paul Duez, Lille 59000, France.
+(124)Clinical Research Branch, National Institute on Aging, 251 Bayview Blvd, 
+Baltimore, Maryland 21250, USA.
+(125)Department of Epidemiology and Biostatistics, Erasmus University Medical 
+Center, Dr Molewaterplein, Rotterdam 50-603015 GE, The Netherlands.
+(126)Department of Forensic Molecular Biology, Erasmus University Medical 
+Center, Dr Molewaterplein, Rotterdam 50-603015 GE, The Netherlands.
+(127)Medical Clinic V, Medical Faculty Mannheim, Heidelberg University, 
+Theodor-Kutzer-Ufer 1-3, Mannheim 68167, Germany.
+(128)Austrian Stroke Prevention Study, Department of Neurology, Division of 
+Special Neurology, Medical University Graz, Auenbruggerplatz 22, Graz 8036, 
+Austria.
+(129)Centre for Clinical Epidemiology and Biostatistics, University of 
+Newcastle, Hunter Medical Research Institute, John Hunter Hospital, Locked Bag 
+1, HRMC, New South Wales 2310, Australia.
+(130)The George Institute for Global Health, Nuffield Department of Population 
+Health, University of Oxford, Old Road Campus, Roosevelt Drive, Oxford OX3 7LF, 
+UK.
+(131)Service of Nephrology, Lausanne University Hospital, Rue du Bugnon 17, 
+Lausanne 1005, Switzerland.
+(132)Inserm UMRS 1018, CESP Team 10, Université Paris-Sud, 16 avenue Paul 
+Vaillant Couturier, Villejuif 94807, France.
+(133)Health Disparities Research Section, Clinical Research Branch, National 
+Institute on Aging, National Institutes of Health, NIH Biomedical Center, 251 
+Bayview Boulevard, Suite 100, Baltimore, Maryland 21224, USA.
+(134)Center for Public Health Genomics, Department of Medicine (Cardiovascular 
+Medicine), University of Virginia, PO Box 800717, Charlottesville, Virginia 
+22908, USA.
+(135)Department of Clinical Physiology, Tampere University Hospital, University 
+of Tampere, School of Medicine, Tampere 33521, Finland.
+(136)University Institute of Social and Preventive Medicine, Centre Hospitalier 
+Universitaire Vaudois, University of Lausanne, Route de la Corniche 2, Epalinges 
+CH-1066, Switzerland.
+(137)INSERM UMR970, Paris Cardiovascular Research Center (PARCC), 56 rue 
+Leblanc, Paris F-75015, France.
+(138)Paris Descartes University, Faculty of medicine, Paris Cité Sorbonne, 12 
+Rue de l'école de Médecine, Paris F-75006, France.
+(139)Brigham and Women's Hospital, Harvard Medical School, 77 Avenue Louis 
+Pasteur, Boston, Massachusetts 02115, USA.
+(140)Wellcome Trust Sanger Institute, Hinxton CB10 1HH, UK.
+(141)University of Zurich, Institute of Physiology, Mechanisms of Inherited 
+Kidney Disorders Group, Winterthurerstrasse 190, Zürich 8057, Switzerland.
+(142)Research Centre of Applied and Preventive Cardiovascular Medicine, 
+University of Turku, Turku University Hospital, Department of Clinical 
+Physiology, PO Box 52, Turku 20521, Finland.
+(143)Department Clinical Pharmacology, William Harvey Research Institute, Queen 
+Mary University of London, London EC1M 6BQ, UK.
+(144)NIHR Barts Cardiovascular Biomedical Research Unit, Queen Mary University 
+of London, London EC1M 6BQ, UK.
+(145)Harvard Medical School, 900 Commonwealth Avenue East, Boston, Massachusetts 
+02115, USA.
+(146)University of Alabama at Birmingham, Department of Medicine, 1530 3rd 
+Avenue, South Birmingham, Alabama 35294-0022, USA.
+(147)University of Alabama at Birmingham, Department of Epidemiology, 1530 3rd 
+Avenue, South Birmingham, Alabama 35294-0022, USA.
+(148)Department of Psychiatry and EMGO+ Institute, VU University Medical Center, 
+A.J. Ernststraat 1187, Amsterdam 1081 HL, The Netherlands.
+(149)IFB AdiposityDiseases, University of Leipzig, Liebigstraße 21, Leipzig 
+04103, Germany.
+(150)Medical University Center Mainz, Langenbeckstraße 1, Mainz 55131, Germany.
+(151)Institute of Physiology, University of Greifswald, Greifswald 17487, 
+Germany.
+(152)Clinic for Prosthodontic Dentistry, Gerostomatology and Material Science, 
+University of Greifswald, Rotgerberstraße 8, Greifswald 17475, Germany.
+(153)School of Biomedical Sciences and Pharmacy, University of Newcastle, Hunter 
+Medical Research Institute, John Hunter Hospital, Locked Bag 1, HRMC, New South 
+Wales 2310, Australia.
+(154)Kidney Research Institute, University of Washington, Box 359606, 325 9th 
+Avenue, Seattle, Washington 98104, USA.
+(155)Institute for Maternal and Child Health-IRCCS "Burlo Garofolo", Via 
+dell'Istria 65, Trieste 34137, Italy.
+(156)Department of Internal Medicine, Division of Nephrology and Hypertension, 
+Mayo Clinic, 200 First Street SW, Rochester, Minnesota 55905, USA.
+(157)Clinic for Internal Medicine A, University of Greifswald, 
+Friedrich-Loeffler-Straße 23a, Greifswald 17475, Germany.
+(158)Faculty of Pharmaceutical Sciences, University of Iceland, Sæmundargata 2, 
+Reykjavik 101, Iceland.
+(159)Department of Clinical Physiology, Turku University Hospital, Research 
+Centre of Applied and Preventive Cardiovascular Medicine, University of Turku, 
+PO Box 52, Turku 20521, Finland.
+(160)Synlab Academy, Synlab Services GmbH, Oberer Eselsberg 45, Ulm 89081, 
+Germany.
+(161)Department of Internal Medicine II-Cardiology, University of Ulm Medical 
+Centre, Albert-Einstein-Allee 23, Ulm 89081, Germany.
+(162)The Mindich Child Health and Development Institute, Ichan School of 
+Medicine at Mount Sinai, New York, New York 10029, USA.
+(163)Department of Neurology, General Central Hospital, Via Lorenz Bohler 5, 
+Bolzano 39100, Italy.
+(164)Department of Neurology, University of Lübeck, Ratzeburger Allee 160, 
+Lübeck 23538, Germany.
+(165)University of Maryland Medical School, Division of Nephrology, 685 W. 
+Baltimore Street, MSTF 314, Baltimore, Maryland 21201, USA.
+(166)CRCHUM, University of Montreal, CHUM Research Center, Technopôle Angus, 900 
+Saint-Denis, Montreal, Québec, Canada H2X 0A9.
+(167)Division of Endocrinology, Brigham and Women s Hospital, Harvard Medical 
+School, 221 Longwood Avenue, Boston, Massachusetts 02115, USA.
+
+Comment in
+    Nat Rev Nephrol. 2016 Apr;12(4):196. doi: 10.1038/nrneph.2016.14.
+
+Reduced glomerular filtration rate defines chronic kidney disease and is 
+associated with cardiovascular and all-cause mortality. We conducted a 
+meta-analysis of genome-wide association studies for estimated glomerular 
+filtration rate (eGFR), combining data across 133,413 individuals with 
+replication in up to 42,166 individuals. We identify 24 new and confirm 29 
+previously identified loci. Of these 53 loci, 19 associate with eGFR among 
+individuals with diabetes. Using bioinformatics, we show that identified genes 
+at eGFR loci are enriched for expression in kidney tissues and in pathways 
+relevant for kidney development and transmembrane transporter activity, kidney 
+structure, and regulation of glucose metabolism. Chromatin state mapping and 
+DNase I hypersensitivity analyses across adult tissues demonstrate preferential 
+mapping of associated variants to regulatory regions in kidney but not 
+extra-renal tissues. These findings suggest that genetic determinants of eGFR 
+are mediated largely through direct effects within the kidney and highlight 
+important cell types and biological pathways.
+
+DOI: 10.1038/ncomms10023
+PMCID: PMC4735748
+PMID: 26831199 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.T. and P.H. are consultants for Servier. J.C. 
+received research grants and honoraria from Servier. K.S. obtained research 
+support from Boehringer Ingelheim. The remaining authors declared no competing 
+financial interests.

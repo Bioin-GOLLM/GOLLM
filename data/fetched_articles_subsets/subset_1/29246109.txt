@@ -1,0 +1,51 @@
+1. BMC Bioinformatics. 2017 Dec 16;18(1):563. doi: 10.1186/s12859-017-1990-4.
+
+MetaGenyo: a web tool for meta-analysis of genetic association studies.
+
+Martorell-Marugan J(1), Toro-Dominguez D(1)(2), Alarcon-Riquelme ME(2)(3), 
+Carmona-Saez P(4).
+
+Author information:
+(1)Bioinformatics Unit, Centre for Genomics and Oncological Research (GENYO), 
+Granada, Spain.
+(2)Medical Genomics, Centre for Genomics and Oncological Research (GENYO), 
+Granada, Spain.
+(3)Institute for Environmental Medicine, Karolinska Institutet, Stockholm, 
+Sweden.
+(4)Bioinformatics Unit, Centre for Genomics and Oncological Research (GENYO), 
+Granada, Spain. pedro.carmona@genyo.es.
+
+BACKGROUND: Genetic association studies (GAS) aims to evaluate the association 
+between genetic variants and phenotypes. In the last few years, the number of 
+this type of study has increased exponentially, but the results are not always 
+reproducible due to experimental designs, low sample sizes and other 
+methodological errors. In this field, meta-analysis techniques are becoming very 
+popular tools to combine results across studies to increase statistical power 
+and to resolve discrepancies in genetic association studies. A meta-analysis 
+summarizes research findings, increases statistical power and enables the 
+identification of genuine associations between genotypes and phenotypes. 
+Meta-analysis techniques are increasingly used in GAS, but it is also increasing 
+the amount of published meta-analysis containing different errors. Although 
+there are several software packages that implement meta-analysis, none of them 
+are specifically designed for genetic association studies and in most cases 
+their use requires advanced programming or scripting expertise.
+RESULTS: We have developed MetaGenyo, a web tool for meta-analysis in GAS. 
+MetaGenyo implements a complete and comprehensive workflow that can be executed 
+in an easy-to-use environment without programming knowledge. MetaGenyo has been 
+developed to guide users through the main steps of a GAS meta-analysis, covering 
+Hardy-Weinberg test, statistical association for different genetic models, 
+analysis of heterogeneity, testing for publication bias, subgroup analysis and 
+robustness testing of the results.
+CONCLUSIONS: MetaGenyo is a useful tool to conduct comprehensive genetic 
+association meta-analysis. The application is freely available at 
+http://bioinfo.genyo.es/metagenyo/ .
+
+DOI: 10.1186/s12859-017-1990-4
+PMCID: PMC5732412
+PMID: 29246109 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

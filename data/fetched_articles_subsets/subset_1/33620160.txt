@@ -1,0 +1,59 @@
+1. Cancer Med. 2021 Mar;10(6):1955-1963. doi: 10.1002/cam4.3732. Epub 2021 Feb
+23.
+
+Does biomarker use in oncology improve clinical trial failure risk? A 
+large-scale analysis.
+
+Parker JL(1), Kuzulugil SS(2), Pereverzev K(1), Mac S(3), Lopes G(4), Shah Z(1), 
+Weerasinghe A(5), Rubinger D(1), Falconi A(6), Bener A(7), Caglayan B(7), Tangri 
+R(1), Mitsakakis N(8).
+
+Author information:
+(1)Department of Biology, University of Toronto Mississauga, Mississauga, ON, 
+Canada.
+(2)St Michael's Hospital, Toronto, ON, Canada.
+(3)Institute of Health Policy, Management and Evaluation, University of Toronto, 
+Mississauga, ON, Canada.
+(4)University of Miami, Miller School of Medicine, Coral Gables, FL, USA.
+(5)Prevention and Cancer Control, Cancer Care Ontario, Toronto, ON, Canada.
+(6)Department of Pharmacy, Leslie Dan Faculty of Pharmacy, University of 
+Toronto, Toronto, ON, Canada.
+(7)Mechanical and Industrial Engineering, Ryerson University, Toronto, ON, 
+Canada.
+(8)Institute of Health Policy, Management and Evaluation, and Division of 
+Biostatistics, Dalla Lana School of Public Health, University of Toronto, 
+Toronto, ON, Canada.
+
+PURPOSE: To date there has not been an extensive analysis of the outcomes of 
+biomarker use in oncology.
+METHODS: Data were pooled across four indications in oncology drawing upon trial 
+outcomes from www.clinicaltrials.gov: breast cancer, non-small cell lung cancer 
+(NSCLC), melanoma and colorectal cancer from 1998 to 2017. We compared the 
+likelihood drugs would progress through the stages of clinical trial testing to 
+approval based on biomarker status. This was done with multi-state Markov 
+models, tools that describe the stochastic process in which subjects move among 
+a finite number of states.
+RESULTS: Over 10000 trials were screened, which yielded 745 drugs. The inclusion 
+of biomarker status as a covariate significantly improved the fit of the Markov 
+model in describing the drug trajectories through clinical trial testing stages. 
+Hazard ratios based on the Markov models revealed the likelihood of drug 
+approval with biomarkers having nearly a fivefold increase for all indications 
+combined. A 12, 8 and 7-fold hazard ratio was observed for breast cancer, 
+melanoma and NSCLC, respectively. Markov models with exploratory biomarkers 
+outperformed Markov models with no biomarkers.
+CONCLUSION: This is the first systematic statistical evidence that biomarkers 
+clearly increase clinical trial success rates in three different indications in 
+oncology. Also, exploratory biomarkers, long before they are properly validated, 
+appear to improve success rates in oncology. This supports early and aggressive 
+adoption of biomarkers in oncology clinical trials.
+
+© 2021 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.3732
+PMCID: PMC7957156
+PMID: 33620160 [Indexed for MEDLINE]
+
+Conflict of interest statement: Parker has worked in the pharmaceutical 
+industry. Dr. Lopes has received honoraria, has had a consultant role and has 
+received research funding from Pfizer, Merck Serono, Roche, AstraZeneca and Eli 
+Lilly in the past.

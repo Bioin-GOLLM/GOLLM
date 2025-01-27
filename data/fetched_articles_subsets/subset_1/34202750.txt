@@ -1,0 +1,53 @@
+1. J Pers Med. 2021 Jun 24;11(7):597. doi: 10.3390/jpm11070597.
+
+Prediction of Probable Major Depressive Disorder in the Taiwan Biobank: An 
+Integrated Machine Learning and Genome-Wide Analysis Approach.
+
+Lin E(1)(2)(3), Kuo PH(4), Lin WY(4), Liu YL(5), Yang AC(6)(7), Tsai SJ(8)(9).
+
+Author information:
+(1)Department of Biostatistics, University of Washington, Seattle, WA 98195, 
+USA.
+(2)Department of Electrical & Computer Engineering, University of Washington, 
+Seattle, WA 98195, USA.
+(3)Graduate Institute of Biomedical Sciences, China Medical University, Taichung 
+40402, Taiwan.
+(4)Department of Public Health, Institute of Epidemiology and Preventive 
+Medicine, National Taiwan University, Taipei 10617, Taiwan.
+(5)Center for Neuropsychiatric Research, National Health Research Institutes, 
+Miaoli County 35053, Taiwan.
+(6)Division of Interdisciplinary Medicine and Biotechnology, Beth Israel 
+Deaconess Medical Center/Harvard Medical School, Boston, MA 02215, USA.
+(7)Institute of Brain Science, National Yang Ming Chiao Tung University, Taipei 
+112304, Taiwan.
+(8)Department of Psychiatry, Taipei Veterans General Hospital, Taipei 11217, 
+Taiwan.
+(9)Division of Psychiatry, National Yang Ming Chiao Tung University, Taipei 
+112304, Taiwan.
+
+In light of recent advancements in machine learning, personalized medicine using 
+predictive algorithms serves as an essential paradigmatic methodology. Our goal 
+was to explore an integrated machine learning and genome-wide analysis approach 
+which targets the prediction of probable major depressive disorder (MDD) using 
+9828 individuals in the Taiwan Biobank. In our analysis, we reported a 
+genome-wide significant association with probable MDD that has not been 
+previously identified: FBN1 on chromosome 15. Furthermore, we pinpointed 17 
+single nucleotide polymorphisms (SNPs) which show evidence of both associations 
+with probable MDD and potential roles as expression quantitative trait loci 
+(eQTLs). To predict the status of probable MDD, we established prediction models 
+with random undersampling and synthetic minority oversampling using 17 eQTL SNPs 
+and eight clinical variables. We utilized five state-of-the-art models: logistic 
+ridge regression, support vector machine, C4.5 decision tree, LogitBoost, and 
+random forests. Our data revealed that random forests had the highest 
+performance (area under curve = 0.8905 ± 0.0088; repeated 10-fold 
+cross-validation) among the predictive algorithms to infer complex correlations 
+between biomarkers and probable MDD. Our study suggests that an integrated 
+machine learning and genome-wide analysis approach may offer an advantageous 
+method to establish bioinformatics tools for discriminating MDD patients from 
+healthy controls.
+
+DOI: 10.3390/jpm11070597
+PMCID: PMC8308113
+PMID: 34202750
+
+Conflict of interest statement: The authors declare no conflict of interest.

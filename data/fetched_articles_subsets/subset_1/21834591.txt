@@ -1,0 +1,37 @@
+1. J Chem Inf Model. 2011 Sep 26;51(9):2266-76. doi: 10.1021/ci2000743. Epub 2011
+ Aug 23.
+
+Study of Tamiflu sensitivity to variants of A/H5N1 virus using different force 
+fields.
+
+Nguyen TT(1), Mai BK, Li MS.
+
+Author information:
+(1)Institute for Computational Science and Technology, Thu Duc District, Ho Chi 
+Minh City, Vietnam.
+
+An accurate estimation of binding free energy of a ligand to receptor ΔG(bind) 
+is one of the most important problems in drug design. The success of solution of 
+this problem is expected to depend on force fields used for modeling a 
+ligand-receptor complex. In this paper, we consider the impact of four main 
+force fields, AMBER99SB, CHARMM27, GROMOS96 43a1, and OPLS-AA/L, on the binding 
+affinity of Oseltamivir carboxylate to the wild-type and Y252H, N294S, and H274Y 
+mutants of glycoprotein neuraminidase from the pandemic A/H5N1 virus. Having 
+used the molecular mechanic-Poisson-Boltzmann surface area method, we have shown 
+that ΔG(bind), obtained by AMBER99SB, OPLS-AA/L, and CHARMM27, shows the high 
+correlation with the available experimental data. They correctly capture the 
+binding ranking Y252H → WT → N294S → H274Y observed in experiments (Collins, P. 
+J. et al. Nature 2008, 453, 1258). In terms of absolute values of binding 
+scores, results obtained by AMBER99SB are in the nearest range with experiments, 
+while OPLS-AA/L, which is applied to study binding of Oseltamivir to the 
+influenza virus for the first time, gives rather big negative values for 
+ΔG(bind). GROMOS96 43a1 provides a lower correlation as it supports Oseltamivir 
+to be more resistant to N294S than H274Y. Our study suggests that force fields 
+have pronounced influence on theoretical estimations of binding free energy of a 
+ligand to receptor. The effect of all-atom models on dynamics of the binding 
+pocket as well as on the hydrogen-bond network between Oseltamivir and receptors 
+is studied in detail. The hydrogen network, obtained by GROMOS, is weakest among 
+four studied force fields.
+
+DOI: 10.1021/ci2000743
+PMID: 21834591 [Indexed for MEDLINE]

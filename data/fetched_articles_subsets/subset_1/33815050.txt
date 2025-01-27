@@ -1,0 +1,67 @@
+1. Front Neurosci. 2021 Mar 17;15:650082. doi: 10.3389/fnins.2021.650082. 
+eCollection 2021.
+
+Robust Cortical Thickness Morphometry of Neonatal Brain and Systematic 
+Evaluation Using Multi-Site MRI Datasets.
+
+Liu M(1), Lepage C(2), Kim SY(1), Jeon S(2), Kim SH(3), Simon JP(1), Tanaka 
+N(1), Yuan S(1), Islam T(1), Peng B(1), Arutyunyan K(1), Surento W(1), Kim J(1), 
+Jahanshad N(1), Styner MA(3)(4), Toga AW(1), Barkovich AJ(5), Xu D(5), Evans 
+AC(2), Kim H(1).
+
+Author information:
+(1)Department of Neurology, USC Stevens Neuroimaging and Informatics Institute, 
+Keck School of Medicine, University of Southern California, Los Angeles, CA, 
+United States.
+(2)Montreal Neurological Institute, McGill University, Montreal, QC, Canada.
+(3)Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC, United States.
+(4)Department of Computer Science, University of North Carolina at Chapel Hill, 
+Chapel Hill, NC, United States.
+(5)Department of Radiology and Biomedical Imaging, University of California, San 
+Francisco, San Francisco, CA, United States.
+
+The human brain grows the most dramatically during the perinatal and early 
+post-natal periods, during which pre-term birth or perinatal injury that may 
+alter brain structure and lead to developmental anomalies. Thus, characterizing 
+cortical thickness of developing brains remains an important goal. However, this 
+task is often complicated by inaccurate cortical surface extraction due to 
+small-size brains. Here, we propose a novel complex framework for the 
+reconstruction of neonatal WM and pial surfaces, accounting for large partial 
+volumes due to small-size brains. The proposed approach relies only on 
+T1-weighted images unlike previous T2-weighted image-based approaches while only 
+T1-weighted images are sometimes available under the different clinical/research 
+setting. Deep neural networks are first introduced to the neonatal magnetic 
+resonance imaging (MRI) pipeline to address the mis-segmentation of brain 
+tissues. Furthermore, this pipeline enhances cortical boundary delineation using 
+combined models of the cerebrospinal fluid (CSF)/GM boundary detection with edge 
+gradient information and a new skeletonization of sulcal folding where no CSF 
+voxels are seen due to the limited resolution. We also proposed a systematic 
+evaluation using three independent datasets comprising 736 pre-term and 97 term 
+neonates. Qualitative assessment for reconstructed cortical surfaces shows that 
+86.9% are rated as accurate across the three site datasets. In addition, our 
+landmark-based evaluation shows that the mean displacement of the cortical 
+surfaces from the true boundaries was less than a voxel size (0.532 ± 0.035 mm). 
+Evaluating the proposed pipeline (namely NEOCIVET 2.0) shows the robustness and 
+reproducibility across different sites and different age-groups. The mean 
+cortical thickness measured positively correlated with post-menstrual age (PMA) 
+at scan (p < 0.0001); Cingulate cortical areas grew the most rapidly whereas the 
+inferior temporal cortex grew the least rapidly. The range of the cortical 
+thickness measured was biologically congruent (1.3 mm at 28 weeks of PMA to 1.8 
+mm at term equivalent). Cortical thickness measured on T1 MRI using NEOCIVET 2.0 
+was compared with that on T2 using the established dHCP pipeline. It was 
+difficult to conclude that either T1 or T2 imaging is more ideal to construct 
+cortical surfaces. NEOCIVET 2.0 has been open to the public through CBRAIN 
+(https://mcin-cnim.ca/technology/cbrain/), a web-based platform for processing 
+brain imaging data.
+
+Copyright © 2021 Liu, Lepage, Kim, Jeon, Kim, Simon, Tanaka, Yuan, Islam, Peng, 
+Arutyunyan, Surento, Kim, Jahanshad, Styner, Toga, Barkovich, Xu, Evans and Kim.
+
+DOI: 10.3389/fnins.2021.650082
+PMCID: PMC8010150
+PMID: 33815050
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

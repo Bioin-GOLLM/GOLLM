@@ -1,0 +1,21 @@
+1. Bioinformatics. 2010 May 1;26(9):1271-2. doi: 10.1093/bioinformatics/btq131. 
+Epub 2010 Mar 24.
+
+TopoGSA: network topological gene set analysis.
+
+Glaab E(1), Baudot A, Krasnogor N, Valencia A.
+
+Author information:
+(1)School of Computer Science, Nottingham University, Nottingham, UK.
+
+TopoGSA (Topology-based Gene Set Analysis) is a web-application dedicated to the 
+computation and visualization of network topological properties for gene and 
+protein sets in molecular interaction networks. Different topological 
+characteristics, such as the centrality of nodes in the network or their 
+tendency to form clusters, can be computed and compared with those of known 
+cellular pathways and processes.
+AVAILABILITY: Freely available at http://www.infobiotics.net/topogsa.
+
+DOI: 10.1093/bioinformatics/btq131
+PMCID: PMC2859135
+PMID: 20335277 [Indexed for MEDLINE]

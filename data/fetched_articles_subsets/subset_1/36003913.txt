@@ -1,0 +1,58 @@
+1. Front Cardiovasc Med. 2022 Aug 8;9:916841. doi: 10.3389/fcvm.2022.916841. 
+eCollection 2022.
+
+Potential ferroptosis key genes in calcific aortic valve disease.
+
+Li XZ(1), Xiong ZC(1), Zhang SL(2), Hao QY(1), Gao M(3), Wang JF(1), Gao JW(1), 
+Liu PM(1).
+
+Author information:
+(1)Department of Cardiology, Guangzhou Key Laboratory on the Molecular 
+Mechanisms of Major Cardiovascular Disease, Guangdong Provincial Key Laboratory 
+of Arrhythmia and Electrophysiology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen 
+University, Guangzhou, China.
+(2)Department of Endocrinology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen 
+University, Guangzhou, China.
+(3)Department of Radiology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen 
+University, Guangzhou, China.
+
+Calcific aortic valve disease (CAVD) is a highly prevalent condition that 
+comprises a disease continuum, ranging from microscopic changes to profound 
+fibro-calcific leaflet remodeling, culminating in aortic stenosis, heart 
+failure, and ultimately premature death. Ferroptosis has been hypothesized to 
+contribute to the pathogenesis of CAVD. We aimed to study the association 
+between ferroptosis genes and CAVD and reveal the potential roles of ferroptosis 
+in CAVD. CAVD-related differentially expressed genes (DEGs) were identified via 
+bioinformatic analysis of Datasets GSE51472 and GSE12644 obtained from Gene 
+Expression Omnibus. A ferroptosis dataset containing 259 genes was obtained from 
+the Ferroptosis Database. We then intersected with CAVD-related DEGs to identify 
+the ferroptosis DEGs. Subsequently, protein-protein interaction networks and 
+functional enrichment analyses were performed for ferroptosis DEGs. Then, we 
+used miRWalk3.0 to predict the target pivotal microRNAs. An in vitro model of 
+CAVD was constructed using human aortic valve interstitial cells. The qRT-PCR 
+and western blotting methods were used to validate the ferroptosis DEGs 
+identified by the microarray data. A total of 21 ferroptosis DEGs in CAVD 
+containing 12 upregulated and nine downregulated genes were identified. The 
+results of the Gene Set Enrichment Analysis (GSEA) and analysis of the KEGG 
+pathway by WebGestalt indicated that the ferroptosis DEGs were enriched in six 
+signaling pathways among which NAFLD (including IL-6, BID, and PRKAA2 genes) and 
+HIF-1 (including IL-6, HIF-1, and HMOX1 genes) signaling pathways were also 
+verified by DAVID and/or Metascape. Finally, the in vitro results showed that 
+the mRNA and protein expression levels of IL-6, HIF-1α, HMOX1, and BID were 
+higher, while the levels of PRKAA2 were lower in the Pi-treated group than those 
+in the control group. However, the addition of ferrostatin-1 (a selective 
+ferroptosis inhibitor) significantly reversed the above changes. Therefore, 
+IL-6, HIF-1α, HMOX1, BID, and PRKAA2 are potential key genes closely associated 
+with ferroptosis in CAVD. Further work is required to explore the underlying 
+ferroptosis-related molecular mechanisms and provide possible therapeutic 
+targets for CAVD.
+
+Copyright © 2022 Li, Xiong, Zhang, Hao, Gao, Wang, Gao and Liu.
+
+DOI: 10.3389/fcvm.2022.916841
+PMCID: PMC9395208
+PMID: 36003913
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

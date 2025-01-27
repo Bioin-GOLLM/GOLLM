@@ -1,0 +1,62 @@
+1. bioRxiv [Preprint]. 2023 Mar 24:2023.03.23.533993. doi: 
+10.1101/2023.03.23.533993.
+
+Mapping the neutralizing specificity of human anti-HIV serum by deep mutational 
+scanning.
+
+Radford CE(1)(2), Schommers P(3)(4)(5), Gieselmann L(3)(4)(5), Crawford 
+KHD(2)(6), Dadonaite B(2), Yu TC(1)(2), Dingens AS(2), Overbaugh J(7), Klein 
+F(3)(4)(5), Bloom JD(2)(8).
+
+Author information:
+(1)Molecular and Cellular Biology Graduate Program, University of Washington, 
+and Basic Sciences Division, Fred Hutch Cancer Center, Seattle, Washington, 
+98109, USA.
+(2)Basic Sciences Division and Computational Biology Program, Fred Hutchinson 
+Cancer Center, Seattle, Washington, 98109, USA.
+(3)Laboratory of Experimental Immunology, Institute of Virology, Faculty of 
+Medicine and University Hospital of Cologne, University of Cologne, 50931 
+Cologne, Germany.
+(4)German Center for Infection Research, partner site Bonn-Cologne, 50931 
+Cologne, Germany.
+(5)Department I of Internal Medicine, Faculty of Medicine and University 
+Hospital of Cologne, University of Cologne, 50931 Cologne, Germany.
+(6)Department of Genome Sciences & Medical Scientist Training Program, 
+University of Washington, Seattle, Washington, 98109, USA.
+(7)Division of Human Biology, Fred Hutchinson Cancer Center, Seattle, 
+Washington, 98109, USA.
+(8)Howard Hughes Medical Institute, Seattle, WA, 98109, USA.
+
+Update in
+    Cell Host Microbe. 2023 Jul 12;31(7):1200-1215.e9. doi: 
+10.1016/j.chom.2023.05.025.
+
+Understanding the specificities of human serum antibodies that broadly 
+neutralize HIV can inform prevention and treatment strategies. Here we describe 
+a deep mutational scanning system that can measure the effects of combinations 
+of mutations to HIV envelope (Env) on neutralization by antibodies and 
+polyclonal serum. We first show that this system can accurately map how all 
+functionally tolerated mutations to Env affect neutralization by monoclonal 
+antibodies. We then comprehensively map Env mutations that affect neutralization 
+by a set of human polyclonal sera known to target the CD4-binding site that 
+neutralize diverse strains of HIV. The neutralizing activities of these sera 
+target different epitopes, with most sera having specificities reminiscent of 
+individual characterized monoclonal antibodies, but one sera targeting two 
+epitopes within the CD4 binding site. Mapping the specificity of the 
+neutralizing activity in polyclonal human serum will aid in assessing anti-HIV 
+immune responses to inform prevention strategies.
+
+DOI: 10.1101/2023.03.23.533993
+PMCID: PMC10055425
+PMID: 36993197
+
+Conflict of interest statement: Competing Interests JDB is on the scientific 
+advisory boards of Apriori Bio, Invivyd, Aerium Therapeutics, and the Vaccine 
+Company. JDB, KHDC, BD, ASD, and CER receive royalty payments as inventors on 
+Fred Hutch licensed patents related to viral deep mutational scanning. ASD is 
+currently an employee of Apriori Bio, though his contributions to this 
+manuscript were performed when he was an employee of the Fred Hutch before he 
+started work at Apriori Bio. A patent application encompassing aspects of this 
+work has been filed by the University of Cologne and lists P.S. and F.K. as 
+inventors. P.S., and F.K. received payments from the University of Cologne for 
+licensed antibodies.

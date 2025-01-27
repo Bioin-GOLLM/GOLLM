@@ -1,0 +1,31 @@
+1. Adv Protein Chem Struct Biol. 2011;85:27-80. doi: 
+10.1016/B978-0-12-386485-7.00002-8.
+
+Recent theoretical and computational advances for modeling protein-ligand 
+binding affinities.
+
+Gallicchio E(1), Levy RM.
+
+Author information:
+(1)Department of Chemistry and Chemical Biology, BioMaPS Institute for 
+Quantitative Biology, Rutgers University, Piscataway, New Jersey, USA.
+
+We review recent theoretical and algorithmic advances for the modeling of 
+protein ligand binding free energies. We first describe a statistical mechanics 
+theory of noncovalent association, with particular focus on deriving the 
+fundamental formulas on which computational methods are based. The second part 
+reviews the main computational models and algorithms in current use or 
+development, pointing out the relations with each other and with the theory 
+developed in the first part. Particular emphasis is given to the modeling of 
+conformational reorganization and entropic effect. The methods reviewed are free 
+energy perturbation, double decoupling, the Binding Energy Distribution Analysis 
+Method, the potential of mean force method, mining minima and MM/PBSA. These 
+models have different features and limitations, and their ranges of 
+applicability vary correspondingly. Yet their origins can all be traced back to 
+a single fundamental theory.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/B978-0-12-386485-7.00002-8
+PMCID: PMC3445424
+PMID: 21920321 [Indexed for MEDLINE]

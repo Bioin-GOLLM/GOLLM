@@ -1,0 +1,45 @@
+1. Front Genet. 2021 Jan 13;11:632311. doi: 10.3389/fgene.2020.632311.
+eCollection  2020.
+
+A Density Peak-Based Method to Detect Copy Number Variations From 
+Next-Generation Sequencing Data.
+
+Xie K(1), Tian Y(1)(2), Yuan X(1)(2).
+
+Author information:
+(1)The School of Computer Science and Technology, Xidian University, Xi'an, 
+China.
+(2)Xi'an Key Laboratory of Computational Bioinformatics, The School of Computer 
+Science and Technology, Xidian University, Xi'an, China.
+
+Copy number variation (CNV) is a common type of structural variations in human 
+genome and confers biological meanings to human complex diseases. Detection of 
+CNVs is an important step for a systematic analysis of CNVs in medical research 
+of complex diseases. The recent development of next-generation sequencing (NGS) 
+platforms provides unprecedented opportunities for the detection of CNVs at a 
+base-level resolution. However, due to the intrinsic characteristics behind NGS 
+data, accurate detection of CNVs is still a challenging task. In this article, 
+we propose a new density peak-based method, called dpCNV, for the detection of 
+CNVs from NGS data. The algorithm of dpCNV is designed based on density peak 
+clustering algorithm. It extracts two features, i.e., local density and minimum 
+distance, from sequencing read depth (RD) profile and generates a 
+two-dimensional data. Based on the generated data, a two-dimensional null 
+distribution is constructed to test the significance of each genome bin and then 
+the significant genome bins are declared as CNVs. We test the performance of the 
+dpCNV method on a number of simulated datasets and make comparison with several 
+existing methods. The experimental results demonstrate that our proposed method 
+outperforms others in terms of sensitivity and F1-score. We further apply it to 
+a set of real sequencing samples and the results demonstrate the validity of 
+dpCNV. Therefore, we expect that dpCNV can be used as a supplementary to 
+existing methods and may become a routine tool in the field of genome mutation 
+analysis.
+
+Copyright © 2021 Xie, Tian and Yuan.
+
+DOI: 10.3389/fgene.2020.632311
+PMCID: PMC7838601
+PMID: 33519925
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,62 @@
+1. Nat Commun. 2022 Oct 13;13(1):6044. doi: 10.1038/s41467-022-33782-z.
+
+Genome-centric analysis of short and long read metagenomes reveals 
+uncharacterized microbiome diversity in Southeast Asians.
+
+Gounot JS(#)(1), Chia M(#)(1), Bertrand D(#)(1), Saw WY(2)(3), Ravikrishnan 
+A(1), Low A(4), Ding Y(4), Ng AHQ(1), Tan LWL(5), Teo YY(6)(7)(8), Seedorf 
+H(9)(10), Nagarajan N(11)(12).
+
+Author information:
+(1)Genome Institute of Singapore, Singapore, 138672, Singapore.
+(2)Life Sciences Institute, National University of Singapore, Singapore, 117456, 
+Singapore.
+(3)Baker Heart and Diabetes Institute, 75 Commercial Rd, Melbourne, 3004, VIC, 
+Australia.
+(4)Temasek Life Sciences Laboratory, 1 Research Link, Singapore, 117604, 
+Singapore.
+(5)Saw Swee Hock School of Public Health, National University of Singapore, 12 
+Science Drive 2, Singapore, 117549, Singapore.
+(6)Life Sciences Institute, National University of Singapore, Singapore, 117456, 
+Singapore. yyteo@nus.edu.sg.
+(7)Saw Swee Hock School of Public Health, National University of Singapore, 12 
+Science Drive 2, Singapore, 117549, Singapore. yyteo@nus.edu.sg.
+(8)Department of Statistics and Applied Probability, National University of 
+Singapore, Singapore, 117546, Singapore. yyteo@nus.edu.sg.
+(9)Temasek Life Sciences Laboratory, 1 Research Link, Singapore, 117604, 
+Singapore. henning@tll.org.sg.
+(10)Department of Biological Sciences, National University of Singapore, 
+Singapore, 117558, Singapore. henning@tll.org.sg.
+(11)Genome Institute of Singapore, Singapore, 138672, Singapore. 
+nagarajann@gis.a-star.edu.sg.
+(12)Yong Loo Lin School of Medicine, National University of Singapore, 
+Singapore, 117596, Singapore. nagarajann@gis.a-star.edu.sg.
+(#)Contributed equally
+
+Despite extensive efforts to address it, the vastness of uncharacterized 'dark 
+matter' microbial genetic diversity can impact short-read sequencing based 
+metagenomic studies. Population-specific biases in genomic reference databases 
+can further compound this problem. Leveraging advances in hybrid assembly (using 
+short and long reads) and Hi-C technologies in a cross-sectional survey, we 
+deeply characterized 109 gut microbiomes from three ethnicities in Singapore to 
+comprehensively reconstruct 4497 medium and high-quality metagenome assembled 
+genomes, 1708 of which were missing in short-read only analysis and with >28× 
+N50 improvement. Species-level clustering identified 70 (>10% of total) novel 
+gut species out of 685, improved reference genomes for 363 species (53% of 
+total), and discovered 3413 strains unique to these populations. Among the top 
+10 most abundant gut bacteria in our study, one of the species and >80% of 
+strains were unrepresented in existing databases. Annotation of biosynthetic 
+gene clusters (BGCs) uncovered more than 27,000 BGCs with a large fraction 
+(36-88%) unrepresented in current databases, and with several unique clusters 
+predicted to produce bacteriocins that could significantly alter microbiome 
+community structure. These results reveal significant uncharacterized gut 
+microbial diversity in Southeast Asian populations and highlight the utility of 
+hybrid metagenomic references for bioprospecting and disease-focused studies.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-33782-z
+PMCID: PMC9561172
+PMID: 36229545 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

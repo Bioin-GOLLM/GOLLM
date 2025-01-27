@@ -1,0 +1,56 @@
+1. PLoS Genet. 2022 Dec 2;18(12):e1010518. doi: 10.1371/journal.pgen.1010518. 
+eCollection 2022 Dec.
+
+Yeast-based evolutionary modeling of androgen receptor mutations and natural 
+selection.
+
+Zhang H(1)(2), Zhang L(1)(2), Chen S(3), Yao M(1)(2), Ma Z(4), Yuan Y(1)(2).
+
+Author information:
+(1)Frontier Science Center for Synthetic Biology and Key Laboratory of Systems 
+Bioengineering (Ministry of Education), Tianjin University, Tianjin, People's 
+Republic of China.
+(2)School of Chemical Engineering and Technology, Tianjin University, Tianjin, 
+People's Republic of China.
+(3)Hematology-Oncology Division, Department of Medicine, Beth Israel Deaconess 
+Medical Center and Harvard Medical School, Boston, Massachusetts, United States 
+of America.
+(4)School of Basic Medical Sciences, Tianjin Medical University, Tianjin, 
+People's Republic of China.
+
+Comment in
+    Nat Rev Urol. 2023 Feb;20(2):64. doi: 10.1038/s41585-022-00718-7.
+
+Cancer progression is associated with the evolutionary accumulation of genetic 
+mutations that are biologically significant. Mutations of the androgen receptor 
+(AR) are associated with the development of prostate cancer (PCa) by responding 
+to non-androgenic hormones, and the lack of annotations in their responsiveness 
+to hormone ligands remains a daunting challenge. Here, we have used a yeast 
+reporter system to quickly evaluate the responsiveness of all fifty clinical AR 
+mutations to a variety of steroidal ligands including dihydrotestosterone (DHT), 
+17β-estradiol (E2), progesterone (PROG), and cyproterone acetate (CPA). Based on 
+an AR-driven reporter that synthesizes histidine, a basic amino acid required 
+for yeast survival and propagation, the yeast reporter system enabling clonal 
+selection was further empowered by combining with a random DNA mutagenesis 
+library to simulate the natural evolution of AR gene under the selective 
+pressures of steroidal ligands. In a time-frame of 1-2 weeks, 19 AR mutants were 
+identified, in which 11 AR mutants were validated for activation by tested 
+steroidal compounds. The high efficiency of our artificial evolution strategy 
+was further evidenced by a sequential selection that enabled the discovery of 
+multipoint AR mutations and evolution directions under the pressure of steroidal 
+ligands. In summary, our designer yeast is a portable reporter module that can 
+be readily adapted to streamline high-throughput AR-compound screening, used as 
+a PCa clinical reference, and combined with additional bioassay systems to 
+further extend its potential.
+
+Copyright: © 2022 Zhang et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pgen.1010518
+PMCID: PMC9718406
+PMID: 36459502 [Indexed for MEDLINE]
+
+Conflict of interest statement: There is potential Competing Interest. A patent 
+has been filed for the screening method presented in this study.

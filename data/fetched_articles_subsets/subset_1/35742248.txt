@@ -1,0 +1,43 @@
+1. Int J Environ Res Public Health. 2022 Jun 8;19(12):6999. doi: 
+10.3390/ijerph19126999.
+
+Usability Evaluation and Classification of mHealth Applications for Type 2 
+Diabetes Mellitus Using MARS and ID3 Algorithm.
+
+Gupta K(1), Roy S(1), Altameem A(2), Kumar R(3), Saudagar AKJ(4), Poonia RC(5).
+
+Author information:
+(1)Faculty of Computing and Information Technology, Usha Martin University, 
+Ranchi 835103, India.
+(2)Department of Computer Science and Engineering, College of Applied Studies 
+and Community Services, King Saud University, Riyadh 11533, Saudi Arabia.
+(3)Department of Computer Science and Engineering, GIET University, Rayagada 
+765022, India.
+(4)Information Systems Department, Imam Mohammad Ibn Saud Islamic University 
+(IMSIU), Riyadh 11432, Saudi Arabia.
+(5)Department of Computer Science, CHRIST (Deemed to be University), Bangalore 
+560029, India.
+
+The rapid growth of mHealth applications for Type 2 Diabetes Mellitus (T2DM) 
+patients' self-management has motivated the evaluation of these applications 
+from both the usability and user point of view. The objective of this study was 
+to identify mHealth applications that focus on T2DM from the Android store and 
+rate them from the usability perspective using the MARS tool. Additionally, a 
+classification of these mHealth applications was conducted using the ID3 
+algorithm to identify the most preferred application. The usability of the 
+applications was assessed by two experts using MARS. A total of 11 mHealth 
+applications were identified from the initial search, which fulfilled our 
+inclusion criteria. The usability of the applications was rated using the MARS 
+scale, from 1 (inadequate) to 5 (excellent). The Functionality (3.23) and 
+Aesthetics (3.22) attributes had the highest score, whereas Information (3.1) 
+had the lowest score. Among the 11 applications, "mySugr" had the highest 
+average MARS score for both Application Quality (4.1/5) as well as Application 
+Subjective Quality (4.5/5). Moreover, from the classification conducted using 
+the ID3 algorithm, it was observed that 6 out of 11 mHealth applications were 
+preferred for the self-management of T2DM.
+
+DOI: 10.3390/ijerph19126999
+PMCID: PMC9222518
+PMID: 35742248 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

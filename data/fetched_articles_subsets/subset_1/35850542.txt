@@ -1,0 +1,66 @@
+1. Clin Trials. 2022 Oct;19(5):522-533. doi: 10.1177/17407745221103853. Epub 2022
+ Jul 19.
+
+Rethinking intercurrent events in defining estimands for tuberculosis trials.
+
+Pham TM(1), Tweed CD(1), Carpenter JR(1)(2), Kahan BC(1), Nunn AJ(1), Crook 
+AM(1), Esmail H(1), Goodall R(1), Phillips PP(3), White IR(1).
+
+Author information:
+(1)MRC Clinical Trials Unit at UCL, London, UK.
+(2)Department of Medical Statistics, London School of Hygiene and Tropical 
+Medicine, London, UK.
+(3)UCSF Center for Tuberculosis, University of California San Francisco, San 
+Francisco, CA, USA.
+
+BACKGROUND/AIMS: Tuberculosis remains one of the leading causes of death from an 
+infectious disease globally. Both choices of outcome definitions and approaches 
+to handling events happening post-randomisation can change the treatment effect 
+being estimated, but these are often inconsistently described, thus inhibiting 
+clear interpretation and comparison across trials.
+METHODS: Starting from the ICH E9(R1) addendum's definition of an estimand, we 
+use our experience of conducting large Phase III tuberculosis treatment trials 
+and our understanding of the estimand framework to identify the key decisions 
+regarding how different event types are handled in the primary outcome 
+definition, and the important points that should be considered in making such 
+decisions. A key issue is the handling of intercurrent (i.e. post-randomisation) 
+events (ICEs) which affect interpretation of or preclude measurement of the 
+intended final outcome. We consider common ICEs including treatment changes and 
+treatment extension, poor adherence to randomised treatment, re-infection with a 
+new strain of tuberculosis which is different from the original infection, and 
+death. We use two completed tuberculosis trials (REMoxTB and STREAM Stage 1) as 
+illustrative examples. These trials tested non-inferiority of new tuberculosis 
+treatment regimens versus a control regimen. The primary outcome was a binary 
+composite endpoint, 'favourable' or 'unfavourable', which was constructed from 
+several components.
+RESULTS: We propose the following improvements in handling the above-mentioned 
+ICEs and loss to follow-up (a post-randomisation event that is not in itself an 
+ICE). First, changes to allocated regimens should not necessarily be viewed as 
+an unfavourable outcome; from the patient perspective, the potential harms 
+associated with a change in the regimen should instead be directly quantified. 
+Second, handling poor adherence to randomised treatment using a per-protocol 
+analysis does not necessarily target a clear estimand; instead, it would be 
+desirable to develop ways to estimate the treatment effects more relevant to 
+programmatic settings. Third, re-infection with a new strain of tuberculosis 
+could be handled with different strategies, depending on whether the outcome of 
+interest is the ability to attain culture negativity from infection with any 
+strain of tuberculosis, or specifically the presenting strain of tuberculosis. 
+Fourth, where possible, death could be separated into tuberculosis-related and 
+non-tuberculosis-related and handled using appropriate strategies. Finally, 
+although some losses to follow-up would result in early treatment 
+discontinuation, patients lost to follow-up before the end of the trial should 
+not always be classified as having an unfavourable outcome. Instead, loss to 
+follow-up should be separated from not completing the treatment, which is an ICE 
+and may be considered as an unfavourable outcome.
+CONCLUSION: The estimand framework clarifies many issues in tuberculosis trials 
+but also challenges trialists to justify and improve their outcome definitions. 
+Future trialists should consider all the above points in defining their 
+outcomes.
+
+DOI: 10.1177/17407745221103853
+PMCID: PMC9523802
+PMID: 35850542 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.

@@ -1,0 +1,60 @@
+1. Genome Res. 2023 Apr;33(4):644-657. doi: 10.1101/gr.277177.122. Epub 2023 Apr 
+28.
+
+Accurate transcriptome-wide identification and quantification of alternative 
+polyadenylation from RNA-seq data with APAIQ.
+
+Long Y(#)(1)(2), Zhang B(#)(3)(2), Tian S(#)(4), Chan JJ(5), Zhou J(1)(2), Li 
+Z(1)(2), Li Y(4)(6), An Z(7), Liao X(1)(2), Wang Y(8), Sun S(9), Xu Y(10), Tay 
+Y(5)(11), Chen W(4), Gao X(1)(2).
+
+Author information:
+(1)Computer Science Program, Computer, Electrical and Mathematical Sciences and 
+Engineering Division, King Abdullah University of Science and Technology 
+(KAUST), Thuwal, 23955 Saudi Arabia.
+(2)Computational Bioscience Research Center, King Abdullah University of Science 
+and Technology, Thuwal, 23955 Saudi Arabia.
+(3)Computer Science Program, Computer, Electrical and Mathematical Sciences and 
+Engineering Division, King Abdullah University of Science and Technology 
+(KAUST), Thuwal, 23955 Saudi Arabia; xin.gao@kaust.edu.sa chenw@sustech.edu.cn 
+zb.picb@gmail.com.
+(4)Shenzhen Key Laboratory of Gene Regulation and Systems Biology, Department of 
+Systems Biology, School of Life Sciences, Southern University of Science and 
+Technology, Shenzhen, 518055 China.
+(5)Cancer Science Institute of Singapore, National University of Singapore, 
+117599 Singapore.
+(6)Shenzhen Haoshi Biotechnology Company, Limited, Bao An District, Shenzhen, 
+518000 China.
+(7)Computational Systems Biology Lab, Department of Biochemistry and Molecular 
+Biology and Institute of Bioinformatics, the University of Georgia, Athens, 
+Georgia 30605, USA.
+(8)Syneron Technology, Guangzhou, 510535 China.
+(9)Institute of Computing Technology, Chinese Academy of Sciences, Beijing, 
+100190 China.
+(10)Systems Biology Lab for Metabolic Reprogramming, School of Medicine, 
+Southern University of Science and Technology, Shenzhen, 518055 China.
+(11)Department of Biochemistry, Yong Loo Lin School of Medicine, National 
+University of Singapore, 117597 Singapore.
+(#)Contributed equally
+
+Alternative polyadenylation (APA) enables a gene to generate multiple 
+transcripts with different 3' ends, which is dynamic across different cell types 
+or conditions. Many computational methods have been developed to characterize 
+sample-specific APA using the corresponding RNA-seq data, but suffered from high 
+error rate on both polyadenylation site (PAS) identification and quantification 
+of PAS usage (PAU), and bias toward 3' untranslated regions. Here we developed a 
+tool for APA identification and quantification (APAIQ) from RNA-seq data, which 
+can accurately identify PAS and quantify PAU in a transcriptome-wide manner. 
+Using 3' end-seq data as the benchmark, we showed that APAIQ outperforms current 
+methods on PAS identification and PAU quantification, including DaPars2, 
+Aptardi, mountainClimber, SANPolyA, and QAPA. Finally, applying APAIQ on 421 
+RNA-seq samples from liver cancer patients, we identified >540 tumor-associated 
+APA events and experimentally validated two intronic polyadenylation candidates, 
+demonstrating its capacity to unveil cancer-related APA with a large-scale 
+RNA-seq data set.
+
+© 2023 Long et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.277177.122
+PMCID: PMC10234309
+PMID: 37117035 [Indexed for MEDLINE]

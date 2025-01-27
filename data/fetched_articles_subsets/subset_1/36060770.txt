@@ -1,0 +1,54 @@
+1. Front Microbiol. 2022 Aug 17;13:920280. doi: 10.3389/fmicb.2022.920280. 
+eCollection 2022.
+
+Establishment of a human cell line with a surface display system for screening 
+and optimizing Na(+)-taurocholate cotransporting polypeptide-binding peptides.
+
+Wang PY(1), Yang X(1), Guo L(1), Wang YW(2)(3), Zhang WL(1), Sun YX(1), Li J(1), 
+Gan CY(1), Long SY(1), Liu JJ(1), Fan SY(1), Huang AL(1), Hu JL(1).
+
+Author information:
+(1)Key Laboratory of Molecular Biology on Infectious Diseases, Ministry of 
+Education, Chongqing Medical University, Chongqing, China.
+(2)Department of Laboratory Medicine, Chongqing Hospital of Traditional Chinese 
+Medicine, Chongqing, China.
+(3)Laboratory for Diagnosis and Treatment of Infectious Diseases Integrated 
+Traditional Chinese and Western Medicine, Chongqing Hospital of Traditional 
+Chinese Medicine, Chongqing, China.
+
+One of the most desirable targets for HBV medications is the sodium taurocholate 
+cotransporting polypeptide (NTCP), an entry receptor for the hepatitis B virus 
+(HBV). N-myristoylated preS1 2-48 (Myrcludex B or Hepcludex), an NTCP-binding 
+peptide from the large surface protein of HBV, has been developed as the 
+first-in-class entry inhibitor. However, its relatively large molecular weight 
+contributes to increased immunogenicity and antibody production. As a result, it 
+is preferable to look for an NTCP-binding peptide with a smaller size. To do 
+this, we developed a human cell surface display strategy and screened peptides 
+based on preS1-21. PreS1-21 (genotype D) was extended by 7 random amino acids 
+and fused with mCherry and FasL transmembrane domain. The pooled constructs were 
+transfected into HEK293 cells by using the transposon/transposase system to 
+create a library displaying various peptides on the cell surface with red 
+fluorescence. On the other hand, we expressed NTCP protein fused with EGFP on 
+HEK293 and used the membrane lysate containing NTCP-GFP as the bait protein to 
+select peptides with increased NTCP affinity. After 7 cycles of selection, the 
+deep sequencing results revealed that some polypeptides were more than 1,000 
+times enriched. Further screening of the mostly enriched 10 peptides yields the 
+peptide preS1-21-pep3. Replacing the preS1-21 sequence of preS1-21-pep3 with 
+those from different genotypes demonstrated that the consensus sequence of 
+genotype A-F had the best performance. The peptide (Myr-preS1-21-pep3) was 
+synthesized and tested on the HepG2-NTCP cell model. The results showed that 
+Myr-preS1-21-pep3 is approximately 10 times more potent than the initial peptide 
+Myr-preS1-21 in preventing HBV infection. In conclusion, we developed a new 
+strategy for screening peptides binding to membrane proteins and identified a 
+new NTCP-binding peptide with a much smaller size than Hepcludex.
+
+Copyright © 2022 Wang, Yang, Guo, Wang, Zhang, Sun, Li, Gan, Long, Liu, Fan, 
+Huang and Hu.
+
+DOI: 10.3389/fmicb.2022.920280
+PMCID: PMC9428559
+PMID: 36060770
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

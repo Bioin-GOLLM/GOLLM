@@ -1,0 +1,58 @@
+1. JMIR Med Inform. 2016 Nov 30;4(4):e40. doi: 10.2196/medinform.6373.
+
+Finding Important Terms for Patients in Their Electronic Health Records: A 
+Learning-to-Rank Approach Using Expert Annotations.
+
+Chen J(1), Zheng J(2), Yu H(1)(3).
+
+Author information:
+(1)Department of Quantitative Health Sciences, University of Massachusetts 
+Medical School, Worcester, MA, United States.
+(2)School of Computer Science, University of Massachusetts, Amherst, MA, United 
+States.
+(3)Bedford Veterans Affairs Medical Center, Center for Healthcare Organization 
+and Implementation Research, Bedford, MA, United States.
+
+BACKGROUND: Many health organizations allow patients to access their own 
+electronic health record (EHR) notes through online patient portals as a way to 
+enhance patient-centered care. However, EHR notes are typically long and contain 
+abundant medical jargon that can be difficult for patients to understand. In 
+addition, many medical terms in patients' notes are not directly related to 
+their health care needs. One way to help patients better comprehend their own 
+notes is to reduce information overload and help them focus on medical terms 
+that matter most to them. Interventions can then be developed by giving them 
+targeted education to improve their EHR comprehension and the quality of care.
+OBJECTIVE: We aimed to develop a supervised natural language processing (NLP) 
+system called Finding impOrtant medical Concepts most Useful to patientS (FOCUS) 
+that automatically identifies and ranks medical terms in EHR notes based on 
+their importance to the patients.
+METHODS: First, we built an expert-annotated corpus. For each EHR note, 2 
+physicians independently identified medical terms important to the patient. 
+Using the physicians' agreement as the gold standard, we developed and evaluated 
+FOCUS. FOCUS first identifies candidate terms from each EHR note using MetaMap 
+and then ranks the terms using a support vector machine-based learn-to-rank 
+algorithm. We explored rich learning features, including distributed word 
+representation, Unified Medical Language System semantic type, topic features, 
+and features derived from consumer health vocabulary. We compared FOCUS with 2 
+strong baseline NLP systems.
+RESULTS: Physicians annotated 90 EHR notes and identified a mean of 9 (SD 5) 
+important terms per note. The Cohen's kappa annotation agreement was .51. The 
+10-fold cross-validation results show that FOCUS achieved an area under the 
+receiver operating characteristic curve (AUC-ROC) of 0.940 for ranking candidate 
+terms from EHR notes to identify important terms. When including term 
+identification, the performance of FOCUS for identifying important terms from 
+EHR notes was 0.866 AUC-ROC. Both performance scores significantly exceeded the 
+corresponding baseline system scores (P<.001). Rich learning features 
+contributed to FOCUS's performance substantially.
+CONCLUSIONS: FOCUS can automatically rank terms from EHR notes based on their 
+importance to patients. It may help develop future interventions that improve 
+quality of care.
+
+©Jinying Chen, Jiaping Zheng, Hong Yu. Originally published in JMIR Medical 
+Informatics (http://medinform.jmir.org), 30.11.2016.
+
+DOI: 10.2196/medinform.6373
+PMCID: PMC5156821
+PMID: 27903489
+
+Conflict of interest statement: Conflicts of Interest: None declared.

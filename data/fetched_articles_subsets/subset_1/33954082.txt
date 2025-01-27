@@ -1,0 +1,43 @@
+1. Biophys Physicobiol. 2021 Feb 18;18:50-59. doi:
+10.2142/biophysico.bppb-v18.006.  eCollection 2021.
+
+Structure elements can be predicted using the contact volume among protein 
+residues.
+
+Takase Y(1), Yamazaki Y(1), Hayashi Y(1), Toma-Fukai S(1), Kamikubo H(1)(2).
+
+Author information:
+(1)Division of Materials Science, Graduate School of Science and Technology, 
+Nara Institute of Science and Technology, Ikoma, Nara 630-0192, Japan.
+(2)Institute of Materials Structure Science, High Energy Accelerator Research 
+Organization (KEK), Tsukuba, Ibaraki 305-0801, Japan.
+
+Previously, the structure elements of dihydrofolate reductase (DHFR) were 
+determined using comprehen-sive Ala-insertion mutation analysis, which is 
+assumed to be a kind of protein "building blocks." It is hypo-thesized that our 
+comprehension of the structure elements could lead to understanding how an amino 
+acid sequence dictates its tertiary structure. However, the comprehensive 
+Ala-insertion mutation analysis is a time- and cost-consuming process and only a 
+set of the DHFR structure elements have been reported so far. Therefore, 
+developing a computational method to predict structure elements is an urgent 
+necessity. We focused on intramolecular residue-residue contacts to predict the 
+structure elements. We introduced a simple and effective parameter: the 
+overlapped contact volume (CV) among the residues and calculated the CV along 
+the DHFR sequence using the crystal structure. Our results indicate that the CV 
+profile can recapitulate its precipitate ratio profile, which was used to define 
+the structure elements in the Ala-insertion mutation analysis. The CV profile 
+allowed us to predict structure elements like the experimentally determined 
+structure elements. The strong correlation between the CV and precipitate ratio 
+profiles indicates the importance of the intramolecular residue-residue contact 
+in maintaining the tertiary structure. Additionally, the CVs between the 
+structure elements are considerably more than those between a structure element 
+and a linker or two linkers, indicating that the structure elements play a 
+funda-mental role in increasing the intramolecular adhesion. Thus, we propose 
+that the structure elements can be considered a type of "building blocks" that 
+maintain and dictate the tertiary structures of proteins.
+
+2021 THE BIOPHYSICAL SOCIETY OF JAPAN.
+
+DOI: 10.2142/biophysico.bppb-v18.006
+PMCID: PMC8049775
+PMID: 33954082

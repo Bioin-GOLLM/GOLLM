@@ -1,0 +1,56 @@
+1. BMC Genomics. 2017 Feb 17;18(1):188. doi: 10.1186/s12864-017-3576-y.
+
+Transcriptomic profiling provides molecular insights into hydrogen 
+peroxide-induced adventitious rooting in mung bean seedlings.
+
+Li SW(1), Leng Y(2), Shi RF(2).
+
+Author information:
+(1)School of Environmental and Municipal Engineering, Key Laboratory of Extreme 
+Environmental Microbial Resources and Engineering, Gansu Province, Lanzhou 
+Jiaotong University, 88 West Anning Road, Lanzhou, 730070, People's Republic of 
+China. lishweng@mail.lzjtu.cn.
+(2)School of Environmental and Municipal Engineering, Key Laboratory of Extreme 
+Environmental Microbial Resources and Engineering, Gansu Province, Lanzhou 
+Jiaotong University, 88 West Anning Road, Lanzhou, 730070, People's Republic of 
+China.
+
+BACKGROUND: Hydrogen peroxide (H2O2) has been known to function as a signalling 
+molecule involved in the modulation of various physiological processes in 
+plants. H2O2 has been shown to act as a promoter during adventitious root 
+formation in hypocotyl cuttings. In this study, RNA-Seq was performed to reveal 
+the molecular mechanisms underlying H2O2-induced adventitious rooting.
+RESULTS: RNA-Seq data revealed that H2O2 treatment greatly increased the numbers 
+of clean reads and expressed genes and abundance of gene expression relative to 
+the water treatment. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and 
+Genomes (KEGG) pathway enrichment analyses indicated that a profound change in 
+gene function occurred in the 6-h H2O2 treatment and that H2O2 mainly enhanced 
+gene expression levels at the 6-h time point but reduced gene expression levels 
+at the 24-h time point compared with the water treatment. In total, 4579 
+differentially expressed (2-fold change > 2) unigenes (DEGs), of which 78.3% 
+were up-regulated and 21.7% were down-regulated; 3525 DEGs, of which 64.0% were 
+up-regulated and 36.0% were down-regulated; and 7383 DEGs, of which 40.8% were 
+up-regulated and 59.2% were down-regulated were selected in the 6-h, 24-h, and 
+from 6- to 24-h treatments, respectively. The number of DEGs in the 6-h 
+treatment was 29.9% higher than that in the 24-h treatment. The functions of the 
+most highly regulated genes were associated with stress response, cell redox 
+homeostasis and oxidative stress response, cell wall loosening and modification, 
+metabolic processes, and transcription factors (TFs), as well as plant hormone 
+signalling, including auxin, ethylene, cytokinin, gibberellin, and abscisic acid 
+pathways. Notably, a large number of genes encoding for heat shock proteins 
+(HSPs) and heat shock transcription factors (HSFs) were significantly 
+up-regulated during H2O2 treatments. Furthermore, real-time quantitative PCR 
+(qRT-PCR) results showed that, during H2O2 treatments, the expression levels of 
+ARFs, IAAs, AUXs, NACs, RD22, AHKs, MYBs, PIN1, AUX15A, LBD29, LBD41, ADH1b, and 
+QORL were significantly up-regulated at the 6- and/or 24-h time points. In 
+contrast, PER1 and PER2 were significantly down-regulated by H2O2 treatment. 
+These qRT-PCR results strongly correlated with the RNA-Seq data.
+CONCLUSIONS: Using RNA-Seq and qRT-PCR techniques, we analysed the global 
+changes in gene expression and functional profiling during H2O2-induced 
+adventitious rooting in mung bean seedlings. These results strengthen the 
+current understanding of H2O2-induced adventitious rooting and the molecular 
+traits of H2O2 priming in plants.
+
+DOI: 10.1186/s12864-017-3576-y
+PMCID: PMC5316208
+PMID: 28212614 [Indexed for MEDLINE]

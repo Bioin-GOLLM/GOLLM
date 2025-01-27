@@ -1,0 +1,46 @@
+1. Sci Rep. 2022 Aug 10;12(1):13609. doi: 10.1038/s41598-022-17887-5.
+
+Transcriptional dynamics of colorectal cancer risk associated variation at 
+11q23.1 correlate with tuft cell abundance and marker expression in silico.
+
+Harris BT(1), Rajasekaran V(1), Blackmur JP(1)(2), O'Callaghan A(2), Donnelly 
+K(1)(2), Timofeeva M(1)(3), Vaughan-Shaw PG(1)(2), Din FVN(1), Dunlop MG(1)(2), 
+Farrington SM(4).
+
+Author information:
+(1)Edinburgh Cancer Research, Institute of Genetics and Cancer, University of 
+Edinburgh, Edinburgh, UK.
+(2)MRC Human Genetics Unit, Institute of Genetics and Cancer, University of 
+Edinburgh, Edinburgh, UK.
+(3)Department of Public Health, D-IAS, Danish Institute for Advanced Study, 
+University of Southern Denmark, Odense, Denmark.
+(4)Edinburgh Cancer Research, Institute of Genetics and Cancer, University of 
+Edinburgh, Edinburgh, UK. susan.farrington@ed.ac.uk.
+
+Colorectal cancer (CRC) is characterised by heritable risk that is not well 
+understood. Heritable, genetic variation at 11q23.1 is associated with increased 
+colorectal cancer (CRC) risk, demonstrating eQTL effects on 3 cis- and 23 
+trans-eQTL targets. We sought to determine the relationship between 11q23.1 cis- 
+and trans-eQTL target expression and test for potential cell-specificity. 
+scRNAseq from 32,361 healthy colonic epithelial cells was aggregated and subject 
+to weighted gene co-expression network analysis (WGCNA). One module (blue) 
+included 19 trans-eQTL targets and was correlated with POU2AF2 expression only. 
+Following unsupervised clustering of single cells, the expression of 19 
+trans-eQTL targets was greatest and most variable in cluster number 11, which 
+transcriptionally resembled tuft cells. 14 trans-eQTL targets were found to 
+demarcate this cluster, 11 of which were corroborated in a second dataset. 
+Intra-cluster WGCNA and module preservation analysis then identified twelve 
+11q23.1 trans-eQTL targets to comprise a network that was specific to cluster 
+11. Finally, linear modelling and differential abundance testing showed 11q23.1 
+trans-eQTL target expression was predictive of cluster 11 abundance. Our 
+findings suggest 11q23.1 trans-eQTL targets comprise a POU2AF2-related network 
+that is likely tuft cell-specific and reduced expression of these genes 
+correlates with reduced tuft cell abundance in silico.
+
+© 2022. Crown.
+
+DOI: 10.1038/s41598-022-17887-5
+PMCID: PMC9365857
+PMID: 35948568 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

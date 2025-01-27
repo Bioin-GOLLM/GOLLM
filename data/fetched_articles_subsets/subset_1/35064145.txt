@@ -1,0 +1,64 @@
+1. Nat Commun. 2022 Jan 21;13(1):441. doi: 10.1038/s41467-022-27953-1.
+
+Tissue-specific multi-omics analysis of atrial fibrillation.
+
+Assum I(#)(1)(2), Krause J(#)(3)(4), Scheinhardt MO(5), Müller C(3)(4), Hammer 
+E(6)(7), Börschel CS(4)(8), Völker U(6)(7), Conradi L(9), Geelhoed B(4)(8)(10), 
+Zeller T(#)(3)(4), Schnabel RB(#)(11)(12), Heinig M(#)(13)(14)(15).
+
+Author information:
+(1)Computational Health Center, Helmholtz Zentrum München, Deutsches 
+Forschungszentrum für Gesundheit und Umwelt (GmbH), München, Germany.
+(2)Department of Informatics, Technical University Munich, München, Germany.
+(3)University Center of Cardiovascular Science, University Heart and Vascular 
+Center Hamburg, Hamburg, Germany.
+(4)Partner site Hamburg/Kiel/Lübeck, DZHK (German Center for Cardiovascular 
+Research), Hamburg, Germany.
+(5)Institute of Medical Biometry and Statistics, University of Lübeck, 
+University Hospital of Schleswig-Holstein, Lübeck, Germany.
+(6)Interfaculty Institute for Genetics and Functional Genomics, University 
+Medicine Greifswald, Greifswald, Germany.
+(7)Partner site Greifswald, DZHK (German Center for Cardiovascular Research), 
+Greifswald, Germany.
+(8)Department of Cardiology, University Heart and Vascular Center Hamburg, 
+Hamburg, Germany.
+(9)Department of Cardiovascular Surgery, University Heart and Vascular Center 
+Hamburg, Hamburg, Germany.
+(10)Department of Cardiology, University of Groningen, University Medical Center 
+Groningen, Groningen, Netherlands.
+(11)Partner site Hamburg/Kiel/Lübeck, DZHK (German Center for Cardiovascular 
+Research), Hamburg, Germany. r.schnabel@uke.de.
+(12)Department of Cardiology, University Heart and Vascular Center Hamburg, 
+Hamburg, Germany. r.schnabel@uke.de.
+(13)Computational Health Center, Helmholtz Zentrum München, Deutsches 
+Forschungszentrum für Gesundheit und Umwelt (GmbH), München, Germany. 
+matthias.heinig@helmholtz-muenchen.de.
+(14)Department of Informatics, Technical University Munich, München, Germany. 
+matthias.heinig@helmholtz-muenchen.de.
+(15)Partner site Munich, DZHK (German Center for Cardiovascular Research), 
+Munich, Germany. matthias.heinig@helmholtz-muenchen.de.
+(#)Contributed equally
+
+Genome-wide association studies (GWAS) for atrial fibrillation (AF) have 
+uncovered numerous disease-associated variants. Their underlying molecular 
+mechanisms, especially consequences for mRNA and protein expression remain 
+largely elusive. Thus, refined multi-omics approaches are needed for deciphering 
+the underlying molecular networks. Here, we integrate genomics, transcriptomics, 
+and proteomics of human atrial tissue in a cross-sectional study to identify 
+widespread effects of genetic variants on both transcript (cis-eQTL) and protein 
+(cis-pQTL) abundance. We further establish a novel targeted trans-QTL approach 
+based on polygenic risk scores to determine candidates for AF core genes. Using 
+this approach, we identify two trans-eQTLs and five trans-pQTLs for AF GWAS 
+hits, and elucidate the role of the transcription factor NKX2-5 as a link 
+between the GWAS SNP rs9481842 and AF. Altogether, we present an integrative 
+multi-omics method to uncover trans-acting networks in small datasets and 
+provide a rich resource of atrial tissue-specific regulatory variants for 
+transcript and protein levels for cardiovascular disease gene prioritization.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41467-022-27953-1
+PMCID: PMC8782899
+PMID: 35064145 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

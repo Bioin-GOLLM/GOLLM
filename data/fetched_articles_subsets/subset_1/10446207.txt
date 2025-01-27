@@ -1,0 +1,42 @@
+1. J Biol Chem. 1999 Aug 20;274(34):24308-15. doi: 10.1074/jbc.274.34.24308.
+
+An analysis of the binding of repressor protein ModE to modABCD (molybdate 
+transport) operator/promoter DNA of Escherichia coli.
+
+Grunden AM(1), Self WT, Villain M, Blalock JE, Shanmugam KT.
+
+Author information:
+(1)Department of Microbiology and Cell Science, University of Florida, 
+Gainesville, Florida 32611, USA.
+
+Expression of the modABCD operon in Escherichia coli, which codes for a 
+molybdate-specific transporter, is repressed by ModE in vivo in a 
+molybdate-dependent fashion. In vitro DNase I-footprinting experiments 
+identified three distinct regions of protection by ModE-molybdate on the modA 
+operator/promoter DNA, GTTATATT (-15 to -8; region 1), GCCTACAT (-4 to +4; 
+region 2), and GTTACAT (+8 to +14; region 3). Within the three regions of the 
+protected DNA, a pentamer sequence, TAYAT (Y = C or T), can be identified. 
+DNA-electrophoretic mobility experiments showed that the protected regions 1 and 
+2 are essential for binding of ModE-molybdate to DNA, whereas the protected 
+region 3 increases the affinity of the DNA to the repressor. The stoichiometry 
+of this interaction was found to be two ModE-molybdate per modA operator DNA. 
+ModE-molybdate at 5 nM completely protected the modABCD operator/promoter DNA 
+from DNase I-catalyzed hydrolysis, whereas ModE alone failed to protect the DNA 
+even at 100 nM. The apparent K(d) for the interaction between the modA operator 
+DNA and ModE-molybdate was 0.3 nM, and the K(d) increased to 8 nM in the absence 
+of molybdate. Among the various oxyanions tested, only tungstate replaced 
+molybdate in the repression of modA by ModE, but the affinity of ModE-tungstate 
+for modABCD operator DNA was 6 times lower than with ModE-molybdate. A mutant 
+ModE(T125I) protein, which repressed modA-lac even in the absence of molybdate, 
+protected the same region of modA operator DNA in the absence of molybdate. The 
+apparent K(d) for the interaction between modA operator DNA and ModE(T125I) was 
+3 nM in the presence of molybdate and 4 nM without molybdate. The binding of 
+molybdate to ModE resulted in a decrease in fluorescence emission, indicating a 
+conformational change of the protein upon molybdate binding. The fluorescence 
+emission spectra of mutant ModE proteins, ModE(T125I) and ModE(Q216*), were 
+unaffected by molybdate. The molybdate-independent mutant ModE proteins 
+apparently mimic in its conformation the native ModE-molybdate complex, which 
+binds to a DNA sequence motif of TATAT-7bp-TAYAT.
+
+DOI: 10.1074/jbc.274.34.24308
+PMID: 10446207 [Indexed for MEDLINE]

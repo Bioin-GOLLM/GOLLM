@@ -1,0 +1,41 @@
+1. Physiol Meas. 2022 Dec 6;43(12):10.1088/1361-6579/aca26b. doi: 
+10.1088/1361-6579/aca26b.
+
+Fast absolute 3D CGO-based electrical impedance tomography on experimental tank 
+data.
+
+Hamilton SJ(1), Muller PA(2), Isaacson D(3), Kolehmainen V(4), Newell J(5), 
+Rajabi Shishvan O(6), Saulnier G(6), Toivanen J(4).
+
+Author information:
+(1)Department of Mathematical and Statistical Sciences; Marquette University, 
+Milwaukee, WI 53233 United States of America.
+(2)Department of Mathematics & Statistics; Villanova University, Villanova, PA 
+19085 United States of America.
+(3)Department of Mathematics, Rensselaer Polytechnic Institute, Troy, NY 12180, 
+United States of America.
+(4)Department of Applied Physics, University of Eastern Finland, FI-70210 
+Kuopio, Finland.
+(5)Department of Biomedical Engineering, Rensselaer Polytechnic Institute, Troy, 
+NY 12180, United States of America.
+(6)Department of Electrical and Computer Engineering, University at Albany-SUNY, 
+Albany, NY 12222, United States of America.
+
+Objective.To present the first 3D CGO-based absolute EIT reconstructions from 
+experimental tank data.Approach.CGO-based methods for absolute EIT imaging are 
+compared to traditional TV regularized non-linear least squares reconstruction 
+methods. Additional robustness testing is performed by considering incorrect 
+modeling of domain shape.Main Results.The CGO-based methods are fast, and show 
+strong robustness to incorrect domain modeling comparable to classic difference 
+EIT imaging and fewer boundary artefacts than the TV regularized non-linear 
+least squares reference reconstructions.Significance.This work is the first to 
+demonstrate fully 3D CGO-based absolute EIT reconstruction on experimental data 
+and also compares to TV-regularized absolute reconstruction. The speed (1-5 s) 
+and quality of the reconstructions is encouraging for future work in absolute 
+EIT.
+
+© 2022 Institute of Physics and Engineering in Medicine.
+
+DOI: 10.1088/1361-6579/aca26b
+PMCID: PMC10028616
+PMID: 36374007

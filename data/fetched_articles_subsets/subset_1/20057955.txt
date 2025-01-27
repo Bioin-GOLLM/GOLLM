@@ -1,0 +1,37 @@
+1. Int J Mol Sci. 2009 Nov 20;10(10):4437-4473. doi: 10.3390/ijms10104437.
+
+Robustness in regulatory interaction networks. A generic approach with 
+applications at different levels: physiologic, metabolic and genetic.
+
+Demongeot J(1), Ben Amor H(1), Elena A(1), Gillois P(1), Noual M(2)(3), Sené 
+S(4)(3).
+
+Author information:
+(1)Université J. Fourier de Grenoble, TIMC-IMAG, CNRS UMR 5525, Faculté de 
+Médecine, 38700 La Tronche, France.
+(2)Université de Lyon, École Normale Supérieure Lyon, LIP, CNRS UMR 5668, 69007 
+Lyon, France.
+(3)IXXI, Institut rhône-alpin des systèmes complexes, 69007 Lyon, France.
+(4)Université d'Evry Val d'Essonne, IBISC, CNRS FRE 3190, 91000 Evry, France.
+
+Regulatory interaction networks are often studied on their dynamical side 
+(existence of attractors, study of their stability). We focus here also on their 
+robustness, that is their ability to offer the same spatiotemporal patterns and 
+to resist to external perturbations such as losses of nodes or edges in the 
+networks interactions architecture, changes in their environmental boundary 
+conditions as well as changes in the update schedule (or updating mode) of the 
+states of their elements (e.g., if these elements are genes, their synchronous 
+coexpression mode versus their sequential expression). We define the generic 
+notions of boundary, core, and critical vertex or edge of the underlying 
+interaction graph of the regulatory network, whose disappearance causes dramatic 
+changes in the number and nature of attractors (e.g., passage from a bistable 
+behaviour to a unique periodic regime) or in the range of their basins of 
+stability. The dynamic transition of states will be presented in the framework 
+of threshold Boolean automata rules. A panorama of applications at different 
+levels will be given: brain and plant morphogenesis, bulbar cardio-respiratory 
+regulation, glycolytic/oxidative metabolic coupling, and eventually cell cycle 
+and feather morphogenesis genetic control.
+
+DOI: 10.3390/ijms10104437
+PMCID: PMC2790118
+PMID: 20057955 [Indexed for MEDLINE]

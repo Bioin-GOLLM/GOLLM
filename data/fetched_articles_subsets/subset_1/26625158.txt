@@ -1,0 +1,37 @@
+1. PLoS Comput Biol. 2015 Dec 1;11(12):e1004572. doi:
+10.1371/journal.pcbi.1004572.  eCollection 2015 Dec.
+
+Wham: Identifying Structural Variants of Biological Consequence.
+
+Kronenberg ZN(1), Osborne EJ(1)(2), Cone KR(1), Kennedy BJ(1)(2), Domyan ET(3), 
+Shapiro MD(3), Elde NC(1), Yandell M(1)(2).
+
+Author information:
+(1)Department of Human Genetics, Eccles Institute of Human Genetics, University 
+of Utah, Salt Lake City, Utah, United States of America.
+(2)Utah Center for Genetic Discovery, University of Utah, Salt Lake City, Utah, 
+United States of America.
+(3)Department of Biology, University of Utah, Salt Lake City, Utah, United 
+States of America.
+
+Existing methods for identifying structural variants (SVs) from short read 
+datasets are inaccurate. This complicates disease-gene identification and 
+efforts to understand the consequences of genetic variation. In response, we 
+have created Wham (Whole-genome Alignment Metrics) to provide a single, 
+integrated framework for both structural variant calling and association 
+testing, thereby bypassing many of the difficulties that currently frustrate 
+attempts to employ SVs in association testing. Here we describe Wham, benchmark 
+it against three other widely used SV identification tools-Lumpy, Delly and 
+SoftSearch-and demonstrate Wham's ability to identify and associate SVs with 
+phenotypes using data from humans, domestic pigeons, and vaccinia virus. Wham 
+and all associated software are covered under the MIT License and can be freely 
+downloaded from github (https://github.com/zeeev/wham), with documentation on a 
+wiki (http://zeeev.github.io/wham/). For community support please post questions 
+to https://www.biostars.org/.
+
+DOI: 10.1371/journal.pcbi.1004572
+PMCID: PMC4666669
+PMID: 26625158 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

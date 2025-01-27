@@ -1,0 +1,64 @@
+1. Proc Natl Acad Sci U S A. 2020 Mar 10;117(10):5269-5279. doi: 
+10.1073/pnas.1915975117. Epub 2020 Feb 21.
+
+Pathway-guided analysis identifies Myc-dependent alternative pre-mRNA splicing 
+in aggressive prostate cancers.
+
+Phillips JW(1), Pan Y(2), Tsai BL(1), Xie Z(1), Demirdjian L(3), Xiao W(1), Yang 
+HT(2), Zhang Y(2), Lin CH(1), Cheng D(1), Hu Q(4), Liu S(4), Black DL(1), Witte 
+ON(5)(6)(7)(8)(9), Xing Y(5)(2)(3)(10).
+
+Author information:
+(1)Department of Microbiology, Immunology and Molecular Genetics, University of 
+California, Los Angeles, CA 90095.
+(2)Bioinformatics Interdepartmental Graduate Program, University of California, 
+Los Angeles, CA 90095.
+(3)Center for Computational and Genomic Medicine, The Children's Hospital of 
+Philadelphia, Philadelphia, PA 19104.
+(4)Department of Biostatistics and Bioinformatics, Roswell Park Comprehensive 
+Cancer Center, Buffalo, NY 14263.
+(5)Department of Microbiology, Immunology and Molecular Genetics, University of 
+California, Los Angeles, CA 90095; owenwitte@mednet.ucla.edu 
+xingyi@email.chop.edu.
+(6)Department of Molecular and Medical Pharmacology, University of California, 
+Los Angeles, CA 90095.
+(7)Molecular Biology Institute, University of California, Los Angeles, CA 90095.
+(8)Jonsson Comprehensive Cancer Center, University of California, Los Angeles, 
+CA 90095.
+(9)Eli and Edythe Broad Center of Regenerative Medicine and Stem Cell Research, 
+University of California, Los Angeles, CA 90095.
+(10)Department of Pathology and Laboratory Medicine, University of Pennsylvania, 
+Philadelphia, PA 19104.
+
+We sought to define the landscape of alternative pre-mRNA splicing in prostate 
+cancers and the relationship of exon choice to known cancer driver alterations. 
+To do so, we compiled a metadataset composed of 876 RNA-sequencing (RNA-Seq) 
+samples from five publicly available sources representing a range of prostate 
+phenotypes from normal tissue to drug-resistant metastases. We subjected these 
+samples to exon-level analysis with rMATS-turbo, purpose-built software designed 
+for large-scale analyses of splicing, and identified 13,149 high-confidence 
+cassette exon events with variable incorporation across samples. We then 
+developed a computational framework, pathway enrichment-guided activity study of 
+alternative splicing (PEGASAS), to correlate transcriptional signatures of 50 
+different cancer driver pathways with these alternative splicing events. We 
+discovered that Myc signaling was correlated with incorporation of a set of 
+1,039 cassette exons enriched in genes encoding RNA binding proteins. Using a 
+human prostate epithelial transformation assay, we confirmed the Myc regulation 
+of 147 of these exons, many of which introduced frameshifts or encoded premature 
+stop codons. Our results connect changes in alternative pre-mRNA splicing to 
+oncogenic alterations common in prostate and many other cancers. We also 
+establish a role for Myc in regulating RNA splicing by controlling the 
+incorporation of nonsense-mediated decay-determinant exons in genes encoding RNA 
+binding proteins.
+
+Copyright © 2020 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1915975117
+PMCID: PMC7071906
+PMID: 32086391 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interest statement: O.N.W. currently 
+has consulting, equity, and/or board relationships with Trethera Corporation, 
+Kronos Biosciences, Sofie Biosciences, and Allogene Therapeutics. D.L.B. and 
+Y.X. are scientific cofounders of Panorama Medicine. None of these companies 
+contributed to or directed any of the research reported in this article.

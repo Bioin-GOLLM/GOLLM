@@ -1,0 +1,52 @@
+1. FEBS J. 2015 Sep;282(18):3528-42. doi: 10.1111/febs.13365. Epub 2015 Jul 24.
+
+Oncogenic mutations weaken the interactions that stabilize the p110α-p85α 
+heterodimer in phosphatidylinositol 3-kinase α.
+
+Echeverria I(1)(2)(3), Liu Y(3), Gabelli SB(3)(4), Amzel LM(3).
+
+Author information:
+(1)Department of Bioengineering and Therapeutic Sciences, School of Pharmacy, 
+University of California at San Francisco, CA, USA.
+(2)Department of Pharmaceutical Chemistry, School of Pharmacy, University of 
+California at San Francisco, CA, USA.
+(3)Department of Biophysics and Biophysical Chemistry, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(4)Departments of Medicine and Oncology, Johns Hopkins University School of 
+Medicine, Baltimore, MD, USA.
+
+Comment in
+    FEBS J. 2015 Sep;282(18):3525-7. doi: 10.1111/febs.13392.
+
+Phosphatidylinositol 3-kinase (PI3K) α is a heterodimeric lipid kinase that 
+catalyzes the conversion of phosphoinositol-4,5-bisphosphate to 
+phosphoinositol-3,4,5-trisphosphate. The PI3Kα signaling pathway plays an 
+important role in cell growth, proliferation, and survival. This pathway is 
+activated in numerous cancers, where the PI3KCA gene, which encodes for the 
+p110α PI3Kα subunit, is mutated. Its mutation often results in gain of enzymatic 
+activity; however, the mechanism of activation by oncogenic mutations remains 
+unknown. Here, using computational methods, we show that oncogenic mutations 
+that are far from the catalytic site and increase the enzymatic affinity 
+destabilize the p110α-p85α dimer. By affecting the dynamics of the protein, 
+these mutations favor the conformations that reduce the autoinhibitory effect of 
+the p85α nSH2 domain. For example, we determined that, in all of the mutants, 
+the nSH2 domain shows increased positional heterogeneity as compared with the 
+wild-type, as demonstrated by changes in the fluctuation profiles computed by 
+normal mode analysis of coarse-grained elastic network models. Analysis of the 
+interdomain interactions of the wild-type and mutants at the p110α-p85α 
+interface obtained with molecular dynamics simulations suggest that all of the 
+tumor-associated mutations effectively weaken the interactions between p110α and 
+p85α by disrupting key stabilizing interactions. These findings have important 
+implications for understanding how oncogenic mutations change the conformational 
+multiplicity of PI3Kα and lead to increased enzymatic activity. This mechanism 
+may apply to other enzymes and/or macromolecular complexes that play a key role 
+in cell signaling.
+
+© 2015 FEBS.
+
+DOI: 10.1111/febs.13365
+PMCID: PMC4573839
+PMID: 26122737 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interest The authors declare no 
+competing interest.

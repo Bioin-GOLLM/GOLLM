@@ -1,0 +1,47 @@
+1. PLoS One. 2014 Apr 3;9(4):e93233. doi: 10.1371/journal.pone.0093233.
+eCollection  2014.
+
+Discovery of possible gene relationships through the application of 
+self-organizing maps to DNA microarray databases.
+
+Chavez-Alvarez R(1), Chavoya A(1), Mendez-Vazquez A(2).
+
+Author information:
+(1)Department of Information Systems CUCEA, Universidad de Guadalajara, Zapopan, 
+Jalisco, Mexico.
+(2)Department of Electrical Engineering and Computer Science Campus Guadalajara, 
+Cinvestav, Zapopan, Jalisco, Mexico.
+
+DNA microarrays and cell cycle synchronization experiments have made possible 
+the study of the mechanisms of cell cycle regulation of Saccharomyces cerevisiae 
+by simultaneously monitoring the expression levels of thousands of genes at 
+specific time points. On the other hand, pattern recognition techniques can 
+contribute to the analysis of such massive measurements, providing a model of 
+gene expression level evolution through the cell cycle process. In this paper, 
+we propose the use of one of such techniques--an unsupervised artificial neural 
+network called a Self-Organizing Map (SOM)-which has been successfully applied 
+to processes involving very noisy signals, classifying and organizing them, and 
+assisting in the discovery of behavior patterns without requiring prior 
+knowledge about the process under analysis. As a test bed for the use of SOMs in 
+finding possible relationships among genes and their possible contribution in 
+some biological processes, we selected 282 S. cerevisiae genes that have been 
+shown through biological experiments to have an activity during the cell cycle. 
+The expression level of these genes was analyzed in five of the most cited time 
+series DNA microarray databases used in the study of the cell cycle of this 
+organism. With the use of SOM, it was possible to find clusters of genes with 
+similar behavior in the five databases along two cell cycles. This result 
+suggested that some of these genes might be biologically related or might have a 
+regulatory relationship, as was corroborated by comparing some of the clusters 
+obtained with SOMs against a previously reported regulatory network that was 
+generated using biological knowledge, such as protein-protein interactions, gene 
+expression levels, metabolism dynamics, promoter binding, and modification, 
+regulation and transport of proteins. The methodology described in this paper 
+could be applied to the study of gene relationships of other biological 
+processes in different organisms.
+
+DOI: 10.1371/journal.pone.0093233
+PMCID: PMC3974722
+PMID: 24699245 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

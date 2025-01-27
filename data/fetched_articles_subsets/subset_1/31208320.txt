@@ -1,0 +1,49 @@
+1. BMC Genomics. 2019 Jun 17;20(1):497. doi: 10.1186/s12864-019-5888-6.
+
+A simplified transposon mutagenesis method to perform phenotypic forward genetic 
+screens in cultured cells.
+
+Feddersen CR(1), Wadsworth LS(1), Zhu EY(1), Vaughn HR(1), Voigt AP(1), Riordan 
+JD(1), Dupuy AJ(2)(3)(4).
+
+Author information:
+(1)Department of Anatomy & Cell Biology, Carver College of Medicine, University 
+of Iowa, Iowa City, IA, 52246, USA.
+(2)Department of Anatomy & Cell Biology, Carver College of Medicine, University 
+of Iowa, Iowa City, IA, 52246, USA. adam-dupuy@uiowa.edu.
+(3)Holden Comprehensive Cancer Center, University of Iowa, Iowa City, IA, 52246, 
+USA. adam-dupuy@uiowa.edu.
+(4)Department of Anatomy & Cell Biology, Cancer Biology Graduate Program, 
+University of Iowa, MERF, 375 Newton Road, Iowa City, IA, 3202, USA. 
+adam-dupuy@uiowa.edu.
+
+BACKGROUND: The introduction of genome-wide shRNA and CRISPR libraries has 
+facilitated cell-based screens to identify loss-of-function mutations associated 
+with a phenotype of interest. Approaches to perform analogous gain-of-function 
+screens are less common, although some reports have utilized arrayed viral 
+expression libraries or the CRISPR activation system. However, a variety of 
+technical and logistical challenges make these approaches difficult for many 
+labs to execute. In addition, genome-wide shRNA or CRISPR libraries typically 
+contain of hundreds of thousands of individual engineered elements, and the 
+associated complexity creates issues with replication and reproducibility for 
+these methods.
+RESULTS: Here we describe a simple, reproducible approach using the SB 
+transposon system to perform phenotypic cell-based genetic screens. This 
+approach employs only three plasmids to perform unbiased, whole-genome 
+transposon mutagenesis. We also describe a ligation-mediated PCR method that can 
+be used in conjunction with the included software tools to map raw sequence 
+data, identify candidate genes associated with phenotypes of interest, and 
+predict the impact of recurrent transposon insertions on candidate gene 
+function. Finally, we demonstrate the high reproducibility of our approach by 
+having three individuals perform independent replicates of a mutagenesis screen 
+to identify drivers of vemurafenib resistance in cultured melanoma cells.
+CONCLUSIONS: Collectively, our work establishes a facile, adaptable method that 
+can be performed by labs of any size to perform robust, genome-wide screens to 
+identify genes that influence phenotypes of interest.
+
+DOI: 10.1186/s12864-019-5888-6
+PMCID: PMC6580595
+PMID: 31208320 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

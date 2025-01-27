@@ -1,0 +1,48 @@
+1. Sci Rep. 2014 Oct 6;4:6522. doi: 10.1038/srep06522.
+
+Diversity in ATP concentrations in a single bacterial cell population revealed 
+by quantitative single-cell imaging.
+
+Yaginuma H(1), Kawai S(2), Tabata KV(3), Tomiyama K(4), Kakizuka A(5), 
+Komatsuzaki T(6), Noji H(7), Imamura H(8).
+
+Author information:
+(1)1] Graduate School of Engineering, the University of Tokyo, Japan [2] 
+Graduate School of Frontier Biosciences, Osaka University, Japan [3] CREST, JST, 
+Japan [4] QBiC, RIKEN, Japan.
+(2)1] Research Institute for Electronic Science, Hokkaido University, Japan [2] 
+Faculty of Science, Shizuoka University.
+(3)1] Graduate School of Engineering, the University of Tokyo, Japan [2] PRESTO, 
+JST, Japan.
+(4)Graduate School of Frontier Biosciences, Osaka University, Japan.
+(5)Graduate School of Biostudies, Kyoto University, Japan.
+(6)Research Institute for Electronic Science, Hokkaido University, Japan.
+(7)1] Graduate School of Engineering, the University of Tokyo, Japan [2] 
+Graduate School of Frontier Biosciences, Osaka University, Japan [3] CREST, JST, 
+Japan.
+(8)1] Graduate School of Biostudies, Kyoto University, Japan [2] The Hakubi 
+Center for Advanced Research, Kyoto University, Japan.
+
+Recent advances in quantitative single-cell analysis revealed large diversity in 
+gene expression levels between individual cells, which could affect the 
+physiology and/or fate of each cell. In contrast, for most metabolites, the 
+concentrations were only measureable as ensemble averages of many cells. In 
+living cells, adenosine triphosphate (ATP) is a critically important metabolite 
+that powers many intracellular reactions. Quantitative measurement of the 
+absolute ATP concentration in individual cells has not been achieved because of 
+the lack of reliable methods. In this study, we developed a new 
+genetically-encoded ratiometric fluorescent ATP indicator "QUEEN", which is 
+composed of a single circularly-permuted fluorescent protein and a bacterial ATP 
+binding protein. Unlike previous FRET-based indicators, QUEEN was apparently 
+insensitive to bacteria growth rate changes. Importantly, intracellular ATP 
+concentrations of numbers of bacterial cells calculated from QUEEN fluorescence 
+were almost equal to those from firefly luciferase assay. Thus, QUEEN is 
+suitable for quantifying the absolute ATP concentration inside bacteria cells. 
+Finally, we found that, even for a genetically-identical Escherichia coli cell 
+population, absolute concentrations of intracellular ATP were significantly 
+diverse between individual cells from the same culture, by imaging QUEEN signals 
+from single cells.
+
+DOI: 10.1038/srep06522
+PMCID: PMC4185378
+PMID: 25283467 [Indexed for MEDLINE]

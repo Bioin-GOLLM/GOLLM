@@ -1,0 +1,40 @@
+1. J Chem Theory Comput. 2019 Nov 12;15(11):5872-5882. doi: 
+10.1021/acs.jctc.9b00742. Epub 2019 Oct 24.
+
+Solvation Free Energy as a Measure of Hydrophobicity: Application to Serine 
+Protease Binding Interfaces.
+
+Kraml J(1), Kamenik AS(1), Waibl F(1), Schauperl M(2), Liedl KR(1).
+
+Author information:
+(1)Institute of General, Inorganic and Theoretical Chemistry and Center for 
+Molecular Biosciences Innsbruck (CMBI) , University of Innsbruck , Innsbruck 
+6020 , Austria.
+(2)Skaggs School of Pharmacy and Pharmaceutical Sciences , University of 
+California, San Diego , La Jolla , California 92039-0736 , United States.
+
+Solvation and hydrophobicity play a key role in a variety of biological 
+mechanisms. In substrate binding, but also in structure-based drug design, the 
+thermodynamic properties of water molecules surrounding a given protein are of 
+high interest. One of the main algorithms devised in recent years to quantify 
+thermodynamic properties of water is the grid inhomogeneous solvation theory 
+(GIST), which calculates these features on a grid surrounding the protein. 
+Despite the inherent advantages of GIST, the computational demand is a major 
+drawback, as calculations for larger systems can take days or even weeks. Here, 
+we present a GPU accelerated version of the GIST algorithm, which facilitates 
+efficient estimates of solvation free energy even of large biomolecular 
+interfaces. Furthermore, we show that GIST can be used as a reliable tool to 
+evaluate protein surface hydrophobicity. We apply the approach on a set of nine 
+different proteases calculating localized solvation free energies on the surface 
+of the binding interfaces as a measure of their hydrophobicity. We find a 
+compelling agreement with the hydrophobicity of their substrates, i.e., 
+peptides, binding into the binding cleft, and thus our approach provides a 
+reliable description of hydrophobicity characteristics of these biological 
+interfaces.
+
+DOI: 10.1021/acs.jctc.9b00742
+PMCID: PMC7032847
+PMID: 31589427 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

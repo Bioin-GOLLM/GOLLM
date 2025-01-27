@@ -1,0 +1,38 @@
+1. PLoS Comput Biol. 2016 Oct 25;12(10):e1005075. doi: 
+10.1371/journal.pcbi.1005075. eCollection 2016 Oct.
+
+Viral RNA Degradation and Diffusion Act as a Bottleneck for the Influenza A 
+Virus Infection Efficiency.
+
+Schelker M(1), Mair CM(2), Jolmes F(2), Welke RW(2), Klipp E(1), Herrmann 
+A(2)(3), Flöttmann M(1), Sieben C(2).
+
+Author information:
+(1)Theoretical Biophysics, Humboldt-Universität zu Berlin, Berlin, Germany.
+(2)Molecular Biophysics, Humboldt-Universität zu Berlin, Berlin, Germany.
+(3)IRI Life Sciences, Humboldt-Universität zu Berlin, Berlin, Germany.
+
+After endocytic uptake, influenza viruses transit early endosomal compartments 
+and eventually reach late endosomes. There, the viral glycoprotein hemagglutinin 
+(HA) triggers fusion between endosomal and viral membrane, a critical step that 
+leads to release of the viral segmented genome destined to reach the cell 
+nucleus. Endosomal maturation is a complex process involving acidification of 
+the endosomal lumen as well as endosome motility along microtubules. While the 
+pH drop is clearly critical for the conformational change and membrane fusion 
+activity of HA, the effect of intracellular transport dynamics on the progress 
+of infection remains largely unclear. In this study, we developed a 
+comprehensive mathematical model accounting for the first steps of influenza 
+virus infection. We calibrated our model with experimental data and challenged 
+its predictions using recombinant viruses with altered pH sensitivity of HA. We 
+identified the time point of virus-endosome fusion and thereby the diffusion 
+distance of the released viral genome to the nucleus as a critical bottleneck 
+for efficient virus infection. Further, we concluded and supported 
+experimentally that the viral RNA is subjected to cytosolic degradation strongly 
+limiting the probability of a successful genome import into the nucleus.
+
+DOI: 10.1371/journal.pcbi.1005075
+PMCID: PMC5079570
+PMID: 27780209 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

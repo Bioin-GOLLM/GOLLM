@@ -1,0 +1,38 @@
+1. ACS Synth Biol. 2022 Apr 15;11(4):1627-1638. doi: 10.1021/acssynbio.2c00033. 
+Epub 2022 Apr 7.
+
+Coupling a Live Cell Directed Evolution Assay with Coevolutionary Landscapes to 
+Engineer an Improved Fluorescent Rhodopsin Chloride Sensor.
+
+Chi H, Zhou Q, Tutol JN, Phelps SM, Lee J, Kapadia P, Morcos F, Dodani SC.
+
+Our understanding of chloride in biology has been accelerated through the 
+application of fluorescent protein-based sensors in living cells. These sensors 
+can be generated and diversified to have a range of properties using 
+laboratory-guided evolution. Recently, we established that the fluorescent 
+proton-pumping rhodopsin wtGR from Gloeobacter violaceus can be converted into a 
+fluorescent sensor for chloride. To unlock this non-natural function, a single 
+point mutation at the Schiff counterion position (D121V) was introduced into 
+wtGR fused to cyan fluorescent protein (CFP) resulting in GR1-CFP. Here, we have 
+integrated coevolutionary analysis with directed evolution to understand how the 
+rhodopsin sequence space can be explored and engineered to improve this starting 
+point. We first show how evolutionary couplings are predictive of functional 
+sites in the rhodopsin family and how a fitness metric based on a sequence can 
+be used to quantify the known proton-pumping activities of GR-CFP variants. 
+Then, we couple this ability to predict potential functional outcomes with a 
+screening and selection assay in live Escherichia coli to reduce the mutational 
+search space of five residues along the proton-pumping pathway in GR1-CFP. This 
+iterative selection process results in GR2-CFP with four additional mutations: 
+E132K, A84K, T125C, and V245I. Finally, bulk and single fluorescence 
+measurements in live E. coli reveal that GR2-CFP is a reversible, ratiometric 
+fluorescent sensor for extracellular chloride with an improved dynamic range. We 
+anticipate that our framework will be applicable to other systems, providing a 
+more efficient methodology to engineer fluorescent protein-based sensors with 
+desired properties.
+
+DOI: 10.1021/acssynbio.2c00033
+PMCID: PMC9184236
+PMID: 35389621 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

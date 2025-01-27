@@ -1,0 +1,47 @@
+1. PLoS Comput Biol. 2008 Feb 29;4(2):e1000015. doi:
+10.1371/journal.pcbi.1000015.
+
+Mutations of different molecular origins exhibit contrasting patterns of 
+regional substitution rate variation.
+
+Elango N(1), Kim SH, Vigoda E, Yi SV.
+
+Author information:
+(1)School of Biology, Georgia Institute of Technology, Atlanta, Georgia, USA.
+
+Transitions at CpG dinucleotides, referred to as "CpG substitutions", are a 
+major mutational input into vertebrate genomes and a leading cause of human 
+genetic disease. The prevalence of CpG substitutions is due to their mutational 
+origin, which is dependent on DNA methylation. In comparison, other single 
+nucleotide substitutions (for example those occurring at GpC dinucleotides) 
+mainly arise from errors during DNA replication. Here we analyzed high quality 
+BAC-based data from human, chimpanzee, and baboon to investigate regional 
+variation of CpG substitution rates. We show that CpG substitutions occur 
+approximately 15 times more frequently than other single nucleotide 
+substitutions in primate genomes, and that they exhibit substantial regional 
+variation. Patterns of CpG rate variation are consistent with differences in 
+methylation level and susceptibility to subsequent deamination. In particular, 
+we propose a "distance-decaying" hypothesis, positing that due to the molecular 
+mechanism of a CpG substitution, rates are correlated with the stability of 
+double-stranded DNA surrounding each CpG dinucleotide, and the effect of local 
+DNA stability may decrease with distance from the CpG dinucleotide.Consistent 
+with our "distance-decaying" hypothesis, rates of CpG substitution are strongly 
+(negatively) correlated with regional G+C content. The influence of G+C content 
+decays as the distance from the target CpG site increases. We estimate that the 
+influence of local G+C content extends up to 1,500 approximately 2,000 bps 
+centered on each CpG site. We also show that the distance-decaying relationship 
+persisted when we controlled for the effect of long-range homogeneity of 
+nucleotide composition. GpC sites, in contrast, do not exhibit such 
+"distance-decaying" relationship. Our results highlight an example of the 
+distinctive properties of methylation-dependent substitutions versus 
+substitutions mostly arising from errors during DNA replication. Furthermore, 
+the negative relationship between G+C content and CpG rates may provide an 
+explanation for the observation that GC-rich SINEs show lower CpG rates than 
+other repetitive elements.
+
+DOI: 10.1371/journal.pcbi.1000015
+PMCID: PMC2265638
+PMID: 18463707 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

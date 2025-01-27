@@ -1,0 +1,52 @@
+1. Sci Rep. 2022 Jul 8;12(1):11585. doi: 10.1038/s41598-022-15181-y.
+
+Inhibitor induced conformational changes in SARS-COV-2 papain-like protease.
+
+Ferreira GM(1), Pillaiyar T(2), Hirata MH(1), Poso A(3)(4), Kronenberger 
+T(5)(6)(7)(8).
+
+Author information:
+(1)Department of Clinical and Toxicological Analyses, School of Pharmaceutical 
+Sciences, University of Sao Paulo, Av Prof Lineu Prestes 580, São Paulo, 
+05508-000, Brazil.
+(2)Institute of Pharmacy, Pharmaceutical/Medicinal Chemistry and Tübingen Center 
+for Academic Drug Discovery, Eberhard Karls University Tübingen, Auf der 
+Morgenstelle 8, 72076, Tübingen, Germany.
+(3)Department of Oncology and Pneumonology, Internal Medicine VIII, University 
+Hospital Tübingen, Otfried-Müller-Straße 10, 72076, Tübingen, Germany.
+(4)School of Pharmacy, Faculty of Health Sciences, University of Eastern 
+Finland, 70211, Kuopio, Finland.
+(5)Institute of Pharmacy, Pharmaceutical/Medicinal Chemistry and Tübingen Center 
+for Academic Drug Discovery, Eberhard Karls University Tübingen, Auf der 
+Morgenstelle 8, 72076, Tübingen, Germany. kronenberger7@gmail.com.
+(6)Department of Oncology and Pneumonology, Internal Medicine VIII, University 
+Hospital Tübingen, Otfried-Müller-Straße 10, 72076, Tübingen, Germany. 
+kronenberger7@gmail.com.
+(7)School of Pharmacy, Faculty of Health Sciences, University of Eastern 
+Finland, 70211, Kuopio, Finland. kronenberger7@gmail.com.
+(8)Tübingen Center for Academic Drug Discovery and Development (TüCAD2), 72076, 
+Tübingen, Germany. kronenberger7@gmail.com.
+
+SARS-CoV-2's papain-like protease (PLpro) interaction with ligands has recently 
+been explored with a myriad of crystal structures. We used molecular dynamics 
+(MD) simulations to study different PLpro-ligand complexes, their ligand-induced 
+conformational changes, and interactions. We focused on inhibitors reported with 
+known IC50 against PLpro, namely GRL-0617, XR8-89, PLP_Snyder530, and Sander's 
+recently published compound 7 (CPD7), and compared these trajectories against 
+the apostructure (Apo), with a total of around 60 µs worth simulation data. We 
+aimed to study the conformational changes using molecular dynamics simulations 
+for the inhibitors in the PLpro. PCA analyses and the MSM models revealed 
+distinct conformations of PLpro in the absence/presence of ligands and proposed 
+that BL2-loop contributes to the accessibility of these inhibitors. Further, 
+bulkier substituents closer to Tyr268 and Gln269 could improve inhibition of 
+SARS-CoV-2 PLpro by occupying the region between BL2-groove and BL2-loop, but we 
+also expand on the relevance of exploring multiple PLpro sub-pockets to improve 
+inhibition.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-15181-y
+PMCID: PMC9270405
+PMID: 35803957 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

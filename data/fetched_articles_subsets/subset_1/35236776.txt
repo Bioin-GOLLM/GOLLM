@@ -1,0 +1,43 @@
+1. RNA. 2022 Jun;28(6):781-785. doi: 10.1261/rna.079098.122. Epub 2022 Mar 2.
+
+The limits of human microRNA annotation have been met.
+
+Fromm B(1), Zhong X(2), Tarbier M(3), Friedländer MR(4), Hackenberg M(5)(6)(7).
+
+Author information:
+(1)The Arctic University Museum of Norway, UiT-The Arctic University of Norway, 
+9006 Tromsø, Norway.
+(2)Department of Biosciences and Nutrition, Karolinska Institute, 14183 
+Huddinge, Sweden.
+(3)Science for Life Laboratory, Department of Microbiology, Tumor and Cell 
+Biology, Karolinska Institute, 17165 Solna, Sweden.
+(4)Science for Life Laboratory, Department of Molecular Biosciences, The 
+Wenner-Gren Institute, Stockholm University, 10691 Stockholm, Sweden.
+(5)Department of Genetics, Faculty of Sciences, MNAT Excellence Unit, University 
+of Granada, 18071 Granada, Spain.
+(6)Biotechnology Institute, CIBM, 18100 Armilla (Granada), Spain.
+(7)Biohealth Research Institute (ibs. GRANADA), University Hospitals of Granada, 
+University of Granada, 18014 Granada, Spain.
+
+Over the last few years, the number of microRNAs in the human genome has become 
+a controversially debated issue. Several publications reported thousands of 
+putative novel microRNAs not included in the curated microRNA gene database 
+MirGeneDB and the repository miRBase. Recently, by using sequencing of ∼300 
+human tissues and cell lines, the human RNA atlas, an expanded inventory of 
+human RNA annotations, was published, reporting thousands of putative microRNAs. 
+We, the developers of established microRNA prediction tools and hosts of 
+MirGeneDB, raise concerns about the frequently applied prediction and functional 
+validation strategies, briefly discussing the drawbacks of false positive 
+detections. By means of quantifying well-established biogenesis-derived 
+features, we show that the reported novel microRNAs essentially represent 
+false-positives and argue that the human microRNA complement, at about 550 
+microRNA genes, is already near complete. Output of available tools must be 
+curated as false predictions will misguide scientists looking for biomarkers or 
+therapeutic targets.
+
+© 2022 Fromm et al.; Published by Cold Spring Harbor Laboratory Press for the 
+RNA Society.
+
+DOI: 10.1261/rna.079098.122
+PMCID: PMC9074900
+PMID: 35236776 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. Entropy (Basel). 2021 May 20;23(5):638. doi: 10.3390/e23050638.
+
+Improvement of Contact Tracing with Citizen's Distributed Risk Maps.
+
+Rebollo M(1)(2), Benito RM(2), Losada JC(2), Galeano J(2).
+
+Author information:
+(1)VRAIn-Valencian Research Institute for Artificial Intelligence, Universitat 
+Politècnica de València, 46022 Valencia, Spain.
+(2)Complex Systems Group, Universidad Politécnica de Madrid, 28040 Madrid, 
+Spain.
+
+The rapid spread of COVID-19 has demonstrated the need for accurate information 
+to contain its diffusion. Technological solutions are a complement that can help 
+citizens to be informed about the risk in their environment. Although measures 
+such as contact traceability have been successful in some countries, their use 
+raises society's resistance. This paper proposes a variation of the consensus 
+processes in directed networks to create a risk map of a determined area. The 
+process shares information with trusted contacts: people we would notify in the 
+case of being infected. When the process converges, each participant would have 
+obtained the risk map for the selected zone. The results are compared with the 
+pilot project's impact testing of the Spanish contact tracing app (RadarCOVID). 
+The paper also depicts the results combining both strategies: contact tracing to 
+detect potential infections and risk maps to avoid movements into conflictive 
+areas. Although some works affirm that contact tracing apps need 60% of users to 
+control the propagation, our results indicate that a 40% could be enough. On the 
+other hand, the elaboration of risk maps could work with only 20% of active 
+installations, but the effect is to delay the propagation instead of reducing 
+the contagion. With both active strategies, this methodology is able to 
+significantly reduce infected people with fewer participants.
+
+DOI: 10.3390/e23050638
+PMCID: PMC8160685
+PMID: 34065581
+
+Conflict of interest statement: The funders had no role in the design of the 
+study; in the collection, analyses, or interpretation of data; in the writing of 
+the manuscript, or in the decision to publish the results.

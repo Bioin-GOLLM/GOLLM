@@ -1,0 +1,59 @@
+1. BMC Genomics. 2021 Nov 14;22(1):822. doi: 10.1186/s12864-021-08115-x.
+
+Testing assembly strategies of Francisella tularensis genomes to infer an 
+evolutionary conservation analysis of genomic structures.
+
+Neubert K(1)(2), Zuchantke E(3), Leidenfrost RM(4), Wünschiers R(4), Grützke 
+J(2), Malorny B(2), Brendebach H(2), Al Dahouk S(2), Homeier T(5), Hotzel H(3), 
+Reinert K(1), Tomaso H(3), Busch A(6)(7).
+
+Author information:
+(1)Department of Mathematics and Computer Science, Algorithmic Bioinformatics, 
+Freie Universität Berlin, Institute of Computer Science, Takustr. 9, 14195, 
+Berlin, Germany.
+(2)German Federal Institute for Risk Assessment, Diedersdorfer Weg 1, 12277, 
+Berlin, Germany.
+(3)Friedrich-Loeffler-Institut, Institute of Bacterial Infections and Zoonoses, 
+Naumburger Str. 96a, 07749, Jena, Germany.
+(4)Department of Biotechnology and Chemistry, Mittweida University of Applied 
+Sciences, Technikumplatz 17a, 09648, Mittweida, Germany.
+(5)Friedrich-Loeffler-Institut, Institute of Epidemiology, Südufer, 10 17493, 
+Greifswald, Insel Riems, Germany.
+(6)Friedrich-Loeffler-Institut, Institute of Bacterial Infections and Zoonoses, 
+Naumburger Str. 96a, 07749, Jena, Germany. anne.busch@fli.de.
+(7)Department of Anaesthesiology and Intensive Care Medicine, University 
+Hospital Jena, Jena, Germany. anne.busch@fli.de.
+
+Erratum in
+    BMC Genomics. 2021 Dec 14;22(1):895. doi: 10.1186/s12864-021-08208-7.
+
+BACKGROUND: We benchmarked sequencing technology and assembly strategies for 
+short-read, long-read, and hybrid assemblers in respect to correctness, 
+contiguity, and completeness of assemblies in genomes of Francisella tularensis. 
+Benchmarking allowed in-depth analyses of genomic structures of the Francisella 
+pathogenicity islands and insertion sequences. Five major high-throughput 
+sequencing technologies were applied, including next-generation "short-read" and 
+third-generation "long-read" sequencing methods.
+RESULTS: We focused on short-read assemblers, hybrid assemblers, and analysis of 
+the genomic structure with particular emphasis on insertion sequences and the 
+Francisella pathogenicity island. The A5-miseq pipeline performed best for MiSeq 
+data, Mira for Ion Torrent data, and ABySS for HiSeq data from eight short-read 
+assembly methods. Two approaches were applied to benchmark long-read and hybrid 
+assembly strategies: long-read-first assembly followed by correction with short 
+reads (Canu/Pilon, Flye/Pilon) and short-read-first assembly along with 
+scaffolding based on long reads (Unicyler, SPAdes). Hybrid assembly can resolve 
+large repetitive regions best with a "long-read first" approach.
+CONCLUSIONS: Genomic structures of the Francisella pathogenicity islands 
+frequently showed misassembly. Insertion sequences (IS) could be used to perform 
+an evolutionary conservation analysis. A phylogenetic structure of insertion 
+sequences and the evolution within the clades elucidated the clade structure of 
+the highly conservative F. tularensis.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-08115-x
+PMCID: PMC8590783
+PMID: 34773979 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,49 @@
+1. BMC Genomics. 2010 Aug 6;11:465. doi: 10.1186/1471-2164-11-465.
+
+Distributed probing of chromatin structure in vivo reveals pervasive chromatin 
+accessibility for expressed and non-expressed genes during tissue 
+differentiation in C. elegans.
+
+Sha K(1), Gu SG, Pantalena-Filho LC, Goh A, Fleenor J, Blanchard D, Krishna C, 
+Fire A.
+
+Author information:
+(1)Depts, of Pathology and Genetics, Stanford University School of Medicine, 300 
+Pasteur Drive, Palo Alto CA, USA.
+
+BACKGROUND: Tissue differentiation is accompanied by genome-wide changes in the 
+underlying chromatin structure and dynamics, or epigenome. By controlling when, 
+where, and what regulatory factors have access to the underlying genomic DNA, 
+the epigenome influences the cell's transcriptome and ultimately its function. 
+Existing genomic methods for analyzing cell-type-specific changes in chromatin 
+generally involve two elements: (i) a source for purified cells (or nuclei) of 
+distinct types, and (ii) a specific treatment that partitions or degrades 
+chromatin by activity or structural features. For many cell types of great 
+interest, such assays are limited by our inability to isolate the relevant cell 
+populations in an organism or complex tissue containing an intertwined mixture 
+of other cells. This limitation has confined available knowledge of chromatin 
+dynamics to a narrow range of biological systems (cell types that can be 
+sorted/separated/dissected in large numbers and tissue culture models) or to 
+amalgamations of diverse cell types (tissue chunks, whole organisms).
+RESULTS: Transgene-driven expression of DNA/chromatin modifying enzymes provides 
+one opportunity to query chromatin structures in expression-defined cell 
+subsets. In this work we combine in vivo expression of a bacterial DNA adenine 
+methyltransferase (DAM) with high throughput sequencing to sample 
+tissue-specific chromatin accessibility on a genome-wide scale. We have applied 
+the method (DALEC: Direct Asymmetric Ligation End Capture) towards mapping a 
+cell-type-specific view of genome accessibility as a function of differentiated 
+state. Taking advantage of C. elegans strains expressing the DAM enzyme in 
+diverse tissues (body wall muscle, gut, and hypodermis), our efforts yield a 
+genome-wide dataset measuring chromatin accessibility at each of 538,000 DAM 
+target sites in the C. elegans (diploid) genome.
+CONCLUSIONS: Validating the DALEC mapping results, we observe a strong 
+association between observed coverage by nucleosomes and low DAM accessibility. 
+Strikingly, we observed no extended regions of inaccessible chromatin for any of 
+the tissues examined. These results are consistent with "local choreography" 
+models in which differential gene expression is driven by intricate local 
+rearrangements of chromatin structure rather than gross impenetrability of large 
+chromosomal regions.
+
+DOI: 10.1186/1471-2164-11-465
+PMCID: PMC3091661
+PMID: 20691096 [Indexed for MEDLINE]

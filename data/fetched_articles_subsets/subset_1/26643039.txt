@@ -1,0 +1,41 @@
+1. Genome Med. 2015 Dec 7;7:127. doi: 10.1186/s13073-015-0251-2.
+
+ScanIndel: a hybrid framework for indel detection via gapped alignment, split 
+reads and de novo assembly.
+
+Yang R(1), Nelson AC(2), Henzler C(3), Thyagarajan B(4), Silverstein KA(5).
+
+Author information:
+(1)Supercomputing Institute for Advanced Computational Research, University of 
+Minnesota, 117 Pleasant St. SE, RM 541, Minneapolis, MN, 55455, USA. 
+yang4414@umn.edu.
+(2)Department of Laboratory Medicine and Pathology, University of Minnesota, 
+Minneapolis, MN, 55455, USA. nels2055@umn.edu.
+(3)Supercomputing Institute for Advanced Computational Research, University of 
+Minnesota, 117 Pleasant St. SE, RM 541, Minneapolis, MN, 55455, USA. 
+chenzler@umn.edu.
+(4)Department of Laboratory Medicine and Pathology, University of Minnesota, 
+Minneapolis, MN, 55455, USA. thya0003@umn.edu.
+(5)Supercomputing Institute for Advanced Computational Research, University of 
+Minnesota, 117 Pleasant St. SE, RM 541, Minneapolis, MN, 55455, USA. 
+kats@umn.edu.
+
+Comprehensive identification of insertions/deletions (indels) across the full 
+size spectrum from second generation sequencing is challenging due to the 
+relatively short read length inherent in the technology. Different indel calling 
+methods exist but are limited in detection to specific sizes with varying 
+accuracy and resolution. We present ScanIndel, an integrated framework for 
+detecting indels with multiple heuristics including gapped alignment, split 
+reads and de novo assembly. Using simulation data, we demonstrate ScanIndel's 
+superior sensitivity and specificity relative to several state-of-the-art indel 
+callers across various coverage levels and indel sizes. ScanIndel yields higher 
+predictive accuracy with lower computational cost compared with existing tools 
+for both targeted resequencing data from tumor specimens and high coverage 
+whole-genome sequencing data from the human NIST standard NA12878. Thus, we 
+anticipate ScanIndel will improve indel analysis in both clinical and research 
+settings. ScanIndel is implemented in Python, and is freely available for 
+academic use at https://github.com/cauyrd/ScanIndel.
+
+DOI: 10.1186/s13073-015-0251-2
+PMCID: PMC4671222
+PMID: 26643039 [Indexed for MEDLINE]

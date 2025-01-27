@@ -1,0 +1,38 @@
+1. Curr Protoc. 2021 Aug;1(8):e226. doi: 10.1002/cpz1.226.
+
+PharmGKB, an Integrated Resource of Pharmacogenomic Knowledge.
+
+Gong L(1), Whirl-Carrillo M(1), Klein TE(1).
+
+Author information:
+(1)Departments of Biomedical Data Science and Medicine (BMIR), Stanford 
+University, Stanford, California.
+
+The Pharmacogenomics Knowledgebase (PharmGKB) is an integrated online knowledge 
+resource for the understanding of how genetic variation contributes to variation 
+in drug response. Our focus includes not only pharmacogenomic information useful 
+for clinical implementation (e.g., drug dosing guidelines and annotated drug 
+labels), but also information to catalyze scientific research and drug discovery 
+(e.g., variant-drug annotations and drug-centered pathways). As of April 2021, 
+the annotated content of PharmGKB spans 715 drugs, 1761 genes, 227 diseases, 165 
+clinical guidelines, and 784 drug labels. We have manually curated data from 
+more than 9000 published papers to generate the content of PharmGKB. Recently, 
+we have also implemented an automated natural language processing (NLP) tool to 
+broaden our coverage of the pharmacogenomic literature. This article contains a 
+basic protocol describing how to navigate the PharmGKB website to retrieve 
+information on how genes and genetic variations affect drug efficacy and 
+toxicity. It also includes a protocol on how to use PharmGKB to facilitate 
+interpretation of findings for a pharmacogenomic variant genotype or metabolizer 
+phenotype. PharmGKB is freely available at http://www.pharmgkb.org. © 2021 Wiley 
+Periodicals LLC. Basic Protocol 1: Navigating the homepage of PharmGKB and 
+searching by drug Basic Protocol 2: Using PharmGKB to facilitate interpretation 
+of pharmacogenomic variant genotypes or metabolizer phenotypes.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/cpz1.226
+PMCID: PMC8650697
+PMID: 34387941 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest The authors declare no 
+conflict of interest.

@@ -1,0 +1,42 @@
+1. J Phys Chem A. 2018 Jul 26;122(29):6147-6155. doi: 10.1021/acs.jpca.8b04418. 
+Epub 2018 Jul 18.
+
+Classical Drude Polarizable Force Field Model for Methyl Phosphate and Its 
+Interactions with Mg(2).
+
+Villa F(1), MacKerell AD Jr(2), Roux B(3)(4), Simonson T(1).
+
+Author information:
+(1)Laboratoire de Biochimie, CNRS UMR7654, Ecole Polytechnique , Palaiseau 91128 
+, France.
+(2)Department of Pharmaceutical Sciences, School of Pharmacy , University of 
+Maryland , Baltimore , Maryland 21201 , United States.
+(3)Department of Biochemistry and Molecular Biology , University of Chicago , 
+Chicago , Illinois 60637 , United States.
+(4)Biosciences Division , Argonne National Laboratory , Argonne , Illinois 60439 
+, United States.
+
+Erratum in
+    J Phys Chem A. 2019 Jan 17;123(2):629. doi: 10.1021/acs.jpca.8b12337.
+
+Phosphate groups are essential components of nucleic acids and proteins, whose 
+interactions with solvent, metal ions, and ionic side chains help control 
+folding and binding. Methyl phosphate (MP) represents a simple analog of 
+phosphate moieties that are post-translation modifications in proteins and 
+present at the termini of nucleic acids, among other environments. In the 
+present study, we optimized parameters for use in polarizable molecular dynamics 
+simulations of MP in its mono- and dianionic forms, MP- ≡ CH3HPO4- and MP2- ≡ 
+CH3PO42-, along with P i2- ≡ HPO42-, in the context of the classical Drude 
+oscillator model. Parameter optimization was done in a manner consistent with 
+the remainder of the Drude molecular mechanics force field, choosing atomic 
+charges and polarizabilities to reproduce molecular properties from quantum 
+mechanics as well as experimental hydration free energies. Optimized parameters 
+were similar to existing dimethyl phosphate parameters, with a few significant 
+differences. The developed parameters were then used to compute magnesium 
+binding affinities in aqueous solution, using alchemical molecular dynamics free 
+energy simulations. Good agreement with experiment was obtained, and outer 
+sphere binding was shown to be predominant for MP- and MP2-.
+
+DOI: 10.1021/acs.jpca.8b04418
+PMCID: PMC6062457
+PMID: 29966419

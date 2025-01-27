@@ -1,0 +1,42 @@
+1. PLoS One. 2017 Jul 21;12(7):e0180922. doi: 10.1371/journal.pone.0180922. 
+eCollection 2017.
+
+Direct targets of pSTAT5 signalling in erythropoiesis.
+
+Gillinder KR(1), Tuckey H(1)(2), Bell CC(1), Magor GW(1), Huang S(1)(2), Ilsley 
+MD(1)(2), Perkins AC(1)(2)(3).
+
+Author information:
+(1)Cancer Genomics Group, Mater Research Institute - University of Queensland, 
+Translational Research Institute, Woolloongabba, Brisbane, Queensland, 
+Australia.
+(2)Faculty of Medicine and Biomedical Sciences, University of Queensland, St. 
+Lucia, Brisbane, Queensland, Australia.
+(3)Princess Alexandra Hospital, Brisbane, Queensland, Australia.
+
+Erythropoietin (EPO) acts through the dimeric erythropoietin receptor to 
+stimulate proliferation, survival, differentiation and enucleation of erythroid 
+progenitor cells. We undertook two complimentary approaches to find 
+EPO-dependent pSTAT5 target genes in murine erythroid cells: RNA-seq of newly 
+transcribed (4sU-labelled) RNA, and ChIP-seq for pSTAT5 30 minutes after EPO 
+stimulation. We found 302 pSTAT5-occupied sites: ~15% of these reside in 
+promoters while the rest reside within intronic enhancers or intergenic regions, 
+some >100kb from the nearest TSS. The majority of pSTAT5 peaks contain a central 
+palindromic GAS element, TTCYXRGAA. There was significant enrichment for GATA 
+motifs and CACCC-box motifs within the neighbourhood of pSTAT5-bound peaks, and 
+GATA1 and/or KLF1 co-occupancy at many sites. Using 4sU-RNA-seq we determined 
+the EPO-induced transcriptome and validated differentially expressed genes using 
+dynamic CAGE data and qRT-PCR. We identified known direct pSTAT5 target genes 
+such as Bcl2l1, Pim1 and Cish, and many new targets likely to be involved in 
+driving erythroid cell differentiation including those involved in mRNA splicing 
+(Rbm25), epigenetic regulation (Suv420h2), and EpoR turnover (Clint1/EpsinR). 
+Some of these new EpoR-JAK2-pSTAT5 target genes could be used as biomarkers for 
+monitoring disease activity in polycythaemia vera, and for monitoring responses 
+to JAK inhibitors.
+
+DOI: 10.1371/journal.pone.0180922
+PMCID: PMC5521770
+PMID: 28732065 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

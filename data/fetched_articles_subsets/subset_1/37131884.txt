@@ -1,0 +1,36 @@
+1. ArXiv [Preprint]. 2023 May 16:arXiv:2304.09667v3.
+
+GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access 
+to Biomedical Information.
+
+Jin Q(1), Yang Y(1)(2), Chen Q(1), Lu Z(1).
+
+Author information:
+(1)National Library of Medicine, National Institutes of Health.
+(2)University of Maryland, College Park.
+
+Update in
+    Bioinformatics. 2024 Feb 1;40(2):btae075. doi: 
+10.1093/bioinformatics/btae075.
+
+While large language models (LLMs) have been successfully applied to various 
+tasks, they still face challenges with hallucinations. Augmenting LLMs with 
+domain-specific tools such as database utilities can facilitate easier and more 
+precise access to specialized knowledge. In this paper, we present GeneGPT, a 
+novel method for teaching LLMs to use the Web APIs of the National Center for 
+Biotechnology Information (NCBI) for answering genomics questions. Specifically, 
+we prompt Codex to solve the GeneTuring tests with NCBI Web APIs by in-context 
+learning and an augmented decoding algorithm that can detect and execute API 
+calls. Experimental results show that GeneGPT achieves state-of-the-art 
+performance on eight tasks in the GeneTuring benchmark with an average score of 
+0.83, largely surpassing retrieval-augmented LLMs such as the new Bing (0.44), 
+biomedical LLMs such as BioMedLM (0.08) and BioGPT (0.04), as well as GPT-3 
+(0.16) and ChatGPT (0.12). Our further analyses suggest that: (1) API 
+demonstrations have good cross-task generalizability and are more useful than 
+documentations for in-context learning; (2) GeneGPT can generalize to longer 
+chains of API calls and answer multi-hop questions in GeneHop, a novel dataset 
+introduced in this work; (3) Different types of errors are enriched in different 
+tasks, providing valuable insights for future improvements.
+
+PMCID: PMC10153281
+PMID: 37131884

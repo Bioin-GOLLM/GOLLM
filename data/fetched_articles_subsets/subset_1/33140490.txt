@@ -1,0 +1,51 @@
+1. Protein Sci. 2021 Jan;30(1):201-217. doi: 10.1002/pro.3986. Epub 2020 Nov 21.
+
+In-depth interrogation of protein thermal unfolding data with MoltenProt.
+
+Kotov V(1)(2)(3), Mlynek G(4), Vesper O(1)(2)(3), Pletzer M(4), Wald J(1)(2)(3), 
+Teixeira-Duarte CM(5), Celia H(6), Garcia-Alai M(1)(7), Nussberger S(8), 
+Buchanan SK(6), Morais-Cabral JH(5), Loew C(1)(7), Djinovic-Carugo K(4)(9), 
+Marlovits TC(1)(2)(3).
+
+Author information:
+(1)Centre for Structural Systems Biology (CSSB), Hamburg, Germany.
+(2)Institute for Structural and Systems Biology, University Medical Center 
+Hamburg-Eppendorf (UKE), Hamburg, Germany.
+(3)German Electron Synchrotron Centre (DESY), Hamburg, Germany.
+(4)Department of Structural and Computational Biology, Max Perutz Labs Vienna, 
+University of Vienna, Vienna, Austria.
+(5)Instituto de Investigação e Inovação em Saúde (i3S) and Instituto de Biologia 
+Molecular e Celular (IBMC), Universidade do Porto, Porto, Portugal.
+(6)Laboratory of Molecular Biology, National Institute of Diabetes & Digestive & 
+Kidney Diseases, National Institutes of Health, Bethesda, Maryland, USA.
+(7)European Molecular Biology Laboratory (EMBL), Hamburg Unit, Hamburg, Germany.
+(8)Department of Biophysics, Institute of Biomaterials and Biomolecular Systems, 
+University of Stuttgart, Stuttgart, Germany.
+(9)Department of Biochemistry, Faculty of Chemistry and Chemical Technology, 
+University of Ljubljana, Ljubljana, Slovenia.
+
+Protein stability is a key factor in successful structural and biochemical 
+research. However, the approaches for systematic comparison of protein stability 
+are limited by sample consumption or compatibility with sample buffer 
+components. Here we describe how miniaturized measurement of intrinsic 
+tryptophan fluorescence (NanoDSF assay) in combination with a simplified 
+description of protein unfolding can be used to interrogate the stability of a 
+protein sample. We demonstrate that improved protein stability measures, such as 
+apparent Gibbs free energy of unfolding, rather than melting temperature Tm , 
+should be used to rank the results of thermostability screens. The assay is 
+compatible with protein samples of any composition, including protein complexes 
+and membrane proteins. Our data analysis software, MoltenProt, provides an easy 
+and robust way to perform characterization of multiple samples. Potential 
+applications of MoltenProt and NanoDSF include buffer and construct optimization 
+for X-ray crystallography and cryo-electron microscopy, screening for 
+small-molecule binding partners and comparison of effects of point mutations.
+
+© 2020 The Authors. Protein Science published by Wiley Periodicals LLC on behalf 
+of The Protein Society.
+
+DOI: 10.1002/pro.3986
+PMCID: PMC7737771
+PMID: 33140490 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.
