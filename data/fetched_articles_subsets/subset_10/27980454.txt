@@ -1,0 +1,75 @@
+1. Cancer Cell Int. 2016 Dec 1;16:89. doi: 10.1186/s12935-016-0366-6. eCollection
+ 2016.
+
+Comprehensive analysis of the long noncoding RNA HOXA11-AS gene interaction 
+regulatory network in NSCLC cells.
+
+Zhang Y(#)(1), He RQ(#)(2), Dang YW(1), Zhang XL(1), Wang X(3), Huang SN(4), 
+Huang WT(1), Jiang MT(1), Gan XN(1), Xie Y(1), Li P(1), Luo DZ(1), Chen G(#)(1), 
+Gan TQ(#)(2).
+
+Author information:
+(1)Department of Pathology, First Affiliated Hospital of Guangxi Medical 
+University, No. 6 Shuangyong Road, Guangxi Zhuang Autonomous Region, Nanning, 
+530021 People's Republic of China.
+(2)Department of Medical Oncology, First Affiliated Hospital of Guangxi Medical 
+University, No. 6 Shuangyong Road, Guangxi Zhuang Autonomous Region, Nanning, 
+530021 People's Republic of China.
+(3)Department of Orthopedics, China-Japan Union Hospital of Jilin University, 2 
+Sendai Street, Changchun, 130033 People's Republic of China.
+(4)Department of Radiotherapy, First Affiliated Hospital of Guangxi Medical 
+University, No. 6 Shuangyong Road, Guangxi Zhuang Autonomous Region, Nanning, 
+530021 People's Republic of China.
+(#)Contributed equally
+
+BACKGROUND: Long noncoding RNAs (lncRNAs) are related to different biological 
+processes in non-small cell lung cancer (NSCLC). However, the possible molecular 
+mechanisms underlying the effects of the long noncoding RNA HOXA11-AS (HOXA11 
+antisense RNA) in NSCLC are unknown.
+METHODS: HOXA11-AS was knocked down in the NSCLC A549 cell line and a high 
+throughput microarray assay was applied to detect changes in the gene profiles 
+of the A549 cells. Bioinformatics analyses (gene ontology (GO), pathway, Kyoto 
+Encyclopedia of Genes and Genomes (KEGG), and network analyses) were performed 
+to investigate the potential pathways and networks of the differentially 
+expressed genes. The molecular signatures database (MSigDB) was used to display 
+the expression profiles of these differentially expressed genes. Furthermore, 
+the relationships between the HOXA11-AS, de-regulated genes and clinical NSCLC 
+parameters were verified by using NSCLC patient information from The Cancer 
+Genome Atlas (TCGA) database. In addition, the relationship between HOXA11-AS 
+expression and clinical diagnostic value was analyzed by receiver operating 
+characteristic (ROC) curve.
+RESULTS: Among the differentially expressed genes, 277 and 80 genes were 
+upregulated and downregulated in NSCLC, respectively (fold change ≥2.0, P < 0.05 
+and false discovery rate (FDR) < 0.05). According to the degree of the fold 
+change, six upregulated and three downregulated genes were selected for further 
+investigation. Only four genes (RSPO3, ADAMTS8, DMBT1, and DOCK8) were reported 
+to be related with the development or progression of NSCLC based on a PubMed 
+search. Among all possible pathways, three pathways (the PI3K-Akt, TGF-beta and 
+Hippo signaling pathways) were the most likely to be involved in NSCLC 
+development and progression. Furthermore, we found that HOXA11-AS was highly 
+expressed in both lung adenocarcinoma and squamous cell carcinoma based on TCGA 
+database. The ROC curve showed that the area under curve (AUC) of HOXA11-AS was 
+0.727 (95% CI 0.663-0.790) for lung adenocarcinoma and 0.933 (95% CI 
+0.906-0.960) for squamous cell carcinoma patients. Additionally, the original 
+data from TCGA verified that ADAMTS8, DMBT1 and DOCK8 were downregulated in both 
+lung adenocarcinoma and squamous cell carcinoma, whereas RSPO3 expression was 
+upregulated in lung adenocarcinoma and downregulated in lung squamous cell 
+carcinoma. For the other five genes (STMN2, SPINK6, TUSC3, LOC100128054, and 
+C8orf22), we found that STMN2, TUSC3 and C8orf22 were upregulated in squamous 
+cell carcinoma and that STMN2 and USC3 were upregulated in lung adenocarcinoma. 
+Furthermore, we compared the correlation between HOXA11-AS and de-regulated 
+genes in NSCLC based on TCGA. The results showed that the HOXA11-AS expression 
+was negatively correlated with DOCK8 in squamous cell carcinoma (r = -0.124, 
+P = 0.048) and lung adenocarcinoma (r = -0.176, P = 0.005). In addition, RSPO3, 
+ADAMTS8 and DOCK8 were related to overall survival and disease-free survival 
+(all P < 0.05) of lung adenocarcinoma patients in TCGA.
+CONCLUSIONS: Our results showed that the gene profiles were significantly 
+changed after HOXA11-AS knock-down in NSCLC cells. We speculated that HOXA11-AS 
+may play an important role in NSCLC development and progression by regulating 
+the expression of various pathways and genes, especially DOCK8 and TGF-beta 
+pathway. However, the exact mechanism should be verified by functional 
+experiments.
+
+DOI: 10.1186/s12935-016-0366-6
+PMCID: PMC5133743
+PMID: 27980454

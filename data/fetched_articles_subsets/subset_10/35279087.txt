@@ -1,0 +1,61 @@
+1. BMC Genomics. 2022 Mar 12;23(1):199. doi: 10.1186/s12864-022-08419-6.
+
+Genome-wide investigation of maize RAD51 binding affinity through phage display.
+
+Milsted C(#)(1)(2), Dai B(#)(2), Garcia N(2)(3), Yin L(1)(2), He Y(4)(5), 
+Kianian S(2)(6), Pawlowski W(4), Chen C(7)(8).
+
+Author information:
+(1)School of Life Sciences, Arizona State University, 427 E Tyler Mall, Tempe, 
+AZ, 85287, USA.
+(2)Department of Horticultural Science, University of Minnesota, 1970 Folwell 
+Avenue, St. Paul, MN, 55108, USA.
+(3)Calyxt Inc, 2800 Mount Ridge Rd, Roseville, MN, 55113, USA.
+(4)School of Integrative Plant Science, Cornell University, 401 Bradfield Hall, 
+Ithaca, NY, 14853, USA.
+(5)National Maize Improvement Center of China, College of Agronomy and 
+Biotechnology, China Agricultural University, Beijing, 100094, China.
+(6)Cereal Disease Lab, USDA-ARS, St. Paul, MN, 55108, USA.
+(7)School of Life Sciences, Arizona State University, 427 E Tyler Mall, Tempe, 
+AZ, 85287, USA. cchen347@asu.edu.
+(8)Department of Horticultural Science, University of Minnesota, 1970 Folwell 
+Avenue, St. Paul, MN, 55108, USA. cchen347@asu.edu.
+(#)Contributed equally
+
+BACKGROUND: RAD51 proteins, which are conserved in all eukaryotes, repair DNA 
+double-strand breaks. This is critical to homologous chromosome pairing and 
+recombination enabling successful reproduction. Work in Arabidopsis suggests 
+that RAD51 also plays a role in plant defense; the Arabidopsis rad51 mutant is 
+more susceptible to Pseudomonas syringae. However, the defense functions of 
+RAD51 and the proteins interacting with RAD51 have not been thoroughly 
+investigated in maize. Uncovering ligands of RAD51 would help to understand 
+meiotic recombination and possibly the role of RAD51 in defense. This study used 
+phage display, a tool for discovery of protein-protein interactions, to search 
+for proteins interacting with maize RAD51A1.
+RESULTS: Maize RAD51A1 was screened against a random phage library. Eleven short 
+peptide sequences were recovered from 15 phages which bound ZmRAD51A1 in vitro; 
+three sequences were found in multiple successfully binding phages. Nine of 
+these phage interactions were verified in vitro through ELISA and/or dot 
+blotting. BLAST searches did not reveal any maize proteins which contained the 
+exact sequence of any of the selected phage peptides, although one of the 
+selected phages had a strong alignment (E-value = 0.079) to a binding domain of 
+maize BRCA2. Therefore, we designed 32 additional short peptides using amino 
+acid sequences found in the predicted maize proteome. These peptides were not 
+contained within phages. Of these synthesized peptides, 14 bound to ZmRAD51A1 in 
+a dot blot experiment. These 14 sequences are found in known maize proteins 
+including transcription factors putatively involved in defense.
+CONCLUSIONS: These results reveal several peptides which bind ZmRAD51A1 and 
+support a potential role for ZmRAD51A1 in transcriptional regulation and plant 
+defense. This study also demonstrates the applicability of phage display to 
+basic science questions, such as the search for binding partners of a known 
+protein, and raises the possibility of an iterated approach to test peptide 
+sequences that closely but imperfectly align with the selected phages.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12864-022-08419-6
+PMCID: PMC8917730
+PMID: 35279087 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

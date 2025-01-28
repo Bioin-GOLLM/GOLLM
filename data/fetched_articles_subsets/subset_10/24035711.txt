@@ -1,0 +1,28 @@
+1. Structure. 2013 Oct 8;21(10):1735-42. doi: 10.1016/j.str.2013.08.005. Epub
+2013  Sep 12.
+
+High-resolution comparative modeling with RosettaCM.
+
+Song Y(1), DiMaio F, Wang RY, Kim D, Miles C, Brunette T, Thompson J, Baker D.
+
+Author information:
+(1)Department of Biochemistry, University of Washington, Seattle, WA 98195, USA.
+
+We describe an improved method for comparative modeling, RosettaCM, which 
+optimizes a physically realistic all-atom energy function over the 
+conformational space defined by homologous structures. Given a set of sequence 
+alignments, RosettaCM assembles topologies by recombining aligned segments in 
+Cartesian space and building unaligned regions de novo in torsion space. The 
+junctions between segments are regularized using a loop closure method combining 
+fragment superposition with gradient-based minimization. The energies of the 
+resulting models are optimized by all-atom refinement, and the most 
+representative low-energy model is selected. The CASP10 experiment suggests that 
+RosettaCM yields models with more accurate side-chain and backbone conformations 
+than other methods when the sequence identity to the templates is greater than 
+∼15%.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.str.2013.08.005
+PMCID: PMC3811137
+PMID: 24035711 [Indexed for MEDLINE]

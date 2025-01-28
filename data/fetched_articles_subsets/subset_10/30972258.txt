@@ -1,0 +1,48 @@
+1. PeerJ. 2019 Apr 2;7:e6683. doi: 10.7717/peerj.6683. eCollection 2019.
+
+LncRNA MIR4435-2HG predicts poor prognosis in patients with colorectal cancer.
+
+Ouyang W(1), Ren L(2), Liu G(2), Chi X(2), Wei H(2).
+
+Author information:
+(1)The Second Clinical Medical College, Zhujiang Hospital, Southern Medical 
+University, Guangzhou, Guangdong, China.
+(2)Department of Gastroenterology, Affiliated hospital of Qingdao University, 
+Qingdao, Shandong, China.
+
+BACKGROUND: LncRNA MIR4435-2HG is observed in a variety of cancers, while its 
+role in colorectal cancer is unknown. We aimed to demonstrate the relationship 
+between MIR4435-2HG and colorectal cancer based on The Cancer Genome Atlas 
+(TCGA) database.
+MATERIALS AND METHODS: Patients with colorectal cancer were collected from TCGA. 
+We compared the expression of MIR4435-2HG in colorectal cancer and normal 
+tissues with Wilcoxon rank sum test, and logistic regression was used to 
+evaluate the relationship between MIR4435-2HG and clinicopathological 
+characters. Moreover, Kaplan-Meier and Cox regression was performed to evaluate 
+the correlation between MIR4435-2HG and survival rate. Gene set enrichment 
+analysis (GSEA) was also conducted to annotate biological function of 
+MIR4435-2HG.
+RESULTS: MIR4435-2HG level was elevated in colorectal cancer tissues. Increased 
+level of MIR4435-2HG was significantly correlated with TNM stage (OR = 1.66 for 
+T1/T2 vs. T3/T4; OR = 1.68 for N0 vs. N1/N2), stage (OR = 1.66 for stage 1/2 vs. 
+stage 3/4), and carcinoembryonic antigen level before treatment (OR = 1.70 for 
+<5 vs. ≥5) (all P-value <0.05). High MIR4435-2HG expression had a poorer 
+progression-free survival (p = 0.048), and overall survival (OS) (P = 0.028), 
+which were validated in the GSE92921 and GSE29621 datasets. MIR4435-2HG 
+expression (P = 0.040, HR = 1.955 (95% CI [1.031-3.710])) was independently 
+correlated with OS. GSEA demonstrated that the P38/MAPK pathway, the VEGF 
+pathway, the cell adhesion molecules cams, the NOD-like receptor signaling 
+pathway, the cell surface interactions at the vascular wall, and integrin cell 
+surface interactions were differentially enriched in MIR4435-2HG high expression 
+phenotype.
+CONCLUSIONS: Increased MIR4435-2HG might be a potential biomarker for the 
+diagnosis and prognosis of colorectal cancer. Moreover, MIR4435-2HG might 
+participate in the development of colorectal cancer via the P38/MAPK and VEGF 
+pathway.
+
+DOI: 10.7717/peerj.6683
+PMCID: PMC6450379
+PMID: 30972258
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,43 @@
+1. PLoS Biol. 2023 Aug 8;21(8):e3002214. doi: 10.1371/journal.pbio.3002214. 
+eCollection 2023 Aug.
+
+Evolutionary safety of lethal mutagenesis driven by antiviral treatment.
+
+Lobinska G(1), Pilpel Y(1), Nowak MA(2).
+
+Author information:
+(1)Department of Molecular Genetics, Weizmann Institute of Science, Rehovot, 
+Israel.
+(2)Department of Mathematics, Department of Organismic and Evolutionary Biology, 
+Harvard University, Cambridge, Massachusetts, United States of America.
+
+Nucleoside analogs are a major class of antiviral drugs. Some act by increasing 
+the viral mutation rate causing lethal mutagenesis of the virus. Their mutagenic 
+capacity, however, may lead to an evolutionary safety concern. We define 
+evolutionary safety as a probabilistic assurance that the treatment will not 
+generate an increased number of mutants. We develop a mathematical framework to 
+estimate the total mutant load produced with and without mutagenic treatment. We 
+predict rates of appearance of such virus mutants as a function of the timing of 
+treatment and the immune competence of patients, employing realistic assumptions 
+about the vulnerability of the viral genome and its potential to generate viable 
+mutants. We focus on the case study of Molnupiravir, which is an FDA-approved 
+treatment against Coronavirus Disease-2019 (COVID-19). We estimate that 
+Molnupiravir is narrowly evolutionarily safe, subject to the current estimate of 
+parameters. Evolutionary safety can be improved by restricting treatment with 
+this drug to individuals with a low immunological clearance rate and, in future, 
+by designing treatments that lead to a greater increase in mutation rate. We 
+report a simple mathematical rule to determine the fold increase in mutation 
+rate required to obtain evolutionary safety that is also applicable to other 
+pathogen-treatment combinations.
+
+Copyright: © 2023 Lobinska et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pbio.3002214
+PMCID: PMC10409280
+PMID: 37552682 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

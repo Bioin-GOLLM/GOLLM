@@ -1,0 +1,45 @@
+1. Mol Biol Evol. 2019 Apr 1;36(4):766-783. doi: 10.1093/molbev/msz016.
+
+Rapid Genetic Code Evolution in Green Algal Mitochondrial Genomes.
+
+Noutahi E(1), Calderon V(2), Blanchette M(3)(4), El-Mabrouk N(1), Lang BF(5).
+
+Author information:
+(1)Département d'Informatique et de Recherche opérationnelle (DIRO), Université 
+de Montréal, CP 6128 succursale Centre-Ville, Montreal, QC, Canada.
+(2)Institut de Recherches Cliniques de Montréal, Montreal, Quebec, Canada.
+(3)School of Computer Science, McGill University, McConnell Engineering Bldg., 
+Montréal, QC H3A 0E9, Canada.
+(4)McGill Centre for Bioinformatics, McGill University, Montréal, QC, Canada.
+(5)Département de Biochimie, Centre Robert Cedergren, Université de Montréal, CP 
+6128 succursale Centre-Ville, Montreal, QC, Canada.
+
+Genetic code deviations involving stop codons have been previously reported in 
+mitochondrial genomes of several green plants (Viridiplantae), most notably 
+chlorophyte algae (Chlorophyta). However, as changes in codon recognition from 
+one amino acid to another are more difficult to infer, such changes might have 
+gone unnoticed in particular lineages with high evolutionary rates that are 
+otherwise prone to codon reassignments. To gain further insight into the 
+evolution of the mitochondrial genetic code in green plants, we have conducted 
+an in-depth study across mtDNAs from 51 green plants (32 chlorophytes and 19 
+streptophytes). Besides confirming known stop-to-sense reassignments, our study 
+documents the first cases of sense-to-sense codon reassignments in Chlorophyta 
+mtDNAs. In several Sphaeropleales, we report the decoding of AGG codons 
+(normally arginine) as alanine, by tRNA(CCU) of various origins that carry the 
+recognition signature for alanine tRNA synthetase. In Chromochloris, we identify 
+tRNA variants decoding AGG as methionine and the synonymous codon CGG as 
+leucine. Finally, we find strong evidence supporting the decoding of AUA codons 
+(normally isoleucine) as methionine in Pycnococcus. Our results rely on a 
+recently developed conceptual framework (CoreTracker) that predicts codon 
+reassignments based on the disparity between DNA sequence (codons) and the 
+derived protein sequence. These predictions are then validated by an evaluation 
+of tRNA phylogeny, to identify the evolution of new tRNAs via gene duplication 
+and loss, and structural modifications that lead to the assignment of new tRNA 
+identities and a change in the genetic code.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the 
+Society for Molecular Biology and Evolution.
+
+DOI: 10.1093/molbev/msz016
+PMCID: PMC6551751
+PMID: 30698742 [Indexed for MEDLINE]

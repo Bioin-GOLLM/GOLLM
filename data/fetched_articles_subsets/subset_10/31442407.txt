@@ -1,0 +1,101 @@
+1. Cell. 2019 Aug 22;178(5):1189-1204.e23. doi: 10.1016/j.cell.2019.07.044.
+
+Systematic Immunotherapy Target Discovery Using Genome-Scale In Vivo CRISPR 
+Screens in CD8 T Cells.
+
+Dong MB(1), Wang G(2), Chow RD(3), Ye L(2), Zhu L(2), Dai X(2), Park JJ(3), Kim 
+HR(2), Errami Y(2), Guzman CD(4), Zhou X(2), Chen KY(5), Renauer PA(6), Du Y(2), 
+Shen J(5), Lam SZ(5), Zhou JJ(5), Lannin DR(7), Herbst RS(8), Chen S(9).
+
+Author information:
+(1)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA; Yale MD-PhD 
+Program, Yale University School of Medicine, New Haven, CT 06510, USA; 
+Immunobiology Program, Yale University School of Medicine, New Haven, CT 06510, 
+USA; Department of Immunobiology, Yale University School of Medicine, New Haven, 
+CT 06510, USA.
+(2)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA.
+(3)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA; Yale MD-PhD 
+Program, Yale University School of Medicine, New Haven, CT 06510, USA.
+(4)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA; Immunobiology 
+Program, Yale University School of Medicine, New Haven, CT 06510, USA; 
+Department of Immunobiology, Yale University School of Medicine, New Haven, CT 
+06510, USA; Combined Program in the Biological and Biomedical Sciences, Yale 
+University School of Medicine, New Haven, CT 06510, USA.
+(5)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA; The College, 
+Yale University, New Haven, CT 06520, USA.
+(6)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA; Combined Program 
+in the Biological and Biomedical Sciences, Yale University School of Medicine, 
+New Haven, CT 06510, USA.
+(7)Department of Surgery, Yale University School of Medicine, New Haven, CT 
+06510, USA; Breast Cancer Program, Yale University School of Medicine, New 
+Haven, CT06510, USA; Smilow Cancer Hospital, 35 Park Street, New Haven, CT 
+06510; Yale Comprehensive Cancer Center, Yale University School of Medicine, New 
+Haven, CT 06510, USA.
+(8)Department of Medicine, Yale University School of Medicine, New Haven, CT 
+06510, USA; Department of Pharmacology, Yale University School of Medicine, New 
+Haven, CT 06510, USA; Smilow Cancer Hospital, 35 Park Street, New Haven, CT 
+06510; Yale Comprehensive Cancer Center, Yale University School of Medicine, New 
+Haven, CT 06510, USA.
+(9)Department of Genetics, Yale University School of Medicine, 333 Cedar Street, 
+New Haven, CT 06520, USA; System Biology Institute, Integrated Science & 
+Technology Center, Yale University, 850 W Campus Drive, West Haven, CT 06516, 
+USA; Center for Cancer Systems Biology, Integrated Science & Technology Center, 
+Yale University, 850 W Campus Drive, West Haven, CT 06516, USA; Yale MD-PhD 
+Program, Yale University School of Medicine, New Haven, CT 06510, USA; 
+Immunobiology Program, Yale University School of Medicine, New Haven, CT 06510, 
+USA; Combined Program in the Biological and Biomedical Sciences, Yale University 
+School of Medicine, New Haven, CT 06510, USA; Yale Comprehensive Cancer Center, 
+Yale University School of Medicine, New Haven, CT 06510, USA; Department of 
+Neurosurgery, Yale University School of Medicine, New Haven, CT 06510, USA; Yale 
+Stem Cell Center, Yale University School of Medicine, New Haven, CT 06510, USA; 
+Yale Liver Center, Yale University School of Medicine, New Haven, CT 06510, USA; 
+Yale Center for Biomedical Data Science, Yale University School of Medicine, New 
+Haven, CT 06510, USA. Electronic address: sidi.chen@yale.edu.
+
+Comment in
+    Nat Rev Cancer. 2019 Nov;19(11):606. doi: 10.1038/s41568-019-0207-8.
+
+CD8 T cells play essential roles in anti-tumor immune responses. Here, we 
+performed genome-scale CRISPR screens in CD8 T cells directly under cancer 
+immunotherapy settings and identified regulators of tumor infiltration and 
+degranulation. The in vivo screen robustly re-identified canonical immunotherapy 
+targets such as PD-1 and Tim-3, along with genes that have not been 
+characterized in T cells. The infiltration and degranulation screens converged 
+on an RNA helicase Dhx37. Dhx37 knockout enhanced the efficacy of 
+antigen-specific CD8 T cells against triple-negative breast cancer in vivo. 
+Immunological characterization in mouse and human CD8 T cells revealed that 
+DHX37 suppresses effector functions, cytokine production, and T cell activation. 
+Transcriptomic profiling and biochemical interrogation revealed a role for DHX37 
+in modulating NF-κB. These data demonstrate high-throughput in vivo genetic 
+screens for immunotherapy target discovery and establishes DHX37 as a functional 
+regulator of CD8 T cells.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2019.07.044
+PMCID: PMC6719679
+PMID: 31442407 [Indexed for MEDLINE]

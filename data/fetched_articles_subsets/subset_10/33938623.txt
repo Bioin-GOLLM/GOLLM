@@ -1,0 +1,50 @@
+1. Am J Med Genet A. 2021 Jul;185(7):2094-2101. doi: 10.1002/ajmg.a.62227. Epub 
+2021 May 3.
+
+Craniofacial features of 3q29 deletion syndrome: Application of next-generation 
+phenotyping technology.
+
+Mak BC(1), Sanchez Russo R(1), Gambello MJ(1)(2), Fleischer N(3), Black ED(1), 
+Leslie E(1), Murphy MM(1); Emory 3q29 Project(1); Mulle JG(1)(4).
+
+Author information:
+(1)Department of Human Genetics, Emory University School, of Medicine, Atlanta, 
+Georgia, USA.
+(2)Department of Pediatrics, Emory University School of Medicine, Atlanta, 
+Georgia, USA.
+(3)FDNA Inc, Boston, Massachusetts, USA.
+(4)Department of Epidemiology, Rollins School of Public Health, Emory 
+University, Atlanta, Georgia, USA.
+
+3q29 deletion syndrome (3q29del) is a recurrent deletion syndrome associated 
+with neuropsychiatric disorders and congenital anomalies. Dysmorphic facial 
+features have been described but not systematically characterized. This study 
+aims to detail the 3q29del craniofacial phenotype and use a machine learning 
+approach to categorize individuals with 3q29del through analysis of 2D photos. 
+Detailed dysmorphology exam and 2D facial photos were ascertained from 31 
+individuals with 3q29del. Photos were used to train the next-generation 
+phenotyping algorithm DeepGestalt (Face2Gene by FDNA, Inc, Boston, MA) to 
+distinguish 3q29del cases from controls and all other recognized syndromes. Area 
+under the curve of receiver operating characteristic curves (AUC-ROC) was used 
+to determine the capacity of Face2Gene to identify 3q29del cases against 
+controls. In this cohort, the most common observed craniofacial features were 
+prominent forehead (48.4%), prominent nose tip (35.5%), and thin upper lip 
+vermillion (25.8%). The FDNA technology showed an ability to distinguish cases 
+from controls with an AUC-ROC value of 0.873 (p = 0.006) and led to the 
+inclusion of 3q29del as one of the supported syndromes. This study found a 
+recognizable facial pattern in 3q29del, as observed by trained clinical 
+geneticists and next-generation phenotyping technology. These results expand the 
+potential application of automated technology such as FDNA in identifying rare 
+genetic syndromes, even when facial dysmorphology is subtle.
+
+© 2021 The Authors. American Journal of Medical Genetics Part A published by 
+Wiley Periodicals LLC.
+
+DOI: 10.1002/ajmg.a.62227
+PMCID: PMC8250870
+PMID: 33938623 [Indexed for MEDLINE]
+
+Conflict of interest statement: NF is a full time employee of FDNA, Inc (Boston, 
+MA). All other authors declare there are no conflicts of interest. The authors 
+confirm that the data supporting the findings of this study are available within 
+the article or its supplementary materials.

@@ -1,0 +1,36 @@
+1. Sensors (Basel). 2022 Dec 29;23(1):358. doi: 10.3390/s23010358.
+
+Coupled Field Analysis of Phenomena in Hybrid Excited Magnetorheological Fluid 
+Brake.
+
+Szelag W(1), Jedryczka C(1), Myszkowski A(2), Wojciechowski RM(1).
+
+Author information:
+(1)Institute of Electrical Engineering and Electronics, Poznan University of 
+Technology, 60-965 Poznan, Poland.
+(2)Institute of Mechanical Technology, Poznan University of Technology, 60-965 
+Poznan, Poland.
+
+The paper presents a field model of coupled phenomena occurring in an 
+axisymmetric magnetorheological brake. The coupling between transient fluid 
+dynamics and electromagnetic and thermal fields as well as mechanical 
+equilibrium equations is taken into account. The magnetic field in the studied 
+brake is of an excited hybrid manner, i.e., by the permanent magnets (PMs) and 
+current Is in the excitation winding. The finite element method and a 
+step-by-step algorithm have been implemented in the proposed field model of 
+coupled phenomena in the considered brake. The nonlinearity of the magnetic 
+circuit and rheological properties of a magnetorheological fluid (MR fluid) as 
+well as the influence of temperature on the properties of materials have been 
+taken into account. To solve equations of the obtained field model, the 
+Newton-Raphson method and the coupled block over-relaxation method have been 
+implemented. The elaborated algorithm has been successfully used in the analysis 
+of the phenomena in the considered magnetorheological brake. The accuracy of the 
+developed model and its usefulness have been verified by a comparative analysis 
+of the results of simulation and laboratory tests carried out for the developed 
+prototype of the studied brake.
+
+DOI: 10.3390/s23010358
+PMCID: PMC9824113
+PMID: 36616957
+
+Conflict of interest statement: The authors declare no conflict of interest.

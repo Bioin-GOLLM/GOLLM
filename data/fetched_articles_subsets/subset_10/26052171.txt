@@ -1,0 +1,27 @@
+1. Chemometr Intell Lab Syst. 2015 Aug;146:42-46. doi: 
+10.1016/j.chemolab.2015.05.005.
+
+Generalized adaptive intelligent binning of multiway data.
+
+Worley B(1), Powers R(1).
+
+Author information:
+(1)Department of Chemistry, University of Nebraska-Lincoln, Lincoln, NE 
+68588-0304.
+
+NMR metabolic fingerprinting methods almost exclusively rely upon the use of 
+one-dimensional (1D) 1H NMR data to gain insights into chemical differences 
+between two or more experimental classes. While 1D 1H NMR spectroscopy is a 
+powerful, highly informative technique that can rapidly and nondestructively 
+report details of complex metabolite mixtures, it suffers from significant 
+signal overlap that hinders interpretation and quantification of individual 
+analytes. Two-dimensional (2D) NMR methods that report heteronuclear 
+connectivities can reduce spectral overlap, but their use in metabolic 
+fingerprinting studies is limited. We describe a generalization of Adaptive 
+Intelligent binning that enables its use on multidimensional datasets, allowing 
+the direct use of nD NMR spectroscopic data in bilinear factorizations such as 
+principal component analysis (PCA) and partial least squares (PLS).
+
+DOI: 10.1016/j.chemolab.2015.05.005
+PMCID: PMC4456038
+PMID: 26052171

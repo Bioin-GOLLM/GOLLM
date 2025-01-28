@@ -1,0 +1,42 @@
+1. PLoS One. 2013 Oct 28;8(10):e76096. doi: 10.1371/journal.pone.0076096. 
+eCollection 2013.
+
+A method for selectively enriching microbial DNA from contaminating vertebrate 
+host DNA.
+
+Feehery GR(1), Yigit E, Oyola SO, Langhorst BW, Schmidt VT, Stewart FJ, 
+Dimalanta ET, Amaral-Zettler LA, Davis T, Quail MA, Pradhan S.
+
+Author information:
+(1)New England Biolabs Inc., Ipswich, Massachusetts, United States of America.
+
+DNA samples derived from vertebrate skin, bodily cavities and body fluids 
+contain both host and microbial DNA; the latter often present as a minor 
+component. Consequently, DNA sequencing of a microbiome sample frequently yields 
+reads originating from the microbe(s) of interest, but with a vast excess of 
+host genome-derived reads. In this study, we used a methyl-CpG binding domain 
+(MBD) to separate methylated host DNA from microbial DNA based on differences in 
+CpG methylation density. MBD fused to the Fc region of a human antibody (MBD-Fc) 
+binds strongly to protein A paramagnetic beads, forming an effective one-step 
+enrichment complex that was used to remove human or fish host DNA from bacterial 
+and protistan DNA for subsequent sequencing and analysis. We report enrichment 
+of DNA samples from human saliva, human blood, a mock malaria-infected blood 
+sample and a black molly fish. When reads were mapped to reference genomes, 
+sequence reads aligning to host genomes decreased 50-fold, while bacterial and 
+Plasmodium DNA sequences reads increased 8-11.5-fold. The Shannon-Wiener 
+diversity index was calculated for 149 bacterial species in saliva before and 
+after enrichment. Unenriched saliva had an index of 4.72, while the enriched 
+sample had an index of 4.80. The similarity of these indices demonstrates that 
+bacterial species diversity and relative phylotype abundance remain conserved in 
+enriched samples. Enrichment using the MBD-Fc method holds promise for targeted 
+microbiome sequence analysis across a broad range of sample types.
+
+DOI: 10.1371/journal.pone.0076096
+PMCID: PMC3810253
+PMID: 24204593 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: GRF, EY, BWL, FJS, ETD, TD, 
+and SP are employed by New England Biolabs and as such would benefit from the 
+sale of kits containing the reagent described in the manuscript. SOO, VTS, LAZ 
+and MAQ have declared that no competing interests exist. This does not alter the 
+authors’ adherence to all the PLOS ONE policies on sharing data and materials.

@@ -1,0 +1,43 @@
+1. BMC Med Genet. 2008 Mar 20;9:18. doi: 10.1186/1471-2350-9-18.
+
+SNP selection for genes of iron metabolism in a study of genetic modifiers of 
+hemochromatosis.
+
+Constantine CC(1), Gurrin LC, McLaren CE, Bahlo M, Anderson GJ, Vulpe CD, 
+Forrest SM, Allen KJ, Gertig DM; HealthIron Investigators.
+
+Collaborators: Delatycki MB, English DR, Fletcher A, Giles GG, Hopper JL, Nicoll 
+AJ, Nisselle AE, Olynyk JK, Osborne NJ, Powell LW, Southey MC.
+
+Author information:
+(1)The Centre for Molecular, Environmental, Genetic and Analytic (MEGA) 
+Epidemiology, School of Population Health, The University of Melbourne, 
+Melbourne, Australia. ccconsta@uci.edu
+
+BACKGROUND: We report our experience of selecting tag SNPs in 35 genes involved 
+in iron metabolism in a cohort study seeking to discover genetic modifiers of 
+hereditary hemochromatosis.
+METHODS: We combined our own and publicly available resequencing data with 
+HapMap to maximise our coverage to select 384 SNPs in candidate genes suitable 
+for typing on the Illumina platform.
+RESULTS: Validation/design scores above 0.6 were not strongly correlated with 
+SNP performance as estimated by Gentrain score. We contrasted results from two 
+tag SNP selection algorithms, LDselect and Tagger. Varying r2 from 0.5 to 1.0 
+produced a near linear correlation with the number of tag SNPs required. We 
+examined the pattern of linkage disequilibrium of three levels of resequencing 
+coverage for the transferrin gene and found HapMap phase 1 tag SNPs capture 45% 
+of the > or = 3% MAF SNPs found in SeattleSNPs where there is nearly complete 
+resequencing. Resequencing can reveal adjacent SNPs (within 60 bp) which may 
+affect assay performance. We report the number of SNPs present within the region 
+of six of our larger candidate genes, for different versions of stock genotyping 
+assays.
+CONCLUSION: A candidate gene approach should seek to maximise coverage, and this 
+can be improved by adding to HapMap data any available sequencing data. Tag SNP 
+software must be fast and flexible to data changes, since tag SNP selection 
+involves iteration as investigators seek to satisfy the competing demands of 
+coverage within and between populations, and typability on the technology 
+platform chosen.
+
+DOI: 10.1186/1471-2350-9-18
+PMCID: PMC2289803
+PMID: 18366708 [Indexed for MEDLINE]

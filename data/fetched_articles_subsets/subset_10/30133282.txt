@@ -1,0 +1,43 @@
+1. J Chem Inf Model. 2018 Sep 24;58(9):1926-1934. doi: 10.1021/acs.jcim.8b00406. 
+Epub 2018 Sep 6.
+
+Catalytic Mechanism of Amyloid-β Peptide Degradation by Insulin Degrading 
+Enzyme: Insights from Quantum Mechanics and Molecular Mechanics Style 
+Møller-Plesset Second Order Perturbation Theory Calculation.
+
+Lai R(1), Tang WJ(2), Li H(1).
+
+Author information:
+(1)Department of Chemistry, Nebraska Center for Materials and Nanoscience, and 
+Center for Integrated Biomolecular Communication , University of 
+Nebraska-Lincoln , Lincoln , Nebraska 68588-0304 , United States.
+(2)Ben May Department for Cancer Research , The University of Chicago , Chicago 
+, Illinois 60637 , United States.
+
+Insulin degrading enzyme (IDE), a metalloprotease that degrades amyloid-β (Aβ) 
+peptides and insulin, is associated with Alzheimer's disease and diabetes. The 
+mechanism of IDE catalyzed degrading of Aβ peptides, which is of fundamental 
+importance in the design of therapeutic methods for Alzheimer's disease, has not 
+been fully understood. In this work, combined quantum mechanics and molecular 
+mechanics (QM/MM) style Møller-Plesset second order perturbation theory (MP2) 
+geometry optimization calculations are performed to investigate the catalytic 
+mechanism of the Aβ40 Phe19-Phe20 peptide bond cleavage by human IDE. The 
+analyses using QM/MM MP2 optimization suggest that a neutral water molecule is 
+at the active site of the enzyme-substrate (ES) complex. The water molecule is 
+in hydrogen bonding with the nearby anionic Glu111 of IDE but not directly bound 
+to the catalytic Zn ion. This is confirmed by QM/MM DFTB3 molecular dynamics 
+simulation. Our studies also reveal that the hydrolysis of the Aβ40 Phe19-Phe20 
+peptide bond by IDE consists of four key steps. The neutral water is first 
+activated by moving toward and binding to the Zn ion. A gem-diol intermediate is 
+then formed by the activated neutral water molecule attacking the C atom of the 
+Phe19-Phe20 peptide bond. The next is the protonation of the N atom of 
+Phe19-Phe20 peptide bond to form an intermediate with an elongated C-N bond. The 
+final step is the breaking of the Phe19-Phe20 C-N bond. The final step is the 
+rate-determining step with a calculated Gibbs free energy of activation of 17.34 
+kcal/mol, in good agreement with the experimental value 16.7 kcal/mol. This 
+mechanism provides the basis for the design of biochemical methods to modulate 
+the activity of IDE in humans.
+
+DOI: 10.1021/acs.jcim.8b00406
+PMCID: PMC6670292
+PMID: 30133282 [Indexed for MEDLINE]

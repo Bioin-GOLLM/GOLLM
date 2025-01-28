@@ -1,0 +1,55 @@
+1. PLoS One. 2022 Nov 16;17(11):e0277328. doi: 10.1371/journal.pone.0277328. 
+eCollection 2022.
+
+Repositioning of anti-dengue compounds against SARS-CoV-2 as viral polyprotein 
+processing inhibitor.
+
+Bajrai LH(1)(2), Faizo AA(1)(3), Alkhaldy AA(1)(4), Dwivedi VD(5)(6), Azhar 
+EI(1)(3).
+
+Author information:
+(1)Special Infectious Agents Unit - BSL3, King Fahd Medical Research Center, 
+King Abdulaziz University, Jeddah, Saudi Arabia.
+(2)Biochemistry Department, Faculty of Sciences, King Abdulaziz University, 
+Jeddah, Saudi Arabia.
+(3)Department of Medical Laboratory Sciences, Faculty of Applied Medical 
+Sciences, King Abdulaziz University, Jeddah, Saudi Arabia.
+(4)Clinical Nutrition Department, Faculty of Applied Medical Sciences, King 
+Abdulaziz University, Jeddah, Saudi Arabia.
+(5)Center for Bioinformatics, Computational and Systems Biology, Pathfinder 
+Research and Training Foundation, Greater Noida, India.
+(6)Bioinformatics Research Division, Quanta Calculus, Greater Noida, India.
+
+A therapy for COVID-19 (Coronavirus Disease 19) caused by Severe Acute 
+Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) remains elusive due to the lack 
+of an effective antiviral therapeutic molecule. The SARS-CoV-2 main protease 
+(Mpro), which plays a vital role in the viral life cycle, is one of the most 
+studied and validated drug targets. In Several prior studies, numerous possible 
+chemical entities were proposed as potential Mpro inhibitors; however, most 
+failed at various stages of drug discovery. Repositioning of existing antiviral 
+compounds accelerates the discovery and development of potent therapeutic 
+molecules. Hence, this study examines the applicability of anti-dengue compounds 
+against the substrate binding site of Mpro for disrupting its polyprotein 
+processing mechanism. An in-silico structure-based virtual screening approach is 
+applied to screen 330 experimentally validated anti-dengue compounds to 
+determine their affinity to the substrate binding site of Mpro. This study 
+identified the top five compounds (CHEMBL1940602, CHEMBL2036486, CHEMBL3628485, 
+CHEMBL200972, CHEMBL2036488) that showed a high affinity to Mpro with a docking 
+score > -10.0 kcal/mol. The best-docked pose of these compounds with Mpro was 
+subjected to 100 ns molecular dynamic (MD) simulation followed by MM/GBSA 
+binding energy. This showed the maximum stability and comparable ΔG binding 
+energy against the reference compound (X77 inhibitor). Overall, we repurposed 
+the reported anti-dengue compounds against SARS-CoV-2-Mpro to impede its 
+polyprotein processing for inhibiting SARS-CoV-2 infection.
+
+Copyright: © 2022 Bajrai et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0277328
+PMCID: PMC9668197
+PMID: 36383621 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

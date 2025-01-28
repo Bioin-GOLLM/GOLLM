@@ -1,0 +1,87 @@
+1. Nat Biotechnol. 2021 Oct;39(10):1220-1227. doi: 10.1038/s41587-021-00900-z.
+Epub  2021 May 3.
+
+Detection of low-frequency DNA variants by targeted sequencing of the Watson and 
+Crick strands.
+
+Cohen JD(1)(2)(3)(4)(5), Douville C(1)(2)(3)(4), Dudley JC(1)(2)(3)(4), Mog 
+BJ(1)(2)(3)(4)(5), Popoli M(1)(2)(3)(4), Ptak J(1)(2)(3)(4), Dobbyn L(1)(2)(3), 
+Silliman N(1)(2)(3)(4), Schaefer J(1)(2)(3), Tie J(6)(7)(8)(9), Gibbs 
+P(6)(8)(9), Tomasetti C(2)(10), Papadopoulos N(11)(12)(13), Kinzler 
+KW(14)(15)(16), Vogelstein B(17)(18)(19)(20).
+
+Author information:
+(1)Ludwig Center for Cancer Genetics and Therapeutics, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(2)Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of 
+Medicine, Baltimore, MD, USA.
+(3)Sol Goldman Pancreatic Cancer Research Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(4)Howard Hughes Medical Institute, Baltimore, MD, USA.
+(5)Department of Biomedical Engineering, Johns Hopkins University, Baltimore, 
+MD, USA.
+(6)Division of Personalized Oncology, Walter and Eliza Hall Institute of Medical 
+Research, Parkville, Victoria, Australia.
+(7)Department of Medical Oncology, Peter MacCallum Cancer Center, Melbourne, 
+Victoria, Australia.
+(8)Department of Medical Oncology, Western Health, Melbourne, Victoria, 
+Australia.
+(9)Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne, 
+Melbourne, Victoria, Australia.
+(10)Department of Biostatistics, Johns Hopkins Bloomberg School of Public 
+Health, Baltimore, MD, USA.
+(11)Ludwig Center for Cancer Genetics and Therapeutics, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. npapado1@jhmi.edu.
+(12)Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School 
+of Medicine, Baltimore, MD, USA. npapado1@jhmi.edu.
+(13)Sol Goldman Pancreatic Cancer Research Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. npapado1@jhmi.edu.
+(14)Ludwig Center for Cancer Genetics and Therapeutics, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. kinzlke@jhmi.edu.
+(15)Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School 
+of Medicine, Baltimore, MD, USA. kinzlke@jhmi.edu.
+(16)Sol Goldman Pancreatic Cancer Research Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. kinzlke@jhmi.edu.
+(17)Ludwig Center for Cancer Genetics and Therapeutics, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. vogelbe@jhmi.edu.
+(18)Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School 
+of Medicine, Baltimore, MD, USA. vogelbe@jhmi.edu.
+(19)Sol Goldman Pancreatic Cancer Research Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA. vogelbe@jhmi.edu.
+(20)Howard Hughes Medical Institute, Baltimore, MD, USA. vogelbe@jhmi.edu.
+
+Identification and quantification of low-frequency mutations remain challenging 
+despite improvements in the baseline error rate of next-generation sequencing 
+technologies. Here, we describe a method, termed SaferSeqS, that addresses these 
+challenges by (1) efficiently introducing identical molecular barcodes in the 
+Watson and Crick strands of template molecules and (2) enriching target 
+sequences with strand-specific PCR. The method achieves high sensitivity and 
+specificity and detects variants at frequencies below 1 in 100,000 DNA template 
+molecules with a background mutation rate of <5 × 10-7 mutants per base pair 
+(bp). We demonstrate that it can evaluate mutations in a single amplicon or 
+simultaneously in multiple amplicons, assess limited quantities of cell-free DNA 
+with high recovery of both strands and reduce the error rate of existing 
+PCR-based molecular barcoding approaches by >100-fold.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41587-021-00900-z
+PMCID: PMC8627329
+PMID: 33941929 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests B.V., K.W.K. and N.P. are 
+founders of Thrive and Personal Genome Diagnostics and own equity in Exact 
+Sciences and Personal Genome Diagnostics. K.W.K. and N.P. are consultants to 
+Thrive. K.W.K. and B.V. are consultants to Sysmex and Eisai, and K.W.K., B.V. 
+and N.P. are advisors to CAGE Pharma. B.V. is also a consultant to Catalio, and 
+K.W.K., B.V. and N.P. are consultants to Neophore. C.D. is a consultant to 
+Thrive and is compensated with income and equity. The companies named above, as 
+well as other companies, have licensed previously described technologies related 
+to the work described in this paper from Johns Hopkins University. J.D.C., C.D., 
+B.V., K.W.K., C.T. and N.P. are inventors on some of these technologies. 
+Licenses to these technologies are or will be associated with equity or royalty 
+payments to the inventors as well as to Johns Hopkins University. Additional 
+patent applications on the work described in this paper are being filed by Johns 
+Hopkins University. The terms of all these arrangements are being managed by 
+Johns Hopkins University in accordance with its conflict of interest policies. 
+The remaining authors declare no competing interests.

@@ -1,0 +1,54 @@
+1. Sci Rep. 2019 Nov 19;9(1):17112. doi: 10.1038/s41598-019-53256-5.
+
+Statistical multiscale mapping of IDH1, MGMT, and microvascular proliferation in 
+human brain tumors from multiparametric MR and spatially-registered core biopsy.
+
+Parker JG(1)(2), Diller EE(3)(4), Cao S(5), Nelson JT(3)(6), Yeom K(7), Ho C(3), 
+Lober R(8).
+
+Author information:
+(1)Department of Radiology and Imaging Sciences, Indiana University School of 
+Medicine, Indiana, USA. parkerjg@iu.edu.
+(2)School of Health Sciences, Purdue University, Indiana, USA. parkerjg@iu.edu.
+(3)Department of Radiology and Imaging Sciences, Indiana University School of 
+Medicine, Indiana, USA.
+(4)School of Health Sciences, Purdue University, Indiana, USA.
+(5)Department of Biostatistics, Indiana University School of Medicine, Indiana, 
+USA.
+(6)Military Health Institute, University of Texas Health San Antonio, Texas, 
+USA.
+(7)Radiology, Lucile Salter Packard Children's Hospital and Stanford University 
+Medical Center, California, USA.
+(8)Neurosurgery, Dayton Children's Hospital, Ohio, USA.
+
+We propose a statistical multiscale mapping approach to identify microscopic and 
+molecular heterogeneity across a tumor microenvironment using multiparametric MR 
+(mp-MR). Twenty-nine patients underwent pre-surgical mp-MR followed by MR-guided 
+stereotactic core biopsy. The locations of the biopsy cores were identified in 
+the pre-surgical images using stereotactic bitmaps acquired during surgery. 
+Feature matrices mapped the multiparametric voxel values in the vicinity of the 
+biopsy cores to the pathologic outcome variables for each patient and logistic 
+regression tested the individual and collective predictive power of the MR 
+contrasts. A non-parametric weighted k-nearest neighbor classifier evaluated the 
+feature matrices in a leave-one-out cross validation design across patients. 
+Resulting class membership probabilities were converted to chi-square statistics 
+to develop full-brain parametric maps, implementing Gaussian random field theory 
+to estimate inter-voxel dependencies. Corrections for family-wise error rates 
+were performed using Benjamini-Hochberg and random field theory, and the 
+resulting accuracies were compared. The combination of all five image contrasts 
+correlated with outcome (P < 10-4) for all four microscopic variables. The 
+probabilistic mapping method using Benjamini-Hochberg generated statistically 
+significant results (α ≤ 0.05) for three of the four dependent variables: (1) 
+IDH1, (2) MGMT, and (3) microvascular proliferation, with an average 
+classification accuracy of 0.984 ± 0.02 and an average classification 
+sensitivity of 1.567% ± 0.967. The images corrected by random field theory 
+demonstrated improved classification accuracy (0.989 ± 0.008) and classification 
+sensitivity (5.967% ± 2.857) compared with Benjamini-Hochberg. Microscopic and 
+molecular tumor properties can be assessed with statistical confidence across 
+the brain from minimally-invasive, mp-MR.
+
+DOI: 10.1038/s41598-019-53256-5
+PMCID: PMC6864039
+PMID: 31745125 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

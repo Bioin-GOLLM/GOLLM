@@ -1,0 +1,25 @@
+1. Nano Commun Netw. 2010 Sep;1(3):173-180. doi: 10.1016/j.nancom.2010.09.002.
+
+A brief review of molecular information theory.
+
+Schneider TD(1).
+
+Author information:
+(1)National Institutes of Health, National Cancer Institute at Frederick, P.O. 
+Box B, Frederick, MD 21702-1201, United States.
+
+The idea that we could build molecular communications systems can be advanced by 
+investigating how actual molecules from living organisms function. Information 
+theory provides tools for such an investigation. This review describes how we 
+can compute the average information in the DNA binding sites of any genetic 
+control protein and how this can be extended to analyze its individual sites. A 
+formula equivalent to Claude Shannon's channel capacity can be applied to 
+molecular systems and used to compute the efficiency of protein binding. This 
+efficiency is often 70% and a brief explanation for that is given. The results 
+imply that biological systems have evolved to function at channel capacity, 
+which means that we should be able to build molecular communications that are 
+just as robust as our macroscopic ones.
+
+DOI: 10.1016/j.nancom.2010.09.002
+PMCID: PMC3220916
+PMID: 22110566

@@ -1,0 +1,28 @@
+1. J R Stat Soc Ser A Stat Soc. 2010 Apr;173(2):331-349. doi: 
+10.1111/j.1467-985X.2009.00610.x.
+
+Estimating stroke-free and total life expectancy in the presence of 
+non-ignorable missing values.
+
+van den Hout A(1), Matthews FE.
+
+Author information:
+(1)Medical Research Council Biostatistics Unit Cambridge, UK.
+
+A continuous time three-state model with time-dependent transition intensities 
+is formulated to describe transitions between healthy and unhealthy states 
+before death. By using time continuously, known death times can be taken into 
+account. To deal with possible non-ignorable missing states, a selection model 
+is proposed for the joint distribution of both the state and whether or not the 
+state is observed. To estimate total life expectancy and its subdivision into 
+life expectancy in health and ill health, the three-state model is extrapolated 
+beyond the follow-up of the study. Estimation of life expectancies is 
+illustrated by analysing data from a longitudinal study of aging where 
+individuals are in a state of ill health if they have ever experienced a stroke. 
+Results for the selection model are compared with results for a model where 
+states are assumed to be missing at random and with results for a model that 
+ignores missing states.
+
+DOI: 10.1111/j.1467-985X.2009.00610.x
+PMCID: PMC2859253
+PMID: 20454440

@@ -1,0 +1,50 @@
+1. BMC Syst Biol. 2015 Nov 21;9:85. doi: 10.1186/s12918-015-0222-7.
+
+A global sensitivity analysis approach for morphogenesis models.
+
+Boas SE(1)(2), Navarro Jimenez MI(3), Merks RM(4)(5), Blom JG(6).
+
+Author information:
+(1)Life Sciences, CWI, Science Park 123, Amsterdam, 1098XG, The Netherlands. 
+boas@cwi.nl.
+(2)Mathematical Institute, University of Leiden, Niels Bohrweg 1, Leiden, 
+2333CA, The Netherlands. boas@cwi.nl.
+(3)CEMSE Division, King Abdullah University of Science and Technology (KAUST), 
+Thuwal, Kingdom of Saudi Arabia. mariaisabel.navarrojimenez@kaust.edu.sa.
+(4)Life Sciences, CWI, Science Park 123, Amsterdam, 1098XG, The Netherlands. 
+merks@cwi.nl.
+(5)Mathematical Institute, University of Leiden, Niels Bohrweg 1, Leiden, 
+2333CA, The Netherlands. merks@cwi.nl.
+(6)Life Sciences, CWI, Science Park 123, Amsterdam, 1098XG, The Netherlands. 
+joke.blom@cwi.nl.
+
+BACKGROUND: Morphogenesis is a developmental process in which cells organize 
+into shapes and patterns. Complex, non-linear and multi-factorial models with 
+images as output are commonly used to study morphogenesis. It is difficult to 
+understand the relation between the uncertainty in the input and the output of 
+such 'black-box' models, giving rise to the need for sensitivity analysis tools. 
+In this paper, we introduce a workflow for a global sensitivity analysis 
+approach to study the impact of single parameters and the interactions between 
+them on the output of morphogenesis models.
+RESULTS: To demonstrate the workflow, we used a published, well-studied model of 
+vascular morphogenesis. The parameters of this cellular Potts model (CPM) 
+represent cell properties and behaviors that drive the mechanisms of angiogenic 
+sprouting. The global sensitivity analysis correctly identified the dominant 
+parameters in the model, consistent with previous studies. Additionally, the 
+analysis provided information on the relative impact of single parameters and of 
+interactions between them. This is very relevant because interactions of 
+parameters impede the experimental verification of the predicted effect of 
+single parameters. The parameter interactions, although of low impact, provided 
+also new insights in the mechanisms of in silico sprouting. Finally, the 
+analysis indicated that the model could be reduced by one parameter.
+CONCLUSIONS: We propose global sensitivity analysis as an alternative approach 
+to study the mechanisms of morphogenesis. Comparison of the ranking of the 
+impact of the model parameters to knowledge derived from experimental data and 
+from manipulation experiments can help to falsify models and to find the operand 
+mechanisms in morphogenesis. The workflow is applicable to all 'black-box' 
+models, including high-throughput in vitro models in which output measures are 
+affected by a set of experimental perturbations.
+
+DOI: 10.1186/s12918-015-0222-7
+PMCID: PMC4654849
+PMID: 26589144 [Indexed for MEDLINE]

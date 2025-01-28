@@ -1,0 +1,45 @@
+1. Front Oncol. 2021 Jan 8;10:596087. doi: 10.3389/fonc.2020.596087. eCollection 
+2020.
+
+Identification of a Novel Glycolysis-Related Gene Signature for Predicting 
+Breast Cancer Survival.
+
+Zhang D(1)(2), Zheng Y(1)(2), Yang S(1)(2), Li Y(3), Wang M(2), Yao J(1), Deng 
+Y(1)(2), Li N(1)(2), Wei B(1), Wu Y(1)(2), Zhu Y(1)(2), Li H(4), Dai Z(1).
+
+Author information:
+(1)Department of Breast Surgery, The First Affiliated Hospital, College of 
+Medicine, Zhejiang University, Hangzhou, China.
+(2)Department of Oncology, The Second Affiliated Hospital of Xi'an Jiaotong 
+University, Xi'an, China.
+(3)Breast Center Department, The Fourth Hospital of Hebei Medical University, 
+Hebei Medical University, Shijiazhuang, China.
+(4)Department of Breast Head and Neck surgery, The 3rd Affiliated Teaching 
+Hospital of Xinjiang Medical University (Affiliated Tumor Hospital), Urumqi, 
+China.
+
+To identify a glycolysis-related gene signature for the evaluation of prognosis 
+in patients with breast cancer, we analyzed the data of a training set from TCGA 
+database and four validation cohorts from the GEO and ICGC databases which 
+included 1,632 patients with breast cancer. We conducted GSEA, univariate Cox 
+regression, LASSO, and multiple Cox regression analysis. Finally, an 11-gene 
+signature related to glycolysis for predicting survival in patients with breast 
+cancer was developed. And Kaplan-Meier analysis and ROC analyses suggested that 
+the signature showed a good prognostic ability for BC in the TCGA, ICGC, and GEO 
+datasets. The analyses of univariate Cox regression and multivariate Cox 
+regression revealed that it's an important prognostic factor independent of 
+multiple clinical features. Moreover, a prognostic nomogram, combining the gene 
+signature and clinical characteristics of patients, was constructed. These 
+findings provide insights into the identification of breast cancer patients with 
+a poor prognosis.
+
+Copyright © 2021 Zhang, Zheng, Yang, Li, Wang, Yao, Deng, Li, Wei, Wu, Zhu, Li 
+and Dai.
+
+DOI: 10.3389/fonc.2020.596087
+PMCID: PMC7821871
+PMID: 33489894
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

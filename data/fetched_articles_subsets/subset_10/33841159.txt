@@ -1,0 +1,60 @@
+1. Front Pharmacol. 2021 Mar 24;12:642881. doi: 10.3389/fphar.2021.642881. 
+eCollection 2021.
+
+Identification of Critical Residues in the Carboxy Terminus of the Dopamine 
+Transporter Involved in the G Protein βγ-Induced Dopamine Efflux.
+
+Pino JA(1), Nuñez-Vivanco G(2), Hidalgo G(3), Reyes Parada M(4)(5), Khoshbouei 
+H(6), Torres GE(7).
+
+Author information:
+(1)Departamento de Medicina, Facultad de Medicina, Universidad de Atacama, 
+Copiapó, Chile.
+(2)Centro de Bioinformática, Simulación y Modelado, Facultad de Ingeniería, 
+Universidad de Talca, Talca, Chile.
+(3)Department of Pharmacology and Therapeutics, University of Florida College of 
+Medicine, Gainesville, FL, United States.
+(4)Centro de Investigación Biomédica y Aplicada (CIBAP), Escuela de Medicina, 
+Facultad de Ciencias Médicas, Universidad de Santiago de Chile, Santiago, Chile.
+(5)Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, Talca, 
+Chile.
+(6)Department of Neuroscience, University of Florida College of Medicine, 
+Gainesville, FL, United States.
+(7)Department of Molecular, Cellular and Biomedical Sciences, CUNY School of 
+Medicine at City College of New York, New York, NY, United States.
+
+The dopamine transporter (DAT) plays a crucial role in the regulation of brain 
+dopamine (DA) homeostasis through the re-uptake of DA back into the presynaptic 
+terminal. In addition to re-uptake, DAT is also able to release DA through a 
+process referred to as DAT-mediated DA efflux. This is the mechanism by which 
+potent and highly addictive psychostimulants, such as amphetamine (AMPH) and its 
+analogues, increase extracellular DA levels in motivational and reward areas of 
+the brain. Recently, we discovered that G protein βγ subunits (Gβγ) binds to the 
+DAT, and that activation of Gβγ results in DAT-mediated efflux - a similar 
+mechanism as AMPH. Previously, we have shown that Gβγ binds directly to a 
+stretch of 15 residues within the intracellular carboxy terminus of DAT 
+(residues 582-596). Additionally, a TAT peptide containing residues 582 to 596 
+of DAT was able to block the Gβγ-induced DA efflux through DAT. Here, we use a 
+combination of computational biology, mutagenesis, biochemical, and functional 
+assays to identify the amino acid residues within the 582-596 sequence of the 
+DAT carboxy terminus involved in the DAT-Gβγ interaction and Gβγ-induced DA 
+efflux. Our in-silico protein-protein docking analysis predicted the importance 
+of F587 and R588 residues in a network of interactions with residues in Gβγ. In 
+addition, we observed that mutating R588 to alanine residue resulted in a mutant 
+DAT which exhibited attenuated DA efflux induced by Gβγ activation. We 
+demonstrate that R588, and to a lesser extent F5837, located within the carboxy 
+terminus of DAT play a critical role in the DAT-Gβγ physical interaction and 
+promotion of DA efflux. These results identify a potential new pharmacological 
+target for the treatment of neuropsychiatric conditions in which DAT 
+functionality is implicated including ADHD and substance use disorder.
+
+Copyright © 2021 Pino, Nuñez-Vivanco, Hidalgo, Reyes Parada, Khoshbouei and 
+Torres.
+
+DOI: 10.3389/fphar.2021.642881
+PMCID: PMC8025876
+PMID: 33841159
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

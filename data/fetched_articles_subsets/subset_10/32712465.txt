@@ -1,0 +1,37 @@
+1. iScience. 2020 Aug 21;23(8):101321. doi: 10.1016/j.isci.2020.101321. Epub 2020
+ Jul 1.
+
+PhosphoEffect: Prioritizing Variants On or Adjacent to Phosphorylation Sites 
+through Their Effect on Kinase Recognition Motifs.
+
+Cole S(1), Prabakaran S(2).
+
+Author information:
+(1)Department of Genetics, University of Cambridge, Downing Site, Cambridge CB2 
+3EH, UK.
+(2)Department of Genetics, University of Cambridge, Downing Site, Cambridge CB2 
+3EH, UK. Electronic address: sp339@cam.ac.uk.
+
+Phosphorylation sites often have key regulatory functions and are central to 
+many cellular signaling pathways, so mutations that modify them have the 
+potential to contribute to pathological states such as cancer. Although many 
+classifiers exist for prioritization of coding genomic variants, to our 
+knowledge none of them explicitly account for the alteration or creation of 
+kinase recognition motifs that alter protein structure, function, regulation of 
+activity, and interaction networks through modifying the pattern of 
+phosphorylation. We present a novel computational pipeline that uses a random 
+forest classifier to predict the pathogenicity of a variant, according to its 
+direct or indirect effect on local phosphorylation sites and the predicted 
+functional impact of perturbing a phosphorylation event. We call this classifier 
+PhosphoEffect and find that it compares favorably and with increased accuracy to 
+the existing classifier PolyPhen 2.2.2 when tested on a dataset of known 
+variants enriched for phosphorylation sites and their neighbors.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.isci.2020.101321
+PMCID: PMC7387813
+PMID: 32712465
+
+Conflict of interest statement: Declaration of Interests S.P. is a cofounder of 
+NonExomics, LLC.

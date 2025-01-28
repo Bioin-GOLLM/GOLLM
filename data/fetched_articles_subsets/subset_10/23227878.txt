@@ -1,0 +1,50 @@
+1. BMC Immunol. 2012 Dec 10;13:67. doi: 10.1186/1471-2172-13-67.
+
+Sequence-based in silico analysis of well studied hepatitis C virus epitopes and 
+their variants in other genotypes (particularly genotype 5a) against South 
+African human leukocyte antigen backgrounds.
+
+Prabdial-Sing N(1), Puren AJ, Bowyer SM.
+
+Author information:
+(1)Specialized Molecular Diagnostics, Hepatitis Unit, National Institute for 
+Communicable Diseases, National Health Laboratory Services, Johannesburg, South 
+Africa. niship@nicd.ac.za
+
+BACKGROUND: Host genetics influence the outcome of HCV disease. HCV is also 
+highly mutable and escapes host immunity. HCV genotypes are geographically 
+distributed and HCV subtypes have been shown to have distinct repertoires of 
+HLA-restricted viral epitopes which explains the lack of cross protection across 
+genotypes observed in some studies. Despite this, immune databases and putative 
+epitope vaccines concentrate almost exclusively on HCV genotype 1 class 
+I-epitopes restricted by the HLA-A*02 allele. While both genotype and allele 
+predominate in developed countries, we hypothesise that HCV variation and 
+population genetics will affect the efficacy of proposed epitope vaccines in 
+South Africa. This in silico study investigates HCV viral variability within 
+well-studied epitopes identified in genotype 1 and uses algorithms to predict 
+the immunogenicity of their variants from other less studied genotypes and thus 
+rate the most promising vaccine candidates for the South African population. Six 
+class I- and seven class II- restricted epitope sequences within the core, NS3, 
+NS4B and NS5B regions were compared across the six HCV genotypes using local 
+genotype 5a sequence data together with global data. Common HLA alleles in the 
+South African population are A30:01, A02:01, B58:02, B07:02; DRB1*13:01 and 
+DRB1*03:01. Epitope binding to 13 class I- and 8 class -II alleles were 
+described using web-based prediction servers, Immune Epitope Database, (IEDB) 
+and Propred. Online population coverage tools were used to assess vaccine 
+efficacy.
+RESULTS: Despite the homogeneity of genotype 1 and genotype 5 over the epitopes, 
+there was limited promiscuity to local HLA-alleles.Host differences will make a 
+putative vaccine less effective in South Africa. Of the 6 well-characterized 
+class I- epitopes, only 2 class I- epitopes were promiscuous and 3 of the 7 
+class-II epitopes were better conserved and promiscuous. By fine tuning the 
+putative vaccine using an optimal cocktail of genotype 1 and 5a epitopes and 
+local HLA data, the coverage was raised from 65.85% to 91.87% in South African 
+Blacks.
+CONCLUSION: While in vivo and in vitro studies are needed to confirm immunogenic 
+epitopes, in silico HCV epitope vaccine design which takes into account HCV 
+variation and host allele frequency will maximize population coverage in 
+different ethnic groups.
+
+DOI: 10.1186/1471-2172-13-67
+PMCID: PMC3552980
+PMID: 23227878 [Indexed for MEDLINE]

@@ -1,0 +1,61 @@
+1. Sensors (Basel). 2019 Oct 16;19(20):4482. doi: 10.3390/s19204482.
+
+Utility of Big Data in Predicting Short-Term Blood Glucose Levels in Type 1 
+Diabetes Mellitus Through Machine Learning Techniques.
+
+Rodríguez-Rodríguez I(1), Chatzigiannakis I(2), Rodríguez JV(3), Maranghi M(4), 
+Gentili M(5), Zamora-Izquierdo MÁ(6).
+
+Author information:
+(1)Facultad de Informática, Departamento de Ingeniería de la Información y las 
+Comunicaciones, Universidad de Murcia, 30100 Murcia, Spain. 
+ignacio.rodriguez1@um.es.
+(2)Dipartimento di Ingegneria Informatica Automatica e Gestionale 'Antonio 
+Ruberti', Sapienza Università di Roma, 00185 Roma, Italy. 
+ichatz@diag.uniroma1.it.
+(3)Departamento de Tecnologías de la Información y las Comunicaciones, 
+Universidad Politécnica de Cartagena; 30202 Cartagena, Spain. 
+jvictor.rodriguez@upct.es.
+(4)Dipartimento di Ingegneria Informatica Automatica e Gestionale 'Antonio 
+Ruberti', Sapienza Università di Roma, 00185 Roma, Italy. 
+marianna.maranghi@uniroma1.it.
+(5)Dipartimento di Ingegneria Informatica Automatica e Gestionale 'Antonio 
+Ruberti', Sapienza Università di Roma, 00185 Roma, Italy. 
+gentili@diag.uniroma1.it.
+(6)Facultad de Informática, Departamento de Ingeniería de la Información y las 
+Comunicaciones, Universidad de Murcia, 30100 Murcia, Spain. mzamora@um.es.
+
+Machine learning techniques combined with wearable electronics can deliver 
+accurate short-term blood glucose level prediction models. These models can 
+learn personalized glucose-insulin dynamics based on the sensor data collected 
+by monitoring several aspects of the physiological condition and daily activity 
+of an individual. Until now, the prevalent approach for developing data-driven 
+prediction models was to collect as much data as possible to help physicians and 
+patients optimally adjust therapy. The objective of this work was to investigate 
+the minimum data variety, volume, and velocity required to create accurate 
+person-centric short-term prediction models. We developed a series of these 
+models using different machine learning time series forecasting techniques 
+suitable for execution within a wearable processor. We conducted an extensive 
+passive patient monitoring study in real-world conditions to build an 
+appropriate data set. The study involved a subset of type 1 diabetic subjects 
+wearing a flash glucose monitoring system. We comparatively and quantitatively 
+evaluated the performance of the developed data-driven prediction models and the 
+corresponding machine learning techniques. Our results indicate that very 
+accurate short-term prediction can be achieved by only monitoring interstitial 
+glucose data over a very short time period and using a low sampling frequency. 
+The models developed can predict glucose levels within a 15-min horizon with an 
+average error as low as 15.43 mg/dL using only 24 historic values collected 
+within a period of sex hours, and by increasing the sampling frequency to 
+include 72 values, the average error is reduced to 10.15 mg/dL. Our prediction 
+models are suitable for execution within a wearable device, requiring the 
+minimum hardware requirements while at simultaneously achieving very high 
+prediction accuracy.
+
+DOI: 10.3390/s19204482
+PMCID: PMC6833040
+PMID: 31623111 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

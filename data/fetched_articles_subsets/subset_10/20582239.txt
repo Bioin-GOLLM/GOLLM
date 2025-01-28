@@ -1,0 +1,26 @@
+1. Epigenomics. 2009 Oct 1;1(1):163-175. doi: 10.2217/epi.09.3.
+
+Bioinformatic Identification of Novel Methyltransferases.
+
+Petrossian T(1), Clarke S.
+
+Author information:
+(1)Department of Chemistry and Biochemistry and the Molecular Biology Institute, 
+UCLA, Los Angeles, CA 90095-1570.
+
+Methylation of DNA, protein, and even RNA species are integral processes in 
+epigenesis. Enzymes that catalyze these reactions using the donor 
+S-adenosylmethionine fall into several structurally distinct classes. The 
+members in each class share sequence similarity that can be used to identify 
+additional methyltransferases. Here, we characterize these classes and in silico 
+approaches to infer protein function. Computational methods such as hidden 
+Markov model profiling and the Multiple Motif Scanning program can be used to 
+analyze known methyltransferases and relay information into the prediction of 
+new ones. In some cases, the substrate of methylation can be inferred from 
+hidden Markov model sequence similarity networks. Functional identification of 
+these candidate species is much more difficult; we discuss one biochemical 
+approach.
+
+DOI: 10.2217/epi.09.3
+PMCID: PMC2891558
+PMID: 20582239

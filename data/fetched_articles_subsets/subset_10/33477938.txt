@@ -1,0 +1,41 @@
+1. Biomolecules. 2021 Jan 19;11(1):124. doi: 10.3390/biom11010124.
+
+Modeling the Influenza A NP-vRNA-Polymerase Complex in Atomic Detail.
+
+Miner JC(1)(2), Lappala A(1)(3), Fenimore PW(1), Fischer WM(1), McMahon BH(1), 
+Hengartner NW(1), Sanbonmatsu KY(1)(4), Tung CS(1).
+
+Author information:
+(1)Theoretical Biology and Biophysics Group, Theoretical Division, Los Alamos 
+National Laboratory, Los Alamos, NM 87545, USA.
+(2)Bioenergy and Biome Sciences Group, Bioscience Division, Los Alamos National 
+Laboratory, Los Alamos, NM 87545, USA.
+(3)Department of Molecular Biology & Massachusetts General Hospital, Harvard 
+University, 185 Cambridge St., Boston, MA 02114, USA.
+(4)New Mexico Consortium, Los Alamos, NM 87545, USA.
+
+Seasonal flu is an acute respiratory disease that exacts a massive toll on human 
+populations, healthcare systems and economies. The disease is caused by an 
+enveloped Influenza virus containing eight ribonucleoprotein (RNP) complexes. 
+Each RNP incorporates multiple copies of nucleoprotein (NP), a fragment of the 
+viral genome (vRNA), and a viral RNA-dependent RNA polymerase (POL), and is 
+responsible for packaging the viral genome and performing critical functions 
+including replication and transcription. A complete model of an Influenza RNP in 
+atomic detail can elucidate the structural basis for viral genome functions, and 
+identify potential targets for viral therapeutics. In this work we construct a 
+model of a complete Influenza A RNP complex in atomic detail using multiple 
+sources of structural and sequence information and a series of homology-modeling 
+techniques, including a motif-matching fragment assembly method. Our final model 
+provides a rationale for experimentally-observed changes to viral polymerase 
+activity in numerous mutational assays. Further, our model reveals specific 
+interactions between the three primary structural components of the RNP, 
+including potential targets for blocking POL-binding to the NP-vRNA complex. The 
+methods developed in this work open the possibility of elucidating other 
+functionally-relevant atomic-scale interactions in additional RNP structures and 
+other biomolecular complexes.
+
+DOI: 10.3390/biom11010124
+PMCID: PMC7833383
+PMID: 33477938 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

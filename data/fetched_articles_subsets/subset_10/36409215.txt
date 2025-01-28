@@ -1,0 +1,50 @@
+1. Invest Ophthalmol Vis Sci. 2022 Nov 1;63(12):27. doi: 10.1167/iovs.63.12.27.
+
+Differential Circular RNA Expression Profiling of Orbital Connective Tissue From 
+Patients With Type I and Type II Thyroid-Associated Ophthalmopathy.
+
+Ye H(1), Sun A(1), Xiao W(1), Zhang T(1), Xu Z(1), Shi L(1), Sha X(1), Yang 
+H(1).
+
+Author information:
+(1)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangdong Provincial Key Laboratory of Ophthalmology and 
+Visual Science, Guangzhou, China.
+
+PURPOSE: The purpose of this study was to investigate the molecular mechanism 
+underlying thyroid-associated ophthalmopathy (TAO) clinical subtypes, to do so, 
+we performed transcriptomic analysis to reveal the expression profile of 
+circular RNAs (circRNAs) in TAO subtypes.
+METHODS: High-throughput RNA-sequencing was performed in six pairs of type I and 
+type II orbital connective tissue samples from patients with TAO. The expression 
+levels of circRNAs and mRNAs in type I and type II samples were measured by 
+quantitative real-time polymerase chain reaction (qRT-PCR) in another three 
+pairs of type I and type II TAO connective tissue samples. We used 
+bioinformatics predictions to construct a circRNA-microRNA (miRNA)-mRNA network. 
+A protein-protein interaction (PPI) network was constructed based on 
+differential mRNA expression, and the hub genes were determined by the Cytoscape 
+software plugin. Functional and pathway enrichment analyses were performed to 
+elucidate circRNA function. Lentiviral-mediated overexpression of 
+hsa_circ_0007006 and the relationship between hsa_circ_0007006 with COL1A1 and 
+MMP2 were evaluated by Western blotting (WB). Moreover, the differential 
+pathways were assessed by WB.
+RESULTS: RNA sequencing results predicted a total of 7489 circRNAs and 15,803 
+mRNAs, with 94 upregulated and 76 downregulated circRNAs and 488 upregulated and 
+138 downregulated mRNAs. The qRT-PCR analysis of seven dysregulated circRNAs and 
+two major mRNAs validated the RNA-sequencing data. The competing endogenous RNA 
+(ceRNA) network included 7 circRNAs, 23 miRNAs, and 262 mRNAs. Functional 
+analysis revealed several important pathways. Overexpression of hsa_circ_0007006 
+led to decreased expression levels of COL1A1 and MMP2. Activation of the relaxin 
+signaling pathway differed between the two subtypes.
+CONCLUSION: We showed that circRNAs are differentially expressed between type I 
+and type II TAO. We speculate that the hsa_circ_0007006-COL1A1 and MMP2-relaxin 
+signaling pathways are important regulatory axes in the pathogenesis of this 
+disease type and could be considered promising diagnostic and therapeutic 
+targets in the future.
+
+DOI: 10.1167/iovs.63.12.27
+PMCID: PMC9695227
+PMID: 36409215 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: H. Ye, None; A. Sun, None; W. Xiao, 
+None; T. Zhang, None; Z. Xu, None; L. Shi, None; X. Sha, None; H. Yang, None

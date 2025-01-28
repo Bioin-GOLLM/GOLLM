@@ -1,0 +1,26 @@
+1. Magn Reson Med. 2011 Feb;65(2):538-43. doi: 10.1002/mrm.22624. Epub 2010 Oct
+6.
+
+Reduction of artifacts in T2 -weighted PROPELLER in high-field preclinical 
+imaging.
+
+Pandit P(1), Qi Y, King KF, Johnson GA.
+
+Author information:
+(1)Center for In Vivo Microscopy, Department of Radiology, Duke University 
+Medical Center, Durham, North Carolina, USA.
+
+A simple technique is implemented for correction of artifacts arising from 
+nonuniform T(2) -weighting of k-space data in fast spin echo-based PROPELLER 
+(periodically rotated overlapping parallel lines with enhanced reconstruction). 
+An additional blade with no phase-encoding gradients is acquired to generate the 
+scaling factor used for the correction. Results from simulations and phantom 
+experiments, as well as in vivo experiments in free-breathing mice, demonstrate 
+the advantages of the proposed method. This technique is developed specifically 
+for high-field imaging applications where T(2) decay is rapid.
+
+Copyright © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/mrm.22624
+PMCID: PMC3026877
+PMID: 20928875 [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+1. Poult Sci. 2024 Jan;103(1):103208. doi: 10.1016/j.psj.2023.103208. Epub 2023
+Oct  17.
+
+Genome-wide association study for body weight and feed consumption traits in 
+Japanese quail using Bayesian approaches.
+
+Alboali H(1), Moradi MH(2), Khaltabadi Farahani AH(1), Mohammadi H(1).
+
+Author information:
+(1)Department of Animal Science, Faculty of Agriculture and Environment, Arak 
+University, 38156-8-8349 Arak, Iran.
+(2)Department of Animal Science, Faculty of Agriculture and Environment, Arak 
+University, 38156-8-8349 Arak, Iran. Electronic address: Hoseinmoradi@ut.ac.ir.
+
+The aim of this study was to perform a genome-wide association study (GWAS) 
+based on Bayes A and Bayes B statistical methods to identify genomic loci and 
+candidate genes associated with body weight gain, feed intake, and feed 
+conversion ratio in Japanese quail. For this purpose, genomic data obtained from 
+Illumina iSelect 4K quail SNP chip were utilized. After implementing various 
+quality control steps, genotype data from a total of 875 birds for 2,015 SNP 
+markers were used for subsequent analyses. The Bayesian analyses were performed 
+using hibayes package in R (version 4.3.1) and Gibbs sampling algorithm. The 
+results of the analyses showed that Bayes A accounted for 11.43, 11.65, and 
+11.39% of the phenotypic variance for body weight gain, feed intake, and feed 
+conversion ratio, respectively, while the variance explained by Bayes B was 
+7.02, 8.61, and 6.48%, respectively. Therefore, in the current study, results 
+obtained from Bayes A were used for further analyses. In order to perform the 
+gene enrichment analysis and to identify the functional pathways and classes of 
+genes that are over-represented in a large set of genes associated with each 
+trait, all markers that accounted for more than 0.1% of the phenotypic variance 
+for each trait were used. The results of this analysis revealed a total of 23, 
+38, and 14 SNP markers associated with body weight gain, feed intake, and feed 
+conversion ratio in Japanese quail, respectively. The results of the gene 
+enrichment analysis led to the identification of biological pathways (and 
+candidate genes) related to lipid phosphorylation (TTC7A gene) and cell junction 
+(FGFR4 and FLRT2 genes) associated with body weight gain, calcium signaling 
+pathway (ADCY2 and CAMK1D genes) associated with feed intake, and glycerolipid 
+metabolic process (LIPC gene), lipid metabolic process (ADGRF5 and ESR1 genes), 
+and glutathione transferase (GSTK1 gene) associated with feed conversion ratio. 
+Overall, the findings of this study can provide valuable insights into the 
+genetic architecture of growth and feed consumption traits in Japanese quail.
+
+Copyright © 2023. Published by Elsevier Inc.
+
+DOI: 10.1016/j.psj.2023.103208
+PMCID: PMC10663954
+PMID: 37980758 [Indexed for MEDLINE]

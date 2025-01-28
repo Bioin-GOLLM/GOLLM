@@ -1,0 +1,54 @@
+1. Front Physiol. 2021 Jul 23;12:639149. doi: 10.3389/fphys.2021.639149. 
+eCollection 2021.
+
+Electrophysiological Characterization of Human Atria: The Understated Role of 
+Temperature.
+
+Majumder R(1)(2), Mohamed Nazer AN(3), Panfilov AV(4)(5)(6), Bodenschatz 
+E(1)(2)(7), Wang Y(1)(2).
+
+Author information:
+(1)Laboratory for Fluid Physics, Pattern Formation and Biocomplexity, Max Planck 
+Institute for Dynamics and Self-Organization, Göttingen, Germany.
+(2)DZHK (German Center for Cardiovascular Research), Partner Site Göttingen, 
+Göttingen, Germany.
+(3)Cardiovascular Science, University Medical Center Göttingen, Göttingen, 
+Germany.
+(4)World-Class Research Center "Digital Biodesign and Personalized Healthcare", 
+Sechenov University, Moscow, Russia.
+(5)Department of Physics and Astronomy, Ghent University, Ghent, Belgium.
+(6)Laboratory of Computational Biology and Medicine, Ural Federal University, 
+Yekaterinburg, Russia.
+(7)Laboratory of Atomic and Solid-State Physics and Sibley School of Mechanical 
+and Aerospace Engineering, Cornell University, Ithaca, NY, United States.
+
+Ambient temperature has a profound influence on cellular electrophysiology 
+through direct control over the gating mechanisms of different ion channels. In 
+the heart, low temperature is known to favor prolongation of the action 
+potential. However, not much is known about the influence of temperature on 
+other important characterization parameters such as the resting membrane 
+potential (RMP), excitability, morphology and characteristics of the action 
+potential (AP), restitution properties, conduction velocity (CV) of signal 
+propagation, etc. Here we present the first, detailed, systematic in silico 
+study of the electrophysiological characterization of cardiomyocytes from 
+different regions of the normal human atria, based on the effects of ambient 
+temperature (5-50°C). We observe that RMP decreases with increasing temperature. 
+At ~ 48°C, the cells lose their excitability. Our studies show that different 
+parts of the atria react differently to the same changes in temperature. In 
+tissue simulations a drop in temperature correlated positively with a decrease 
+in CV, but the decrease was region-dependent, as expected. In this article we 
+show how this heterogeneous response can provide an explanation for the 
+development of a proarrhythmic substrate during mild hypothermia. We use the 
+above concept to propose a treatment strategy for atrial fibrillation that 
+involves severe hypothermia in specific regions of the heart for a duration of 
+only ~ 200 ms.
+
+Copyright © 2021 Majumder, Mohamed Nazer, Panfilov, Bodenschatz and Wang.
+
+DOI: 10.3389/fphys.2021.639149
+PMCID: PMC8346027
+PMID: 34366877
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,43 @@
+1. PLoS Comput Biol. 2011 Mar;7(3):e1001097. doi: 10.1371/journal.pcbi.1001097. 
+Epub 2011 Mar 3.
+
+Dynamic conformational changes in munc18 prevent syntaxin binding.
+
+Bar-On D(1), Nachliel E, Gutman M, Ashery U.
+
+Author information:
+(1)Department of Neurobiology, Tel Aviv University, Tel Aviv, Israel.
+
+The Sec1/munc18 protein family is essential for vesicle fusion in eukaryotic 
+cells via binding to SNARE proteins. Protein kinase C modulates these 
+interactions by phosphorylating munc18a thereby reducing its affinity to one of 
+the central SNARE members, syntaxin-1a. The established hypothesis is that the 
+reduced affinity of the phosphorylated munc18a to syntaxin-1a is a result of 
+local electrostatic repulsion between the two proteins, which interferes with 
+their compatibility. The current study challenges this paradigm and offers a 
+novel mechanistic explanation by revealing a syntaxin-non-binding conformation 
+of munc18a that is induced by the phosphomimetic mutations. In the present 
+study, using molecular dynamics simulations, we explored the dynamics of the 
+wild-type munc18a versus phosphomimetic mutant munc18a. We focused on the 
+structural changes that occur in the cavity between domains 3a and 1, which 
+serves as the main syntaxin-binding site. The results of the simulations suggest 
+that the free wild-type munc18a exhibits a dynamic equilibrium between several 
+conformations differing in the size of its cavity (the main syntaxin-binding 
+site). The flexibility of the cavity's size might facilitate the binding or 
+unbinding of syntaxin. In silico insertion of phosphomimetic mutations into the 
+munc18a structure induces the formation of a conformation where the 
+syntaxin-binding area is rigid and blocked as a result of interactions between 
+residues located on both sides of the cavity. Therefore, we suggest that the 
+reduced affinity of the phosphomimetic mutant/phosphorylated munc18a is a result 
+of the closed-cavity conformation, which makes syntaxin binding energetically 
+and sterically unfavorable. The current study demonstrates the potential of 
+phosphorylation, an essential biological process, to serve as a driving force 
+for dramatic conformational changes of proteins modulating their affinity to 
+target proteins.
+
+DOI: 10.1371/journal.pcbi.1001097
+PMCID: PMC3048386
+PMID: 21390273 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

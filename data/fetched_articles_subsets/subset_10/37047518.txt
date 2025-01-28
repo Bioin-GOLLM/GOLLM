@@ -1,0 +1,43 @@
+1. Int J Mol Sci. 2023 Mar 31;24(7):6545. doi: 10.3390/ijms24076545.
+
+Genome-Wide CRISPR Screens Reveal ZATT as a Synthetic Lethal Target of 
+TOP2-Poison Etoposide That Can Act in a TDP2-Independent Pathway.
+
+Park JM(1), Zhang H(2), Nie L(2), Wang C(2), Huang M(2), Feng X(2), Tang M(2), 
+Chen Z(2), Xiong Y(3), Lee N(1), Li S(2), Yin L(2), Hart T(3), Chen J(2).
+
+Author information:
+(1)Department of Stem Cell Transplantation Research, The University of Texas MD 
+Anderson Cancer Center, Houston, TX 77030, USA.
+(2)Department of Experimental Radiation Oncology, The University of Texas MD 
+Anderson Cancer Center, Houston, TX 77030, USA.
+(3)Department of Bioinformatics and Computational Biology, The University of 
+Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+
+Etoposide (ETO) is an anticancer drug that targets topoisomerase II (TOP2). It 
+stabilizes a normally transient TOP2-DNA covalent complex (TOP2cc), thus leading 
+to DNA double-strand breaks (DSBs). Tyrosyl-DNA phosphodiesterases two (TDP2) is 
+directly involved in the repair of TOP2cc by removing phosphotyrosyl peptides 
+from 5'-termini of DSBs. Recent studies suggest that additional factors are 
+required for TOP2cc repair, which include the proteasome and the zinc finger 
+protein associated with TDP2 and TOP2, named ZATT. ZATT may alter the 
+conformation of TOP2cc in a way that renders the accessibility of TDP2 for 
+TOP2cc removal. In this study, our genome-wide clustered regularly interspaced 
+short palindromic repeats (CRISPR) screens revealed that ZATT also has a 
+TDP2-independent role in promoting cell survival following ETO treatment. ZATT 
+KO cells showed relatively higher ETO sensitivity than TDP2-KO cells, and 
+ZATT/TDP2 DKO cells displayed additive hypersensitivity to ETO treatment. The 
+study using a series of deletion mutants of ZATT determined that the N-terminal 
+1-168 residues of ZATT are required for interaction with TOP2 and this 
+interaction is critical to ETO sensitivity. Moreover, depletion of ZATT resulted 
+in accelerated TOP2 degradation after ETO or cycloheximide (CHX) treatment, 
+suggesting that ZATT may increase TOP2 stability and likely participate in TOP2 
+turnover. Taken together, this study suggests that ZATT is a critical 
+determinant that dictates responses to ETO treatment and targeting. ZATT is a 
+promising strategy to increase ETO efficacy for cancer therapy.
+
+DOI: 10.3390/ijms24076545
+PMCID: PMC10095316
+PMID: 37047518 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

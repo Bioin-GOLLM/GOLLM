@@ -1,0 +1,54 @@
+1. Front Oncol. 2022 Dec 16;12:996262. doi: 10.3389/fonc.2022.996262. eCollection
+ 2022.
+
+Development and validation of a preoperative MRI-based radiomics nomogram to 
+predict progression-free survival in patients with clival chordomas.
+
+Zhai Y(1), Bai J(1), Xue Y(2), Li M(1), Mao W(2), Zhang X(2), Zhang 
+Y(1)(3)(4)(5).
+
+Author information:
+(1)Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+(2)Department of Neurosurgery, The First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, China.
+(3)Department of Neurosurgery, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+(4)Center of Brain Tumor, Beijing Institute for Brain Disorders, Capital Medical 
+University, Beijing, China.
+(5)China National Clinical Research Center for Neurological Diseases, Beijing, 
+China.
+
+OBJECTIVES: The aim of this study was to establish and validate a MRI-based 
+radiomics nomogram to predict progression-free survival (PFS) of clival 
+chordoma.
+METHODS: A total of 174 patients were enrolled in the study (train cohort: 121 
+cases, test cohort: 53 cases). Radiomic features were extracted from 
+multiparametric MRIs. Intraclass correlation coefficient analysis and a Lasso 
+and Elastic-Net regularized generalized linear model were used for feature 
+selection. Then, a nomogram was established via univariate and multivariate Cox 
+regression analysis in the train cohort. The performance of this nomogram was 
+assessed by area under curve (AUC) and calibration curve.
+RESULTS: A total of 3318 radiomic features were extracted from each patient, of 
+which 2563 radiomic features were stable features. After feature selection, 
+seven radiomic features were selected. Cox regression analysis revealed that 2 
+clinical factors (degree of resection, and presence or absence of primary 
+chordoma) and 4 radiomic features were independent prognostic factors. The AUC 
+of the established nomogram was 0.747, 0.807, and 0.904 for PFS prediction at 1, 
+3, and 5 years in the train cohort, respectively, compared with 0.582, 0.852, 
+and 0.914 in the test cohort. Calibration and risk score stratified survival 
+curves were satisfactory in the train and test cohort.
+CONCLUSIONS: The presented nomogram demonstrated a favorable predictive accuracy 
+of PFS, which provided a novel tool to predict prognosis and risk 
+stratification. Our results suggest that radiomic analysis can effectively help 
+neurosurgeons perform individualized evaluations of patients with clival 
+chordomas.
+
+Copyright © 2022 Zhai, Bai, Xue, Li, Mao, Zhang and Zhang.
+
+DOI: 10.3389/fonc.2022.996262
+PMCID: PMC9800789
+PMID: 36591445
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

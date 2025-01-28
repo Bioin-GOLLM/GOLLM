@@ -1,0 +1,50 @@
+1. Genome Biol. 2021 Nov 11;22(1):311. doi: 10.1186/s13059-021-02535-4.
+
+ATRX regulates glial identity and the tumor microenvironment in IDH-mutant 
+glioma.
+
+Babikir H(#)(1), Wang L(#)(1), Shamardani K(1), Catalan F(1), Sudhir S(1), Aghi 
+MK(1), Raleigh DR(1), Phillips JJ(1), Diaz AA(2).
+
+Author information:
+(1)Department of Neurological Surgery, University of California, Aaron Diaz, 
+1450 3rd Street, San Francisco, CA, 94158, USA.
+(2)Department of Neurological Surgery, University of California, Aaron Diaz, 
+1450 3rd Street, San Francisco, CA, 94158, USA. aaron.diaz@ucsf.edu.
+(#)Contributed equally
+
+BACKGROUND: Recent single-cell transcriptomic studies report that IDH-mutant 
+gliomas share a common hierarchy of cellular phenotypes, independent of genetic 
+subtype. However, the genetic differences between IDH-mutant glioma subtypes are 
+prognostic, predictive of response to chemotherapy, and correlate with distinct 
+tumor microenvironments.
+RESULTS: To reconcile these findings, we profile 22 human IDH-mutant gliomas 
+using scATAC-seq and scRNA-seq. We determine the cell-type-specific differences 
+in transcription factor expression and associated regulatory grammars between 
+IDH-mutant glioma subtypes. We find that while IDH-mutant gliomas do share a 
+common distribution of cell types, there are significant differences in the 
+expression and targeting of transcription factors that regulate glial identity 
+and cytokine elaboration. We knock out the chromatin remodeler ATRX, which 
+suffers loss-of-function alterations in most IDH-mutant astrocytomas, in an 
+IDH-mutant immunocompetent intracranial murine model. We find that both human 
+ATRX-mutant gliomas and murine ATRX-knockout gliomas are more heavily 
+infiltrated by immunosuppressive monocytic-lineage cells derived from 
+circulation than ATRX-intact gliomas, in an IDH-mutant background. ATRX knockout 
+in murine glioma recapitulates gene expression and open chromatin signatures 
+that are specific to human ATRX-mutant astrocytomas, including drivers of 
+astrocytic lineage and immune-cell chemotaxis. Through single-cell cleavage 
+under targets and tagmentation assays and meta-analysis of public data, we show 
+that ATRX loss leads to a global depletion in CCCTC-binding factor association 
+with DNA, gene dysregulation along associated chromatin loops, and protection 
+from therapy-induced senescence.
+CONCLUSIONS: These studies explain how IDH-mutant gliomas from different 
+subtypes maintain distinct phenotypes and tumor microenvironments despite a 
+common lineage hierarchy.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13059-021-02535-4
+PMCID: PMC8588616
+PMID: 34763709 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.

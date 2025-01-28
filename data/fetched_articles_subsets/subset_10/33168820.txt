@@ -1,0 +1,61 @@
+1. Sci Data. 2020 Nov 9;7(1):376. doi: 10.1038/s41597-020-00719-4.
+
+Paired rRNA-depleted and polyA-selected RNA sequencing data and supporting 
+multi-omics data from human T cells.
+
+Chen L(1), Yang R(1), Kwan T(2), Tang C(1), Watt S(3), Zhang Y(1), Bourque G(2), 
+Ge B(2), Downes K(4)(5)(6), Frontini M(4)(5)(7)(8), Ouwehand WH(3)(4)(5)(9)(10), 
+Lin JW(1), Soranzo N(11)(12), Pastinen T(13), Chen L(14).
+
+Author information:
+(1)Key Laboratory of Birth Defects and Related Diseases of Women and Children of 
+MOE, Department of Laboratory Medicine, State Key Laboratory of Biotherapy, West 
+China Second Hospital, Sichuan University, Chengdu, Sichuan, 610041, China.
+(2)Human Genetics, McGill University, 740 Dr. Penfield, Montreal, QC, H3A 0G1, 
+Canada.
+(3)Department of Human Genetics, The Wellcome Trust Sanger Institute, Wellcome 
+Trust Genome Campus, Hinxton, Cambridge, CB10 1HH, UK.
+(4)Department of Haematology, University of Cambridge, Cambridge Biomedical 
+Campus, Long Road, Cambridge, CB2 0PT, UK.
+(5)National Health Service (NHS) Blood and Transplant, Cambridge Biomedical 
+Campus, Long Road, Cambridge, CB2 0PT, UK.
+(6)East Midlands and East of England Genomic Laboratory Hub, Cambridge 
+University Hospitals NHS Foundation Trust, Cambridge Biomedical Campus, 
+Cambridge, UK.
+(7)Institute of Biomedical & Clinical Science, College of Medicine and Health, 
+University of Exeter Medical School, RILD Building, Barrack Road, Exeter, EX2 
+5DW, UK.
+(8)British Heart Foundation Centre of Excellence, Cambridge Biomedical Campus, 
+Long Road, Cambridge, CB2 0PT, UK.
+(9)British Heart Foundation Centre of Excellence, Division of Cardiovascular 
+Medicine, Addenbrooke's Hospital, Hills Road, Cambridge, CB2 0QQ, UK.
+(10)The National Institute for Health Research Blood and Transplant Unit (NIHR 
+BTRU) in Donor Health and Genomics at the University of Cambridge, Strangeways 
+Research Laboratory, University of Cambridge, Wort's Causeway, Cambridge, CB1 
+8RN, UK.
+(11)Department of Human Genetics, The Wellcome Trust Sanger Institute, Wellcome 
+Trust Genome Campus, Hinxton, Cambridge, CB10 1HH, UK. ns6@sanger.ac.uk.
+(12)Department of Haematology, University of Cambridge, Cambridge Biomedical 
+Campus, Long Road, Cambridge, CB2 0PT, UK. ns6@sanger.ac.uk.
+(13)Center for Pediatric Genomic Medicine, Children's Mercy Kansas City, 2401 
+Gilham Rd., Kansas City, 64108 MO, USA. tpastinen@cmh.edu.
+(14)Key Laboratory of Birth Defects and Related Diseases of Women and Children 
+of MOE, Department of Laboratory Medicine, State Key Laboratory of Biotherapy, 
+West China Second Hospital, Sichuan University, Chengdu, Sichuan, 610041, China. 
+luchen@scu.edu.cn.
+
+Both poly(A) enrichment and ribosomal RNA depletion are commonly used for RNA 
+sequencing. Either has its advantages and disadvantages that may lead to biases 
+in the downstream analyses. To better access these effects, we carried out both 
+ribosomal RNA-depleted and poly(A)-selected RNA-seq for CD4+ T naive cells 
+isolated from 40 healthy individuals from the Blueprint Project. For these 40 
+individuals, the genomic and epigenetic data were also available. This dataset 
+offers a unique opportunity to understand how library construction influences 
+differential gene expression, alternative splicing and molecular QTL 
+(quantitative loci) analyses for human primary cells.
+
+DOI: 10.1038/s41597-020-00719-4
+PMCID: PMC7652884
+PMID: 33168820 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

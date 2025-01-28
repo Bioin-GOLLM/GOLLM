@@ -1,0 +1,34 @@
+1. Entropy (Basel). 2021 Jul 6;23(7):864. doi: 10.3390/e23070864.
+
+Causality-Network-Based Critical Hazard Identification for Railway Accident 
+Prevention: Complex Network-Based Model Development and Comparison.
+
+Li Q(1), Zhang Z(2), Peng F(3).
+
+Author information:
+(1)Integrated Transportation Research Center, China Academy of Transportation 
+Science, Beijing 100029, China.
+(2)State Key Laboratory of Rail Traffic Control and Safety, Beijing Jiaotong 
+University, Beijing 100044, China.
+(3)School of Automotive Engineering, Beijing Polytechnic, Beijing 100176, China.
+
+This study investigates a critical hazard identification method for railway 
+accident prevention. A new accident causation network is proposed to model the 
+interaction between hazards and accidents. To realize consistency between the 
+most likely and shortest causation paths in terms of hazards to accidents, a 
+method for measuring the length between adjacent nodes is proposed, and the 
+most-likely causation path problem is first transformed to the shortest 
+causation path problem. To identify critical hazard factors that should be 
+alleviated for accident prevention, a novel critical hazard identification model 
+is proposed based on a controllability analysis of hazards. Five critical hazard 
+identification methods are proposed to select critical hazard nodes in an 
+accident causality network. A comparison of results shows that the combination 
+of an integer programming-based critical hazard identification method and the 
+proposed weighted direction accident causality network considering length has 
+the best performance in terms of accident prevention.
+
+DOI: 10.3390/e23070864
+PMCID: PMC8307035
+PMID: 34356405
+
+Conflict of interest statement: The authors declare no conflict of interest.

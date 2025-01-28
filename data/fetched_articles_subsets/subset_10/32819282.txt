@@ -1,0 +1,63 @@
+1. BMC Genomics. 2020 Aug 21;21(1):317. doi: 10.1186/s12864-020-6670-5.
+
+Hybrid transcriptome sequencing approach improved assembly and gene annotation 
+in Cynara cardunculus (L.).
+
+Puglia GD(1)(2), Prjibelski AD(3), Vitale D(4), Bushmanova E(3), Schmid KJ(5), 
+Raccuia SA(4).
+
+Author information:
+(1)Institute for Plant Breeding, Seed Science and Population Genetics, 
+University of Hohenheim, Fruwirthstrasse 21, 70599, Stuttgart, Germany. 
+giuseppediego.puglia@cnr.it.
+(2)Consiglio Nazionale delle Ricerche, Istituto per i Sistemi Agricoli e 
+Forestali del Mediterraneo (CNR-ISAFOM) U.O.S. Catania, Via Empedocle, 58, 
+95128, Catania, Italy. giuseppediego.puglia@cnr.it.
+(3)Center for Algorithmic Biotechnology, Institute of Translational Biomedicine, 
+St. Petersburg State University, St. Petersburg, Russia.
+(4)Consiglio Nazionale delle Ricerche, Istituto per i Sistemi Agricoli e 
+Forestali del Mediterraneo (CNR-ISAFOM) U.O.S. Catania, Via Empedocle, 58, 
+95128, Catania, Italy.
+(5)Institute for Plant Breeding, Seed Science and Population Genetics, 
+University of Hohenheim, Fruwirthstrasse 21, 70599, Stuttgart, Germany. 
+karl.schmid@uni-hohenheim.de.
+
+BACKGROUND: The investigation of transcriptome profiles using short reads in 
+non-model organisms, which lack of well-annotated genomes, is limited by partial 
+gene reconstruction and isoform detection. In contrast, long-reads sequencing 
+techniques revealed their potential to generate complete transcript assemblies 
+even when a reference genome is lacking. Cynara cardunculus var. altilis (DC) 
+(cultivated cardoon) is a perennial hardy crop adapted to dry environments with 
+many industrial and nutraceutical applications due to the richness of secondary 
+metabolites mostly produced in flower heads. The investigation of this species 
+benefited from the recent release of a draft genome, but the transcriptome 
+profile during the capitula formation still remains unexplored. In the present 
+study we show a transcriptome analysis of vegetative and inflorescence organs of 
+cultivated cardoon through a novel hybrid RNA-seq assembly approach utilizing 
+both long and short RNA-seq reads.
+RESULTS: The inclusion of a single Nanopore flow-cell output in a hybrid 
+sequencing approach determined an increase of 15% complete assembled genes and 
+18% transcript isoforms respect to short reads alone. Among 25,463 assembled 
+unigenes, we identified 578 new genes and updated 13,039 gene models, 11,169 of 
+which were alternatively spliced isoforms. During capitulum development, 3424 
+genes were differentially expressed and approximately two-thirds were identified 
+as transcription factors including bHLH, MYB, NAC, C2H2 and MADS-box which were 
+highly expressed especially after capitulum opening. We also show the expression 
+dynamics of key genes involved in the production of valuable secondary 
+metabolites of which capitulum is rich such as phenylpropanoids, flavonoids and 
+sesquiterpene lactones. Most of their biosynthetic genes were strongly 
+transcribed in the flower heads with alternative isoforms exhibiting 
+differentially expression levels across the tissues.
+CONCLUSIONS: This novel hybrid sequencing approach allowed to improve the 
+transcriptome assembly, to update more than half of annotated genes and to 
+identify many novel genes and different alternatively spliced isoforms. This 
+study provides new insights on the flowering cycle in an Asteraceae plant, a 
+valuable resource for plant biology and breeding in Cynara and an effective 
+method for improving gene annotation.
+
+DOI: 10.1186/s12864-020-6670-5
+PMCID: PMC7441626
+PMID: 32819282 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

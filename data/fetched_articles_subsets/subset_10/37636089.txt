@@ -1,0 +1,57 @@
+1. Front Plant Sci. 2023 Aug 9;14:1098987. doi: 10.3389/fpls.2023.1098987. 
+eCollection 2023.
+
+De novo transcriptome analysis of Dysoxylum binectariferum to unravel the 
+biosynthesis of pharmaceutically relevant specialized metabolites.
+
+Kumara PM(1)(2), Varun E(2), Sanjay JR(2), Madhushree AH(2), Thimmappa R(3).
+
+Author information:
+(1)Department of Biotechnology and Crop Improvement, Kittur Rani Chennamma 
+College of Horticulture, Arabhavi, University of Horticultural Sciences, 
+Bagalkot, Karnataka, India.
+(2)Center for Ayurveda Biology and Holistic Nutrition, The University of 
+Trans-Disciplinary Health Sciences and Technology (TDU), Bengaluru, Karnataka, 
+India.
+(3)Amity Institute of Genome Engineering, Amity University Uttar Pradesh, Noida, 
+India.
+
+The tropical tree, D. binectariferum, is a prominent source of chromone alkaloid 
+rohitukine, which is used in the semi-syntheses of anticancer molecules such as 
+flavopiridol and P-276-00. The biosynthetic pathway of rohitukine or its 
+derivatives is currently unknown in plants. Here, we explored chromone alkaloid 
+biosynthesis in D. binectariferum through targeted transcriptome sequencing. 
+Illumina sequencing of leaves and roots of a year-old D. binectariferum seedling 
+generated, 42.43 and 38.74 million paired-end short reads, respectively. Quality 
+filtering and de novo assembly of the transcriptome generated 274,970 contigs 
+and 126,788 unigenes with an N50 contig length of 1560 bp. The assembly 
+generated 117,619 translated unigene protein sequences and 51,598 non-redundant 
+sequences. Nearly 80% of these non-redundant sequences were annotated to 
+publicly available protein and nucleotide databases, suggesting the completeness 
+and effectiveness of the transcriptome assembly. Using the assembly, we 
+identified a chalcone synthase (CHS) and three type III polyketide synthases 
+(PKS-III; non-CHS type) that are likely to be involved in the biosynthesis of 
+chromone ring/noreugenin moiety of rohitukine. We also identified key enzymes 
+like lysine decarboxylase in the piperidine pathway that make the piperidine 
+moiety of rohitukine. Besides these, the upstream enzymes in flavonoid 
+biosynthesis like phenylalanine ammonia-lyase (PAL), trans-cinnamate 
+4-hydroxylase (C4H),4-coumarate-CoA ligase (4CL), and chalcone isomerase (CHI) 
+have also been identified. Also, terpene synthases that are likely to be 
+involved in the biosynthesis of various terpenoid scaffolds have been 
+identified. Together, the D. binectariferum transcriptome resource forms a basis 
+for further exploration of biosynthetic pathways of these valuable compounds 
+through functional validation of the candidate genes and metabolic engineering 
+in heterologous hosts. Additionally, the transcriptome dataset generated will 
+serve as an important resource for research on functional genomics and enzyme 
+discovery in D. binectariferum and comparative analysis with other Meliaceae 
+family members.
+
+Copyright © 2023 Kumara, Varun, Sanjay, Madhushree and Thimmappa.
+
+DOI: 10.3389/fpls.2023.1098987
+PMCID: PMC10450223
+PMID: 37636089
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

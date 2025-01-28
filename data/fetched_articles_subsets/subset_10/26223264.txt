@@ -1,0 +1,43 @@
+1. Hum Genomics. 2015 Jul 30;9(1):18. doi: 10.1186/s40246-015-0040-4.
+
+Predicting the combined effect of multiple genetic variants.
+
+Liu M(1), Watson LT(2)(3)(4), Zhang L(5).
+
+Author information:
+(1)Department of Computer Science, Virginia Polytechnic Institute and State 
+University, Blacksburg, VA, USA. mingml@vt.edu.
+(2)Department of Computer Science, Virginia Polytechnic Institute and State 
+University, Blacksburg, VA, USA. ltwatson@computer.org.
+(3)Department of Mathematics, Virginia Polytechnic Institute and State 
+University, Blacksburg, VA, USA. ltwatson@computer.org.
+(4)Department of Aerospace and Ocean Engineering, Virginia Polytechnic Institute 
+and State University, Blacksburg, VA, USA. ltwatson@computer.org.
+(5)Department of Computer Science, Virginia Polytechnic Institute and State 
+University, Blacksburg, VA, USA. lqzhang@cs.vt.edu.
+
+BACKGROUND: Many genetic variants have been identified in the human genome. The 
+functional effects of a single variant have been intensively studied. However, 
+the joint effects of multiple variants in the same genes have been largely 
+ignored due to their complexity or lack of data. This paper uses HMMvar, a 
+hidden Markov model based approach, to investigate the combined effect of 
+multiple variants from the 1000 Genomes Project. Two tumor suppressor genes, 
+TP53 and phosphatase and tensin homolog (PTEN), are also studied for the joint 
+effect of compensatory indel variants.
+RESULTS: Results show that there are cases where the joint effect of having 
+multiple variants in the same genes is significantly different from that of a 
+single variant. The deleterious effect of a single indel variant can be 
+alleviated by their compensatory indels in TP53 and PTEN. Compound mutations in 
+two genes, β-MHC and MyBP-C, leading to severer cardiovascular disease compared 
+to single mutations, are also validated.
+CONCLUSIONS: This paper extends the functionality of HMMvar, a tool for 
+assigning a quantitative score to a variant, to measure not only the deleterious 
+effect of a single variant but also the joint effect of multiple variants. 
+HMMvar is the first tool that can predict the functional effects of both single 
+and general multiple variations on proteins. The precomputed scores for multiple 
+variants from the 1000 Genomes Project and the HMMvar package are available at 
+https://bioinformatics.cs.vt.edu/zhanglab/HMMvar/.
+
+DOI: 10.1186/s40246-015-0040-4
+PMCID: PMC4520001
+PMID: 26223264 [Indexed for MEDLINE]

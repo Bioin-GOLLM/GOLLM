@@ -1,0 +1,38 @@
+1. Sensors (Basel). 2021 Dec 21;22(1):9. doi: 10.3390/s22010009.
+
+Multi-Layer Attack Graph Analysis in the 5G Edge Network Using a Dynamic 
+Hexagonal Fuzzy Method.
+
+Kholidy HA(1).
+
+Author information:
+(1)Department of Networks and Computer Security, College of Engineering, State 
+University of New York (SUNY) Polytechnic Institute, Utica, NY 13502, USA.
+
+Overall, 5G networks are expected to become the backbone of many critical IT 
+applications. With 5G, new tech advancements and innovation are expected; 5G 
+currently operates on software-defined networking. This enables 5G to implement 
+network slicing to meet the unique requirements of every application. As a 
+result, 5G is more flexible and scalable than 4G LTE and previous generations. 
+To avoid the growing risks of hacking, 5G cybersecurity needs some significant 
+improvements. Some security concerns involve the network itself, while others 
+focus on the devices connected to 5G. Both aspects present a risk to consumers, 
+governments, and businesses alike. There is currently no real-time vulnerability 
+assessment framework that specifically addresses 5G Edge networks, with regard 
+to their real-time scalability and dynamic nature. This paper studies the 
+vulnerability assessment in the 5G networks and develops an optimized dynamic 
+method that integrates the Technique for Order of Preference by Similarity to 
+Ideal Solution (TOPSIS) with the hexagonal fuzzy numbers to accurately analyze 
+the vulnerabilities in 5G networks. The proposed method considers both the 
+vulnerability and 5G network dynamic factors such as latency and accessibility 
+to find the potential attack graph paths where the attack might propagate in the 
+network and quantifies the attack cost and security level of the network. We 
+test and validate the proposed method using our 5G testbed and we compare the 
+optimized method to the classical TOPSIS and the known vulnerability scanner 
+tool, Nessus.
+
+DOI: 10.3390/s22010009
+PMCID: PMC8747503
+PMID: 35009551 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.

@@ -1,0 +1,38 @@
+1. BMC Bioinformatics. 2007 Nov 9;8:438. doi: 10.1186/1471-2105-8-438.
+
+Glycosylation site prediction using ensembles of Support Vector Machine 
+classifiers.
+
+Caragea C(1), Sinapov J, Silvescu A, Dobbs D, Honavar V.
+
+Author information:
+(1)Artificial Intelligence Research Laboratory, Computer Science Department, 
+Iowa State University, USA. cornelia@cs.iastate.edu
+
+BACKGROUND: Glycosylation is one of the most complex post-translational 
+modifications (PTMs) of proteins in eukaryotic cells. Glycosylation plays an 
+important role in biological processes ranging from protein folding and 
+subcellular localization, to ligand recognition and cell-cell interactions. 
+Experimental identification of glycosylation sites is expensive and laborious. 
+Hence, there is significant interest in the development of computational methods 
+for reliable prediction of glycosylation sites from amino acid sequences.
+RESULTS: We explore machine learning methods for training classifiers to predict 
+the amino acid residues that are likely to be glycosylated using information 
+derived from the target amino acid residue and its sequence neighbors. We 
+compare the performance of Support Vector Machine classifiers and ensembles of 
+Support Vector Machine classifiers trained on a dataset of experimentally 
+determined N-linked, O-linked, and C-linked glycosylation sites extracted from 
+O-GlycBase version 6.00, a database of 242 proteins from several different 
+species. The results of our experiments show that the ensembles of Support 
+Vector Machine classifiers outperform single Support Vector Machine classifiers 
+on the problem of predicting glycosylation sites in terms of a range of standard 
+measures for comparing the performance of classifiers. The resulting methods 
+have been implemented in EnsembleGly, a web server for glycosylation site 
+prediction.
+CONCLUSION: Ensembles of Support Vector Machine classifiers offer an accurate 
+and reliable approach to automated identification of putative glycosylation 
+sites in glycoprotein sequences.
+
+DOI: 10.1186/1471-2105-8-438
+PMCID: PMC2220009
+PMID: 17996106 [Indexed for MEDLINE]

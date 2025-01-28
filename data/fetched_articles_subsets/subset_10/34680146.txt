@@ -1,0 +1,45 @@
+1. Biomolecules. 2021 Oct 14;11(10):1512. doi: 10.3390/biom11101512.
+
+A Promising Intracellular Protein-Degradation Strategy: TRIMbody-Away Technique 
+Based on Nanobody Fragment.
+
+Chen G(1), Kong Y(1), Li Y(1), Huang A(1), Wang C(1), Zhou S(1), Yang Z(2), Wu 
+Y(1), Ren J(3), Ying T(1).
+
+Author information:
+(1)MOE/NHC/CAMS Key Laboratory of Medical Molecular Virology, School of Basic 
+Medical Sciences, Shanghai Medical College, Fudan University, Shanghai 200032, 
+China.
+(2)Department of Pulmonary Medicine, Zhongshan Hospital, Fudan University, 
+Shanghai 200032, China.
+(3)CAS Key Laboratory of Computational Biology, Shanghai Institute of Nutrition 
+and Health, University of Chinese Academy of Sciences, Chinese Academy of 
+Sciences, Shanghai 200031, China.
+
+Most recently, a technology termed TRIM-Away has allowed acute and rapid 
+destruction of endogenous target proteins in cultured cells using specific 
+antibodies and endogenous/exogenous tripartite motif 21 (TRIM21). However, the 
+relatively large size of the full-size mAbs (150 kDa) results in correspondingly 
+low tissue penetration and inaccessibility of some sterically hindered epitopes, 
+which limits the target protein degradation. In addition, exogenous introduction 
+of TRIM21 may cause side effects for treated cells. To tackle these limitations, 
+we sought to replace full-size mAbs with the smaller format of antibodies, a 
+nanobody (VHH, 15 kDa), and construct a new type of fusion protein named 
+TRIMbody by fusing the nanobody and RBCC motif of TRIM21. Next, we introduced 
+enhanced green fluorescent protein (EGFP) as a model substrate and generated 
+αEGFP TRIMbody using a bispecific anti-EGFP (αEGFP) nanobody. Remarkably, 
+inducible expression of αEGFP TRIMbody could specifically degrade intracellular 
+EGFP in HEK293T cells in a time-dependent manner. By treating cells with 
+inhibitors, we found that intracellular EGFP degradation by αEGFP TRIMbody 
+relies on both ubiquitin-proteasome and autophagy-lysosome pathways. Taken 
+together, these results suggested that TRIMbody-Away technology could be 
+utilized to specifically degrade intracellular protein and could expand the 
+potential applications of degrader technologies.
+
+DOI: 10.3390/biom11101512
+PMCID: PMC8533776
+PMID: 34680146 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

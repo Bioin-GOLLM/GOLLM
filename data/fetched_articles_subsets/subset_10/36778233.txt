@@ -1,0 +1,38 @@
+1. bioRxiv [Preprint]. 2023 Feb 1:2023.02.01.526549. doi: 
+10.1101/2023.02.01.526549.
+
+Multi-input drug-controlled switches of mammalian gene expression based on 
+engineered nuclear hormone receptors.
+
+Kretschmer S(1)(2), Perry N(1)(2)(3), Zhang Y(1)(2), Kortemme T(1)(2)(3).
+
+Author information:
+(1)Department of Bioengineering and Therapeutic Sciences, University of 
+California, San Francisco, CA 94158, USA.
+(2)California Quantitative Biosciences Institute (QBI) at UCSF, San Francisco, 
+CA 94158, USA.
+(3)University of California, Berkeley-University of California, San Francisco 
+Joint Graduate Program in Bioengineering, San Francisco, CA, USA.
+
+Update in
+    ACS Synth Biol. 2023 Jul 21;12(7):1924-1934. doi: 10.1021/acssynbio.3c00080.
+
+Protein-based switches that respond to different inputs to regulate cellular 
+outputs, such as gene expression, are central to synthetic biology. For 
+increased controllability, multi-input switches that integrate several 
+cooperating and competing signals for the regulation of a shared output are of 
+particular interest. The nuclear hormone receptor (NHR) superfamily offers 
+promising starting points for engineering multi-input-controlled responses to 
+clinically approved drugs. Starting from the VgEcR/RXR pair, we demonstrate that 
+novel (multi-)drug regulation can be achieved by exchange of the ecdysone 
+receptor (EcR) ligand binding domain (LBD) for other human NHR-derived LBDs. For 
+responses activated to saturation by an agonist for the first LBD, we show that 
+outputs can be boosted by an agonist targeting the second LBD. In combination 
+with an antagonist, output levels are tunable by up to three simultaneously 
+present small-molecule drugs. Such high-level control validates NHRs as a 
+versatile, engineerable platform for programming multi-drug-controlled 
+responses.
+
+DOI: 10.1101/2023.02.01.526549
+PMCID: PMC9915577
+PMID: 36778233

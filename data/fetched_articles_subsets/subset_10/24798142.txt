@@ -1,0 +1,34 @@
+1. Biochemistry. 2014 May 27;53(20):3308-17. doi: 10.1021/bi5002085. Epub 2014
+May  13.
+
+Exploring the catalytic mechanism of alkanesulfonate monooxygenase using 
+molecular dynamics.
+
+Armacost K(1), Musila J, Gathiaka S, Ellis HR, Acevedo O.
+
+Author information:
+(1)Department of Chemistry and Biochemistry, Auburn University , Auburn, Alabama 
+36849, United States.
+
+The complex mechanistic properties of alkanesulfonate monooxygenase (SsuD) 
+provide a particular challenge for identifying catalytically relevant amino 
+acids. In response, a joint computational and experimental study was conducted 
+to further elucidate the SsuD mechanism. Extensive unbiased molecular dynamics 
+(MD) simulations were performed for six SsuD systems: (1) substrate-free, (2) 
+bound with FMNH2, (3) bound with a C4a-peroxyflavin intermediate (FMNOO(-)), (4) 
+bound with octanesulfonate (OCS), (5) co-bound with FMNH2 and OCS, and (6) 
+co-bound with FMNOO(-) and OCS. A previous theoretical study suggested that salt 
+bridges between Arg297 and Glu20 or Asp111 initiated conformational changes 
+critical for catalysis. However, our MD simulations and steady-state kinetic 
+experiments did not corroborate this result. Similar kcat/Km values for both the 
+E20A and D111A SsuD variants to wild-type SsuD suggest that the salt bridges are 
+not critical to the desulfonation mechanism. Instead, the predicted role of 
+Arg297 is to favorably interact with the phosphate group of the reduced flavin. 
+Concomitantly, Arg226 functioned as a "protection" group shielding FMNOO(-) from 
+bulk solvent and was more pronounced when both FMNOO(-) and OCS were bound. The 
+stabilization of FMNOO(-) through electrostatic interactions with Arg226 would 
+properly position the C4a peroxy group for the proposed nucleophilic attack on 
+the sulfur of octanesulfonate.
+
+DOI: 10.1021/bi5002085
+PMID: 24798142 [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+1. BMC Bioinformatics. 2008 Apr 28;9:218. doi: 10.1186/1471-2105-9-218.
+
+An efficient visualization tool for the analysis of protein mutation matrices.
+
+David MP(1), Lapid CM, Daria VR.
+
+Author information:
+(1)Computational Science Research Center, University of the Philippines, Diliman 
+1101, Philippines. maria_pamela.david@up.edu.ph
+
+BACKGROUND: It is useful to develop a tool that would effectively describe 
+protein mutation matrices specifically geared towards the identification of 
+mutations that produce either wanted or unwanted effects, such as an increase or 
+decrease in affinity, or a predisposition towards misfolding. Here, we describe 
+a tool where such mutations are efficiently identified, categorized and 
+visualized. To categorize the mutations, amino acids in a mutation matrix are 
+arranged according to one of three sets of physicochemical characteristics, 
+namely hydrophilicity, size and polarizability, and charge and polarity. The 
+magnitude and frequencies of mutations for an alignment are subsequently 
+described using color information and scaling factors.
+RESULTS: To illustrate the capabilities of our approach, the technique is used 
+to visualize and to compare mutation patterns in evolving sequences with 
+diametrically opposite characteristics. Results show the emergence of distinct 
+patterns not immediately discernible from the raw matrices.
+CONCLUSION: Our technique enables effective categorization and visualization of 
+mutations by using specifically-arranged mutation matrices. This tool has a 
+number of possible applications in protein engineering, notably in simplifying 
+the identification of mutations and/or mutation trends that are associated with 
+specific engineered protein characteristics and behavior.
+
+DOI: 10.1186/1471-2105-9-218
+PMCID: PMC2390542
+PMID: 18442400 [Indexed for MEDLINE]

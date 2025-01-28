@@ -1,0 +1,44 @@
+1. Indian J Dermatol. 2019 Jan-Feb;64(1):1-6. doi: 10.4103/ijd.IJD_68_18.
+
+Pathogenesis of Alopecia Areata Based on Bioinformatics Analysis.
+
+Zhang Z(1), Wang X(2), Zhang R(1).
+
+Author information:
+(1)Department of Toxicology, School of Public Health, Shaanxi University of 
+Chinese Medicine, Xi'an, China.
+(2)Department of Dermatology, Affiliated Hospital of Shaanxi University of 
+Chinese Medicine, Xianyang, China.
+
+BACKGROUND: Alopecia areata (AA) describes a sudden localized patchy alopecia. 
+The cause of AA is not completely clear and its incidence may be related to 
+genetic, autoimmune, and environmental factors.
+AIM: To explore the possible mechanisms of AA and to provide a basis for the 
+early diagnosis and treatment of AA.
+METHODS: Gene microarray data from 122 scalp skin biopsy tissue samples from 
+patients with AA or healthy controls from the Gene-Cloud of Biotechnology 
+Information database were analyzed using bioinformatics analysis methods. 
+Molecular network analysis of the differentially expressed genes (DEGs) was 
+conducted by Cytocluster using the Molecular Complex Detection (MCODE) 
+algorithm.
+RESULTS: The gene expression profile of skin lesions from patients with AA was 
+significantly altered, with 111 DEGs found in the skin lesions of AA, compared 
+with that of the healthy skin. The DEGs were mainly related to biological 
+processes such as the development of the epidermis and inflammatory reaction. 
+The protein-protein interaction network analysis of DEGs revealed bone 
+morphogenetic protein 2 (BMP2) as a core protein interaction network. BMP2 acted 
+not only via the inflammatory response but also via the signaling pathways in 
+epithelial cell development and epidermal cell differentiation to affect the 
+epidermal development. MCODE analysis further showed that keratins (KRTs) and 
+keratin-associated proteins (KRTAPs) can affect the epidermal development via 
+the epidermal development pathway.
+CONCLUSIONS: The abnormal development of the epidermis and inflammatory 
+reactions in skin tissue play important roles in the pathogenesis of AA and are 
+closely related to BMP2, KRTs, and KRTAPs genes.
+LIMITATIONS: Our study was limited by experimental verification.
+
+DOI: 10.4103/ijd.IJD_68_18
+PMCID: PMC6340232
+PMID: 30745627
+
+Conflict of interest statement: There are no conflicts of interest.

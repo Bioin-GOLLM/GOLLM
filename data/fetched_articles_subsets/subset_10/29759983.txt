@@ -1,0 +1,43 @@
+1. Mol Syst Biol. 2018 May 14;14(5):e8190. doi: 10.15252/msb.20188190.
+
+High-throughput discovery of functional disordered regions: investigation of 
+transactivation domains.
+
+Ravarani CN(1), Erkina TY(2), De Baets G(3), Dudman DC(2), Erkine AM(4), Babu 
+MM(1).
+
+Author information:
+(1)MRC Laboratory of Molecular Biology, Cambridge, UK ravarani@mrc-lmb.cam.ac.uk 
+aerkine@butler.edu madanm@mrc-lmb.cam.ac.uk.
+(2)Butler University, Indianapolis, IN, USA.
+(3)MRC Laboratory of Molecular Biology, Cambridge, UK.
+(4)Butler University, Indianapolis, IN, USA ravarani@mrc-lmb.cam.ac.uk 
+aerkine@butler.edu madanm@mrc-lmb.cam.ac.uk.
+
+Comment in
+    Mol Syst Biol. 2018 May 22;14(5):e8377. doi: 10.15252/msb.20188377.
+
+Over 40% of proteins in any eukaryotic genome encode intrinsically disordered 
+regions (IDRs) that do not adopt defined tertiary structures. Certain IDRs 
+perform critical functions, but discovering them is non-trivial as the 
+biological context determines their function. We present IDR-Screen, a framework 
+to discover functional IDRs in a high-throughput manner by simultaneously 
+assaying large numbers of DNA sequences that code for short disordered 
+sequences. Functionality-conferring patterns in their protein sequence are 
+inferred through statistical learning. Using yeast HSF1 transcription 
+factor-based assay, we discovered IDRs that function as transactivation domains 
+(TADs) by screening a random sequence library and a designed library consisting 
+of variants of 13 diverse TADs. Using machine learning, we find that segments 
+devoid of positively charged residues but with redundant short sequence patterns 
+of negatively charged and aromatic residues are a generic feature for TAD 
+functionality. We anticipate that investigating defined sequence libraries using 
+IDR-Screen for specific functions can facilitate discovering novel and 
+functional regions of the disordered proteome as well as understand the impact 
+of natural and disease variants in disordered segments.
+
+© 2018 MRC Laboratory of Molecular Biology. Published under the terms of the CC 
+BY 4.0 license.
+
+DOI: 10.15252/msb.20188190
+PMCID: PMC5949888
+PMID: 29759983 [Indexed for MEDLINE]

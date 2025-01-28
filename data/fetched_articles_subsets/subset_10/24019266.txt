@@ -1,0 +1,43 @@
+1. Wiley Interdiscip Rev Syst Biol Med. 2013 Nov-Dec;5(6):717-31. doi: 
+10.1002/wsbm.1240. Epub 2013 Sep 9.
+
+Molecular mechanisms underlying neuronal synaptic plasticity: systems biology 
+meets computational neuroscience in the wilds of synaptic plasticity.
+
+Blackwell KT(1), Jedrzejewska-Szmek J.
+
+Author information:
+(1)Molecular Neuroscience Department, The Krasnow Institute for Advanced 
+Studies, George Mason University, Fairfax, VA, USA.
+
+Interactions among signaling pathways that are activated by transmembrane 
+receptors produce complex networks and emergent dynamical behaviors that are 
+implicated in synaptic plasticity. Temporal dynamics and spatial aspects are 
+critical determinants of cell responses such as synaptic plasticity, although 
+the mapping between spatiotemporal activity pattern and direction of synaptic 
+plasticity is not completely understood. Computational modeling of neuronal 
+signaling pathways has significantly contributed to understanding signaling 
+pathways underlying synaptic plasticity. Spatial models of signaling pathways in 
+hippocampal neurons have revealed mechanisms underlying the spatial distribution 
+of extracellular signal-related kinase (ERK) activation in hippocampal neurons. 
+Other spatial models have demonstrated that the major role of anchoring proteins 
+in striatal and hippocampal synaptic plasticity is to place molecules near their 
+activators. Simulations of yet other models have revealed that the spatial 
+distribution of synaptic plasticity may differ for potentiation versus 
+depression. In general, the most significant advances have been made by 
+interactive modeling and experiments; thus, an interdisciplinary approach should 
+be applied to investigate critical issues in neuronal signaling pathways. These 
+issues include identifying which transmembrane receptors are key for activating 
+ERK in neurons, and the crucial targets of kinases that produce long-lasting 
+synaptic plasticity. Although the number of computer programs for 
+computationally efficient simulation of large reaction-diffusion networks is 
+increasing, parameter estimation and sensitivity analysis in these spatial 
+models remain more difficult than in single compartment models. Advances in live 
+cell imaging coupled with further software development will continue to 
+accelerate the development of spatial models of synaptic plasticity.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/wsbm.1240
+PMCID: PMC3947422
+PMID: 24019266 [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+1. ACS Omega. 2021 Jan 19;6(4):2473-2476. doi: 10.1021/acsomega.0c03906. 
+eCollection 2021 Feb 2.
+
+ChipSeg: An Automatic Tool to Segment Bacterial and Mammalian Cells Cultured in 
+Microfluidic Devices.
+
+de Cesare I(1), Zamora-Chimal CG(1)(2), Postiglione L(1), Khazim M(1)(3), Pedone 
+E(1)(3), Shannon B(2)(4), Fiore G(1)(2), Perrino G(5), Napolitano S(5), di 
+Bernardo D(5)(6), Savery NJ(2)(4), Grierson C(2)(7), di Bernardo M(1)(2)(8), 
+Marucci L(1)(2)(3).
+
+Author information:
+(1)Department of Engineering Mathematics, University of Bristol, Woodland Road, 
+Bristol BS8 1UB, U.K.
+(2)BrisSynBio, Life Sciences Building, University of Bristol, Tyndall Avenue, 
+Bristol BS8 1TQ, U.K.
+(3)School of Cellular and Molecular Medicine, University of Bristol, University 
+Walk, Bristol BS8 1TD, U.K.
+(4)School of Biochemistry, University of Bristol, University Walk, Bristol BS8 
+1TD, U.K.
+(5)Telethon Institute of Genetic and Medicine Via Campi Flegrei 34, 80078 
+Pozzuoli, Italy.
+(6)Department of Chemical, Materials and Industrial Production Engineering, 
+University of Naples Federico II, 80125 Naples, Italy.
+(7)School of Biological Sciences, University of Bristol, Tyndall Avenue, Bristol 
+BS8 1TQ, U.K.
+(8)Department of EE and ICT, University of Naples Federico II, Via Claudio 21, 
+80125 Naples, Italy.
+
+Extracting quantitative measurements from time-lapse images is necessary in 
+external feedback control applications, where segmentation results are used to 
+inform control algorithms. We describe ChipSeg, a computational tool that 
+segments bacterial and mammalian cells cultured in microfluidic devices and 
+imaged by time-lapse microscopy, which can be used also in the context of 
+external feedback control. The method is based on thresholding and uses the same 
+core functions for both cell types. It allows us to segment individual cells in 
+high cell density microfluidic devices, to quantify fluorescent protein 
+expression over a time-lapse experiment, and to track individual mammalian 
+cells. ChipSeg enables robust segmentation in external feedback control 
+experiments and can be easily customized for other experimental settings and 
+research aims.
+
+© 2021 American Chemical Society.
+
+DOI: 10.1021/acsomega.0c03906
+PMCID: PMC7859942
+PMID: 33553865
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

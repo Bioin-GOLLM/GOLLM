@@ -1,0 +1,57 @@
+1. Front Oncol. 2023 Feb 8;13:1051641. doi: 10.3389/fonc.2023.1051641.
+eCollection  2023.
+
+A prognostic NAD+ metabolism-related gene signature for predicting response to 
+immune checkpoint inhibitor in glioma.
+
+Jiang C(1), Zhou Y(1), Yan L(2), Zheng J(1), Wang X(1), Li J(1), Jiang X(1).
+
+Author information:
+(1)Department of Neurosurgery, Union Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, China.
+(2)Department of Hand Surgery, Wuhan Union Hospital, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, China.
+
+BACKGROUND: Nicotinamide adenine dinucleotide (NAD+) metabolism is involved in a 
+series of cancer pathogenesis processes, and is considered a promising 
+therapeutic target for cancer treatment. However, a comprehensive analysis of 
+NAD+ metabolism events on immune regulation and cancer survival has not yet been 
+conducted. Here, we constructed a prognostic NAD+ metabolism-related gene 
+signature (NMRGS) associated with immune checkpoint inhibitor (ICI) efficacy in 
+glioma.
+METHODS: 40 NAD+ metabolism-related genes (NMRGs) were obtained from the 
+Reactome database and the Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+database. Glioma cases with transcriptome data and clinical information were 
+obtained from Chinese Glioma Genome Atlas (CGGA) and The Cancer Genome Atlas 
+(TCGA). NMRGS was constructed based on the calculated risk score using 
+univariate analysis, Kaplan-Meier analysis, multivariate Cox regression, and 
+nomogram. This NMRGS was verified in training (CGGA693) and validation (TCGA and 
+CGGA325) cohorts. The immune characteristics, mutation profile, and response to 
+ICI therapy were subsequently analyzed for different NMRGS subgroups.
+RESULTS: Six NAD+ metabolism-related genes, including CD38, nicotinamide adenine 
+dinucleotide kinase (NADK), nicotinate phosphoribosyltransferase (NAPRT), 
+nicotinamide/nicotinic acid mononucleotide adenylyltransferase 3 (NMNAT3), 
+poly(ADP-Ribose) polymerase family member 6 (PARP6), and poly(ADP-Ribose) 
+polymerase family member 9 (PARP9), were ultimately used to construct a 
+comprehensive risk model for glioma patients. Patients in the NMRGS-high group 
+showed a poorer survival outcome than those in the NMRGS-low group. The area 
+under curve (AUC) indicated that NMRGS has good potential in glioma prognostic 
+prediction. A nomogram with improved accuracy was established based on 
+independent prognostic factors (NMRGS score, 1p19q codeletion status, and WHO 
+grade). Furthermore, patients in the NMRGS-high group showed a more 
+immunosuppressive microenvironment, higher tumor mutation burden (TMB), higher 
+human leucocyte antigen (HLA) expression and a more therapeutic response to ICI 
+therapy.
+CONCLUSIONS: This study constructed a prognostic NAD+ metabolism-related 
+signature associated with the immune landscape in glioma, which can be used for 
+guiding individualized ICI therapy.
+
+Copyright © 2023 Jiang, Zhou, Yan, Zheng, Wang, Li and Jiang.
+
+DOI: 10.3389/fonc.2023.1051641
+PMCID: PMC9945104
+PMID: 36845744
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

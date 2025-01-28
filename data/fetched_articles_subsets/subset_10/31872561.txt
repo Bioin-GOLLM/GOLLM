@@ -1,0 +1,49 @@
+1. Physiol Rep. 2019 Dec;7(24):e14296. doi: 10.14814/phy2.14296.
+
+Delayed afterdepolarization-induced triggered activity in cardiac purkinje cells 
+mediated through cytosolic calcium diffusion waves.
+
+Shah C(1), Jiwani S(2), Limbu B(2), Weinberg S(3)(4), Deo M(2).
+
+Author information:
+(1)School of Medicine, Eastern Virginia Medical School, Norfolk, Virginia.
+(2)Department of Engineering, Norfolk State University, Norfolk, Virginia.
+(3)Department of Biomedical Engineering, Virginia Commonwealth University, 
+Richmond, Virginia.
+(4)Department of Biomedical Engineering, The Ohio State University, Columbus, 
+Ohio.
+
+Cardiac Purkinje cells (PCs) are more susceptible to action potential 
+abnormalities as compared to ventricular myocytes (VMs), which could be 
+associated with their distinct intracellular calcium handling. We developed a 
+detailed biophysical model of a mouse cardiac PC, which importantly reproduces 
+the experimentally observed biphasic cytosolic calcium waves. The model includes 
+a stochastic gating formulation for the opening and closing of ryanodine 
+receptor (RyR) channels, simulated with a Monte Carlo method, to accurately 
+reproduce cytosolic calcium wave propagation and the effects of spontaneous 
+calcium release events. Simulations predict that during an action potential, 
+smaller cytosolic calcium wavelets propagated from the sarcolemma towards the 
+center of the cell and initiated larger magnitude cell-wide calcium waves via a 
+calcium-induced-calcium release mechanism. In the presence of RyR mutations, 
+frequent spontaneous calcium leaks from sarcoplasmic reticulum (SR) initiated 
+calcium waves, which upon reaching the cell periphery produced delayed 
+afterdepolarizations (DADs) via sodium-calcium exchanger (NCX) and T-type 
+calcium (ICaT ) channel activation. In the presence of isoproterenol-mediated 
+effects, DADs induced triggered activity by reactivation of fast sodium 
+channels. Based on our model, we found that the activation of either L-type 
+calcium channels (ICaL ), ICaT , sodium-potassium exchanger (INaK ) or NCX is 
+sufficient for occurrence of triggered activity; however, a partial blockade of 
+ICaT or INaK is essential for its successful termination. Our modeling study 
+highlights valuable insights into the mechanisms of DAD-induced triggered 
+activity mediated via cytosolic calcium waves in cardiac PCs and may elucidate 
+the increased arrhythmogeneity in PCs.
+
+© 2019 The Authors. Physiological Reports published by Wiley Periodicals, Inc. 
+on behalf of The Physiological Society and the American Physiological Society.
+
+DOI: 10.14814/phy2.14296
+PMCID: PMC6928245
+PMID: 31872561 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no competing interests related 
+to the study presented in this manuscript.

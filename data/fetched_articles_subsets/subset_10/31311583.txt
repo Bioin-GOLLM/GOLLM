@@ -1,0 +1,49 @@
+1. J Immunother Cancer. 2019 Jul 16;7(1):187. doi: 10.1186/s40425-019-0670-5.
+
+miR-34a as hub of T cell regulation networks.
+
+Hart M(1), Walch-Rückheim B(2), Krammes L(3), Kehl T(4), Rheinheimer S(3), 
+Tänzer T(2), Glombitza B(2), Sester M(5), Lenhof HP(4), Keller A(6), Meese E(3).
+
+Author information:
+(1)Institute of Human Genetics, Saarland University, Building 60, 66421, 
+Homburg, Germany. martin.hart@uks.eu.
+(2)Institute of Virology and Center of Human and Molecular Biology, Saarland 
+University, 66421, Homburg, Germany.
+(3)Institute of Human Genetics, Saarland University, Building 60, 66421, 
+Homburg, Germany.
+(4)Center for Bioinformatics, Saarland University, 66123, Saarbrücken, Germany.
+(5)Department of Transplant and Infection Immunology, Saarland University, 
+66421, Homburg, Germany.
+(6)Chair for Clinical Bioinformatics, Saarland University, 66123, Saarbrücken, 
+Germany.
+
+BACKGROUND: Micro(mi)RNAs are increasingly recognized as central regulators of 
+immune cell function. While it has been predicted that miRNAs have multiple 
+targets, the majority of these predictions still await experimental 
+confirmation. Here, miR-34a, a well-known tumor suppressor, is analyzed for 
+targeting genes involved in immune system processes of leucocytes.
+METHODS: Using an in-silico approach, we combined miRNA target prediction with 
+GeneTrail2, a web tool for Multi-omics enrichment analysis, to identify miR-34a 
+target genes, which are involved in the immune system process subcategory of 
+Gene Ontology.
+RESULTS: Out of the 193 predicted target genes in this subcategory we 
+experimentally tested 22 target genes and confirmed binding of miR-34a to 14 
+target genes including VAMP2, IKBKE, MYH9, MARCH8, KLRK1, CD11A, TRAFD1, CCR1, 
+PYDC1, PRF1, PIK3R2, PIK3CD, AP1B1, and ADAM10 by dual luciferase assays. By 
+transfecting Jurkat, primary CD4+ and CD8+ T cells with miR-34a, we demonstrated 
+that ectopic expression of miR-34a leads to reduced levels of endogenous VAMP2 
+and CD11A, which are central to the analyzed subcategories. Functional 
+downstream analysis of miR-34a over-expression in activated CD8+ T cells 
+exhibits a distinct decrease of PRF1 secretion.
+CONCLUSIONS: By simultaneous targeting of 14 mRNAs miR-34a acts as major hub of 
+T cell regulatory networks suggesting to utilize miR-34a as target of 
+intervention towards a modulation of the immune responsiveness of T-cells in a 
+broad tumor context.
+
+DOI: 10.1186/s40425-019-0670-5
+PMCID: PMC6636054
+PMID: 31311583 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

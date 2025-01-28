@@ -1,0 +1,41 @@
+1. Life Sci Alliance. 2019 Jul 2;2(4):e201900443. doi: 10.26508/lsa.201900443. 
+Print 2019 Aug.
+
+De novo prediction of cell-type complexity in single-cell RNA-seq and tumor 
+microenvironments.
+
+Woo J(1)(2), Winterhoff BJ(2)(3), Starr TK(2)(3), Aliferis C(1), Wang J(4)(2).
+
+Author information:
+(1)Institute for Health Informatics, University of Minnesota, Minneapolis, MN, 
+USA.
+(2)Masonic Cancer Center, University of Minnesota, Minneapolis, MN, USA.
+(3)Department of Obstetrics, Gynecology and Women's Health, University of 
+Minnesota, Minneapolis, MN, USA.
+(4)Institute for Health Informatics, University of Minnesota, Minneapolis, MN, 
+USA wangjh@umn.edu.
+
+Recent single-cell transcriptomic studies revealed new insights into cell-type 
+heterogeneities in cellular microenvironments unavailable from bulk studies. A 
+significant drawback of currently available algorithms is the need to use 
+empirical parameters or rely on indirect quality measures to estimate the degree 
+of complexity, i.e., the number of subgroups present in the sample. We fill this 
+gap with a single-cell data analysis procedure allowing for unambiguous 
+assessments of the depth of heterogeneity in subclonal compositions supported by 
+data. Our approach combines nonnegative matrix factorization, which takes 
+advantage of the sparse and nonnegative nature of single-cell RNA count data, 
+with Bayesian model comparison enabling de novo prediction of the depth of 
+heterogeneity. We show that the method predicts the correct number of subgroups 
+using simulated data, primary blood mononuclear cell, and pancreatic cell data. 
+We applied our approach to a collection of single-cell tumor samples and found 
+two qualitatively distinct classes of cell-type heterogeneity in cancer 
+microenvironments.
+
+© 2019 Woo et al.
+
+DOI: 10.26508/lsa.201900443
+PMCID: PMC6607449
+PMID: 31266885 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

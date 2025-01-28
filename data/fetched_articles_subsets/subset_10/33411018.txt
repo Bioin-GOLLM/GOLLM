@@ -1,0 +1,39 @@
+1. J Mol Model. 2021 Jan 7;27(2):28. doi: 10.1007/s00894-020-04617-9.
+
+Microcanonical insights into the physicochemical stability of the coformulation 
+of insulin with amylin analogues.
+
+Frigori RB(1), Rodrigues F(2).
+
+Author information:
+(1)Universidade Tecnológica Federal do Paraná, Rua Cristo Rei 19, 85902-490, 
+Toledo, PR, Brazil. frigori@utfpr.edu.br.
+(2)Universidade Tecnológica Federal do Paraná, Rua Cristo Rei 19, 85902-490, 
+Toledo, PR, Brazil.
+
+Injections of insulin are the main treatment for diabetes, but in the long run 
+this therapy can induce serious drawbacks. This has inspired new drugs able to 
+decrease insulin requirements. For instance, human amylin (hIAPP) is a small 
+hormone cosecreted by pancreatic β-cells with insulin to which is a synergistic 
+partner. However, the high amyloidogenicity of hIAPP precluded it as a 
+therapeutics and led to the design of pramlintide (sIAPP), a chimeric analogue 
+with substitutions (A25P, S28P, and S29P) inherited from the 
+aggregation-resistant rat isoform (rIAPP). Despite sIAPP advantages, it still 
+shares with hIAPP a poorly soluble profile at physiological pH that hampers its 
+mixture with insulin. Recent improvements, as charge-enhanced mutants, have been 
+proposed. For instance, sIAPP+ was screened in silico by purely microcanonical 
+thermostatistical methods and adds to sIAPP an S20R mutation to uplift its 
+solubility. This suggests that such physically inspired computational approach 
+may also be auspicious on devising effective coformulations of insulin with 
+amylin analogues. In this seminal attempt, we make comparative multicanonical 
+simulations of regular acting human insulin coformulated with hIAPP, sIAPP, or 
+sIAPP+. To assess the respective physicochemical stabilities against 
+aggregation, we characterize the structural-phase transitions through the 
+microcanonical thermodynamic formalism and evaluate their time lags using the 
+classical nucleation theory. These results are then correlated with estimates of 
+solvation free energies, modeled by the Poisson-Boltzmann equation, and 
+structural propensities. Experimental essays are compared to our simulations and 
+support our methodology.
+
+DOI: 10.1007/s00894-020-04617-9
+PMID: 33411018 [Indexed for MEDLINE]

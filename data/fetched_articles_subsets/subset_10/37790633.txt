@@ -1,0 +1,47 @@
+1. PeerJ. 2023 Sep 28;11:e16086. doi: 10.7717/peerj.16086. eCollection 2023.
+
+DisVar: an R library for identifying variants associated with diseases using 
+large-scale personal genetic information.
+
+Chanasongkhram K(1), Damkliang K(2), Sangket U(1)(3).
+
+Author information:
+(1)Division of Biological Science, Faculty of Science, Prince of Songkla 
+University, Hat Yai, Songkhla, Thailand.
+(2)Division of Computational Science, Faculty of Science, Prince of Songkla 
+University, Hat Yai, Songkhla, Thailand.
+(3)Center for Genomics and Bioinformatics Research, Faculty of Science, Prince 
+of Songkla University, Hat Yai, Songkhla, Thailand.
+
+BACKGROUND: Genetic variants may potentially play a contributing factor in the 
+development of diseases. Several genetic disease databases are used in medical 
+research and diagnosis but the web applications used to search these databases 
+for disease-associated variants have limitations. The application may not be 
+able to search for large-scale genetic variants, the results of searches may be 
+difficult to interpret and variants mapped from the latest reference genome 
+(GRCH38/hg38) may not be supported.
+METHODS: In this study, we developed a novel R library called "DisVar" to 
+identify disease-associated genetic variants in large-scale individual genomic 
+data. This R library is compatible with variants from the latest reference 
+genome version. DisVar uses five databases of disease-associated variants. Over 
+100 million variants can be simultaneously searched for specific associated 
+diseases.
+RESULTS: The package was evaluated using 24 Variant Call Format (VCF) files 
+(215,054 to 11,346,899 sites) from the 1000 Genomes Project. Disease-associated 
+variants were detected in 298,227 hits across all the VCF files, taking a total 
+of 63.58 m to complete. The package was also tested on ClinVar's VCF file 
+(2,120,558 variants), where 20,657 hits associated with diseases were identified 
+with an estimated elapsed time of 45.98 s.
+CONCLUSIONS: DisVar can overcome the limitations of existing tools and is a fast 
+and effective diagnostic and preventive tool that identifies disease-associated 
+variations from large-scale genetic variants against the latest reference 
+genome.
+
+©2023 Chanasongkhram et al.
+
+DOI: 10.7717/peerj.16086
+PMCID: PMC10542659
+PMID: 37790633 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare there are no competing 
+interests.

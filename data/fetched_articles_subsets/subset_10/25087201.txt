@@ -1,0 +1,59 @@
+1. Eur J Med Chem. 2015 Feb 16;91:51-62. doi: 10.1016/j.ejmech.2014.07.094. Epub 
+2014 Jul 27.
+
+Dynamics differentiate between active and inactive inteins.
+
+Cronin M(1), Coolbaugh MJ(2), Nellis D(3), Zhu J(4), Wood DW(2), Nussinov R(5), 
+Ma B(6).
+
+Author information:
+(1)Basic Science Program, Leidos Biomedical Research, Inc., Cancer and 
+Inflammation Program, National Cancer Institute, Frederick, MD 21702, USA.
+(2)Department of Chemical and Biomolecular Engineering, Ohio State University, 
+Columbus, OH 43210, USA.
+(3)Biopharmaceutical Development Program, Leidos Biomedical Research, Inc., 
+Frederick National Laboratory for Cancer Research, National Cancer Institute, 
+Frederick, MD 21702, USA.
+(4)School of Pharmacy, Shanghai Jiao Tong University, 800 DongChuan Road, 
+Shanghai 200240, China.
+(5)Basic Science Program, Leidos Biomedical Research, Inc., Cancer and 
+Inflammation Program, National Cancer Institute, Frederick, MD 21702, USA; 
+Sackler Inst. of Molecular Medicine, Department of Human Genetics and Molecular 
+Medicine, Sackler School of Medicine, Tel Aviv University, Tel Aviv 69978, 
+Israel.
+(6)Basic Science Program, Leidos Biomedical Research, Inc., Cancer and 
+Inflammation Program, National Cancer Institute, Frederick, MD 21702, USA. 
+Electronic address: mabuyong@mail.nih.gov.
+
+The balance between stability and dynamics for active enzymes can be somewhat 
+quantified by studies of intein splicing and cleaving reactions. Inteins 
+catalyze the ligation of flanking host exteins while excising themselves. The 
+potential for applications led to engineering of a mini-intein splicing domain, 
+where the homing endonuclease domain of the Mycobacterium tuberculosis RecA (Mtu 
+recA) intein was removed. The remaining domains were linked by several short 
+peptides, but splicing activity in all was substantially lower than the 
+full-length intein. Native splicing activity was restored in some cases by a 
+V67L mutation. Using computations and experiments, we examine the impact of this 
+mutation on the stability and conformational dynamics of the mini-intein 
+splicing domain. Molecular dynamics simulations were used to delineate the 
+factors that determine the active state, including the V67L mini-intein mutant, 
+and peptide linker. We found that (1) the V67L mutation lowers the global 
+fluctuations in all modeled mini-inteins, stabilizing the mini-intein 
+constructs; (2) the connecting linker length affects intein dynamics; and (3) 
+the flexibilities of the linker and intein core are higher in the active 
+structure. We have observed that the interaction of the linker region and a turn 
+region around residues 35-41 provides the pathway for the allostery interaction. 
+Our experiments reveal that intein catalysis is characterized by non-linear 
+Arrhenius plot, confirming the significant contribution of protein 
+conformational dynamics to intein function. We conclude that while the V67L 
+mutation stabilizes the global structure, cooperative dynamics of all intein 
+regions appear more important for intein function than high stability. Our 
+studies suggest that effectively quenching the conformational dynamics of an 
+intein through engineered allosteric interactions could deactivate intein 
+splicing or cleaving.
+
+Copyright © 2014 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ejmech.2014.07.094
+PMCID: PMC4308580
+PMID: 25087201 [Indexed for MEDLINE]

@@ -1,0 +1,73 @@
+1. Genome Med. 2019 May 17;11(1):30. doi: 10.1186/s13073-019-0639-5.
+
+Copy number variant and runs of homozygosity detection by microarrays enabled 
+more precise molecular diagnoses in 11,020 clinical exome cases.
+
+Dharmadhikari AV(1), Ghosh R(2), Yuan B(1)(2), Liu P(1)(2), Dai H(1)(2), Al 
+Masri S(1), Scull J(1)(2), Posey JE(2), Jiang AH(3), He W(1), Vetrini F(1), 
+Braxton AA(1)(2), Ward P(1)(2), Chiang T(4), Qu C(1), Gu S(2), Shaw CA(1)(2), 
+Smith JL(1)(2), Lalani S(1)(2), Stankiewicz P(1)(2), Cheung SW(1)(2), Bacino 
+CA(2)(5), Patel A(1)(2), Breman AM(1)(2), Wang X(1)(2), Meng L(1)(2), Xiao 
+R(1)(2), Xia F(1)(2), Muzny D(4), Gibbs RA(2)(4), Beaudet AL(2), Eng CM(1)(2), 
+Lupski JR(2)(4)(6)(5), Yang Y(1)(2), Bi W(7)(8).
+
+Author information:
+(1)Baylor Genetics Laboratories, Houston, TX, USA.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine, One 
+Baylor Plaza, Houston, TX, 77030-3411, USA.
+(3)Glenda Dawson High School, Pearland, TX, USA.
+(4)Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX, USA.
+(5)Texas Children's Hospital, Houston, TX, USA.
+(6)Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA.
+(7)Baylor Genetics Laboratories, Houston, TX, USA. wbi@bcm.edu.
+(8)Department of Molecular and Human Genetics, Baylor College of Medicine, One 
+Baylor Plaza, Houston, TX, 77030-3411, USA. wbi@bcm.edu.
+
+BACKGROUND: Exome sequencing (ES) has been successfully applied in clinical 
+detection of single nucleotide variants (SNVs) and small indels. However, 
+identification of copy number variants (CNVs) using ES data remains challenging. 
+The purpose of this study is to understand the contribution of CNVs and copy 
+neutral runs of homozygosity (ROH) in molecular diagnosis of patients referred 
+for ES.
+METHODS: In a cohort of 11,020 consecutive ES patients, an Illumina SNP array 
+analysis interrogating mostly coding SNPs was performed as a quality control 
+(QC) measurement and for CNV/ROH detection. Among these patients, clinical 
+chromosomal microarray analysis (CMA) was performed at Baylor Genetics (BG) on 
+3229 patients, either before, concurrently, or after ES. We retrospectively 
+analyzed the findings from CMA and the QC array.
+RESULTS: The QC array can detect ~ 70% of pathogenic/likely pathogenic CNVs 
+(PCNVs) detectable by CMA. Out of the 11,020 ES cases, the QC array identified 
+PCNVs in 327 patients and uniparental disomy (UPD) disorder-related ROH in 10 
+patients. The overall PCNV/UPD detection rate was 5.9% in the 3229 ES patients 
+who also had CMA at BG; PCNV/UPD detection rate was higher in concurrent ES and 
+CMA than in ES with prior CMA (7.2% vs 4.6%). The PCNVs/UPD contributed to the 
+molecular diagnoses in 17.4% (189/1089) of molecularly diagnosed ES cases with 
+CMA and were estimated to contribute in 10.6% of all molecularly diagnosed ES 
+cases. Dual diagnoses with both PCNVs and SNVs were detected in 38 patients. 
+PCNVs affecting single recessive disorder genes in a compound heterozygous state 
+with SNVs were detected in 4 patients, and homozygous deletions (mostly exonic 
+deletions) were detected in 17 patients. A higher PCNV detection rate was 
+observed for patients with syndromic phenotypes and/or cardiovascular 
+abnormalities.
+CONCLUSIONS: Our clinical genomics study demonstrates that detection of PCNV/UPD 
+through the QC array or CMA increases ES diagnostic rate, provides more precise 
+molecular diagnosis for dominant as well as recessive traits, and enables more 
+complete genetic diagnoses in patients with dual or multiple molecular 
+diagnoses. Concurrent ES and CMA using an array with exonic coverage for disease 
+genes enables most effective detection of both CNVs and SNVs and therefore is 
+recommended especially in time-sensitive clinical situations.
+
+DOI: 10.1186/s13073-019-0639-5
+PMCID: PMC6525387
+PMID: 31101064 [Indexed for MEDLINE]
+
+Conflict of interest statement: Baylor College of Medicine and Miraca Holdings 
+Inc. have formed a joint venture with shared ownership and governance of Baylor 
+Genetics (BG), formerly the Baylor Miraca Genetics Laboratories, which performs 
+chromosomal microarray analysis and clinical exome sequencing. JRL serves on the 
+Scientific Advisory Board of the BG. JRL has stock ownership in 23andMe, is a 
+paid consultant for Regeneron Pharmaceuticals, and is a co-inventor on multiple 
+US and European patents related to molecular diagnostics for inherited 
+neuropathies, eye diseases, and bacterial genomic fingerprinting. Yang is a 
+member of the Scientific Advisory Board (SAB) of Veritas Genetics China. The 
+remaining authors declare that they have no competing interests.

@@ -1,0 +1,71 @@
+1. J Transl Med. 2023 Oct 27;21(1):761. doi: 10.1186/s12967-023-04573-x.
+
+Integration of machine learning to identify diagnostic genes in leukocytes for 
+acute myocardial infarction patients.
+
+Zhang L(#)(1), Liu Y(#)(2), Wang K(1), Ou X(3), Zhou J(4), Zhang H(4), Huang 
+M(2), Du Z(5), Qiang S(6).
+
+Author information:
+(1)State Key Laboratory of Component-Based Chinese Medicine, Tianjin University 
+of Traditional Chinese Medicine, 10 Poyanghu Road, Jinghai, Tianjin, 301617, 
+People's Republic of China.
+(2)Department of Nephropathy, Zhangjiagang TCM Hospital Affiliated to Nanjing 
+University of Chinese Medicine, Zhangjiagang, 215600, Jiangsu, People's Republic 
+of China.
+(3)The First Affiliated Hospital of Guizhou, University of Traditional Chinese 
+Medicine, Guiyang, 550025, Guizhou, People's Republic of China.
+(4)Tianjin Jinghai District Hospital, 14 Shengli Road, Jinghai, Tianjin, 301699, 
+People's Republic of China.
+(5)Department of Nephropathy, Zhangjiagang TCM Hospital Affiliated to Nanjing 
+University of Chinese Medicine, Zhangjiagang, 215600, Jiangsu, People's Republic 
+of China. zyydzf@163.com.
+(6)Department of Nephropathy, Zhangjiagang TCM Hospital Affiliated to Nanjing 
+University of Chinese Medicine, Zhangjiagang, 215600, Jiangsu, People's Republic 
+of China. qiangsheng660@163.com.
+(#)Contributed equally
+
+BACKGROUND: Acute myocardial infarction (AMI) has two clinical characteristics: 
+high missed diagnosis and dysfunction of leukocytes. Transcriptional RNA on 
+leukocytes is closely related to the course evolution of AMI patients. We 
+hypothesized that transcriptional RNA in leukocytes might provide potential 
+diagnostic value for AMI. Integration machine learning (IML) was first used to 
+explore AMI discrimination genes. The following clinical study was performed to 
+validate the results.
+METHODS: A total of four AMI microarrays (derived from the Gene Expression 
+Omnibus) were included in bioanalysis (220 sample size). Then, the clinical 
+validation was finished with 20 AMI and 20 stable coronary artery disease 
+patients (SCAD). At a ratio of 5:2, GSE59867 was included in the training set, 
+while GSE60993, GSE62646, and GSE48060 were included in the testing set. IML was 
+explicitly proposed in this research, which is composed of six machine learning 
+algorithms, including support vector machine (SVM), neural network (NN), random 
+forest (RF), gradient boosting machine (GBM), decision trees (DT), and least 
+absolute shrinkage and selection operator (LASSO). IML had two functions in this 
+research: filtered optimized variables and predicted the categorized value. 
+Finally, The RNA of the recruited patients was analyzed to verify the results of 
+IML.
+RESULTS: Thirty-nine differentially expressed genes (DEGs) were identified 
+between controls and AMI individuals from the training sets. Among the 
+thirty-nine DEGs, IML was used to process the predicted classification model and 
+identify potential candidate genes with overall normalized weights > 1. Finally, 
+two genes (AQP9 and SOCS3) show their diagnosis value with the area under the 
+curve (AUC) > 0.9 in both the training and testing sets. The clinical study 
+verified the significance of AQP9 and SOCS3. Notably, more stenotic coronary 
+arteries or severe Killip classification indicated higher levels of these two 
+genes, especially SOCS3. These two genes correlated with two immune cell types, 
+monocytes and neutrophils.
+CONCLUSION: AQP9 and SOCS3 in leukocytes may be conducive to identifying AMI 
+patients with SCAD patients. AQP9 and SOCS3 are closely associated with 
+monocytes and neutrophils, which might contribute to advancing AMI diagnosis and 
+shed light on novel genetic markers. Multiple clinical characteristics, 
+multicenter, and large-sample relevant trials are still needed to confirm its 
+clinical value.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12967-023-04573-x
+PMCID: PMC10612217
+PMID: 37891664 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.

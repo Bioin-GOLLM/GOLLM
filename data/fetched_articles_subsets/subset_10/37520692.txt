@@ -1,0 +1,44 @@
+1. iScience. 2023 Jul 3;26(8):107266. doi: 10.1016/j.isci.2023.107266.
+eCollection  2023 Aug 18.
+
+Identifying functional regulatory mutation blocks by integrating genome 
+sequencing and transcriptome data.
+
+Yang M(1)(2), Ali O(3)(4), Bjørås M(1)(5), Wang J(6).
+
+Author information:
+(1)Department of Microbiology, Oslo University Hospital and University of Oslo, 
+Oslo, Norway.
+(2)Department of Medical Biochemistry, Oslo University Hospital and University 
+of Oslo, Oslo, Norway.
+(3)Department of Pathology, Oslo University Hospital - Norwegian Radium 
+Hospital, Oslo, Norway.
+(4)Faculty of Medicine, University of Oslo, Oslo, Norway.
+(5)Department of Clinical and Molecular Medicine, Norwegian University of 
+Science and Technology, Trondheim, Norway.
+(6)Department of Clinical Molecular Biology (EpiGen), Akershus University 
+Hospital and University of Oslo, Lørenskog, Norway.
+
+Millions of single nucleotide variants (SNVs) exist in the human genome; 
+however, it remains challenging to identify functional SNVs associated with 
+diseases. We propose a non-encoding SNVs analysis tool bpb3, BayesPI-BAR version 
+3, aiming to identify the functional mutation blocks (FMBs) by integrating 
+genome sequencing and transcriptome data. The identified FMBs display high 
+frequency SNVs, significant changes in transcription factors (TFs) binding 
+affinity and are nearby the regulatory regions of differentially expressed 
+genes. A two-level Bayesian approach with a biophysical model for protein-DNA 
+interactions is implemented, to compute TF-DNA binding affinity changes based on 
+clustered position weight matrices (PWMs) from over 1700 TF-motifs. The 
+epigenetic data, such as the DNA methylome can also be integrated to scan FMBs. 
+By testing the datasets from follicular lymphoma and melanoma, bpb3 
+automatically and robustly identifies FMBs, demonstrating that bpb3 can provide 
+insight into patho-mechanisms, and therapeutic targets from transcriptomic and 
+genomic data.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.isci.2023.107266
+PMCID: PMC10371843
+PMID: 37520692
+
+Conflict of interest statement: The authors declare no competing interests.

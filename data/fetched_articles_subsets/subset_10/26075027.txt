@@ -1,0 +1,55 @@
+1. J Cheminform. 2015 Jun 12;7:27. doi: 10.1186/s13321-015-0075-5. eCollection 
+2015.
+
+Verifying the fully "Laplacianised" posterior Naïve Bayesian approach and more.
+
+Mussa HY(1), Marcus D(2), Mitchell JB(3), Glen RC(4).
+
+Author information:
+(1)Department of Chemistry, Centre for Molecular Informatics, Lensfield Road, 
+Cambridge, England CB2 1EW UK ; EaStCHEM School of Chemistry and Biomedical 
+Sciences Research Complex, University of St Andrews, North Haugh, St Andrews, 
+Scotland KY16 9ST UK.
+(2)European Bioinformatics Institute (EMBL-EBI), European Molecular Biology 
+Laboratory, Wellcome Trust Genome Campus, Hinxton, Cambridge, England CB10 1SD 
+UK.
+(3)EaStCHEM School of Chemistry and Biomedical Sciences Research Complex, 
+University of St Andrews, North Haugh, St Andrews, Scotland KY16 9ST UK.
+(4)Department of Chemistry, Centre for Molecular Informatics, Lensfield Road, 
+Cambridge, England CB2 1EW UK.
+
+BACKGROUND: In a recent paper, Mussa, Mitchell and Glen (MMG) have 
+mathematically demonstrated that the "Laplacian Corrected Modified Naïve Bayes" 
+(LCMNB) algorithm can be viewed as a variant of the so-called Standard Naïve 
+Bayes (SNB) scheme, whereby the role played by absence of compound features in 
+classifying/assigning the compound to its appropriate class is ignored. MMG have 
+also proffered guidelines regarding the conditions under which this omission may 
+hold. Utilising three data sets, the present paper examines the validity of 
+these guidelines in practice. The paper also extends MMG's work and introduces a 
+new version of the SNB classifier: "Tapered Naïve Bayes" (TNB). TNB does not 
+discard the role of absence of a feature out of hand, nor does it fully consider 
+its role. Hence, TNB encapsulates both SNB and LCMNB.
+RESULTS: LCMNB, SNB and TNB performed differently on classifying 4,658, 5,031 
+and 1,149 ligands (all chosen from the ChEMBL Database) distributed over 31 
+enzymes, 23 membrane receptors, and one ion-channel, four transporters and one 
+transcription factor as their target proteins. When the number of features 
+utilised was equal to or smaller than the "optimal" number of features for a 
+given data set, SNB classifiers systematically gave better classification 
+results than those yielded by LCMNB classifiers. The opposite was true when the 
+number of features employed was markedly larger than the "optimal" number of 
+features for this data set. Nonetheless, these LCMNB performances were worse 
+than the classification performance achieved by SNB when the "optimal" number of 
+features for the data set was utilised. TNB classifiers systematically 
+outperformed both SNB and LCMNB classifiers.
+CONCLUSIONS: The classification results obtained in this study concur with the 
+mathematical based guidelines given in MMG's paper-that is, ignoring the role of 
+absence of a feature out of hand does not necessarily improve classification 
+performance of the SNB approach; if anything, it could make the performance of 
+the SNB method worse. The results obtained also lend support to the rationale, 
+on which the TNB algorithm rests: handled judiciously, taking into account 
+absence of features can enhance (not impair) the discriminatory classification 
+power of the SNB approach.
+
+DOI: 10.1186/s13321-015-0075-5
+PMCID: PMC4464057
+PMID: 26075027

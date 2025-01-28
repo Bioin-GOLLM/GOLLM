@@ -1,0 +1,46 @@
+1. PLoS One. 2023 Apr 24;18(4):e0284541. doi: 10.1371/journal.pone.0284541. 
+eCollection 2023.
+
+MTSviewer: A database to visualize mitochondrial targeting sequences, cleavage 
+sites, and mutations on protein structures.
+
+Bayne AN(1), Dong J(1), Amiri S(2), Farhan SMK(2)(3), Trempe JF(1).
+
+Author information:
+(1)Department of Pharmacology & Therapeutics and Centre de Recherche en Biologie 
+Structurale, McGill University, Montréal, Quebec, Canada.
+(2)Department of Neurology and Neurosurgery, Montreal Neurological Institute, 
+McGill University, Montréal, Quebec, Canada.
+(3)Department of Human Genetics, McGill University, Montréal, Quebec, Canada.
+
+Mitochondrial dysfunction is implicated in a wide array of human diseases 
+ranging from neurodegenerative disorders to cardiovascular defects. The 
+coordinated localization and import of proteins into mitochondria are essential 
+processes that ensure mitochondrial homeostasis. The localization and import of 
+most mitochondrial proteins are driven by N-terminal mitochondrial targeting 
+sequences (MTS's), which interact with import machinery and are removed by the 
+mitochondrial processing peptidase (MPP). The recent discovery of internal 
+MTS's-those which are distributed throughout a protein and act as import 
+regulators or secondary MPP cleavage sites-has expanded the role of both MTS's 
+and MPP beyond conventional N-terminal regulatory pathways. Still, the global 
+mutational landscape of MTS's remains poorly characterized, both from genetic 
+and structural perspectives. To this end, we have integrated a variety of tools 
+into one harmonized R/Shiny database called MTSviewer 
+(https://neurobioinfo.github.io/MTSvieweR/), which combines MTS predictions, 
+cleavage sites, genetic variants, pathogenicity predictions, and N-terminomics 
+data with structural visualization using AlphaFold models of human and yeast 
+mitochondrial proteomes. Using MTSviewer, we profiled all MTS-containing 
+proteins across human and yeast mitochondrial proteomes and provide multiple 
+case studies to highlight the utility of this database.
+
+Copyright: © 2023 Bayne et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0284541
+PMCID: PMC10124841
+PMID: 37093842 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

@@ -1,0 +1,39 @@
+1. Int J Mol Sci. 2022 Jan 13;23(2):858. doi: 10.3390/ijms23020858.
+
+Analysis of Integrin α(IIb) Subunit Dynamics Reveals Long-Range Effects of 
+Missense Mutations on Calf Domains.
+
+Anies S(1), Jallu V(2), Diharce J(1), Narwani TJ(1), de Brevern AG(1).
+
+Author information:
+(1)INSERM, BIGR, Université de Paris and Université de la Réunion et Université 
+des Antilles, F-75015 Paris, France.
+(2)Centre National de Référence en Hémobiologie Périnatale (CNRHP), Site St 
+Antoine, DMU Biologie et Génomique Médicales, AP-HP, Sorbonne Université, 
+F-75012 Paris, France.
+
+Integrin αIIbβ3, a glycoprotein complex expressed at the platelet surface, is 
+involved in platelet aggregation and contributes to primary haemostasis. Several 
+integrin αIIbβ3 polymorphisms prevent the aggregation that causes haemorrhagic 
+syndromes, such as Glanzmann thrombasthenia (GT). Access to 3D structure allows 
+understanding the structural effects of polymorphisms related to GT. In a 
+previous analysis using Molecular Dynamics (MD) simulations of αIIbCalf-1 domain 
+structure, it was observed that GT associated with single amino acid variation 
+affects distant loops, but not the mutated position. In this study, experiments 
+are extended to Calf-1, Thigh, and Calf-2 domains. Two loops in Calf-2 are 
+unstructured and therefore are modelled expertly using biophysical restraints. 
+Surprisingly, MD revealed the presence of rigid zones in these loops. Detailed 
+analysis with structural alphabet, the Proteins Blocks (PBs), allowed observing 
+local changes in highly flexible regions. The variant P741R located at 
+C-terminal of Calf-1 revealed that the Calf-2 presence did not affect the 
+results obtained with isolated Calf-1 domain. Simulations for Calf-1 + Calf-2, 
+and Thigh + Calf-1 variant systems are designed to comprehend the impact of five 
+single amino acid variations in these domains. Distant conformational changes 
+are observed, thus highlighting the potential role of allostery in the 
+structural basis of GT.
+
+DOI: 10.3390/ijms23020858
+PMCID: PMC8776176
+PMID: 35055046 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

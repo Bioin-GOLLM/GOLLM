@@ -1,0 +1,62 @@
+1. Cell Rep Methods. 2021 Sep 13;1(5):100068. doi: 10.1016/j.crmeth.2021.100068. 
+eCollection 2021 Sep 27.
+
+Interrogating RNA and protein spatial subcellular distribution in smFISH data 
+with DypFISH.
+
+Savulescu AF(1), Brackin R(2), Bouilhol E(3)(4), Dartigues B(3), Warrell JH(5), 
+Pimentel MR(6), Beaume N(1), Fortunato IC(6), Dallongeville S(7), Boulle 
+M(8)(9), Soueidan H(3), Agou F(8)(10), Schmoranzer J(2), Olivo-Marin JC(7), 
+Franco CA(6), Gomes ER(6), Nikolski M(3)(4), Mhlanga MM(11)(12)(13).
+
+Author information:
+(1)Division of Chemical, Systems & Synthetic Biology, Institute for Infectious 
+Disease & Molecular Medicine, Faculty of Health Sciences, University of Cape 
+Town, 7295 Cape Town, South Africa.
+(2)Advanced Medical Bioimaging, Charité - Universitätsmedizin, 10-117 Berlin, 
+Germany.
+(3)Université de Bordeaux, Bordeaux Bioinformatics Center, 33000 Bordeaux, 
+France.
+(4)Université de Bordeaux, CNRS, IBGC, UMR 5095, 33077 Bordeaux, France.
+(5)Molecular Biophysics & Biochemistry, Yale University, New Haven, CT 06520, 
+USA.
+(6)Instituto de Medicina Molecular, Faculdade de Medicina Universidade de 
+Lisboa, 1649-028 Lisbon, Portugal.
+(7)Unite D'Analyse D'Images Biologiques, Institut Pasteur, 75015 Paris, France.
+(8)Chemogenomic and Biological Screening Core Facility, C2RT, Department of 
+Structural Biology and Chemistry, Institut Pasteur, 25 rue du Dr. Roux, 75724 
+Paris Cedex 15, France.
+(9)Université de Paris, Sorbonne Paris Cité, Paris, France.
+(10)Department of Structural Biology and Chemistry, URA 2185, Pasteur Institute, 
+Paris, France.
+(11)Radboud Institute for Molecular Life Sciences (RIMLS), Radboud University 
+Medical Center, 6525 GA Nijmegen, the Netherlands.
+(12)Epigenomics & Single Cell Biophysics Group, Department of Cell Biology, 
+FNWI, Radboud University, 6525 GA Nijmegen, the Netherlands.
+(13)Department of Human Genetics, Radboud University Medical Center, 6525 GA 
+Nijmegen, the Netherlands.
+
+Advances in single-cell RNA sequencing have allowed for the identification of 
+cellular subtypes on the basis of quantification of the number of transcripts in 
+each cell. However, cells might also differ in the spatial distribution of 
+molecules, including RNAs. Here, we present DypFISH, an approach to 
+quantitatively investigate the subcellular localization of RNA and protein. We 
+introduce a range of analytical techniques to interrogate single-molecule RNA 
+fluorescence in situ hybridization (smFISH) data in combination with protein 
+immunolabeling. DypFISH is suited to study patterns of clustering of molecules, 
+the association of mRNA-protein subcellular localization with microtubule 
+organizing center orientation, and interdependence of mRNA-protein spatial 
+distributions. We showcase how our analytical tools can achieve biological 
+insights by utilizing cell micropatterning to constrain cellular architecture, 
+which leads to reduction in subcellular mRNA distribution variation, allowing 
+for the characterization of their localization patterns. Furthermore, we show 
+that our method can be applied to physiological systems such as skeletal muscle 
+fibers.
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.crmeth.2021.100068
+PMCID: PMC9017151
+PMID: 35474672 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

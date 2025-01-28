@@ -1,0 +1,41 @@
+1. BMC Bioinformatics. 2014;15 Suppl 16(Suppl 16):S4. doi: 
+10.1186/1471-2105-15-S16-S4. Epub 2014 Dec 8.
+
+SCMHBP: prediction and analysis of heme binding proteins using propensity scores 
+of dipeptides.
+
+Liou YF, Charoenkwan P, Srinivasulu Y, Vasylenko T, Lai SC, Lee HC, Chen YH, 
+Huang HL, Ho SY.
+
+BACKGROUND: Heme binding proteins (HBPs) are metalloproteins that contain a heme 
+ligand (an iron-porphyrin complex) as the prosthetic group. Several 
+computational methods have been proposed to predict heme binding residues and 
+thereby to understand the interactions between heme and its host proteins. 
+However, few in silico methods for identifying HBPs have been proposed.
+RESULTS: This work proposes a scoring card method (SCM) based method (named 
+SCMHBP) for predicting and analyzing HBPs from sequences. A balanced dataset of 
+747 HBPs (selected using a Gene Ontology term GO:0020037) and 747 non-HBPs 
+(selected from 91,414 putative non-HBPs) with an identity of 25% was firstly 
+established. Consequently, a set of scores that quantified the propensity of 
+amino acids and dipeptides to be HBPs is estimated using SCM to maximize the 
+predictive accuracy of SCMHBP. Finally, the informative physicochemical 
+properties of 20 amino acids are identified by utilizing the estimated 
+propensity scores to be used to categorize HBPs. The training and mean test 
+accuracies of SCMHBP applied to three independent test datasets are 85.90% and 
+71.57%, respectively. SCMHBP performs well relative to comparison with such 
+methods as support vector machine (SVM), decision tree J48, and Bayes 
+classifiers. The putative non-HBPs with high sequence propensity scores are 
+potential HBPs, which can be further validated by experimental confirmation. The 
+propensity scores of individual amino acids and dipeptides are examined to 
+elucidate the interactions between heme and its host proteins. The following 
+characteristics of HBPs are derived from the propensity scores: 1) aromatic side 
+chains are important to the effectiveness of specific HBP functions; 2) a 
+hydrophobic environment is important in the interaction between heme and binding 
+sites; and 3) the whole HBP has low flexibility whereas the heme binding 
+residues are relatively flexible.
+CONCLUSIONS: SCMHBP yields knowledge that improves our understanding of HBPs 
+rather than merely improves the prediction accuracy in predicting HBPs.
+
+DOI: 10.1186/1471-2105-15-S16-S4
+PMCID: PMC4290654
+PMID: 25522279 [Indexed for MEDLINE]

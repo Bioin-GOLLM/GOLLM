@@ -1,0 +1,71 @@
+1. Genome Med. 2023 Dec 4;15(1):108. doi: 10.1186/s13073-023-01263-7.
+
+Mendelian randomization analyses suggest a causal role for circulating GIP and 
+IL-1RA levels in homeostatic model assessment-derived measures of β-cell 
+function and insulin sensitivity in Africans without type 2 diabetes.
+
+Meeks KAC(1), Bentley AR(2), Assimes TL(3)(4), Franceschini N(5), Adeyemo AA(2), 
+Rotimi CN(2), Doumatey AP(6).
+
+Author information:
+(1)Center for Research on Genomics and Global Health, National Human Genome 
+Research Institute, National Institutes of Health, 12 South Drive Bldg 12A ste 
+1025, Bethesda, MD, 20892-5611, USA. meekska@nih.gov.
+(2)Center for Research on Genomics and Global Health, National Human Genome 
+Research Institute, National Institutes of Health, 12 South Drive Bldg 12A ste 
+1025, Bethesda, MD, 20892-5611, USA.
+(3)Department of Medicine, Stanford University School of Medicine, Stanford, CA, 
+USA.
+(4)VA Palo Alto Healthcare System, Palo Alto, CA, USA.
+(5)Department of Epidemiology, University of North Carolina, Chapel Hill, NC, 
+USA.
+(6)Center for Research on Genomics and Global Health, National Human Genome 
+Research Institute, National Institutes of Health, 12 South Drive Bldg 12A ste 
+1025, Bethesda, MD, 20892-5611, USA. doumateya@nih.gov.
+
+BACKGROUND: In vitro and in vivo studies have shown that certain cytokines and 
+hormones may play a role in the development and progression of type 2 diabetes 
+(T2D). However, studies on their role in T2D in humans are scarce. We evaluated 
+associations between 11 circulating cytokines and hormones with T2D among a 
+population of sub-Saharan Africans and tested for causal relationships using 
+Mendelian randomization (MR) analyses.
+METHODS: We used logistic regression analysis adjusted for age, sex, body mass 
+index, and recruitment country to regress levels of 11 cytokines and hormones 
+(adipsin, leptin, visfatin, PAI-1, GIP, GLP-1, ghrelin, resistin, IL-6, IL-10, 
+IL-1RA) on T2D among Ghanaians, Nigerians, and Kenyans from the Africa America 
+Diabetes Mellitus study including 2276 individuals with T2D and 2790 non-T2D 
+individuals. Similar linear regression models were fitted with homeostatic 
+modelling assessments of insulin sensitivity (HOMA-S) and β-cell function 
+(HOMA-B) as dependent variables among non-T2D individuals (n = 2790). We used 35 
+genetic variants previously associated with at least one of these 11 cytokines 
+and hormones among non-T2D individuals as instrumental variables in univariable 
+and multivariable MR analyses. Statistical significance was set at 0.0045 
+(0.05/11 cytokines and hormones).
+RESULTS: Circulating GIP and IL-1RA levels were associated with T2D. Nine of the 
+11 cytokines and hormones (exceptions GLP-1 and IL-6) were associated with 
+HOMA-S, HOMA-B, or both among non-T2D individuals. Two-stage least squares MR 
+analysis provided evidence for a causal effect of GIP and IL-RA on HOMA-S and 
+HOMA-B in multivariable analyses (GIP ~ HOMA-S β =  - 0.67, 
+P-value = 1.88 × 10-6 and HOMA-B β = 0.59, P-value = 1.88 × 10-5; IL-1RA ~ 
+HOMA-S β =  - 0.51, P-value = 8.49 × 10-5 and HOMA-B 
+β = 0.48, P-value = 5.71 × 10-4). IL-RA was partly mediated via BMI (30-34%), 
+but GIP was not. Inverse variance weighted MR analysis provided evidence for a 
+causal effect of adipsin on T2D (multivariable OR = 1.83, 
+P-value = 9.79 × 10-6), though these associations were not consistent in all 
+sensitivity analyses.
+CONCLUSIONS: The findings of this comprehensive MR analysis indicate that 
+circulating GIP and IL-1RA levels are causal for reduced insulin sensitivity and 
+increased β-cell function. GIP's effect being independent of BMI suggests that 
+circulating levels of GIP could be a promising early biomarker for T2D risk. Our 
+MR analyses do not provide conclusive evidence for a causal role of other 
+circulating cytokines in T2D among sub-Saharan Africans.
+
+© 2023. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1186/s13073-023-01263-7
+PMCID: PMC10694992
+PMID: 38049854 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

@@ -1,0 +1,40 @@
+1. Nucleic Acids Res. 2023 Dec 11;51(22):12054-12068. doi: 10.1093/nar/gkad950.
+
+GenoPipe: identifying the genotype of origin within (epi)genomic datasets.
+
+Lang OW(1), Srivastava D(2), Pugh BF(1), Lai WKM(1)(3)(4).
+
+Author information:
+(1)Department of Molecular Biology and Genetics, Cornell University, Ithaca, 
+NY 14853, USA.
+(2)Department of Biochemistry & Molecular Biology, Pennsylvania State 
+University, University Park, PA, 16801, USA.
+(3)Department of Computational Biology, Cornell University, Ithaca, NY 14850, 
+USA.
+(4)Cornell Institute of Biotechnology, Cornell University, Ithaca, NY 14850, 
+USA.
+
+Update of
+    bioRxiv. 2023 Mar 15:2023.03.14.532660. doi: 10.1101/2023.03.14.532660.
+
+Confidence in experimental results is critical for discovery. As the scale of 
+data generation in genomics has grown exponentially, experimental error has 
+likely kept pace despite the best efforts of many laboratories. Technical 
+mistakes can and do occur at nearly every stage of a genomics assay (i.e. cell 
+line contamination, reagent swapping, tube mislabelling, etc.) and are often 
+difficult to identify post-execution. However, the DNA sequenced in genomic 
+experiments contains certain markers (e.g. indels) encoded within and can often 
+be ascertained forensically from experimental datasets. We developed the 
+Genotype validation Pipeline (GenoPipe), a suite of heuristic tools that operate 
+together directly on raw and aligned sequencing data from individual 
+high-throughput sequencing experiments to characterize the underlying genome of 
+the source material. We demonstrate how GenoPipe validates and rescues 
+erroneously annotated experiments by identifying unique markers inherent to an 
+organism's genome (i.e. epitope insertions, gene deletions and SNPs).
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkad950
+PMCID: PMC10711449
+PMID: 37933851 [Indexed for MEDLINE]

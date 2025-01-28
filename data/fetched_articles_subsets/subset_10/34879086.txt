@@ -1,0 +1,40 @@
+1. PLoS One. 2021 Dec 8;16(12):e0260432. doi: 10.1371/journal.pone.0260432. 
+eCollection 2021.
+
+A network-based method for predicting disease-associated enhancers.
+
+Le DH(1).
+
+Author information:
+(1)School of Computer Science and Engineering, Thuyloi University, Hanoi, 
+Vietnam.
+
+BACKGROUND: Enhancers regulate transcription of target genes, causing a change 
+in expression level. Thus, the aberrant activity of enhancers can lead to 
+diseases. To date, a large number of enhancers have been identified, yet a small 
+portion of them have been found to be associated with diseases. This raises a 
+pressing need to develop computational methods to predict associations between 
+diseases and enhancers.
+RESULTS: In this study, we assumed that enhancers sharing target genes could be 
+associated with similar diseases to predict the association. Thus, we built an 
+enhancer functional interaction network by connecting enhancers significantly 
+sharing target genes, then developed a network diffusion method RWDisEnh, based 
+on a random walk with restart algorithm, on networks of diseases and enhancers 
+to globally measure the degree of the association between diseases and 
+enhancers. RWDisEnh performed best when the disease similarities are integrated 
+with the enhancer functional interaction network by known disease-enhancer 
+associations in the form of a heterogeneous network of diseases and enhancers. 
+It was also superior to another network diffusion method, i.e., PageRank with 
+Priors, and a neighborhood-based one, i.e., MaxLink, which simply chooses the 
+closest neighbors of known disease-associated enhancers. Finally, we showed that 
+RWDisEnh could predict novel enhancers, which are either directly or indirectly 
+associated with diseases.
+CONCLUSIONS: Taken together, RWDisEnh could be a potential method for predicting 
+disease-enhancer associations.
+
+DOI: 10.1371/journal.pone.0260432
+PMCID: PMC8654176
+PMID: 34879086 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

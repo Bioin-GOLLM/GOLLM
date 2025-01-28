@@ -1,0 +1,53 @@
+1. Cell Rep. 2021 May 25;35(8):109181. doi: 10.1016/j.celrep.2021.109181.
+
+PD-L1 recruits phospholipase C and enhances tumorigenicity of lung tumors 
+harboring mutant forms of EGFR.
+
+Ghosh S(1), Nataraj NB(1), Noronha A(1), Patkar S(2), Sekar A(1), Mukherjee 
+S(3), Winograd-Katz S(3), Kramarski L(1), Verma A(1), Lindzen M(1), Garcia 
+DD(1), Green J(1), Eisenberg G(4), Gil-Henn H(5), Basu A(6), Lender Y(7), Weiss 
+S(6), Oren M(3), Lotem M(4), Geiger B(3), Ruppin E(8), Yarden Y(9).
+
+Author information:
+(1)Department of Biological Regulation, Weizmann Institute of Science, Rehovot, 
+Israel.
+(2)Department of Computer Science, University of Maryland College Park, College 
+Park, MD, USA; Cancer Data Science Laboratory, National Cancer Institute, NIH, 
+Rockville, MD, USA.
+(3)Department of Molecular Cell Biology Weizmann Institute of Science, Rehovot, 
+Israel.
+(4)Sharett Institute of Oncology, Hadassah Medical School, Jerusalem, Israel.
+(5)The Azrieli Faculty of Medicine, Bar-Ilan University, Safed, Israel.
+(6)Department of Chemistry and Biochemistry, University of California, Los 
+Angeles, Los Angeles, CA, USA.
+(7)The Shraga Segal Department of Microbiology, Immunology and Genetics, 
+Ben-Gurion University of the Negev, Beer Sheva, Israel.
+(8)Cancer Data Science Laboratory, National Cancer Institute, NIH, Rockville, 
+MD, USA.
+(9)Department of Biological Regulation, Weizmann Institute of Science, Rehovot, 
+Israel. Electronic address: yosef.yarden@weizmann.ac.il.
+
+Cancer immunotherapy focuses on inhibitors of checkpoint proteins, such as 
+programmed death ligand 1 (PD-L1). Unlike RAS-mutated lung cancers, EGFR mutant 
+tumors have a generally low response to immunotherapy. Because treatment 
+outcomes vary by EGFR allele, intrinsic and microenvironmental factors may be 
+involved. Among all non-immunological signaling pathways surveyed in patients' 
+datasets, EGFR signaling is best associated with high PD-L1. Correspondingly, 
+active EGFRs stabilize PD-L1 transcripts and depletion of PD-L1 severely 
+inhibits EGFR-driven tumorigenicity and metastasis in mice. The underlying 
+mechanisms involve the recruitment of phospholipase C-γ1 (PLC-γ1) to a 
+cytoplasmic motif of PD-L1, which enhances PLC-γ1 activation by EGFR. Once 
+stimulated, PLC-γ1 activates calcium flux, Rho GTPases, and protein kinase C, 
+collectively promoting an aggressive phenotype. Anti-PD-L1 antibodies can 
+inhibit these intrinsic functions of PD-L1. Our results portray PD-L1 as a 
+molecular amplifier of EGFR signaling and improve the understanding of the 
+resistance of EGFR+ tumors to immunotherapy.
+
+Copyright © 2021 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2021.109181
+PMCID: PMC8170369
+PMID: 34038737 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

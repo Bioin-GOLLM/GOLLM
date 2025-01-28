@@ -1,0 +1,52 @@
+1. Chem Cent J. 2018 Oct 22;12(1):106. doi: 10.1186/s13065-018-0475-5.
+
+Reverse pharmacophore mapping and molecular docking studies for discovery of 
+GTPase HRas as promising drug target for bis-pyrimidine derivatives.
+
+Kumar S(1), Singh J(1), Narasimhan B(2), Shah SAA(3)(4), Lim SM(3)(5), Ramasamy 
+K(3)(5), Mani V(6).
+
+Author information:
+(1)Faculty of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak, 
+124001, India.
+(2)Faculty of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak, 
+124001, India. naru2000us@yahoo.com.
+(3)Faculty of Pharmacy, Universiti Teknologi MARA (UiTM), 42300, Bandar Puncak 
+Alam, Selangor Darul Ehsan, Malaysia.
+(4)Atta-ur-Rahman Institute for Natural Products Discovery (AuRIns), Universiti 
+Teknologi MARA, 42300, Bandar Puncak Alam, Selangor Darul Ehsan, Malaysia.
+(5)Collaborative Drug Discovery Research (CDDR) Group, Pharmaceutical Life 
+Sciences Community of Research, Universiti Teknologi MARA (UiTM), 40450, Shah 
+Alam, Selangor Darul Ehsan, Malaysia.
+(6)Department of Pharmacology and Toxicology, College of Pharmacy, Qassim 
+University, Buraidah, 51452, Saudi Arabia.
+
+BACKGROUND: Pyrimidine is an important pharmacophore in the field of medicinal 
+chemistry and exhibit a broad spectrum of biological potentials. A study was 
+carried out to identify the target protein of potent bis-pyrimidine derivatives 
+using reverse docking program. PharmMapper, a robust online tool was used for 
+identifying the target proteins based on reverse pharmacophore mapping. The 
+murine macrophage (RAW 264.7) and human embryonic kidney (HEK-293) cancer cell 
+line used for selectivity and safety study.
+METHODS: An open web server PharmMapper was used to identify the possible target 
+of the developed compounds through reverse pharmacophore mapping. The results 
+were analyzed and validated through docking with Schrodinger v9.6 using 10 
+protein GTPase HRas selected as possible target. The docking studies with 
+Schrödinger validated the binding behavior of bis-pyrimidine compounds within 
+GTP binding pocket. MTT and sulforhodamine assay were used as antiproliferative 
+activity.
+RESULTS AND DISCUSSION: The protein was found one of the top scored targets of 
+the compound 18, hence, the GTPase HRas protein was found crucial to be targeted 
+for competing cancer. Toxicity study demonstrated the significant selectivity of 
+most active compounds, 12, 16 and 18 showed negligible cell toxicity at their 
+IC50 concentration.
+CONCLUSION: From the results, we may conclude that GTPase HRas as a possible 
+target of studied bis-pyrimidine derivatives where the retrieved information may 
+be quite useful for rational drug designing.
+
+DOI: 10.1186/s13065-018-0475-5
+PMCID: PMC6768019
+PMID: 30345469
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

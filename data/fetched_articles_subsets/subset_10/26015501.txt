@@ -1,0 +1,56 @@
+1. mBio. 2015 May 26;6(3):e00686-15. doi: 10.1128/mBio.00686-15.
+
+Temporal hierarchy of gene expression mediated by transcription factor binding 
+affinity and activation dynamics.
+
+Gao R(1), Stock AM(2).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, Center for Advanced 
+Biotechnology and Medicine, Rutgers University-Robert Wood Johnson Medical 
+School, Piscataway, New Jersey, USA.
+(2)Department of Biochemistry and Molecular Biology, Center for Advanced 
+Biotechnology and Medicine, Rutgers University-Robert Wood Johnson Medical 
+School, Piscataway, New Jersey, USA stock@cabm.rutgers.edu.
+
+Understanding cellular responses to environmental stimuli requires not only the 
+knowledge of specific regulatory components but also the quantitative 
+characterization of the magnitude and timing of regulatory events. The 
+two-component system is one of the major prokaryotic signaling schemes and is 
+the focus of extensive interest in quantitative modeling and investigation of 
+signaling dynamics. Here we report how the binding affinity of the PhoB 
+two-component response regulator (RR) to target promoters impacts the level and 
+timing of expression of PhoB-regulated genes. Information content has often been 
+used to assess the degree of conservation for transcription factor (TF)-binding 
+sites. We show that increasing the information content of PhoB-binding sites in 
+designed phoA promoters increased the binding affinity and that the binding 
+affinity and concentration of phosphorylated PhoB (PhoB~P) together dictate the 
+level and timing of expression of phoA promoter variants. For various 
+PhoB-regulated promoters with distinct promoter architectures, expression levels 
+appear not to be correlated with TF-binding affinities, in contrast to the 
+intuitive and oversimplified assumption that promoters with higher affinity for 
+a TF tend to have higher expression levels. However, the expression timing of 
+the core set of PhoB-regulated genes correlates well with the binding affinity 
+of PhoB~P to individual promoters and the temporal hierarchy of gene expression 
+appears to be related to the function of gene products during the phosphate 
+starvation response. Modulation of the information content and binding affinity 
+of TF-binding sites may be a common strategy for temporal programming of the 
+expression profile of RR-regulated genes.
+IMPORTANCE: A single TF often orchestrates the expression of multiple genes in 
+response to environmental stimuli. It is not clear how different TF-binding 
+sites within the regulon dictate the expression profile. Our studies of 
+Escherichia coli PhoB, a response regulator that controls expression of a core 
+set of phosphate assimilation genes in response to phosphate starvation, showed 
+that expression levels of PhoB-regulated genes are under sophisticated control 
+and do not follow a simple correlation with the binding affinity of PhoB~P to 
+individual promoters. However, the expression timing correlates with the 
+PhoB-binding affinity and gene functions. Genes involved in direct Pi uptake 
+contain high-affinity sites and are transcribed earlier than genes involved in 
+phosphorus scavenging. This illustrates an elaborate mechanism of temporally 
+programmed gene expression, even for nondevelopmental pathways.
+
+Copyright © 2015 Gao and Stock.
+
+DOI: 10.1128/mBio.00686-15
+PMCID: PMC4447250
+PMID: 26015501 [Indexed for MEDLINE]

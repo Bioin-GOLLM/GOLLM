@@ -1,0 +1,35 @@
+1. J Comput Phys. 2013 Jul 1;244:223-235. doi: 10.1016/j.jcp.2012.08.014.
+
+Multiscale model of platelet translocation and collision.
+
+Wang W(1), Mody NA, King MR.
+
+Author information:
+(1)Department of Biomedical Engineering, Cornell University, NY 14853, USA.
+
+The tethering of platelets on the injured vessel surface mediated by 
+glycoprotein Ibα (GPIbα) - Von Willebrand factor (vWF) bonds, as well as the 
+interaction between flowing platelets and adherent platelets, are two key events 
+that take place immediately following blood vessel injury. This early-stage 
+platelet deposition and accumulation triggers the initiation of hemostasis, a 
+self-defensive mechanism to prevent the body from excessive blood loss. To 
+understand and predict this complex process, one must integrate experimentally 
+determined information on the mechanics and biochemical kinetics of 
+participating receptors over very small time frames (1-1000 µs) and length 
+scales (10-100 nm), to collective phenomena occurring over seconds and tens of 
+microns. In the present study, a unique three dimensional multiscale 
+computational model, platelet adhesive dynamics (PAD), was applied to elucidate 
+the unique physics of (i) a non-spherical, disk-shaped platelet interacting and 
+tethering onto the damaged vessel wall followed by (ii) collisional interactions 
+between a flowing platelet with a downstream adherent platelet. By analyzing 
+numerous simulations under different physiological conditions, we conclude that 
+the platelet's unique spheroid-shape provides heterogeneous, 
+orientation-dependent translocation (rolling) behavior which enhances cell-wall 
+interactions. We also conclude that platelet-platelet near field interactions 
+are critical for cell-cell communication during the initiation of microthrombi. 
+The PAD model described here helps to identify the physical factors that control 
+the initial stages of platelet capture during this process.
+
+DOI: 10.1016/j.jcp.2012.08.014
+PMCID: PMC3706308
+PMID: 23853387

@@ -1,0 +1,51 @@
+1. Sci Rep. 2019 Nov 6;9(1):16156. doi: 10.1038/s41598-019-52614-7.
+
+Empirical design of a variant quality control pipeline for whole genome 
+sequencing data using replicate discordance.
+
+Adelson RP(1), Renton AE(2), Li W(3), Barzilai N(3), Atzmon G(4)(5), Goate 
+AM(6), Davies P(1), Freudenberg-Hua Y(7)(8).
+
+Author information:
+(1)Litwin-Zucker Center for Alzheimer's Disease, The Feinstein Institute for 
+Medical Research, Northwell Health, Manhasset, New York, 11030, USA.
+(2)Ronald M. Loeb Center for Alzheimer's Disease and Department of Neuroscience, 
+Icahn School of Medicine at Mount Sinai, New York, New York, 10029, USA.
+(3)Robert S. Boas Center for Genomics & Human Genetics, The Feinstein Institute 
+for Medical Research, Northwell Health, Manhasset, New York, 11030, USA.
+(4)Institute for Aging Research, Albert Einstein College of Medicine, Bronx, New 
+York, 10461, USA.
+(5)Faculty of Natural Sciences, University of Haifa, Haifa, 31905, Israel.
+(6)Ronald M. Loeb Center for Alzheimer's Disease and Departments of 
+Neuroscience, Genetics and Genomic Sciences, and Neurology, Icahn School of 
+Medicine at Mount Sinai, New York, New York, 10029, USA.
+(7)Litwin-Zucker Center for Alzheimer's Disease, The Feinstein Institute for 
+Medical Research, Northwell Health, Manhasset, New York, 11030, USA. 
+yfreuden@northwell.edu.
+(8)Division of Geriatric Psychiatry, Zucker Hillside Hospital, Northwell Health, 
+Glen Oaks, New York, 11004, USA. yfreuden@northwell.edu.
+
+The success of next-generation sequencing depends on the accuracy of variant 
+calls. Few objective protocols exist for QC following variant calling from whole 
+genome sequencing (WGS) data. After applying QC filtering based on Genome 
+Analysis Tool Kit (GATK) best practices, we used genotype discordance of eight 
+samples that were sequenced twice each to evaluate the proportion of potentially 
+inaccurate variant calls. We designed a QC pipeline involving hard filters to 
+improve replicate genotype concordance, which indicates improved accuracy of 
+genotype calls. Our pipeline analyzes the efficacy of each filtering step. We 
+initially applied this strategy to well-characterized variants from the ClinVar 
+database, and subsequently to the full WGS dataset. The genome-wide biallelic 
+pipeline removed 82.11% of discordant and 14.89% of concordant genotypes, and 
+improved the concordance rate from 98.53% to 99.69%. The variant-level read 
+depth filter most improved the genome-wide biallelic concordance rate. We also 
+adapted this pipeline for triallelic sites, given the increasing proportion of 
+multiallelic sites as sample sizes increase. For triallelic sites containing 
+only SNVs, the concordance rate improved from 97.68% to 99.80%. Our QC pipeline 
+removes many potentially false positive calls that pass in GATK, and may inform 
+future WGS studies prior to variant effect analysis.
+
+DOI: 10.1038/s41598-019-52614-7
+PMCID: PMC6834861
+PMID: 31695094 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

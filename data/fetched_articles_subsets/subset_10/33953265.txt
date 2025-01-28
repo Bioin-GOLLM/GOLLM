@@ -1,0 +1,49 @@
+1. Sci Rep. 2021 May 5;11(1):9572. doi: 10.1038/s41598-021-88985-z.
+
+FoldAffinity: binding affinities from nDSF experiments.
+
+Niebling S(1)(2), Burastero O(3)(4)(5), Bürgi J(3), Günther C(3), Defelipe 
+LA(3), Sander S(6), Gattkowski E(6), Anjanappa R(7), Wilmanns M(3)(8), Springer 
+S(7), Tidow H(6), García-Alai M(9)(10).
+
+Author information:
+(1)European Molecular Biology Laboratory - Hamburg Outstation, Notkestr. 85, 
+Hamburg, 22607, Germany. stephan.niebling@embl-hamburg.de.
+(2)Centre for Structural Systems Biology, Notkestrasse 85, 22607, Hamburg, 
+Germany. stephan.niebling@embl-hamburg.de.
+(3)European Molecular Biology Laboratory - Hamburg Outstation, Notkestr. 85, 
+Hamburg, 22607, Germany.
+(4)Departamento de Química Biológica, Facultad de Ciencias Exactas y Naturales, 
+Universidad de Buenos Aires, Intendente Güiraldes 2620, Buenos Aires, Argentina.
+(5)IQUIBICEN-UBA/CONICET, Intendente Güiraldes, 2620, Buenos Aires, Argentina.
+(6)Hamburg Advanced Research Centre for Bioorganic Chemistry (HARBOR) & 
+Department of Chemistry, Institute for Biochemistry and Molecular Biology, 
+University of Hamburg, Luruper Chaussee 149, 22761, Hamburg, Germany.
+(7)Department of Life Sciences and Chemistry, Jacobs University Bremen, 28759, 
+Bremen, Germany.
+(8)University Hamburg Clinical Centre Hamburg-Eppendorf, Martinistraße 52, 
+20246, Hamburg, Germany.
+(9)European Molecular Biology Laboratory - Hamburg Outstation, Notkestr. 85, 
+Hamburg, 22607, Germany. garcia@embl-hamburg.de.
+(10)Centre for Structural Systems Biology, Notkestrasse 85, 22607, Hamburg, 
+Germany. garcia@embl-hamburg.de.
+
+Differential scanning fluorimetry (DSF) using the inherent fluorescence of 
+proteins (nDSF) is a popular technique to evaluate thermal protein stability in 
+different conditions (e.g. buffer, pH). In many cases, ligand binding increases 
+thermal stability of a protein and often this can be detected as a clear shift 
+in nDSF experiments. Here, we evaluate binding affinity quantification based on 
+thermal shifts. We present four protein systems with different binding affinity 
+ligands, ranging from nM to high μM. Our study suggests that binding affinities 
+determined by isothermal analysis are in better agreement with those from 
+established biophysical techniques (ITC and MST) compared to apparent Kds 
+obtained from melting temperatures. In addition, we describe a method to 
+optionally fit the heat capacity change upon unfolding ([Formula: see text]) 
+during the isothermal analysis. This publication includes the release of a web 
+server for easy and accessible application of isothermal analysis to nDSF data.
+
+DOI: 10.1038/s41598-021-88985-z
+PMCID: PMC8099913
+PMID: 33953265
+
+Conflict of interest statement: The authors declare no competing interests.

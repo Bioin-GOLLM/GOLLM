@@ -1,0 +1,39 @@
+1. Materials (Basel). 2022 Jul 16;15(14):4962. doi: 10.3390/ma15144962.
+
+Application of Genetically Encoded Photoconvertible Protein SAASoti for the 
+Study of Enzyme Activity in a Single Live Cell by Fluorescence Correlation 
+Microscopy.
+
+Solovyev ID(1), Maloshenok LG(2), Savitsky AP(1).
+
+Author information:
+(1)A.N. Bach Institute of Biochemistry, Research Center of Biotechnology of the 
+Russian Academy of Sciences, 33, bld. 2 Leninsky Ave., 119071 Moscow, Russia.
+(2)N.I. Vavilov Institute of General Genetics Russian Academy of Sciences, 
+Gubkina Str. 3, 119333 Moscow, Russia.
+
+Fluorescent Correlation Spectroscopy (FCS) allows us to determine interactions 
+of labeled proteins or changes in the oligomeric state. The FCS method needs a 
+low amount of fluorescent dye, near nanomolar concentrations. To control the 
+amount of fluorescent dye, we used new photoconvertible FP SAASoti. This work is 
+devoted to the proof of principle of using photoconvertible proteins to measure 
+caspase enzymatic activity in a single live cell. The advantage of this approach 
+is that partial photoconversion of the FP makes FCS measurements possible when 
+studying enzymatic reactions. To investigate the process, in vivo we used HeLa 
+cell line expressing the engineered FRET sensor, SAASoti-23-KFP. This FRET 
+sensor has a cleavable (DEVD) sequence in the linker between two FPs for the 
+detection of one of the key enzymes of apoptosis, caspase-3. Caspase-3 activity 
+was detected by registering the increase in the fluorescent lifetimes of the 
+sensor, whereas the diffusion coefficient of SAASoti decreased. This can be 
+explained by an increase in the total cell viscosity during apoptosis. We can 
+suppose that in the moment of detectible caspase-3 activity, cell structure 
+already has crucial changes in viscosity.
+
+DOI: 10.3390/ma15144962
+PMCID: PMC9316514
+PMID: 35888428
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

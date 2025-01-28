@@ -1,0 +1,56 @@
+1. Nat Commun. 2023 May 9;14(1):2463. doi: 10.1038/s41467-023-37863-5.
+
+Post-translational covalent assembly of CAR and synNotch receptors for 
+programmable antigen targeting.
+
+Ruffo E(1)(2)(3)(4), Butchy AA(5), Tivon Y(6), So V(1)(2)(3)(4), Kvorjak 
+M(1)(2)(3)(4), Parikh A(1)(2)(3)(4), Adams EL(1)(2)(3)(4), Miskov-Zivanov 
+N(5)(7)(8), Finn OJ(3), Deiters A(6), Lohmueller J(9)(10)(11)(12).
+
+Author information:
+(1)UPMC Hillman Cancer Center, University of Pittsburgh, Pittsburgh, PA, USA.
+(2)Division of Surgical Oncology, Department of Surgery, University of 
+Pittsburgh, Pittsburgh, PA, USA.
+(3)Department of Immunology, University of Pittsburgh, Pittsburgh, PA, USA.
+(4)Center for Systems Immunology, University of Pittsburgh, Pittsburgh, PA, USA.
+(5)Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA.
+(6)Department of Chemistry, University of Pittsburgh, Pittsburgh, PA, USA.
+(7)Department of Electrical and Computer Engineering, University of Pittsburgh, 
+Pittsburgh, PA, USA.
+(8)Department of Computational and Systems Biology, University of Pittsburgh, 
+Pittsburgh, PA, USA.
+(9)UPMC Hillman Cancer Center, University of Pittsburgh, Pittsburgh, PA, USA. 
+lohmuellerj@upmc.edu.
+(10)Division of Surgical Oncology, Department of Surgery, University of 
+Pittsburgh, Pittsburgh, PA, USA. lohmuellerj@upmc.edu.
+(11)Department of Immunology, University of Pittsburgh, Pittsburgh, PA, USA. 
+lohmuellerj@upmc.edu.
+(12)Center for Systems Immunology, University of Pittsburgh, Pittsburgh, PA, 
+USA. lohmuellerj@upmc.edu.
+
+Chimeric antigen receptors (CARs) and synthetic Notch (synNotch) receptors are 
+engineered cell-surface receptors that sense a target antigen and respond by 
+activating T cell receptor signaling or a customized gene program, respectively. 
+Here, to expand the targeting capabilities of these receptors, we develop 
+"universal" receptor systems for which receptor specificity can be directed 
+post-translationally via covalent attachment of a co-administered antibody 
+bearing a benzylguanine (BG) motif. A SNAPtag self-labeling enzyme is 
+genetically fused to the receptor and reacts with BG-conjugated antibodies for 
+covalent assembly, programming antigen recognition. We demonstrate that 
+activation of SNAP-CAR and SNAP-synNotch receptors can be successfully targeted 
+by clinically relevant BG-conjugated antibodies, including anti-tumor activity 
+of SNAP-CAR T cells in vivo in a human tumor xenograft mouse model. Finally, we 
+develop a mathematical model to better define the parameters affecting universal 
+receptor signaling. SNAP receptors provide a powerful strategy to 
+post-translationally reprogram the targeting specificity of engineered cells.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41467-023-37863-5
+PMCID: PMC10169838
+PMID: 37160880 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.L. and A.D. are inventors on a patent 
+application filed by the University of Pittsburgh on the universal SNAP receptor 
+technology described herein (WO2020072764A1). The remaining authors declare no 
+competing interests.

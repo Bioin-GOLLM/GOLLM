@@ -1,0 +1,50 @@
+1. Comput Biol Med. 2022 Jan;140:105092. doi: 10.1016/j.compbiomed.2021.105092. 
+Epub 2021 Nov 29.
+
+Single-cell RNA analysis reveals the potential risk of organ-specific cell types 
+vulnerable to SARS-CoV-2 infections.
+
+Zhang Z(1), Cui F(1), Cao C(2), Wang Q(3), Zou Q(4).
+
+Author information:
+(1)Institute of Fundamental and Frontier Sciences, University of Electronic 
+Science and Technology of China, Chengdu, 610054, China; Yangtze Delta Region 
+Institute (Quzhou), University of Electronic Science and Technology of China, 
+Quzhou, 324000, China.
+(2)Yangtze Delta Region Institute (Quzhou), University of Electronic Science and 
+Technology of China, Quzhou, 324000, China.
+(3)Beidahuang Industry Group General Hospital, Harbin, 150001, China. Electronic 
+address: 7200067@uestc.edu.cn.
+(4)Institute of Fundamental and Frontier Sciences, University of Electronic 
+Science and Technology of China, Chengdu, 610054, China; Yangtze Delta Region 
+Institute (Quzhou), University of Electronic Science and Technology of China, 
+Quzhou, 324000, China. Electronic address: zouquan@nclab.net.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a global 
+pandemic of coronavirus disease 2019 (COVID-19) since December 2019 that has led 
+to more than 160 million confirmed cases, including 3.3 million deaths. To 
+understand the mechanism by which SARS-CoV-2 invades human cells and reveal 
+organ-specific susceptible cell types for COVID-19, we conducted comprehensive 
+bioinformatic analysis using public single-cell RNA sequencing datasets. 
+Utilizing the expression information of six confirmed COVID-19 receptors (ACE2, 
+TMPRSS2, NRP1, AXL, FURIN and CTSL), we demonstrated that macrophages are the 
+most likely cells that may be associated with SARS-CoV-2 pathogenesis in lung. 
+Besides the widely reported 'chemokine storm', we identified ribosome related 
+pathways that may also be potential therapeutic target for COVID-19 lung 
+infection patients. Moreover, cell-cell communication analysis and trajectory 
+analysis revealed that M1-like macrophages showed the highest relation to severe 
+COVID-19 patients. And we also demonstrated that up-regulation of chemokine 
+pathways generally lead to severe symptoms, while down-regulation of ribosome 
+and RNA activity related pathways are more likely to be mild. Other 
+organ-specific susceptible cell type analyses could also provide potential 
+targets for COVID-19 therapy. This work can provide clues for understanding the 
+pathogenesis of COVID-19 and contribute to understanding the mechanism by which 
+SARS-CoV-2 invades human cells.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.105092
+PMCID: PMC8628631
+PMID: 34864302
+
+Conflict of interest statement: None declared.

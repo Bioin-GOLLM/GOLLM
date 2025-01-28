@@ -1,0 +1,59 @@
+1. Commun Med (Lond). 2022 Jan 19;2:9. doi: 10.1038/s43856-022-00071-1.
+eCollection  2022.
+
+Development and preliminary validation of a machine learning system for thyroid 
+dysfunction diagnosis based on routine laboratory tests.
+
+Hu M(#)(1), Asami C(#)(1), Iwakura H(2), Nakajima Y(3), Sema R(1), Kikuchi T(1), 
+Miyata T(1), Sakamaki K(4), Kudo T(5), Yamada M(3), Akamizu T(2)(5), Sakakibara 
+Y(1)(6).
+
+Author information:
+(1)AI Strategy Team, Cosmic Corporation Co., Ltd, Tokyo, Japan.
+(2)First Department of Internal Medicine, Wakayama Medical University Hospital, 
+Wakayama, Japan.
+(3)Department of Internal Medicine, Gunma University Hospital, Maebashi, Gunma 
+Japan.
+(4)Health Control Center, Hidaka Hospital, Takasaki, Gunma Japan.
+(5)Present Address: Department of Internal Medicine, Kuma Hospital, Kobe, Hyogo 
+Japan.
+(6)Department of Biosciences and Informatics, Keio University, Yokohama City, 
+Kanagawa Japan.
+(#)Contributed equally
+
+BACKGROUND: Approximately 2.4 million patients in Japan would benefit from 
+treatment for thyroid disease, including Graves' disease and Hashimoto's 
+disease. However, only 450,000 of them are receiving treatment, and many 
+patients with thyroid dysfunction remain largely overlooked. In this 
+retrospective study, we aimed to develop and conduct preliminary testing on a 
+machine learning method for screening patients with hyperthyroidism and 
+hypothyroidism who would benefit from prompt medical treatment.
+METHODS: We collected electronic medical records and medical checkup data from 
+four hospitals in Japan. We applied four machine learning algorithms to 
+construct classification models to distinguish patients with hyperthyroidism and 
+hypothyroidism from control subjects using routine laboratory tests. Performance 
+evaluation metrics such as sensitivity, specificity, and the area under receiver 
+operating characteristic (AUROC) were obtained. Techniques such as feature 
+importance were further applied to understand the contribution of each feature 
+to the machine learning output.
+RESULTS: The results of cross-validation and external evaluation indicated that 
+we achieved high classification accuracies (AUROC = 93.8% for hyperthyroidism 
+model and AUROC = 90.9% for hypothyroidism model). Serum creatinine (S-Cr), mean 
+corpuscular volume (MCV), and total cholesterol were the three features that 
+were most strongly correlated with the hyperthyroidism model, and S-Cr, lactic 
+acid dehydrogenase (LDH), and total cholesterol were correlated with the 
+hypothyroidism model.
+CONCLUSIONS: We demonstrated the potential of machine learning approaches for 
+diagnosing the presence of thyroid dysfunction from routine laboratory tests. 
+Further validation, including prospective clinical studies, is necessary prior 
+to application of our method in the clinic.
+
+© The Author(s) 2022.
+
+DOI: 10.1038/s43856-022-00071-1
+PMCID: PMC9053267
+PMID: 35603277
+
+Conflict of interest statement: Competing interestsY.S. declare the following 
+competing interests: a paid scientific advisory board member of Cosmic 
+Corporation Co., Ltd. All other authors declare no competing interests.

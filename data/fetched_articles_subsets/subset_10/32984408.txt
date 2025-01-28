@@ -1,0 +1,48 @@
+1. Front Vet Sci. 2020 Sep 2;7:518. doi: 10.3389/fvets.2020.00518. eCollection 
+2020.
+
+Inferring Relationship of Blood Metabolic Changes and Average Daily Gain With 
+Feed Conversion Efficiency in Murrah Heifers: Machine Learning Approach.
+
+Sikka P(1), Nath A(2), Paul SS(3), Andonissamy J(1), Mishra DC(4), Rao AR(4), 
+Balhara AK(1), Chaturvedi KK(4), Yadav KK(5), Balhara S(1).
+
+Author information:
+(1)Animal Biochemistry, Division of Genetics and Breeding, Central Institute for 
+Research on Buffaloes (ICAR), Hisar, India.
+(2)Department of Biochemistry, Pt. Jawahar Lal Nehru Memorial Medical College, 
+Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University of 
+Chhatisgarh, Raipur, India.
+(3)Poultry Nutrition, Directorate of Poultry Research (DPR), ICAR, Hyderabad, 
+India.
+(4)Indian Agricultural Statistics Research Institute, Indian Council of 
+Agricultural Research, New Delhi, India.
+(5)Department of Bioinfromatics, School of Earth, Biological and Environmental 
+Sciences, Central University of South Bihar, Patna, India.
+
+Machine learning algorithms were employed for predicting the feed conversion 
+efficiency (FCE), using the blood parameters and average daily gain (ADG) as 
+predictor variables in buffalo heifers. It was observed that isotonic regression 
+outperformed other machine learning algorithms used in study. Further, we also 
+achieved the best performance evaluation metrics model with additive regression 
+as the meta learner and isotonic regression as the base learner on 10-fold 
+cross-validation and leaving-one-out cross-validation tests. Further, we created 
+three separate partial least square regression (PLSR) models using all 14 
+parameters of blood and ADG as independent (explanatory) variables and FCE as 
+the dependent variable, to understand the interactions of blood parameters, ADG 
+with FCE each by inclusion of all FCE values (i), only higher FCE values 
+(negative RFI) (ii), and inclusion of only lower FCE (positive RFI) values 
+(iii). The PLSR model including only the higher FCE values was concluded the 
+best, based on performance evaluation metrics as compared to PLSR models 
+developed by inclusion of the lower FCE values and all types of FCE values. IGF1 
+and its interactions with the other blood parameters were found highly 
+influential for higher FCE measures. The strength of the estimated interaction 
+effects of the blood parameter in relation to FCE may facilitate understanding 
+of intricate dynamics of blood parameters for growth.
+
+Copyright © 2020 Sikka, Nath, Paul, Andonissamy, Mishra, Rao, Balhara, 
+Chaturvedi, Yadav and Balhara.
+
+DOI: 10.3389/fvets.2020.00518
+PMCID: PMC7492607
+PMID: 32984408

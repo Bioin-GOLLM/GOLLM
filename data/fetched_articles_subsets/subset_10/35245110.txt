@@ -1,0 +1,65 @@
+1. Sci Adv. 2022 Mar 4;8(9):eabm5386. doi: 10.1126/sciadv.abm5386. Epub 2022 Mar
+4.
+
+Comprehensive genetic diagnosis of tandem repeat expansion disorders with 
+programmable targeted nanopore sequencing.
+
+Stevanovski I(1), Chintalaphani SR(1)(2)(3), Gamaarachchi H(1)(4), Ferguson 
+JM(1), Pineda SS(5)(6), Scriba CK(7)(8), Tchan M(9), Fung V(9), Ng K(10), 
+Cortese A(11)(12), Houlden H(11)(12), Dobson-Stone C(6), Fitzpatrick L(6), 
+Halliday G(6), Ravenscroft G(7), Davis MR(7), Laing NG(7)(8), Fellner 
+A(1)(13)(14), Kennerson M(15)(16)(17), Kumar KR(1)(17)(18), Deveson IW(1)(3).
+
+Author information:
+(1)Kinghorn Centre for Clinical Genomics, Garvan Institute of Medical Research, 
+Sydney, NSW, Australia.
+(2)School of Medicine, University of New South Wales, Sydney, NSW, Australia.
+(3)St Vincent's Clinical School, Faculty of Medicine, University of New South 
+Wales, Sydney, NSW, Australia.
+(4)School of Computer Science and Engineering, University of New South Wales, 
+Sydney, NSW, Australia.
+(5)Garvan-Weizmann Centre for Cellular Genomics, Garvan Institute of Medical 
+Research, Sydney, NSW, Australia.
+(6)The University of Sydney, Brain and Mind Centre and School of Medical 
+Sciences, Faculty of Medicine and Health, Camperdown, NSW, Australia.
+(7)Harry Perkins Institute of Medical Research, University of Western Australia, 
+Nedlands, WA, Australia.
+(8)Diagnostic Genomics, PathWest Laboratory Medicine WA, Nedlands, WA, 
+Australia.
+(9)Westmead Hospital, Westmead, NSW, Australia and Sydney Medical School, The 
+University of Sydney, NSW, Australia.
+(10)Department of Neurology, Royal North Shore Hospital and The University of 
+Sydney, Sydney, NSW, Australia.
+(11)Neuromuscular Diseases, UCL Queen Square Institute of Neurology, London, UK.
+(12)The National Hospital for Neurology and Neurosurgery, London, UK.
+(13)Raphael Recanati Genetics Institute, Rabin Medical Center, Beilinson 
+Hospital, Petah Tikva, Israel.
+(14)The Neurology Department, Rabin Medical Center, Beilinson Hospital, Petah 
+Tikva, Israel.
+(15)Northcott Neuroscience Laboratory, ANZAC Research Institute, Sydney, NSW, 
+Australia.
+(16)Faculty of Health and Medicine, University of Sydney, Camperdown, NSW, 
+Australia.
+(17)Molecular Medicine Laboratory, Concord Hospital, Concord, NSW, Australia.
+(18)Neurology Department, Central Clinical School, Concord Repatriation General 
+Hospital, University of Sydney, Concord, NSW, Australia.
+
+More than 50 neurological and neuromuscular diseases are caused by short tandem 
+repeat (STR) expansions, with 37 different genes implicated to date. We describe 
+the use of programmable targeted long-read sequencing with Oxford Nanopore's 
+ReadUntil function for parallel genotyping of all known neuropathogenic STRs in 
+a single assay. Our approach enables accurate, haplotype-resolved assembly and 
+DNA methylation profiling of STR sites, from a list of predetermined candidates. 
+This correctly diagnoses all individuals in a small cohort (n = 37) including 
+patients with various neurogenetic diseases (n = 25). Targeted long-read 
+sequencing solves large and complex STR expansions that confound established 
+molecular tests and short-read sequencing and identifies noncanonical STR motif 
+conformations and internal sequence interruptions. We observe a diversity of STR 
+alleles of known and unknown pathogenicity, suggesting that long-read sequencing 
+will redefine the genetic landscape of repeat disorders. Last, we show how the 
+inclusion of pharmacogenomic genes as secondary ReadUntil targets can further 
+inform patient care.
+
+DOI: 10.1126/sciadv.abm5386
+PMCID: PMC8896783
+PMID: 35245110 [Indexed for MEDLINE]

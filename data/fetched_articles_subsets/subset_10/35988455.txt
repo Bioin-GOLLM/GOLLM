@@ -1,0 +1,95 @@
+1. ESMO Open. 2022 Oct;7(5):100555. doi: 10.1016/j.esmoop.2022.100555. Epub 2022 
+Aug 18.
+
+Multimodal survival prediction in advanced pancreatic cancer using machine 
+learning.
+
+Keyl J(1), Kasper S(2), Wiesweg M(3), Götze J(4), Schönrock M(4), Sinn M(4), 
+Berger A(5), Nasca E(5), Kostbade K(3), Schumacher B(6), Markus P(7), Albers 
+D(6), Treckmann J(8), Schmid KW(9), Schildhaus HU(9), Siveke JT(10), Schuler 
+M(2), Kleesiek J(11).
+
+Author information:
+(1)Department of Medical Oncology, West German Cancer Center, University 
+Hospital Essen (AöR), University of Duisburg-Essen, Essen, Germany; Institute 
+for AI in Medicine (IKIM), University Hospital Essen (AöR), Essen, Germany; 
+German Cancer Consortium (DKTK), Partner site University Hospital Essen (AöR), 
+Essen, Germany. Electronic address: Julius.Keyl@uk-essen.de.
+(2)Department of Medical Oncology, West German Cancer Center, University 
+Hospital Essen (AöR), University of Duisburg-Essen, Essen, Germany; German 
+Cancer Consortium (DKTK), Partner site University Hospital Essen (AöR), Essen, 
+Germany; Medical Faculty, University of Duisburg-Essen, Essen, Germany.
+(3)Department of Medical Oncology, West German Cancer Center, University 
+Hospital Essen (AöR), University of Duisburg-Essen, Essen, Germany; Medical 
+Faculty, University of Duisburg-Essen, Essen, Germany.
+(4)Department of Internal Medicine II, Oncology, Hematology, BMT and Pneumology, 
+University Medical Center Hamburg-Eppendorf, Hamburg, Germany.
+(5)Institute for AI in Medicine (IKIM), University Hospital Essen (AöR), Essen, 
+Germany.
+(6)Department of Gastroenterology, Elisabeth Hospital Essen, Essen, Germany.
+(7)Department of General Surgery and Traumatology, Elisabeth Hospital Essen, 
+Essen, Germany.
+(8)Department of General, Visceral and Transplant Surgery, West German Cancer 
+Center, University Hospital Essen (AöR), Essen, Germany.
+(9)Medical Faculty, University of Duisburg-Essen, Essen, Germany; Institute of 
+Pathology, West German Cancer Center, University Hospital Essen (AöR), Essen, 
+Germany.
+(10)Department of Medical Oncology, West German Cancer Center, University 
+Hospital Essen (AöR), University of Duisburg-Essen, Essen, Germany; Medical 
+Faculty, University of Duisburg-Essen, Essen, Germany; Bridge Institute of 
+Experimental Tumor Therapy (BIT), West German Cancer Center, University Hospital 
+Essen (AöR), Essen, Germany; Division of Solid Tumor Translational Oncology, 
+German Cancer Consortium (DKTK) Partner site Essen, German Cancer Research 
+Center (DKFZ), Heidelberg, Germany.
+(11)Institute for AI in Medicine (IKIM), University Hospital Essen (AöR), Essen, 
+Germany; Medical Faculty, University of Duisburg-Essen, Essen, Germany.
+
+BACKGROUND: Existing risk scores appear insufficient to assess the individual 
+survival risk of patients with advanced pancreatic ductal adenocarcinoma (PDAC) 
+and do not take advantage of the variety of parameters that are collected during 
+clinical care.
+METHODS: In this retrospective study, we built a random survival forest model 
+from clinical data of 203 patients with advanced PDAC. The parameters were 
+assessed before initiation of systemic treatment and included age, CA19-9, 
+C-reactive protein, metastatic status, neutrophil-to-lymphocyte ratio and total 
+serum protein level. Separate models including imaging and molecular parameters 
+were built for subgroups.
+RESULTS: Over the entire cohort, a model based on clinical parameters achieved a 
+c-index of 0.71. Our approach outperformed the American Joint Committee on 
+Cancer (AJCC) staging system and the modified Glasgow Prognostic Score (mGPS) in 
+the identification of high- and low-risk subgroups. Inclusion of the KRAS p.G12D 
+mutational status could further improve the prediction, whereas radiomics data 
+of the primary tumor only showed little benefit. In an external validation 
+cohort of PDAC patients with liver metastases, our model achieved a c-index of 
+0.67 (mGPS: 0.59).
+CONCLUSIONS: The combination of multimodal data and machine-learning algorithms 
+holds potential for personalized prognostication in advanced PDAC already at 
+diagnosis.
+
+Copyright © 2022 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.esmoop.2022.100555
+PMCID: PMC9588888
+PMID: 35988455 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure SK reports honoraria (self) from 
+Merck, Amgen, Roche, Sanofi, Aventis, Servier and Lilly; honoraria (institution) 
+from Merck, Amgen, Roche and Lilly; advisory/consultancy roles with Merck, 
+Amgen, Roche, Sanofi, Aventis, Servier and Lilly; research grants/funding (self) 
+from Merck, Bristol Myers Squibb, Roche and Lilly; research grants/funding 
+(institution) from Merck and Lilly; and travel/accommodation expenses from 
+Merck, Amgen, Roche, Sanofi, Aventis, Servier, Pierre Fabre and Lilly. MW 
+reports honoraria from Amgen, Boehringer Ingelheim, Novartis, Roche and Takeda; 
+and received research funding from Bristol Myers Squibb and Takeda. JTS reports 
+honoraria as consultant or for continuing medical education presentations from 
+AstraZeneca, Bayer, Immunocore, Roche and Servier. His institution receives 
+research funding from Bristol Myers Squibb, Celgene, Roche. He holds ownership 
+and serves on the Board of Directors of Pharma15, all outside the submitted 
+work. MS reports compensated consultancy from Amgen, AstraZeneca, BIOCAD, 
+Boehringer Ingelheim, Bristol Myers Squibb, GlaxoSmithKline, Janssen, Merck 
+Serono, Novartis, Roche, Sanofi and Takeda; honoraria for continuing medical 
+education presentations from Amgen, Boehringer Ingelheim, Bristol Myers Squibb, 
+Janssen and Novartis; and received research funding to his institution from 
+AstraZeneca and Bristol Myers Squibb. All other authors have declared no 
+conflicts of interest. Data sharing De-identified datasets analyzed in this 
+study are available from the corresponding author upon reasonable request.

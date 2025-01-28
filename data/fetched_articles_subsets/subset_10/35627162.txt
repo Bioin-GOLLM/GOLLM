@@ -1,0 +1,32 @@
+1. Genes (Basel). 2022 Apr 27;13(5):778. doi: 10.3390/genes13050778.
+
+Inferring Potential Cancer Driving Synonymous Variants.
+
+Zeng Z(1), Bromberg Y(1)(2).
+
+Author information:
+(1)Department of Biochemistry and Microbiology, Rutgers University, New 
+Brunswick, NJ 08873, USA.
+(2)Department of Genetics, Rutgers University, Piscataway, NJ 08854, USA.
+
+Synonymous single nucleotide variants (sSNVs) are often considered functionally 
+silent, but a few cases of cancer-causing sSNVs have been reported. From 
+available databases, we collected four categories of sSNVs: germline, somatic in 
+normal tissues, somatic in cancerous tissues, and putative cancer drivers. We 
+found that screening sSNVs for recurrence among patients, conservation of the 
+affected genomic position, and synVep prediction (synVep is a machine 
+learning-based sSNV effect predictor) recovers cancer driver variants (termed 
+proposed drivers) and previously unknown putative cancer genes. Of the 2.9 
+million somatic sSNVs found in the COSMIC database, we identified 2111 proposed 
+cancer driver sSNVs. Of these, 326 sSNVs could be further tagged for possible 
+RNA splicing effects, RNA structural changes, and affected RBP motifs. This list 
+of proposed cancer driver sSNVs provides computational guidance in prioritizing 
+the experimental evaluation of synonymous mutations found in cancers. 
+Furthermore, our list of novel potential cancer genes, galvanized by synonymous 
+mutations, may highlight yet unexplored cancer mechanisms.
+
+DOI: 10.3390/genes13050778
+PMCID: PMC9140830
+PMID: 35627162 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,39 @@
+1. bioRxiv [Preprint]. 2023 Oct 24:2023.10.23.563661. doi: 
+10.1101/2023.10.23.563661.
+
+Learning gene networks under SNP perturbation using SNP and allele-specific 
+expression data.
+
+Yoon JH(1), Kim S(1).
+
+Author information:
+(1)Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA 
+15213, United States of America.
+
+Allele-specific expression quantification from RNA-seq reads provides 
+opportunities to study the control of gene regulatory networks by cis-acting and 
+trans-acting genetic variants. Many existing methods performed a single-gene and 
+single-SNP association analysis to identify expression quantitative trait loci 
+(eQTLs), and placed the eQTLs against known gene networks for functional 
+interpretation. Instead, we view eQTL data as a capture of the effects of 
+perturbation of gene regulatory system by a large number of genetic variants and 
+reconstruct a gene network perturbed by eQTLs. We introduce a statistical 
+framework called CiTruss for simultaneously learning a gene network and 
+cis-acting and trans-acting eQTLs that perturb this network, given population 
+allele-specific expression and SNP data. CiTruss uses a multi-level conditional 
+Gaussian graphical model to model trans-acting eQTLs perturbing the expression 
+of both alleles in gene network at the top level and cis-acting eQTLs perturbing 
+the expression of each allele at the bottom level. We derive a transformation of 
+this model that allows efficient learning for large-scale human data. Our 
+analysis of the GTEx and LG×SM advanced intercross line mouse data for multiple 
+tissue types with CiTruss provides new insights into genetics of gene 
+regulation. CiTruss revealed that gene networks consist of local subnetworks 
+over proximally located genes and global subnetworks over genes scattered across 
+genome, and that several aspects of gene regulation by eQTLs such as the impact 
+of genetic diversity, pleiotropy, tissue-specific gene regulation, and local and 
+long-range linkage disequilibrium among eQTLs can be explained through these 
+local and global subnetworks.
+
+DOI: 10.1101/2023.10.23.563661
+PMCID: PMC10634764
+PMID: 37961468

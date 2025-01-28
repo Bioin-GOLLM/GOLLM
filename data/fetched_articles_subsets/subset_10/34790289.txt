@@ -1,0 +1,40 @@
+1. Stat Biopharm Res. 2021;13(3):270-279. doi: 10.1080/19466315.2020.1870546.
+Epub  2021 Feb 4.
+
+An empirical comparison of segmented and stochastic linear mixed effects models 
+to estimate rapid disease progression in longitudinal biomarker studies.
+
+Su W(1)(2), Gecili E(2), Wang X(1), Szczesniak RD(2)(3)(4).
+
+Author information:
+(1)Division of Statistics and Data Science, Department of Mathematical Sciences, 
+University of Cincinnati, Cincinnati, OH, USA.
+(2)Division of Biostatistics & Epidemiology, Cincinnati Children's Hospital 
+Medical Center, Cincinnati, OH, USA.
+(3)Division of Pulmonary Medicine, Cincinnati Children's Hospital Medical 
+Center, Cincinnati, OH, USA.
+(4)Department of Pediatrics, University of Cincinnati, Cincinnati, OH, USA.
+
+Longitudinal studies of rapid disease progression often rely on noisy 
+biomarkers; the underlying longitudinal process naturally varies between 
+subjects and within an individual subject over time; the process can have 
+substantial memory in the form of within-subject correlation. Cystic fibrosis 
+lung disease progression is measured by changes in a lung function marker 
+(FEV1), such as a prolonged drop in lung function, clinically termed rapid 
+decline. Choosing a longitudinal model that estimates rapid decline can be 
+challenging, requiring covariate specifications to assess drug effect while 
+balancing choices of covariance functions. Two classes of longitudinal models 
+have recently been proposed: segmented and stochastic linear mixed effects 
+(LMEs) models. With segmented LMEs, random changepoints are used to estimate the 
+timing and degree of rapid decline, treating these points as structural breaks 
+in the underlying longitudinal process. In contrast, stochastic LMEs, such as 
+random walks, are locally linear but utilize continuously changing slopes, 
+viewing bouts of rapid decline as localized, sharp changes. We compare commonly 
+utilized variants of these approaches through an application using the Cystic 
+Fibrosis Foundation Patient Registry. Changepoint modeling had the worst fit and 
+predictive accuracy but certain covariance forms in stochastic LMEs produced 
+problematic variance estimates.
+
+DOI: 10.1080/19466315.2020.1870546
+PMCID: PMC8594909
+PMID: 34790289

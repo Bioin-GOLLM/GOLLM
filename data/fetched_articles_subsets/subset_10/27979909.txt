@@ -1,0 +1,38 @@
+1. Mol Syst Biol. 2016 Dec 15;12(12):894. doi: 10.15252/msb.20167137.
+
+Distinct cellular states determine calcium signaling response.
+
+Yao J(1), Pilko A(1), Wollman R(2).
+
+Author information:
+(1)Departments of Chemistry and Biochemistry, Integrative Biology and 
+Physiology, and Institute for Quantitative and Computational Biosciences (QCB), 
+UCLA, Los Angeles, CA, USA.
+(2)Departments of Chemistry and Biochemistry, Integrative Biology and 
+Physiology, and Institute for Quantitative and Computational Biosciences (QCB), 
+UCLA, Los Angeles, CA, USA rwollman@ucsd.edu.
+
+The heterogeneity in mammalian cells signaling response is largely a result of 
+pre-existing cell-to-cell variability. It is unknown whether cell-to-cell 
+variability rises from biochemical stochastic fluctuations or distinct cellular 
+states. Here, we utilize calcium response to adenosine trisphosphate as a model 
+for investigating the structure of heterogeneity within a population of cells 
+and analyze whether distinct cellular response states coexist. We use a 
+functional definition of cellular state that is based on a mechanistic dynamical 
+systems model of calcium signaling. Using Bayesian parameter inference, we 
+obtain high confidence parameter value distributions for several hundred cells, 
+each fitted individually. Clustering the inferred parameter distributions 
+revealed three major distinct cellular states within the population. The 
+existence of distinct cellular states raises the possibility that the observed 
+variability in response is a result of structured heterogeneity between cells. 
+The inferred parameter distribution predicts, and experiments confirm that 
+variability in IP3R response explains the majority of calcium heterogeneity. Our 
+work shows how mechanistic models and single-cell parameter fitting can uncover 
+hidden population structure and demonstrate the need for parameter inference at 
+the single-cell level.
+
+© 2016 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/msb.20167137
+PMCID: PMC5199124
+PMID: 27979909 [Indexed for MEDLINE]

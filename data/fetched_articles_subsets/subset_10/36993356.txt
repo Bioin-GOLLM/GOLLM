@@ -1,0 +1,43 @@
+1. bioRxiv [Preprint]. 2023 May 3:2023.03.19.533373. doi: 
+10.1101/2023.03.19.533373.
+
+Using DNA flow-stretching assay as a tool to validate the tagging of DNA-binding 
+proteins for single-molecule experiments.
+
+Molina M(1)(2)(3), Way LE(4)(3), Ren Z(4), Liao Q(4), Wang X(4), Kim H(1)(2)(5).
+
+Author information:
+(1)Biochemistry and Molecular Biology Program, University of Texas Rio Grande 
+Valley, Edinburg, Texas, United States of America.
+(2)Department of Physics and Astronomy, University of Texas Rio Grande Valley, 
+Edinburg, Texas, United States of America.
+(3)These authors contributed equally.
+(4)Department of Biology, Indiana University, 1001 E 3rd St, Bloomington, 
+Indiana, United States of America.
+(5)Lead contact.
+
+Update in
+    Cell Rep Methods. 2023 Oct 23;3(10):100614. doi: 
+10.1016/j.crmeth.2023.100614.
+
+Due to the enhanced labeling capability of maleimide-based fluorescent probes, 
+lysine-cysteine-lysine (KCK) tags are frequently added to proteins for 
+visualization. In this study, we employed in vitro single-molecule DNA 
+flow-stretching assay as a sensitive way to assess the impact of the KCK-tag on 
+the property of DNA-binding proteins. Using Bacillus subtilis ParB as an 
+example, we show that, although no noticeable changes were detected by in vivo 
+fluorescence imaging and chromatin immunoprecipitation (ChIP) assays, the 
+KCK-tag substantially altered ParB's DNA compaction rates, its response to 
+nucleotide binding and to the presence of the specific sequence (parS) on the 
+DNA. While it is typically assumed that short peptide tags minimally perturb 
+protein function, our results urge researchers to carefully validate the use of 
+tags for protein labeling. Our comprehensive analysis can be expanded and used 
+as a guide to assess the impacts of other tags on DNA-binding proteins in 
+single-molecule assays.
+
+DOI: 10.1101/2023.03.19.533373
+PMCID: PMC10055205
+PMID: 36993356
+
+Conflict of interest statement: Declaration of interests All authors declare the 
+absence of any competing interests.

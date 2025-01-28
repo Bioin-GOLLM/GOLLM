@@ -1,0 +1,61 @@
+1. Front Pharmacol. 2022 Apr 21;13:838397. doi: 10.3389/fphar.2022.838397. 
+eCollection 2022.
+
+Study on the Characteristics of Small-Molecule Kinase Inhibitors-Related 
+Drug-Induced Liver Injury.
+
+Dong H(1), You J(2), Zhao Y(3), Zheng D(1), Zhong Y(1)(3), Li G(3), Weng 
+Z(1)(3), Luo H(1)(3)(4), Jiang S(5).
+
+Author information:
+(1)College of Biological Science and Engineering, Fuzhou University, Fuzhou, 
+China.
+(2)Department of Hepatology, Hepatology Research Institute, The First Affiliated 
+Hospital, Fujian Medical University, Fuzhou, China.
+(3)College of Mathematics and Computer Science, Fuzhou University, Fuzhou, 
+China.
+(4)MetaNovas Biotech Inc., Foster City, CA, United States.
+(5)Department of Vascular Thyroid Surgery, Affiliated Union Hospital, Fujian 
+Medical University, Fuzhou, China.
+
+Background and Aim: More than half of the small-molecule kinase inhibitors (KIs) 
+induced liver injury clinically. Meanwhile, studies have shown a close 
+relationship between mitochondrial damage and drug-induced liver injury (DILI). 
+We aimed to study KIs and the binding between drugs and mitochondrial proteins 
+to find factors related to DILI occurrence. Methods: A total of 1,223 oral 
+FDA-approved drugs were collected and analyzed, including 44 KIs. Fisher's exact 
+test was used to analyze DILI potential and risk of different factors. A total 
+of 187 human mitochondrial proteins were further collected, and high-throughput 
+molecular docking was performed between human mitochondrial proteins and drugs 
+in the data set. The molecular dynamics simulation was used to optimize and 
+evaluate the dynamic binding behavior of the selected mitochondrial protein/KI 
+complexes. Results: The possibility of KIs to produce DILI is much higher than 
+that of other types (OR = 46.89, p = 9.28E-13). A few DILI risk factors were 
+identified, including molecular weight (MW) between 400 and 600, the defined 
+daily dose (DDD) ≥ 100 mg/day, the octanol-water partition coefficient (LogP) ≥ 
+3, and the degree of liver metabolism (LM) more than 50%. Drugs that met this 
+combination of rules were found to have a higher DILI risk than controls (OR = 
+8.28, p = 4.82E-05) and were more likely to cause severe DILI (OR = 8.26, p = 
+5.06E-04). The docking results showed that KIs had a significant higher affinity 
+with human mitochondrial proteins (p = 4.19E-11) than other drug types. 
+Furthermore, the five proteins with the lowest docking score were selected for 
+molecular dynamics simulation, and the smallest fluctuation of the backbone RMSD 
+curve was found in the protein 5FS8/KI complexes, which indicated the best 
+stability of the protein 5FS8 bound to KIs. Conclusions: KIs were found to have 
+the highest odds ratio of causing DILI. MW was significantly related to the 
+production of DILI, and the average docking scores of KI drugs were found to be 
+significantly different from other classes. Further analysis identified the top 
+binding mitochondrial proteins for KIs, and specific binding sites were 
+analyzed. The optimization of molecular docking results by molecular dynamics 
+simulation may contribute to further studying the mechanism of DILI.
+
+Copyright © 2022 Dong, You, Zhao, Zheng, Zhong, Li, Weng, Luo and Jiang.
+
+DOI: 10.3389/fphar.2022.838397
+PMCID: PMC9068902
+PMID: 35529445
+
+Conflict of interest statement: Author HL was employed by MetaNovas Biotech Inc. 
+The remaining authors declare that the research was conducted in the absence of 
+any commercial or financial relationships that could be construed as a potential 
+conflict of interest.

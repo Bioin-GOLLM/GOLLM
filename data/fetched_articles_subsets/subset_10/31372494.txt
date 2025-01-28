@@ -1,0 +1,40 @@
+1. NPJ Parkinsons Dis. 2019 Jul 25;5:14. doi: 10.1038/s41531-019-0086-4. 
+eCollection 2019.
+
+Parkinson's progression prediction using machine learning and serum cytokines.
+
+Ahmadi Rastegar D(1), Ho N(1), Halliday GM(1), Dzamko N(1).
+
+Author information:
+(1)ForeFront Dementia and Movement Disorders Laboratory, Brain and Mind Centre, 
+Central Clinical School, Faculty of Medicine and Health, University of Sydney, 
+Camperdown, NSW 2050 Australia.
+
+The heterogeneous nature of Parkinson's disease (PD) symptoms and variability in 
+their progression complicates patient treatment and interpretation of clinical 
+trials. Consequently, there is much interest in developing models that can 
+predict PD progression. In this study we have used serum samples from a 
+clinically well characterized longitudinally followed Michael J Fox Foundation 
+cohort of PD patients with and without the common leucine-rich repeat kinase 2 
+(LRRK2) G2019S mutation. We have measured 27 inflammatory cytokines and 
+chemokines in serum at baseline and after 1 year to investigate cytokine 
+stability. We then used the baseline measurements in conjunction with machine 
+learning models to predict longitudinal clinical outcomes after 2 years follow 
+up. Using the normalized root mean square error (NRMSE) as a measure of 
+performance, the best prediction models were for the motor symptom severity 
+scales, with NRMSE of 0.1123 for the Hoehn and Yahr scale and 0.1193 for the 
+unified Parkinson's disease rating scale part three (UPDRS III). For each model, 
+the top variables contributing to prediction were identified, with the 
+chemokines macrophage inflammatory protein one alpha (MIP1α), and monocyte 
+chemoattractant protein one (MCP1) making the biggest peripheral contribution to 
+prediction of Hoehn and Yahr and UPDRS III, respectively. These results provide 
+information on the longitudinal assessment of peripheral inflammatory cytokines 
+in PD and give evidence that peripheral cytokines may have utility for aiding 
+prediction of PD progression using machine learning models.
+
+DOI: 10.1038/s41531-019-0086-4
+PMCID: PMC6658482
+PMID: 31372494
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests.

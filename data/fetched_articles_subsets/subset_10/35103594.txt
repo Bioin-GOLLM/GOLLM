@@ -1,0 +1,41 @@
+1. Elife. 2022 Feb 1;11:e74363. doi: 10.7554/eLife.74363.
+
+Reciprocally inhibitory circuits operating with distinct mechanisms are 
+differently robust to perturbation and modulation.
+
+Morozova E(1), Newstein P(1)(2), Marder E(1).
+
+Author information:
+(1)Volen Center and Department of Biology, Brandeis University, Waltham, United 
+States.
+(2)Biology Department, University of Oregon, Eugene, United States.
+
+Reciprocal inhibition is a building block in many sensory and motor circuits. We 
+studied the features that underly robustness in reciprocally inhibitory two 
+neuron circuits. We used the dynamic clamp to create reciprocally inhibitory 
+circuits from pharmacologically isolated neurons of the crab stomatogastric 
+ganglion by injecting artificial graded synaptic (ISyn) and 
+hyperpolarization-activated inward (IH) currents. There is a continuum of 
+mechanisms in circuits that generate antiphase oscillations, with 'release' and 
+'escape' mechanisms at the extremes, and mixed mode oscillations between these 
+extremes. In release, the active neuron primarily controls the off/on 
+transitions. In escape, the inhibited neuron controls the transitions. We 
+characterized the robustness of escape and release circuits to alterations in 
+circuit parameters, temperature, and neuromodulation. We found that escape 
+circuits rely on tight correlations between synaptic and H conductances to 
+generate bursting but are resilient to temperature increase. Release circuits 
+are robust to variations in synaptic and H conductances but fragile to 
+temperature increase. The modulatory current (IMI) restores oscillations in 
+release circuits but has little effect in escape circuits. Perturbations can 
+alter the balance of escape and release mechanisms and can create mixed mode 
+oscillations. We conclude that the same perturbation can have dramatically 
+different effects depending on the circuits' mechanism of operation that may not 
+be observable from basal circuit activity.
+
+© 2022, Morozova et al.
+
+DOI: 10.7554/eLife.74363
+PMCID: PMC8884723
+PMID: 35103594 [Indexed for MEDLINE]
+
+Conflict of interest statement: EM, PN, EM No competing interests declared

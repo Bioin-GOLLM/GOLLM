@@ -1,0 +1,56 @@
+1. Struct Chem. 2023;34(3):791-823. doi: 10.1007/s11224-022-02029-4. Epub 2022
+Aug  11.
+
+Investigation of [(3)H]diazepam derivatives as allosteric modulators of GABAA 
+receptor α(1)β(2)γ(2) subtypes: combination of molecular docking/dynamic 
+simulations, pharmacokinetics/drug-likeness prediction, and QSAR analysis.
+
+Djebaili R(1), Kenouche S(2), Daoud I(3)(4), Melkemi N(1), Belkadi A(1), Mesli 
+F(3).
+
+Author information:
+(1)07000 Biskra, Algeria Group of Computational and Pharmaceutical Chemistry, 
+LMCE Laboratory, University of Mohamed Khider.
+(2)07000 Biskra, Algeria Group of Modeling of Chemical Systems Using Quantum 
+Calculations, Applied Chemistry Laboratory (LCA), University of Mohamed Khider.
+(3)Laboratory of Natural and Bioactive Substances, LASNABIO, University of 
+Abou-BakrBelkaid, Tlemcen, Algeria.
+(4)BP 145 RP, 07000 Biskra, Algeria Present address: Department of Matter 
+Sciences, University of Mohamed Khider Biskra.
+
+In this paper, a data set of [3H] diazepam derivatives was analyzed using 
+various computational methods: molecular docking/dynamic simulations, and QSAR 
+analysis. The main aims of these studies are to understand the binding 
+mechanisms by which benzodiazepines allosterically modulate GABAA receptor 
+α1β2γ2 subtypes, from inducing neuronal inhibition at lower doses to the 
+anesthetic effect at higher doses, and also, to define the structural 
+requirements that contribute to improving the response of GABAA/α1β2γ2 receptor 
+to benzodiazepine drugs. The results of the molecular docking study allowed 
+selecting Ro12-6377 and proflazepam as the best modulators for the four binding 
+sites simultaneously. Subsequently, the stability of the selected complexes was 
+investigated by performing molecular dynamics simulation. The latter confirmed 
+the features of both modulators to exert direct effects on the chloride-channel 
+lining residues. Pharmacokinetics and drug-likeness profile were assessed 
+through in silico tool. Furthermore, a QSAR analysis was conducted using an 
+improved vemolecular dynamics simulations proposed byrsion of PLS regression. 
+The goodness of fit and the predictive power of the resulting PLS model were 
+estimated according to internal and external validation parameters: R2 = 0.632, 
+R2adj = 0.584, F = 12.806; p-value = 6.2050e - 07, Q2loo = 0.639, and 
+Q2F3 = 0.813. Clearly, the obtained results ensure the predictive ability of the 
+developed QSAR model for the design of new high-potency benzodiazepine drugs.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s11224-022-02029-4.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, 
+LLC, part of Springer Nature 2022, Springer Nature or its licensor holds 
+exclusive rights to this article under a publishing agreement with the author(s) 
+or other rightsholder(s); author self-archiving of the accepted manuscript 
+version of this article is solely governed by the terms of such publishing 
+agreement and applicable law.
+
+DOI: 10.1007/s11224-022-02029-4
+PMCID: PMC9365687
+PMID: 35971551
+
+Conflict of interest statement: Conflict of interestThe authors declare no 
+competing interests.

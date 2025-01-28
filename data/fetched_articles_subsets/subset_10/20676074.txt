@@ -1,0 +1,62 @@
+1. Nat Biotechnol. 2010 Aug;28(8):827-38. doi: 10.1038/nbt.1665. Epub 2010 Jul
+30.
+
+The MicroArray Quality Control (MAQC)-II study of common practices for the 
+development and validation of microarray-based predictive models.
+
+Shi L(1), Campbell G, Jones WD, Campagne F, Wen Z, Walker SJ, Su Z, Chu TM, 
+Goodsaid FM, Pusztai L, Shaughnessy JD Jr, Oberthuer A, Thomas RS, Paules RS, 
+Fielden M, Barlogie B, Chen W, Du P, Fischer M, Furlanello C, Gallas BD, Ge X, 
+Megherbi DB, Symmans WF, Wang MD, Zhang J, Bitter H, Brors B, Bushel PR, Bylesjo 
+M, Chen M, Cheng J, Cheng J, Chou J, Davison TS, Delorenzi M, Deng Y, 
+Devanarayan V, Dix DJ, Dopazo J, Dorff KC, Elloumi F, Fan J, Fan S, Fan X, Fang 
+H, Gonzaludo N, Hess KR, Hong H, Huan J, Irizarry RA, Judson R, Juraeva D, 
+Lababidi S, Lambert CG, Li L, Li Y, Li Z, Lin SM, Liu G, Lobenhofer EK, Luo J, 
+Luo W, McCall MN, Nikolsky Y, Pennello GA, Perkins RG, Philip R, Popovici V, 
+Price ND, Qian F, Scherer A, Shi T, Shi W, Sung J, Thierry-Mieg D, Thierry-Mieg 
+J, Thodima V, Trygg J, Vishnuvajjala L, Wang SJ, Wu J, Wu Y, Xie Q, Yousef WA, 
+Zhang L, Zhang X, Zhong S, Zhou Y, Zhu S, Arasappan D, Bao W, Lucas AB, Berthold 
+F, Brennan RJ, Buness A, Catalano JG, Chang C, Chen R, Cheng Y, Cui J, Czika W, 
+Demichelis F, Deng X, Dosymbekov D, Eils R, Feng Y, Fostel J, Fulmer-Smentek S, 
+Fuscoe JC, Gatto L, Ge W, Goldstein DR, Guo L, Halbert DN, Han J, Harris SC, 
+Hatzis C, Herman D, Huang J, Jensen RV, Jiang R, Johnson CD, Jurman G, Kahlert 
+Y, Khuder SA, Kohl M, Li J, Li L, Li M, Li QZ, Li S, Li Z, Liu J, Liu Y, Liu Z, 
+Meng L, Madera M, Martinez-Murillo F, Medina I, Meehan J, Miclaus K, Moffitt RA, 
+Montaner D, Mukherjee P, Mulligan GJ, Neville P, Nikolskaya T, Ning B, Page GP, 
+Parker J, Parry RM, Peng X, Peterson RL, Phan JH, Quanz B, Ren Y, Riccadonna S, 
+Roter AH, Samuelson FW, Schumacher MM, Shambaugh JD, Shi Q, Shippy R, Si S, 
+Smalter A, Sotiriou C, Soukup M, Staedtler F, Steiner G, Stokes TH, Sun Q, Tan 
+PY, Tang R, Tezak Z, Thorn B, Tsyganova M, Turpaz Y, Vega SC, Visintainer R, von 
+Frese J, Wang C, Wang E, Wang J, Wang W, Westermann F, Willey JC, Woods M, Wu S, 
+Xiao N, Xu J, Xu L, Yang L, Zeng X, Zhang J, Zhang L, Zhang M, Zhao C, Puri RK, 
+Scherf U, Tong W, Wolfinger RD; MAQC Consortium.
+
+Author information:
+(1)National Center for Toxicological Research, US Food and Drug Administration, 
+Jefferson, Arkansas, USA.
+
+Comment in
+    Pharmacogenomics. 2011 Apr;12(4):461-3. doi: 10.2217/pgs.11.26.
+
+Gene expression data from microarrays are being applied to predict preclinical 
+and clinical endpoints, but the reliability of these predictions has not been 
+established. In the MAQC-II project, 36 independent teams analyzed six 
+microarray data sets to generate predictive models for classifying a sample with 
+respect to one of 13 endpoints indicative of lung or liver toxicity in rodents, 
+or of breast cancer, multiple myeloma or neuroblastoma in humans. In total, 
+>30,000 models were built using many combinations of analytical methods. The 
+teams generated predictive models without knowing the biological meaning of some 
+of the endpoints and, to mimic clinical reality, tested the models on data that 
+had not been used for training. We found that model performance depended largely 
+on the endpoint and team proficiency and that different approaches generated 
+models of similar performance. The conclusions and recommendations from MAQC-II 
+should be useful for regulatory agencies, study committees and independent 
+investigators that evaluate methods for global gene expression analysis.
+
+DOI: 10.1038/nbt.1665
+PMCID: PMC3315840
+PMID: 20676074 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING FINANCIAL INTERESTS The authors 
+declare competing financial interests: details accompany the full-text HTML 
+version of the paper at http://www.nature.com/naturebiotechnology/.

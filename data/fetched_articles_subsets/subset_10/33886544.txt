@@ -1,0 +1,93 @@
+1. PLoS Genet. 2021 Apr 22;17(4):e1009525. doi: 10.1371/journal.pgen.1009525. 
+eCollection 2021 Apr.
+
+Using genetic variants to evaluate the causal effect of cholesterol lowering on 
+head and neck cancer risk: A Mendelian randomization study.
+
+Gormley M(1)(2)(3), Yarmolinsky J(1)(3), Dudding T(1)(2)(3), Burrows K(1)(3), 
+Martin RM(1)(3)(4), Thomas S(2)(4), Tyrrell J(5), Brennan P(6), Pring M(2), 
+Boccia S(7)(8), Olshan AF(9), Diergaarde B(10), Hung RJ(11)(12), Liu G(12)(13), 
+Legge D(14), Tajara EH(15), Severino P(16), Lacko M(17), Ness AR(4), Davey Smith 
+G(1)(3), Vincent EE(1)(3)(14), Richmond RC(1)(3).
+
+Author information:
+(1)MRC Integrative Epidemiology Unit, Population Health Sciences, Bristol 
+Medical School, University of Bristol, Bristol, United Kingdom.
+(2)Bristol Dental Hospital and School, University of Bristol, Bristol, United 
+Kingdom.
+(3)Department of Population Health Sciences, Bristol Medical School, University 
+of Bristol, Bristol, United Kingdom.
+(4)National Institute for Health Research Bristol Biomedical Research Centre at 
+the University Hospitals Bristol and Weston NHS Foundation Trust, University of 
+Bristol, Bristol, United Kingdom.
+(5)University of Exeter Medical School, RILD Building, RD&E Hospital, Exeter, 
+United Kingdom.
+(6)Genetic Epidemiology Group, World Health Organization, International Agency 
+for Research on Cancer, Lyon, France.
+(7)Section of Hygiene, University Department of Life Sciences and Public Health, 
+Università Cattolica del Sacro Cuore, Roma, Italia.
+(8)Department of Woman and Child Health and Public Health, Public Health Area, 
+Fondazione Policlinico Universitario A. Gemelli IRCCS, Roma, Italy.
+(9)Department of Epidemiology, Gillings School of Global Public Health, 
+University of North Carolina, Chapel Hill, North Carolina, United States of 
+America.
+(10)Department of Human Genetics, Graduate School of Public Health, University 
+of Pittsburgh, and UPMC Hillman Cancer Center, Pittsburgh, Pennsylvania, United 
+States of America.
+(11)Prosserman Centre for Population Health Research, Lunenfeld-Tanenbaum 
+Research Institute, Sinai Health System, Toronto, Canada.
+(12)Dalla Lana School of Public Health, University of Toronto, Toronto, Canada.
+(13)Princess Margaret Cancer Centre, Toronto, Canada.
+(14)School of Cellular and Molecular Medicine, University of Bristol, Bristol, 
+United Kingdom.
+(15)School of Medicine of São José do Rio Preto, São Paulo, Brazil.
+(16)Albert Einstein Research and Education Institute, Hospital Israelita Albert 
+Einstein, São Paulo, Brazil.
+(17)Department of Otorhinolaryngology and Head and Neck Surgery, Research 
+Institute GROW, Maastricht University Medical Center, Maastricht, The 
+Netherlands.
+
+Head and neck squamous cell carcinoma (HNSCC), which includes cancers of the 
+oral cavity and oropharynx, is a cause of substantial global morbidity and 
+mortality. Strategies to reduce disease burden include discovery of novel 
+therapies and repurposing of existing drugs. Statins are commonly prescribed for 
+lowering circulating cholesterol by inhibiting HMG-CoA reductase (HMGCR). 
+Results from some observational studies suggest that statin use may reduce HNSCC 
+risk. We appraised the relationship of genetically-proxied cholesterol-lowering 
+drug targets and other circulating lipid traits with oral (OC) and oropharyngeal 
+(OPC) cancer risk using two-sample Mendelian randomization (MR). For the primary 
+analysis, germline genetic variants in HMGCR, NPC1L1, CETP, PCSK9 and LDLR were 
+used to proxy the effect of low-density lipoprotein cholesterol (LDL-C) lowering 
+therapies. In secondary analyses, variants were used to proxy circulating levels 
+of other lipid traits in a genome-wide association study (GWAS) meta-analysis of 
+188,578 individuals. Both primary and secondary analyses aimed to estimate the 
+downstream causal effect of cholesterol lowering therapies on OC and OPC risk. 
+The second sample for MR was taken from a GWAS of 6,034 OC and OPC cases and 
+6,585 controls (GAME-ON). Analyses were replicated in UK Biobank, using 839 OC 
+and OPC cases and 372,016 controls and the results of the GAME-ON and UK Biobank 
+analyses combined in a fixed-effects meta-analysis. We found limited evidence of 
+a causal effect of genetically-proxied LDL-C lowering using HMGCR, NPC1L1, CETP 
+or other circulating lipid traits on either OC or OPC risk. Genetically-proxied 
+PCSK9 inhibition equivalent to a 1 mmol/L (38.7 mg/dL) reduction in LDL-C was 
+associated with an increased risk of OC and OPC combined (OR 1.8 95%CI 1.2, 2.8, 
+p = 9.31 x10-05), with good concordance between GAME-ON and UK Biobank (I2 = 
+22%). Effects for PCSK9 appeared stronger in relation to OPC (OR 2.6 95%CI 1.4, 
+4.9) than OC (OR 1.4 95%CI 0.8, 2.4). LDLR variants, resulting in 
+genetically-proxied reduction in LDL-C equivalent to a 1 mmol/L (38.7 mg/dL), 
+reduced the risk of OC and OPC combined (OR 0.7, 95%CI 0.5, 1.0, p = 0.006). A 
+series of pleiotropy-robust and outlier detection methods showed that pleiotropy 
+did not bias our findings. We found limited evidence for a role of 
+cholesterol-lowering in OC and OPC risk, suggesting previous observational 
+results may have been confounded. There was some evidence that 
+genetically-proxied inhibition of PCSK9 increased risk, while lipid-lowering 
+variants in LDLR, reduced risk of combined OC and OPC. This result suggests that 
+the mechanisms of action of PCSK9 on OC and OPC risk may be independent of its 
+cholesterol lowering effects; however, this was not supported uniformly across 
+all sensitivity analyses and further replication of this finding is required.
+
+DOI: 10.1371/journal.pgen.1009525
+PMCID: PMC8096036
+PMID: 33886544 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

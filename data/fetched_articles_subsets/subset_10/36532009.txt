@@ -1,0 +1,58 @@
+1. Front Immunol. 2022 Nov 30;13:1041098. doi: 10.3389/fimmu.2022.1041098. 
+eCollection 2022.
+
+Krebs von den lungen-6 as a clinical marker for hypersensitivity pneumonitis: A 
+meta-analysis and bioinformatics analysis.
+
+He J(1)(2), Zhang J(1)(2), Ren X(1)(2).
+
+Author information:
+(1)Clinical Medical College of Chengdu Medical College. Chengdu, Sichuan, China.
+(2)Department of Pulmonary and Critical Care Medicine, The First Affiliated 
+Hospital of Chengdu Medical College, Chengdu, Sichuan, China.
+
+AIM: Hypersensitivity pneumonitis (HP), also referred to as exogenous allergic 
+alveolitis, is one of the most common interstitial lung diseases (ILDs). A 
+potential immune biomarker, Krebs von den lgen-6 (KL-6) characterizes the 
+progression and severity of HP. The meta-analysis in this study was conducted to 
+elucidate the variations in the concentrations of KL-6 in different types of HP.
+METHODS: A systematic search of various databases such as EMBASE, Pubmed, CNKI, 
+VIP, Web of Science, and WanFang was carried out to find relevant published 
+articles between January 1980 and August 2022 that explored the relationship 
+between KL-6 and allergic pneumonia. Standardized mean difference (SMD) and 95% 
+confidence interval (CI) were used as effect sizes for comparison among 
+different groups. The GSE47460 and GSE150910 datasets were downloaded to extract 
+and validate the differences in KL-6 mRNA expression between HP lung tissue and 
+healthy controls. Furthermore, the single-cell sequencing dataset GSE135893 was 
+downloaded to extract KL-6 mRNA expression in type II alveolar epithelial cells 
+to validate the differences between HP and healthy controls. Two researchers 
+evaluated the quality of the included studies by employing Newcastle-Ottawa 
+Scale. All the qualified studies were subjected to statistical analyses carried 
+out utilizing RevMan 5.2, Stata 11.0, and R software 4.1.3.
+RESULTS: Twenty studies aligned perfectly with the inclusion criteria of the 
+meta. The concentrations of KL-6 were substantially higher in the blood of HP 
+patients as compared to the control group. Subgroup analyses were carried out in 
+accordance with the allergen source and the results revealed that patients with 
+different allergens had higher blood KL-6 concentrations than healthy controls. 
+Additionally, different subgroups of subjects were created for meta-analysis as 
+per the fibrosis status, race, measurement method, and sample type. The 
+concentration of KL-6 in blood was much higher in all HP subgroups than in 
+healthy control groups. Moreover, the bioinformatics analysis revealed that KL-6 
+mRNA expression was higher in HP lung tissue and type II alveolar epithelial 
+cells as compared to healthy controls.
+CONCLUSION: The present meta-analysis and bioinformatics analysis suggested that 
+the concentration levels of KL-6 varied between HP patients and healthy 
+individuals, and the KL-6 concentrations may be higher in the blood samples of 
+HP patients.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, 
+CRD42022355334.
+
+Copyright © 2022 He, Zhang and Ren.
+
+DOI: 10.3389/fimmu.2022.1041098
+PMCID: PMC9748086
+PMID: 36532009 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,44 @@
+1. bioRxiv [Preprint]. 2023 May 30:2023.05.28.542666. doi: 
+10.1101/2023.05.28.542666.
+
+Detection of interactions between genetic marker sets and environment in a 
+genome-wide study of hypertension.
+
+Shen L(1), Amei A(1), Liu B(1), Liu Y(2), Xu G(1)(2), Oh EC(3)(4), Wang Z(2).
+
+Author information:
+(1)Department of Mathematical Sciences, University of Nevada, Las Vegas.
+(2)Department of Biostatistics, Yale School of Public Health.
+(3)Department of Internal Medicine, University of Nevada School of Medicine, Las 
+Vegas.
+(4)Nevada Institute of Personalized Medicine, University of Nevada, Las Vegas.
+
+Update in
+    G3 (Bethesda). 2025 Jan 8;15(1):jkae263. doi: 10.1093/g3journal/jkae263.
+
+As human complex diseases are influenced by the interplay of genes and 
+environment, detecting gene-environment interactions (G × E) can shed light on 
+biological mechanisms of diseases and play an important role in disease risk 
+prediction. Development of powerful quantitative tools to incorporate G × E in 
+complex diseases has potential to facilitate the accurate curation and analysis 
+of large genetic epidemiological studies. However, most of existing methods that 
+interrogate G × E focus on the interaction effects of an environmental factor 
+and genetic variants, exclusively for common or rare variants. In this study, we 
+proposed two tests, MAGEIT_RAN and MAGEIT_FIX, to detect interaction effects of 
+an environmental factor and a set of genetic markers containing both rare and 
+common variants, based on the MinQue for Summary statistics. The genetic main 
+effects in MAGEIT_RAN and MAGEIT_FIX are modeled as random or fixed, 
+respectively. Through simulation studies, we illustrated that both tests had 
+type I error under control and MAGEIT_RAN was overall the most powerful test. We 
+applied MAGEIT to a genome-wide analysis of gene-alcohol interactions on 
+hypertension in the Multi-Ethnic Study of Atherosclerosis. We detected two 
+genes, CCNDBP1 and EPB42, that interact with alcohol usage to influence blood 
+pressure. Pathway analysis identified sixteen significant pathways related to 
+signal transduction and development that were associated with hypertension, and 
+several of them were reported to have an interactive effect with alcohol intake. 
+Our results demonstrated that MAGEIT can detect biologically relevant genes that 
+interact with environmental factors to influence complex traits.
+
+DOI: 10.1101/2023.05.28.542666
+PMCID: PMC10312472
+PMID: 37398075

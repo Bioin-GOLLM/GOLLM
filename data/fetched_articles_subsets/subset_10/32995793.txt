@@ -1,0 +1,48 @@
+1. bioRxiv [Preprint]. 2021 Jan 21:2020.09.17.302232. doi: 
+10.1101/2020.09.17.302232.
+
+Fixed single-cell RNA sequencing for understanding virus infection and host 
+response.
+
+Van Phan H(1)(2), van Gent M(3)(4), Drayman N(1)(2), Basu A(5), Gack MU(3)(4), 
+Tay S(1)(2).
+
+Author information:
+(1)Pritzker School of Molecular Engineering, The University of Chicago, Chicago, 
+IL, USA.
+(2)Institute for Genomics and Systems Biology, The University of Chicago, 
+Chicago, IL, USA.
+(3)Department of Microbiology, The University of Chicago, Chicago, IL, USA.
+(4)Florida Research and Innovation Center, Cleveland Clinic, Port Saint Lucie, 
+FL, USA.
+(5)Department of Medicine, The University of Chicago, Chicago, IL, USA.
+
+Update in
+    Nat Commun. 2021 Sep 24;12(1):5636. doi: 10.1038/s41467-021-25871-2.
+
+Single-cell transcriptomic studies that require intracellular protein staining, 
+rare cell sorting, or inactivation of infectious pathogens are severely limited 
+because current high-throughput RNA sequencing methods are incompatible with 
+paraformaldehyde treatment, a common tissue and cell fixation and preservation 
+technique. Here we present FD-seq, a high-throughput method for droplet-based 
+RNA sequencing of paraformaldehyde-fixed, stained and sorted single-cells. We 
+show that FD-seq preserves the mRNA integrity and relative abundances during 
+fixation and subsequent cell retrieval. Furthermore, FD-seq detects a higher 
+number of genes and transcripts than methanol fixation. We applied FD-seq to 
+investigate two important questions in Virology. First, by analyzing a rare 
+population of cells supporting lytic reactivation of the human tumor virus KSHV, 
+we identified TMEM119 as a host factor that mediates viral reactivation. Second, 
+we found that upon infection with the betacoronavirus OC43, which causes the 
+common cold and is a close relative of SARS-CoV-2, pro-inflammatory pathways are 
+primarily upregulated in lowly-infected cells that are exposed to the virus but 
+fail to express high levels of viral genes. FD-seq thus enables integrating 
+phenotypic with transcriptomic information in rare cell populations, and 
+preserving and inactivating pathogenic samples that cannot be handled under 
+regular biosafety measures.
+
+DOI: 10.1101/2020.09.17.302232
+PMCID: PMC7523121
+PMID: 32995793
+
+Conflict of interest statement: COMPETING INTERESTS The authors declare no 
+competing interests.

@@ -1,0 +1,91 @@
+1. Transl Psychiatry. 2021 Oct 7;11(1):513. doi: 10.1038/s41398-021-01632-z.
+
+Multi-omics driven predictions of response to acute phase combination 
+antidepressant therapy: a machine learning approach with cross-trial 
+replication.
+
+Joyce JB(#)(1), Grant CW(#)(2), Liu D(2), MahmoudianDehkordi S(3), 
+Kaddurah-Daouk R(3), Skime M(1), Biernacka J(4), Frye MA(1), Mayes T(5), Carmody 
+T(6), Croarkin PE(1), Wang L(2), Weinshilboum R(2), Bobo WV(7), Trivedi MH(5), 
+Athreya AP(8).
+
+Author information:
+(1)Department of Psychiatry and Psychology, Mayo Clinic, Rochester, MN, USA.
+(2)Department of Molecular Pharmacology and Experimental Therapeutics, Mayo 
+Clinic, Rochester, MN, USA.
+(3)Department of Psychiatry and Behavioral Sciences, Department of Medicine, 
+Duke Institute for Brain Sciences, Duke University, Durham, NC, USA.
+(4)Department of Quantitative Health Sciences, Mayo Clinic, Rochester, MN, USA.
+(5)Peter O'Donnell Jr. Brain Institute and The Department of Psychiatry at the 
+University of Texas Southwestern Medical Center, Dallas, TX, USA.
+(6)Department of Population and Data Sciences at the University of Texas 
+Southwestern Medical Center in Dallas, Dallas, TX, USA.
+(7)Department of Psychiatry and Psychology, Mayo Clinic, Jacksonville, FL, USA.
+(8)Department of Molecular Pharmacology and Experimental Therapeutics, Mayo 
+Clinic, Rochester, MN, USA. athreya.arjun@mayo.edu.
+(#)Contributed equally
+
+Combination antidepressant pharmacotherapies are frequently used to treat major 
+depressive disorder (MDD). However, there is no evidence that machine learning 
+approaches combining multi-omics measures (e.g., genomics and plasma 
+metabolomics) can achieve clinically meaningful predictions of outcomes to 
+combination pharmacotherapy. This study examined data from 264 MDD outpatients 
+treated with citalopram or escitalopram in the Mayo Clinic Pharmacogenomics 
+Research Network Antidepressant Medication Pharmacogenomic Study (PGRN-AMPS) and 
+111 MDD outpatients treated with combination pharmacotherapies in the Combined 
+Medications to Enhance Outcomes of Antidepressant Therapy (CO-MED) study to 
+predict response to combination antidepressant therapies. To assess whether 
+metabolomics with functionally validated single-nucleotide polymorphisms (SNPs) 
+improves predictability over metabolomics alone, models were trained/tested with 
+and without SNPs. Models trained with PGRN-AMPS' and CO-MED's 
+escitalopram/citalopram patients predicted response in CO-MED's combination 
+pharmacotherapy patients with accuracies of 76.6% (p < 0.01; AUC: 0.85) without 
+and 77.5% (p < 0.01; AUC: 0.86) with SNPs. Then, models trained solely with 
+PGRN-AMPS' escitalopram/citalopram patients predicted response in CO-MED's 
+combination pharmacotherapy patients with accuracies of 75.3% (p < 0.05; AUC: 
+0.84) without and 77.5% (p < 0.01; AUC: 0.86) with SNPs, demonstrating 
+cross-trial replication of predictions. Plasma hydroxylated sphingomyelins were 
+prominent predictors of treatment outcomes. To explore the relationship between 
+SNPs and hydroxylated sphingomyelins, we conducted multi-omics integration 
+network analysis. Sphingomyelins clustered with SNPs and metabolites related to 
+monoamine neurotransmission, suggesting a potential functional relationship. 
+These results suggest that integrating specific metabolites and SNPs achieves 
+accurate predictions of treatment response across classes of antidepressants. 
+Finally, these results motivate functional investigation into how sphingomyelins 
+might influence MDD pathophysiology, antidepressant response, or both.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41398-021-01632-z
+PMCID: PMC8497535
+PMID: 34620827 [Indexed for MEDLINE]
+
+Conflict of interest statement: Drs L Wang and RM Weinshilboum are co-founders 
+and stockholders in OneOme. Dr. WV Bobo’s research has been supported by the 
+National Institute of Mental Health, the Agency for Healthcare Quality and 
+Research, the National Science Foundation, the Myocarditis Foundation, and the 
+Mayo Foundation for Medical Education and Research. He has contributed chapters 
+to UpToDate concerning the pharmacological treatment of adults with bipolar 
+major depression. Dr. PE Croarkin has received research grant support from 
+Neuronetics, Inc., NeoSync, Inc., and Pfizer, Inc. He has received grant in-kind 
+(equipment and supply support for research studies) from Assurex Health, 
+Neuronetics, Inc., and MagVenture, Inc. Dr. PE Croarkin has served as a 
+consultant for Engrail Therapeutics, Myriad Neuroscience, Procter & Gamble, and 
+Sunovion. Dr. MH Trivedi has provided consulting services to Acadia 
+Pharmaceuticals, Inc., Alkermes, Inc., Alto Neuroscience, Inc., Axsome 
+Therapeutics, GH Research Limited, GreenLight VitalSign6, Inc., Janssen, Merck 
+Sharp & Dohme Corp., Neurocrine Biosciences, Inc., Orexo US, Inc., Otsuka, SAGE 
+Therapeutics, Signant Health, Titan Pharmaceuticals, Inc. He has received 
+grant/research funding from NIMH, NIDA, Patient-Centered Outcomes Research 
+Institute (PCORI), and Cancer Prevention Research Institute of Texas (CPRIT). In 
+addition, he has received editorial compensation from Oxford University Press. 
+Dr. T Carmody has provided consulting services to Alkermes, Inc. Dr. R 
+Kaddurah-Daouk is an inventor on key patents in the field of metabolomics in the 
+study of CNS diseases and holds equity in Metabolon, Inc., a biotechnology 
+company that provides metabolic profiling capabilities. Dr. MA Frye has received 
+research support from Assurex Health, Myriad, Mayo Foundation, and Medibio; he 
+has served as a consultant for Actify Neurotherapies, Allergan, Intra-Cellular 
+Therapies, Inc., Janssen, Myriad, Neuralstem, Inc., Sanofi, Takeda, Teva 
+Pharmaceuticals; he has received CME Travel/Honoraria from American Physician 
+Institute, CME Outfitters, Global Academy for Medical Education. All other 
+authors declared no competing interests for this work.

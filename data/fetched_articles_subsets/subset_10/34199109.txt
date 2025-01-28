@@ -1,0 +1,47 @@
+1. J Pers Med. 2021 Jun 27;11(7):609. doi: 10.3390/jpm11070609.
+
+Machine Learning-Based Approach Highlights the Use of a Genomic Variant Profile 
+for Precision Medicine in Ovarian Failure.
+
+Henarejos-Castillo I(1)(2), Aleman A(1), Martinez-Montoro B(3), Gracia-Aznárez 
+FJ(4), Sebastian-Leon P(1)(3), Romeu M(5), Remohi J(2)(6), Patiño-Garcia 
+A(4)(7), Royo P(3), Alkorta-Aranburu G(4), Diaz-Gimeno P(1)(3).
+
+Author information:
+(1)IVI Foundation-Instituto de Investigación Sanitaria La Fe, Av. Fernando Abril 
+Martorell 106, Torre A, Planta 1ª, 46026 Valencia, Spain.
+(2)Department of Paediatrics, Obstetrics and Gynaecology, University of 
+Valencia, Av. Blasco Ibáñez 15, 46010 Valencia, Spain.
+(3)IVI-RMA Pamplona, Reproductive Medicine, C/Sangüesa, Número 15-Planta Baja, 
+31003 Pamplona, Spain.
+(4)CIMA Lab Diagnostics, University of Navarra, IdiSNA, Avda Pio XII, 55, 31008 
+Pamplona, Spain.
+(5)Hospital Universitario y Politécnico La Fe, Av. Fernando Abril Martorell 106, 
+46026 Valencia, Spain.
+(6)IVI-RMA Valencia, Reproductive Medicine, Plaça de la Policia Local, 3, 46015 
+Valencia, Spain.
+(7)Laboratorio de Pediatría-Unidad de Genética Clínica, Clínica Universidad de 
+Navarra, Avda Pio XII, 55, 31008 Pamplona, Spain.
+
+Ovarian failure (OF) is a common cause of infertility usually diagnosed as 
+idiopathic, with genetic causes accounting for 10-25% of cases. Whole-exome 
+sequencing (WES) may enable identifying contributing genes and variant profiles 
+to stratify the population into subtypes of OF. This study sought to identify a 
+blood-based gene variant profile using accumulation of rare variants to promote 
+precision medicine in fertility preservation programs. A case-control (n = 118, 
+n = 32, respectively) WES study was performed in which only non-synonymous rare 
+variants <5% minor allele frequency (MAF; in the IGSR) and coverage ≥ 100× were 
+considered. A profile of 66 variants of uncertain significance was used for 
+training an unsupervised machine learning model to separate cases from controls 
+(97.2% sensitivity, 99.2% specificity) and stratify the population into two 
+subtypes of OF (A and B) (93.31% sensitivity, 96.67% specificity). Model testing 
+within the IGSR female population predicted 0.5% of women as subtype A and 2.4% 
+as subtype B. This is the first study linking OF to the accumulation of rare 
+variants and generates a new potential taxonomy supporting application of this 
+approach for precision medicine in fertility preservation.
+
+DOI: 10.3390/jpm11070609
+PMCID: PMC8305607
+PMID: 34199109
+
+Conflict of interest statement: The authors report no conflict of interest.

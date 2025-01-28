@@ -1,0 +1,46 @@
+1. Biomolecules. 2021 Jul 16;11(7):1042. doi: 10.3390/biom11071042.
+
+Computational Probing the Methylation Sites Related to EGFR Inhibitor-Responsive 
+Genes.
+
+Yuan R(1)(2), Chen S(1)(3), Wang Y(1)(4).
+
+Author information:
+(1)Key Laboratory of Plateau Biological Adaptation and Evolution, Northwest 
+Institute of Plateau Biology, Chinese Academy of Sciences, Xining 810008, China.
+(2)University of Chinese Academy of Sciences, Beijing 100049, China.
+(3)Institute of Sanjiangyuan National Park, Chinese Academy of Sciences, Xining 
+810008, China.
+(4)Qinghai Provincial Key Laboratory of Crop Molecular Breeding, Northwest 
+Institute of Plateau Biology, Chinese Academy of Sciences, Xining 810008, China.
+
+The emergence of drug resistance is one of the main obstacles to the treatment 
+of lung cancer patients with EGFR inhibitors. Here, to further understand the 
+mechanism of EGFR inhibitors in lung cancer and offer novel therapeutic targets 
+for anti-EGFR-inhibitor resistance via the deep mining of pharmacogenomics data, 
+we associated DNA methylation with drug sensitivities for uncovering the 
+methylation sites related to EGFR inhibitor sensitivity genes. Specifically, we 
+first introduced a grouped regularized regression model (Group Least Absolute 
+Shrinkage and Selection Operator, group lasso) to detect the genes that were 
+closely related to EGFR inhibitor effectiveness. Then, we applied the classical 
+regression model (lasso) to identify the methylation sites associated with the 
+above drug sensitivity genes. The new model was validated on the well-known 
+cancer genomics resource: CTRP. GeneHancer and Encyclopedia of DNA Elements 
+(ENCODE) database searches indicated that the predicted methylation sites 
+related to EGFR inhibitor sensitivity genes were related to regulatory elements. 
+Moreover, the correlation analysis on sensitivity genes and predicted 
+methylation sites suggested that the methylation sites located in the promoter 
+region were more correlated with the expression of EGFR inhibitor sensitivity 
+genes than those located in the enhancer region and the TFBS. Meanwhile, we 
+performed differential expression analysis of genes and predicted methylation 
+sites and found that changes in the methylation level of some sites may affect 
+the expression of the corresponding EGFR inhibitor-responsive genes. Therefore, 
+we supposed that the effectiveness of EGFR inhibitors in lung cancer may be 
+improved by methylation modification in their sensitivity genes.
+
+DOI: 10.3390/biom11071042
+PMCID: PMC8302001
+PMID: 34356665 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

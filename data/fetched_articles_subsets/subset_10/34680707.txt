@@ -1,0 +1,44 @@
+1. Insects. 2021 Oct 14;12(10):938. doi: 10.3390/insects12100938.
+
+Full-Length SMRT Transcriptome Sequencing and SSR Analysis of Bactrocera 
+dorsalis (Hendel).
+
+Ouyang H(1), Wang X(1), Zheng X(1), Lu W(1), Qin F(1), Chen C(1).
+
+Author information:
+(1)Guangxi Key Laboratory of Agric-Environment and Agric-Products Safety, 
+College of Agriculture, Guangxi University, Nanning 530004, China.
+
+Bactrocera dorsalis (Hendel), as one of the most notorious and destructive 
+invasive agricultural pests in the world, causes damage to over 250 different 
+types of fruits and vegetables throughout tropical and subtropical areas. PacBio 
+single-molecule real-time (SMRT) sequencing was used to generate the full-length 
+transcriptome data of B. dorsalis. A total of 40,319,890 subreads (76.6 Gb, 
+clean reads) were generated, including 535,241 circular consensus sequences 
+(CCSs) and 386,916 full-length non-concatemer reads (FLNCs). Transcript cluster 
+analysis of the FLNC reads revealed 22,780 high-quality reads (HQs). In total, 
+12,274 transcripts were functionally annotated based on four different 
+databases. A total of 1978 SSR loci were distributed throughout 1714 HQ 
+transcripts, of which 1926 were complete SSRs and 52 were complex SSRs. Among 
+the total SSR loci, 2-3 nucleotide repeats were dominant, occupying 83.62%, of 
+which di- and tri- nucleotide repeats were 39.38% and 44.24%, respectively. We 
+detected 105 repeat motifs, of which AT/AT (50.19%), AC/GT (39.15%), CAA/TTG 
+(32.46%), and ACA/TGT (10.86%) were the most common in di- and tri-nucleotide 
+repeats. The repeat SSR motifs were 12-190 bp in length, and 1638 (88.02%) were 
+shorter than 20 bp. According to the randomly selected microsatellite sequence, 
+80 pairs of primers were designed, and 174 individuals were randomly amplified 
+by PCR using primers. The number of primers that had amplification products with 
+clear bands and showed good polymorphism came to 41, indicating that this was a 
+feasible way to explore SSR markers from the transcriptomic data of B. dorsalis. 
+These results lay a foundation for developing highly polymorphic microsatellites 
+for researching the functional genomics, population genetic structure, and 
+genetic diversity of B. dorsalis.
+
+DOI: 10.3390/insects12100938
+PMCID: PMC8537375
+PMID: 34680707
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.

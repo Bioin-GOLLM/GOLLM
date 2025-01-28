@@ -1,0 +1,34 @@
+1. Microorganisms. 2021 Dec 3;9(12):2505. doi: 10.3390/microorganisms9122505.
+
+A Set of Plasmid-Based Modules for Easy Switching of C-Terminal Epitope Tags in 
+Saccharomyces cerevisiae.
+
+Hayashi H(1), Kishi T(1).
+
+Author information:
+(1)College of Engineering, Nihon University, Koriyama, Fukushima 963-8642, 
+Japan.
+
+Epitope tagging is a powerful strategy for analyzing the functions of targeted 
+proteins. The use of this strategy has become more convenient with the 
+development of the epitope switch, which is another type of epitope tagging 
+designed to convert the previously tagged epitopes on the chromosome to other 
+epitopes of interest. Various modules for C-terminal epitope switching have been 
+developed and amplified using the one-step polymerase chain reaction (PCR) 
+method before transformation. However, PCR amplification occasionally generates 
+mutations that affect the fidelity of epitope switching. Here, we constructed 
+several plasmids to isolate modules for epitope switching through digestion by 
+restriction enzymes. The isolated modules contained DNA sequences for homologous 
+recombination, various epitopes (13×Myc, 6×HA, GFP, Venus, YFP, mCherry, and 
+CFP), and a transformation marker (Candida glabrata LEU2). The restriction 
+enzyme-digested plasmids were used to directly transform the cells for epitope 
+switching. We demonstrate the efficient and accurate switching of the MX6 
+module-based C-terminal tandem affinity purification tags to each aforementioned 
+epitope. We believe that our plasmids can serve as powerful tools for the 
+functional analysis of yeast proteins.
+
+DOI: 10.3390/microorganisms9122505
+PMCID: PMC8707574
+PMID: 34946108
+
+Conflict of interest statement: The authors declare no conflict of interest.

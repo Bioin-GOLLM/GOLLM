@@ -1,0 +1,41 @@
+1. Nucleic Acids Res. 2022 May 6;50(8):e46. doi: 10.1093/nar/gkac014.
+
+A Cas6-based RNA tracking platform functioning in a fluorescence-activation 
+mode.
+
+Gao F(1), Zheng K(1), Li YB(2), Jiang F(1), Han CY(1).
+
+Author information:
+(1)Gene Editing Research Center, Hebei University of Science and Technology, 
+Shijiazhuang, Hebei 050018, China.
+(2)School of Basic Medical Sciences, Hebei University, Baoding, Hebei 071000, 
+China.
+
+Erratum in
+    Nucleic Acids Res. 2022 Mar 21;50(5):2987-2989. doi: 10.1093/nar/gkac111.
+
+Given the fact that the localization of RNAs is closely associated with their 
+functions, techniques developed for tracking the distribution of RNAs in live 
+cells have greatly advanced the study of RNA biology. Recently, innovative 
+application of fluorescent protein-labelled Cas9 and Cas13 into live-cell RNA 
+tracking further enriches the toolbox. However, the Cas9/Cas13 platform, as well 
+as the widely-used MS2-MCP technique, failed to solve the problem of high 
+background noise. It was recently reported that CRISPR/Cas6 would exhibit 
+allosteric alteration after interacting with the Cas6 binding site (CBS) on 
+RNAs. Here, we exploited this feature and designed a Cas6-based switch platform 
+for detecting target RNAs in vivo. Conjugating split-Venus fragments to both 
+ends of the endoribonuclease-mutated Escherichia coli Cas6(dEcCas6) allowed 
+ligand (CBS)-activated split-Venus complementation. We name this platform as 
+Cas6 based Fluorescence Complementation (Cas6FC). In living cells, Cas6FC could 
+detect target RNAs with nearly free background noise. Moreover, as minimal as 
+one copy of CBS (29nt) tagged in an RNA of interest was able to turn on Cas6FC 
+fluorescence, which greatly reduced the odds of potential alteration of 
+conformation and localization of target RNAs. Thus, we developed a new RNA 
+tracking platform inherently with high sensitivity and specificity.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac014
+PMCID: PMC9071499
+PMID: 35061906 [Indexed for MEDLINE]

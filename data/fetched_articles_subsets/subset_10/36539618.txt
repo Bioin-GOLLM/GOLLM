@@ -1,0 +1,442 @@
+1. Nat Genet. 2023 Jan;55(1):89-99. doi: 10.1038/s41588-022-01222-9. Epub 2022
+Dec  20.
+
+Deciphering colorectal cancer genetics through multi-omic analysis of 100,204 
+cases and 154,587 controls of European and east Asian ancestries.
+
+Fernandez-Rozadilla C(#)(1)(2), Timofeeva M(#)(3)(4), Chen Z(#)(5), Law P(#)(6), 
+Thomas M(#)(7), Schmit S(#)(8)(9), Díez-Obrero V(#)(10)(11)(12)(13), Hsu 
+L(#)(7)(14), Fernandez-Tajes J(1), Palles C(15), Sherwood K(1), Briggs S(16), 
+Svinti V(3), Donnelly K(3), Farrington S(3), Blackmur J(3), Vaughan-Shaw P(3), 
+Shu XO(5), Long J(5), Cai Q(5), Guo X(5)(17), Lu Y(5), Broderick P(6), Studd 
+J(6), Huyghe J(7), Harrison T(7), Conti D(18), Dampier C(19), Devall M(19), 
+Schumacher F(20)(21), Melas M(22), Rennert G(23)(24)(25), Obón-Santacana 
+M(10)(11)(26), Martín-Sánchez V(12)(27), Moratalla-Navarro F(10)(11)(12)(13), Oh 
+JH(28), Kim J(29), Jee SH(30), Jung KJ(30), Kweon SS(31), Shin MH(31), Shin 
+A(32)(33), Ahn YO(32), Kim DH(34), Oze I(35), Wen W(5), Matsuo K(36)(37), 
+Matsuda K(38), Tanikawa C(39), Ren Z(40), Gao YT(41), Jia WH(42), Hopper 
+J(43)(44), Jenkins M(43), Win AK(43), Pai R(45), Figueiredo J(18)(46), Haile 
+R(47), Gallinger S(48), Woods M(49), Newcomb P(7)(50), Duggan D(51), Cheadle 
+J(52), Kaplan R(53), Maughan T(54), Kerr R(55), Kerr D(56), Kirac I(57), Böhm 
+J(58), Mecklin LP(59), Jousilahti P(60), Knekt P(60), Aaltonen L(61)(62), 
+Rissanen H(63), Pukkala E(64)(65), Eriksson J(66)(67)(68), Cajuso T(61)(62), 
+Hänninen U(61)(62), Kondelin J(61)(62), Palin K(61)(62), Tanskanen T(61)(62), 
+Renkonen-Sinisalo L(69), Zanke B(70), Männistö S(63), Albanes D(71), Weinstein 
+S(71), Ruiz-Narvaez E(72), Palmer J(73)(74), Buchanan D(75)(76)(77), Platz 
+E(78), Visvanathan K(78), Ulrich C(79), Siegel E(80), Brezina S(81), Gsur A(81), 
+Campbell P(82), Chang-Claude J(83)(84), Hoffmeister M(85), Brenner 
+H(85)(86)(87), Slattery M(88), Potter J(7)(89), Tsilidis K(90)(91), Schulze 
+M(92)(93), Gunter M(94), Murphy N(94), Castells A(95), Castellví-Bel S(95), 
+Moreira L(95), Arndt V(85), Shcherbina A(96), Stern M(97)(98), Pardamean B(99), 
+Bishop T(100), Giles G(43)(101)(102), Southey M(101)(102)(103), Idos G(104), 
+McDonnell K(24)(25)(104), Abu-Ful Z(23), Greenson J(24)(25)(105), Shulman K(23), 
+Lejbkowicz F(23)(25)(106), Offit K(107)(108), Su YR(109), Steinfelder R(7), Keku 
+T(110), van Guelpen B(111)(112), Hudson T(113), Hampel H(114), Pearlman R(114), 
+Berndt S(71), Hayes R(115), Martinez ME(116)(117), Thomas S(118), Corley 
+D(119)(120), Pharoah P(121), Larsson S(122), Yen Y(123), Lenz HJ(124), White 
+E(7)(125), Li L(21), Doheny K(126), Pugh E(126), Shelford T(126), Chan 
+A(127)(128)(129)(130)(131)(132), Cruz-Correa M(133), Lindblom A(134)(135), 
+Hunter D(131)(136), Joshi A(127)(131), Schafmayer C(137), Scacheri P(138), 
+Kundaje A(96)(139), Nickerson D(140), Schoen R(141), Hampe J(142), Stadler 
+Z(108)(143), Vodicka P(144)(145)(146), Vodickova L(144)(145)(146), Vymetalkova 
+V(144)(145)(146), Papadopoulos N(147)(148)(149), Edlund C(18), Gauderman W(18), 
+Thomas D(18), Shibata D(150), Toland A(151), Markowitz S(152), Kim A(18), 
+Chanock S(71), van Duijnhoven F(153), Feskens E(154), Sakoda L(7)(119), 
+Gago-Dominguez M(155)(156), Wolk A(122), Naccarati A(157)(158), Pardini 
+B(157)(158), FitzGerald L(101)(159), Lee SC(160), Ogino S(131)(161)(162)(163), 
+Bien S(7), Kooperberg C(7), Li C(7), Lin Y(7), Prentice R(7)(164), Qu C(7), 
+Bézieau S(165), Tangen C(166), Mardis E(167), Yamaji T(168), Sawada N(169), 
+Iwasaki M(168)(169), Haiman C(170), Le Marchand L(171), Wu A(172), Qu C(173), 
+McNeil C(173), Coetzee G(174), Hayward C(175), Deary I(176), Harris S(176), 
+Theodoratou E(177), Reid S(3), Walker M(3), Ooi LY(3)(178), Moreno 
+V(10)(11)(12)(13), Casey G(19), Gruber S(104), Tomlinson I(179)(180), Zheng 
+W(181), Dunlop M(182), Houlston R(183), Peters U(184)(185).
+
+Author information:
+(1)Edinburgh Cancer Research Centre, Institute of Genomics and Cancer, 
+University of Edinburgh, Edinburgh, UK.
+(2)Genomic Medicine Group, Instituto de Investigacion Sanitaria de Santiago, 
+Santiago de Compostela, Spain.
+(3)Colon Cancer Genetics Group, Medical Research Council Human Genetics Unit, 
+Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK.
+(4)Danish Institute for Advanced Study, Department of Public Health, University 
+of Southern Denmark, Odense, Denmark.
+(5)Division of Epidemiology, Department of Medicine, Vanderbilt-Ingram Cancer 
+Center, Vanderbilt Epidemiology Center, Vanderbilt University Medical Center, 
+Nashville, TN, USA.
+(6)Division of Genetics and Epidemiology, Institute of Cancer Research, London, 
+UK.
+(7)Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 
+Seattle, WA, USA.
+(8)Genomic Medicine Institute, Cleveland Clinic, Cleveland, OH, USA.
+(9)Population and Cancer Prevention Program, Case Comprehensive Cancer Center, 
+Cleveland, OH, USA.
+(10)Colorectal Cancer Group, ONCOBELL Program, Bellvitge Biomedical Research 
+Institute, Barcelona, Spain.
+(11)Oncology Data Analytics Program, Catalan Institute of Oncology, Barcelona, 
+Spain.
+(12)Consortium for Biomedical Research in Epidemiology and Public Health, 
+Madrid, Madrid, Spain.
+(13)Department of Clinical Sciences, Faculty of Medicine, University of 
+Barcelona, Barcelona, Spain.
+(14)Department of Biostatistics, School of Public Health, University of 
+Washington, Seattle, WA, USA.
+(15)Institute of Cancer and Genomic Sciences, College of Medical and Dental 
+Sciences, University of Birmingham, Birmingham, UK.
+(16)Department of Public Health, Richard Doll Building, University of Oxford, 
+Oxford, UK.
+(17)Department of Biomedical Informatics, Vanderbilt University School of 
+Medicine, Nashville, TN, USA.
+(18)Department of Preventive Medicine, USC Norris Comprehensive Cancer Center, 
+Keck School of Medicine, University of Southern California, Los Angeles, CA, 
+USA.
+(19)Center for Public Health Genomics, Department of Public Health Sciences, 
+University of Virginia, Charlottesville, VA, USA.
+(20)Department of Population and Quantitative Health Sciences, Case Western 
+Reserve University, Cleveland, OH, USA.
+(21)Case Comprehensive Cancer Center, Case Western Reserve University, 
+Cleveland, OH, USA.
+(22)The Steve and Cindy Rasmussen Institute for Genomic Medicine, Nationwide 
+Children's Hospital, Columbus, OH, USA.
+(23)Department of Community Medicine and Epidemiology, Lady Davis Carmel Medical 
+Center, Haifa, Israel.
+(24)Ruth and Bruce Rappaport Faculty of Medicine, Technion-Israel Institute of 
+Technology, Haifa, Israel.
+(25)Clalit National Cancer Control Center, Haifa, Israel.
+(26)Consortium for Biomedical Research in Epidemiology and Public Health, 
+Madrid, Spain.
+(27)Biomedicine Institute, University of León, León, Spain.
+(28)Center for Colorectal Cancer, National Cancer Center Hospital, National 
+Cancer Center, Gyeonggi-do, South Korea.
+(29)Department of Cancer Biomedical Science, Graduate School of Cancer Science 
+and Policy, National Cancer Center, Gyeonggi-do, South Korea.
+(30)Department of Epidemiology and Health Promotion, Graduate School of Public 
+Health, Yonsei University, Seoul, South Korea.
+(31)Department of Preventive Medicine, Chonnam National University Medical 
+School, Gwangju, South Korea.
+(32)Department of Preventive Medicine, Seoul National University College of 
+Medicine, Seoul, South Korea.
+(33)Cancer Research Institute, Seoul National University, Seoul, South Korea.
+(34)Department of Social and Preventive Medicine, Hallym University College of 
+Medicine, Okcheon-dong, South Korea.
+(35)Division of Cancer Epidemiology and Prevention, Aichi Cancer Center Research 
+Institute, Nagoya, Japan.
+(36)Division of Molecular and Clinical Epidemiology, Aichi Cancer Center 
+Research Institute, Nagoya, Japan.
+(37)Department of Epidemiology, Nagoya University Graduate School of Medicine, 
+Nagoya, Japan.
+(38)Laboratory of Clinical Genome Sequencing, Department of Computational 
+Biology and Medical Sciences, Graduate School of Frontier Sciences, University 
+of Tokyo, Tokyo, Japan.
+(39)Laboratory of Genome Technology, Human Genome Center, Institute of Medical 
+Science, University of Tokyo, Tokyo, Japan.
+(40)School of Public Health, Sun Yat-sen University, Guangzhou, China.
+(41)State Key Laboratory of Oncogenes and Related Genes and Department of 
+Epidemiology, Shanghai Cancer Institute, Renji Hospital, Shanghai Jiaotong 
+University School of Medicine, Shanghai, China.
+(42)State Key Laboratory of Oncology in South China, Cancer Center, Sun Yat-sen 
+University, Guangzhou, China.
+(43)Centre for Epidemiology and Biostatistics, Melbourne School of Population 
+and Global Health, University of Melbourne, Melbourne, Victoria, Australia.
+(44)Department of Epidemiology, School of Public Health and Institute of Health 
+and Environment, Seoul National University, Seoul, South Korea.
+(45)Department of Laboratory Medicine and Pathology, Mayo Clinic Arizona, 
+Scottsdale, AZ, USA.
+(46)Department of Medicine, Samuel Oschin Comprehensive Cancer Institute, 
+Cedars-Sinai Medical Center, Los Angeles, CA, USA.
+(47)Division of Oncology, Department of Medicine, Cedars-Sinai Cancer Research 
+Center for Health Equity, Los Angeles, CA, USA.
+(48)Lunenfeld Tanenbaum Research Institute, Mount Sinai Hospital, University of 
+Toronto, Toronto, Ontario, Canada.
+(49)Division of Biomedical Sciences, Memorial University of Newfoundland, St. 
+John, Ontario, Canada.
+(50)School of Public Health, University of Washington, Seattle, WA, USA.
+(51)City of Hope National Medical Center, Translational Genomics Research 
+Institute, Phoenix, AZ, USA.
+(52)Institute of Medical Genetics, Cardiff University, Cardiff, UK.
+(53)MRC Clinical Trials Unit, Medical Research Council, Cardiff, UK.
+(54)MRC Institute for Radiation Oncology, University of Oxford, Oxford, UK.
+(55)Department of Oncology, University of Oxford, Oxford, UK.
+(56)Radcliffe Department of Medicine, University of Oxford, Oxford, UK.
+(57)Department of Surgical Oncology, University Hospital for Tumors, Sestre 
+milosrdnice University Hospital Center, Zagreb, Croatia.
+(58)Department of Pathology, Central Finland Health Care District, Jyväskylä, 
+Finland.
+(59)Central Finland Health Care District, Jyväskylä, Finland.
+(60)Department of Health and Welfare, Finnish Institute for Health and Welfare, 
+Helsinki, Finland.
+(61)Department of Medical and Clinical Genetics, University of Helsinki, 
+Helsinki, Finland.
+(62)Genome-Scale Biology Research Program, University of Helsinki, Helsinki, 
+Finland.
+(63)Department of Public Health and Welfare, Finnish Institute for Health and 
+Welfare, Helsinki, Finland.
+(64)Finnish Cancer Registry, Institute for Statistical and Epidemiological 
+Cancer Research, Helsinki, Finland.
+(65)Faculty of Social Sciences, Tampere University, Tampere, Finland.
+(66)Folkhälsan Research Centre, University of Helsinki, Helsinki, Finland.
+(67)Human Potential Translational Research Programme, National University of 
+Singapore, Singapore, Singapore.
+(68)Unit of General Practice and Primary Health Care, University of Helsinki and 
+Helsinki University Hospital, Helsinki, Finland.
+(69)Department of Surgery, Abdominal Centre, Helsinki University Hospital, 
+Helsinki, Finland.
+(70)Department of Oncology, University of Toronto, Toronto, Ontario, Canada.
+(71)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institutes of Health, Bethesda, MD, USA.
+(72)Department of Nutritional Sciences, School of Public Health, University of 
+Michigan, Ann Arbor, MI, USA.
+(73)Slone Epidemiology Center at Boston University, Boston, MA, USA.
+(74)Department of Medicine, Boston University School of Medicine, Boston, MA, 
+USA.
+(75)Colorectal Oncogenomics Group, Department of Clinical Pathology, University 
+of Melbourne, Parkville, Victoria, Australia.
+(76)University of Melbourne Centre for Cancer Research, Victorian Comprehensive 
+Cancer Centre, Parkville, Victoria, Australia.
+(77)Genomic Medicine and Family Cancer Clinic, Royal Melbourne Hospital, 
+Parkville, Victoria, Australia.
+(78)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, MD, USA.
+(79)Huntsman Cancer Institute and Department of Population Health Sciences, 
+University of Utah, Salt Lake City, UT, USA.
+(80)Cancer Epidemiology Program, H. Lee Moffitt Cancer Center and Research 
+Institute, Tampa, FL, USA.
+(81)Institute of Cancer Research, Department of Medicine I, Medical University 
+Vienna, Vienna, Austria.
+(82)Department of Epidemiology and Population Health, Albert Einstein College of 
+Medicine, New York, NY, USA.
+(83)Division of Cancer Epidemiology, German Cancer Research Center, Heidelberg, 
+Germany.
+(84)University Medical Centre Hamburg-Eppendorf, University Cancer Centre 
+Hamburg, Hamburg, Germany.
+(85)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center, Heidelberg, Germany.
+(86)Division of Preventive Oncology, German Cancer Research Center and National 
+Center for Tumor Diseases, Heidelberg, Germany.
+(87)German Cancer Consortium, German Cancer Research Center, Heidelberg, 
+Germany.
+(88)Department of Internal Medicine, University of Utah, Salt Lake City, UT, 
+USA.
+(89)Research Centre for Hauora and Health, Massey University, Wellington, New 
+Zealand.
+(90)Department of Hygiene and Epidemiology, University of Ioannina School of 
+Medicine, Ioannina, Greece.
+(91)Department of Epidemiology and Biostatistics, School of Public Health, 
+Imperial College London, London, UK.
+(92)Department of Molecular Epidemiology, German Institute of Human Nutrition 
+Potsdam-Rehbruecke, Nuthetal, Germany.
+(93)Institute of Nutritional Science, University of Potsdam, Potsdam, Germany.
+(94)Nutrition and Metabolism Branch, International Agency for Research on 
+Cancer, World Health Organization, Lyon, France.
+(95)Gastroenterology Department, Hospital Clínic, Institut d'Investigacions 
+Biomèdiques August Pi i Sunyer, Centro de Investigación Biomédica en Red de 
+Enfermedades Hepáticas y Digestivas, University of Barcelona, Barcelona, Spain.
+(96)Department of Genetics, Stanford University, Stanford, CA, USA.
+(97)Department of Population and Public Health Sciences, USC Norris 
+Comprehensive Cancer Center, Keck School of Medicine, University of Southern 
+California, Los Angeles, CA, USA.
+(98)Jeonnam Regional Cancer Center, Chonnam National University Hwasun Hospital, 
+Hwasun, South Korea.
+(99)Bioinformatics and Data Science Research Center, Bina Nusantara University, 
+Jakarta, Indonesia.
+(100)Leeds Institute of Medical Research at St James's, University of Leeds, 
+Leeds, UK.
+(101)Cancer Epidemiology Division, Cancer Council Victoria, Melbourne, Victoria, 
+Australia.
+(102)Precision Medicine, School of Clinical Sciences at Monash Health, Monash 
+University, Clayton, Victoria, Australia.
+(103)Department of Clinical Pathology, University of Melbourne, Melbourne, 
+Victoria, Australia.
+(104)Department of Medical Oncology and Center For Precision Medicine, City of 
+Hope National Medical Center, Duarte, CA, USA.
+(105)Department of Pathology, University of Michigan, Ann Arbor, MI, USA.
+(106)Clalit Health Services, Personalized Genomic Service, Lady Davis Carmel 
+Medical Center, Haifa, Israel.
+(107)Clinical Genetics Service, Department of Medicine, Memorial Sloan-Kettering 
+Cancer Center, New York, NY, USA.
+(108)Department of Medicine, Weill Cornell Medical College, New York, NY, USA.
+(109)Kaiser Permanente Washington Health Research Institute, Seattle, WA, USA.
+(110)Center for Gastrointestinal Biology and Disease, University of North 
+Carolina, Chapel Hill, NC, USA.
+(111)Department of Radiation Sciences, Oncology Unit, Umeå University, Umeå, 
+Sweden.
+(112)Wallenberg Centre for Molecular Medicine, Umeå University, Umeå, Sweden.
+(113)Ontario Institute for Cancer Research, Toronto, Ontario, Canada.
+(114)Division of Human Genetics, Department of Internal Medicine, Ohio State 
+University Comprehensive Cancer Center, Columbus, OH, USA.
+(115)Division of Epidemiology, Department of Population Health, New York 
+University School of Medicine, New York, NY, USA.
+(116)Population Sciences, Disparities and Community Engagement, University of 
+California San Diego Moores Cancer Center, La Jolla, CA, USA.
+(117)Department of Family Medicine and Public Health, University of California 
+San Diego, La Jolla, CA, USA.
+(118)Fred Hutchinson Cancer Research Center, Seattle, WA, USA.
+(119)Division of Research, Kaiser Permanente Northern California, Oakland, CA, 
+USA.
+(120)Department of Gastroenterology, Kaiser Permanente Medical Center, San 
+Francisco, CA, USA.
+(121)Department of Public Health and Primary Care, University of Cambridge, 
+Cambridge, UK.
+(122)Institute of Environmental Medicine, Karolinska Institutet, Stockholm, 
+Sweden.
+(123)Taipei Medical University, Taipei, Taiwan.
+(124)Department of Medicine, Keck School of Medicine, University of Southern 
+California, Los Angeles, CA, USA.
+(125)Department of Epidemiology, University of Washington School of Public 
+Health, Seattle, WA, USA.
+(126)Center for Inherited Disease Research, Department of Genetic Medicine, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+(127)Clinical and Translational Epidemiology Unit, Massachusetts General 
+Hospital and Harvard Medical School, Boston, MA, USA.
+(128)Division of Gastroenterology, Massachusetts General Hospital and Harvard 
+Medical School, Boston, MA, USA.
+(129)Channing Division of Network Medicine, Brigham and Women's Hospital and 
+Harvard Medical School, Boston, MA, USA.
+(130)Broad Institute of Harvard and MIT, Cambridge, MA, USA.
+(131)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Harvard University, Boston, MA, USA.
+(132)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School 
+of Public Health, Harvard University, Boston, MA, USA.
+(133)Comprehensive Cancer Center, University of Puerto Rico, San Juan, Puerto 
+Rico.
+(134)Department of Clinical Genetics, Karolinska University Hospital, Stockholm, 
+Sweden.
+(135)Department of Molecular Medicine and Surgery, Karolinska Institutet, 
+Stockholm, Sweden.
+(136)Nuffield Department of Population Health, University of Oxford, Oxford, UK.
+(137)Department of General Surgery, University Hospital Rostock, Rostock, 
+Germany.
+(138)Department of Genetics and Genome Sciences, Case Western Reserve 
+University, Cleveland, OH, USA.
+(139)Department of Computer Science, Stanford University, Stanford, CA, USA.
+(140)Department of Genome Sciences, University of Washington, Seattle, WA, USA.
+(141)Department of Medicine and Epidemiology, University of Pittsburgh Medical 
+Center, Pittsburgh, PA, USA.
+(142)Department of Medicine I, University Hospital Dresden, Technische 
+Universität Dresden, Dresden, Germany.
+(143)Department of Medicine, Memorial Sloan-Kettering Cancer Center, New York, 
+NY, USA.
+(144)Department of Molecular Biology of Cancer, Institute of Experimental 
+Medicine of the Czech Academy of Sciences, Prague, Czech Republic.
+(145)Institute of Biology and Medical Genetics, First Faculty of Medicine, 
+Charles University, Prague, Czech Republic.
+(146)Faculty of Medicine and Biomedical Center in Pilsen, Charles University, 
+Pilsen, Czech Republic.
+(147)Department of Oncology Ludwig Center at the Sidney Kimmel Cancer Center, 
+Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+(148)Sol Goldman Pancreatic Cancer Research Center, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA.
+(149)Department of Pathology, Johns Hopkins School of Medicine, Baltimore, MD, 
+USA.
+(150)Department of Surgery, University of Tennessee Health Science Center, 
+Memphis, TN, USA.
+(151)Departments of Cancer Biology and Genetics and Internal Medicine, 
+Comprehensive Cancer Center, Ohio State University, Columbus, OH, USA.
+(152)Departments of Medicine and Genetics, Case Comprehensive Cancer Center, 
+Case Western Reserve University and University Hospitals of Cleveland, 
+Cleveland, OH, USA.
+(153)Division of Human Nutrition and Health, Wageningen University and Research, 
+Wageningen, The Netherlands.
+(154)Division of Human Nutrition, Wageningen University and Research, 
+Wageningen, The Netherlands.
+(155)Genomic Medicine Group, Galician Public Foundation of Genomic Medicine, 
+Servicio Galego de Saude, Santiago de Compostela, Spain.
+(156)Instituto de Investigación Sanitaria de Santiago de Compostela, Santiago de 
+Compostela, Spain.
+(157)Italian Institute for Genomic Medicine, Candiolo Cancer Institute 
+FPO-IRCCS, Candiolo (TO), Italy.
+(158)Candiolo Cancer Institute FPO-IRCCS, Candiolo (TO), Italy.
+(159)Menzies Institute for Medical Research, University of Tasmania, Hobart, 
+Tasmania, Australia.
+(160)National University Cancer Institute, Singapore, Cancer Science Institute 
+of Singapore, National University of Singapore, Singapore, Singapore.
+(161)Department of Pathology, Brigham and Women's Hospital, Harvard Medical 
+School, Boston, MA, USA.
+(162)Cancer Immunology Program, Dana-Farber Harvard Cancer Center, Boston, MA, 
+USA.
+(163)Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(164)Department of Biostatistics, University of Washington, Seattle, WA, USA.
+(165)Service de Génétique Médicale, Centre Hospitalier Universitaire Nantes, 
+Nantes, France.
+(166)SWOG Statistical Center, Fred Hutchinson Cancer Research Center, Seattle, 
+WA, USA.
+(167)Department of Pediatrics, Nationwide Children's Hospital, The Steve and 
+Cindy Rasmussen Institute for Genomic Medicine, Columbus, OH, USA.
+(168)Division of Epidemiology, National Cancer Center Institute for Cancer 
+Control, National Cancer Center, Tokyo, Japan.
+(169)Division of Cohort Research, National Cancer Center Institute for Cancer 
+Control, National Cancer Center, Tokyo, Japan.
+(170)Department of Preventive Medicine, Center for Genetic Epidemiology, 
+University of Southern California, Los Angeles, CA, USA.
+(171)Cancer Center, University of Hawaii, Honolulu, HI, USA.
+(172)Preventative Medicine, University of Southern California, Los Angeles, CA, 
+USA.
+(173)USC Norris Comprehensive Cancer Center, Keck School of Medicine, University 
+of Southern California, Los Angeles, CA, USA.
+(174)Van Andel Research Institute, Grand Rapids, MI, USA.
+(175)MRC Human Genetics Unit, Institute of Genomics and Cancer, University of 
+Edinburgh, Edinburgh, UK.
+(176)Lothian Birth Cohorts group, Department of Psychology, University of 
+Edinburgh, Edinburgh, UK.
+(177)Centre for Global Health, Usher Institute, University of Edinburgh, 
+Edinburgh, UK.
+(178)Department of Pathology, National University Hospital, National University 
+Health System, Singapore, Singapore.
+(179)Edinburgh Cancer Research Centre, Institute of Genomics and Cancer, 
+University of Edinburgh, Edinburgh, UK. Ian.Tomlinson@ed.ac.uk.
+(180)Institute of Cancer and Genomic Sciences, College of Medical and Dental 
+Sciences, University of Birmingham, Birmingham, UK. Ian.Tomlinson@ed.ac.uk.
+(181)Division of Epidemiology, Department of Medicine, Vanderbilt-Ingram Cancer 
+Center, Vanderbilt Epidemiology Center, Vanderbilt University Medical Center, 
+Nashville, TN, USA. wei.zheng@vanderbilt.edu.
+(182)Colon Cancer Genetics Group, Medical Research Council Human Genetics Unit, 
+Institute of Genetics and Cancer, University of Edinburgh, Edinburgh, UK. 
+malcolm.dunlop@ed.ac.uk.
+(183)Division of Genetics and Epidemiology, Institute of Cancer Research, 
+London, UK. Richard.Houlston@icr.ac.uk.
+(184)Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 
+Seattle, WA, USA. upeters@fredhutch.org.
+(185)Department of Epidemiology, University of Washington, Seattle, WA, USA. 
+upeters@fredhutch.org.
+(#)Contributed equally
+
+Erratum in
+    Nat Genet. 2023 Mar;55(3):519-520. doi: 10.1038/s41588-023-01334-w.
+
+Colorectal cancer (CRC) is a leading cause of mortality worldwide. We conducted 
+a genome-wide association study meta-analysis of 100,204 CRC cases and 154,587 
+controls of European and east Asian ancestry, identifying 205 independent risk 
+associations, of which 50 were unreported. We performed integrative genomic, 
+transcriptomic and methylomic analyses across large bowel mucosa and other 
+tissues. Transcriptome- and methylome-wide association studies revealed an 
+additional 53 risk associations. We identified 155 high-confidence effector 
+genes functionally linked to CRC risk, many of which had no previously 
+established role in CRC. These have multiple different functions and 
+specifically indicate that variation in normal colorectal homeostasis, 
+proliferation, cell adhesion, migration, immunity and microbial interactions 
+determines CRC risk. Crosstissue analyses indicated that over a third of 
+effector genes most probably act outside the colonic mucosa. Our findings 
+provide insights into colorectal oncogenesis and highlight potential targets 
+across tissues for new CRC treatment and chemoprevention strategies.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41588-022-01222-9
+PMCID: PMC10094749
+PMID: 36539618 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests AC is consultant to Bayer 
+Pharma AG, Boehringer Ingelheim, and Pfizer Inc. for work unrelated to this 
+manuscript; AS is an employee at Insitro, incl. consulting fees from BMS; HH is 
+SAB for Invitae Genetics, Promega, and Genome Medical. Stock/Stock options for 
+Genome Medical and GI OnDemand; JK is a consultant for Guardant Health; NP is a 
+collaborator for Thrive and Exact, PGDx, CAGE, NeoPhore, Vidium, ManaTbio, and 
+receives royalties for licensed technologies according to JHU rules; RKP 
+collaborates with Eli Lilly, AbbVie, Allergan, Verily, and Alimentiv, which 
+include consulting fees (outside of the submitted work); SAB has financial 
+interest in Adaptive Biotechnologies; SBG is co-founder, Brogent International 
+LLC; TSM receives research and honoraria from Merck Serono; ZKS’s immediate 
+family member serves as a consultant in Ophthalmology for Alcon, Adverum, 
+Gyroscope Therapeutics Limited, Neurogene, and RegenexBio (outside the submitted 
+work). VM has research projects and owns stocks of Aniling. The remaining 
+authors declare no competing interests.

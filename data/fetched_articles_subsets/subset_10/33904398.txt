@@ -1,0 +1,70 @@
+1. Elife. 2021 Apr 27;10:e68068. doi: 10.7554/eLife.68068.
+
+Simple biochemical features underlie transcriptional activation domain diversity 
+and dynamic, fuzzy binding to Mediator.
+
+Sanborn AL(1)(2), Yeh BT(2), Feigerle JT(1), Hao CV(1), Townshend RJ(2), 
+Lieberman Aiden E(3)(4), Dror RO(2), Kornberg RD(1).
+
+Author information:
+(1)Department of Structural Biology, Stanford University School of Medicine, 
+Stanford, United States.
+(2)Department of Computer Science, Stanford University, Stanford, United States.
+(3)The Center for Genome Architecture, Baylor College of Medicine, Houston, 
+United States.
+(4)Center for Theoretical Biological Physics, Rice University, Houston, United 
+States.
+
+Gene activator proteins comprise distinct DNA-binding and transcriptional 
+activation domains (ADs). Because few ADs have been described, we tested domains 
+tiling all yeast transcription factors for activation in vivo and identified 150 
+ADs. By mRNA display, we showed that 73% of ADs bound the Med15 subunit of 
+Mediator, and that binding strength was correlated with activation. AD-Mediator 
+interaction in vitro was unaffected by a large excess of free activator protein, 
+pointing to a dynamic mechanism of interaction. Structural modeling showed that 
+ADs interact with Med15 without shape complementarity ('fuzzy' binding). ADs 
+shared no sequence motifs, but mutagenesis revealed biochemical and structural 
+constraints. Finally, a neural network trained on AD sequences accurately 
+predicted ADs in human proteins and in other yeast proteins, including 
+chromosomal proteins and chromatin remodeling complexes. These findings solve 
+the longstanding enigma of AD structure and function and provide a rationale for 
+their role in biology.
+
+Plain Language Summary: Cells adapt and respond to changes by regulating the 
+activity of their genes. To turn genes on or off, they use a family of proteins 
+called transcription factors. Transcription factors influence specific but 
+overlapping groups of genes, so that each gene is controlled by several 
+transcription factors that act together like a dimmer switch to regulate gene 
+activity. The presence of transcription factors attracts proteins such as the 
+Mediator complex, which activates genes by gathering the protein machines that 
+read the genes. The more transcription factors are found near a specific gene, 
+the more strongly they attract Mediator and the more active the gene is. A 
+specific region on the transcription factor called the activation domain is 
+necessary for this process. The biochemical sequences of these domains vary 
+greatly between species, yet activation domains from, for example, yeast and 
+human proteins are often interchangeable. To understand why this is the case, 
+Sanborn et al. analyzed the genome of baker’s yeast and identified 150 
+activation domains, each very different in sequence. Three-quarters of them 
+bound to a subunit of the Mediator complex called Med15. Sanborn et al. then 
+developed a machine learning algorithm to predict activation domains in both 
+yeast and humans. This algorithm also showed that negatively charged and greasy 
+regions on the activation domains were essential to be activated by the Mediator 
+complex. Further analyses revealed that activation domains used different poses 
+to bind multiple sites on Med15, a behavior known as ‘fuzzy’ binding. This 
+creates a high overall affinity even though the binding strength at each 
+individual site is low, enabling the protein complexes to remain dynamic. These 
+weak interactions together permit fine control over the activity of several 
+genes, allowing cells to respond quickly and precisely to many changes. The 
+computer algorithm used here provides a new way to identify activation domains 
+across species and could improve our understanding of how living things grow, 
+adapt and evolve. It could also give new insights into mechanisms of disease, 
+particularly cancer, where transcription factors are often faulty.
+
+© 2021, Sanborn et al.
+
+DOI: 10.7554/eLife.68068
+PMCID: PMC8137143
+PMID: 33904398 [Indexed for MEDLINE]
+
+Conflict of interest statement: AS, BY, JF, CH, RT, EL, RD, RK No competing 
+interests declared

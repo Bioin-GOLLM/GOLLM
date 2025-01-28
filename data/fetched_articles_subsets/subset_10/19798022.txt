@@ -1,0 +1,44 @@
+1. J Vis Exp. 2009 Oct 1;(32):1398. doi: 10.3791/1398.
+
+A lectin HPLC method to enrich selectively-glycosylated peptides from complex 
+biological samples.
+
+Johansen E(1), Schilling B, Lerch M, Niles RK, Liu H, Li B, Allen S, Hall SC, 
+Witkowska HE, Regnier FE, Gibson BW, Fisher SJ, Drake PM.
+
+Author information:
+(1)Obstetrics, Gynecology and Reproductive Sciences, University of California, 
+San Francisco, CA, USA.
+
+Glycans are an important class of post-translational modifications. Typically 
+found on secreted and extracellular molecules, glycan structures signal the 
+internal status of the cell. Glycans on tumor cells tend to have abundant sialic 
+acid and fucose moieties. We propose that these cancer-associated glycan 
+variants be exploited for biomarker development aimed at diagnosing early-stage 
+disease. Accordingly, we developed a mass spectrometry-based workflow that 
+incorporates chromatography on affinity matrices formed from lectins, proteins 
+that bind specific glycan structures. The lectins Sambucus nigra (SNA) and 
+Aleuria aurantia (AAL), which bind sialic acid and fucose, respectively, were 
+covalently coupled to POROS beads (Applied Biosystems) and packed into PEEK 
+columns for high pressure liquid chromatography (HPLC). Briefly, plasma was 
+depleted of the fourteen most abundant proteins using a multiple affinity 
+removal system (MARS-14; Agilent). Depleted plasma was trypsin-digested and 
+separated into flow-through and bound fractions by SNA or AAL HPLC. The 
+fractions were treated with PNGaseF to remove N-linked glycans, and analyzed by 
+LC-MS/MS on a QStar Elite. Data were analyzed using Mascot software. The 
+experimental design included positive controls-fucosylated and sialylated human 
+lactoferrin glycopeptides-and negative controls-high mannose glycopeptides from 
+Saccharomyces cerevisiae-that were used to monitor the specificity of lectin 
+capture. Key features of this workflow include the reproducibility derived from 
+the HPLC format, the positive identification of the captured and PNGaseF-treated 
+glycopeptides from their deamidated Asn-Xxx-Ser/Thr motifs, and quality 
+assessment using glycoprotein standards. Protocol optimization also included 
+determining the appropriate ratio of starting material to column capacity, 
+identifying the most efficient capture and elution buffers, and monitoring the 
+PNGaseF-treatment to ensure full deglycosylation. Future directions include 
+using this workflow to perform mass spectrometry-based discovery experiments on 
+plasma from breast cancer patients and control individuals.
+
+DOI: 10.3791/1398
+PMCID: PMC2762330
+PMID: 19798022 [Indexed for MEDLINE]

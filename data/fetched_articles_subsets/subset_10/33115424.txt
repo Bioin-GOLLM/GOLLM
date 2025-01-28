@@ -1,0 +1,50 @@
+1. BMC Psychiatry. 2020 Oct 28;20(1):519. doi: 10.1186/s12888-020-02925-1.
+
+Predicting therapeutic response to oral ketamine for chronic suicidal ideation: 
+a Bayesian network for clinical decision support.
+
+Beaudequin D(1), Can AT(2), Dutton M(2), Jones M(2), Gallay C(2), Schwenn P(2), 
+Yang C(2), Forsyth G(2), Simcock G(2), Hermens DF(2), Lagopoulos J(2).
+
+Author information:
+(1)Thompson Institute, University of the Sunshine Coast, Locked Bag 4 (ML59), 
+Maroochydore DC, QLD, 4558, Australia. dbeaudeq@usc.edu.au.
+(2)Thompson Institute, University of the Sunshine Coast, Locked Bag 4 (ML59), 
+Maroochydore DC, QLD, 4558, Australia.
+
+BACKGROUND: The glutamatergic modulator ketamine has been shown to result in 
+rapid reductions in both suicidal ideation (SI) and depressive symptoms in 
+clinical trials. There is a practical need for identification of pre-treatment 
+predictors of ketamine response. Previous studies indicate links between 
+treatment response and body mass index (BMI), depression symptoms and previous 
+suicide attempts. Our aim was to explore the use of clinical and demographic 
+factors to predict response to serial doses of oral ketamine for chronic 
+suicidal ideation.
+METHODS: Thirty-two participants completed the Oral Ketamine Trial on 
+Suicidality (OKTOS). Data for the current study were drawn from pre-treatment 
+and follow-up time-points of OKTOS. Only clinical and sociodemographic variables 
+were included in this analysis. Data were used to create a proof of concept 
+Bayesian network (BN) model of variables predicting prolonged response to oral 
+ketamine, as defined by the Beck Scale for Suicide Ideation (BSS).
+RESULTS: The network of potential predictors of response was evaluated using 
+receiver operating characteristic (ROC) curve analyses. A combination of nine 
+demographic and clinical variables predicted prolonged ketamine response, with 
+strong contributions from BMI, Social and Occupational Functioning Assessment 
+Scale (SOFAS), Montgomery-Asberg Depression Rating Scale (MADRS), number of 
+suicide attempts, employment status and age. We evaluated and optimised the 
+proposed network to increase the area under the ROC curve (AUC). The performance 
+evaluation demonstrated that the BN predicted prolonged ketamine response with 
+97% accuracy, and AUC = 0.87.
+CONCLUSIONS: At present, validated tools to facilitate risk assessment are 
+infrequently used in psychiatric practice. Pre-treatment assessment of 
+individuals' likelihood of response to oral ketamine for chronic suicidal 
+ideation could be beneficial in making more informed decisions about likelihood 
+of success for this treatment course. Clinical trials registration number 
+ACTRN12618001412224, retrospectively registered 23/8/2018.
+
+DOI: 10.1186/s12888-020-02925-1
+PMCID: PMC7594449
+PMID: 33115424 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

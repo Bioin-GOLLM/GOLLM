@@ -1,0 +1,55 @@
+1. PLoS Genet. 2020 Mar 9;16(3):e1008646. doi: 10.1371/journal.pgen.1008646. 
+eCollection 2020 Mar.
+
+Long transposon-rich centromeres in an oomycete reveal divergence of centromere 
+features in Stramenopila-Alveolata-Rhizaria lineages.
+
+Fang Y(1), Coelho MA(1), Shu H(2), Schotanus K(1), Thimmappa BC(3), Yadav V(1), 
+Chen H(2), Malc EP(4), Wang J(4), Mieczkowski PA(4), Kronmiller B(5), Tyler 
+BM(5), Sanyal K(3), Dong S(2), Nowrousian M(6), Heitman J(1).
+
+Author information:
+(1)Department of Molecular Genetics and Microbiology, Duke University Medical 
+Center, Durham, North Carolina, United States of America.
+(2)College of Plant Protection, Nanjing Agricultural University, Nanjing, China.
+(3)Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced 
+Scientific Research, Bangalore, India.
+(4)Department of Genetics, University of North Carolina, Chapel Hill, North 
+Carolina, United States of America.
+(5)Center for Genome Research and Biocomputing and Department of Botany and 
+Plant Pathology, Oregon State University, Corvallis, Oregon, United States of 
+America.
+(6)Lehrstuhl fuer Molekulare und Zellulaere Botanik, Ruhr-Universitaet Bochum, 
+Bochum, Germany.
+
+Centromeres are chromosomal regions that serve as platforms for kinetochore 
+assembly and spindle attachments, ensuring accurate chromosome segregation 
+during cell division. Despite functional conservation, centromere DNA sequences 
+are diverse and often repetitive, making them challenging to assemble and 
+identify. Here, we describe centromeres in an oomycete Phytophthora sojae by 
+combining long-read sequencing-based genome assembly and chromatin 
+immunoprecipitation for the centromeric histone CENP-A followed by 
+high-throughput sequencing (ChIP-seq). P. sojae centromeres cluster at a single 
+focus at different life stages and during nuclear division. We report an 
+improved genome assembly of the P. sojae reference strain, which enabled 
+identification of 15 enriched CENP-A binding regions as putative centromeres. By 
+focusing on a subset of these regions, we demonstrate that centromeres in P. 
+sojae are regional, spanning 211 to 356 kb. Most of these regions are 
+transposon-rich, poorly transcribed, and lack the histone modification H3K4me2 
+but are embedded within regions with the heterochromatin marks H3K9me3 and 
+H3K27me3. Strikingly, we discovered a Copia-like transposon (CoLT) that is 
+highly enriched in the CENP-A chromatin. Similar clustered elements are also 
+found in oomycete relatives of P. sojae, and may be applied as a criterion for 
+prediction of oomycete centromeres. This work reveals a divergence of centromere 
+features in oomycetes as compared to other organisms in the 
+Stramenopila-Alveolata-Rhizaria (SAR) supergroup including diatoms and 
+Plasmodium falciparum that have relatively short and simple regional 
+centromeres. Identification of P. sojae centromeres in turn also advances the 
+genome assembly.
+
+DOI: 10.1371/journal.pgen.1008646
+PMCID: PMC7082073
+PMID: 32150559 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

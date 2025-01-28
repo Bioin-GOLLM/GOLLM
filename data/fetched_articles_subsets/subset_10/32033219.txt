@@ -1,0 +1,52 @@
+1. Int J Mol Sci. 2020 Feb 4;21(3):1042. doi: 10.3390/ijms21031042.
+
+Evaluating Face2Gene as a Tool to Identify Cornelia de Lange Syndrome by Facial 
+Phenotypes.
+
+Latorre-Pellicer A(1), Ascaso Á(2), Trujillano L(2), Gil-Salvador M(1), Arnedo 
+M(1), Lucia-Campos C(1), Antoñanzas-Pérez R(1), Marcos-Alcalde I(3)(4), Parenti 
+I(5)(6), Bueno-Lozano G(2), Musio A(7), Puisac B(1), Kaiser FJ(5)(8), Ramos 
+FJ(1)(2), Gómez-Puertas P(3), Pié J(1).
+
+Author information:
+(1)Unit of Clinical Genetics and Functional Genomics, Department of 
+Pharmacology-Physiology, School of Medicine, University of Zaragoza, 
+CIBERER-GCV02 and ISS-Aragon, E-50009 Zaragoza, Spain.
+(2)Department of Paediatrics, Hospital Clínico Universitario "Lozano Blesa", 
+E-50009 Zaragoza, Spain.
+(3)Molecular Modelling Group, Centro de Biología Molecular Severo Ochoa, CBMSO 
+(CSIC-UAM), E-28049 Madrid, Spain.
+(4)Bioscience Research Institute, School of Experimental Sciences, Universidad 
+Francisco de Vitoria, UFV, E-28223 Pozuelo de Alarcón, Spain.
+(5)Section for Functional Genetics, Institute of Human Genetics, University of 
+Lübeck, 23562 Lübeck, Germany.
+(6)Institute of Science and Technology (IST) Austria, 3400 Klosterneuburg, 
+Austria.
+(7)Istituto di Ricerca Genetica e Biomedica, Consiglio Nazionale delle Ricerche, 
+I-56124 Pisa, Italy.
+(8)Institute for Human Genetics, University Hospital Essen, University of 
+Duisburg-Essen, 45147 Essen, Germany.
+
+Characteristic or classic phenotype of Cornelia de Lange syndrome (CdLS) is 
+associated with a recognisable facial pattern. However, the heterogeneity in 
+causal genes and the presence of overlapping syndromes have made it increasingly 
+difficult to diagnose only by clinical features. DeepGestalt technology, and its 
+app Face2Gene, is having a growing impact on the diagnosis and management of 
+genetic diseases by analysing the features of affected individuals. Here, we 
+performed a phenotypic study on a cohort of 49 individuals harbouring causative 
+variants in known CdLS genes in order to evaluate Face2Gene utility and 
+sensitivity in the clinical diagnosis of CdLS. Based on the profile images of 
+patients, a diagnosis of CdLS was within the top five predicted syndromes for 
+97.9% of our cases and even listed as first prediction for 83.7%. The age of 
+patients did not seem to affect the prediction accuracy, whereas our results 
+indicate a correlation between the clinical score and affected genes. 
+Furthermore, each gene presents a different pattern recognition that may be used 
+to develop new neural networks with the goal of separating different genetic 
+subtypes in CdLS. Overall, we conclude that computer-assisted image analysis 
+based on deep learning could support the clinical diagnosis of CdLS.
+
+DOI: 10.3390/ijms21031042
+PMCID: PMC7038094
+PMID: 32033219 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

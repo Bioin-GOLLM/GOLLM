@@ -1,0 +1,45 @@
+1. J Med Genet. 2006 Jun;43(6):501-6. doi: 10.1136/jmg.2005.032441. Epub 2005 Sep
+ 16.
+
+MELPREDICT: a logistic regression model to estimate CDKN2A carrier probability.
+
+Niendorf KB(1), Goggins W, Yang G, Tsai KY, Shennan M, Bell DW, Sober AJ, Hogg 
+D, Tsao H.
+
+Author information:
+(1)Center for Cancer Risk Analysis, Massachusetts General Hospital, Boston, MA 
+02114, USA.
+
+BACKGROUND: Heritable alterations in CDKN2A account for a subset of familial 
+melanoma cases although no robust method exists to identify those at risk of 
+being a mutation carrier.
+METHODS: We set out to construct a model for estimating CDKN2A mutation carrier 
+probability using a cohort of 116 consecutive familial cutaneous melanoma 
+patients evaluated at Massachusetts General Hospital Pigmented Lesion Center 
+between April 2001 and September 2004. Germline CDKN2A and CDK4 status on the 
+familial melanoma cases and clinical features associated with mutational status 
+were then used to build a multiple logistic regression model to predict carrier 
+probability and performance of model on external validation.
+RESULTS: From the 116 kindreds prone to melanoma in the Boston area, 13 CDKN2A 
+mutation carriers were identified and 12 were subsequently used in the modeling. 
+Proband age at diagnosis, number of proband primaries, and number of additional 
+family primaries were most closely associated with germline mutations. The 
+estimated probability of the proband being a mutation carrier based on the 
+logistic regression model (MELPREDICT) is given by e(L)/(1 + e(L) where L = 
+1.99+[0.92x(no. of proband primaries)]+[0.74x(no. of additional family 
+primaries)]-[2.11xln(age)]. The mean estimated probabilities for subjects in the 
+Boston dataset were 55.4% and 5.1% for the mutation carriers and non-carriers 
+respectively. In a receiver operator characteristic analysis, the area under the 
+curve was 0.881 (95% confidence interval 0.739 to 1.000) for the Boston model 
+set (n = 116) and 0.803 (0.729 to 0.877) for an external Toronto hereditary 
+melanoma cohort (n = 143).
+CONCLUSIONS: These results represent the first-iteration logistic regression 
+model to approximate CDKN2A carrier probability. Validation of this model with 
+an external dataset revealed relatively robust performance.
+
+DOI: 10.1136/jmg.2005.032441
+PMCID: PMC2564534
+PMID: 16169933 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: there are no competing 
+interests

@@ -1,0 +1,47 @@
+1. Anal Chem. 2018 Apr 3;90(7):4832-4839. doi: 10.1021/acs.analchem.8b00298. Epub
+ 2018 Mar 19.
+
+Time-Gated Raman Spectroscopy for Quantitative Determination of Solid-State 
+Forms of Fluorescent Pharmaceuticals.
+
+Lipiäinen T(1), Pessi J(1), Movahedi P(2), Koivistoinen J(3), Kurki L(4), 
+Tenhunen M(4), Yliruusi J(1), Juppo AM(1), Heikkonen J(2), Pahikkala T(2), 
+Strachan CJ(1).
+
+Author information:
+(1)Division of Pharmaceutical Chemistry and Technology, Faculty of Pharmacy , 
+University of Helsinki , Viikinkaari 5 E , FI-00790 Helsinki , Finland.
+(2)Department of Future Technologies , University of Turku , Vesilinnantie 5 , 
+FI-20500 Turku , Finland.
+(3)Nanoscience Center, Department of Chemistry , University of Jyväskylä , P.O. 
+Box 35, FI-40014 , Jyväskylä , Finland.
+(4)TimeGate Instruments , Teknologiantie 5 , FI-90590 Oulu , Finland.
+
+Raman spectroscopy is widely used for quantitative pharmaceutical analysis, but 
+a common obstacle to its use is sample fluorescence masking the Raman signal. 
+Time-gating provides an instrument-based method for rejecting fluorescence 
+through temporal resolution of the spectral signal and allows Raman spectra of 
+fluorescent materials to be obtained. An additional practical advantage is that 
+analysis is possible in ambient lighting. This study assesses the efficacy of 
+time-gated Raman spectroscopy for the quantitative measurement of fluorescent 
+pharmaceuticals. Time-gated Raman spectroscopy with a 128 × (2) × 4 CMOS SPAD 
+detector was applied for quantitative analysis of ternary mixtures of 
+solid-state forms of the model drug, piroxicam (PRX). Partial least-squares 
+(PLS) regression allowed quantification, with Raman-active time domain selection 
+(based on visual inspection) improving performance. Model performance was 
+further improved by using kernel-based regularized least-squares (RLS) 
+regression with greedy feature selection in which the data use in both the Raman 
+shift and time dimensions was statistically optimized. Overall, time-gated Raman 
+spectroscopy, especially with optimized data analysis in both the spectral and 
+time dimensions, shows potential for sensitive and relatively routine 
+quantitative analysis of photoluminescent pharmaceuticals during drug 
+development and manufacturing.
+
+DOI: 10.1021/acs.analchem.8b00298
+PMCID: PMC6150637
+PMID: 29513001 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare the following competing 
+financial interest(s): Lauri Kurki and Mari Tenhunen are affiliated with the 
+company that commercialized the CMOS SPAD detector technology used in this 
+research.

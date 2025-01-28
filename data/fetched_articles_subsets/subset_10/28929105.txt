@@ -1,0 +1,31 @@
+1. Int J Genomics. 2017;2017:6120980. doi: 10.1155/2017/6120980. Epub 2017 Aug
+27.
+
+HaVec: An Efficient de Bruijn Graph Construction Algorithm for Genome Assembly.
+
+Rahman MM(1), Sharker R(1), Biswas S(1), Rahman MS(1).
+
+Author information:
+(1)Department of CSE, BUET, ECE Building West Palasi, Dhaka 1205, Bangladesh.
+
+BACKGROUND: The rapid advancement of sequencing technologies has made it 
+possible to regularly produce millions of high-quality reads from the DNA 
+samples in the sequencing laboratories. To this end, the de Bruijn graph is a 
+popular data structure in the genome assembly literature for efficient 
+representation and processing of data. Due to the number of nodes in a de Bruijn 
+graph, the main barrier here is the memory and runtime. Therefore, this area has 
+received significant attention in contemporary literature.
+RESULTS: In this paper, we present an approach called HaVec that attempts to 
+achieve a balance between the memory consumption and the running time. HaVec 
+uses a hash table along with an auxiliary vector data structure to store the de 
+Bruijn graph thereby improving the total memory usage and the running time. A 
+critical and noteworthy feature of HaVec is that it exhibits no false positive 
+error.
+CONCLUSIONS: In general, the graph construction procedure takes the major share 
+of the time involved in an assembly process. HaVec can be seen as a significant 
+advancement in this aspect. We anticipate that HaVec will be extremely useful in 
+the de Bruijn graph-based genome assembly.
+
+DOI: 10.1155/2017/6120980
+PMCID: PMC5591975
+PMID: 28929105

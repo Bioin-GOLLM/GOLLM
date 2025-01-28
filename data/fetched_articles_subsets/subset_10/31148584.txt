@@ -1,0 +1,38 @@
+1. Sci Rep. 2019 May 31;9(1):8142. doi: 10.1038/s41598-019-44654-w.
+
+Differential binding cell-SELEX method to identify cell-specific aptamers using 
+high-throughput sequencing.
+
+Pleiko K(1), Saulite L(2), Parfejevs V(2), Miculis K(3), Vjaters E(3), Riekstina 
+U(2).
+
+Author information:
+(1)Faculty of Medicine, University of Latvia, Riga, LV-1004, Latvia. 
+karlis.pleiko@lu.lv.
+(2)Faculty of Medicine, University of Latvia, Riga, LV-1004, Latvia.
+(3)Pauls Stradins Clinical University Hospital, Riga, LV-1002, Latvia.
+
+Aptamers have in recent years emerged as a viable alternative to antibodies. 
+High-throughput sequencing (HTS) has revolutionized aptamer research by 
+increasing the number of reads from a few (using Sanger sequencing) to millions 
+(using an HTS approach). Despite the availability and advantages of HTS compared 
+to Sanger sequencing, there are only 50 aptamer HTS sequencing samples available 
+on public databases. HTS data in aptamer research are primarily used to compare 
+sequence enrichment between subsequent selection cycles. This approach does not 
+take full advantage of HTS because the enrichment of sequences during selection 
+can be due to inefficient negative selection when using live cells. Here, we 
+present a differential binding cell-SELEX (systematic evolution of ligands by 
+exponential enrichment) workflow that adapts the FASTAptamer toolbox and 
+bioinformatics tool edgeR, which are primarily used for functional genomics, to 
+achieve more informative metrics about the selection process. We propose a fast 
+and practical high-throughput aptamer identification method to be used with the 
+cell-SELEX technique to increase the aptamer selection rate against live cells. 
+The feasibility of our approach is demonstrated by performing aptamer selection 
+against a clear cell renal cell carcinoma (ccRCC) RCC-MF cell line using the 
+RC-124 cell line from healthy kidney tissue for negative selection.
+
+DOI: 10.1038/s41598-019-44654-w
+PMCID: PMC6544647
+PMID: 31148584 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,40 @@
+1. Eng Life Sci. 2023 Mar 9;23(4):e2200047. doi: 10.1002/elsc.202200047. 
+eCollection 2023 Apr.
+
+Implementation of ubiquitous chromatin opening elements as artificial 
+integration sites for CRISPR/Cas9-mediated knock-in in mammalian cells.
+
+Kim SM(1), Lee J(1), Lee JS(1).
+
+Author information:
+(1)Department of Molecular Science and Technology Ajou University Suwon Republic 
+of Korea.
+
+CRISPR/Cas9-mediated targeted gene integration (TI) has been used to generate 
+recombinant mammalian cell lines with predictable transgene expression. 
+Identifying genomic hot spots that render high and stable transgene expression 
+and knock-in (KI) efficiency is critical for fully implementing TI-mediated cell 
+line development (CLD); however, such identification is cumbersome. In this 
+study, we developed an artificial KI construct that can be used as a hot spot at 
+different genomic loci. The ubiquitous chromatin opening element (UCOE) was 
+employed because of its ability to open chromatin and enable stable and 
+site-independent transgene expression. UCOE KI cassettes were randomly 
+integrated into CHO-K1 and HEK293T cells, followed by TI of enhanced green 
+fluorescent protein (EGFP) onto the artificial UCOE KI site. The CHO-K1 random 
+pool harboring 5'2.2A2UCOE-CMV displayed a significant increase in EGFP 
+expression level and KI efficiency compared with that of the control without 
+UCOE. In addition, 5'2.2A2UCOE-CMV showed improved Cas9 accessibility in the 
+HEK293T genome, leading to an increase in indel frequency and 
+homology-independent KI. Overall, this assessment revealed the potential of UCOE 
+KI constructs as artificial integration sites in streamlining the screening of 
+high-production targeted integrants by mitigating the selection of genomic hot 
+spots.
+
+© 2023 The Authors. Engineering in Life Sciences published by Wiley‐VCH GmbH.
+
+DOI: 10.1002/elsc.202200047
+PMCID: PMC10071570
+PMID: 37025191
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.

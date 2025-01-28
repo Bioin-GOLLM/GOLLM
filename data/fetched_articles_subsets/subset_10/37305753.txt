@@ -1,0 +1,66 @@
+1. Front Neurol. 2023 May 26;14:1189746. doi: 10.3389/fneur.2023.1189746. 
+eCollection 2023.
+
+Predictive model, miRNA-TF network, related subgroup identification and drug 
+prediction of ischemic stroke complicated with mental disorders based on genes 
+related to gut microbiome.
+
+Shen J(1), Feng Y(2)(3), Lu M(1), He J(1), Yang H(1).
+
+Author information:
+(1)The Affiliated Jiangsu Shengze Hospital of Nanjing Medical University, 
+Nanjing, China.
+(2)The University of New South Wales, Sydney, NSW, Australia.
+(3)The University of Melbourne, Parkville, VIC, Australia.
+
+BACKGROUND: Patients with comorbid schizophrenia, depression, drug use, and 
+multiple psychiatric diagnoses have a greater risk of carotid revascularization 
+following stroke. The gut microbiome (GM) plays a crucial role in the attack of 
+mental illness and IS, which may become an index for the diagnosis of IS. A 
+genomic study of the genetic commonalities between SC and IS, as well as its 
+mediated pathways and immune infiltration, will be conducted to determine how 
+schizophrenia contributes to the high prevalence of IS. According to our study, 
+this could be an indicator of ischemic stroke development.
+METHODS: We selected two datasets of IS from the Gene Expression Omnibus (GEO), 
+one for training and the other for the verification group. Five genes related to 
+mental disorders and GM were extracted from Gene cards and other databases. 
+Linear models for microarray data (Limma) analysis was utilized to identify 
+differentially expressed genes (DEGs) and perform functional enrichment 
+analysis. It was also used to conduct machine learning exercises such as random 
+forest and regression to identify the best candidate for immune-related central 
+genes. Protein-protein interaction (PPI) network and artificial neural network 
+(ANN) were established for verification. The receiver operating characteristic 
+(ROC) curve was drawn for the diagnosis of IS, and the diagnostic model was 
+verified by qRT-PCR. Further immune cell infiltration analysis was performed to 
+study the IS immune cell imbalance. We also performed consensus clustering (CC) 
+to analyze the expression of candidate models under different subtypes. Finally, 
+miRNA, transcription factors (TFs), and drugs related to candidate genes were 
+collected through the Network analyst online platform.
+RESULTS: Through comprehensive analysis, a diagnostic prediction model with good 
+effect was obtained. Both the training group (AUC 0.82, CI 0.93-0.71) and the 
+verification group (AUC 0.81, CI 0.90-0.72) had a good phenotype in the qRT-PCR 
+test. And in verification group 2 we validated between the two groups with and 
+without carotid-related ischemic cerebrovascular events (AUC 0.87, CI 1-0.64). 
+Furthermore, we investigated cytokines in both GSEA and immune infiltration and 
+verified cytokine-related responses by flow cytometry, particularly IL-6, which 
+played an important role in IS occurrence and progression. Therefore, we 
+speculate that mental illness may affect the development of IS in B cells and 
+IL-6 in T cells. MiRNA (hsa-mir-129-2-3p, has-mir-335-5p, and has-mir-16-5p) and 
+TFs (CREB1, FOXL1), which may be related to IS, were obtained.
+CONCLUSION: Through comprehensive analysis, a diagnostic prediction model with 
+good effect was obtained. Both the training group (AUC 0.82, CI 0.93-0.71) and 
+the verification group (AUC 0.81, CI 0.90-0.72) had a good phenotype in the 
+qRT-PCR test. And in verification group 2 we validated between the two groups 
+with and without carotid-related ischemic cerebrovascular events (AUC 0.87, CI 
+1-0.64). MiRNA (hsa-mir-129-2-3p, has-mir-335-5p, and has-mir-16-5p) and TFs 
+(CREB1, FOXL1), which may be related to IS, were obtained.
+
+Copyright © 2023 Shen, Feng, Lu, He and Yang.
+
+DOI: 10.3389/fneur.2023.1189746
+PMCID: PMC10250745
+PMID: 37305753
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

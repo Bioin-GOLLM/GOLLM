@@ -1,0 +1,37 @@
+1. PLoS One. 2012;7(1):e29645. doi: 10.1371/journal.pone.0029645. Epub 2012 Jan
+12.
+
+Spatial modeling of vesicle transport and the cytoskeleton: the challenge of 
+hitting the right road.
+
+Klann M(1), Koeppl H, Reuss M.
+
+Author information:
+(1)Automatic Control Laboratory, Swiss Federal Institute of Technology Zurich, 
+Zurich, Switzerland. mklann@control.ee.ethz.ch
+
+The membrane trafficking machinery provides a transport and sorting system for 
+many cellular proteins. We propose a mechanistic agent-based computer simulation 
+to integrate and test the hypothesis of vesicle transport embedded into a 
+detailed model cell. The method tracks both the number and location of the 
+vesicles. Thus both the stochastic properties due to the low numbers and the 
+spatial aspects are preserved. The underlying molecular interactions that 
+control the vesicle actions are included in a multi-scale manner based on the 
+model of Heinrich and Rapoport (2005). By adding motor proteins we can improve 
+the recycling process of SNAREs and model cell polarization. Our model also 
+predicts that coat molecules should have a high turnover at the compartment 
+membranes, while the turnover of motor proteins has to be slow. The modular 
+structure of the underlying model keeps it tractable despite the overall 
+complexity of the vesicle system. We apply our model to receptor-mediated 
+endocytosis and show how a polarized cytoskeleton structure leads to polarized 
+distributions in the plasma membrane both of SNAREs and the Ste2p receptor in 
+yeast. In addition, we can couple signal transduction and membrane trafficking 
+steps in one simulation, which enables analyzing the effect of receptor-mediated 
+endocytosis on signaling.
+
+DOI: 10.1371/journal.pone.0029645
+PMCID: PMC3257240
+PMID: 22253752 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

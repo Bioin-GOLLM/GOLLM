@@ -1,0 +1,40 @@
+1. PLoS Genet. 2010 Nov 4;6(11):e1001194. doi: 10.1371/journal.pgen.1001194.
+
+ATM limits incorrect end utilization during non-homologous end joining of 
+multiple chromosome breaks.
+
+Bennardo N(1), Stark JM.
+
+Author information:
+(1)Department of Cancer Biology and Irell and Manella Graduate School of 
+Biological Sciences, Beckman Research Institute of the City of Hope, Duarte, 
+California, United States of America.
+
+Chromosome rearrangements can form when incorrect ends are matched during end 
+joining (EJ) repair of multiple chromosomal double-strand breaks (DSBs). We 
+tested whether the ATM kinase limits chromosome rearrangements via suppressing 
+incorrect end utilization during EJ repair of multiple DSBs. For this, we 
+developed a system for monitoring EJ of two tandem DSBs that can be repaired 
+using correct ends (Proximal-EJ) or incorrect ends (Distal-EJ, which causes loss 
+of the DNA between the DSBs). In this system, two DSBs are induced in a 
+chromosomal reporter by the meganuclease I-SceI. These DSBs are processed into 
+non-cohesive ends by the exonuclease Trex2, which leads to the formation of 
+I-SceI-resistant EJ products during both Proximal-EJ and Distal-EJ. Using this 
+method, we find that genetic or chemical disruption of ATM causes a substantial 
+increase in Distal-EJ, but not Proximal-EJ. We also find that the increase in 
+Distal-EJ caused by ATM disruption is dependent on classical non-homologous end 
+joining (c-NHEJ) factors, specifically DNA-PKcs, Xrcc4, and XLF. We present 
+evidence that Nbs1-deficiency also causes elevated Distal-EJ, but not 
+Proximal-EJ, to a similar degree as ATM-deficiency. In addition, to evaluate the 
+roles of these factors on end processing, we examined Distal-EJ repair 
+junctions. We found that ATM and Xrcc4 limit the length of deletions, whereas 
+Nbs1 and DNA-PKcs promote short deletions. Thus, the regulation of end 
+processing appears distinct from that of end utilization. In summary, we suggest 
+that ATM is important to limit incorrect end utilization during c-NHEJ.
+
+DOI: 10.1371/journal.pgen.1001194
+PMCID: PMC2973825
+PMID: 21079684 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

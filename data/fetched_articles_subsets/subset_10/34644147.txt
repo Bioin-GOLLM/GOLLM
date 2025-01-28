@@ -1,0 +1,93 @@
+1. Sci Transl Med. 2021 Oct 13;13(615):eabf7860. doi:
+10.1126/scitranslmed.abf7860.  Epub 2021 Oct 13.
+
+Epigenetically defined therapeutic targeting in H3.3G34R/V high-grade gliomas.
+
+Sweha SR(1)(2), Chung C(1)(3), Natarajan SK(1)(4), Panwalkar P(1), Pun 
+M(1)(5)(6), Ghali A(1), Bayliss J(1), Pratt D(1)(7), Shankar A(8), Ravikumar 
+V(8), Rao A(8)(9)(10), Cieslik M(7)(8), Wilder-Romans K(10), Scott AJ(10), Wahl 
+DR(10), Jessa S(11)(12), Kleinman CL(12)(13), Jabado N(13)(14), Mackay A(15), 
+Jones C(15), Martinez D(16), Santi M(16), Judkins AR(17), Yadav VN(18), Qin 
+T(8), Phoenix TN(19), Koschmann CJ(18), Baker SJ(20), Chinnaiyan AM(7)(21), 
+Venneti S(1)(2)(7).
+
+Author information:
+(1)Laboratory of Brain Tumor Metabolism and Epigenetics, Department of 
+Pathology, University of Michigan Medical School, Ann Arbor, MI 48109, USA.
+(2)Neuroscience Graduate Program, University of Michigan, Ann Arbor, MI 48109, 
+USA.
+(3)Department of New Biology, Daegu Gyeongbuk Institute of Science and 
+Technology (DGIST), Daegu 42988, Korea.
+(4)Molecular and Cellular Pathology Graduate Program, University of Michigan 
+Medical School, Ann Arbor, MI 48109, USA.
+(5)Cellular and Molecular Biology Program, University of Michigan Medical 
+School, Ann Arbor, MI 48109, USA.
+(6)Medical Scientist Training Program, University of Michigan Medical School, 
+Ann Arbor, MI 48109, USA.
+(7)Department of Pathology, University of Michigan Medical School, Ann Arbor, MI 
+48109, USA.
+(8)Department of Computational Medicine and Bioinformatics, University of 
+Michigan Medical School, Ann Arbor, MI 48109, USA.
+(9)Department of Biostatistics, University of Michigan, Ann Arbor, MI 48109, 
+USA.
+(10)Department of Radiation Oncology, University of Michigan Medical School, Ann 
+Arbor, MI 48109, USA.
+(11)Quantitative Life Sciences, McGill University, Montreal, Quebec H3A 2A7, 
+Canada.
+(12)Lady Davis Research Institute, Jewish General Hospital, Montreal, Quebec H3T 
+1E2, Canada.
+(13)Department of Human Genetics, McGill University, Montreal, Quebec H3A 0C7, 
+Canada.
+(14)Department of Pediatrics, McGill University, and Research Institute of 
+McGill University Health Centre, Montreal, Quebec H4A 3J1, Canada.
+(15)Division of Molecular Pathology and Cancer Therapeutics, Institute of Cancer 
+Research, London SM2 5NG, UK.
+(16)Department of Pathology, Children's Hospital of Philadelphia, Philadelphia, 
+PA 19104, USA.
+(17)Department of Pathology, Children's Hospital of Los Angeles, Los Angeles, CA 
+90027, USA.
+(18)Department of Pediatrics, University of Michigan Medical School, Ann Arbor, 
+MI 48109, USA.
+(19)Division of Pharmaceutical Sciences, College of Pharmacy, Cincinnati 
+Children's Hospital Medical Center, Cincinnati, OH 45229, USA.
+(20)Department of Developmental Neurobiology, St. Jude Children's Research 
+Hospital, Memphis, TN 38105, USA.
+(21)Michigan Center for Translational Pathology, Howard Hughes Medical 
+Institute, University of Michigan, Ann Arbor, MI 48109, USA.
+
+High-grade gliomas with arginine or valine substitutions of the histone H3.3 
+glycine-34 residue (H3.3G34R/V) carry a dismal prognosis, and current 
+treatments, including radiotherapy and chemotherapy, are not curative. Because 
+H3.3G34R/V mutations reprogram epigenetic modifications, we undertook a 
+comprehensive epigenetic approach using ChIP sequencing and ChromHMM 
+computational analysis to define therapeutic dependencies in H3.3G34R/V gliomas. 
+Our analyses revealed a convergence of epigenetic alterations, including (i) 
+activating epigenetic modifications on histone H3 lysine (K) residues such as 
+H3K36 trimethylation (H3K36me3), H3K27 acetylation (H3K27ac), and H3K4 
+trimethylation (H3K4me3); (ii) DNA promoter hypomethylation; and (iii) 
+redistribution of repressive histone H3K27 trimethylation (H3K27me3) to 
+intergenic regions at the leukemia inhibitory factor (LIF) locus to drive 
+increased LIF abundance and secretion by H3.3G34R/V cells. LIF activated signal 
+transducer and activator of transcription 3 (STAT3) signaling in an 
+autocrine/paracrine manner to promote survival of H3.3G34R/V glioma cells. 
+Moreover, immunohistochemistry and single-cell RNA sequencing from H3.3G34R/V 
+patient tumors revealed high STAT3 protein and RNA expression, respectively, in 
+tumor cells with both inter- and intratumor heterogeneity. We targeted STAT3 
+using a blood-brain barrier–penetrable small-molecule inhibitor, WP1066, 
+currently in clinical trials for adult gliomas. WP1066 treatment resulted in 
+H3.3G34R/V tumor cell toxicity in vitro and tumor suppression in preclinical 
+mouse models established with KNS42 cells, SJ-HGGx42-c cells, or in utero 
+electroporation techniques. Our studies identify the LIF/STAT3 pathway as a key 
+epigenetically driven and druggable vulnerability in H3.3G34R/V gliomas. This 
+finding could inform development of targeted, combination therapies for these 
+lethal brain tumors.
+
+DOI: 10.1126/scitranslmed.abf7860
+PMCID: PMC8783551
+PMID: 34644147 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: DRW has received consulting 
+fees from Agios Inc. He is an inventor on a patent (pending) related to methods 
+of determining optimal treatment for brain tumor patients. AR serves as Member 
+for Voxel Analytics, LLC and consulting relationship with Genophyll, LLC. The 
+other authors declare no competing interests.

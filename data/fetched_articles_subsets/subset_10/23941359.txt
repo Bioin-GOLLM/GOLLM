@@ -1,0 +1,35 @@
+1. BMC Genomics. 2013 Aug 14;14:550. doi: 10.1186/1471-2164-14-550.
+
+Barnacle: detecting and characterizing tandem duplications and fusions in 
+transcriptome assemblies.
+
+Swanson L(1), Robertson G, Mungall KL, Butterfield YS, Chiu R, Corbett RD, 
+Docking TR, Hogge D, Jackman SD, Moore RA, Mungall AJ, Nip KM, Parker JD, Qian 
+JQ, Raymond A, Sung S, Tam A, Thiessen N, Varhol R, Wang S, Yorukoglu D, Zhao Y, 
+Hoodless PA, Sahinalp SC, Karsan A, Birol I.
+
+Author information:
+(1)Canada's Michael Smith Genome Sciences Centre, British Columbia Cancer 
+Agency, Vancouver, Canada.
+
+BACKGROUND: Chimeric transcripts, including partial and internal tandem 
+duplications (PTDs, ITDs) and gene fusions, are important in the detection, 
+prognosis, and treatment of human cancers.
+RESULTS: We describe Barnacle, a production-grade analysis tool that detects 
+such chimeras in de novo assemblies of RNA-seq data, and supports prioritizing 
+them for review and validation by reporting the relative coverage of 
+co-occurring chimeric and wild-type transcripts. We demonstrate applications in 
+large-scale disease studies, by identifying PTDs in MLL, ITDs in FLT3, and 
+reciprocal fusions between PML and RARA, in two deeply sequenced acute myeloid 
+leukemia (AML) RNA-seq datasets.
+CONCLUSIONS: Our analyses of real and simulated data sets show that, with 
+appropriate filter settings, Barnacle makes highly specific predictions for 
+three types of chimeric transcripts that are important in a range of cancers: 
+PTDs, ITDs, and fusions. High specificity makes manual review and validation 
+efficient, which is necessary in large-scale disease studies. Characterizing an 
+extended range of chimera types will help generate insights into progression, 
+treatment, and outcomes for complex diseases.
+
+DOI: 10.1186/1471-2164-14-550
+PMCID: PMC3751903
+PMID: 23941359 [Indexed for MEDLINE]

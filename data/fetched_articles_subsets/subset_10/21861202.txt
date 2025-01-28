@@ -1,0 +1,34 @@
+1. Pharm Res. 2012 Feb;29(2):411-26. doi: 10.1007/s11095-011-0564-9. Epub 2011
+Aug  23.
+
+In vitro and in silico strategies to identify OATP1B1 inhibitors and predict 
+clinical drug-drug interactions.
+
+Karlgren M(1), Ahlin G, Bergström CA, Svensson R, Palm J, Artursson P.
+
+Author information:
+(1)Uppsala University Drug Optimization and Pharmaceutical Profiling Platform, 
+Department of Pharmacy, Uppsala University, The Biomedical Centre, P.O. Box 580, 
+751 23, Uppsala, Sweden. maria.karlgren@farmaci.uu.se
+
+PURPOSE: To establish in vitro and in silico models that predict clinical 
+drug-drug interactions (DDIs) with the OATP1B1 (SLCO1B1) transporter.
+METHODS: The inhibitory effect of 146 drugs and drug-like compounds on 
+OATP1B1-mediated transport was studied in HEK293 cells. A computational model 
+was developed to predict OATP1B1 inhibition. Concentration-dependent effects 
+were investigated for six compounds; clinical DDIs were predicted by calculating 
+change in exposure (i.e. R-values) in eight different ways.
+RESULTS: Sixty-five compounds were identified as OATP1B1 inhibitors at 20 μM. 
+The computational model predicted the test set with 80% accuracy for inhibitors 
+and 91% for non-inhibitors. In vitro-in vivo comparisons underscored the 
+importance of using drugs with known clinical effects as references. Thus, 
+reference drugs, cyclosporin A, gemfibrozil, and fenofibrate, provided an 
+inhibition interval to which three antiviral drugs, atazanavir, lopinavir, and 
+amprenavir, could be compared and their clinical DDIs with OATP1B1 classified.
+CONCLUSIONS: Twenty-two new OATP1B1 inhibitors were identified, a predictive 
+OATP1B1 inhibition in silico model was developed, and successful predictions of 
+clinical DDIs were obtained with OATP1B1.
+
+DOI: 10.1007/s11095-011-0564-9
+PMCID: PMC3264873
+PMID: 21861202 [Indexed for MEDLINE]

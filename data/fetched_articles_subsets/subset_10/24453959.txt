@@ -1,0 +1,46 @@
+1. PLoS Comput Biol. 2014 Jan;10(1):e1003435. doi: 10.1371/journal.pcbi.1003435. 
+Epub 2014 Jan 16.
+
+Coarse-grained molecular simulation of epidermal growth factor receptor protein 
+tyrosine kinase multi-site self-phosphorylation.
+
+Koland JG(1).
+
+Author information:
+(1)Departments of Pharmacology and Internal Medicine, University of Iowa, Carver 
+College of Medicine, Iowa City, Iowa, United States of America.
+
+Upon the ligand-dependent dimerization of the epidermal growth factor receptor 
+(EGFR), the intrinsic protein tyrosine kinase (PTK) activity of one receptor 
+monomer is activated, and the dimeric receptor undergoes self-phosphorylation at 
+any of eight candidate phosphorylation sites (P-sites) in either of the two 
+C-terminal (CT) domains. While the structures of the extracellular ligand 
+binding and intracellular PTK domains are known, that of the ∼225-amino acid CT 
+domain is not, presumably because it is disordered. Receptor phosphorylation on 
+CT domain P-sites is critical in signaling because of the binding of specific 
+signaling effector molecules to individual phosphorylated P-sites. To 
+investigate how the combination of conventional substrate recognition and the 
+unique topological factors involved in the CT domain self-phosphorylation 
+reaction lead to selectivity in P-site phosphorylation, we performed 
+coarse-grained molecular simulations of the P-site/catalytic site binding 
+reactions that precede EGFR self-phosphorylation events. Our results indicate 
+that self-phosphorylation of the dimeric EGFR, although generally believed to 
+occur in trans, may well occur with a similar efficiency in cis, with the 
+P-sites of both receptor monomers being phosphorylated to a similar extent. An 
+exception was the case of the most kinase-proximal P-site-992, the catalytic 
+site binding of which occurred exclusively in cis via an intramolecular 
+reaction. We discovered that the in cis interaction of P-site-992 with the 
+catalytic site was facilitated by a cleft between the N-terminal and C-terminal 
+lobes of the PTK domain that allows the short CT domain sequence tethering 
+P-site-992 to the PTK core to reach the catalytic site. Our work provides 
+several new mechanistic insights into the EGFR self-phosphorylation reaction, 
+and demonstrates the potential of coarse-grained molecular simulation approaches 
+for investigating the complexities of self-phosphorylation in molecules such as 
+EGFR (HER/ErbB) family receptors and growth factor receptor PTKs in general.
+
+DOI: 10.1371/journal.pcbi.1003435
+PMCID: PMC3894164
+PMID: 24453959 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author has declared that no competing 
+interests exist.

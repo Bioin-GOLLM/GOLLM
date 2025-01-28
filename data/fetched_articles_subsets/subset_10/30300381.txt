@@ -1,0 +1,55 @@
+1. PLoS One. 2018 Oct 9;13(10):e0204648. doi: 10.1371/journal.pone.0204648. 
+eCollection 2018.
+
+An integrative approach using real-world data to identify alternative 
+therapeutic uses of existing drugs.
+
+Hosomi K(1), Fujimoto M(1), Ushio K(2), Mao L(2), Kato J(2), Takada M(1).
+
+Author information:
+(1)Division of Clinical Drug Informatics, School of Pharmacy, Kindai University, 
+Kowakae, Higashi-osaka, Osaka, Japan.
+(2)Innovation and Entrepreneurship, Research, Takeda Pharmaceutical Company 
+Limited, Muraoka-Higashi, 2- Chome, Fujisawa, Kanagawa, Japan.
+
+Different computational approaches are employed to efficiently identify novel 
+repositioning possibilities utilizing different sources of information and 
+algorithms. It is critical to propose high-valued candidate-repositioning 
+possibilities before conducting lengthy in vivo validation studies that consume 
+significant resources. Here we report a novel multi-methodological approach to 
+identify opportunities for drug repositioning. We performed analyses of 
+real-world data (RWD) acquired from the United States Food and Drug 
+Administration's Adverse Event Reporting System (FAERS) and the claims database 
+maintained by the Japan Medical Data Center (JMDC). These analyses were followed 
+by cross-validation through bioinformatics analyses of gene expression data. 
+Inverse associations revealed using disproportionality analysis (DPA) and 
+sequence symmetry analysis (SSA) were used to detect potential 
+drug-repositioning signals. To evaluate the validity of the approach, we 
+conducted a feasibility study to identify marketed drugs with the potential for 
+treating inflammatory bowel disease (IBD). Primary analyses of the FAERS and 
+JMDC claims databases identified psycholeptics such as haloperidol, diazepam, 
+and hydroxyzine as candidates that may improve the treatment of IBD. To further 
+investigate the mechanistic relevance between hit compounds and disease 
+pathology, we conducted bioinformatics analyses of the associations of the gene 
+expression profiles of these compounds with disease. We identified common 
+biological features among genes differentially expressed with or without 
+compound treatment as well as disease-perturbation data available from open 
+sources, which strengthened the mechanistic rationale of our initial findings. 
+We further identified pathways such as cytokine signaling that are influenced by 
+these drugs. These pathways are relevant to pathologies and can serve as 
+alternative targets of therapy. Integrative analysis of RWD such as those 
+available from adverse-event databases, claims databases, and transcriptome 
+analyses represent an effective approach that adds value to efficiently 
+identifying potential novel therapeutic opportunities.
+
+DOI: 10.1371/journal.pone.0204648
+PMCID: PMC6177143
+PMID: 30300381 [Indexed for MEDLINE]
+
+Conflict of interest statement: This work was supported by Takeda Pharmaceutical 
+Company Limited in the form of salaries to KU, LM, JK. Additional support came 
+from Chugai Pharmaceutical Company Limited in the form of salaries to KU. The 
+specific roles of these authors are articulated in the ‘author contributions’. 
+The affiliation to Takeda Pharmaceutical Company Limited and Chugai 
+Pharmaceutical Company Limited does not alter our adherence to PLOS ONE policies 
+on sharing data and materials.

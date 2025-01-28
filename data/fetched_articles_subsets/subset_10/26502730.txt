@@ -1,0 +1,51 @@
+1. Microb Cell Fact. 2015 Oct 26;14:170. doi: 10.1186/s12934-015-0357-7.
+
+Engineering an efficient and tight D-amino acid-inducible gene expression system 
+in Rhodosporidium/Rhodotorula species.
+
+Liu Y(1), Koh CMJ(1), Ngoh ST(1), Ji L(2).
+
+Author information:
+(1)Biomaterials and Biocatalysts Group, Temasek Life Sciences Laboratory, 1 
+Research Link, National University of Singapore, Singapore, 117604, Singapore.
+(2)Biomaterials and Biocatalysts Group, Temasek Life Sciences Laboratory, 1 
+Research Link, National University of Singapore, Singapore, 117604, Singapore. 
+jilh@tll.org.sg.
+
+Erratum in
+    Microb Cell Fact. 2017 Jun 14;16(1):107. doi: 10.1186/s12934-017-0726-5.
+
+BACKGROUND: Rhodosporidium and Rhodotorula are two genera of oleaginous red 
+yeast with great potential for industrial biotechnology. To date, there is no 
+effective method for inducible expression of proteins and RNAs in these hosts.
+RESULTS: We have developed a luciferase gene reporter assay based on a new 
+codon-optimized LUC2 reporter gene (RtLUC2), which is flanked with CAR2 homology 
+arms and can be integrated into the CAR2 locus in the nuclear genome at >90 % 
+efficiency. We characterized the upstream DNA sequence of a D-amino acid oxidase 
+gene (DAO1) from R. toruloides ATCC 10657 by nested deletions. By comparing the 
+upstream DNA sequences of several putative DAO1 homologs of Basidiomycetous 
+fungi, we identified a conserved DNA motif with a consensus sequence of 
+AGGXXGXAGX11GAXGAXGG within a 0.2 kb region from the mRNA translation initiation 
+site. Deletion of this motif led to strong mRNA transcription under non-inducing 
+conditions. Interestingly, DAO1 promoter activity was enhanced about fivefold 
+when the 108 bp intron 1 was included in the reporter construct. We identified a 
+conserved CT-rich motif in the intron with a consensus sequence of 
+TYTCCCYCTCCYCCCCACWYCCGA, deletion or point mutations of which drastically 
+reduced promoter strength under both inducing and non-inducing conditions. 
+Additionally, we created a selection marker-free DAO1-null mutant (∆dao1e) which 
+displayed greatly improved inducible gene expression, particularly when both 
+glucose and nitrogen were present in high levels. To avoid adding unwanted 
+peptide to proteins to be expressed, we converted the original translation 
+initiation codon to ATC and re-created a translation initiation codon at the 
+start of exon 2. This promoter, named P DAO1-in1m1 , showed very similar 
+luciferase activity to the wild-type promoter upon induction with D-alanine. The 
+inducible system was tunable by adjusting the levels of inducers, carbon source 
+and nitrogen source.
+CONCLUSION: The intron 1-containing DAO1 promoters coupled with a DAO1 null 
+mutant makes an efficient and tight D-amino acid-inducible gene expression 
+system in Rhodosporidium and Rhodotorula genera. The system will be a valuable 
+tool for metabolic engineering and enzyme expression in these yeast hosts.
+
+DOI: 10.1186/s12934-015-0357-7
+PMCID: PMC4624585
+PMID: 26502730 [Indexed for MEDLINE]

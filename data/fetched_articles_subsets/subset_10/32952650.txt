@@ -1,0 +1,51 @@
+1. Exp Ther Med. 2020 Nov;20(5):60. doi: 10.3892/etm.2020.9188. Epub 2020 Sep 4.
+
+In silico prediction and validation of potential therapeutic genes in pancreatic 
+β-cells associated with type 2 diabetes.
+
+Zhou DY(1), Mou X(1), Liu K(1), Liu WH(2), Xu YQ(1), Zhou D(1).
+
+Author information:
+(1)Department of Endocrinology, Zhejiang Integrated Traditional and Western 
+Medicine Hospital, Hangzhou, Zhejiang 310003, P.R. China.
+(2)College of The Second Clinical Medicine, Zhejiang Chinese Medical University, 
+Hangzhou, Zhejiang 310000, P.R. China.
+
+Diabetes mellitus is becoming a major health burden worldwide. Pancreatic β-cell 
+death is a characteristic of type 2 diabetes (T2D), but the underlying 
+mechanisms of pancreatic β-cell death remain unknown. Therefore, the aim of the 
+present study was to identify potential targets in the pancreatic islet of T2D. 
+The GSE20966 dataset was obtained from the Gene Expression Omnibus (GEO) 
+database, and differentially expressed genes (DEGs) were identified by using the 
+GEO2R tool. The Gene Ontology terms and Kyoto Encyclopedia of Genes and Genomes 
+Pathway enrichment analysis of DEGs were further assessed using the Database for 
+Annotation, Visualization and Integrated Discovery. Furthermore, protein-protein 
+interaction (PPI) networks were constructed for the up- and downregulated genes 
+using STRING databases and were then visualized with Cytoscape. The body weight, 
+fasting blood glucose (FBG), pancreatic index and biochemistry parameters were 
+measured in db/db mice. Moreover, the morphology of the pancreas was detected by 
+hematoxylin and eosin staining, and hub genes were assessed using reverse 
+transcription-quantitative PCR (RT-qPCR) and western blot analysis. In total, 
+570 DEGs were screened, including 376 upregulated and 194 downregulated genes, 
+which were associated with 'complement activation, classical pathway', 
+'proteolysis', 'complement activation' and 'pancreatic secretion pathway'. It 
+was found that the body weight, FBG, alanine aminotransferase, aspartate 
+aminotransferase, total cholesterol, triglycerides, blood urea nitrogen, 
+creatinine, fasting serum insulin, glucagon and low-density lipoprotein 
+cholesterol levels were significantly higher in db/db mice, while high-density 
+lipoprotein cholesterol levels and the pancreatic index were significantly 
+decreased. Furthermore, albumin, interleukin-8, CD44, C-C motif chemokine ligand 
+2, hepatocyte growth factor, cystic fibrosis transmembrane conductance 
+regulator, histone cluster 1 H2B family member n, mitogen-activated protein 
+kinase 11 and neurotrophic receptor tyrosine kinase 2 were identified as hub 
+genes in PPI network. RT-qPCR and western blotting results demonstrated the same 
+expression trend in hub genes as found by the bioinformatics analysis. 
+Therefore, the present study identified a series of hub genes involved in the 
+progression of pancreatic β-cell, which may help to develop effective 
+therapeutic strategy for T2D.
+
+Copyright: © Zhou et al.
+
+DOI: 10.3892/etm.2020.9188
+PMCID: PMC7485321
+PMID: 32952650

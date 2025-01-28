@@ -1,0 +1,73 @@
+1. PLoS Comput Biol. 2019 Apr 1;15(4):e1006952. doi:
+10.1371/journal.pcbi.1006952.  eCollection 2019 Apr.
+
+Prediction of VRC01 neutralization sensitivity by HIV-1 gp160 sequence features.
+
+Magaret CA(1), Benkeser DC(2), Williamson BD(3), Borate BR(1), Carpp LN(1), 
+Georgiev IS(4)(5)(6), Setliff I(4)(7), Dingens AS(8)(9)(10), Simon N(3), Carone 
+M(3), Simpkins C(1), Montefiori D(11), Alter G(12), Yu WH(12), Juraska M(1), 
+Edlefsen PT(1), Karuna S(1), Mgodi NM(13), Edugupanti S(14), Gilbert PB(1)(3).
+
+Author information:
+(1)Vaccine and Infectious Disease Division and Statistical Center for HIV/AIDS 
+Research and Prevention, Fred Hutchinson Cancer Research Center, Seattle, 
+Washington, United States of America.
+(2)Department of Biostatistics and Bioinformatics, Rollins School of Public 
+Health, Emory University, Atlanta, Georgia, United States of America.
+(3)Department of Biostatistics, University of Washington, Seattle, Washington, 
+United States of America.
+(4)Vanderbilt Vaccine Center, Vanderbilt University Medical Center, Nashville, 
+Tennessee, United States of America.
+(5)Department of Pathology, Microbiology, and Immunology, Vanderbilt University 
+Medical Center, Nashville, Tennessee, United States of America.
+(6)Department of Electrical Engineering and Computer Science, Vanderbilt 
+University, Nashville, Tennessee, United States of America.
+(7)Program in Chemical & Physical Biology, Vanderbilt University Medical Center, 
+Nashville, Tennessee, United States of America.
+(8)Division of Basic Sciences and Computational Biology Program, Fred Hutchinson 
+Cancer Research Center, Seattle, Washington, United States of America.
+(9)Division of Human Biology and Epidemiology Program, Fred Hutchinson Cancer 
+Research Center, Seattle, Washington, United States of America.
+(10)Molecular and Cellular Biology PhD Program, University of Washington, 
+Seattle, Washington, United States of America.
+(11)Duke University School of Medicine, Duke University, Durham, North Carolina, 
+United States of America.
+(12)Ragon Institute of MGH, MIT and Harvard, Cambridge, Massachusetts, United 
+States of America.
+(13)University of Zimbabwe College of Health Sciences Clinical Trials Research 
+Centre, Harare, Zimbabwe.
+(14)Department of Medicine, Division of Infectious Diseases, Emory University, 
+Atlanta, Georgia, United States of America.
+
+The broadly neutralizing antibody (bnAb) VRC01 is being evaluated for its 
+efficacy to prevent HIV-1 infection in the Antibody Mediated Prevention (AMP) 
+trials. A secondary objective of AMP utilizes sieve analysis to investigate how 
+VRC01 prevention efficacy (PE) varies with HIV-1 envelope (Env) amino acid (AA) 
+sequence features. An exhaustive analysis that tests how PE depends on every AA 
+feature with sufficient variation would have low statistical power. To design an 
+adequately powered primary sieve analysis for AMP, we modeled VRC01 
+neutralization as a function of Env AA sequence features of 611 HIV-1 gp160 
+pseudoviruses from the CATNAP database, with objectives: (1) to develop models 
+that best predict the neutralization readouts; and (2) to rank AA features by 
+their predictive importance with classification and regression methods. The 
+dataset was split in half, and machine learning algorithms were applied to each 
+half, each analyzed separately using cross-validation and hold-out validation. 
+We selected Super Learner, a nonparametric ensemble-based cross-validated 
+learning method, for advancement to the primary sieve analysis. This method 
+predicted the dichotomous resistance outcome of whether the IC50 neutralization 
+titer of VRC01 for a given Env pseudovirus is right-censored (indicating 
+resistance) with an average validated AUC of 0.868 across the two hold-out 
+datasets. Quantitative log IC50 was predicted with an average validated R2 of 
+0.355. Features predicting neutralization sensitivity or resistance included 26 
+surface-accessible residues in the VRC01 and CD4 binding footprints, the length 
+of gp120, the length of Env, the number of cysteines in gp120, the number of 
+cysteines in Env, and 4 potential N-linked glycosylation sites; the top features 
+will be advanced to the primary sieve analysis. This modeling framework may also 
+inform the study of VRC01 in the treatment of HIV-infected persons.
+
+DOI: 10.1371/journal.pcbi.1006952
+PMCID: PMC6459550
+PMID: 30933973 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

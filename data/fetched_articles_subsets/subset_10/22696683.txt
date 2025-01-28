@@ -1,0 +1,35 @@
+1. Mol Biol Cell. 2012 Aug;23(15):2993-3007. doi: 10.1091/mbc.E12-03-0232. Epub 
+2012 Jun 13.
+
+Perturbation-based analysis and modeling of combinatorial regulation in the 
+yeast sulfur assimilation pathway.
+
+McIsaac RS(1), Petti AA, Bussemaker HJ, Botstein D.
+
+Author information:
+(1)The Lewis-Sigler Institute for Integrative Genomics, Princeton University, 
+Princeton, NJ 08544, USA. rmcisaac@princeton.edu
+
+In yeast, the pathways of sulfur assimilation are combinatorially controlled by 
+five transcriptional regulators (three DNA-binding proteins [Met31p, Met32p, and 
+Cbf1p], an activator [Met4p], and a cofactor [Met28p]) and a ubiquitin ligase 
+subunit (Met30p). This regulatory system exerts combinatorial control not only 
+over sulfur assimilation and methionine biosynthesis, but also on many other 
+physiological functions in the cell. Recently we characterized a gene induction 
+system that, upon the addition of an inducer, results in near-immediate 
+transcription of a gene of interest under physiological conditions. We used this 
+to perturb levels of single transcription factors during steady-state growth in 
+chemostats, which facilitated distinction of direct from indirect effects of 
+individual factors dynamically through quantification of the subsequent changes 
+in genome-wide patterns of gene expression. We were able to show directly that 
+Cbf1p acts sometimes as a repressor and sometimes as an activator. We also found 
+circumstances in which Met31p/Met32p function as repressors, as well as those in 
+which they function as activators. We elucidated and numerically modeled 
+feedback relationships among the regulators, notably feedforward regulation of 
+Met32p (but not Met31p) by Met4p that generates dynamic differences in abundance 
+that can account for the differences in function of these two proteins despite 
+their identical binding sites.
+
+DOI: 10.1091/mbc.E12-03-0232
+PMCID: PMC3408425
+PMID: 22696683 [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+1. RNA. 2013 Dec;19(12):1684-92. doi: 10.1261/rna.036806.112. Epub 2013 Oct 22.
+
+HAMR: high-throughput annotation of modified ribonucleotides.
+
+Ryvkin P, Leung YY, Silverman IM, Childress M, Valladares O, Dragomir I, Gregory 
+BD, Wang LS.
+
+RNA is often altered post-transcriptionally by the covalent modification of 
+particular nucleotides; these modifications are known to modulate the structure 
+and activity of their host RNAs. The recent discovery that an RNA methyl-6 
+adenosine demethylase (FTO) is a risk gene in obesity has brought to light the 
+significance of RNA modifications to human biology. These noncanonical 
+nucleotides, when converted to cDNA in the course of RNA sequencing, can produce 
+sequence patterns that are distinguishable from simple base-calling errors. To 
+determine whether these modifications can be detected in RNA sequencing data, we 
+developed a method that can not only locate these modifications 
+transcriptome-wide with single nucleotide resolution, but can also differentiate 
+between different classes of modifications. Using small RNA-seq data we were 
+able to detect 92% of all known human tRNA modification sites that are predicted 
+to affect RT activity. We also found that different modifications produce 
+distinct patterns of cDNA sequence, allowing us to differentiate between two 
+classes of adenosine and two classes of guanine modifications with 98% and 79% 
+accuracy, respectively. To show the robustness of this method to sample 
+preparation and sequencing methods, as well as to organismal diversity, we 
+applied it to a publicly available yeast data set and achieved similar levels of 
+accuracy. We also experimentally validated two novel and one known 
+3-methylcytosine (3mC) sites predicted by HAMR in human tRNAs. Researchers can 
+now use our method to identify and characterize RNA modifications using only 
+RNA-seq data, both retrospectively and when asking questions specifically about 
+modified RNA.
+
+DOI: 10.1261/rna.036806.112
+PMCID: PMC3884653
+PMID: 24149843 [Indexed for MEDLINE]

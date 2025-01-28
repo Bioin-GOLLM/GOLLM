@@ -1,0 +1,45 @@
+1. Intrinsically Disord Proteins. 2016 Dec 21;4(1):e1248273. doi: 
+10.1080/21690707.2016.1248273. eCollection 2016.
+
+Understanding the roles of intrinsic disorder in subunits of hemoglobin and the 
+disease process of sickle cell anemia.
+
+Fitzsimmons R(1), Amin N(1), Uversky VN(2).
+
+Author information:
+(1)Department of Molecular Medicine, Morsani College of Medicine, University of 
+South Florida , Tampa, FL, USA.
+(2)Department of Molecular Medicine, Morsani College of Medicine, University of 
+South Florida, Tampa, FL, USA; USF Health Byrd Alzheimer's Research Institute, 
+Morsani College of Medicine, University of South Florida, Tampa, FL, USA; 
+Laboratory of Structural Dynamics, Stability and Folding of Proteins, Institute 
+of Cytology, Russian Academy of Sciences, St. Petersburg, Russia.
+
+One of the common genetic disorders is sickle cell anemia, in which 2 recessive 
+alleles must meet to allow for destruction and alteration in the morphology of 
+red blood cells. This usually leads to loss of proper binding of oxygen to 
+hemoglobin and curved, sickle-shaped erythrocytes. The mutation causing this 
+disease occurs in the 6th codon of the HBB gene encoding the hemoglobin subunit 
+β (β-globin), a protein, serving as an integral part of the adult hemoglobin A 
+(HbA), which is a heterotetramer of 2 α chains and 2 β chains that is 
+responsible for binding to the oxygen in the blood. This mutation changes a 
+charged glutamic acid to a hydrophobic valine residue and disrupts the tertiary 
+structure and stability of the hemoglobin molecule. Since in the field of 
+protein intrinsic disorder, charged and polar residues are typically considered 
+as disorder promoting, in opposite to the order-promoting non-polar hydrophobic 
+residues, in this study we attempted to answer a question if intrinsic disorder 
+might have a role in the pathogenesis of sickle cell anemia. To this end, 
+several disorder predictors were utilized to evaluate the presence of 
+intrinsically disordered regions in all subunits of human hemoglobin: α, β, δ, 
+ε, ζ, γ1, and γ2. Then, structural analysis was completed by using the 
+SWISS-MODEL Repository to visualize the outputs of the disorder predictors. 
+Finally, Uniprot STRING and D2P2 were used to determine biochemical interactome 
+and protein partners for each hemoglobin subunit along with analyzing their 
+posttranslational modifications. All these properties were used to determine any 
+differences between the 6 different types of subunits of hemoglobin and to 
+correlate the mutation leading to sickle cell anemia with intrinsic disorder 
+propensity.
+
+DOI: 10.1080/21690707.2016.1248273
+PMCID: PMC5314875
+PMID: 28232898

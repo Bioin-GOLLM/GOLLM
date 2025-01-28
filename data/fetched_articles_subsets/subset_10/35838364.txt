@@ -1,0 +1,30 @@
+1. ACM BCB. 2019 Sep;2019:586-591. doi: 10.1145/3307339.3343865.
+
+A Histogram-based Outlier Profile for Atomic Structures Derived from 
+Cryo-Electron Microscopy.
+
+Chen L(1), He J(2).
+
+Author information:
+(1)Department of Computer Science, Valdosta State University, Valdosta, GA 
+31698.
+(2)Department of Computer Science, Old Dominion University, Norfolk, VA 23529.
+
+As more atomic structures are determined from cryo-electron microscopy (cryo-EM) 
+density maps, validation of such structures is an important task. We report 
+findings after analyzing the change of cryo-EM structures in a comparison 
+between those released by December 2016 and those released between 2017 and 
+2019. The cryo-EM models created from density maps with resolution better than 6 
+Å were divided into six data sets. A histogram-based outlier score (HBOS) was 
+implemented and validation reports were collected from the Protein Data Bank. 
+The results suggest that the overall quality of EM structures released after 
+December 2016 is better than that of structures released before 2017. The 
+conformation qualities of most residue types might have been improved, except 
+for Leucine, Phenylalanine, and Serine in high-resolution datasets (higher than 
+4 Å). We observe that structures solved from 0-4 Å resolution density maps have 
+an almost identical HBOS profile as that of structures derived from density maps 
+with 4-6 Å resolution.
+
+DOI: 10.1145/3307339.3343865
+PMCID: PMC9279010
+PMID: 35838364

@@ -1,0 +1,45 @@
+1. PLoS Comput Biol. 2021 Feb 22;17(2):e1008630. doi:
+10.1371/journal.pcbi.1008630.  eCollection 2021 Feb.
+
+Rapid 3D phenotypic analysis of neurons and organoids using data-driven cell 
+segmentation-free machine learning.
+
+Mergenthaler P(1)(2)(3), Hariharan S(1)(4), Pemberton JM(1)(4), Lourenco 
+C(4)(5), Penn LZ(4)(5), Andrews DW(1)(4).
+
+Author information:
+(1)Biological Sciences, Sunnybrook Research Institute, University of Toronto, 
+Toronto, Ontario, Canada.
+(2)Charité - Universitätsmedizin Berlin, Department of Experimental Neurology, 
+Department of Neurology, Center for Stroke Research Berlin, NeuroCure Clinical 
+Research Center, Berlin, Germany.
+(3)Berlin Institute of Health (BIH), Berlin, Germany.
+(4)Department of Medical Biophysics, University of Toronto, Toronto, Ontario, 
+Canada.
+(5)Princess Margaret Cancer Centre, University Health Network, University of 
+Toronto, Toronto, Ontario, Canada.
+
+Phenotypic profiling of large three-dimensional microscopy data sets has not 
+been widely adopted due to the challenges posed by cell segmentation and feature 
+selection. The computational demands of automated processing further limit 
+analysis of hard-to-segment images such as of neurons and organoids. Here we 
+describe a comprehensive shallow-learning framework for automated quantitative 
+phenotyping of three-dimensional (3D) image data using unsupervised data-driven 
+voxel-based feature learning, which enables computationally facile 
+classification, clustering and advanced data visualization. We demonstrate the 
+analysis potential on complex 3D images by investigating the phenotypic 
+alterations of: neurons in response to apoptosis-inducing treatments and 
+morphogenesis for oncogene-expressing human mammary gland acinar organoids. Our 
+novel implementation of image analysis algorithms called Phindr3D allowed rapid 
+implementation of data-driven voxel-based feature learning into 3D high content 
+analysis (HCA) operations and constitutes a major practical advance as the 
+computed assignments represent the biology while preserving the heterogeneity of 
+the underlying data. Phindr3D is provided as Matlab code and as a stand-alone 
+program (https://github.com/DWALab/Phindr3D).
+
+DOI: 10.1371/journal.pcbi.1008630
+PMCID: PMC7932518
+PMID: 33617523 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

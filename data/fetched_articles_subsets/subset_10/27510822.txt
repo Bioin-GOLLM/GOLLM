@@ -1,0 +1,64 @@
+1. BMC Med Genomics. 2016 Aug 10;9 Suppl 2(Suppl 2):48. doi: 
+10.1186/s12920-016-0207-4.
+
+DL-ADR: a novel deep learning model for classifying genomic variants into 
+adverse drug reactions.
+
+Liang Z(1), Huang JX(2), Zeng X(3), Zhang G(4).
+
+Author information:
+(1)School of Information Technology, York University, Toronto, ON, M3J1P3, 
+Canada.
+(2)School of Information Technology, York University, Toronto, ON, M3J1P3, 
+Canada. jhuang@yorku.ca.
+(3)Second School of Clinic Medicine, Guangzhou University of Chinese Medicine, 
+Guangzhou, 510120, China. zengxing-china@163.com.
+(4)School of Automation, Guangdong University of Technology, Guangzhou, 510006, 
+China.
+
+BACKGROUND: Genomic variations are associated with the metabolism and the 
+occurrence of adverse reactions of many therapeutic agents. The polymorphisms on 
+over 2000 locations of cytochrome P450 enzymes (CYP) due to many factors such as 
+ethnicity, mutations, and inheritance attribute to the diversity of response and 
+side effects of various drugs. The associations of the single nucleotide 
+polymorphisms (SNPs), the internal pharmacokinetic patterns and the 
+vulnerability of specific adverse reactions become one of the research interests 
+of pharmacogenomics. The conventional genomewide association studies (GWAS) 
+mainly focuses on the relation of single or multiple SNPs to a specific risk 
+factors which are a one-to-many relation. However, there are no robust methods 
+to establish a many-to-many network which can combine the direct and indirect 
+associations between multiple SNPs and a serial of events (e.g. adverse 
+reactions, metabolic patterns, prognostic factors etc.). In this paper, we 
+present a novel deep learning model based on generative stochastic networks and 
+hidden Markov chain to classify the observed samples with SNPs on five loci of 
+two genes (CYP2D6 and CYP1A2) respectively to the vulnerable population of 14 
+types of adverse reactions.
+METHODS: A supervised deep learning model is proposed in this study. The revised 
+generative stochastic networks (GSN) model with transited by the hidden Markov 
+chain is used. The data of the training set are collected from clinical 
+observation. The training set is composed of 83 observations of blood samples 
+with the genotypes respectively on CYP2D6*2, *10, *14 and CYP1A2*1C, *1 F. The 
+samples are genotyped by the polymerase chain reaction (PCR) method. A hidden 
+Markov chain is used as the transition operator to simulate the probabilistic 
+distribution. The model can perform learning at lower cost compared to the 
+conventional maximal likelihood method because the transition distribution is 
+conditional on the previous state of the hidden Markov chain. A least square 
+loss (LASSO) algorithm and a k-Nearest Neighbors (kNN) algorithm are used as the 
+baselines for comparison and to evaluate the performance of our proposed deep 
+learning model.
+RESULTS: There are 53 adverse reactions reported during the observation. They 
+are assigned to 14 categories. In the comparison of classification accuracy, the 
+deep learning model shows superiority over the LASSO and kNN model with a rate 
+over 80 %. In the comparison of reliability, the deep learning model shows the 
+best stability among the three models.
+CONCLUSIONS: Machine learning provides a new method to explore the complex 
+associations among genomic variations and multiple events in pharmacogenomics 
+studies. The new deep learning algorithm is capable of classifying various SNPs 
+to the corresponding adverse reactions. We expect that as more genomic 
+variations are added as features and more observations are made, the deep 
+learning model can improve its performance and can act as a black-box but 
+reliable verifier for other GWAS studies.
+
+DOI: 10.1186/s12920-016-0207-4
+PMCID: PMC4980789
+PMID: 27510822 [Indexed for MEDLINE]

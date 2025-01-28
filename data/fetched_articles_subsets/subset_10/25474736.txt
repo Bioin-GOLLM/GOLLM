@@ -1,0 +1,46 @@
+1. BMC Bioinformatics. 2014;15 Suppl 12(Suppl 12):S2. doi: 
+10.1186/1471-2105-15-S12-S2. Epub 2014 Nov 6.
+
+Discovering co-occurring patterns and their biological significance in protein 
+families.
+
+Lee ES, Fung S, Sze-To HY, Wong AK.
+
+BACKGROUND: The large influx of biological sequences poses the importance of 
+identifying and correlating conserved regions in homologous sequences to acquire 
+valuable biological knowledge. These conserved regions contain statistically 
+significant residue associations as sequence patterns. Thus, patterns from two 
+conserved regions co-occurring frequently on the same sequences are inferred to 
+have joint functionality. A method for finding conserved regions in protein 
+families with frequent co-occurrence patterns is proposed. The biological 
+significance of the discovered clusters of conserved regions with co-occurrences 
+patterns can be validated by their three-dimensional closeness of amino acids 
+and the biological functionality found in those regions as supported by 
+published work.
+METHODS: Using existing algorithms, we discovered statistically significant 
+amino acid associations as sequence patterns. We then aligned and clustered them 
+into Aligned Pattern Clusters (APCs) corresponding to conserved regions with 
+amino acid conservation and variation. When one APC frequently co-occurred with 
+another APC, the two APCs have high co-occurrence. We then clustered APCs with 
+high co-occurrence into what we refer to as Co-occurrence APC Clusters 
+(Co-occurrence Clusters).
+RESULTS: Our results show that for Co-occurrence Clusters, the three-dimensional 
+distance between their amino acids is closer than average amino acid distances. 
+For the Co-occurrence Clusters of the ubiquitin and the cytochrome c families, 
+we observed biological significance among the residing amino acids of the APCs 
+within the same cluster. In ubiquitin, the residues are responsible for 
+ubiquitination as well as conventional and unconventional ubiquitin-bindings. In 
+cytochrome c, amino acids in the first co-occurrence cluster contribute to 
+binding of other proteins in the electron transport chain, and amino acids in 
+the second co-occurrence cluster contribute to the stability of the axial heme 
+ligand.
+CONCLUSIONS: Thus, our co-occurrence clustering algorithm can efficiently find 
+and rank conserved regions that contain patterns that frequently co-occurring on 
+the same proteins. Co-occurring patterns are biologically significant due to 
+their three-dimensional closeness and other evidences reported in literature. 
+These results play an important role in drug discovery as biologists can quickly 
+identify the target for drugs to conduct detailed preclinical studies.
+
+DOI: 10.1186/1471-2105-15-S12-S2
+PMCID: PMC4243116
+PMID: 25474736 [Indexed for MEDLINE]

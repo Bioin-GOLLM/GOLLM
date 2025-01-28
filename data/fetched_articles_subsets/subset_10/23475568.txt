@@ -1,0 +1,52 @@
+1. Clin Pharmacokinet. 2013 May;52(5):373-84. doi: 10.1007/s40262-013-0046-9.
+
+Population pharmacokinetics of metformin in healthy subjects and patients with 
+type 2 diabetes mellitus: simulation of doses according to renal function.
+
+Duong JK(1), Kumar SS, Kirkpatrick CM, Greenup LC, Arora M, Lee TC, Timmins P, 
+Graham GG, Furlong TJ, Greenfield JR, Williams KM, Day RO.
+
+Author information:
+(1)School of Medical Sciences, University of New South Wales, Kensington, 
+Sydney, NSW, Australia.
+
+BACKGROUND AND OBJECTIVE: Metformin is contraindicated in patients with renal 
+impairment; however, there is poor adherence to current dosing guidelines. In 
+addition, the pharmacokinetics of metformin in patients with significant renal 
+impairment are not well described. The aims of this study were to investigate 
+factors influencing the pharmacokinetic variability, including variant 
+transporters, between healthy subjects and patients with type 2 diabetes 
+mellitus (T2DM) and to simulate doses of metformin at varying stages of renal 
+function.
+METHODS: Plasma concentrations of metformin were pooled from three studies: 
+patients with T2DM (study A; n = 120), healthy Caucasian subjects (study B; n = 
+16) and healthy Malaysian subjects (study C; n = 169). A population 
+pharmacokinetic model of metformin was developed using NONMEM(®) version VI for 
+both the immediate-release (IR) formulation and the extended-release (XR) 
+formulation of metformin. Total body weight (TBW), lean body weight (LBW), 
+creatinine clearance (CLCR; estimated using TBW and LBW) and 57 
+single-nucleotide polymorphisms (SNPs) of metformin transporters (OCT1, OCT2, 
+OCT3, MATE1 and PMAT) were investigated as potential covariates. A nonparametric 
+bootstrap (n = 1,000) was used to evaluate the final model. This model was used 
+to simulate 1,000 concentration-time profiles for doses of metformin at each 
+stage of renal impairment to ensure metformin concentrations do not exceed 5 
+mg/l, the proposed upper limit.
+RESULTS: Creatinine clearance and TBW were clinically and statistically 
+significant covariates with the apparent clearance and volume of distribution of 
+metformin, respectively. None of the 57 SNPs in transporters of metformin were 
+significant covariates. In contrast to previous studies, there was no effect on 
+the pharmacokinetics of metformin in patients carrying the reduced function OCT1 
+allele (R61C, G401S, 420del or G465R). Dosing simulations revealed that the 
+maximum daily doses in relation to creatinine clearance to prescribe to patients 
+are 500 mg (15 ml/min), 1,000 mg (30 ml/min), 2,000 mg (60 ml/min) and 3,000 mg 
+(120 ml/min), for both the IR and XR formulations.
+CONCLUSION: The population model enabled doses of metformin to be simulated for 
+each stage of renal function, to ensure the concentrations of metformin do not 
+exceed 5 mg/l. However, the plasma concentrations of metformin at these dosage 
+levels are still quite variable and monitoring metformin concentrations may be 
+of value in individualising dosage. This study provides confirmatory data that 
+metformin can be used, with appropriate dosage adjustment, in patients with 
+renal impairment.
+
+DOI: 10.1007/s40262-013-0046-9
+PMID: 23475568 [Indexed for MEDLINE]

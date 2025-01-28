@@ -1,0 +1,44 @@
+1. PLoS One. 2023 Sep 21;18(9):e0290336. doi: 10.1371/journal.pone.0290336. 
+eCollection 2023.
+
+The effect of ascertainment on penetrance estimates for rare variants: 
+Implications for establishing pathogenicity and for genetic counselling.
+
+Paterson AD(1)(2), Seok SC(3), Vieland VJ(3)(4).
+
+Author information:
+(1)Program in Genetics and Genome Biology, The Hospital for Sick Children, 
+Toronto, Ontario, Canada.
+(2)Divisions of Epidemiology and Biostatistics, Dalla Lana School of Public 
+Health, University of Toronto, Toronto, Ontario, Canada.
+(3)Mathematical Medicine LLC, Chicago, IL, United States of America.
+(4)Departments of Pediatrics and Biostatistics (Emerita), The Ohio State 
+University, Columbus, OH, United States of America.
+
+Next-generation sequencing has led to an explosion of genetic findings for many 
+rare diseases. However, most of the variants identified are very rare and were 
+also identified in small pedigrees, which creates challenges in terms of 
+penetrance estimation and translation into genetic counselling in the setting of 
+cascade testing. We use simulations to show that for a rare (dominant) disorder 
+where a variant is identified in a small number of small pedigrees, the 
+penetrance estimate can both have large uncertainty and be drastically inflated, 
+due to underlying ascertainment bias. We have developed PenEst, an app that 
+allows users to investigate the phenomenon across ranges of parameter settings. 
+We also illustrate robust ascertainment corrections via the LOD (logarithm of 
+the odds) score, and recommend a LOD-based approach to assessing pathogenicity 
+of rare variants in the presence of reduced penetrance.
+
+Copyright: © 2023 Paterson et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0290336
+PMCID: PMC10513297
+PMID: 37733810 [Indexed for MEDLINE]
+
+Conflict of interest statement: Salary support to VJV and SCS came via a 
+subcontract to Mathematical Medicine from the NIH grant (NS085238). This does 
+not alter our adherence to PLOS ONE policies on sharing data and materials. 
+There are no patents, products in development or marketed products associated 
+with this research to declare.

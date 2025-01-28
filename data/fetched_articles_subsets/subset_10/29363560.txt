@@ -1,0 +1,35 @@
+1. Mol Syst Biol. 2018 Jan 23;14(1):e8064. doi: 10.15252/msb.20178064.
+
+Large-scale image-based profiling of single-cell phenotypes in arrayed 
+CRISPR-Cas9 gene perturbation screens.
+
+de Groot R(1), Lüthi J(1)(2), Lindsay H(1), Holtackers R(1), Pelkmans L(3).
+
+Author information:
+(1)Institute of Molecular Life Sciences, University of Zürich, Zürich, 
+Switzerland.
+(2)Systems Biology PhD program, Life Science Zürich Graduate School ETH Zürich 
+and University of Zürich, Zürich, Switzerland.
+(3)Institute of Molecular Life Sciences, University of Zürich, Zürich, 
+Switzerland lucas.pelkmans@imls.uzh.ch.
+
+High-content imaging using automated microscopy and computer vision allows 
+multivariate profiling of single-cell phenotypes. Here, we present methods for 
+the application of the CISPR-Cas9 system in large-scale, image-based, gene 
+perturbation experiments. We show that CRISPR-Cas9-mediated gene perturbation 
+can be achieved in human tissue culture cells in a timeframe that is compatible 
+with image-based phenotyping. We developed a pipeline to construct a large-scale 
+arrayed library of 2,281 sequence-verified CRISPR-Cas9 targeting plasmids and 
+profiled this library for genes affecting cellular morphology and the 
+subcellular localization of components of the nuclear pore complex (NPC). We 
+conceived a machine-learning method that harnesses genetic heterogeneity to 
+score gene perturbations and identify phenotypically perturbed cells for 
+in-depth characterization of gene perturbation effects. This approach enables 
+genome-scale image-based multivariate gene perturbation profiling using 
+CRISPR-Cas9.
+
+© 2018 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/msb.20178064
+PMCID: PMC5787707
+PMID: 29363560 [Indexed for MEDLINE]

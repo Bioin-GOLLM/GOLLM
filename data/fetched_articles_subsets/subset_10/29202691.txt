@@ -1,0 +1,56 @@
+1. BMC Med Res Methodol. 2017 Dec 4;17(1):160. doi: 10.1186/s12874-017-0434-1.
+
+Performance of the marginal structural cox model for estimating individual and 
+joined effects of treatments given in combination.
+
+Lusivika-Nzinga C(1), Selinger-Leneman H(1), Grabar S(1)(2), Costagliola D(1), 
+Carrat F(3)(4).
+
+Author information:
+(1)Sorbonne Universités, INSERM, UPMC Université Paris 06, Institut Pierre Louis 
+d'épidémiologie et de Santé Publique (IPLESP UMRS 1136), Paris, France.
+(2)Unité de Biostatistique et d'épidémiologie Groupe hospitalier Cochin Broca 
+Hôtel-Dieu, Assistance Publique Hôpitaux de Paris (AP-HP), and Université Paris 
+Descartes, Sorbonne Paris Cité, Paris, France.
+(3)Sorbonne Universités, INSERM, UPMC Université Paris 06, Institut Pierre Louis 
+d'épidémiologie et de Santé Publique (IPLESP UMRS 1136), Paris, France. 
+fabrice.carrat@iplesp.upmc.fr.
+(4)Unité de Santé Publique, Hôpital Saint-Antoine, Assistance Publique-Hôpitaux 
+de Paris, Paris, France. fabrice.carrat@iplesp.upmc.fr.
+
+BACKGROUND: The Marginal Structural Cox Model (Cox-MSM), an alternative approach 
+to handle time-dependent confounder, was introduced for survival analysis and 
+applied to estimate the joint causal effect of two time-dependent nonrandomized 
+treatments on survival among HIV-positive subjects. Nevertheless, Cox-MSM 
+performance in the case of multiple treatments has not been fully explored under 
+different degree of time-dependent confounding for treatments or in case of 
+interaction between treatments. We aimed to evaluate and compare the performance 
+of the marginal structural Cox model (Cox-MSM) to the standard Cox model in 
+estimating the treatment effect in the case of multiple treatments under 
+different scenarios of time-dependent confounding and when an interaction 
+between treatment effects is present.
+METHODS: We specified a Cox-MSM with two treatments including an interaction 
+term for situations where an adverse event might be caused by two treatments 
+taken simultaneously but not by each treatment taken alone. We simulated 
+longitudinal data with two treatments and a time-dependent confounder affected 
+by one or the two treatments. To fit the Cox-MSM, we used the inverse 
+probability weighting method. We illustrated the method to evaluate the specific 
+effect of protease inhibitors combined (or not) to other antiretroviral 
+medications on the anal cancer risk in HIV-infected individuals, with CD4 cell 
+count as time-dependent confounder.
+RESULTS: Overall, Cox-MSM performed better than the standard Cox model. 
+Furthermore, we showed that estimates were unbiased when an interaction term was 
+included in the model.
+CONCLUSION: Cox-MSM may be used for accurately estimating causal individual and 
+joined treatment effects from a combination therapy in presence of 
+time-dependent confounding provided that an interaction term is estimated.
+
+DOI: 10.1186/s12874-017-0434-1
+PMCID: PMC5715511
+PMID: 29202691 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

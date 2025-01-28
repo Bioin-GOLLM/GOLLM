@@ -1,0 +1,57 @@
+1. Comput Biol Chem. 2023 Aug;105:107898. doi:
+10.1016/j.compbiolchem.2023.107898.  Epub 2023 May 23.
+
+Inflammation inhibitory activity of green tea, soybean, and guava extracts 
+during Sars-Cov-2 infection through TNF protein in cytokine storm.
+
+Priyandoko D(1), Widowati W(2), Kusuma HSW(3), Afifah E(3), Wijayanti CR(3), 
+Rizal R(4), Sholihah IA(5), Permatasari GW(6), Ramadhani A(7), Utomo DH(8).
+
+Author information:
+(1)Biology Study Program, Universitas Pendidikan Indonesia, Indonesia. 
+Electronic address: didikpriyandoko@upi.edu.
+(2)Faculty of Medical, Maranatha Christian University, Indonesia. Electronic 
+address: wahyu_w60@yahoo.com.
+(3)Aretha Medika Utama, Biomolecular and Biomedical Research Center, Indonesia.
+(4)Aretha Medika Utama, Biomolecular and Biomedical Research Center, Indonesia; 
+Biomedical Engineering, Faculty of Engineering, Universitas Indonesia, 
+Indonesia.
+(5)Aretha Medika Utama, Biomolecular and Biomedical Research Center, Indonesia; 
+School of Life Sciences and Technology, Institut Teknologi Bandung, Indonesia.
+(6)Indonesian Research Institute for Biotechnology and Bioindustry, Bogor, 
+Indonesia.
+(7)Indonesian Research Institute for Bioinformatics and Biomolecular, Malang, 
+Indonesia.
+(8)Department of Biology, Brawijaya University, Malang, Indonesia.
+
+Coronavirus disease is caused by the pathogen severe acute respiratory syndrome 
+coronavirus 2 (SARS-Cov-2) known as COVID-19. COVID-19 has caused the deaths of 
+6,541,936 people worldwide as of September 27th, 2022. SARS-CoV-2 severity is 
+determined by a cytokine storm condition, in which the innate immune system 
+creates an unregulated and excessive production of pro-inflammatory such IL-1, 
+IL-6, NF Kappa B, and TNF alpha signaling molecules known as cytokines. The 
+patient died due to respiratory organ failure and an acute complication because 
+of the hyper-inflammation phenomenon. Green tea, soybean, and guava bioactive 
+substances are well-known to act as anti-inflammation, and antioxidants become 
+prospective COVID-19 illness candidates to overcome the cytokine storm. Our 
+research aims to discover the bioactivity, bioavailability, and protein targets 
+of green tea, soybean, and guava bioactive compounds as anti-inflammatory agents 
+via the TNF inhibition pathway. The experiment uses in silico methods and 
+harnesses the accessible datasets. Samples of 3D structure and SMILE identity of 
+bioactive compounds were retrieved from the KNApSAck and Dr Duke databases. The 
+QSAR analysis was done by WAY2DRUG web server, while the ADME prediction was 
+performed using SWISSADME web server, following the Lipinsky rules of drugs. The 
+target protein and protein-protein interaction were analyzed using STRING DB and 
+Cytoscape software. Lastly, molecular docking was performed using Autodock 4.2 
+and visualization with BioVia Discovery Studio 2019. The identified study showed 
+the potential of green tea, soybean, and guava's bioactive compounds have played 
+an important role as anti-inflammation agents through TNF inhibitor pathway.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiolchem.2023.107898
+PMCID: PMC10205135
+PMID: 37247574 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+state that there is no conflict of interest.

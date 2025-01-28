@@ -1,0 +1,41 @@
+1. Theor Biol Med Model. 2013 May 1;10:29. doi: 10.1186/1742-4682-10-29.
+
+Determination of the optimal tubulin isotype target as a method for the 
+development of individualized cancer chemotherapy.
+
+Ravanbakhsh S(1), Gajewski M, Greiner R, Tuszynski JA.
+
+Author information:
+(1)Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8, 
+Canada.
+
+BACKGROUND: As microtubules are essential for cell growth and division, its 
+constituent protein β-tubulin has been a popular target for various treatments, 
+including cancer chemotherapy. There are several isotypes of human β-tubulin and 
+each type of cell expresses its characteristic distribution of these isotypes. 
+Moreover, each tubulin-binding drug has its own distribution of binding 
+affinities over the various isotypes, which further complicates identifying the 
+optimal drug selection. An ideal drug would preferentially bind only the tubulin 
+isotypes expressed abundantly by the cancer cells, but not those in the healthy 
+cells. Unfortunately, as the distributions of the tubulin isotypes in cancer 
+cells overlap with those of healthy cells, this ideal scenario is clearly not 
+possible. We can, however, seek a drug that interferes significantly with the 
+isotype distribution of the cancer cell, but has only minor interactions with 
+those of the healthy cells.
+METHODS: We describe a quantitative methodology for identifying this optimal 
+tubulin isotype profile for an ideal cancer drug, given the isotype distribution 
+of a specific cancer type, as well as the isotype distributions in various 
+healthy tissues, and the physiological importance of each such tissue.
+RESULTS: We report the optimal isotype profiles for different types of cancer 
+with various routes of delivery.
+CONCLUSIONS: Our algorithm, which defines the best profile for each type of 
+cancer (given the drug delivery route and some specified patient 
+characteristics), will help to personalize the design of pharmaceuticals for 
+individual patients. This paper is an attempt to explicitly consider the effects 
+of the tubulin isotype distributions in both cancer and normal cell types, for 
+rational chemotherapy design aimed at optimizing the drug's efficacy with 
+minimal side effects.
+
+DOI: 10.1186/1742-4682-10-29
+PMCID: PMC3651705
+PMID: 23634782 [Indexed for MEDLINE]

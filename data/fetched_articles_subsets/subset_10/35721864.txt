@@ -1,0 +1,41 @@
+1. Front Bioeng Biotechnol. 2022 Jun 2;10:922949. doi: 10.3389/fbioe.2022.922949.
+ eCollection 2022.
+
+A Mutated Nme1Cas9 Is a Functional Alternative RNase to Both LwaCas13a and 
+RfxCas13d in the Yeast S. cerevisiae.
+
+Zhang Y(1), Ge H(1), Marchisio MA(1).
+
+Author information:
+(1)School of Pharmaceutical Science and Technology, Tianjin University, Tianjin, 
+China.
+
+CRISPR-Cas systems provide powerful biological tools for genetic manipulation 
+and gene expression regulation. Class 2 systems, comprising type II, type V, and 
+type VI, have the significant advantage to require a single effector Cas protein 
+(Cas9, Cas12, and Cas13 respectively) to cleave nucleic acids upon binding the 
+crRNA. Both Cas9 and Cas12 recognize DNA and induce a double-strand break in it. 
+In contrast, Cas13 bind and cleave RNA exclusively. However, some Cas9 homologs 
+have shown RNase activity as well. Here, we harnessed Nme1Cas9, LwaCas13a, and 
+RfxCas13d to carry out gene downregulation in Saccharomyces cerevisiae by 
+triggering mRNA degradation. To avoid potential DNA damage, we mutated Nme1Cas9 
+into d16ANme1Cas9 that lost the nuclease activity of the RuvC domain but 
+retained the active HNH domain, able to act on the target DNA strand and, 
+therefore, on the corresponding transcript. Our results showed that d16ANme1Cas9 
+is a functional RNase in vivo, although with moderate activity since it provoked 
+a fluorescence reduction from 21% to 32%. Interestingly, d16ANme1Cas9 works in a 
+PAM-independent way nor demands helper PAMmer molecules. LwaCas13a and RfxCas13d 
+appeared substantially unfunctional in S. cerevisiae, though they were shown to 
+perform well in mammalian cells. To the best of our knowledge, this is the first 
+report about the working in vivo of a variant of Nme1Cas9 as an RNase and the 
+issues connected with the usage of Cas13 proteins in S. cerevisiae.
+
+Copyright © 2022 Zhang, Ge and Marchisio.
+
+DOI: 10.3389/fbioe.2022.922949
+PMCID: PMC9201564
+PMID: 35721864
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

@@ -1,0 +1,93 @@
+1. Nat Commun. 2020 Aug 17;11(1):4131. doi: 10.1038/s41467-020-17994-9.
+
+Deployable CRISPR-Cas13a diagnostic tools to detect and report Ebola and Lassa 
+virus cases in real-time.
+
+Barnes KG(#)(1)(2)(3), Lachenauer AE(#)(4)(5), Nitido A(6)(7), Siddiqui S(8)(9), 
+Gross R(10), Beitzel B(11), Siddle KJ(8)(12), Freije CA(8)(7), Dighero-Kemp 
+B(10), Mehta SB(8)(13), Carter A(8), Uwanibe J(14)(15), Ajogbasile F(14)(15), 
+Olumade T(14)(15), Odia I(16), Sandi JD(14)(17), Momoh M(14)(17), Metsky 
+HC(8)(18), Boehm CK(8), Lin AE(8)(7), Kemball M(8)(12), Park DJ(8), Branco 
+L(19), Boisen M(19), Sullivan B(20), Amare MF(21)(22), Tiamiyu AB(21)(23), 
+Parker ZF(21)(22), Iroezindu M(21)(23), Grant DS(17)(24), Modjarrad K(21), 
+Myhrvold C(8)(12), Garry RF(19)(25), Palacios G(11), Hensley LE(10), Schaffner 
+SF(8)(26)(12), Happi CT(26)(14)(15)(16), Colubri A(8)(12), Sabeti 
+PC(8)(26)(12)(27).
+
+Author information:
+(1)Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA. 
+kbarnes@broadinstitute.org.
+(2)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Harvard University, Boston, Massachusetts, USA. 
+kbarnes@broadinstitute.org.
+(3)MRC-University of Glasgow Centre for Virus Research, Glasgow, UK. 
+kbarnes@broadinstitute.org.
+(4)Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA. 
+annalach@stanford.edu.
+(5)Stanford University School of Medicine, Stanford, California, USA. 
+annalach@stanford.edu.
+(6)Ragon Institute of MGH, MIT, and Harvard, Cambridge, Massachusetts, 02139, 
+USA.
+(7)Ph.D. Program in Virology, Division of Medical Sciences, Harvard Medical 
+School, Boston, Massachusetts, 02115, USA.
+(8)Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+(9)Computational and Systems Biology, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts, USA.
+(10)Integrated Research Facility, Division of Clinical Research, National 
+Institute of Allergy and Infectious Diseases, National Institutes of Health, 
+Frederick, Maryland, USA.
+(11)Center for Genome Sciences, The United States Army Medical Research 
+Institute for Infectious Disease, 1425 Porter Street, Fort Detrick, Maryland, 
+21702, USA.
+(12)Center for Systems Biology, Department of Organismic and Evolutionary 
+Biology, Harvard University, Cambridge, Massachusetts, USA.
+(13)Division of Infectious Diseases, Beth Israel Deaconess Medical Center, 
+Boston, Massachusetts, USA.
+(14)African Center of Excellence for Genomics of Infectious Disease (ACEGID), 
+Redeemer's University, Ede, Osun State, Nigeria.
+(15)Department of Biological Sciences, College of Natural Sciences, Redeemer's 
+University, Ede, Osun State, Nigeria.
+(16)Institute of Lassa Fever Research and Control, Irrua Specialist Teaching 
+Hospital, Irrua, Edo State, Nigeria.
+(17)Viral Hemorrhagic Fever Program, Kenema Government Hospital, Kenema, Sierra 
+Leone.
+(18)Department of Electrical Engineering and Computer Science, MIT, Cambridge, 
+Massachusetts, 02139, USA.
+(19)Zalgen Labs, Germantown, Maryland, USA.
+(20)Department of Immunology and Microbial Science, The Scripps Research 
+Institute, La Jolla, California, USA.
+(21)Emerging Infectious Diseases Branch, Walter Reed Army Institute of Research, 
+Silver Spring, Maryland, USA.
+(22)Henry M. Jackson Foundation for the Advancement of Military Medicine, 
+Bethesda, Maryland, USA.
+(23)Henry M. Jackson Foundation Medical Research International, Abuja, Nigeria.
+(24)Ministry of Health and Sanitation, Freetown, Sierra Leone.
+(25)Tulane University School of Medicine, New Orleans, Los Angeles, 70112, USA.
+(26)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School 
+of Public Health, Harvard University, Boston, Massachusetts, USA.
+(27)Howard Hughes Medical Institute, Chevy Chase, Maryland, USA.
+(#)Contributed equally
+
+Recent outbreaks of viral hemorrhagic fevers (VHFs), including Ebola virus 
+disease (EVD) and Lassa fever (LF), highlight the urgent need for sensitive, 
+deployable tests to diagnose these devastating human diseases. Here we develop 
+CRISPR-Cas13a-based (SHERLOCK) diagnostics targeting Ebola virus (EBOV) and 
+Lassa virus (LASV), with both fluorescent and lateral flow readouts. We 
+demonstrate on laboratory and clinical samples the sensitivity of these assays 
+and the capacity of the SHERLOCK platform to handle virus-specific diagnostic 
+challenges. We perform safety testing to demonstrate the efficacy of our HUDSON 
+protocol in heat-inactivating VHF viruses before SHERLOCK testing, eliminating 
+the need for an extraction. We develop a user-friendly protocol and mobile 
+application (HandLens) to report results, facilitating SHERLOCK's use in endemic 
+regions. Finally, we successfully deploy our tests in Sierra Leone and Nigeria 
+in response to recent outbreaks.
+
+DOI: 10.1038/s41467-020-17994-9
+PMCID: PMC7431545
+PMID: 32807807 [Indexed for MEDLINE]
+
+Conflict of interest statement: K.G.B., A.E.L., C.A.F., P.C.S., and C.M. are 
+inventors on patent PCT/US2019/054561 held by the Broad Institute and related to 
+this work. The patent covers all primers, crRNAs, and SHERLOCK technology. 
+P.C.S. is a co-founder of, shareholder in, and advisor to Sherlock Biosciences, 
+Inc., as well as a Board member of and shareholder in Danaher Corporation.

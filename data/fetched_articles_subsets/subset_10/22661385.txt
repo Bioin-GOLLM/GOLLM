@@ -1,0 +1,33 @@
+1. Protein Eng Des Sel. 2012 Oct;25(10):507-21. doi: 10.1093/protein/gzs024. Epub
+ 2012 Jun 2.
+
+Computer-aided antibody design.
+
+Kuroda D(1), Shirai H, Jacobson MP, Nakamura H.
+
+Author information:
+(1)Institute for Protein Research, Osaka University, 3-2 Yamadaoka, Suita, 
+Osaka, Japan. dkuroda@protein.osaka-u.ac.jp
+
+Recent clinical trials using antibodies with low toxicity and high efficiency 
+have raised expectations for the development of next-generation protein 
+therapeutics. However, the process of obtaining therapeutic antibodies remains 
+time consuming and empirical. This review summarizes recent progresses in the 
+field of computer-aided antibody development mainly focusing on antibody 
+modeling, which is divided essentially into two parts: (i) modeling the 
+antigen-binding site, also called the complementarity determining regions 
+(CDRs), and (ii) predicting the relative orientations of the variable heavy 
+(V(H)) and light (V(L)) chains. Among the six CDR loops, the greatest challenge 
+is predicting the conformation of CDR-H3, which is the most important in antigen 
+recognition. Further computational methods could be used in drug development 
+based on crystal structures or homology models, including antibody-antigen 
+dockings and energy calculations with approximate potential functions. These 
+methods should guide experimental studies to improve the affinities and 
+physicochemical properties of antibodies. Finally, several successful examples 
+of in silico structure-based antibody designs are reviewed. We also briefly 
+review structure-based antigen or immunogen design, with application to rational 
+vaccine development.
+
+DOI: 10.1093/protein/gzs024
+PMCID: PMC3449398
+PMID: 22661385 [Indexed for MEDLINE]

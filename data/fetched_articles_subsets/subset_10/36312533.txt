@@ -1,0 +1,51 @@
+1. Front Bioeng Biotechnol. 2022 Oct 12;10:1009102. doi: 
+10.3389/fbioe.2022.1009102. eCollection 2022.
+
+The use of predictive models to develop chromatography-based purification 
+processes.
+
+Bernau CR(1), Knödler M(1)(2), Emonts J(1), Jäpel RC(1)(2), Buyel JF(1)(2)(3).
+
+Author information:
+(1)Fraunhofer Institute for Molecular Biology and Applied Ecology IME, Aachen, 
+Germany.
+(2)Institute for Molecular Biotechnology, RWTH Aachen University, Aachen, 
+Germany.
+(3)University of Natural Resources and Life Sciences, Vienna (BOKU), Department 
+of Biotechnology (DBT), Institute of Bioprocess Science and Engineering (IBSE), 
+Vienna, Austria.
+
+Chromatography is the workhorse of biopharmaceutical downstream processing 
+because it can selectively enrich a target product while removing impurities 
+from complex feed streams. This is achieved by exploiting differences in 
+molecular properties, such as size, charge and hydrophobicity (alone or in 
+different combinations). Accordingly, many parameters must be tested during 
+process development in order to maximize product purity and recovery, including 
+resin and ligand types, conductivity, pH, gradient profiles, and the sequence of 
+separation operations. The number of possible experimental conditions quickly 
+becomes unmanageable. Although the range of suitable conditions can be narrowed 
+based on experience, the time and cost of the work remain high even when using 
+high-throughput laboratory automation. In contrast, chromatography modeling 
+using inexpensive, parallelized computer hardware can provide expert knowledge, 
+predicting conditions that achieve high purity and efficient recovery. The 
+prediction of suitable conditions in silico reduces the number of empirical 
+tests required and provides in-depth process understanding, which is recommended 
+by regulatory authorities. In this article, we discuss the benefits and specific 
+challenges of chromatography modeling. We describe the experimental 
+characterization of chromatography devices and settings prior to modeling, such 
+as the determination of column porosity. We also consider the challenges that 
+must be overcome when models are set up and calibrated, including the 
+cross-validation and verification of data-driven and hybrid (combined 
+data-driven and mechanistic) models. This review will therefore support 
+researchers intending to establish a chromatography modeling workflow in their 
+laboratory.
+
+Copyright © 2022 Bernau, Knödler, Emonts, Jäpel and Buyel.
+
+DOI: 10.3389/fbioe.2022.1009102
+PMCID: PMC9605695
+PMID: 36312533
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

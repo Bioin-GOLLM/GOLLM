@@ -1,0 +1,34 @@
+1. PLoS One. 2018 Sep 11;13(9):e0198058. doi: 10.1371/journal.pone.0198058. 
+eCollection 2018.
+
+Filamentation and restoration of normal growth in Escherichia coli using a 
+combined CRISPRi sgRNA/antisense RNA approach.
+
+Mückl A(1), Schwarz-Schilling M(1), Fischer K(1), Simmel FC(1)(2).
+
+Author information:
+(1)Physics Department, Technische Universität München, Garching, Bavaria, 
+Germany.
+(2)Nanosystems Initiative Munich, Munich, Bavaria Germany.
+
+CRISPR interference (CRISPRi) using dCas9-sgRNA is a powerful tool for the 
+exploration and manipulation of gene functions. Here we quantify the reversible 
+switching of a central process of the bacterial cell cycle by CRISPRi and an 
+antisense RNA mechanism. Reversible induction of filamentous growth in E. coli 
+has been recently demonstrated by controlling the expression levels of the 
+bacterial cell division proteins FtsZ/FtsA via CRISPRi. If FtsZ falls below a 
+critical level, cells cannot divide. However, the cells remain metabolically 
+active and continue with DNA replication. We surmised that this makes them 
+amenable to an inducible antisense RNA strategy to counteract FtsZ inhibition. 
+We show that both static and inducible thresholds can adjust the characteristics 
+of the switching process. Combining bulk data with single cell measurements, we 
+characterize the efficiency of the switching process. Successful restoration of 
+division is found to occur faster in the presence of antisense sgRNAs than upon 
+simple termination of CRISPRi induction.
+
+DOI: 10.1371/journal.pone.0198058
+PMCID: PMC6133276
+PMID: 30204770 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

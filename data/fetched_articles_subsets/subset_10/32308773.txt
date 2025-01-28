@@ -1,0 +1,58 @@
+1. Theranostics. 2020 Apr 6;10(11):5137-5153. doi: 10.7150/thno.42325.
+eCollection  2020.
+
+Selective targeting of the oncogenic KRAS G12S mutant allele by CRISPR/Cas9 
+induces efficient tumor regression.
+
+Gao Q(1)(2)(3), Ouyang W(1)(2)(3), Kang B(1)(2)(3), Han X(1)(2)(3), Xiong Y(4), 
+Ding R(1)(2)(3)(5), Li Y(1)(2)(3), Wang F(1)(2)(3)(5), Huang L(1)(2)(3)(5), Chen 
+L(1)(2)(3), Wang D(1)(2)(3), Dong X(1)(2)(3), Zhang Z(1)(2)(3), Li Y(1)(2)(3), 
+Ze B(1)(2)(3), Hou Y(1)(2)(3), Yang H(1)(2)(3)(6), Ma Y(4), Gu Y(1)(2)(3), Chao 
+CC(1)(2)(3)(7).
+
+Author information:
+(1)Guangdong Provincial Key Laboratory of Genome Read and Write, BGI-Shenzhen, 
+Shenzhen 518083, China.
+(2)China National GeneBank, BGI-Shenzhen, Jinsha Road, Shenzhen 518120, China.
+(3)Guangdong Provincial Academician Workstation of BGI Synthetic Genomics, 
+BGI-Shenzhen, Shenzhen, 518083, China.
+(4)Department of Thoracic Surgery II, Key Laboratory of Carcinogenesis and 
+Translational Research (Ministry of Education/Beijing), Peking University Cancer 
+Hospital and Institute, Beijing, China.
+(5)BGI Education Center, University of Chinese Academy of Sciences, Shenzhen, 
+518083, China.
+(6)James D. Watson Institute of Genome Sciences, Hangzhou 310058, China.
+(7)Ab Vision, Inc, Milpitas, California, USA.
+
+Rationale: KRAS is one of the most frequently mutated oncogenes in cancers. The 
+protein's picomolar affinity for GTP/GDP and smooth protein structure resulting 
+in the absence of known allosteric regulatory sites makes its genomic-level 
+activating mutations a difficult but attractive target. Methods: Two CRISPR 
+systems, genome-editing CRISPR/SpCas9 and transcription-regulating dCas9-KRAB, 
+were developed to deplete the KRAS G12S mutant allele or repress its 
+transcription, respectively, with the goal of treating KRAS-driven cancers. 
+Results: SpCas9 and dCas9-KRAB systems with a sgRNA targeting the mutant allele 
+blocked the expression of the mutant KRAS gene, leading to an inhibition of 
+cancer cell proliferation. Local adenoviral injections using SpCas9 and 
+dCas9-KRAB systems suppressed tumor growth in vivo. The gene-depletion system 
+(SpCas9) performed more effectively than the transcription-suppressing system 
+(dCas9-KRAB) on tumor inhibition. Application of both Cas9 systems to wild-type 
+KRAS tumors did not affect cell proliferation. Furthermore, through 
+bioinformatic analysis of 31555 SNP mutations of the top 20 cancer driver genes, 
+the data showed that our mutant-specific editing strategy could be extended to a 
+reference list of oncogenic mutations with high editing potentials. This 
+pipeline could be applied to analyze the distribution of PAM sequences and 
+survey the best alternative targets for gene editing. Conclusion: We 
+successfully developed both gene-depletion and transcription-suppressing systems 
+to specifically target an oncogenic KRAS mutant allele that led to significant 
+tumor regression. These findings show the potential of CRISPR-based strategies 
+for the treatment of tumors with driver gene mutations.
+
+© The author(s).
+
+DOI: 10.7150/thno.42325
+PMCID: PMC7163449
+PMID: 32308773 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interest exists.

@@ -1,0 +1,48 @@
+1. bioRxiv [Preprint]. 2021 Dec 14:2021.12.13.472454. doi: 
+10.1101/2021.12.13.472454.
+
+TopHap: Rapid inference of key phylogenetic structures from common haplotypes in 
+large genome collections with limited diversity.
+
+Caraballo-Ortiz MA(1)(2), Miura S(1)(2), Sanderford M(1)(2), Dolker T(1)(2), Tao 
+Q(1)(2), Weaver S(1)(2), Pond SLK(1)(2), Kumar S(1)(2)(3).
+
+Author information:
+(1)Institute for Genomics and Evolutionary Medicine, Temple University, 
+Philadelphia, PA 19122, USA.
+(2)Department of Biology, Temple University, Philadelphia, PA 19122, USA.
+(3)Center of Excellence in Genome Medicine Research, King Abdulaziz University, 
+Saudi Arabia.
+
+MOTIVATION: Building reliable phylogenies from very large collections of 
+sequences with a limited number of phylogenetically informative sites is 
+challenging because sequencing errors and recurrent/backward mutations interfere 
+with the phylogenetic signal, confounding true evolutionary relationships. 
+Massive global efforts of sequencing genomes and reconstructing the phylogeny of 
+SARS-CoV-2 strains exemplify these difficulties since there are only hundreds of 
+phylogenetically informative sites and millions of genomes. For such datasets, 
+we set out to develop a method for building the phylogenetic tree of genomic 
+haplotypes consisting of positions harboring common variants to improve the 
+signal-to-noise ratio for more accurate phylogenetic inference of resolvable 
+phylogenetic features.
+RESULTS: We present the TopHap approach that determines spatiotemporally common 
+haplotypes of common variants and builds their phylogeny at a fraction of the 
+computational time of traditional methods. To assess topological robustness, we 
+develop a bootstrap resampling strategy that resamples genomes spatiotemporally. 
+The application of TopHap to build a phylogeny of 68,057 genomes (68KG) produced 
+an evolutionary tree of major SARS-CoV-2 haplotypes. This phylogeny is 
+concordant with the mutation tree inferred using the co-occurrence pattern of 
+mutations and recovers key phylogenetic relationships from more traditional 
+analyses. We also evaluated alternative roots of the SARS-CoV-2 phylogeny and 
+found that the earliest sampled genomes in 2019 likely evolved by four mutations 
+of the most recent common ancestor of all SARS-CoV-2 genomes. An application of 
+TopHap to more than 1 million genomes reconstructed the most comprehensive 
+evolutionary relationships of major variants, which confirmed the 68KG phylogeny 
+and provided evolutionary origins of major variants of concern.
+AVAILABILITY: TopHap is available on the web at 
+https://github.com/SayakaMiura/TopHap .
+CONTACT: s.kumar@temple.edu.
+
+DOI: 10.1101/2021.12.13.472454
+PMCID: PMC8687460
+PMID: 34931186

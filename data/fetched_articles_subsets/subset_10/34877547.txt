@@ -1,0 +1,44 @@
+1. STAR Protoc. 2021 Nov 23;2(4):100955. doi: 10.1016/j.xpro.2021.100955. 
+eCollection 2021 Dec 17.
+
+Analyzing causal relationships in proteomic profiles using CausalPath.
+
+Luna A(1)(2)(3), Siper MC(4), Korkut A(5), Durupinar F(6), Dogrusoz U(7), Aslan 
+JE(8), Sander C(1), Demir E(4)(9)(10), Babur O(6).
+
+Author information:
+(1)Department of Cell Biology, Harvard Medical School, Boston, MA 02115, USA.
+(2)Department of Data Science, Dana-Farber Cancer Institute, Boston, MA 02215, 
+USA.
+(3)Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA.
+(4)Computational Biology Program, Oregon Health and Science University, 3181 SW 
+Sam Jackson Park Rd, Portland, OR 97239, USA.
+(5)Department of Bioinformatics and Computational Biology, The University of 
+Texas MD Anderson Cancer Center, Houston, TX 77030, USA.
+(6)Computer Science Department, University of Massachusetts Boston, 100 William 
+T. Morrissey Blvd, Boston, MA 02125, USA.
+(7)Computer Engineering Department, Bilkent University, Ankara 06800, Turkey.
+(8)Knight Cardiovascular Institute, Oregon Health and Science University, 3181 
+SW Sam Jackson Park Rd, Portland, OR 97239, USA.
+(9)Department of Molecular and Medical Genetics, Oregon Health and Science 
+University, 3181 SW Sam Jackson Park Rd, Portland, OR 97239, USA.
+(10)Pacific Northwest National Laboratories, 902 Battelle Blvd, Richland, WA 
+99354, USA.
+
+CausalPath (causalpath.org) evaluates proteomic measurements against prior 
+knowledge of biological pathways and infers causality between changes in 
+measured features, such as global protein and phospho-protein levels. It uses 
+pathway resources to determine potential causality between observable omic 
+features, which are called prior relations. The subset of the prior relations 
+that are supported by the proteomic profiles are reported and evaluated for 
+statistical significance. The end result is a network model of signaling that 
+explains the patterns observed in the experimental dataset. For complete details 
+on the use and execution of this protocol, please refer to Babur et al. (2021).
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.xpro.2021.100955
+PMCID: PMC8633371
+PMID: 34877547 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

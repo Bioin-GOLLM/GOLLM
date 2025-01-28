@@ -1,0 +1,44 @@
+1. Hepat Mon. 2014 Jun 1;14(6):e17028. doi: 10.5812/hepatmon.17028. eCollection 
+2014 Jun.
+
+Predicting the outcomes of combination therapy in patients with chronic 
+hepatitis C using artificial neural network.
+
+Sargolzaee Aval F(1), Behnaz N(1), Raoufy MR(2), Alavian SM(3).
+
+Author information:
+(1)Faculty of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, 
+IR Iran.
+(2)Department of Physiology, Faculty of Medical Sciences, Tarbiat Modares 
+University, Tehran, IR Iran.
+(3)Middle East Liver Diseases Center (MELD), Tehran, IR Iran.
+
+BACKGROUND: Treatment with Peginterferon Alpha-2b plus Ribavirin is the current 
+standard therapy for chronic hepatitis C (CHC). However, many host related and 
+viral parameters are associated with different outcomes of combination therapy.
+OBJECTIVES: The aim of this study was to develop an artificial neural network 
+(ANN) model to predetermine individual responses to therapy based on patient's 
+demographics and laboratory data.
+PATIENTS AND METHODS: This case-control study was conducted in Tehran, Iran, on 
+139 patients divided into sustained virologic response (SVR) (n = 50), relapse 
+(n = 50) and non-response (n = 39) groups according to their response to 
+combination therapy for 48 weeks. The ANN was trained 300 times (epochs) using 
+clinical data. To test the ANN performance, the part of data that was selected 
+randomly and not used in training process was entered to the ANN and the outputs 
+were compared with real data.
+RESULTS: Hemoglobin (P < 0.001), cholesterol (P = 0.001) and IL-28b genotype (P 
+= 0.002) values had significant differences between the three groups. 
+Significant predictive factor(s) for each group were hemoglobin for SVR (OR: 
+1.517; 95% CI: 1.233-1.868; P < 0.001), IL-28b genotype for relapse (OR: 0.577; 
+95% CI: 0.339-0.981; P = 0.041) and hemoglobin (OR: 0.824; 95% CI: 0.693-0.980; 
+P = 0.017) and IL-28b genotype (OR: 2.584; 95% CI: 1.430-4.668;P = 0.001) for 
+non-response. The accuracy of ANN to predict SVR, relapse and non-response were 
+93%, 90%, and 90%, respectively.
+CONCLUSIONS: Using baseline laboratory data and host characteristics, ANN has 
+been shown as an accurate model to predict treatment outcome, which can lead to 
+appropriate decision making and decrease the frequency of ineffective treatment 
+in patients with chronic hepatitis C virus (HCV) infection.
+
+DOI: 10.5812/hepatmon.17028
+PMCID: PMC4071357
+PMID: 24976838

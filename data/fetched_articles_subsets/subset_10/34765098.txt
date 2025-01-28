@@ -1,0 +1,34 @@
+1. Comput Struct Biotechnol J. 2021 Oct 19;19:5834-5844. doi: 
+10.1016/j.csbj.2021.10.023. eCollection 2021.
+
+Computational methods for protein localization prediction.
+
+Jiang Y(1), Wang D(1), Wang W(1), Xu D(1).
+
+Author information:
+(1)Department of Electrical Engineering and Computer Science, Bond Life Sciences 
+Center, University of Missouri, Columbia, MO, USA.
+
+The accurate annotation of protein localization is crucial in understanding 
+protein function in tandem with a broad range of applications such as 
+pathological analysis and drug design. Since most proteins do not have 
+experimentally-determined localization information, the computational prediction 
+of protein localization has been an active research area for more than two 
+decades. In particular, recent machine-learning advancements have fueled the 
+development of new methods in protein localization prediction. In this review 
+paper, we first categorize the main features and algorithms used for protein 
+localization prediction. Then, we summarize a list of protein localization 
+prediction tools in terms of their coverage, characteristics, and accessibility 
+to help users find suitable tools based on their needs. Next, we evaluate some 
+of these tools on a benchmark dataset. Finally, we provide an outlook on the 
+future exploration of protein localization methods.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.csbj.2021.10.023
+PMCID: PMC8564054
+PMID: 34765098
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

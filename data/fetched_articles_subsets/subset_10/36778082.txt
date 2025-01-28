@@ -1,0 +1,38 @@
+1. Nat Catal. 2022 Oct;5(10):912-922. doi: 10.1038/s41929-022-00848-6. Epub 2022 
+Oct 6.
+
+Principles of target DNA cleavage and the role of Mg2+ in the catalysis of 
+CRISPR-Cas9.
+
+Nierzwicki Ł(1), East KW(2), Binz JM(3), Hsu RV(1), Ahsan M(1), Arantes PR(1), 
+Skeens E(2), Pacesa M(3), Jinek M(3), Lisi GP(2), Palermo G(1)(4).
+
+Author information:
+(1)Department of Bioengineering, University of California Riverside, 900 
+University Avenue, Riverside, CA 52512, United States.
+(2)Department of Molecular Biology, Cell Biology & Biochemistry, Brown 
+University, Providence, RI, United States.
+(3)Department of Biochemistry, University of Zürich, Winterthurerstrasse 190, 
+CH-8057 Zurich, Switzerland.
+(4)Department of Chemistry, University of California Riverside, 900 University 
+Avenue, Riverside, CA 52512, United States.
+
+At the core of the CRISPR-Cas9 genome-editing technology, the endonuclease Cas9 
+introduces site-specific breaks in DNA. However, precise mechanistic information 
+to ameliorating Cas9 function is still missing. Here, multi-microsecond 
+molecular dynamics, free-energy and multiscale simulations are combined with 
+solution NMR and DNA cleavage experiments to resolve the catalytic mechanism of 
+target DNA cleavage. We show that the conformation of an active HNH nuclease is 
+tightly dependent on the catalytic Mg2+, unveiling its cardinal structural role. 
+This activated Mg2+-bound HNH is consistently described through molecular 
+simulations, solution NMR and DNA cleavage assays, revealing also that the 
+protonation state of the catalytic H840 is strongly affected by active site 
+mutations. Finally, ab-initio QM(DFT)/MM simulations and metadynamics establish 
+the catalytic mechanism, showing that the catalysis is activated by H840 and 
+completed by K866, rationalising DNA cleavage experiments. This information is 
+critical to enhance the enzymatic function of CRISPR-Cas9 toward improved 
+genome-editing.
+
+DOI: 10.1038/s41929-022-00848-6
+PMCID: PMC9909973
+PMID: 36778082

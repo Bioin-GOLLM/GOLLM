@@ -1,0 +1,57 @@
+1. Cell. 2021 Jan 7;184(1):92-105.e16. doi: 10.1016/j.cell.2020.10.030. Epub 2020
+ Oct 24.
+
+Identification of Required Host Factors for SARS-CoV-2 Infection in Human Cells.
+
+Daniloski Z(1), Jordan TX(2), Wessels HH(1), Hoagland DA(2), Kasela S(3), Legut 
+M(1), Maniatis S(4), Mimitou EP(5), Lu L(1), Geller E(1), Danziger O(2), 
+Rosenberg BR(2), Phatnani H(6), Smibert P(5), Lappalainen T(3), tenOever BR(7), 
+Sanjana NE(8).
+
+Author information:
+(1)New York Genome Center, New York, NY, USA; Department of Biology, New York 
+University, New York, NY, USA.
+(2)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New 
+York, NY, USA.
+(3)New York Genome Center, New York, NY, USA; Department of Systems Biology, 
+Columbia University, New York, NY, USA.
+(4)New York Genome Center, New York, NY, USA.
+(5)Technology Innovation Lab, New York Genome Center, New York, NY, USA.
+(6)New York Genome Center, New York, NY, USA; Department of Neurology, Columbia 
+University Irving Medical Center, New York, NY, USA.
+(7)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New 
+York, NY, USA. Electronic address: benjamin.tenoever@mssm.edu.
+(8)New York Genome Center, New York, NY, USA; Department of Biology, New York 
+University, New York, NY, USA. Electronic address: neville@sanjanalab.org.
+
+Comment in
+    Nat Rev Genet. 2021 Jan;22(1):1. doi: 10.1038/s41576-020-00310-y.
+    Nat Rev Mol Cell Biol. 2021 Jan;22(1):2. doi: 10.1038/s41580-020-00319-5.
+    Cell. 2021 Jan 7;184(1):15-17. doi: 10.1016/j.cell.2020.12.003.
+    J Infect. 2022 Mar;84(3):418-467. doi: 10.1016/j.jinf.2021.12.011.
+
+To better understand host-virus genetic dependencies and find potential 
+therapeutic targets for COVID-19, we performed a genome-scale CRISPR 
+loss-of-function screen to identify host factors required for SARS-CoV-2 viral 
+infection of human alveolar epithelial cells. Top-ranked genes cluster into 
+distinct pathways, including the vacuolar ATPase proton pump, Retromer, and 
+Commander complexes. We validate these gene targets using several orthogonal 
+methods such as CRISPR knockout, RNA interference knockdown, and small-molecule 
+inhibitors. Using single-cell RNA-sequencing, we identify shared transcriptional 
+changes in cholesterol biosynthesis upon loss of top-ranked genes. In addition, 
+given the key role of the ACE2 receptor in the early stages of viral entry, we 
+show that loss of RAB7A reduces viral entry by sequestering the ACE2 receptor 
+inside cells. Overall, this work provides a genome-scale, quantitative resource 
+of the impact of the loss of each host gene on fitness/response to viral 
+infection.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2020.10.030
+PMCID: PMC7584921
+PMID: 33147445 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests N.E.S. is an advisor to 
+Vertex. T.L. is a member of the scientific advisory boards of Goldfinch Bio and, 
+with equity, Variant Bio. The New York Genome Center and New York University 
+have applied for patents relating to the work in this article.

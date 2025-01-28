@@ -1,0 +1,42 @@
+1. Int J Mol Sci. 2020 Nov 6;21(21):8341. doi: 10.3390/ijms21218341.
+
+Thermodynamics and Kinetics of Glycolytic Reactions. Part I: Kinetic Modeling 
+Based on Irreversible Thermodynamics and Validation by Calorimetry.
+
+Vogel K(1)(2), Greinert T(3), Reichard M(1), Held C(3), Harms H(1), Maskow T(1).
+
+Author information:
+(1)UFZ-Helmholtz Centre for Environmental Research, Department of Environmental 
+Microbiology, Leipzig, Permoserstr. 15, D-04318 Leipzig, Germany.
+(2)Institute for Drug Development, Leipzig University Medical School, Leipzig 
+University, Bruederstr. 34, 04103 Leipzig, Germany.
+(3)Laboratory of Thermodynamics, Department of Biochemical and Chemical 
+Engineering, Technische Universitaet Dortmund, Emil-Figge-Str. 70, 44227 
+Dortmund, Germany.
+
+In systems biology, material balances, kinetic models, and thermodynamic 
+boundary conditions are increasingly used for metabolic network analysis. It is 
+remarkable that the reversibility of enzyme-catalyzed reactions and the 
+influence of cytosolic conditions are often neglected in kinetic models. In 
+fact, enzyme-catalyzed reactions in numerous metabolic pathways such as in 
+glycolysis are often reversible, i.e., they only proceed until an equilibrium 
+state is reached and not until the substrate is completely consumed. Here, we 
+propose the use of irreversible thermodynamics to describe the kinetic 
+approximation to the equilibrium state in a consistent way with very few 
+adjustable parameters. Using a flux-force approach allowed describing the 
+influence of cytosolic conditions on the kinetics by only one single parameter. 
+The approach was applied to reaction steps 2 and 9 of glycolysis (i.e., the 
+phosphoglucose isomerase reaction from glucose 6-phosphate to fructose 
+6-phosphate and the enolase-catalyzed reaction from 2-phosphoglycerate to 
+phosphoenolpyruvate and water). The temperature dependence of the kinetic 
+parameter fulfills the Arrhenius relation and the derived activation energies 
+are plausible. All the data obtained in this work were measured efficiently and 
+accurately by means of isothermal titration calorimetry (ITC). The combination 
+of calorimetric monitoring with simple flux-force relations has the potential 
+for adequate consideration of cytosolic conditions in a simple manner.
+
+DOI: 10.3390/ijms21218341
+PMCID: PMC7664384
+PMID: 33172189 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

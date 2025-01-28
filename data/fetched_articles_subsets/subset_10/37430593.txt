@@ -1,0 +1,35 @@
+1. Sensors (Basel). 2023 May 11;23(10):4678. doi: 10.3390/s23104678.
+
+Comparison of Common Algorithms for Single-Pixel Imaging via Compressed Sensing.
+
+Zhao W(1), Gao L(1), Zhai A(1), Wang D(1)(2).
+
+Author information:
+(1)College of Physics and Optoelectronics, Taiyuan University of Technology, No. 
+79 West Main Street, Taiyuan 030024, China.
+(2)Key Laboratory of Advanced Transducers and Intelligent Control System, 
+Ministry of Education, and Shanxi Province, Taiyuan University of Technology, 
+No. 79 West Main Street, Taiyuan 030024, China.
+
+Single-pixel imaging (SPI) uses a single-pixel detector instead of a detector 
+array with a lot of pixels in traditional imaging techniques to realize 
+two-dimensional or even multi-dimensional imaging. For SPI using compressed 
+sensing, the target to be imaged is illuminated by a series of patterns with 
+spatial resolution, and then the reflected or transmitted intensity is 
+compressively sampled by the single-pixel detector to reconstruct the target 
+image while breaking the limitation of the Nyquist sampling theorem. Recently, 
+in the area of signal processing using compressed sensing, many measurement 
+matrices as well as reconstruction algorithms have been proposed. It is 
+necessary to explore the application of these methods in SPI. Therefore, this 
+paper reviews the concept of compressive sensing SPI and summarizes the main 
+measurement matrices and reconstruction algorithms in compressive sensing. 
+Further, the performance of their applications in SPI through simulations and 
+experiments is explored in detail, and then their advantages and disadvantages 
+are summarized. Finally, the prospect of compressive sensing with SPI is 
+discussed.
+
+DOI: 10.3390/s23104678
+PMCID: PMC10223092
+PMID: 37430593
+
+Conflict of interest statement: The authors declare no conflict of interest.

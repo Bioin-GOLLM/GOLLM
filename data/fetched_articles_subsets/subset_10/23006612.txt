@@ -1,0 +1,27 @@
+1. Algorithms Mol Biol. 2012 Sep 24;7(1):26. doi: 10.1186/1748-7188-7-26.
+
+Constructing perfect phylogenies and proper triangulations for three-state 
+characters.
+
+Gysel R(1), Lam F, Gusfield D.
+
+Author information:
+(1)Department of Computer Science, University of California, Davis, 1 Shields 
+Avenue, Davis CA 95616, USA. rsgysel@ucdavis.edu.
+
+: In this paper, we study the problem of constructing perfect phylogenies for 
+three-state characters. Our work builds on two recent results. The first result 
+states that for three-state characters, the local condition of examining all 
+subsets of three characters is sufficient to determine the global property of 
+admitting a perfect phylogeny. The second result applies tools from minimal 
+triangulation theory to the partition intersection graph to determine if a 
+perfect phylogeny exists. Despite the wealth of combinatorial tools and 
+algorithms stemming from the chordal graph and minimal triangulation literature, 
+it is unclear how to use such approaches to efficiently construct a perfect 
+phylogeny for three-state characters when the data admits one. We utilize 
+structural properties of both the partition intersection graph and the original 
+data in order to achieve a competitive time bound.
+
+DOI: 10.1186/1748-7188-7-26
+PMCID: PMC3558378
+PMID: 23006612

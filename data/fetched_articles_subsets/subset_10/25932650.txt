@@ -1,0 +1,44 @@
+1. PLoS One. 2015 May 1;10(5):e0125222. doi: 10.1371/journal.pone.0125222. 
+eCollection 2015.
+
+TMREC: A Database of Transcription Factor and MiRNA Regulatory Cascades in Human 
+Diseases.
+
+Wang S(1), Li W(2), Lian B(3), Liu X(1), Zhang Y(1), Dai E(1), Yu X(1), Meng 
+F(1), Jiang W(1), Li X(1).
+
+Author information:
+(1)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, 150081, P. R. China.
+(2)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, 150081, P. R. China; EpiRNA Lab, Institutes of Biomedical Sciences, 
+Fudan University, Shanghai, 200032, P. R. China.
+(3)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, 150081, P. R. China; School of Life Sciences and Biotechnology, Shanghai 
+Jiao Tong University, Shanghai, 200240, P. R. China; Shanghai Center for 
+Bioinformation Technology, Shanghai, 201203, P. R. China.
+
+Over the past decades, studies have reported that the combinatorial regulation 
+of transcription factors (TFs) and microRNAs (miRNAs) is essential for the 
+appropriate execution of biological events and developmental processes. 
+Dysregulations of these regulators often cause diseases. However, there are no 
+available resources on the regulatory cascades of TFs and miRNAs in the context 
+of human diseases. To fulfill this vacancy, we established the TMREC database in 
+this study. First, we integrated curated transcriptional and 
+post-transcriptional regulations to construct the TF and miRNA regulatory 
+network. Next, we identified all linear paths using the Breadth First Search 
+traversal method. Finally, we used known disease-related genes and miRNAs to 
+measure the strength of association between cascades and diseases. Currently, 
+TMREC consists of 74,248 cascades and 25,194 cascade clusters, involving in 412 
+TFs, 266 miRNAs and 545 diseases. With the expanding of experimental support 
+regulation data, we will regularly update the database. TMREC aims to help 
+experimental biologists to comprehensively analyse gene expression regulation, 
+to understand the aetiology and to predict novel therapeutic targets. TMREC is 
+freely available at http://bioinfo.hrbmu.edu.cn/TMREC/.
+
+DOI: 10.1371/journal.pone.0125222
+PMCID: PMC4416930
+PMID: 25932650 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

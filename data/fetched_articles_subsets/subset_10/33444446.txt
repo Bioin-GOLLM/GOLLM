@@ -1,0 +1,51 @@
+1. Nucleic Acids Res. 2021 Feb 22;49(3):1470-1484. doi: 10.1093/nar/gkaa1289.
+
+Loss of Mediator complex subunit 13 (MED13) promotes resistance to alkylation 
+through cyclin D1 upregulation.
+
+Roliński M(1), Montaldo NP(1), Aksu ME(1), Fordyce Martin SL(1), Brambilla A(1), 
+Kunath N(1), Johansen J(2), Erlandsen SE(3), Liabbak NB(1), Rian K(1), Bjørås 
+M(1)(4), Sætrom P(1)(2)(5)(6), van Loon B(1).
+
+Author information:
+(1)Department of Clinical and Molecular Medicine, Norwegian University of 
+Science and Technology, 7049 Trondheim, Norway.
+(2)Bioinformatics core facility - BioCore; Norwegian University of Science and 
+Technology (NTNU), 7491 Trondheim, Norway.
+(3)Genomics core facility, Norwegian University of Science and Technology 
+(NTNU), 7491 Trondheim, Norway.
+(4)Department of Microbiology, Oslo University Hospital, 0027 Oslo, Norway; 
+Department of Medical Biochemistry, Oslo University Hospital and University of 
+Oslo, 0372 Oslo, Norway.
+(5)K.G. Jebsen Center for Genetic Epidemiology, Norwegian University of Science 
+and Technology (NTNU), 7491 Trondheim, Norway.
+(6)Department of Computer Science, Faculty of Information Technology and 
+Electrical Engineering, Norwegian University of Science and Technology (NTNU), 
+7491 Trondheim, Norway.
+
+Alkylating drugs are among the most often used chemotherapeutics. While cancer 
+cells frequently develop resistance to alkylation treatments, detailed 
+understanding of mechanisms that lead to the resistance is limited. Here, by 
+using genome-wide CRISPR-Cas9 based screen, we identify transcriptional Mediator 
+complex subunit 13 (MED13) as a novel modulator of alkylation response. The 
+alkylation exposure causes significant MED13 downregulation, while complete loss 
+of MED13 results in reduced apoptosis and resistance to alkylating agents. 
+Transcriptome analysis identified cyclin D1 (CCND1) as one of the highly 
+overexpressed genes in MED13 knock-out (KO) cells, characterized by shorter G1 
+phase. MED13 is able to bind to CCND1 regulatory elements thus influencing the 
+expression. The resistance of MED13 KO cells is directly dependent on the cyclin 
+D1 overexpression, and its down-regulation is sufficient to re-sensitize the 
+cells to alkylating agents. We further demonstrate the therapeutic potential of 
+MED13-mediated response, by applying combinatory treatment with CDK8/19 
+inhibitor Senexin A. Importantly, the treatment with Senexin A stabilizes MED13, 
+and in combination with alkylating agents significantly reduces viability of 
+cancer cells. In summary, our findings identify novel alkylation stress response 
+mechanism dependent on MED13 and cyclin D1 that can serve as basis for 
+development of innovative therapeutic strategies.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkaa1289
+PMCID: PMC7897519
+PMID: 33444446 [Indexed for MEDLINE]

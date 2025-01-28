@@ -1,0 +1,37 @@
+1. Metabolites. 2021 Jan 9;11(1):44. doi: 10.3390/metabo11010044.
+
+Comprehensive Meta-Analysis of COVID-19 Global Metabolomics Datasets.
+
+Pang Z(1), Zhou G(1), Chong J(1), Xia J(1)(2).
+
+Author information:
+(1)Institute of Parasitology, McGill University, 21111 Lakeshore Road, Ste Anne 
+de Bellevue, QC H9X 3V9, Canada.
+(2)Department of Animal Science, McGill University, 21111 Lakeshore Road, Ste 
+Anne de Bellevue, QC H9X 3V9, Canada.
+
+The novel coronavirus SARS-CoV-2 has spread across the world since 2019, causing 
+a global pandemic. The pathogenesis of the viral infection and the associated 
+clinical presentations depend primarily on host factors such as age and 
+immunity, rather than the viral load or its genetic variations. A growing number 
+of omics studies have been conducted to characterize the host immune and 
+metabolic responses underlying the disease progression. Meta-analyses of these 
+datasets have great potential to identify robust molecular signatures to inform 
+clinical care and to facilitate therapeutics development. In this study, we 
+performed a comprehensive meta-analysis of publicly available global 
+metabolomics datasets obtained from three countries (United States, China and 
+Brazil). To overcome high heterogeneity inherent in these datasets, we have (a) 
+implemented a computational pipeline to perform consistent raw spectra 
+processing; (b) conducted meta-analyses at pathway levels instead of individual 
+feature levels; and (c) performed visual data mining on consistent patterns of 
+change between disease severities for individual studies. Our analyses have 
+yielded several key metabolic signatures characterizing disease progression and 
+clinical outcomes. Their biological interpretations were discussed within the 
+context of the current literature. To the best of our knowledge, this is the 
+first comprehensive meta-analysis of global metabolomics datasets of COVID-19.
+
+DOI: 10.3390/metabo11010044
+PMCID: PMC7827862
+PMID: 33435351
+
+Conflict of interest statement: The authors declare no conflict of interest.

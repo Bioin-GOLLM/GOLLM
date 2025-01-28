@@ -1,0 +1,41 @@
+1. Ann Appl Stat. 2018 Sep;12(3):1871-1893. doi: 10.1214/18-AOAS1135. Epub 2018
+Sep  11.
+
+FUNCTIONAL PRINCIPAL VARIANCE COMPONENT TESTING FOR A GENETIC ASSOCIATION STUDY 
+OF HIV PROGRESSION.
+
+Agniel D(1), Xie W(2), Essex M(2), Cai T(3).
+
+Author information:
+(1)RAND Corporation, 1776 Main St., Santa Monica, California 90401, USA.
+(2)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School 
+of Public Health, 655 Huntington Ave, Boston, Massachusetts 02115, USA.
+(3)Department of Biostatistics, Harvard T. H. Chan School of Public Health, 655 
+Huntington Ave, Boston, Massachusetts 02115, USA.
+
+HIV-1C is the most prevalent subtype of HIV-1 and accounts for over half of 
+HIV-1 infections worldwide. Host genetic influence of HIV infection has been 
+previously studied in HIV-1B, but little attention has been paid to the more 
+prevalent subtype C. To understand the role of host genetics in HIV-1C disease 
+progression, we perform a study to assess the association between longitudinally 
+collected measures of disease and more than 100,000 genetic markers located on 
+chromosome 6. The most common approach to analyzing longitudinal data in this 
+context is linear mixed effects models, which may be overly simplistic in this 
+case. On the other hand, existing flexible and nonparametric methods either 
+require densely sampled points, restrict attention to a single SNP, lack testing 
+procedures, or are cumbersome to fit on the genome-wide scale. We propose a 
+functional principal variance component (FPVC) testing framework which captures 
+the nonlinearity in the CD4 and viral load with low degrees of freedom and is 
+fast enough to carry out thousands or millions of times. The FPVC testing 
+unfolds in two stages. In the first stage, we summarize the markers of disease 
+progression according to their major patterns of variation via functional 
+principal components analysis (FPCA). In the second stage, we employ a simple 
+working model and variance component testing to examine the association between 
+the summaries of disease progression and a set of single nucleotide 
+polymorphisms. We supplement this analysis with simulation results which 
+indicate that FPVC testing can offer large power gains over the standard linear 
+mixed effects model.
+
+DOI: 10.1214/18-AOAS1135
+PMCID: PMC7111467
+PMID: 32256927

@@ -1,0 +1,38 @@
+1. Biometrics. 2011 Dec;67(4):1422-33. doi: 10.1111/j.1541-0420.2011.01572.x.
+Epub  2011 Mar 8.
+
+Reinforcement learning strategies for clinical trials in nonsmall cell lung 
+cancer.
+
+Zhao Y(1), Zeng D, Socinski MA, Kosorok MR.
+
+Author information:
+(1)Global Biostatistics and Epidemiology, Amgen Inc., One Amgen Center Drive, 
+Thousand Oaks, California 91320, USA.
+
+Typical regimens for advanced metastatic stage IIIB/IV nonsmall cell lung cancer 
+(NSCLC) consist of multiple lines of treatment. We present an adaptive 
+reinforcement learning approach to discover optimal individualized treatment 
+regimens from a specially designed clinical trial (a "clinical reinforcement 
+trial") of an experimental treatment for patients with advanced NSCLC who have 
+not been treated previously with systemic therapy. In addition to the complexity 
+of the problem of selecting optimal compounds for first- and second-line 
+treatments based on prognostic factors, another primary goal is to determine the 
+optimal time to initiate second-line therapy, either immediately or delayed 
+after induction therapy, yielding the longest overall survival time. A 
+reinforcement learning method called Q-learning is utilized, which involves 
+learning an optimal regimen from patient data generated from the clinical 
+reinforcement trial. Approximating the Q-function with time-indexed parameters 
+can be achieved by using a modification of support vector regression that can 
+utilize censored data. Within this framework, a simulation study shows that the 
+procedure can extract optimal regimens for two lines of treatment directly from 
+clinical data without prior knowledge of the treatment effect mechanism. In 
+addition, we demonstrate that the design reliably selects the best initial time 
+for second-line therapy while taking into account the heterogeneity of NSCLC 
+across patients.
+
+© 2011, The International Biometric Society.
+
+DOI: 10.1111/j.1541-0420.2011.01572.x
+PMCID: PMC3138840
+PMID: 21385164 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+1. ScientificWorldJournal. 2014;2014:957107. doi: 10.1155/2014/957107. Epub 2014 
+Nov 25.
+
+Cheminformatics models for inhibitors of Schistosoma mansoni thioredoxin 
+glutathione reductase.
+
+Gaba S(1), Jamal S(2), Open Source Drug Discovery Consortium(2), Scaria V(1).
+
+Author information:
+(1)GN Ramachandran Knowledge Center for Genome Informatics, CSIR Institute of 
+Genomics and Integrative Biology, Mall Road, Delhi 110007, India.
+(2)CSIR Open Source Drug Discovery Unit, Anusandhan Bhawan, 2 Rafi Marg, Delhi 
+110001, India.
+
+Schistosomiasis is a neglected tropical disease caused by a parasite Schistosoma 
+mansoni and affects over 200 million annually. There is an urgent need to 
+discover novel therapeutic options to control the disease with the recent 
+emergence of drug resistance. The multifunctional protein, thioredoxin 
+glutathione reductase (TGR), an essential enzyme for the survival of the 
+pathogen in the redox environment has been actively explored as a potential drug 
+target. The recent availability of small-molecule screening datasets against 
+this target provides a unique opportunity to learn molecular properties and 
+apply computational models for discovery of activities in large molecular 
+libraries. Such a prioritisation approach could have the potential to reduce the 
+cost of failures in lead discovery. A supervised learning approach was employed 
+to develop a cost sensitive classification model to evaluate the biological 
+activity of the molecules. Random forest was identified to be the best 
+classifier among all the classifiers with an accuracy of around 80 percent. 
+Independent analysis using a maximally occurring substructure analysis revealed 
+10 highly enriched scaffolds in the actives dataset and their docking against 
+was also performed. We show that a combined approach of machine learning and 
+other cheminformatics approaches such as substructure comparison and molecular 
+docking is efficient to prioritise molecules from large molecular datasets.
+
+DOI: 10.1155/2014/957107
+PMCID: PMC4275605
+PMID: 25629082 [Indexed for MEDLINE]

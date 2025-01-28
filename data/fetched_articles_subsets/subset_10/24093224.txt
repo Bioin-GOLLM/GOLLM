@@ -1,0 +1,57 @@
+1. BMC Genomics. 2013 Oct 6;14:687. doi: 10.1186/1471-2164-14-687.
+
+Genome-wide transcriptional analysis of two soybean genotypes under dehydration 
+and rehydration conditions.
+
+Chen LM(1), Zhou XA, Li WB, Chang W, Zhou R, Wang C, Sha AH, Shan ZH, Zhang CJ, 
+Qiu DZ, Yang ZL, Chen SL.
+
+Author information:
+(1)Oil Crops Research Institute of Chinese Academy of Agriculture Sciences, 
+Wuhan 430062, China. zhouocri@sina.com.
+
+BACKGROUND: Soybean is an important crop that provides valuable proteins and 
+oils for human use. Because soybean growth and development is extremely 
+sensitive to water deficit, quality and crop yields are severely impacted by 
+drought stress. In the face of limited water resources, drought-responsive genes 
+are therefore of interest. Identification and analysis of dehydration- and 
+rehydration-inducible differentially expressed genes (DEGs) would not only aid 
+elucidation of molecular mechanisms of stress response, but also enable 
+improvement of crop stress tolerance via gene transfer. Using Digital Gene 
+Expression Tag profiling (DGE), a new technique based on Illumina sequencing, we 
+analyzed expression profiles between two soybean genotypes to identify 
+drought-responsive genes.
+RESULTS: Two soybean genotypes - drought-tolerant Jindou21 and drought-sensitive 
+Zhongdou33 - were subjected to dehydration and rehydration conditions. For 
+analysis of DEGs under dehydration conditions, 20 cDNA libraries were generated 
+from roots and leaves at two different time points under well-watered and 
+dehydration conditions. We also generated eight libraries for analysis under 
+rehydration conditions. Sequencing of the 28 libraries produced 25,000-33,000 
+unambiguous tags, which were mapped to reference sequences for annotation of 
+expressed genes. Many genes exhibited significant expression differences among 
+the libraries. DEGs in the drought-tolerant genotype were identified by 
+comparison of DEGs among treatments and genotypes. In Jindou21, 518 and 614 
+genes were differentially expressed under dehydration in leaves and roots, 
+respectively, with 24 identified both in leaves and roots. The main functional 
+categories enriched in these DEGs were metabolic process, response to stresses, 
+plant hormone signal transduction, protein processing, and plant-pathogen 
+interaction pathway; the associated genes primarily encoded transcription 
+factors, protein kinases, and other regulatory proteins. The seven most 
+significantly expressed (|log2 ratio| ≥ 8) genes - Glyma15g03920, Glyma05g02470, 
+Glyma15g15010, Glyma05g09070, Glyma06g35630, Glyma08g12590, and Glyma11g16000 - 
+are more likely to determine drought stress tolerance. The expression patterns 
+of eight randomly-selected genes were confirmed by quantitative RT-PCR; the 
+results of QRT-PCR analysis agreed with transcriptional profile data for 96 out 
+of 128 (75%) data points.
+CONCLUSIONS: Many soybean genes were differentially expressed between 
+drought-tolerant and drought-sensitive genotypes. Based on GO functional 
+annotation and pathway enrichment analysis, some of these genes encoded 
+transcription factors, protein kinases, and other regulatory proteins. The seven 
+most significant DEGs are candidates for improving soybean drought tolerance. 
+These findings will be helpful for analysis and elucidation of molecular 
+mechanisms of drought tolerance; they also provide a basis for cultivating new 
+varieties of drought-tolerant soybean.
+
+DOI: 10.1186/1471-2164-14-687
+PMCID: PMC3827939
+PMID: 24093224 [Indexed for MEDLINE]

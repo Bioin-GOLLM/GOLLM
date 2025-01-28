@@ -1,0 +1,45 @@
+1. Transl Cancer Res. 2020 Aug;9(8):4550-4562. doi: 10.21037/tcr-19-2873.
+
+Identification of hub genes correlated with the pathogenesis and prognosis in 
+Pancreatic adenocarcinoma on bioinformatics methods.
+
+Shi LE(1), Shang X(1), Nie KC(1), Lin ZQ(1), Wang M(1), Huang YY(1), Zhu ZZ(1).
+
+Author information:
+(1)Department of Endocrinology, The First Affiliated Hospital of Guangzhou 
+University of Chinese Medicine, Guangzhou, China.
+
+BACKGROUND: Pancreatic adenocarcinoma (PC), is a type of digestive tract cancer 
+with the highest mortality all over the word, and its exact pathogenesis is not 
+clear. Therefore, it is of great significance to search for genes related to PC 
+and elucidate its molecular mechanism.
+METHODS: We integrated and analyzed 8 microarray datasets from the Gene 
+Expression Comprehensive Database (GEO) and PC patient information from the 
+Cancer Genome Atlas (TCGA) database to identified differentially expressed genes 
+(DEGs) based on standardized annotation information. The overlapped DEGs both in 
+the GEO and TCGA datasets were identified as key genes. Kaplan-Meier 
+comprehensive expression scoring method was conducted to determine whether the 
+key genes are related to the survival rate of PC. The expression of those key 
+genes was analyzed by GEPIA and UALCAN. Lastly, Cox regression model was used to 
+construct a gene prognosis signature.
+RESULTS: The TSPAN1 gene was identified that might be highly related to the 
+pathogenesis of PC. Further analysis showed high expression of TSPAN1 was 
+closely related to the stage 2, moderately differentiated (intermediate grade), 
+and poorly differentiated (high grade) of PC. Finally, we build a four-gene 
+prognosis signature (AIM2, B3GNT3, MATK and BEND4), which can be applied to 
+predict overall survival (OS) effectively.
+CONCLUSIONS: We revealed promising genes that may participate in the 
+pathophysiology of PC, and found available biomarkers for PC prognosis 
+prediction, which were significant for researchers to further understand the 
+molecular basis of PC and direct the synthesis medicine of PC.
+
+2020 Translational Cancer Research. All rights reserved.
+
+DOI: 10.21037/tcr-19-2873
+PMCID: PMC8799009
+PMID: 35117820
+
+Conflict of interest statement: Conflicts of Interest: All authors have 
+completed the ICMJE uniform disclosure form (available at 
+http://dx.doi.org/10.21037/tcr-19-2873). The authors have no conflicts of 
+interest to declare.

@@ -1,0 +1,35 @@
+1. Spectrochim Acta A Mol Biomol Spectrosc. 2009 Jul;73(1):106-11. doi: 
+10.1016/j.saa.2009.01.028. Epub 2009 Feb 6.
+
+Typing SNP based on the near-infrared spectroscopy and artificial neural 
+network.
+
+Ren L(1), Wang WP, Gao YZ, Yu XW, Xie HP.
+
+Author information:
+(1)College of Pharmaceutical Sciences, Department of Forensic Medicine, Medical 
+School, Soochow University, Suzhou 215123, PR China.
+
+Based on the near-infrared spectra (NIRS) of the measured samples as the 
+discriminant variables of their genotypes, the genotype discriminant model of 
+SNP has been established by using back-propagation artificial neural network 
+(BP-ANN). Taking a SNP (857G>A) of N-acetyltransferase 2 (NAT2) as an example, 
+DNA fragments containing the SNP site were amplified by the PCR method based on 
+a pair of primers to obtain the three-genotype (GG, AA, and GA) modeling 
+samples. The NIRS-s of the amplified samples were directly measured in 
+transmission by using quartz cell. Based on the sample spectra measured, the two 
+BP-ANN-s were combined to obtain the stronger ability of the three-genotype 
+classification. One of them was established to compress the measured NIRS 
+variables by using the resilient back-propagation algorithm, and another network 
+established by Levenberg-Marquardt algorithm according to the compressed NIRS-s 
+was used as the discriminant model of the three-genotype classification. For the 
+established model, the root mean square error for the training and the 
+prediction sample sets were 0.0135 and 0.0132, respectively. Certainly, this 
+model could rightly predict the three genotypes (i.e. the accuracy of prediction 
+samples was up to 100%) and had a good robust for the prediction of unknown 
+samples. Since the three genotypes of SNP could be directly determined by using 
+the NIRS-s without any preprocessing for the analyzed samples after PCR, this 
+method is simple, rapid and low-cost.
+
+DOI: 10.1016/j.saa.2009.01.028
+PMID: 19264539 [Indexed for MEDLINE]

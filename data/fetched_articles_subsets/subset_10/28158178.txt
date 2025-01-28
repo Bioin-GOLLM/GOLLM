@@ -1,0 +1,54 @@
+1. PLoS Comput Biol. 2017 Feb 3;13(2):e1005285. doi:
+10.1371/journal.pcbi.1005285.  eCollection 2017 Feb.
+
+Dynamic Maternal Gradients Control Timing and Shift-Rates for Drosophila Gap 
+Gene Expression.
+
+Verd B(1)(2)(3), Crombach A(1)(2)(4), Jaeger J(1)(2)(3)(5).
+
+Author information:
+(1)EMBL/CRG Systems Biology Research Unit, Centre for Genomic Regulation (CRG), 
+The Barcelona Institute of Science and Technology, Barcelona, Spain.
+(2)Universitat Pompeu Fabra (UPF), Barcelona, Spain.
+(3)KLI Klosterneuburg, Klosterneuburg, Austria.
+(4)Center for Interdisciplinary Research in Biology (CIRB), Collège de France, 
+CNRS, INSERM, PSL Research University, Paris, France.
+(5)Wissenschaftskolleg zu Berlin, Berlin, Germany.
+
+Erratum in
+    PLoS Comput Biol. 2017 Dec 22;13(12):e1005918. doi: 
+10.1371/journal.pcbi.1005918.
+
+Pattern formation during development is a highly dynamic process. In spite of 
+this, few experimental and modelling approaches take into account the explicit 
+time-dependence of the rules governing regulatory systems. We address this 
+problem by studying dynamic morphogen interpretation by the gap gene network in 
+Drosophila melanogaster. Gap genes are involved in segment determination during 
+early embryogenesis. They are activated by maternal morphogen gradients encoded 
+by bicoid (bcd) and caudal (cad). These gradients decay at the same time-scale 
+as the establishment of the antero-posterior gap gene pattern. We use a 
+reverse-engineering approach, based on data-driven regulatory models called gene 
+circuits, to isolate and characterise the explicitly time-dependent effects of 
+changing morphogen concentrations on gap gene regulation. To achieve this, we 
+simulate the system in the presence and absence of dynamic gradient decay. 
+Comparison between these simulations reveals that maternal morphogen decay 
+controls the timing and limits the rate of gap gene expression. In the anterior 
+of the embyro, it affects peak expression and leads to the establishment of 
+smooth spatial boundaries between gap domains. In the posterior of the embryo, 
+it causes a progressive slow-down in the rate of gap domain shifts, which is 
+necessary to correctly position domain boundaries and to stabilise the spatial 
+gap gene expression pattern. We use a newly developed method for the analysis of 
+transient dynamics in non-autonomous (time-variable) systems to understand the 
+regulatory causes of these effects. By providing a rigorous mechanistic 
+explanation for the role of maternal gradient decay in gap gene regulation, our 
+study demonstrates that such analyses are feasible and reveal important aspects 
+of dynamic gene regulation which would have been missed by a traditional 
+steady-state approach. More generally, it highlights the importance of transient 
+dynamics for understanding complex regulatory processes in development.
+
+DOI: 10.1371/journal.pcbi.1005285
+PMCID: PMC5291410
+PMID: 28158178 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

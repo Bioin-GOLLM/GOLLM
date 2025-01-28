@@ -1,0 +1,38 @@
+1. PLoS One. 2017 Jun 26;12(6):e0179677. doi: 10.1371/journal.pone.0179677. 
+eCollection 2017.
+
+Functional annotation of Alzheimer's disease associated loci revealed by GWASs.
+
+Han Z(1), Huang H(1), Gao Y(1), Huang Q(1).
+
+Author information:
+(1)School of Life Sciences, Central China Normal University, Wuhan, China.
+
+Genome-wide association studies (GWASs) discovered a number of SNPs and genes 
+associated with Alzheimer's disease (AD). However, how these SNPs and genes 
+influence the liability to AD is not fully understood. We deployed computational 
+approaches to explore the function and action mechanisms of AD -related SNPs and 
+genes identified by GWASs, including the effects of 195 GWAS lead SNPs and 338 
+proxy SNPs on miRNAs binding and protein phosphorylation, their RegulomeDB and 
+3DSNP scores, and gene ontology, pathway enrichment and protein-protein 
+interaction network of 126 AD-associated genes. Our computational analysis 
+identified 6 lead SNPs (rs10119, rs1048699, rs148763909, rs610932, rs6857 and 
+rs714948) and 2 proxy SNPs (rs12539172 and rs2847655) that potentially impacted 
+the miRNA binding. Lead SNP rs2296160 and proxy SNPs rs679620 and rs2228145 were 
+identified as PhosSNPs potentially influencing protein phosphorylation. 
+AD-associated genes showed enrichment of "regulation of beta-amyloid formation", 
+"regulation of neurofibrillary tangle assembly", "leukocyte mediated immunity" 
+and "protein-lipid complex assembly" signaling pathway. Protein-protein 
+interaction network and functional module analyses identified 
+highly-interconnected "hub" genes (APOE, PICALM, BIN1, ABCA7, CD2AP, CLU, CR1, 
+MS4A4E and MS4A6A) and bottleneck genes (APOE, TOMM40, NME8, PICALM, CD2AP, 
+ZCWPW1, FAM180B, GAB2 and PTK2B) that created three tight subnetworks. Our 
+results provided the targets for further experimental assessment and further 
+insight on AD pathophysiology.
+
+DOI: 10.1371/journal.pone.0179677
+PMCID: PMC5484478
+PMID: 28650998 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

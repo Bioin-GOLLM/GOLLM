@@ -1,0 +1,35 @@
+1. Materials (Basel). 2022 Apr 28;15(9):3184. doi: 10.3390/ma15093184.
+
+Influence of the Tool Cutting Edge Helix Angle on the Surface Roughness after 
+Finish Milling of Magnesium Alloys.
+
+Zagórski I(1), Szczepaniak A(1), Kulisz M(2), Korpysa J(1).
+
+Author information:
+(1)Department of Production Engineering, Mechanical Engineering Faculty, Lublin 
+University of Technology, 20-618 Lublin, Poland.
+(2)Department of Organisation of Enterprise, Management Faculty, Lublin 
+University of Technology, 20-618 Lublin, Poland.
+
+This paper shows the surface quality results after finishing milling of AZ91D 
+and AZ31 magnesium alloys. The study was performed for variable technological 
+parameters: cutting speed, feed per tooth, axial depth of cut and radial depth 
+of cut. The tools used in the study were two carbide cutters with a different 
+tool cutting edge helix angle. The measurement of the research results presented 
+the surface roughness parameters was made on the lateral faces and the end faces 
+of the specimens. Statistical analysis and simulations using artificial neural 
+networks were carried out with the Statistica software. The normality of the 
+distribution was examined, and the hypotheses of the equality of mean values and 
+variance were verified. For the AZ91D magnesium alloy on the lateral and the end 
+faces (Ra, Rz parameters), simulations were carried out. Two types of ANN were 
+used: MLP (Multi-layered perceptron) and RBF (Radial Basis Function). To 
+increase the machining stability and to obtain a high surface finish, the more 
+suitable tool for finishing milling is the tool with a helix angle of λs = 20°. 
+Artificial neural networks have been shown to be a good tool for predicting 
+surface roughness parameters of magnesium alloys after finishing milling.
+
+DOI: 10.3390/ma15093184
+PMCID: PMC9100010
+PMID: 35591519
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,37 @@
+1. Mol Biol Evol. 2013 May;30(5):1172-87. doi: 10.1093/molbev/mst022. Epub 2013
+Feb  7.
+
+The repertoires of ubiquitinating and deubiquitinating enzymes in eukaryotic 
+genomes.
+
+Hutchins AP(1), Liu S, Diez D, Miranda-Saavedra D.
+
+Author information:
+(1)Bioinformatics and Genomics Laboratory, World Premier International 
+Immunology Frontier Research Center, Osaka University, Osaka, Japan.
+
+Reversible protein ubiquitination regulates virtually all known cellular 
+activities. Here, we present a quantitatively evaluated and broadly applicable 
+method to predict eukaryotic ubiquitinating enzymes (UBE) and deubiquitinating 
+enzymes (DUB) and its application to 50 distinct genomes belonging to four of 
+the five major phylogenetic supergroups of eukaryotes: unikonts (including 
+metazoans, fungi, choanozoa, and amoebozoa), excavates, chromalveolates, and 
+plants. Our method relies on a collection of profile hidden Markov models, and 
+we demonstrate its superior performance (coverage and classification accuracy 
+>99%) by identifying approximately 25% and approximately 35% additional UBE and 
+DUB genes in yeast and human, which had not been reported before. In yeast, we 
+predict 85 UBE and 24 DUB genes, for 814 UBE and 107 DUB genes in the human 
+genome. Most UBE and DUB families are present in all eukaryotic lineages, with 
+plants and animals harboring massively enlarged repertoires of ubiquitin 
+ligases. Unicellular organisms, on the other hand, typically harbor less than 
+300 UBEs and less than 40 DUBs per genome. Ninety-one UBE/DUB genes are 
+orthologous across all four eukaryotic supergroups, and these likely represent a 
+primordial core of enzymes of the ubiquitination system probably dating back to 
+the first eukaryotes approximately 2 billion years ago. Our genome-wide 
+predictions are available through the Database of Ubiquitinating and 
+Deubiquitinating Enzymes (www.DUDE-db.org), where users can also perform 
+advanced sequence and phylogenetic analyses and submit their own predictions.
+
+DOI: 10.1093/molbev/mst022
+PMCID: PMC3670738
+PMID: 23393154 [Indexed for MEDLINE]

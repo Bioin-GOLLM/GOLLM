@@ -1,0 +1,42 @@
+1. Pharmaceutics. 2020 Oct 31;12(11):1045. doi: 10.3390/pharmaceutics12111045.
+
+CancerGram: An Effective Classifier for Differentiating Anticancer from 
+Antimicrobial Peptides.
+
+Burdukiewicz M(1)(2), Sidorczuk K(3), Rafacz D(2)(4), Pietluch F(3), Bąkała 
+M(4), Słowik J(4), Gagat P(3).
+
+Author information:
+(1)Faculty of Natural Sciences, Brandenburg University of Technology 
+Cottbus-Senftenberg, 01968 Senftenberg, Germany.
+(2)Why R? Foundation, 03-214 Warsaw, Poland.
+(3)Department of Bioinformatics and Genomics, Faculty of Biotechnology, 
+University of Wrocław, 50-383 Wrocław, Poland.
+(4)Faculty of Mathematics and Information Science, Warsaw University of 
+Technology, 00-662 Warsaw, Poland.
+
+Antimicrobial peptides (AMPs) constitute a diverse group of bioactive molecules 
+that provide multicellular organisms with protection against microorganisms, and 
+microorganisms with weaponry for competition. Some AMPs can target cancer cells; 
+thus, they are called anticancer peptides (ACPs). Due to their small size, 
+positive charge, hydrophobicity and amphipathicity, AMPs and ACPs interact with 
+negatively charged components of biological membranes. AMPs preferentially 
+permeabilize microbial membranes, but ACPs additionally target mitochondrial and 
+plasma membranes of cancer cells. The preference towards mitochondrial membranes 
+is explained by their membrane potential, membrane composition resulting from 
+α-proteobacterial origin and the fact that mitochondrial targeting signals could 
+have evolved from AMPs. Taking into account the therapeutic potential of ACPs 
+and millions of deaths due to cancer annually, it is of vital importance to find 
+new cationic peptides that selectively destroy cancer cells. Therefore, to 
+reduce the costs of experimental research, we have created a robust 
+computational tool, CancerGram, that uses n-grams and random forests for 
+predicting ACPs. Compared to other ACP classifiers, CancerGram is the first 
+three-class model that effectively classifies peptides into: ACPs, AMPs and 
+non-ACPs/non-AMPs, with AU1U amounting to 0.89 and a Kappa statistic of 0.65. 
+CancerGram is available as a web server and R package on GitHub.
+
+DOI: 10.3390/pharmaceutics12111045
+PMCID: PMC7692641
+PMID: 33142753
+
+Conflict of interest statement: The authors declare no conflict of interest.

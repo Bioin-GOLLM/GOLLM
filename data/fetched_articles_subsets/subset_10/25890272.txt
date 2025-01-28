@@ -1,0 +1,50 @@
+1. Microb Cell Fact. 2015 Mar 7;14:29. doi: 10.1186/s12934-015-0211-y.
+
+Metabolic engineering of Escherichia coli for enhanced arginine biosynthesis.
+
+Ginesy M(1), Belotserkovsky J(2), Enman J(3), Isaksson L(4), Rova U(5).
+
+Author information:
+(1)Biochemical Process Engineering, Division of Chemical Engineering, Department 
+of Civil, Environmental and Natural Resources Engineering, Luleå University of 
+Technology, SE-971 87, Luleå, Sweden. mireille.ginesy@ltu.se.
+(2)Department of Molecular Biosciences Wenner-Gren institute, Stockholm 
+University, SE-106 91, Stockholm, Sweden. jaroslav.belotserkovsky@su.se.
+(3)Biochemical Process Engineering, Division of Chemical Engineering, Department 
+of Civil, Environmental and Natural Resources Engineering, Luleå University of 
+Technology, SE-971 87, Luleå, Sweden. josefine.enman@ltu.se.
+(4)Department of Molecular Biosciences Wenner-Gren institute, Stockholm 
+University, SE-106 91, Stockholm, Sweden. leif.isaksson@su.se.
+(5)Biochemical Process Engineering, Division of Chemical Engineering, Department 
+of Civil, Environmental and Natural Resources Engineering, Luleå University of 
+Technology, SE-971 87, Luleå, Sweden. ulrika.rova@ltu.se.
+
+BACKGROUND: Arginine is a high-value product, especially for the pharmaceutical 
+industry. Growing demand for environmental-friendly and traceable products have 
+stressed the need for microbial production of this amino acid. Therefore, the 
+aim of this study was to improve arginine production in Escherichia coli by 
+metabolic engineering and to establish a fermentation process in 1-L bioreactor 
+scale to evaluate the different mutants.
+RESULTS: Firstly, argR (encoding an arginine responsive repressor protein), 
+speC, speF (encoding ornithine decarboxylases) and adiA (encoding an arginine 
+decarboxylase) were knocked out and the feedback-resistant argA214 or argA215 
+were introduced into the strain. Three glutamate independent mutants were 
+assessed in bioreactors. Unlike the parent strain, which did not excrete any 
+arginine during glucose fermentation, the constructs produced between 1.94 and 
+3.03 g/L arginine. Next, wild type argA was deleted and the gene copy number of 
+argA214 was raised, resulting in a slight increase in arginine production 
+(4.11 g/L) but causing most of the carbon flow to be redirected toward acetate. 
+The V216A mutation in argP (transcriptional regulator of argO, which encodes for 
+an arginine exporter) was identified as a potential candidate for improved 
+arginine production. The combination of multicopy of argP216 or argO and argA214 
+led to nearly 2-fold and 3-fold increase in arginine production, respectively, 
+and a reduction of acetate formation.
+CONCLUSIONS: In this study, E. coli was successfully engineered for enhanced 
+arginine production. The ∆adiA, ∆speC, ∆speF, ∆argR, ∆argA mutant with high gene 
+copy number of argA214 and argO produced 11.64 g/L of arginine in batch 
+fermentation, thereby demonstrating the potential of E. coli as an industrial 
+producer of arginine.
+
+DOI: 10.1186/s12934-015-0211-y
+PMCID: PMC4358701
+PMID: 25890272 [Indexed for MEDLINE]

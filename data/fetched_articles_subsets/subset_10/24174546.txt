@@ -1,0 +1,33 @@
+1. Nucleic Acids Res. 2014 Feb;42(3):1873-86. doi: 10.1093/nar/gkt973. Epub 2013 
+Oct 29.
+
+The insect-phase gRNA transcriptome in Trypanosoma brucei.
+
+Koslowsky D(1), Sun Y, Hindenach J, Theisen T, Lucas J.
+
+Author information:
+(1)Department of Microbiology and Molecular Genetics, Michigan State University, 
+East Lansing, MI 48824, USA, Department of Computer Science and Engineering, 
+Michigan State University, East Lansing, MI 48824, USA and Department of 
+Biochemistry and Molecular Biology, Michigan State University, East Lansing, MI 
+48824, USA.
+
+One of the most striking examples of small RNA regulation of gene expression is 
+the process of RNA editing in the mitochondria of trypanosomes. In these 
+parasites, RNA editing involves extensive uridylate insertions and deletions 
+within most of the mitochondrial messenger RNAs (mRNAs). Over 1200 small guide 
+RNAs (gRNAs) are predicted to be responsible for directing the sequence changes 
+that create start and stop codons, correct frameshifts and for many of the mRNAs 
+generate most of the open reading frame. In addition, alternative editing 
+creates the opportunity for unprecedented protein diversity. In Trypanosoma 
+brucei, the vast majority of gRNAs are transcribed from minicircles, which are 
+approximately one kilobase in size, and encode between three and four gRNAs. The 
+large number (5000-10,000) and their concatenated structure make them difficult 
+to sequence. To identify the complete set of gRNAs necessary for mRNA editing in 
+T. brucei, we used Illumina deep sequencing of purified gRNAs from the procyclic 
+stage. We report a near complete set of gRNAs needed to direct the editing of 
+the mRNAs.
+
+DOI: 10.1093/nar/gkt973
+PMCID: PMC3919587
+PMID: 24174546 [Indexed for MEDLINE]

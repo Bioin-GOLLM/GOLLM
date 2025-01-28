@@ -1,0 +1,48 @@
+1. PLoS Comput Biol. 2012;8(12):e1002823. doi: 10.1371/journal.pcbi.1002823. Epub
+ 2012 Dec 27.
+
+Chapter 13: Mining electronic health records in the genomics era.
+
+Denny JC(1).
+
+Author information:
+(1)Department of Biomedical Informatics, Vanderbilt University School of 
+Medicine, Nashville, Tennessee, United States of America. 
+josh.denny@vanderbilt.edu
+
+The combination of improved genomic analysis methods, decreasing genotyping 
+costs, and increasing computing resources has led to an explosion of clinical 
+genomic knowledge in the last decade. Similarly, healthcare systems are 
+increasingly adopting robust electronic health record (EHR) systems that not 
+only can improve health care, but also contain a vast repository of disease and 
+treatment data that could be mined for genomic research. Indeed, institutions 
+are creating EHR-linked DNA biobanks to enable genomic and pharmacogenomic 
+research, using EHR data for phenotypic information. However, EHRs are designed 
+primarily for clinical care, not research, so reuse of clinical EHR data for 
+research purposes can be challenging. Difficulties in use of EHR data include: 
+data availability, missing data, incorrect data, and vast quantities of 
+unstructured narrative text data. Structured information includes billing codes, 
+most laboratory reports, and other variables such as physiologic measurements 
+and demographic information. Significant information, however, remains locked 
+within EHR narrative text documents, including clinical notes and certain 
+categories of test results, such as pathology and radiology reports. For 
+relatively rare observations, combinations of simple free-text searches and 
+billing codes may prove adequate when followed by manual chart review. However, 
+to extract the large cohorts necessary for genome-wide association studies, 
+natural language processing methods to process narrative text data may be 
+needed. Combinations of structured and unstructured textual data can be mined to 
+generate high-validity collections of cases and controls for a given condition. 
+Once high-quality cases and controls are identified, EHR-derived cases can be 
+used for genomic discovery and validation. Since EHR data includes a broad 
+sampling of clinically-relevant phenotypic information, it may enable multiple 
+genomic investigations upon a single set of genotyped individuals. This chapter 
+reviews several examples of phenotype extraction and their application to 
+genetic research, demonstrating a viable future for genomic discovery using 
+EHR-linked data.
+
+DOI: 10.1371/journal.pcbi.1002823
+PMCID: PMC3531280
+PMID: 23300414 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author has declared that no competing 
+interests exist.

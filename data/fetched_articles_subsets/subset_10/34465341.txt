@@ -1,0 +1,58 @@
+1. BMC Med Genomics. 2021 Aug 31;14(1):214. doi: 10.1186/s12920-021-01059-x.
+
+Detecting copy number variation in next generation sequencing data from 
+diagnostic gene panels.
+
+Singh AK(1)(2), Olsen MF(3), Lavik LAS(3), Vold T(3), Drabløs F(4), Sjursen 
+W(3)(4).
+
+Author information:
+(1)Department of Medical Genetics, St. Olavs Hospital, Trondheim, Norway. 
+ashish.kumar.singh3@stolav.no.
+(2)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, NTNU - Norwegian University of Science and Technology, Trondheim, 
+Norway. ashish.kumar.singh3@stolav.no.
+(3)Department of Medical Genetics, St. Olavs Hospital, Trondheim, Norway.
+(4)Department of Clinical and Molecular Medicine, Faculty of Medicine and Health 
+Sciences, NTNU - Norwegian University of Science and Technology, Trondheim, 
+Norway.
+
+BACKGROUND: Detection of copy number variation (CNV) in genes associated with 
+disease is important in genetic diagnostics, and next generation sequencing 
+(NGS) technology provides data that can be used for CNV detection. However, CNV 
+detection based on NGS data is in general not often used in diagnostic labs as 
+the data analysis is challenging, especially with data from targeted gene 
+panels. Wet lab methods like MLPA (MRC Holland) are widely used, but are 
+expensive, time consuming and have gene-specific limitations. Our aim has been 
+to develop a bioinformatic tool for CNV detection from NGS data in medical 
+genetic diagnostic samples.
+RESULTS: Our computational pipeline for detection of CNVs in NGS data from 
+targeted gene panels utilizes coverage depth of the captured regions and 
+calculates a copy number ratio score for each region. This is computed by 
+comparing the mean coverage of the sample with the mean coverage of the same 
+region in other samples, defined as a pool. The pipeline selects pools for 
+comparison dynamically from previously sequenced samples, using the pool with an 
+average coverage depth that is nearest to the one of the samples. A sliding 
+window-based approach is used to analyze each region, where length of sliding 
+window and sliding distance can be chosen dynamically to increase or decrease 
+the resolution. This helps in detecting CNVs in small or partial exons. With 
+this pipeline we have correctly identified the CNVs in 36 positive control 
+samples, with sensitivity of 100% and specificity of 91%. We have detected whole 
+gene level deletion/duplication, single/multi exonic level deletion/duplication, 
+partial exonic deletion and mosaic deletion. Since its implementation in 
+mid-2018 it has proven its diagnostic value with more than 45 CNV findings in 
+routine tests.
+CONCLUSIONS: With this pipeline as part of our diagnostic practices it is now 
+possible to detect partial, single or multi-exonic, and intragenic CNVs in all 
+genes in our target panel. This has helped our diagnostic lab to expand the 
+portfolio of genes where we offer CNV detection, which previously was limited by 
+the availability of MLPA kits.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12920-021-01059-x
+PMCID: PMC8406611
+PMID: 34465341 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

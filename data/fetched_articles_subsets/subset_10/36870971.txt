@@ -1,0 +1,44 @@
+1. BioData Min. 2023 Mar 4;16(1):7. doi: 10.1186/s13040-023-00325-1.
+
+Signature literature review reveals AHCY, DPYSL3, and NME1 as the most recurrent 
+prognostic genes for neuroblastoma.
+
+Chicco D(1), Sanavia T(2), Jurman G(3).
+
+Author information:
+(1)Institute of Health Policy Management and Evaluation, University of Toronto, 
+155 College Street, M5T 3M7, Toronto, Ontario, Canada. 
+davidechicco@davidechicco.it.
+(2)Dipartimento di Scienze Mediche, Università di Torino, Via Verdi 8, 10124, 
+Turin, Italy.
+(3)Data Science for Health Unit, Fondazione Bruno Kessler, Via Sommarive 18, 
+38123, Povo (Trento), Italy.
+
+Neuroblastoma is a childhood neurological tumor which affects hundreds of 
+thousands of children worldwide, and information about its prognosis can be 
+pivotal for patients, their families, and clinicians. One of the main goals in 
+the related bioinformatics analyses is to provide stable genetic signatures able 
+to include genes whose expression levels can be effective to predict the 
+prognosis of the patients. In this study, we collected the prognostic signatures 
+for neuroblastoma published in the biomedical literature, and noticed that the 
+most frequent genes present among them were three: AHCY, DPYLS3, and NME1. We 
+therefore investigated the prognostic power of these three genes by performing a 
+survival analysis and a binary classification on multiple gene expression 
+datasets of different groups of patients diagnosed with neuroblastoma. Finally, 
+we discussed the main studies in the literature associating these three genes 
+with neuroblastoma. Our results, in each of these three steps of validation, 
+confirm the prognostic capability of AHCY, DPYLS3, and NME1, and highlight their 
+key role in neuroblastoma prognosis. Our results can have an impact on 
+neuroblastoma genetics research: biologists and medical researchers can pay more 
+attention to the regulation and expression of these three genes in patients 
+having neuroblastoma, and therefore can develop better cures and treatments 
+which can save patients' lives.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s13040-023-00325-1
+PMCID: PMC9985261
+PMID: 36870971
+
+Conflict of interest statement: The authors declare they have no conflict of 
+interest.

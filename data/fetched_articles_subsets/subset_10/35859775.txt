@@ -1,0 +1,61 @@
+1. Front Public Health. 2022 Jul 4;10:915363. doi: 10.3389/fpubh.2022.915363. 
+eCollection 2022.
+
+Spike Mutation Profiles Associated With SARS-CoV-2 Breakthrough Infections in 
+Delta Emerging and Predominant Time Periods in British Columbia, Canada.
+
+Fibke CD(1), Joffres Y(2), Tyson JR(3), Colijn C(4), Janjua NZ(2)(5), Fjell 
+C(3), Prystajecky N(3)(6), Jassem A(3)(6), Sbihi H(2)(5).
+
+Author information:
+(1)BC Centre for Disease Control, UBC BCCDC, Vancouver, BC, Canada.
+(2)BC Center for Disease Control, Data and Analytics Services, Vancouver, BC, 
+Canada.
+(3)Public Health Laboratory, BC Center for Disease Control, Vancouver, BC, 
+Canada.
+(4)Department of Mathematics, Simon Fraser University, Burnaby, BC, Canada.
+(5)School of Population and Public Health, The University of British Columbia, 
+Vancouver, BC, Canada.
+(6)Department of Pathology and Laboratory Medicine, The University of British 
+Columbia, Vancouver, BC, Canada.
+
+BACKGROUND: COVID-19 vaccination is a key public health measure in the pandemic 
+response. The rapid evolution of SARS-CoV-2 variants introduce new groups of 
+spike protein mutations. These new mutations are thought to aid in the evasion 
+of vaccine-induced immunity and render vaccines less effective. However, not all 
+spike mutations contribute equally to vaccine escape. Previous studies associate 
+mutations with vaccine breakthrough infections (BTI), but information at the 
+population level remains scarce. We aimed to identify spike mutations associated 
+with SARS-CoV-2 vaccine BTI in a community setting during the emergence and 
+predominance of the Delta-variant.
+METHODS: This case-control study used both genomic, and epidemiological data 
+from a provincial COVID-19 surveillance program. Analyses were stratified into 
+two periods approximating the emergence and predominance of the Delta-variant, 
+and restricted to primary SARS-CoV-2 infections from either unvaccinated 
+individuals, or those infected ≥14 days after their second vaccination dose in a 
+community setting. Each sample's spike mutations were concatenated into a unique 
+spike mutation profile (SMP). Penalized logistic regression was used to identify 
+spike mutations and SMPs associated with SARS-CoV-2 vaccine BTI in both time 
+periods.
+RESULTS AND DISCUSSION: This study reports population level relative risk 
+estimates, between 2 and 4-folds, of spike mutation profiles associated with BTI 
+during the emergence and predominance of the Delta-variant, which comprised 
+19,624 and 17,331 observations, respectively. The identified mutations cover 
+multiple spike domains including the N-terminal domain (NTD), receptor binding 
+domain (RBD), S1/S2 cleavage region, fusion peptide and heptad regions. 
+Mutations in these different regions imply various mechanisms contribute to 
+vaccine escape. Our profiling method identifies naturally occurring spike 
+mutations associated with BTI, and can be applied to emerging SARS-CoV-2 
+variants with novel groups of spike mutations.
+
+Copyright © 2022 Fibke, Joffres, Tyson, Colijn, Janjua, Fjell, Prystajecky, 
+Jassem and Sbihi.
+
+DOI: 10.3389/fpubh.2022.915363
+PMCID: PMC9289444
+PMID: 35859775 [Indexed for MEDLINE]
+
+Conflict of interest statement: NJ participates in Abbvie Advisory Board 
+meeting. The remaining authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could be construed as 
+a potential conflict of interest.

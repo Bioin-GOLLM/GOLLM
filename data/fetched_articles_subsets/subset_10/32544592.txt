@@ -1,0 +1,56 @@
+1. Methods. 2021 Sep;193:80-95. doi: 10.1016/j.ymeth.2020.06.007. Epub 2020 Jun
+13.
+
+Amyloid-β oligomerization monitored by single-molecule stepwise photobleaching.
+
+Dresser L(1), Hunter P(1), Yendybayeva F(2), Hargreaves AL(3), Howard JAL(3), 
+Evans GJO(4), Leake MC(5), Quinn SD(6).
+
+Author information:
+(1)Department of Physics, University of York, Heslington YO10 5DD, UK.
+(2)Department of Biology, University of York, Heslington YO10 5DD, UK.
+(3)Department of Physics, University of York, Heslington YO10 5DD, UK; 
+Department of Biology, University of York, Heslington YO10 5DD, UK.
+(4)Department of Biology, University of York, Heslington YO10 5DD, UK; York 
+Biomedical Research Institute, University of York, Heslington YO10 5DD, UK.
+(5)Department of Physics, University of York, Heslington YO10 5DD, UK; 
+Department of Biology, University of York, Heslington YO10 5DD, UK; York 
+Biomedical Research Institute, University of York, Heslington YO10 5DD, UK.
+(6)Department of Physics, University of York, Heslington YO10 5DD, UK; York 
+Biomedical Research Institute, University of York, Heslington YO10 5DD, UK. 
+Electronic address: steven.quinn@york.ac.uk.
+
+A major hallmark of Alzheimer's disease is the misfolding and aggregation of the 
+amyloid- β peptide (Aβ). While early research pointed towards large fibrillar- 
+and plaque-like aggregates as being the most toxic species, recent evidence now 
+implicates small soluble Aβ oligomers as being orders of magnitude more harmful. 
+Techniques capable of characterizing oligomer stoichiometry and assembly are 
+thus critical for a deeper understanding of the earliest stages of 
+neurodegeneration and for rationally testing next-generation oligomer 
+inhibitors. While the fluorescence response of extrinsic fluorescent probes such 
+as Thioflavin-T have become workhorse tools for characterizing large Aβ 
+aggregates in solution, it is widely accepted that these methods suffer from 
+many important drawbacks, including an insensitivity to oligomeric species. 
+Here, we integrate several biophysics techniques to gain new insight into 
+oligomer formation at the single-molecule level. We showcase single-molecule 
+stepwise photobleaching of fluorescent dye molecules as a powerful method to 
+bypass many of the traditional limitations, and provide a step-by-step guide to 
+implementing the technique in vitro. By collecting fluorescence emission from 
+single Aβ(1-42) peptides labelled at the N-terminal position with HiLyte Fluor 
+555 via wide-field total internal reflection fluorescence (TIRF) imaging, we 
+demonstrate how to characterize the number of peptides per single immobile 
+oligomer and reveal heterogeneity within sample populations. Importantly, 
+fluorescence emerging from Aβ oligomers cannot be easily investigated using 
+diffraction-limited optical microscopy tools. To assay oligomer activity, we 
+also demonstrate the implementation of another biophysical method involving the 
+ratiometric imaging of Fura-2-AM loaded cells which quantifies the rate of 
+oligomer-induced dysregulation of intracellular Ca2+ homeostasis. We anticipate 
+that the integrated single-molecule biophysics approaches highlighted here will 
+develop further and in principle may be extended to the investigation of other 
+protein aggregation systems under controlled experimental conditions.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymeth.2020.06.007
+PMCID: PMC8336786
+PMID: 32544592 [Indexed for MEDLINE]

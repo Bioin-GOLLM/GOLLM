@@ -1,0 +1,41 @@
+1. Entropy (Basel). 2021 May 13;23(5):601. doi: 10.3390/e23050601.
+
+Information Structures for Causally Explainable Decisions.
+
+Cox LA Jr(1).
+
+Author information:
+(1)Department of Business Analytics, University of Colorado School of Business, 
+and MoirAI, 503 N. Franklin Street, Denver, CO 80218, USA.
+
+For an AI agent to make trustworthy decision recommendations under uncertainty 
+on behalf of human principals, it should be able to explain why its recommended 
+decisions make preferred outcomes more likely and what risks they entail. Such 
+rationales use causal models to link potential courses of action to resulting 
+outcome probabilities. They reflect an understanding of possible actions, 
+preferred outcomes, the effects of action on outcome probabilities, and 
+acceptable risks and trade-offs-the standard ingredients of normative theories 
+of decision-making under uncertainty, such as expected utility theory. Competent 
+AI advisory systems should also notice changes that might affect a user's plans 
+and goals. In response, they should apply both learned patterns for quick 
+response (analogous to fast, intuitive "System 1" decision-making in human 
+psychology) and also slower causal inference and simulation, decision 
+optimization, and planning algorithms (analogous to deliberative "System 2" 
+decision-making in human psychology) to decide how best to respond to changing 
+conditions. Concepts of conditional independence, conditional probability tables 
+(CPTs) or models, causality, heuristic search for optimal plans, uncertainty 
+reduction, and value of information (VoI) provide a rich, principled framework 
+for recognizing and responding to relevant changes and features of decision 
+problems via both learned and calculated responses. This paper reviews how these 
+and related concepts can be used to identify probabilistic causal dependencies 
+among variables, detect changes that matter for achieving goals, represent them 
+efficiently to support responses on multiple time scales, and evaluate and 
+update causal models and plans in light of new data. The resulting causally 
+explainable decisions make efficient use of available information to achieve 
+goals in uncertain environments.
+
+DOI: 10.3390/e23050601
+PMCID: PMC8153020
+PMID: 34068183
+
+Conflict of interest statement: The authors declare no conflict of interest.

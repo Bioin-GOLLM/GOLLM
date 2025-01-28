@@ -1,0 +1,38 @@
+1. Front Med (Lausanne). 2022 May 23;9:906001. doi: 10.3389/fmed.2022.906001. 
+eCollection 2022.
+
+Construction and Analysis of a Joint Diagnosis Model of Random Forest and 
+Artificial Neural Network for Obesity.
+
+Yu J(1), Xie X(1), Zhang Y(1), Jiang F(2), Wu C(1).
+
+Author information:
+(1)Department of Rehabilitation Medicine, The First Affiliated Hospital of 
+Nanjing Medical University, Nanjing, China.
+(2)Department of Neonatology, Obstetrics and Gynecology Hospital of Fudan 
+University, Shanghai, China.
+
+Obesity is a significant global health concern since it is connected to a higher 
+risk of several chronic diseases. As a consequence, obesity may be described as 
+a condition that reduces human life expectancy and significantly impacts life 
+quality. Because traditional obesity diagnosis procedures have several flaws, it 
+is vital to design new diagnostic models to enhance current methods. More 
+obesity-related markers have been discovered in recent years as a result of 
+improvements and enhancements in gene sequencing technology. Using current gene 
+expression profiles from the Gene Expression Omnibus (GEO) collection, we 
+identified differentially expressed genes (DEGs) associated with obesity and 
+found 12 important genes (CRLS1, ANG, ALPK3, ADSSL1, ABCC1, HLF, AZGP1, TSC22D3, 
+F2R, FXN, PEMT, and SPTAN1) using a random forest classifier. ALPK3, HLF, FXN, 
+and SPTAN1 are the only genes that have never been linked to obesity. We also 
+used an artificial neural network to build a novel obesity diagnosis model and 
+tested its diagnostic effectiveness using public datasets.
+
+Copyright © 2022 Yu, Xie, Zhang, Jiang and Wu.
+
+DOI: 10.3389/fmed.2022.906001
+PMCID: PMC9168076
+PMID: 35677823
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

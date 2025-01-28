@@ -1,0 +1,49 @@
+1. Nat Biotechnol. 2021 Mar;39(3):313-319. doi: 10.1038/s41587-020-0739-1. Epub 
+2020 Dec 7.
+
+Highly sensitive spatial transcriptomics at near-cellular resolution with 
+Slide-seqV2.
+
+Stickels RR(#)(1)(2)(3), Murray E(#)(1), Kumar P(1), Li J(1), Marshall JL(1), Di 
+Bella DJ(4), Arlotta P(5), Macosko EZ(#)(6)(7), Chen F(#)(8)(9).
+
+Author information:
+(1)Broad Institute of Harvard and MIT, Cambridge, MA, USA.
+(2)Graduate School of Arts and Sciences, Harvard University, Cambridge, MA, USA.
+(3)Division of Medical Science, Harvard Medical School, Boston, MA, USA.
+(4)Department of Stem Cell and Regenerative Biology, Harvard University, 
+Cambridge, MA, USA.
+(5)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA.
+(6)Broad Institute of Harvard and MIT, Cambridge, MA, USA. 
+emacosko@broadinstitute.org.
+(7)Department of Psychiatry, Massachusetts General Hospital, Boston, MA, USA. 
+emacosko@broadinstitute.org.
+(8)Broad Institute of Harvard and MIT, Cambridge, MA, USA. 
+chenf@broadinstitute.org.
+(9)Department of Stem Cell and Regenerative Biology, Harvard University, 
+Cambridge, MA, USA. chenf@broadinstitute.org.
+(#)Contributed equally
+
+Measurement of the location of molecules in tissues is essential for 
+understanding tissue formation and function. Previously, we developed Slide-seq, 
+a technology that enables transcriptome-wide detection of RNAs with a spatial 
+resolution of 10 μm. Here we report Slide-seqV2, which combines improvements in 
+library generation, bead synthesis and array indexing to reach an RNA capture 
+efficiency ~50% that of single-cell RNA-seq data (~10-fold greater than 
+Slide-seq), approaching the detection efficiency of droplet-based single-cell 
+RNA-seq techniques. First, we leverage the detection efficiency of Slide-seqV2 
+to identify dendritically localized mRNAs in neurons of the mouse hippocampus. 
+Second, we integrate the spatial information of Slide-seqV2 data with 
+single-cell trajectory analysis tools to characterize the spatiotemporal 
+development of the mouse neocortex, identifying underlying genetic programs that 
+were poorly sampled with Slide-seq. The combination of near-cellular resolution 
+and high transcript detection efficiency makes Slide-seqV2 useful across many 
+experimental contexts.
+
+DOI: 10.1038/s41587-020-0739-1
+PMCID: PMC8606189
+PMID: 33288904 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: R.R.S., F.C., and E.Z.M. 
+are listed as inventors on a pending patent application related to the 
+development of Slide-seq.

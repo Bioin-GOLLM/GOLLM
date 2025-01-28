@@ -1,0 +1,29 @@
+1. BMC Genomics. 2014;15 Suppl 10(Suppl 10):S10. doi:
+10.1186/1471-2164-15-S10-S10.  Epub 2014 Dec 12.
+
+GWAMAR: genome-wide assessment of mutations associated with drug resistance in 
+bacteria.
+
+Wozniak M, Tiuryn J, Wong L.
+
+BACKGROUND: Development of drug resistance in bacteria causes antibiotic 
+therapies to be less effective and more costly. Moreover, our understanding of 
+the process remains incomplete. One promising approach to improve our 
+understanding of how resistance is being acquired is to use whole-genome 
+comparative approaches for detection of drug resistance-associated mutations.
+RESULTS: We present GWAMAR, a tool we have developed for detecting of drug 
+resistance-associated mutations in bacteria through comparative analysis of 
+whole-genome sequences. The pipeline of GWAMAR comprises several steps. First, 
+for a set of closely related bacterial genomes, it employs eCAMBer to identify 
+homologous gene families. Second, based on multiple alignments of the gene 
+families, it identifies mutations among the strains of interest. Third, it 
+calculates several statistics to identify which mutations are the most 
+associated with drug resistance.
+CONCLUSIONS: Based on our analysis of two large datasets retrieved from publicly 
+available data for M. tuberculosis, we identified a set of novel putative drug 
+resistance-associated mutations. As a part of this work, we present also an 
+application of our tool to detect putative compensatory mutations.
+
+DOI: 10.1186/1471-2164-15-S10-S10
+PMCID: PMC4304204
+PMID: 25559874 [Indexed for MEDLINE]

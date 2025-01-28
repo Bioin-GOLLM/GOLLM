@@ -1,0 +1,46 @@
+1. BMC Bioinformatics. 2019 Dec 20;20(Suppl 24):668. doi: 
+10.1186/s12859-019-3252-0.
+
+Investigating skewness to understand gene expression heterogeneity in large 
+patient cohorts.
+
+Church BV(1)(2), Williams HT(1)(2), Mar JC(3)(4)(5).
+
+Author information:
+(1)Department of Systems and Computational Biology, Albert Einstein College of 
+Medicine, 1300 Morris Park Avenue, Bronx, 10461, NY, USA.
+(2)Department of Mathematics, Columbia University, 2990 Broadway, New York, 
+10027, NY, USA.
+(3)Department of Systems and Computational Biology, Albert Einstein College of 
+Medicine, 1300 Morris Park Avenue, Bronx, 10461, NY, USA. j.mar@uq.edu.au.
+(4)Department of Epidemiology and Population Health, Albert Einstein College of 
+Medicine, 1300 Morris Park Avenue, Bronx, 10461, NY, USA. j.mar@uq.edu.au.
+(5)Australian Institute for Bioengineering and Nanotechnology, The University of 
+Queensland, Brisbane, 4072, QLD, Australia. j.mar@uq.edu.au.
+
+BACKGROUND: Skewness is an under-utilized statistical measure that captures the 
+degree of asymmetry in the distribution of any dataset. This study applied a new 
+metric based on skewness to identify regulators or genes that have outlier 
+expression in large patient cohorts.
+RESULTS: We investigated whether specific patterns of skewed expression were 
+related to the enrichment of biological pathways or genomic properties like DNA 
+methylation status. Our study used publicly available datasets that were 
+generated using both RNA-sequencing and microarray technology platforms. For 
+comparison, the datasets selected for this study also included different samples 
+derived from control donors and cancer patients. When comparing the shift in 
+expression skewness between cancer and control datasets, we observed an 
+enrichment of pathways related to the immune function that reflects an increase 
+towards positive skewness in the cancer relative to control datasets. A 
+significant correlation was also detected between expression skewness and the 
+top 500 genes corresponding to the most significant differential DNA methylation 
+occurring in the promotor regions for four Cancer Genome Atlas cancer cohorts.
+CONCLUSIONS: Our results indicate that expression skewness can reveal new 
+insights into transcription based on outlier and asymmetrical behaviour in large 
+patient cohorts.
+
+DOI: 10.1186/s12859-019-3252-0
+PMCID: PMC6923883
+PMID: 31861976 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

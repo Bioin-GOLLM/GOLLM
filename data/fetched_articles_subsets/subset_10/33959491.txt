@@ -1,0 +1,59 @@
+1. Front Oncol. 2021 Apr 20;11:551160. doi: 10.3389/fonc.2021.551160. eCollection
+ 2021.
+
+Analysis of the EGFR Amplification and CDKN2A Deletion Regulated Transcriptomic 
+Signatures Reveals the Prognostic Significance of SPATS2L in Patients With 
+Glioma.
+
+Wang H(1), Wang X(1), Xu L(1), Zhang J(2), Cao H(1).
+
+Author information:
+(1)Medical Research Center, Fujian Maternity and Child Health Hospital, 
+Affiliated Hospital of Fujian Medical University, Fuzhou, China.
+(2)State Key Laboratory for Medical Genomics, Shanghai Institute of Hematology, 
+Rui-Jin Hospital Affiliated to School of Medicine, Shanghai Jiao Tong 
+University, Shanghai, China.
+
+Purpose: This study was conducted in order to analyze the prognostic effects of 
+epidermal growth factor receptor (EGFR) and CDKN2A alterations and determine the 
+prognostic significance of EGFR and CDKN2A alterations on regulated genes in 
+patients with glioblastoma (GBM) or lower grade glioma (LGG). Methods: The 
+alteration frequencies of EGFR and CDKN2A across 32 tumor types were derived 
+from cBioPortal based on The Cancer Genome Atlas (TCGA) datasets. The 
+Kaplan-Meier analysis was used to determine the prognostic significance of EGFR 
+and CDKN2A alterations. EGFR and CDKN2A alterations on regulated expression 
+signatures were identified from RNA-seq data in the TCGA GBM datasets. The 
+prognostic significance of EGFR and CDKN2A alterations on regulated genes in 
+patients with glioma was determined using the TCGA and the Chinese Glioma Genome 
+Atlas (CGGA) datasets. Results: Compared with the other 31 tumor types, EGFR 
+amplification and CDKN2A deletion particularly occurred in patients with GBM. 
+GBM patients with EGFR amplification or CDKN2A deletion demonstrated poor 
+prognosis. Statistical analysis showed the coexistence of EGFR alteration and 
+CDKN2A deletion in GBM patients. We identified 864 genes which were commonly 
+regulated by EGFR amplification and CDKN2A deletion, and those genes were highly 
+expressed in brain tissues and associated with the cell cycle, EBRR2, and MAPK 
+signaling pathways. Spermatogenesis-associated serine-rich 2-like gene (SPATS2L) 
+was upregulated in GBM patients with EGFR amplification or CDKN2A alteration. 
+Higher expression levels of SPATS2L were associated with worse prognosis in 
+patients with GBM in both TCGA and CGGA datasets. Moreover, the expression 
+levels of SPATS2L were higher in patients with a mesenchymal subtype of GBM. 
+Statistical analysis also showed that the coexistence of EGFR alteration and 
+CDKN2A deletion was significant in patients with LGG. SPATS2L was upregulated in 
+LGG patients with EGFR amplification or CDKN2A alteration. Furthermore, higher 
+expression levels of SPATS2L were associated with worse prognosis in patients 
+with LGG in both TCGA and CGGA datasets. The expression levels of SPATS2L were 
+higher in patients with an astrocytoma subtype of LGG. Finally, the coexistence 
+and unfavorable prognostic effects of EGFR amplification and CDKN2A alteration 
+were validated using the Memorial Sloan Kettering Cancer Center (MSKCC) glioma 
+datasets. Conclusions: EGFR amplification and CDKN2A deletion of the regulated 
+gene SPATS2L have significant prognostic effects in patients with GBM or LGG.
+
+Copyright © 2021 Wang, Wang, Xu, Zhang and Cao.
+
+DOI: 10.3389/fonc.2021.551160
+PMCID: PMC8093400
+PMID: 33959491
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

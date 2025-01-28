@@ -1,0 +1,42 @@
+1. Nucleic Acids Res. 2023 Jan 6;51(D1):D1276-D1287. doi: 10.1093/nar/gkac1085.
+
+DrugCentral 2023 extends human clinical data and integrates veterinary drugs.
+
+Avram S(1), Wilson TB(2), Curpan R(1), Halip L(1), Borota A(1), Bora A(1), 
+Bologa CG(3), Holmes J(3), Knockel J(4), Yang JJ(3), Oprea TI(3).
+
+Author information:
+(1)Department of Computational Chemistry, "Coriolan Dragulescu" Institute of 
+Chemistry, 24 Mihai Viteazu Blvd, Timişoara, Timiş 300223, Romania.
+(2)College of Pharmacy, University of New Mexico Health Sciences Center, 2502 
+Marble Ave, Albuquerque, NM 87106, USA.
+(3)Translational Informatics Division, Department of Internal Medicine, 
+University of New Mexico Health Sciences Center, 700 Camino de Salud NE, 
+Albuquerque, NM 87106, USA.
+(4)Department of Computer Science, University of New Mexico, 1901 Redondo S Dr, 
+Albuquerque, NM 87106, USA.
+
+DrugCentral monitors new drug approvals and standardizes drug information. The 
+current update contains 285 drugs (131 for human use). New additions include: 
+(i) the integration of veterinary drugs (154 for animal use only), (ii) the 
+addition of 66 documented off-label uses and iii) the identification of adverse 
+drug events from pharmacovigilance data for pediatric and geriatric patients. 
+Additional enhancements include chemical substructure searching using SMILES and 
+'Target Cards' based on UniProt accession codes. Statistics of interests include 
+the following: (i) 60% of the covered drugs are on-market drugs with expired 
+patent and exclusivity coverage, 17% are off-market, and 23% are on-market drugs 
+with active patents and exclusivity coverage; (ii) 59% of the drugs are oral, 
+33% are parenteral and 18% topical, at the level of the active ingredients; 
+(iii) only 3% of all drugs are for animal use only; however, 61% of the 
+veterinary drugs are also approved for human use; (iv) dogs, cats and horses are 
+by far the most represented target species for veterinary drugs; (v) the 
+physicochemical property profile of animal drugs is very similar to that of 
+human drugs. Use cases include azaperone, the only sedative approved for swine, 
+and ruxolitinib, a Janus kinase inhibitor.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkac1085
+PMCID: PMC9825566
+PMID: 36484092 [Indexed for MEDLINE]

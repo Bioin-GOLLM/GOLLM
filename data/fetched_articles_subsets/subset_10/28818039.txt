@@ -1,0 +1,58 @@
+1. BMC Genomics. 2017 Aug 17;18(1):629. doi: 10.1186/s12864-017-4039-1.
+
+The impact of RNA sequence library construction protocols on transcriptomic 
+profiling of leukemia.
+
+Kumar A(1), Kankainen M(1)(2), Parsons A(1), Kallioniemi O(1)(3), Mattila 
+P(1)(4), Heckman CA(5).
+
+Author information:
+(1)Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life 
+Science, University of Helsinki, P.O. Box 20, Tukholmankatu 8, FI-00014, 
+Helsinki, Finland.
+(2)Medical and Clinical Genetics, University of Helsinki and Helsinki University 
+Hospital, Helsinki, Finland.
+(3)Science for Life Laboratory, Karolinska Institutet, Solna, Sweden.
+(4)Finnish Red Cross Blood Service, Kivihaantie 7, Helsinki, Finland.
+(5)Institute for Molecular Medicine Finland (FIMM), Helsinki Institute of Life 
+Science, University of Helsinki, P.O. Box 20, Tukholmankatu 8, FI-00014, 
+Helsinki, Finland. caroline.heckman@helsinki.fi.
+
+BACKGROUND: RNA sequencing (RNA-seq) has become an indispensable tool to 
+identify disease associated transcriptional profiles and determine the molecular 
+underpinnings of diseases. However, the broad adaptation of the methodology into 
+the clinic is still hampered by inconsistent results from different RNA-seq 
+protocols and involves further evaluation of its analytical reliability using 
+patient samples. Here, we applied two commonly used RNA-seq library preparation 
+protocols to samples from acute leukemia patients to understand how 
+poly-A-tailed mRNA selection (PA) and ribo-depletion (RD) based RNA-seq library 
+preparation protocols affect gene fusion detection, variant calling, and gene 
+expression profiling.
+RESULTS: Overall, the protocols produced similar results with consistent 
+outcomes. Nevertheless, the PA protocol was more efficient in quantifying 
+expression of leukemia marker genes and showed better performance in the 
+expression-based classification of leukemia. Independent qRT-PCR experiments 
+verified that the PA protocol better represented total RNA compared to the RD 
+protocol. In contrast, the RD protocol detected a higher number of non-coding 
+RNA features and had better alignment efficiency. The RD protocol also recovered 
+more known fusion-gene events, although variability was seen in fusion gene 
+predictions.
+CONCLUSION: The overall findings provide a framework for the use of RNA-seq in a 
+precision medicine setting with limited number of samples and suggest that 
+selection of the library preparation protocol should be based on the objectives 
+of the analysis.
+
+DOI: 10.1186/s12864-017-4039-1
+PMCID: PMC5561555
+PMID: 28818039 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+Helsinki University Hospital Ethics Committee approved the study and collection 
+of samples (permit numbers 239/13/03/00/2010, 303/13/03/01/2011). CONSENT FOR 
+PUBLICATION: Bone marrow (BM) aspirates from two AML and two ALL patients were 
+collected after signed informed consent and with protocols in accordance with 
+the Declaration of Helsinki. COMPETING INTERESTS: CAH has received research 
+funding from Celgene, Orion, Pfizer, and Novartis unrelated to this study. OK 
+has research funding from Bayer and Roche unrelated to this study. PUBLISHER’S 
+NOTE: Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

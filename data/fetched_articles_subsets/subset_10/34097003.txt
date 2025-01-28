@@ -1,0 +1,43 @@
+1. Brief Bioinform. 2021 Nov 5;22(6):bbab213. doi: 10.1093/bib/bbab213.
+
+Detecting SARS-CoV-2 and its variant strains with a full genome tiling array.
+
+Jiang L(1), Guo Y(2), Yu H(2), Hoff K(3), Ding X(3), Zhou W(3), Edwards J(4).
+
+Author information:
+(1)University of New Mexico, Albuquerque, NM 87131, USA.
+(2)Department of Internal Medicine, University of New Mexico, Albuquerque, NM 
+87131, USA.
+(3)Centrillion Biosciences, Albuquerque, NM 87131, USA.
+(4)Department of Chemistry, University of New Mexico, Albuquerque, NM 87131, 
+USA.
+
+Coronavirus disease 2019 pandemic is the most damaging pandemic in recent human 
+history. Rapid detection of severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) and variant strains is paramount for recovery from this pandemic. 
+Conventional SARS-CoV-2 tests interrogate only limited regions of the whole 
+SARS-CoV-2 genome, which are subjected to low specificity and miss the 
+opportunity of detecting variant strains. In this work, we developed the first 
+SARS-CoV-2 tiling array that captures the entire SARS-CoV-2 genome at single 
+nucleotide resolution and offers the opportunity to detect point mutations. A 
+thorough bioinformatics protocol of two base calling methods has been developed 
+to accompany this array. To demonstrate the effectiveness of the tiling array, 
+we genotyped all genomic positions of eight SARS-CoV-2 samples. Using 
+high-throughput sequencing as the benchmark, we show that the tiling array had a 
+genome-wide accuracy of at least 99.5%. From the tiling array analysis results, 
+we identified the D614G mutation in the spike protein in four of the eight 
+samples, suggesting the widespread distribution of this variant at the early 
+stage of the outbreak in the United States. Two additional nonsynonymous 
+mutations were identified in one sample in the nucleocapsid protein (P13L and 
+S197L), which may complicate future vaccine development. With around $5 per 
+array, supreme accuracy, and an ultrafast bioinformatics protocol, the 
+SARS-CoV-2 tiling array makes an invaluable toolkit for combating current and 
+future pandemics. Our SARS-CoV-2 tilting array is currently utilized by 
+Molecular Vision, a CLIA-certified lab for SARS-CoV-2 diagnosis.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbab213
+PMCID: PMC8344516
+PMID: 34097003 [Indexed for MEDLINE]

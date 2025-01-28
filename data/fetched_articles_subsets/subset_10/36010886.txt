@@ -1,0 +1,37 @@
+1. Cancers (Basel). 2022 Aug 11;14(16):3891. doi: 10.3390/cancers14163891.
+
+Novel Necroptosis-Related Gene Signature for Predicting Early Diagnosis and 
+Prognosis and Immunotherapy of Gastric Cancer.
+
+Zhou X(1), Zhang B(1), Zheng G(2), Zhang Z(1), Wu J(1), Du K(1), Zhang J(1).
+
+Author information:
+(1)Department of Pharmacology, College of Pharmacy, China Medical University, 
+Shenyang 110042, China.
+(2)Department of Gastric Surgery, Cancer Hospital of China Medical University 
+(Liaoning Cancer Hospital and Institute), Shenyang 110042, China.
+
+Necroptosis is a kind of programmed necrosis, which is different from apoptosis 
+and pyroptosis. Its molecular mechanism has been described in inflammatory 
+diseases. Gastric cancer (GC) is one of the most common malignancies worldwide 
+with the third highest mortality. However, the role of necroptosis in the 
+occurrence and progression of GC remains largely unexplored. Therefore, we 
+investigated necroptosis-related genes (NRGs) by analyzing public transcriptomic 
+data from GC samples. Our results indicate that 83 of 740 NRGs are dysregulated 
+in GC tissues. Next, we identified necroptosis-associated early diagnosis and 
+prognostic gene signatures for GC using machine learning. 2-NRGs (CCT6A and FAP) 
+and 4-NRGs (ZFP36, TP53I3, FAP, and CCT6A), respectively, can effectively assess 
+the risk of early GC (AUC = 0.943) and the prognosis of GC patients (AUC = 
+0.866). Through in-depth analysis, we were pleasantly surprised to find that 
+there was a significant correlation between the 4-NRGs and GC immunotherapy 
+effect and immune checkpoint inhibitors (ICIs), which could be used for the 
+evaluation of immunosuppressants. Finally, we identified the core gene FAP, and 
+established the relationship between FAP and ICIs in GC. These findings could 
+provide a new target for immunotherapy for GC and a more effective treatment 
+scheme for GC patients.
+
+DOI: 10.3390/cancers14163891
+PMCID: PMC9405737
+PMID: 36010886
+
+Conflict of interest statement: The authors declare no conflict of interest.

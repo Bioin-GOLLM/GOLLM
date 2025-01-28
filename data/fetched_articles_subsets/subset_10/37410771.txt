@@ -1,0 +1,61 @@
+1. PLoS Genet. 2023 Jul 6;19(7):e1010593. doi: 10.1371/journal.pgen.1010593. 
+eCollection 2023 Jul.
+
+PKA regulatory subunit Bcy1 couples growth, lipid metabolism, and fermentation 
+during anaerobic xylose growth in Saccharomyces cerevisiae.
+
+Wagner ER(1)(2)(3), Nightingale NM(2)(4), Jen A(2)(4), Overmyer KA(4)(5)(6), 
+McGee M(2), Coon JJ(2)(3)(4)(5)(6)(7), Gasch AP(1)(2)(3).
+
+Author information:
+(1)Laboratory of Genetics, University of Wisconsin-Madison, Madison, Wisconsin, 
+United States of America.
+(2)Great Lakes Bioenergy Research Center, University of Wisconsin-Madison, 
+Madison, Wisconsin, United States of America.
+(3)Center for Genomic Science Innovation, University of Wisconsin-Madison, 
+Madison, Wisconsin, United States of America.
+(4)Department of Biomolecular Chemistry, University of Wisconsin-Madison, 
+Madison, Wisconsin, United States of America.
+(5)Morgridge Institute for Research, Madison, Wisconsin, United States of 
+America.
+(6)National Center for Quantitative Biology of Complex Systems, Madison, 
+Wisconsin, United States of America.
+(7)Department of Chemistry, University of Wisconsin-Madison, Madison, Wisconsin, 
+United States of America.
+
+Organisms have evolved elaborate physiological pathways that regulate growth, 
+proliferation, metabolism, and stress response. These pathways must be properly 
+coordinated to elicit the appropriate response to an ever-changing environment. 
+While individual pathways have been well studied in a variety of model systems, 
+there remains much to uncover about how pathways are integrated to produce 
+systemic changes in a cell, especially in dynamic conditions. We previously 
+showed that deletion of Protein Kinase A (PKA) regulatory subunit BCY1 can 
+decouple growth and metabolism in Saccharomyces cerevisiae engineered for 
+anaerobic xylose fermentation, allowing for robust fermentation in the absence 
+of division. This provides an opportunity to understand how PKA signaling 
+normally coordinates these processes. Here, we integrated transcriptomic, 
+lipidomic, and phospho-proteomic responses upon a glucose to xylose shift across 
+a series of strains with different genetic mutations promoting either coupled or 
+decoupled xylose-dependent growth and metabolism. Together, results suggested 
+that defects in lipid homeostasis limit growth in the bcy1Δ strain despite 
+robust metabolism. To further understand this mechanism, we performed adaptive 
+laboratory evolutions to re-evolve coupled growth and metabolism in the bcy1Δ 
+parental strain. The evolved strain harbored mutations in PKA subunit TPK1 and 
+lipid regulator OPI1, among other genes, and evolved changes in lipid profiles 
+and gene expression. Deletion of the evolved opi1 gene partially reverted the 
+strain's phenotype to the bcy1Δ parent, with reduced growth and robust xylose 
+fermentation. We suggest several models for how cells coordinate growth, 
+metabolism, and other responses in budding yeast and how restructuring these 
+processes enables anaerobic xylose utilization.
+
+Copyright: © 2023 Wagner et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pgen.1010593
+PMCID: PMC10353814
+PMID: 37410771 [Indexed for MEDLINE]
+
+Conflict of interest statement: JJC is a consultant for Thermo Fisher 
+Scientific.

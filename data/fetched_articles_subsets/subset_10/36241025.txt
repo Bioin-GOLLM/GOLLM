@@ -1,0 +1,58 @@
+1. Brain Stimul. 2022 Nov-Dec;15(6):1389-1404. doi: 10.1016/j.brs.2022.09.015.
+Epub  2022 Oct 11.
+
+kHz-frequency electrical stimulation selectively activates small, unmyelinated 
+vagus afferents.
+
+Chang YC(1), Ahmed U(1), Jayaprakash N(1), Mughrabi I(1), Lin Q(2), Wu YC(1), 
+Gerber M(1), Abbas A(1), Daytz A(1), Gabalski AH(1), Ashville J(1), Dokos S(2), 
+Rieth L(3), Datta-Chaudhuri T(1), Tracey KJ(1), Guo T(2), Al-Abed Y(1), Zanos 
+S(4).
+
+Author information:
+(1)Institute of Bioelectronic Medicine, Feinstein Institutes for Medical 
+Research, Manhasset, NY, 11030, United States.
+(2)Graduate School of Biomedical Engineering, University of New South Wales, 
+Sydney, 2052, Australia.
+(3)Department of Mechanical and Aerospace Engineering, West Virginia University, 
+Morgantown, WV, 26506, United States.
+(4)Institute of Bioelectronic Medicine, Feinstein Institutes for Medical 
+Research, Manhasset, NY, 11030, United States; Zucker School of Medicine at 
+Hofstra/Northwell, Hempstead, NY, United States. Electronic address: 
+szanos@northwell.edu.
+
+BACKGROUND: Vagal reflexes regulate homeostasis in visceral organs and systems 
+through afferent and efferent neurons and nerve fibers. Small, unmyelinated, 
+C-type afferents comprise over 80% of fibers in the vagus and form the sensory 
+arc of autonomic reflexes of the gut, lungs, heart and vessels and the immune 
+system. Selective bioelectronic activation of C-afferents could be used to 
+mechanistically study and treat diseases of peripheral organs in which vagal 
+reflexes are involved, but it has not been achieved.
+METHODS: We stimulated the vagus in rats and mice using trains of kHz-frequency 
+stimuli. Stimulation effects were assessed using neuronal c-Fos expression, 
+physiological and nerve fiber responses, optogenetic and computational methods.
+RESULTS: Intermittent kHz stimulation for 30 min activates specific motor and, 
+preferentially, sensory vagus neurons in the brainstem. At sufficiently high 
+frequencies (>5 kHz) and at intensities within a specific range (7-10 times 
+activation threshold, T, in rats; 15-25 × T in mice), C-afferents are activated, 
+whereas larger, A- and B-fibers, are blocked. This was determined by measuring 
+fiber-specific acute physiological responses to kHz stimulus trains, and by 
+assessing fiber excitability around kHz stimulus trains through compound action 
+potentials evoked by probing pulses. Aspects of selective activation of 
+C-afferents are explained in computational models of nerve fibers by how fiber 
+size and myelin shape the response of sodium channels to kHz-frequency stimuli.
+CONCLUSION: kHz stimulation is a neuromodulation strategy to robustly and 
+selectively activate vagal C-afferents implicated in physiological homeostasis 
+and disease, over larger vagal fibers.
+
+Copyright © 2022. Published by Elsevier Inc.
+
+DOI: 10.1016/j.brs.2022.09.015
+PMCID: PMC10164362
+PMID: 36241025 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: SZ and YCC have a provisional 
+patent application that includes aspects of the research presented in this 
+paper. The other authors declare no conflict of interest.

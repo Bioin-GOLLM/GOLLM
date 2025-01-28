@@ -1,0 +1,64 @@
+1. Nat Biotechnol. 2022 Nov;40(11):1644-1653. doi: 10.1038/s41587-022-01341-y.
+Epub  2022 Jun 6.
+
+Variant to function mapping at single-cell resolution through network 
+propagation.
+
+Yu F(1)(2)(3), Cato LD(1)(2)(3), Weng C(1)(2)(3)(4), Liggett LA(1)(2)(3), Jeon 
+S(5)(6), Xu K(5)(6), Chiang CWK(6)(7), Wiemels JL(5)(6), Weissman JS(4)(8), de 
+Smith AJ(5)(6), Sankaran VG(9)(10)(11)(12).
+
+Author information:
+(1)Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical 
+School, Boston, MA, USA.
+(2)Department of Pediatric Oncology, Dana-Farber Cancer Institute, Harvard 
+Medical School, Boston, MA, USA.
+(3)Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(4)Whitehead Institute for Biomedical Research, Cambridge, MA, USA.
+(5)Norris Comprehensive Cancer Center, University of Southern California, Los 
+Angeles, CA, USA.
+(6)Department of Population and Public Health Sciences, Keck School of Medicine, 
+University of Southern California, Los Angeles, CA, USA.
+(7)Department of Quantitative and Computational Biology, University of Southern 
+California, Los Angeles, CA, USA.
+(8)Department of Biology and Howard Hughes Medical Institute, Massachusetts 
+Institute of Technology, Cambridge, MA, USA.
+(9)Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical 
+School, Boston, MA, USA. sankaran@broadinstitute.org.
+(10)Department of Pediatric Oncology, Dana-Farber Cancer Institute, Harvard 
+Medical School, Boston, MA, USA. sankaran@broadinstitute.org.
+(11)Broad Institute of MIT and Harvard, Cambridge, MA, USA. 
+sankaran@broadinstitute.org.
+(12)Harvard Stem Cell Institute, Cambridge, MA, USA. 
+sankaran@broadinstitute.org.
+
+Update of
+    bioRxiv. 2022 Jan 24:2022.01.23.477426. doi: 10.1101/2022.01.23.477426.
+
+Genome-wide association studies in combination with single-cell genomic atlases 
+can provide insights into the mechanisms of disease-causal genetic variation. 
+However, identification of disease-relevant or trait-relevant cell types, states 
+and trajectories is often hampered by sparsity and noise, particularly in the 
+analysis of single-cell epigenomic data. To overcome these challenges, we 
+present SCAVENGE, a computational algorithm that uses network propagation to map 
+causal variants to their relevant cellular context at single-cell resolution. We 
+demonstrate how SCAVENGE can help identify key biological mechanisms underlying 
+human genetic variation, applying the method to blood traits at distinct stages 
+of human hematopoiesis, to monocyte subsets that increase the risk for severe 
+Coronavirus Disease 2019 (COVID-19) and to intermediate lymphocyte developmental 
+states that predispose to acute leukemia. Our approach not only provides a 
+framework for enabling variant-to-function insights at single-cell resolution 
+but also suggests a more general strategy for maximizing the inferences that can 
+be made using single-cell genomic data.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41587-022-01341-y
+PMCID: PMC9646486
+PMID: 35668323 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.S.W. serves as an advisor to and/or has equity 
+in KSQ Therapeutics, Maze Therapeutics and 5AM Ventures, all unrelated to the 
+present work. V.G.S. serves as an advisor to and/or has equity in Branch 
+Biosciences, Ensoma, Novartis, Forma and Cellarity, all unrelated to the present 
+work. The authors have no other competing interests to declare.

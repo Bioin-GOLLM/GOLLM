@@ -1,0 +1,45 @@
+1. BMC Pulm Med. 2022 Oct 14;22(1):380. doi: 10.1186/s12890-022-02172-y.
+
+Bi-directional and multivariate mendelian randomization analysis of the 
+relationship between circulating 25-hydroxyvitamin D concentration and 
+obstructive sleep apnea.
+
+Luo X(1), Chang R(1), Zhang J(1), Jiang P(1), Xu S(2).
+
+Author information:
+(1)Department of Respiratory, General Hospital of Xinjiang Military Region, 
+830000, Urumqi, China.
+(2)Department of Respiratory Intensive Care Unit, the First Affiliated Hospital 
+of Xinjiang Medical University, 830054, Urumqi, China. xu_sicheng@126.com.
+
+BACKGROUND: 25-hydroxyvitamin D [25(OH)D] deficiency in patients with 
+Obstructive Sleep Apnea (OSA) has long been noted, but identifying the exact 
+causal relationship remains hard. Investigation of the causality between 25(OH)D 
+deficiency and OSA would help facilitate disease prevention.
+METHODS: We conducted a two-sample bi-directional Mendelian randomization (MR) 
+study. For forward analysis, 237 newly identified genetic variants are used as 
+proxies for 25(OH)D to estimate the unconfounded effect on OSA among 16,761 OSA 
+cases and 201,194 controls of European ancestry. Reverse analysis was performed 
+to detect the causal impact of OSA on 25(OH)D levels. The inverse variance 
+weighted (IVW) method was used as the primary analysis. Sensitivity analysis was 
+performed to evaluate the robustness of our results. Multivariate MR analysis 
+was conducted to evaluate the direct link between 25(OH)D and OSA after 
+accounting for body mass index (BMI).
+RESULTS: IVW indicated that OSA causally associated with a lower level of 
+25(OH)D ((β = -0.03, 95% CI = -0.06 ~ -0.007, P = 0.01). No evidence of the 
+causal link from 25(OH)D to OSA was detected (OR = 0.99, 95% CI = 0.88 ~ 1.12, 
+P = 0.85). Sensitivity analysis suggested the MR estimates were not biased. 
+Multivariate MR analysis indicated the effect of OSA on 25(OH)D vanished upon 
+accounting for BMI (β = -0.011, 95% CI = -0.028 ~ 0.007, P = 0.23).
+CONCLUSION: This MR study provided evidence that OSA was causally associated 
+with a lower level of 25(OH)D, which might be driven by BMI. Obesity management 
+should be enhanced in patients with OSA to prevent 25(OH)D deficiency.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12890-022-02172-y
+PMCID: PMC9569054
+PMID: 36241991 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

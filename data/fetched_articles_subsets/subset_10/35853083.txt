@@ -1,0 +1,42 @@
+1. PLoS Genet. 2022 Jul 19;18(7):e1010306. doi: 10.1371/journal.pgen.1010306. 
+eCollection 2022 Jul.
+
+Enrichment of centromeric DNA from human cells.
+
+Gamba R(1), Mazzucco G(2), Wilhelm T(1), Velikovsky L(1), Salinas-Luypaert C(1), 
+Chardon F(1), Picotto J(1), Bohec M(3), Baulande S(3), Doksani Y(2), Fachinetti 
+D(1).
+
+Author information:
+(1)Institut Curie, PSL Research University, CNRS, UMR 144, Paris, France.
+(2)IFOM, the FIRC Institute of Molecular Oncology, Milan, Italy.
+(3)Institut Curie, Genomics of Excellence (ICGex) Platform, PSL Research 
+University, Paris, France.
+
+Centromeres are key elements for chromosome segregation. Canonical centromeres 
+are built over long-stretches of tandem repetitive arrays. Despite being quite 
+abundant compared to other loci, centromere sequences overall still represent 
+only 2 to 5% of the human genome, therefore studying their genetic and 
+epigenetic features is a major challenge. Furthermore, sequencing of centromeric 
+regions requires high coverage to fully analyze length and sequence variations, 
+and this can be extremely costly. To bypass these issues, we have developed a 
+technique, named CenRICH, to enrich for centromeric DNA from human cells based 
+on selective restriction digestion and size fractionation. Combining restriction 
+enzymes cutting at high frequency throughout the genome, except within most 
+human centromeres, with size-selection of fragments >20 kb, resulted in over 
+25-fold enrichment in centromeric DNA. High-throughput sequencing revealed that 
+up to 60% of the DNA in the enriched samples is made of centromeric repeats. We 
+show that this method can be used in combination with long-read sequencing to 
+investigate the DNA methylation status of certain centromeres and, with a 
+specific enzyme combination, also of their surrounding regions (mainly HSATII). 
+Finally, we show that CenRICH facilitates single-molecule analysis of 
+replicating centromeric fibers by DNA combing. This approach has great potential 
+for making sequencing of centromeric DNA more affordable and efficient and for 
+single DNA molecule studies.
+
+DOI: 10.1371/journal.pgen.1010306
+PMCID: PMC9295943
+PMID: 35853083 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

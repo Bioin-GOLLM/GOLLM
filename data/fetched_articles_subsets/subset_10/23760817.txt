@@ -1,0 +1,43 @@
+1. Neuroinformatics. 2013 Jul;11(3):367-88. doi: 10.1007/s12021-013-9184-3.
+
+The MCIC collection: a shared repository of multi-modal, multi-site brain image 
+data from a clinical investigation of schizophrenia.
+
+Gollub RL(1), Shoemaker JM, King MD, White T, Ehrlich S, Sponheim SR, Clark VP, 
+Turner JA, Mueller BA, Magnotta V, O'Leary D, Ho BC, Brauns S, Manoach DS, 
+Seidman L, Bustillo JR, Lauriello J, Bockholt J, Lim KO, Rosen BR, Schulz SC, 
+Calhoun VD, Andreasen NC.
+
+Author information:
+(1)Department of Psychiatry, Massachusetts General Hospital, Building 120, Suite 
+101D, Charlestown, MA 02129-2000, USA. RGOLLUB@PARTNERS.ORG
+
+Expertly collected, well-curated data sets consisting of comprehensive clinical 
+characterization and raw structural, functional and diffusion-weighted DICOM 
+images in schizophrenia patients and sex and age-matched controls are now 
+accessible to the scientific community through an on-line data repository 
+(coins.mrn.org). The Mental Illness and Neuroscience Discovery Institute, now 
+the Mind Research Network (MRN, http://www.mrn.org/ ), comprised of 
+investigators at the University of New Mexico, the University of Minnesota, 
+Massachusetts General Hospital, and the University of Iowa, conducted a 
+cross-sectional study to identify quantitative neuroimaging biomarkers of 
+schizophrenia. Data acquisition across multiple sites permitted the integration 
+and cross-validation of clinical, cognitive, morphometric, and functional 
+neuroimaging results gathered from unique samples of schizophrenia patients and 
+controls using a common protocol across sites. Particular effort was made to 
+recruit patients early in the course of their illness, at the onset of their 
+symptoms. There is a relatively even sampling of illness duration in chronic 
+patients. This data repository will be useful to 1) scientists who can study 
+schizophrenia by further analysis of this cohort and/or by pooling with other 
+data; 2) computer scientists and software algorithm developers for testing and 
+validating novel registration, segmentation, and other analysis software; and 3) 
+educators in the fields of neuroimaging, medical image analysis and medical 
+imaging informatics who need exemplar data sets for courses and workshops. 
+Sharing provides the opportunity for independent replication of already 
+published results from this data set and novel exploration. This manuscript 
+describes the inclusion/exclusion criteria, imaging parameters and other 
+information that will assist those wishing to use this data repository.
+
+DOI: 10.1007/s12021-013-9184-3
+PMCID: PMC3727653
+PMID: 23760817 [Indexed for MEDLINE]

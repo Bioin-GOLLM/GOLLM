@@ -1,0 +1,110 @@
+1. J Immunother Cancer. 2023 Oct;11(10):e007310. doi: 10.1136/jitc-2023-007310.
+
+Increased interleukin-6/C-reactive protein levels are associated with the 
+upregulation of the adenosine pathway and serve as potential markers of 
+therapeutic resistance to immune checkpoint inhibitor-based therapies in 
+non-small cell lung cancer.
+
+Naqash AR(1)(2), McCallen JD(3)(4), Mi E(5), Iivanainen S(6), Marie MA(2), 
+Gramenitskaya D(5), Clark J(5), Koivunen JP(6), Macherla S(2), Jonnalagadda 
+S(2), Polsani S(2), Jiwani RA(7), Hafiz M(8)(9), Muzaffar M(2), Brunetti L(10), 
+Stroud CRG(11), Walker PR(2)(12), Wang K(13), Chung Y(14), Ruppin E(13), Lee 
+SH(15)(16), Yang LV(2), Pinato DJ(5)(17), Lee JS(14)(18)(19), Cortellini 
+A(20)(10).
+
+Author information:
+(1)Stephenson Cancer Center, The University of Oklahoma Health Sciences Center, 
+Oklahoma City, Oklahoma, USA alessiocortellini@gmail.com 
+abdulrafeh-naqash@ouhsc.edu.
+(2)Hematology / Oncology Division, East Carolina University, Greenville, South 
+Carolina, USA.
+(3)Department of Internal Medicine, University of North Carolina at Chapel Hill, 
+Chapel Hill, North Carolina, USA.
+(4)Brody School of Medicine, East Carolina University, Greenville, NC, USA.
+(5)Department of Surgery and Cancer, Hammersmith Hospital Campus, Imperial 
+College London, London, UK.
+(6)Oncology and Radiation Department, Oulu University Hospital, University of 
+Oulu, MRC Oulu, Oulu, Finland.
+(7)Department of Internal Medicine, East Carolina University, Greenville, NC, 
+USA.
+(8)Division of Pulmonary Critical Care, University of Oklahoma Health Sciences 
+Center, Oklahoma City, Oklahoma, USA.
+(9)Division of Pulmonary and Critical Care, East Carolina University, 
+Greenville, NC, USA.
+(10)Operative Research Unit of Medical Oncology, Fondazione Policlinico 
+Universitario Campus Bio-Medico, Via Alvaro del Portillo 200, Roma, Italy, 
+Italy.
+(11)Genentech, South San Francisco, California, USA.
+(12)Circulogene, Birmingham, Alabama, USA.
+(13)Cancer Data Science Lab, National Cancer Institute, National Institute of 
+Health, Bethesda, Maryland, USA.
+(14)Department of Artificial Intelligence, Sungkyunkwan University, Suwon, 
+Reuplic of Korea.
+(15)Division of Hematology-Oncology, Department of Medicine, Samsung Medical 
+Center School of Medicine, Sungkyunkwan University, Seoul, Republic of Korea.
+(16)Department of Health Sciences and Technology, Samsung Advanced Institute of 
+Health Sciences and Technology, Sungkyunkwan University, Seoul, Republic of 
+Korea.
+(17)Division of Oncology, Department of Translational Medicine, University of 
+Piemonte Orientale, Novara, Italy.
+(18)Department of Precision Medicine, School of Medicine, Sungkyunkwan 
+University, Suwon, Republic of Korea.
+(19)Department of Digital Health, Samsung Advanced Institute of Health Sciences 
+and Technology, Sungkyunkwan University, Seoul, Republic of Korea.
+(20)Department of Surgery and Cancer, Hammersmith Hospital Campus, Imperial 
+College London, London, UK alessiocortellini@gmail.com 
+abdulrafeh-naqash@ouhsc.edu.
+
+BACKGROUND: Systemic immune activation, hallmarked by C-reactive protein (CRP) 
+and interleukin-6 (IL-6), can modulate antitumor immune responses. In this 
+study, we evaluated the role of IL-6 and CRP in the stratification of patients 
+with non-small cell lung cancer (NSCLC) treated with immune checkpoint 
+inhibitors (ICIs). We also interrogated the underlying immunosuppressive 
+mechanisms driven by the IL-6/CRP axis.
+METHODS: In cohort A (n=308), we estimated the association of baseline CRP with 
+objective response rate (ORR), progression-free survival (PFS), and overall 
+survival (OS) in patients with NSCLC treated with ICIs alone or with 
+chemo-immunotherapy (Chemo-ICI). Baseline tumor bulk RNA sequencing (RNA-seq) of 
+lung adenocarcinomas (LUADs) treated with pembrolizumab (cohort B, n=59) was 
+used to evaluate differential expression of purine metabolism, as well as 
+correlate IL-6 expression with PFS. CODEFACS approach was applied to deconvolve 
+cohort B to characterize the tumor microenvironment by reconstructing the 
+cell-type-specific transcriptome from bulk expression. Using the LUAD cohort 
+from The Cancer Genome Atlas (TCGA) we explored the correlation between IL-6 
+expression and adenosine gene signatures. In a third cohort (cohort C, n=18), 
+plasma concentrations of CRP, adenosine 2a receptor (A2aR), and IL-6 were 
+measured using ELISA.
+RESULTS: In cohort A, 67.2% of patients had a baseline CRP≥10 mg/L (CRP-H). 
+Patients with CRP-H achieved shorter OS (8.6 vs 14.8 months; p=0.006), shorter 
+PFS (3.3 vs 6.6 months; p=0.013), and lower ORR (24.7% vs 46.3%; p=0.015). After 
+adjusting for relevant clinical variables, CRP-H was confirmed as an independent 
+predictor of increased risk of death (HR 1.51, 95% CI: 1.09 to 2.11) and lower 
+probability of achieving disease response (OR 0.34, 95% CI: 0.13 to 0.89). In 
+cohort B, RNA-seq analysis demonstrated higher IL-6 expression on tumor cells of 
+non-responders, along with a shorter PFS (p<0.05) and enrichment of the 
+purinergic pathway. Within the TCGA LUAD cohort, tumor IL-6 expression strongly 
+correlated with the adenosine signature (R=0.65; p<2.2e-16). Plasma analysis in 
+cohort C demonstrated that CRP-H patients had a greater median baseline level of 
+A2aR (6.0 ng/mL vs 1.3 ng/mL; p=0.01).
+CONCLUSIONS: This study demonstrates CRP as a readily available blood-based 
+prognostic biomarker in ICI-treated NSCLC. Additionally, we elucidate a 
+potential link of the CRP/IL-6 axis with the immunosuppressive adenosine 
+signature pathway that could drive inferior outcomes to ICIs in NSCLC and also 
+offer novel therapeutic avenues.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/jitc-2023-007310
+PMCID: PMC10603340
+PMID: 37852738 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors disclose no 
+conflicts of interest in relation to the published work. AC received grants for 
+consultancies/advisory boards: BMS, MSD, OncoC4, IQVIA, Roche, GSK, AstraZeneca, 
+Access Infinity, Ardelis Health. He also received speaker fees from AstraZeneca, 
+EISAI, MSD and Pierre-Fabre. DJP received lecture fees from ViiV Healthcare, 
+Bayer Healthcare, AstraZeneca, Roche, IPSEN and travel expenses from BMS and 
+Bayer Healthcare; consulting fees for Mina Therapeutics, EISAI, Roche, 
+AstraZeneca, DaVolterra, Exact Sciences, MURSLA, Avamune, BMS; received research 
+funding (to institution) from MSD, BMS, GSK.

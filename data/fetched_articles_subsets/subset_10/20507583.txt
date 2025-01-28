@@ -1,0 +1,46 @@
+1. BMC Syst Biol. 2010 May 27;4:74. doi: 10.1186/1752-0509-4-74.
+
+Co-expression module analysis reveals biological processes, genomic gain, and 
+regulatory mechanisms associated with breast cancer progression.
+
+Shi Z(1), Derow CK, Zhang B.
+
+Author information:
+(1)Advanced Computing Center for Research & Education, Vanderbilt University, 
+Nashville, TN 37240, USA.
+
+BACKGROUND: Gene expression signatures are typically identified by correlating 
+gene expression patterns to a disease phenotype of interest. However, individual 
+gene-based signatures usually suffer from low reproducibility and 
+interpretability.
+RESULTS: We have developed a novel algorithm Iterative Clique Enumeration (ICE) 
+for identifying relatively independent maximal cliques as co-expression modules 
+and a module-based approach to the analysis of gene expression data. Applying 
+this approach on a public breast cancer dataset identified 19 modules whose 
+expression levels were significantly correlated with tumor grade. The 
+correlations were reproducible for 17 modules in an independent breast cancer 
+dataset, and the reproducibility was considerably higher than that based on 
+individual genes or modules identified by other algorithms. Sixteen out of the 
+17 modules showed significant enrichment in certain Gene Ontology (GO) 
+categories. Specifically, modules related to cell proliferation and immune 
+response were up-regulated in high-grade tumors while those related to cell 
+adhesion was down-regulated. Further analyses showed that transcription factors 
+NYFB, E2F1/E2F3, NRF1, and ELK1 were responsible for the up-regulation of the 
+cell proliferation modules. IRF family and ETS family proteins were responsible 
+for the up-regulation of the immune response modules. Moreover, inhibition of 
+the PPARA signaling pathway may also play an important role in tumor 
+progression. The module without GO enrichment was found to be associated with a 
+potential genomic gain in 8q21-23 in high-grade tumors. The 17-module signature 
+of breast tumor progression clustered patients into subgroups with significantly 
+different relapse-free survival times. Namely, patients with lower cell 
+proliferation and higher cell adhesion levels had significantly lower risk of 
+recurrence, both for all patients (p = 0.004) and for those with grade 2 tumors 
+(p = 0.017).
+CONCLUSIONS: The ICE algorithm is effective in identifying relatively 
+independent co-expression modules from gene co-expression networks and the 
+module-based approach illustrated in this study provides a robust, 
+interpretable, and mechanistic characterization of transcriptional changes.
+
+DOI: 10.1186/1752-0509-4-74
+PMCID: PMC2902438
+PMID: 20507583 [Indexed for MEDLINE]

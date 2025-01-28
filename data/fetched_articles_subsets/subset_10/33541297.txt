@@ -1,0 +1,72 @@
+1. BMC Cancer. 2021 Feb 4;21(1):114. doi: 10.1186/s12885-021-07814-8.
+
+Targeted RNAseq assay incorporating unique molecular identifiers for improved 
+quantification of gene expression signatures and transcribed mutation fraction 
+in fixed tumor samples.
+
+Fu C(1), Marczyk M(2)(3), Samuels M(4), Trevarton AJ(1), Qu J(5), Lau R(1), Du 
+L(1), Pappas T(5), Sinn BV(6), Gould RE(1), Pusztai L(2), Hatzis C(2), Symmans 
+WF(7).
+
+Author information:
+(1)Departments of Pathology and Translational Molecular Pathology, The 
+University of Texas MD Anderson Cancer Center, Houston, TX, USA.
+(2)Yale Cancer Center, Yale School of Medicine, New Haven, CT, USA.
+(3)Department of Data Science and Engineering, Silesian University of 
+Technology, Gliwice, Poland.
+(4)The Jackson Laboratory, Farmington, CT, USA.
+(5)Delphi Diagnostics, Austin, TX, USA.
+(6)Institute of Pathology, Charité Universitätsmedizin Berlin, Berlin, Germany.
+(7)Departments of Pathology and Translational Molecular Pathology, The 
+University of Texas MD Anderson Cancer Center, Houston, TX, USA. 
+fsymmans@mdanderson.org.
+
+BACKGROUND: Our objective was to assess whether modifications to a customized 
+targeted RNA sequencing (RNAseq) assay to include unique molecular identifiers 
+(UMIs) that collapse read counts to their source mRNA counts would improve 
+quantification of transcripts from formalin-fixed paraffin-embedded (FFPE) tumor 
+tissue samples. The assay (SET4) includes signatures that measure hormone 
+receptor and PI3-kinase related transcriptional activity (SETER/PR and PI3Kges), 
+and measures expression of selected activating point mutations and key breast 
+cancer genes.
+METHODS: Modifications included steps to introduce eight nucleotides-long UMIs 
+during reverse transcription (RT) in bulk solution, followed by polymerase chain 
+reaction (PCR) of labeled cDNA in droplets, with optimization of the polymerase 
+enzyme and reaction conditions. We used Lin's concordance correlation 
+coefficient (CCC) to measure concordance, including precision (Rho) and accuracy 
+(Bias), and nonparametric tests (Wilcoxon, Levene's) to compare the modified 
+(NEW) SET4 assay to the original (OLD) SET4 assay and to whole transcriptome 
+RNAseq using RNA from matched fresh frozen (FF) and FFPE samples from 12 primary 
+breast cancers.
+RESULTS: The modified (NEW) SET4 assay measured single transcripts (p< 0.001) 
+and SETER/PR (p=0.002) more reproducibly in technical replicates from FFPE 
+samples. The modified SET4 assay was more precise for measuring single 
+transcripts (Rho 0.966 vs 0.888, p< 0.01) but not multigene expression 
+signatures SETER/PR (Rho 0.985 vs 0.968) or PI3Kges (Rho 0.985 vs 0.946) in 
+FFPE, compared to FF samples. It was also more precise than wtRNAseq of FFPE for 
+measuring transcripts (Rho 0.986 vs 0.934, p< 0.001) and SETER/PR (Rho 0.993 vs 
+0.915, p=0.004), but not PI3Kges (Rho 0.988 vs 0.945, p=0.051). Accuracy (Bias) 
+was comparable between protocols. Two samples carried a PIK3CA mutation, and 
+measurements of transcribed mutant allele fraction was similar in FF and FFPE 
+samples and appeared more precise with the modified SET4 assay. Amplification 
+efficiency (reads per UMI) was consistent in FF and FFPE samples, and close to 
+the theoretically expected value, when the library size exceeded 400,000 aligned 
+reads.
+CONCLUSIONS: Modifications to the targeted RNAseq protocol for SET4 assay 
+significantly increased the precision of UMI-based and reads-based measurements 
+of individual transcripts, multi-gene signatures, and mutant transcript 
+fraction, particularly with FFPE samples.
+
+DOI: 10.1186/s12885-021-07814-8
+PMCID: PMC7860187
+PMID: 33541297 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures related to this study: WFS, BVS, CH, 
+CF and RL are co-inventors on patent WO2017189976A1 “Targeted measure of 
+transcriptional activity related to hormone receptors”. WFS, CF and RL own 
+shares of Delphi Diagnostics, without employment or administrative position. 
+Disclosures unrelated to this study: WFS owns shares of IONIS Pharmaceuticals. 
+TP is a paid consultant and owns shares in Delphi Diagnostics. CH is currently 
+an employee of Bristol-Myers Squibb. LP has received consulting fees and 
+honoraria from Astra Zeneca, Merck, Novartis, Genentech, Eisai, Pieris, 
+Immunomedics, Seattle Genetics, Almac, Biotheranostics and Syndax.

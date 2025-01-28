@@ -1,0 +1,39 @@
+1. Biophys J. 2013 Dec 3;105(11):2461-73. doi: 10.1016/j.bpj.2013.09.058.
+
+Building KCNQ1/KCNE1 channel models and probing their interactions by 
+molecular-dynamics simulations.
+
+Xu Y(1), Wang Y, Meng XY, Zhang M, Jiang M, Cui M, Tseng GN.
+
+Author information:
+(1)Department of Physiology & Biophysics, Virginia Commonwealth University, 
+Richmond, Virginia.
+
+Comment in
+    Biophys J. 2013 Dec 3;105(11):2437-8. doi: 10.1016/j.bpj.2013.10.022.
+
+The slow delayed rectifier (I(KS)) channel is composed of KCNQ1 (pore-forming) 
+and KCNE1 (auxiliary) subunits, and functions as a repolarization reserve in the 
+human heart. Design of I(KS)-targeting anti-arrhythmic drugs requires detailed 
+three-dimensional structures of the KCNQ1/KCNE1 complex, a task made possible by 
+Kv channel crystal structures (templates for KCNQ1 homology-modeling) and KCNE1 
+NMR structures. Our goal was to build KCNQ1/KCNE1 models and extract mechanistic 
+information about their interactions by molecular-dynamics simulations in an 
+explicit lipid/solvent environment. We validated our models by confirming two 
+sets of model-generated predictions that were independent from the spatial 
+restraints used in model-building. Detailed analysis of the molecular-dynamics 
+trajectories revealed previously unrecognized KCNQ1/KCNE1 interactions, whose 
+relevance in I(KS) channel function was confirmed by voltage-clamp experiments. 
+Our models and analyses suggest three mechanisms by which KCNE1 slows KCNQ1 
+activation: by promoting S6 bending at the Pro hinge that closes the activation 
+gate; by promoting a downward movement of gating charge on S4; and by 
+establishing a network of electrostatic interactions with KCNQ1 on the 
+extracellular surface that stabilizes the channel in a pre-open activated state. 
+Our data also suggest how KCNE1 may affect the KCNQ1 pore conductance.
+
+Copyright © 2013 Biophysical Society. Published by Elsevier Inc. All rights 
+reserved.
+
+DOI: 10.1016/j.bpj.2013.09.058
+PMCID: PMC3854563
+PMID: 24314077 [Indexed for MEDLINE]

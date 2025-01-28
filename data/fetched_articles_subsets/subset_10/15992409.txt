@@ -1,0 +1,35 @@
+1. BMC Bioinformatics. 2005 Jul 2;6:167. doi: 10.1186/1471-2105-6-167.
+
+Prediction of twin-arginine signal peptides.
+
+Bendtsen JD(1), Nielsen H, Widdick D, Palmer T, Brunak S.
+
+Author information:
+(1)Center for Biological Sequence Analysis, BioCentrum-DTU, Technical University 
+of Denmark, Building 208, DK-2800, Lyngby, Denmark. jannick@cbs.dtu.dk
+
+BACKGROUND: Proteins carrying twin-arginine (Tat) signal peptides are exported 
+into the periplasmic compartment or extracellular environment independently of 
+the classical Sec-dependent translocation pathway. To complement other methods 
+for classical signal peptide prediction we here present a publicly available 
+method, TatP, for prediction of bacterial Tat signal peptides.
+RESULTS: We have retrieved sequence data for Tat substrates in order to train a 
+computational method for discrimination of Sec and Tat signal peptides. The TatP 
+method is able to positively classify 91% of 35 known Tat signal peptides and 
+84% of the annotated cleavage sites of these Tat signal peptides were correctly 
+predicted. This method generates far less false positive predictions on various 
+datasets than using simple pattern matching. Moreover, on the same datasets TatP 
+generates less false positive predictions than a complementary rule based 
+prediction method.
+CONCLUSION: The method developed here is able to discriminate Tat signal 
+peptides from cytoplasmic proteins carrying a similar motif, as well as from Sec 
+signal peptides, with high accuracy. The method allows filtering of input 
+sequences based on Perl syntax regular expressions, whereas hydrophobicity 
+discrimination of Tat- and Sec-signal peptides is carried out by an artificial 
+neural network. A potential cleavage site of the predicted Tat signal peptide is 
+also reported. The TatP prediction server is available as a public web server at 
+http://www.cbs.dtu.dk/services/TatP/.
+
+DOI: 10.1186/1471-2105-6-167
+PMCID: PMC1182353
+PMID: 15992409 [Indexed for MEDLINE]

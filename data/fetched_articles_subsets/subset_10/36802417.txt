@@ -1,0 +1,43 @@
+1. Proc Natl Acad Sci U S A. 2023 Feb 28;120(9):e2215836120. doi: 
+10.1073/pnas.2215836120. Epub 2023 Feb 21.
+
+Integrating comparative modeling and accelerated simulations reveals 
+conformational and energetic basis of actomyosin force generation.
+
+Ma W(1), You S(2), Regnier M(3), McCammon JA(1)(4).
+
+Author information:
+(1)Department of Chemistry and Biochemistry, University of California, San 
+Diego, La Jolla, CA 92093.
+(2)Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD 
+21205.
+(3)Department of Bioengineering, University of Washington, Seattle, WA 98109.
+(4)Department of Pharmacology, University of California, San Diego, La Jolla, CA 
+92093.
+
+Muscle contraction is performed by arrays of contractile proteins in the 
+sarcomere. Serious heart diseases, such as cardiomyopathy, can often be results 
+of mutations in myosin and actin. Direct characterization of how small changes 
+in the myosin-actin complex impact its force production remains challenging. 
+Molecular dynamics (MD) simulations, although capable of studying protein 
+structure-function relationships, are limited owing to the slow timescale of the 
+myosin cycle as well as a lack of various intermediate structures for the 
+actomyosin complex. Here, employing comparative modeling and enhanced sampling 
+MD simulations, we show how the human cardiac myosin generates force during the 
+mechanochemical cycle. Initial conformational ensembles for different 
+myosin-actin states are learned from multiple structural templates with Rosetta. 
+This enables us to efficiently sample the energy landscape of the system using 
+Gaussian accelerated MD. Key myosin loop residues, whose substitutions are 
+related to cardiomyopathy, are identified to form stable or metastable 
+interactions with the actin surface. We find that the actin-binding cleft 
+closure is allosterically coupled to the myosin motor core transitions and 
+ATP-hydrolysis product release from the active site. Furthermore, a gate between 
+switch I and switch II is suggested to control phosphate release at the 
+prepowerstroke state. Our approach demonstrates the ability to link sequence and 
+structural information to motor functions.
+
+DOI: 10.1073/pnas.2215836120
+PMCID: PMC9992861
+PMID: 36802417 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.

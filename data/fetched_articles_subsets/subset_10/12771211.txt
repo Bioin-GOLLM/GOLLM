@@ -1,0 +1,36 @@
+1. Nucleic Acids Res. 2003 Jun 1;31(11):2839-51. doi: 10.1093/nar/gkg390.
+
+Integrated functional and bioinformatics approach for the identification and 
+experimental verification of RNA signals: application to HIV-1 INS.
+
+Wolff H(1), Brack-Werner R, Neumann M, Werner T, Schneider R.
+
+Author information:
+(1)Institute of Molecular Virology and. Institute of Experimental Genetics, 
+GSF-National Research Center for Environment and Health, Ingolstädter 
+Landstrasse 1, D-85764 Neuherberg, Germany.
+
+Regulation of gene expression involves sequence elements in nucleic acids. In 
+promoters, multiple sequence elements cooperate as functional modules, which in 
+combination determine overall promoter activity. We previously developed 
+computational tools based on this hierarchical structure for in silico promoter 
+analysis. Here we address the functional organization of post-transcriptional 
+control elements, using the HIV-1 genome as a model. Numerous mutagenesis 
+studies demonstrate that expression of HIV structural proteins is restricted by 
+inhibitory sequences (INS) in HIV mRNAs in the absence of the HIV-1 Rev protein. 
+However, previous attempts to detect conserved sequence patterns of HIV-1 INS 
+have failed. We defined four distinct sequence patterns for inhibitory motifs 
+(weight matrices), which identified 22 out of the 25 known INS as well as 
+several new candidate INS regions contained in numerous HIV-1 strains. The 
+conservation of INS motifs within the HIV genome was not due to overall sequence 
+conservation. The functionality of two candidate INS regions was analyzed with a 
+new assay that measures the effect of non-coding mRNA sequences on production of 
+red fluorescent reporter protein. Both new INS regions showed inhibitory 
+activity in sense but not in antisense orientation. Inhibitory activity 
+increased by combining both INS regions in the same mRNA. Inhibitory activity of 
+known and new INS regions was overcome by co-expression of the HIV-1 Rev 
+protein.
+
+DOI: 10.1093/nar/gkg390
+PMCID: PMC156724
+PMID: 12771211 [Indexed for MEDLINE]

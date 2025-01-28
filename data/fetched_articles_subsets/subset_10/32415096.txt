@@ -1,0 +1,58 @@
+1. Nat Commun. 2020 May 15;11(1):2449. doi: 10.1038/s41467-020-16140-9.
+
+mRNA display with library of even-distribution reveals cellular interactors of 
+influenza virus NS1.
+
+Du Y(1)(2), Hultquist JF(3)(4)(5)(6), Zhou Q(7), Olson A(7), Tseng Y(7), Zhang 
+TH(7)(8), Hong M(9), Tang K(9), Chen L(9), Meng X(7), McGregor MJ(3)(4)(5), Dai 
+L(7), Gong D(7), Martin-Sancho L(10), Chanda S(10), Li X(11), Bensenger S(7)(8), 
+Krogan NJ(3)(4)(5), Sun R(12)(13).
+
+Author information:
+(1)Department of Molecular and Medical Pharmacology, University of California, 
+Los Angeles, CA, 90095, USA. lilyduyushen@g.ucla.edu.
+(2)Cancer Institute, ZJU-UCLA Joint Center for Medical Education and Research, 
+School of Medicine, Zhejiang University, Hangzhou, 310058, China. 
+lilyduyushen@g.ucla.edu.
+(3)Department of Cellular and Molecular Pharmacology, University of California, 
+San Francisco, San Francisco, CA, 94158, USA.
+(4)California Institute for Quantitative Biosciences, QB3, University of 
+California, San Francisco, San Francisco, CA, 94158, USA.
+(5)J. David Gladstone Institutes, San Francisco, CA, 94158, USA.
+(6)Division of Infectious Diseases, Northwestern University Feinberg School of 
+Medicine, Chicago, IL, 60611, USA.
+(7)Department of Molecular and Medical Pharmacology, University of California, 
+Los Angeles, CA, 90095, USA.
+(8)Molecular Biology Institute, University of California, Los Angeles, CA, 
+90095, USA.
+(9)Cancer Institute, ZJU-UCLA Joint Center for Medical Education and Research, 
+School of Medicine, Zhejiang University, Hangzhou, 310058, China.
+(10)Sanford Burnham Prebys Medical Discovery Institute, 10901 North Torrey Pines 
+Road, La Jolla, CA, 92037, USA.
+(11)Department of Pathology and Laboratory Medicine, David Geffen School of 
+Medicine at UCLA, L, Los Angeles, CA, 90095, USA.
+(12)Department of Molecular and Medical Pharmacology, University of California, 
+Los Angeles, CA, 90095, USA. rsun@mednet.ucla.edu.
+(13)Molecular Biology Institute, University of California, Los Angeles, CA, 
+90095, USA. rsun@mednet.ucla.edu.
+
+A comprehensive examination of protein-protein interactions (PPIs) is 
+fundamental for the understanding of cellular machineries. However, limitations 
+in current methodologies often prevent the detection of PPIs with low abundance 
+proteins. To overcome this challenge, we develop a mRNA display with library of 
+even-distribution (md-LED) method that facilitates the detection of low 
+abundance binders with high specificity and sensitivity. As a 
+proof-of-principle, we apply md-LED to IAV NS1 protein. Complementary to AP-MS, 
+md-LED enables us to validate previously described PPIs as well as to identify 
+novel NS1 interactors. We show that interacting with FASN allows NS1 to directly 
+regulate the synthesis of cellular fatty acids. We also use md-LED to identify a 
+mutant of NS1, D92Y, results in a loss of interaction with CPSF1. The use of 
+high-throughput sequencing as the readout for md-LED enables sensitive 
+quantification of interactions, ultimately enabling massively parallel 
+experimentation for the investigation of PPIs.
+
+DOI: 10.1038/s41467-020-16140-9
+PMCID: PMC7229031
+PMID: 32415096 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

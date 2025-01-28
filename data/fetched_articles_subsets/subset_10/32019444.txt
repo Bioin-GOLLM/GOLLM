@@ -1,0 +1,45 @@
+1. Proc Biol Sci. 2020 Feb 12;287(1920):20192882. doi: 10.1098/rspb.2019.2882.
+Epub  2020 Feb 5.
+
+Integration of shared-pathogen networks and machine learning reveals the key 
+aspects of zoonoses and predicts mammalian reservoirs.
+
+Wardeh M(1), Sharkey KJ(2), Baylis M(3)(4).
+
+Author information:
+(1)Department of Epidemiology and Population Health, Institute of Infection and 
+Global Health, University of Liverpool, Liverpool Science Park IC2 Building, 146 
+Brownlow Hill, Liverpool L3 5RF, UK.
+(2)Department of Mathematical Sciences, University of Liverpool, Peach Street, 
+Liverpool L69 7ZL, UK.
+(3)Department of Epidemiology and Population Health, Institute of Infection and 
+Global Health, University of Liverpool, Leahurst Campus, Chester High Road, 
+Neston CH64 7TE, UK.
+(4)Health Protection Research Unit in Emerging and Zoonotic Infections, 
+University of Liverpool, Liverpool L69 7BE, UK.
+
+Diseases that spread to humans from animals, zoonoses, pose major threats to 
+human health. Identifying animal reservoirs of zoonoses and predicting future 
+outbreaks are increasingly important to human health and well-being and economic 
+stability, particularly where research and resources are limited. Here, we 
+integrate complex networks and machine learning approaches to develop a new 
+approach to identifying reservoirs. An exhaustive dataset of mammal-pathogen 
+interactions was transformed into networks where hosts are linked via their 
+shared pathogens. We present a methodology for identifying important and 
+influential hosts in these networks. Ensemble models linking network 
+characteristics with phylogeny and life-history traits are then employed to 
+predict those key hosts and quantify the roles they undertake in pathogen 
+transmission. Our models reveal drivers explaining host importance and 
+demonstrate how these drivers vary by pathogen taxa. Host importance is further 
+integrated into ensemble models to predict reservoirs of zoonoses of various 
+pathogen taxa and quantify the extent of pathogen sharing between humans and 
+mammals. We establish predictors of reservoirs of zoonoses, showcasing host 
+influence to be a key factor in determining these reservoirs. Finally, we 
+provide new insight into the determinants of zoonosis-sharing, and contrast 
+these determinants across major pathogen taxa.
+
+DOI: 10.1098/rspb.2019.2882
+PMCID: PMC7031665
+PMID: 32019444 [Indexed for MEDLINE]
+
+Conflict of interest statement: We declare we have no competing interests.

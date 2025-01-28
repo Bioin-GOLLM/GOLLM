@@ -1,0 +1,56 @@
+1. PLoS Comput Biol. 2023 Jun 23;19(6):e1010459. doi:
+10.1371/journal.pcbi.1010459.  eCollection 2023 Jun.
+
+Community detection in empirical kinase networks identifies new potential 
+members of signalling pathways.
+
+Basanta CLAC(1), Bazzi M(2)(3), Hijazi M(1), Bessant C(3)(4), Cutillas PR(1)(3).
+
+Author information:
+(1)Cell signaling and Proteomics Group, Centre for Genomics and Computational 
+Biology, Barts Cancer Institute, Queen Mary University of London, London, United 
+Kingdom.
+(2)Warwick Mathematics Institute, University of Warwick, Coventry, United 
+Kingdom.
+(3)The Alan Turing Institute, London, United Kingdom.
+(4)School of Biological and Chemical Sciences, Queen Mary University of London, 
+London, United Kingdom.
+
+Phosphoproteomics allows one to measure the activity of kinases that drive the 
+fluxes of signal transduction pathways involved in biological processes such as 
+immune function, senescence and cell growth. However, deriving knowledge of 
+signalling network circuitry from these data is challenging due to a scarcity of 
+phosphorylation sites that define kinase-kinase relationships. To address this 
+issue, we previously identified around 6,000 phosphorylation sites as markers of 
+kinase-kinase relationships (that may be conceptualised as network edges), from 
+which empirical cell-model-specific weighted kinase networks may be 
+reconstructed. Here, we assess whether the application of community detection 
+algorithms to such networks can identify new components linked to canonical 
+signalling pathways. Phosphoproteomics data from acute myeloid leukaemia (AML) 
+cells treated separately with PI3K, AKT, MEK and ERK inhibitors were used to 
+reconstruct individual kinase networks. We used modularity maximisation to 
+detect communities in each network, and selected the community containing the 
+main target of the inhibitor used to treat cells. These analyses returned 
+communities that contained known canonical signalling components. Interestingly, 
+in addition to canonical PI3K/AKT/mTOR members, the community assignments 
+returned TTK (also known as MPS1) as a likely component of PI3K/AKT/mTOR 
+signalling. We drew similar insights from an external phosphoproteomics dataset 
+from breast cancer cells treated with rapamycin and oestrogen. We confirmed this 
+observation with wet-lab laboratory experiments showing that TTK phosphorylation 
+was decreased in AML cells treated with AKT and MTOR inhibitors. This study 
+illustrates the application of community detection algorithms to the analysis of 
+empirical kinase networks to uncover new members linked to canonical signalling 
+pathways.
+
+Copyright: © 2023 Basanta et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pcbi.1010459
+PMCID: PMC10325051
+PMID: 37352361 [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests:P.R.C. is academic 
+co-founder of Kinomica Ltd.

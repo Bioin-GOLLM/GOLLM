@@ -1,0 +1,60 @@
+1. RETRACTED ARTICLE
+
+J Healthc Eng. 2022 Feb 16;2022:7414165. doi: 10.1155/2022/7414165. eCollection 
+2022.
+
+Evaluation of Fundus Blood Flow Perfusion in Patients with Diabetic Retinopathy 
+after PPV with Fundus Color Doppler Based on Big Data Mining.
+
+Wang X(1), Li F(2), Zhao W(3).
+
+Author information:
+(1)Department of Endocrinology, Lianshui County People's Hospital, Huai'an 
+223400, Jiangsu Province, China.
+(2)Department of Ophthalmology, The Affiliated Huai'an Hospital of Xuzhou 
+Medical University, Huai'an Second People's Hospital, Huai'an 223001, Jiangsu 
+Province, China.
+(3)Department of Ophthalmology, Hongze District People's Hospital, Huai'an 
+223100, Jiangsu Province, China.
+
+Retraction in
+    J Healthc Eng. 2023 Jul 12;2023:9867807. doi: 10.1155/2023/9867807.
+
+In this paper, we have carefully investigated the clinical phenotype and 
+genotype of patients with Johanson-Blizzard syndrome (JBS) with diabetes 
+mellitus as the main manifestation. Retinal vessel segmentation is an important 
+tool for the detection of many eye diseases and plays an important role in the 
+automated screening system for retinal diseases. A segmentation algorithm based 
+on a multiscale attentional resolution network is proposed to address the 
+problem of insufficient segmentation of small vessels and pathological 
+missegmentation in existing methods. The network is based on the encoder-decoder 
+architecture, and the attention residual block is introduced in the submodule to 
+enhance the feature propagation ability and reduce the impact of uneven 
+illumination and low contrast on the model. The jump connection is added between 
+the encoder and decoder, and the traditional pooling layer is removed to retain 
+sufficient vascular detail information. Two multiscale feature fusion methods, 
+parallel multibranch structure, and spatial pyramid pooling are used to achieve 
+feature extraction under different sensory fields. We collected the clinical 
+data, laboratory tests, and imaging examinations of JBS patients, extracted the 
+genomic DNA of relevant family members, and validated them by whole-exome 
+sequencing and Sanger sequencing. The patient had diabetes mellitus as the main 
+manifestation, with widened eye spacing, low flat nasal root, hypoplastic nasal 
+wing, and low hairline deformities. Genetic testing confirmed the presence of a 
+c.4463 T > C (p.Ile1488Thr) pure missense mutation in the UBR1 gene, which was a 
+novel mutation locus, and pathogenicity analysis indicated that the locus was 
+pathogenic. This patient carries a new UBR1 gene c.4463 T > C pure mutation, 
+which improves the clinical understanding of the clinical phenotypic spectrum of 
+JBS and broadens the genetic spectrum of the UBR1 gene. The experimental results 
+showed that the method achieved 83.26% and 82.56% F1 values on CHASEDB1 and 
+STARE standard sets, respectively, and 83.51% and 81.20% sensitivity, 
+respectively, and its performance was better than the current mainstream 
+methods.
+
+Copyright © 2022 Xin Wang et al.
+
+DOI: 10.1155/2022/7414165
+PMCID: PMC8865997
+PMID: 35222891 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

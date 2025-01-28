@@ -1,0 +1,38 @@
+1. Nat Methods. 2020 Nov;17(11):1118-1124. doi: 10.1038/s41592-020-0960-3. Epub 
+2020 Oct 12.
+
+DeepC: predicting 3D genome folding using megabase-scale transfer learning.
+
+Schwessinger R(1)(2)(3), Gosden M(1), Downes D(1), Brown RC(3), Oudelaar 
+AM(1)(2), Telenius J(2), Teh YW(4), Lunter G(5)(6), Hughes JR(7)(8).
+
+Author information:
+(1)MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular 
+Medicine, University of Oxford, Oxford, UK.
+(2)MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of 
+Molecular Medicine, University of Oxford, Oxford, UK.
+(3)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK.
+(4)Department of Statistics, University of Oxford, Oxford, UK.
+(5)MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of 
+Molecular Medicine, University of Oxford, Oxford, UK. 
+gerton.lunter@well.ox.ac.uk.
+(6)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK. 
+gerton.lunter@well.ox.ac.uk.
+(7)MRC Molecular Haematology Unit, MRC Weatherall Institute of Molecular 
+Medicine, University of Oxford, Oxford, UK. jim.hughes@imm.ox.ac.uk.
+(8)MRC WIMM Centre for Computational Biology, MRC Weatherall Institute of 
+Molecular Medicine, University of Oxford, Oxford, UK. jim.hughes@imm.ox.ac.uk.
+
+Predicting the impact of noncoding genetic variation requires interpreting it in 
+the context of three-dimensional genome architecture. We have developed deepC, a 
+transfer-learning-based deep neural network that accurately predicts genome 
+folding from megabase-scale DNA sequence. DeepC predicts domain boundaries at 
+high resolution, learns the sequence determinants of genome folding and predicts 
+the impact of both large-scale structural and single base-pair variations.
+
+DOI: 10.1038/s41592-020-0960-3
+PMCID: PMC7610627
+PMID: 33046896 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing financial interests The authors 
+declare no competing financial interests.

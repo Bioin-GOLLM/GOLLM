@@ -1,0 +1,55 @@
+1. Comput Biol Med. 2021 Dec;139:104986. doi: 10.1016/j.compbiomed.2021.104986. 
+Epub 2021 Oct 30.
+
+Integrative assessment of CIP2A overexpression and mutational effects in human 
+malignancies identifies possible deleterious variants.
+
+Tarek MM(1), Yahia A(2), El-Nakib MM(3), Elhefnawi M(4).
+
+Author information:
+(1)Bioinformatics Department, Armed Forces College of Medicine (AFCM) Cairo, 
+Egypt. Electronic address: motarek_022_3@afcm.edu.eg.
+(2)Otolaryngology Department, Armed Forces College of Medicine (AFCM) Cairo, 
+Egypt.
+(3)Egypt Center for Research and Regenerative Medicine, Cairo, Egypt.
+(4)Biomedical Informatics and Chemo-Informatics Group, Centre of Excellence for 
+Medical Research, Informatics and Systems Department, National Research Centre, 
+Cairo, Egypt.
+
+KIAA1524 is the gene encoding the human cancerous inhibitor of PP2A (CIP2A) 
+protein which is regarded as a novel target for cancer therapy. It is 
+overexpressed in 65%-90% of tissues in almost all studied human cancers. CIP2A 
+expression correlates with cancer progression, disease aggressivity in lung 
+cancer besides poor survival and resistance to chemotherapy in breast cancer. 
+Herein, a pan-cancer analysis of public gene expression datasets was conducted 
+showing significant upregulation of CIP2A in cancerous and metastatic tissues. 
+CIP2A overexpression also correlated with poor survival of cancer patients. To 
+determine the non-coding variants associated with CIP2A overexpression, 5'UTR 
+and 3'UTR variants were annotated and scored using RegulomeDB and Enformer deep 
+learning model. The 5'UTR variants rs1239349555, rs1576326380, and rs1231839144 
+were predicted to be potential regulators of CIP2A overexpression scoring best 
+on RegulomeDB annotations with a high "2a" rank of supporting experimental data. 
+These variants also scored the highest on Enformer predictions. Analysis of the 
+3'UTR variants of CIP2A predicted rs56255137 and rs58758610 to alter binding 
+sites of hsa-miR-500a-5 and (hsa-miR-3671, hsa-miR-5692a) respectively. Both 
+variants were also found in linkage disequilibrium with rs11709183 and 
+rs147863209 respectively at r2 ≥ 0.8. The aforementioned variants were found to 
+be eQTL hits significantly associated with CIP2A overexpression. Further, 
+analysis of rs11709183 and rs147863209 revealed a high "2b" rank on RegulomeDB 
+annotations indicating a probable effect on DNAse transcription factors binding. 
+The MuTarget analysis indicated that somatic mutations in TP53 are significantly 
+associated with upregulated CIP2A in human cancers. Analysis of missense SNPs on 
+CIP2A solved structure predicted seven deleterious effects. Four of these 
+variants were also predicted as structurally and functionally destabilizing to 
+CIP2A including; rs375108755, rs147942716, rs368722879, and rs367941403. Variant 
+rs1193091427 was predicted as a potential intronic splicing mutation that might 
+be responsible for the novel CIP2A variant (NOCIVA) in multiple myeloma. 
+Finally, Enrichment of the Wnt/β-catenin pathway within the CIP2A regulatory 
+gene network suggested potential of therapeutic combinations between FTY720 with 
+Wnt/β-catenin, Plk1 and/or HDAC inhibitors to downregulate CIP2A which has been 
+shown to be essential for the survival of different cancer cell lines.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104986
+PMID: 34739970 [Indexed for MEDLINE]

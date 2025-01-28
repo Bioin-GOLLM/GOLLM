@@ -1,0 +1,51 @@
+1. Front Neurosci. 2016 Mar 30;10:121. doi: 10.3389/fnins.2016.00121. eCollection
+ 2016.
+
+Electrical Responses and Spontaneous Activity of Human iPS-Derived Neuronal 
+Networks Characterized for 3-month Culture with 4096-Electrode Arrays.
+
+Amin H(1), Maccione A(1), Marinaro F(2), Zordan S(1), Nieus T(1), Berdondini 
+L(1).
+
+Author information:
+(1)NetS3 Laboratory, Neuroscience and Brain Technologies Department, Fondazione 
+Istituto Italiano di Tecnologia (IIT) Genova, Italy.
+(2)Neurobiology of miRNA Laboratory, Neuroscience and Brain Technologies 
+Department, Fondazione Istituto Italiano di Tecnologia (IIT) Genova, Italy.
+
+The recent availability of human induced pluripotent stem cells (hiPSCs) holds 
+great promise as a novel source of human-derived neurons for cell and tissue 
+therapies as well as for in vitro drug screenings that might replace the use of 
+animal models. However, there is still a considerable lack of knowledge on the 
+functional properties of hiPSC-derived neuronal networks, thus limiting their 
+application. Here, upon optimization of cell culture protocols, we demonstrate 
+that both spontaneous and evoked electrical spiking activities of these networks 
+can be characterized on-chip by taking advantage of the resolution provided by 
+CMOS multielectrode arrays (CMOS-MEAs). These devices feature a large and 
+closely-spaced array of 4096 simultaneously recording electrodes and multi-site 
+on-chip electrical stimulation. Our results show that networks of human-derived 
+neurons can respond to electrical stimulation with a physiological repertoire of 
+spike waveforms after 3 months of cell culture, a period of time during which 
+the network undergoes the expression of developing patterns of spontaneous 
+spiking activity. To achieve this, we have investigated the impact on the 
+network formation and on the emerging network-wide functional properties induced 
+by different biochemical substrates, i.e., poly-dl-ornithine (PDLO), 
+poly-l-ornithine (PLO), and polyethylenimine (PEI), that were used as adhesion 
+promoters for the cell culture. Interestingly, we found that neuronal networks 
+grown on PDLO coated substrates show significantly higher spontaneous firing 
+activity, reliable responses to low-frequency electrical stimuli, and an 
+appropriate level of PSD-95 that may denote a physiological neuronal maturation 
+profile and synapse stabilization. However, our results also suggest that even 
+3-month culture might not be sufficient for human-derived neuronal network 
+maturation. Taken together, our results highlight the tight relationship 
+existing between substrate coatings and emerging network properties, i.e., 
+spontaneous activity, responsiveness, synapse formation and maturation. 
+Additionally, our results provide a baseline on the functional properties 
+expressed over 3 months of network development for a commercially available line 
+of hiPSC-derived neurons. This is a first step toward the development of 
+functional pre-clinical assays to test pharmaceutical compounds on human-derived 
+neuronal networks with CMOS-MEAs.
+
+DOI: 10.3389/fnins.2016.00121
+PMCID: PMC4811967
+PMID: 27065786

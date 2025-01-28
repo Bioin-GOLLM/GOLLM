@@ -1,0 +1,48 @@
+1. Methods Enzymol. 2015;564:427-53. doi: 10.1016/bs.mie.2015.07.007. Epub 2015
+Aug  8.
+
+An Integrated Spin-Labeling/Computational-Modeling Approach for Mapping Global 
+Structures of Nucleic Acids.
+
+Tangprasertchai NS(1), Zhang X(1), Ding Y(1), Tham K(1), Rohs R(2), Haworth 
+IS(3), Qin PZ(4).
+
+Author information:
+(1)Department of Chemistry, University of Southern California, Los Angeles, 
+California, USA.
+(2)Department of Chemistry, University of Southern California, Los Angeles, 
+California, USA; Molecular and Computational Biology Program, Department of 
+Biological Sciences, University of Southern California, Los Angeles, California, 
+USA.
+(3)Department of Pharmacology and Pharmaceutical Sciences, School of Pharmacy, 
+University of Southern California, Los Angeles, California, USA.
+(4)Department of Chemistry, University of Southern California, Los Angeles, 
+California, USA; Molecular and Computational Biology Program, Department of 
+Biological Sciences, University of Southern California, Los Angeles, California, 
+USA. Electronic address: pzq@usc.edu.
+
+The technique of site-directed spin labeling (SDSL) provides unique information 
+on biomolecules by monitoring the behavior of a stable radical tag (i.e., spin 
+label) using electron paramagnetic resonance (EPR) spectroscopy. In this 
+chapter, we describe an approach in which SDSL is integrated with computational 
+modeling to map conformations of nucleic acids. This approach builds upon a SDSL 
+tool kit previously developed and validated, which includes three components: 
+(i) a nucleotide-independent nitroxide probe, designated as R5, which can be 
+efficiently attached at defined sites within arbitrary nucleic acid sequences; 
+(ii) inter-R5 distances in the nanometer range, measured via pulsed EPR; and 
+(iii) an efficient program, called NASNOX, that computes inter-R5 distances on 
+given nucleic acid structures. Following a general framework of data mining, our 
+approach uses multiple sets of measured inter-R5 distances to retrieve "correct" 
+all-atom models from a large ensemble of models. The pool of models can be 
+generated independently without relying on the inter-R5 distances, thus allowing 
+a large degree of flexibility in integrating the SDSL-measured distances with a 
+modeling approach best suited for the specific system under investigation. As 
+such, the integrative experimental/computational approach described here 
+represents a hybrid method for determining all-atom models based on 
+experimentally-derived distance measurements.
+
+© 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.mie.2015.07.007
+PMCID: PMC4641853
+PMID: 26477260 [Indexed for MEDLINE]

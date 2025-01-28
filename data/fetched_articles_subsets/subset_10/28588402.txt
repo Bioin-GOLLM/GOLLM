@@ -1,0 +1,33 @@
+1. Proc Math Phys Eng Sci. 2017 May;473(2201):20160846. doi: 
+10.1098/rspa.2016.0846. Epub 2017 May 3.
+
+Well-posed continuum equations for granular flow with compressibility and 
+μ(I)-rheology.
+
+Barker T(1), Schaeffer DG(2), Shearer M(3), Gray JMNT(1).
+
+Author information:
+(1)School of Mathematics and Manchester Centre for Nonlinear Dynamics, 
+University of Manchester, Oxford Road, Manchester M13 9PL, UK.
+(2)Mathematics Department, Duke University, Box 90320, Durham, NC 27708-0320, 
+USA.
+(3)Department of Mathematics, North Carolina State University, Raleigh, NC 
+27695-8205, USA.
+
+Continuum modelling of granular flow has been plagued with the issue of 
+ill-posed dynamic equations for a long time. Equations for incompressible, 
+two-dimensional flow based on the Coulomb friction law are ill-posed regardless 
+of the deformation, whereas the rate-dependent μ(I)-rheology is ill-posed when 
+the non-dimensional inertial number I is too high or too low. Here, 
+incorporating ideas from critical-state soil mechanics, we derive conditions for 
+well-posedness of partial differential equations that combine compressibility 
+with I-dependent rheology. When the I-dependence comes from a specific friction 
+coefficient μ(I), our results show that, with compressibility, the equations are 
+well-posed for all deformation rates provided that μ(I) satisfies certain 
+minimal, physically natural, inequalities.
+
+DOI: 10.1098/rspa.2016.0846
+PMCID: PMC5454347
+PMID: 28588402
+
+Conflict of interest statement: We have no competing interests.

@@ -1,0 +1,45 @@
+1. Molecules. 2023 Oct 17;28(20):7139. doi: 10.3390/molecules28207139.
+
+Revealing Allosteric Mechanism of Amino Acid Binding Proteins from Open to 
+Closed State.
+
+Shi Q(1), Liu L(1), Duan H(2), Jiang Y(1), Luo W(1), Sun G(1), Ge Y(1), Liang 
+L(1), Liu W(1), Shi H(2), Hu J(1).
+
+Author information:
+(1)Key Laboratory of Medicinal and Edible Plants Resources Development of 
+Sichuan Education Department, School of Pharmacy, Chengdu University, Chengdu 
+610106, China.
+(2)Laboratory of Integrative Medicine, Clinical Research Center for Breast, 
+State Key Laboratory of Biotherapy, West China Hospital, Sichuan University and 
+Collaborative Innovation Center, Chengdu 610041, China.
+
+Amino acid binding proteins (AABPs) undergo significant conformational closure 
+in the periplasmic space of Gram-negative bacteria, tightly binding specific 
+amino acid substrates and then initiating transmembrane transport of nutrients. 
+Nevertheless, the possible closure mechanisms after substrate binding, 
+especially long-range signaling, remain unknown. Taking three typical 
+AABPs-glutamine binding protein (GlnBP), histidine binding protein (HisJ) and 
+lysine/arginine/ornithine binding protein (LAOBP) in Escherichia coli (E. 
+coli)-as research subjects, a series of theoretical studies including sequence 
+alignment, Gaussian network model (GNM), anisotropic network model (ANM), 
+conventional molecular dynamics (cMD) and neural relational inference molecular 
+dynamics (NRI-MD) simulations were carried out. Sequence alignment showed that 
+GlnBP, HisJ and LAOBP have high structural similarity. According to the results 
+of the GNM and ANM, AABPs' Index Finger and Thumb domains exhibit closed motion 
+tendencies that contribute to substrate capture and stable binding. Based on cMD 
+trajectories, the Index Finger domain, especially the I-Loop region, exhibits 
+high molecular flexibility, with residues 11 and 117 both being potentially key 
+residues for receptor-ligand recognition and initiation of receptor allostery. 
+Finally, the signaling pathway of AABPs' conformational closure was revealed by 
+NRI-MD training and trajectory reconstruction. This work not only provides a 
+complete picture of AABPs' recognition mechanism and possible conformational 
+closure, but also aids subsequent structure-based design of small-molecule 
+oncology drugs.
+
+DOI: 10.3390/molecules28207139
+PMCID: PMC10609312
+PMID: 37894619 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest, 
+financial or otherwise.

@@ -1,0 +1,39 @@
+1. Nucleic Acids Res. 2005 Sep 1;33(15):e133. doi: 10.1093/nar/gni132.
+
+Multiplex SNP typing by bioluminometric assay coupled with terminator 
+incorporation (BATI).
+
+Zhou GH(1), Gotou M, Kajiyama T, Kambara H.
+
+Author information:
+(1)Central Research Laboratory, Hitachi, Ltd 1-280 Higashi-Koigakubo, 
+Kokubunji-shi, Tokyo 185-8601, Japan.
+
+A multiplex single-nucleotide polymorphism (SNP) typing platform using 
+'bioluminometric assay coupled with terminator [2',3'-dideoxynucleoside 
+triphosphates (ddNTPs)] incorporation' (named 'BATI' for short) was developed. 
+All of the reactions are carried out in a single reaction chamber containing 
+target DNAs, DNA polymerase, reagents necessary for converting PPi into ATP and 
+reagents for luciferase reaction. Each of the four ddNTPs is dispensed into the 
+reaction chamber in turn. PPi is released by a nucleotide incorporation reaction 
+and is used to produce ATP when the ddNTP dispensed is complementary to the base 
+in a template. The ATP is used in a luciferase reaction to release visible 
+light. Only 1 nt is incorporated into a template at a time because ddNTPs do not 
+have a 3' hydroxyl group. This feature greatly simplifies a sequencing spectrum. 
+The luminescence is proportional to the amount of template incorporated. Only 
+one peak appears in the spectrum of a homozygote sample, and two peaks at the 
+same intensity appear for a heterozygote sample. In comparison with 
+pyrosequencing using dNTP, the spectrum obtained by BATI is very simple, and it 
+is very easy to determine SNPs accurately from it. As only one base is extended 
+at a time and the extension signals are quantitative, the observed spectrum 
+pattern is uniquely determined even for a sample containing multiplex SNPs. We 
+have successfully used BATI to type various samples containing plural target 
+sequence areas. The measurements can be carried out with an inexpensive and 
+small luminometer using a photodiode array as the detector. It takes only a few 
+minutes to determine multiplex SNPs. These results indicate that this novel 
+multiplexed approach can significantly decrease the cost of SNP typing and 
+increase the typing throughput with an inexpensive and small luminometer.
+
+DOI: 10.1093/nar/gni132
+PMCID: PMC1197137
+PMID: 16141191 [Indexed for MEDLINE]

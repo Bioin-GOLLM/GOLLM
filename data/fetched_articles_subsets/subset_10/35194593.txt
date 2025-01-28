@@ -1,0 +1,28 @@
+1. ACM CHIL 2021 (2021). 2021 Apr;2021:146-153. doi: 10.1145/3450439.3451879.
+
+Controlled Molecule Generator for Optimizing Multiple Chemical Properties.
+
+Shin B(1), Park S(1), Bak J(2), Ho JC(3).
+
+Author information:
+(1)Deargen Inc. Seoul, South Korea.
+(2)SungKyunKwan University, Suwon, South Korea.
+(3)Emory University, Atlanta, GA, USA.
+
+Generating a novel and optimized molecule with desired chemical properties is an 
+essential part of the drug discovery process. Failure to meet one of the 
+required properties can frequently lead to failure in a clinical test which is 
+costly. In addition, optimizing these multiple properties is a challenging task 
+because the optimization of one property is prone to changing other properties. 
+In this paper, we pose this multi-property optimization problem as a sequence 
+translation process and propose a new optimized molecule generator model based 
+on the Transformer with two constraint networks: property prediction and 
+similarity prediction. We further improve the model by incorporating score 
+predictions from these constraint networks in a modified beam search algorithm. 
+The experiments demonstrate that our proposed model, Controlled Molecule 
+Generator (CMG), outperforms state-of-the-art models by a significant margin for 
+optimizing multiple properties simultaneously.
+
+DOI: 10.1145/3450439.3451879
+PMCID: PMC8860388
+PMID: 35194593

@@ -1,0 +1,43 @@
+1. Cell Rep. 2019 Oct 29;29(5):1369-1380.e5. doi: 10.1016/j.celrep.2019.09.052.
+
+Mapping Native R-Loops Genome-wide Using a Targeted Nuclease Approach.
+
+Yan Q(1), Shields EJ(2), Bonasio R(3), Sarma K(4).
+
+Author information:
+(1)Gene Expression and Regulation Program, The Wistar Institute, Philadelphia, 
+PA 19104, USA; Epigenetics Institute, University of Pennsylvania, Philadelphia, 
+PA 19104, USA.
+(2)Department of Cell and Developmental Biology, University of Pennsylvania, 
+Philadelphia, PA 19104, USA; Graduate Group in Genomics and Computational 
+Biology, University of Pennsylvania, Philadelphia, PA 19104, USA; Epigenetics 
+Institute, University of Pennsylvania, Philadelphia, PA 19104, USA.
+(3)Department of Cell and Developmental Biology, University of Pennsylvania, 
+Philadelphia, PA 19104, USA; Epigenetics Institute, University of Pennsylvania, 
+Philadelphia, PA 19104, USA. Electronic address: roberto@bonasiolab.org.
+(4)Gene Expression and Regulation Program, The Wistar Institute, Philadelphia, 
+PA 19104, USA; Epigenetics Institute, University of Pennsylvania, Philadelphia, 
+PA 19104, USA. Electronic address: kavitha@sarmalab.com.
+
+R-loops are three-stranded DNA:RNA hybrids that are implicated in many nuclear 
+processes. While R-loops may have physiological roles, the formation of stable, 
+aberrant R-loops has been observed in neurological disorders and cancers. 
+Current methods to assess their genome-wide distribution rely on affinity 
+purification, which is plagued by large input requirements, high noise, and poor 
+sensitivity for dynamic R-loops. Here, we present MapR, a method that utilizes 
+RNase H to guide micrococcal nuclease to R-loops, which are subsequently 
+cleaved, released, and identified by sequencing. MapR detects R-loops formed at 
+promoters and active enhancers that are likely to form transient R-loops due to 
+the low transcriptional output of these regulatory elements and the short-lived 
+nature of enhancer RNAs. MapR is as specific as existing techniques and more 
+sensitive, allowing for genome-wide coverage with low input material in a 
+fraction of the time.
+
+Copyright © 2019 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2019.09.052
+PMCID: PMC6870988
+PMID: 31665646 [Indexed for MEDLINE]
+
+Conflict of interest statement: DECLARATION OF INTERESTS The authors declare no 
+competing interests.

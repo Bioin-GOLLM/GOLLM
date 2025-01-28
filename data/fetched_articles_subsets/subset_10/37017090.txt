@@ -1,0 +1,81 @@
+1. Circ Genom Precis Med. 2023 Jun;16(3):207-215. doi:
+10.1161/CIRCGEN.122.003708.  Epub 2023 Apr 5.
+
+Genetic Determinants of the Interventricular Septum Are Linked to Ventricular 
+Septal Defects and Hypertrophic Cardiomyopathy.
+
+Yu M(1)(2), Harper AR(3)(4)(5), Aguirre M(1)(6), Pittman M(7), Tcheandjieu 
+C(1)(8)(2), Amgalan D(9)(10), Grace C(3)(4), Goel A(3)(4), Farrall M(3)(4), Xiao 
+K(11), Engreitz J(9)(10), Pollard KS(12)(13), Watkins H(3)(4), Priest 
+JR(1)(2)(13)(14).
+
+Author information:
+(1)Department of Pediatrics, Division of Pediatric Cardiology (M.Y., M.A., C.T., 
+J.R.P.), Stanford University School of Medicine.
+(2)Stanford Cardiovascular Institute (M.Y., C.T., J.R.P.).
+(3)Radcliffe Department of Medicine, University of Oxford, Division of 
+Cardiovascular Medicine, John Radcliffe Hospital (A.R.H., C.G., A.G., M.F., 
+H.W.).
+(4)Wellcome Centre for Human Genetics, Roosevelt Drive, Oxford (A.R.H., C.G., 
+A.G., M.F., H.W.).
+(5)Centre for Genomics Research, Discovery Sciences, BioPharmaceuticals R&D, 
+AstraZeneca, Cambridge, United Kingdom (A.R.H.).
+(6)Department of Biomedical Data Science, Stanford Medical School (M.A.).
+(7)University of California, San Francisco (M.P., K.S.P.).
+(8)Department of Medicine, Division of Cardiovascular Medicine (C.T.), Stanford 
+University School of Medicine.
+(9)Department of Genetics, Stanford University, CA (D.A., J.E.).
+(10)Basic Sciences and Engineering Initiative, Betty Irene Moore Children's 
+Heart Center, Lucile Packard Children's Hospital, Stanford, CA (D.A., J.E.).
+(11)College of Information & Computer Sciences at University of Massachusetts 
+Amherst, MA (K.X.).
+(12)Gladstone Institute of Data Science & Biotechnology, San Francisco (M.P., 
+K.S.P.).
+(13)Chan-Zuckerberg Biohub (K.S.P., J.R.P.).
+(14)Now with, Tenaya Therapeutics, South San Francisco, CA (J.R.P.).
+
+BACKGROUND: A large proportion of genetic risk remains unexplained for 
+structural heart disease involving the interventricular septum (IVS) including 
+hypertrophic cardiomyopathy and ventricular septal defects. This study sought to 
+develop a reproducible proxy of IVS structure from standard medical imaging, 
+discover novel genetic determinants of IVS structure, and relate these loci to 
+diseases of the IVS, hypertrophic cardiomyopathy, and ventricular septal defect.
+METHODS: We estimated the cross-sectional area of the IVS from the 4-chamber 
+view of cardiac magnetic resonance imaging in 32 219 individuals from the UK 
+Biobank which was used as the basis of genome wide association studies and 
+Mendelian randomization.
+RESULTS: Measures of IVS cross-sectional area at diastole were a strong proxy 
+for the 3-dimensional volume of the IVS (Pearson r=0.814, P=0.004), and 
+correlated with anthropometric measures, blood pressure, and diagnostic codes 
+related to cardiovascular physiology. Seven loci with clear genomic consequence 
+and relevance to cardiovascular biology were uncovered by genome wide 
+association studies, most notably a single nucleotide polymorphism in an intron 
+of CDKN1A (rs2376620; β, 7.7 mm2 [95% CI, 5.8-11.0]; P=6.0×10-10), and a common 
+inversion incorporating KANSL1 predicted to disrupt local chromatin structure 
+(β, 8.4 mm2 [95% CI, 6.3-10.9]; P=4.2×10-14). Mendelian randomization suggested 
+that inheritance of larger IVS cross-sectional area at diastole was strongly 
+associated with hypertrophic cardiomyopathy risk (pIVW=4.6×10-10) while 
+inheritance of smaller IVS cross-sectional area at diastole was associated with 
+risk for ventricular septal defect (pIVW=0.007).
+CONCLUSIONS: Automated estimates of cross-sectional area of the IVS supports 
+discovery of novel loci related to cardiac development and Mendelian disease. 
+Inheritance of genetic liability for either small or large IVS, appears to 
+confer risk for ventricular septal defect or hypertrophic cardiomyopathy, 
+respectively. These data suggest that a proportion of risk for structural and 
+congenital heart disease can be localized to the common genetic determinants of 
+size and shape of cardiovascular anatomy.
+
+DOI: 10.1161/CIRCGEN.122.003708
+PMCID: PMC10293084
+PMID: 37017090 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosures Dr Priest is a full time employee 
+and shareholder of Tenaya Therapeutics (South San Francisco, California) which 
+had no role in research funding, data interpretation, writing or approval of 
+this article. Tenaya Therapeutics has publicly disclosed programs in 
+hypertrophic cardiomyopathy. Dr Pollard is a founder, scientific advisor, and 
+shareholder of Tenaya Therapeutics which has publicly disclosed therapeutic 
+programs in hypertrophic cardiomyopathy. Dr Watkins is a consultant to BioMarin 
+Pharmaceuticals which has publicly disclosed therapeutic programs in 
+hypertrophic cardiomyopathy. A.R. Harper is an employee of AstraZeneca 
+BioPharmaceuticals. The other authors report no conflicts.

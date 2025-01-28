@@ -1,0 +1,54 @@
+1. bioRxiv [Preprint]. 2023 May 9:2023.05.09.539914. doi: 
+10.1101/2023.05.09.539914.
+
+Simultaneous enhancement of multiple functional properties using 
+evolution-informed protein design.
+
+Fram B(1), Truebridge I(2)(3)(4), Su Y(1), Riesselman AJ(1)(5), Ingraham JB(1), 
+Passera A(6)(7), Napier E(8), Thadani NN(1), Lim S(1), Roberts K(9), Kaur G(9), 
+Stiffler M(6), Marks DS(1), Bahl CD(2)(3)(4), Khan AR(8)(10), Sander C(1), 
+Gauthier NP(1)(6).
+
+Author information:
+(1)Department of Systems Biology, Harvard Medical School, Boston, MA, USA.
+(2)Institute for Protein Innovation, Boston, Massachusetts, Boston, MA, USA.
+(3)Division of Hematology/Oncology, Boston Children's Hospital, Harvard Medical 
+School; Boston, MA, USA.
+(4)current address: AI Proteins; Boston, MA, USA.
+(5)Program in Biomedical Informatics, Harvard Medical School, Boston, MA, USA.
+(6)Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.
+(7)current address: Research Institute of Molecular Pathology (IMP), Vienna 
+BioCenter (VBC), Campus-Vienna-Biocenter 1, 1030 Vienna, Austria.
+(8)School of Biochemistry and Immunology, Trinity College Dublin, Dublin 2, 
+Ireland.
+(9)Selux Diagnostics, Inc., 56 Roland Street, Charlestown, MA, USA.
+(10)Division of Newborn Medicine, Boston Children's Hospital, Boston, MA, USA.
+
+Update in
+    Nat Commun. 2024 Jun 20;15(1):5141. doi: 10.1038/s41467-024-49119-x.
+
+Designing optimized proteins is important for a range of practical applications. 
+Protein design is a rapidly developing field that would benefit from approaches 
+that enable many changes in the amino acid primary sequence, rather than a small 
+number of mutations, while maintaining structure and enhancing function. 
+Homologous protein sequences contain extensive information about various protein 
+properties and activities that have emerged over billions of years of evolution. 
+Evolutionary models of sequence co-variation, derived from a set of homologous 
+sequences, have proven effective in a range of applications including structure 
+determination and mutation effect prediction. In this work we apply one of these 
+models (EVcouplings) to computationally design highly divergent variants of the 
+model protein TEM-1 β-lactamase, and characterize these designs experimentally 
+using multiple biochemical and biophysical assays. Nearly all designed variants 
+were functional, including one with 84 mutations from the nearest natural 
+homolog. Surprisingly, all functional designs had large increases in 
+thermostability and most had a broadening of available substrates. These 
+property enhancements occurred while maintaining a nearly identical structure to 
+the wild type enzyme. Collectively, this work demonstrates that evolutionary 
+models of sequence co-variation (1) are able to capture complex epistatic 
+interactions that successfully guide large sequence departures from natural 
+contexts, and (2) can be applied to generate functional diversity useful for 
+many applications in protein design.
+
+DOI: 10.1101/2023.05.09.539914
+PMCID: PMC10197589
+PMID: 37214973

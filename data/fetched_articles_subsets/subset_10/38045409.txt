@@ -1,0 +1,35 @@
+1. bioRxiv [Preprint]. 2023 Nov 22:2023.11.22.568285. doi: 
+10.1101/2023.11.22.568285.
+
+MitoTracer facilitates the identification of informative mitochondrial mutations 
+for precise lineage reconstruction.
+
+Yu X(1)(2)(3), Hu J(1)(2)(3), Tan Y(1)(2), Pan M(1)(2), Zhang H(1)(2), Li 
+B(1)(2)(4).
+
+Author information:
+(1)Center for Computational and Genomic Medicine, The Children's Hospital of 
+Philadelphia, Philadelphia, PA 19104, USA.
+(2)Department of Pathology and Laboratory Medicine, University of Pennsylvania, 
+Philadelphia, PA 19104, USA.
+(3)These authors contributed equally.
+(4)Lead contact.
+
+Mitochondrial (MT) mutations serve as natural genetic markers for inferring 
+clonal relationships using single cell sequencing data. However, the fundamental 
+challenge of MT mutation-based lineage tracing is automated identification of 
+informative MT mutations. Here, we introduced an open-source computational 
+algorithm called "MitoTracer", which accurately identified clonally informative 
+MT mutations and inferred evolutionary lineage from scRNA-seq or scATAC-seq 
+samples. We benchmarked MitoTracer using the ground-truth experimental lineage 
+sequencing data and demonstrated its superior performance over the existing 
+methods measured by high sensitivity and specificity. MitoTracer is compatible 
+with multiple single cell sequencing platforms. Its application to a cancer 
+evolution dataset revealed the genes related to primary BRAF-inhibitor 
+resistance from scRNA-seq data of BRAF-mutated cancer cells. Overall, our work 
+provided a valuable tool for capturing real informative MT mutations and tracing 
+the lineages among cells.
+
+DOI: 10.1101/2023.11.22.568285
+PMCID: PMC10690277
+PMID: 38045409

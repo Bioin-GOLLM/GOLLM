@@ -1,0 +1,50 @@
+1. PLoS One. 2016 Nov 8;11(11):e0165655. doi: 10.1371/journal.pone.0165655. 
+eCollection 2016.
+
+3D Finite Element Electrical Model of Larval Zebrafish ECG Signals.
+
+Crowcombe J(1), Dhillon SS(2)(3), Hurst RM(2)(3), Egginton S(4), Müller F(2), 
+Sík A(3), Tarte E(1).
+
+Author information:
+(1)School of Engineering, University of Birmingham, Birmingham, United Kingdom.
+(2)Institute of Cancer and Genomic Sciences, College of Medical and Dental 
+Sciences, University of Birmingham, Birmingham, United Kingdom.
+(3)Institute of Clinical Sciences, College of Medical and Dental Sciences, 
+University of Birmingham, Birmingham, United Kingdom.
+(4)School of Biomedical Sciences, Faculty of Biological Sciences, University of 
+Leeds, Leeds, United Kingdom.
+
+Assessment of heart function in zebrafish larvae using electrocardiography (ECG) 
+is a potentially useful tool in developing cardiac treatments and the assessment 
+of drug therapies. In order to better understand how a measured ECG waveform is 
+related to the structure of the heart, its position within the larva and the 
+position of the electrodes, a 3D model of a 3 days post fertilisation (dpf) 
+larval zebrafish was developed to simulate cardiac electrical activity and 
+investigate the voltage distribution throughout the body. The geometry consisted 
+of two main components; the zebrafish body was modelled as a homogeneous volume, 
+while the heart was split into five distinct regions (sinoatrial region, atrial 
+wall, atrioventricular band, ventricular wall and heart chambers). Similarly, 
+the electrical model consisted of two parts with the body described by Laplace's 
+equation and the heart using a bidomain ionic model based upon the 
+Fitzhugh-Nagumo equations. Each region of the heart was differentiated by action 
+potential (AP) parameters and activation wave conduction velocities, which were 
+fitted and scaled based on previously published experimental results. ECG 
+measurements in vivo at different electrode recording positions were then 
+compared to the model results. The model was able to simulate action potentials, 
+wave propagation and all the major features (P wave, R wave, T wave) of the ECG, 
+as well as polarity of the peaks observed at each position. This model was based 
+upon our current understanding of the structure of the normal zebrafish larval 
+heart. Further development would enable us to incorporate features associated 
+with the diseased heart and hence assist in the interpretation of larval 
+zebrafish ECGs in these conditions.
+
+DOI: 10.1371/journal.pone.0165655
+PMCID: PMC5100939
+PMID: 27824910 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: Ferenc Müller is academic 
+editor at PLOS ONE. There are no patents, products in development or marketed 
+products to declare. This does not alter the authors' adherence to all the PLOS 
+ONE policies on sharing data and materials, as detailed online in the guide for 
+authors.

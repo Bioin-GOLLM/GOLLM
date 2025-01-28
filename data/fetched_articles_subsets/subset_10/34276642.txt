@@ -1,0 +1,59 @@
+1. Front Immunol. 2021 Jul 1;12:614773. doi: 10.3389/fimmu.2021.614773.
+eCollection  2021.
+
+Comprehensive Transcriptomic Analysis Reveals the Role of the Immune Checkpoint 
+HLA-G Molecule in Cancers.
+
+Xu HH(1)(2), Gan J(1), Xu DP(3), Li L(4), Yan WH(1)(2).
+
+Author information:
+(1)Medical Research Center, Taizhou Hospital of Zhejiang Province, Wenzhou 
+Medical University, Linhai, China.
+(2)Key Laboratory of Minimally Invasive Techniques & Rapid Rehabilitation of 
+Digestive System Tumor of Zhejiang Province, Taizhou Hospital of Zhejiang 
+Province, Linhai, China.
+(3)Reproductive Center, Taizhou Hospital of Zhejiang Province, Wenzhou Medical 
+University, Linhai, China.
+(4)Pediatrics, Taizhou Hospital of Zhejiang Province, Wenzhou Medical 
+University, Linhai, China.
+
+Human leukocyte antigen G (HLA-G) is known as a novel immune checkpoint molecule 
+in cancer; thus, HLA-G and its receptors might be targets for immune checkpoint 
+blockade in cancer immunotherapy. The aim of this study was to systematically 
+identify the roles of checkpoint HLA-G molecules across various types of cancer. 
+ONCOMINE, GEPIA, CCLE, TRRUST, HAP, PrognoScan, Kaplan-Meier Plotter, 
+cBioPortal, LinkedOmics, STRING, GeneMANIA, DAVID, TIMER, and CIBERSORT were 
+utilized. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+enrichment analyses were performed. In this study, we comprehensively analysed 
+the heterogeneous expression of HLA-G molecules in various types of cancer and 
+focused on genetic alterations, coexpression patterns, gene interaction 
+networks, HLA-G interactors, and the relationships between HLA-G and 
+pathological stage, prognosis, and tumor-infiltrating immune cells. We first 
+identified that the mRNA expression levels of HLA-G were significantly 
+upregulated in both most tumor tissues and tumor cell lines on the basis of 
+in-depth analysis of RNAseq data. The expression levels of HLA-G were positively 
+associated with those of the other immune checkpoints PD-1 and CTLA-4. Abnormal 
+expression of HLA-G was significantly correlated with the pathological stage of 
+some but not all tumor types. There was a significant difference between the 
+high and low HLA-G expression groups in terms of overall survival (OS) or 
+disease-free survival (DFS). The results showed that HLA-G highly expressed have 
+positive associations with tumor-infiltrating immune cells in the 
+microenvironment in most types of tumors (P<0.05). Additionally, we identified 
+the key transcription factor (TF) targets in the regulation of HLA-G expression, 
+including HIVEP2, MYCN, CIITA, MYC, and IRF1. Multiple mutations (missense, 
+truncating, etc.) and the methylation status of the HLA-G gene may explain the 
+differential expression of HLA-G across different tumors. Functional enrichment 
+analysis showed that HLA-G was primarily related to T cell activation, T cell 
+regulation, and lymphocyte-mediated immunity. The data may provide novel 
+insights for blockade of the HLA-G/ILT axis, which holds potential for the 
+development of more effective antitumour treatments.
+
+Copyright © 2021 Xu, Gan, Xu, Li and Yan.
+
+DOI: 10.3389/fimmu.2021.614773
+PMCID: PMC8281136
+PMID: 34276642 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

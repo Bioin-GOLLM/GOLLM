@@ -1,0 +1,48 @@
+1. Oncol Lett. 2018 Jul;16(1):301-307. doi: 10.3892/ol.2018.8615. Epub 2018 May
+2.
+
+Exploring the molecular pathogenesis associated with T-cell prolymphocytic 
+leukemia based on a comprehensive bioinformatics analysis.
+
+Shi Z(1), Yu J(2), Shao H(1), Cheng K(3), Zhai J(4), Jiang Q(2), Li H(5).
+
+Author information:
+(1)Department of Hematology and Oncology, China-Japan Union Hospital of Jilin 
+University, Changchun, Jilin 130033, P.R. China.
+(2)Department of Nephrology, China-Japan Union Hospital of Jilin University, 
+Changchun, Jilin 130033, P.R. China.
+(3)Department of Radiology, China-Japan Union Hospital of Jilin University, 
+Changchun, Jilin 130033, P.R. China.
+(4)Department of Implantology, Jilin University Stomatology Hospital, Changchun, 
+Jilin 130021, P.R. China.
+(5)Medical Examination Center, China-Japan Union Hospital of Jilin University, 
+Changchun, Jilin 130033, P.R. China.
+
+As a rare hematological malignancy, T-cell prolymphocytic leukemia (T-PLL) has a 
+high mortality rate. However, the comprehensive mechanisms of the underlying 
+pathogenesis of T-PLL are unknown. The purpose of the present study was to 
+investigate the pathogenesis of T-PLL based on a comprehensive bioinformatics 
+analysis. The differentially expressed genes (DEGs) between T-PLL blood cell 
+samples and normal peripheral blood cell samples were investigated using the 
+GSE5788 Affymetrix microarray data from the Gene Expression Omnibus database. To 
+investigate the functional changes associated with tumor progression, Gene 
+Ontology and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analyses 
+were used on the identified DEGs, followed by protein-protein interaction (PPI) 
+and sub-PPI analysis. Transcription factors and tumor-associated genes (TAGs) 
+were investigated further. The results identified 84 upregulated genes and 354 
+downregulated genes in T-PLL samples when compared with healthy samples. These 
+DEGs featured in various functions including cell death and various pathways 
+including apoptosis. The functional analysis of DEGs revealed 17 dysregulated 
+transcription factors and 37 dysregulated TAGs. Furthermore, the PPI network 
+analysis based on node degree (a network topology attribute) identified 61 
+genes, including the core downregulated gene of the sub-PPI network, signal 
+transducer and activator of transcription 3 (STAT3; degree, 13) and the core 
+upregulated gene, insulin receptor substrate-1 (IRS1; degree, 5), that may have 
+important associations with the progression of T-PLL. Alterations to cell 
+functions, including cell death, and pathways, including apoptosis, may 
+contribute to the process of T-PLL. Candidate genes identified in the present 
+study, including STAT3 and IRS1, should be targets for additional studies.
+
+DOI: 10.3892/ol.2018.8615
+PMCID: PMC6006439
+PMID: 29928415

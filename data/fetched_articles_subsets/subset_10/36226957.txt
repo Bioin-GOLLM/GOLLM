@@ -1,0 +1,53 @@
+1. mBio. 2022 Dec 20;13(6):e0237122. doi: 10.1128/mbio.02371-22. Epub 2022 Oct
+13.
+
+Identification of Attenuators of Transcriptional Termination: Implications for 
+RNA Regulation in Escherichia coli.
+
+Morita T(1)(2)(3), Majdalani N(3), Miura MC(1), Inose R(1), Oshima T(4), Tomita 
+M(1)(2)(5), Kanai A(1)(2)(5), Gottesman S(3).
+
+Author information:
+(1)Institute for Advanced Biosciences, Keio Universitygrid.26091.3c, Tsuruoka, 
+Yamagata, Japan.
+(2)Graduate School of Media and Governance, Keio Universitygrid.26091.3c, 
+Fujisawa, Kanagawa, Japan.
+(3)Laboratory of Molecular Biology, Center for Cancer Research, National Cancer 
+Institute, Bethesda, Maryland, USA.
+(4)Department of Biotechnology, Toyama Prefectural University, Imizu, Toyama, 
+Japan.
+(5)Faculty of Environment and Information studies, Keio Universitygrid.26091.3c, 
+Fujisawa, Kanagawa, Japan.
+
+The regulatory function of many bacterial small RNAs (sRNAs) requires the 
+binding of the RNA chaperone Hfq to the 3' portion of the sRNA intrinsic 
+terminator, and therefore sRNA signaling might be regulated by modulating its 
+terminator. Here, using a multicopy screen developed with the terminator of sRNA 
+SgrS, we identified an sRNA gene (cyaR) and three protein-coding genes (cspD, 
+ygjH, and rof) that attenuate SgrS termination in Escherichia coli. Analyses of 
+CyaR and YgjH, a putative tRNA binding protein, suggested that the CyaR activity 
+was indirect and the effect of YgjH was moderate. Overproduction of the protein 
+attenuators CspD and Rof resulted in more frequent readthrough at terminators of 
+SgrS and two other sRNAs, and regulation by SgrS of target mRNAs was reduced. 
+The effect of Rof, a known inhibitor of Rho, was mimicked by bicyclomycin or by 
+a rho mutant, suggesting an unexpected role for Rho in sRNA termination. CspD, a 
+member of the cold shock protein family, bound both terminated and readthrough 
+transcripts, stabilizing them and attenuating termination. By RNA sequencing 
+analysis of the CspD overexpression strain, we found global effects of CspD on 
+gene expression across some termination sites. We further demonstrated effects 
+of endogenous CspD under slow growth conditions where cspD is highly expressed. 
+These findings provided evidence of changes in the efficiency of intrinsic 
+termination, confirming this as an additional layer of the regulation of sRNA 
+signaling. IMPORTANCE Growing evidence suggests that the modulation of intrinsic 
+termination and readthrough of transcription is more widespread than previously 
+appreciated. For small RNAs, proper termination plays a critical role in their 
+regulatory function. Here, we present a multicopy screen approach to identify 
+factors that attenuate small RNA termination and therefore abrogate signaling 
+dependent on the small RNA. This study highlights a new aspect of regulation of 
+small RNA signaling as well as the modulation of intrinsic termination.
+
+DOI: 10.1128/mbio.02371-22
+PMCID: PMC9765468
+PMID: 36226957 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

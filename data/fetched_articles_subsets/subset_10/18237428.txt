@@ -1,0 +1,43 @@
+1. BMC Bioinformatics. 2008 Jan 31;9:76. doi: 10.1186/1471-2105-9-76.
+
+Response projected clustering for direct association with physiological and 
+clinical response data.
+
+Yi SG(1), Park T, Lee JK.
+
+Author information:
+(1)Department of Statistics, Seoul National University, Silim-dong, Kwanak-gu, 
+Seoul, 151-747, Korea. skon@bibs.snu.ac.kr
+
+BACKGROUND: Microarray gene expression data are often analyzed together with 
+corresponding physiological response and clinical metadata of biological 
+subjects, e.g. patients' residual tumor sizes after chemotherapy or glucose 
+levels at various stages of diabetic patients. Current clustering analysis 
+cannot directly incorporate such quantitative metadata into the clustering 
+heatmap of gene expression. It will be quite useful if these clinical response 
+data can be effectively summarized in the high-dimensional clustering display so 
+that important groups of genes can be intuitively discovered with different 
+degrees of relevance to target disease phenotypes.
+RESULTS: We introduced a novel clustering analysis approach, response projected 
+clustering (RPC), which uses a high-dimensional geometrical projection of 
+response data to the gene expression space. The projected response vector, which 
+becomes the origin in the projected space, is then clustered together with the 
+projected gene vectors based on their different degrees of association with the 
+response vector. A bootstrap-counting based RPC analysis is also performed to 
+evaluate statistical tightness of identified gene clusters. Our RPC analysis was 
+applied to the in vitro growth-inhibition and microarray profiling data on the 
+NCI-60 cancer cell lines and the microarray gene expression study of macrophage 
+differentiation in atherogenesis. These RPC applications enabled us to identify 
+many known and novel gene factors and their potential pathway associations which 
+are highly relevant to the drug's chemosensitivity activities and atherogenesis.
+CONCLUSION: We have shown that RPC can effectively discover gene networks with 
+different degrees of association with clinical metadata. Performed on each 
+gene's response projected vector based on its degree of association with the 
+response data, RPC effectively summarizes individual genes' association with 
+metadata as well as their own expression patterns. Thus, RPC greatly enhances 
+the utility of clustering analysis on investigating high-dimensional microarray 
+gene expression data with quantitative metadata.
+
+DOI: 10.1186/1471-2105-9-76
+PMCID: PMC2275250
+PMID: 18237428 [Indexed for MEDLINE]

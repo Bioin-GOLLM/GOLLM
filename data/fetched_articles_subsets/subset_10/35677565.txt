@@ -1,0 +1,61 @@
+1. Front Genet. 2022 May 23;13:855052. doi: 10.3389/fgene.2022.855052.
+eCollection  2022.
+
+De Novo Assembly of Plasmodium knowlesi Genomes From Clinical Samples Explains 
+the Counterintuitive Intrachromosomal Organization of Variant SICAvar and kir 
+Multiple Gene Family Members.
+
+Oresegun DR(1), Thorpe P(1), Benavente ED(2), Campino S(2), Muh F(1), Moon 
+RW(2), Clark TG(2)(3), Cox-Singh J(1).
+
+Author information:
+(1)Division of Infection and Global Health, School of Medicine, University of St 
+Andrews, Scotland, United Kingdom.
+(2)Faculty of Infectious and Tropical Diseases, London School of Hygiene & 
+Tropical Medicine, London, United Kingdom.
+(3)Faculty of Epidemiology and Population Health, London School of Hygiene & 
+Tropical Medicine, London, United Kingdom.
+
+Plasmodium knowlesi, a malaria parasite of Old World macaque monkeys, is used 
+extensively to model Plasmodium biology. Recently, P. knowlesi was found in the 
+human population of Southeast Asia, particularly Malaysia. P. knowlesi causes 
+uncomplicated to severe and fatal malaria in the human host with features in 
+common with the more prevalent and virulent malaria caused by Plasmodium 
+falciparum. As such, P. knowlesi presents a unique opportunity to develop 
+experimental translational model systems for malaria pathophysiology informed by 
+clinical data from same-species human infections. Experimental lines of P. 
+knowlesi represent well-characterized genetically stable parasites, and to 
+maximize their utility as a backdrop for understanding malaria pathophysiology, 
+genetically diverse contemporary clinical isolates, essentially wild-type, 
+require comparable characterization. The Oxford Nanopore PCR-free long-read 
+sequencing platform was used to sequence and de novo assemble P. knowlesi 
+genomes from frozen clinical samples. The sequencing platform and assembly 
+pipelines were designed to facilitate capturing data and describing, for the 
+first time, P. knowlesi schizont-infected cell agglutination (SICA) var and 
+Knowlesi-Interspersed Repeats (kir) multiple gene families in parasites acquired 
+from nature. The SICAvar gene family members code for antigenically variant 
+proteins analogous to the virulence-associated P. falciparum erythrocyte 
+membrane protein (PfEMP1) multiple var gene family. Evidence presented here 
+suggests that the SICAvar family members have arisen through a process of gene 
+duplication, selection pressure, and variation. Highly evolving genes including 
+PfEMP1family members tend to be restricted to relatively unstable sub-telomeric 
+regions that drive change with core genes protected in genetically stable 
+intrachromosomal locations. The comparable SICAvar and kir gene family members 
+are counter-intuitively located across chromosomes. Here, we demonstrate that, 
+in contrast to conserved core genes, SICAvar and kir genes occupy otherwise 
+gene-sparse chromosomal locations that accommodate rapid evolution and change. 
+The novel methods presented here offer the malaria research community not only 
+new tools to generate comprehensive genome sequence data from small clinical 
+samples but also new insight into the complexity of clinically important 
+real-world parasites.
+
+Copyright © 2022 Oresegun, Thorpe, Benavente, Campino, Muh, Moon, Clark and 
+Cox-Singh.
+
+DOI: 10.3389/fgene.2022.855052
+PMCID: PMC9169567
+PMID: 35677565
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

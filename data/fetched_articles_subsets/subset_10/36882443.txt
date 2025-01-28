@@ -1,0 +1,44 @@
+1. Sci Data. 2023 Mar 7;10(1):124. doi: 10.1038/s41597-023-02037-x.
+
+WAVES - The Lucile Packard Children's Hospital Pediatric Physiological Waveforms 
+Dataset.
+
+Miller DR(1), Dhillon GS(2), Bambos N(1)(3), Shin AY(4), Scheinker D(5)(6)(7).
+
+Author information:
+(1)Stanford University; Department of Electrical Engineering, Palo Alto, CA, 
+94304, USA.
+(2)Stanford University School of Medicine; Lucile Packard Children's Hospital at 
+Stanford; Department of Pediatrics, Division of Pediatric Cardiology, Palo Alto, 
+CA, 94304, USA.
+(3)Stanford University; Department of Management Science and Engineering, Palo 
+Alto, CA, 94304, USA.
+(4)Stanford University School of Medicine; Lucile Packard Children's Hospital at 
+Stanford; Department of Pediatrics, Division of Pediatric Cardiology, Palo Alto, 
+CA, 94304, USA. drewshin@stanford.edu.
+(5)Stanford University; Department of Management Science and Engineering, Palo 
+Alto, CA, 94304, USA. dscheink@stanford.edu.
+(6)Stanford University; Clinical Excellence Research Center, Palo Alto, CA, 
+94304, USA. dscheink@stanford.edu.
+(7)Stanford University School of Medicine; Lucile Packard Children's Hospital at 
+Stanford; Department of Pediatrics, Division of Pediatric Endocrinology, Palo 
+Alto, CA, 94304, USA. dscheink@stanford.edu.
+
+WAVES is a large, single-center dataset comprising 9 years of high-frequency 
+physiological waveform data from patients in intensive and acute care units at a 
+large academic, pediatric medical center. The data comprise approximately 10.6 
+million hours of 1 to 20 concurrent waveforms over approximately 50,364 distinct 
+patient encounters. The data have been de-identified, cleaned, and organized to 
+facilitate research. Initial analyses demonstrate the potential of the data for 
+clinical applications such as non-invasive blood pressure monitoring and 
+methodological applications such as waveform-agnostic data imputation. WAVES is 
+the largest pediatric-focused and second largest physiological waveform dataset 
+available for research.
+
+© 2023. The Author(s).
+
+DOI: 10.1038/s41597-023-02037-x
+PMCID: PMC9992360
+PMID: 36882443 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

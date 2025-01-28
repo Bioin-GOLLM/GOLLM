@@ -1,0 +1,59 @@
+1. Front Pharmacol. 2022 Nov 9;13:1031969. doi: 10.3389/fphar.2022.1031969. 
+eCollection 2022.
+
+Prospective population pharmacokinetic study of tacrolimus in adult recipients 
+early after liver transplantation: A comparison of Michaelis-Menten and 
+theory-based pharmacokinetic models.
+
+Cai XJ(1)(1), Li RD(2), Li JH(2), Tao YF(2), Zhang QB(2), Shen CH(2), Zhang 
+XF(2), Wang ZX(2), Jiao Z(1).
+
+Author information:
+(1)Department of Pharmacy, Huashan Hospital, Fudan University, Shanghai, China.
+(2)Department of General Surgery, Huashan Hospital, Fudan University, Shanghai, 
+China.
+
+Background and Objective: Tacrolimus, a calcineurin inhibitor widely used as a 
+potent immunosuppressant to prevent graft rejection, exhibits nonlinear kinetics 
+in patients with kidney transplantation and nephrotic syndrome. However, whether 
+nonlinear drug metabolism occurs in adult patients undergoing liver 
+transplantation remains unclear, as do the main underlying mechanisms. 
+Therefore, here we aimed to further confirm the characteristics of nonlinearity 
+through a large sample size, and determine the potential influence of 
+nonlinearity and its possible mechanisms. Methods: In total, 906 trough 
+concentrations from 176 adult patients (150 men/26 women; average age: 50.68 ± 
+9.71 years, average weight: 64.54 ± 11.85 kg after first liver transplantation) 
+were included in this study. Population pharmacokinetic analysis was performed 
+using NONMEM®. Two modeling strategies, theory-based linear compartmental and 
+nonlinear Michaelis-Menten (MM) models, were evaluated and compared. Potential 
+covariates were screened using a stepwise approach. Bootstrap, prediction-, and 
+simulation-based diagnostics (prediction-corrected visual predictive checks) 
+were performed to determine model stability and predictive performance. Finally, 
+Monte Carlo simulations based on the superior model were conducted to design 
+dosing regimens. Results: Postoperative days (POD), Aspartate aminotransferase 
+(AST), daily tacrolimus dose, triazole antifungal agent (TAF) co-therapy, and 
+recipient CYP3A5*3 genotype constituted the main factors in the theory-based 
+compartmental final model, whereas POD, Total serum bilirubin (TBIL), 
+Haematocrit (HCT), TAF co-therapy, and recipient CYP3A5*3 genotype were 
+important in the nonlinear MM model. The theory-based final model exhibited 
+234 L h-1 apparent plasma clearance and 11,000 L plasma distribution volume. The 
+maximum dose rate (V max ) of the nonlinear MM model was 6.62 mg day-1; the 
+average concentration at steady state at half-V max (K m ) was 6.46 ng ml-1. The 
+nonlinear MM final model was superior to the theory-based final model and used 
+to propose dosing regimens based on simulations. Conclusion: Our findings 
+demonstrate that saturated tacrolimus concentration-dependent binding to 
+erythrocytes and the influence of daily tacrolimus dose on metabolism may partly 
+contribute to nonlinearity. Further investigation is needed is need to explore 
+the causes of nonlinear pharmacokinetic of tacrolimus. The nonlinear MM model 
+can provide reliable support for tacrolimus dosing optimization and adjustment 
+in adult patients undergoing liver transplantation.
+
+Copyright © 2022 Cai, Li, Li, Tao, Zhang, Shen, Zhang, Wang and Jiao.
+
+DOI: 10.3389/fphar.2022.1031969
+PMCID: PMC9681907
+PMID: 36438793
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

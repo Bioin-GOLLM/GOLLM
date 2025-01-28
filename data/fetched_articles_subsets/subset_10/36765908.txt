@@ -1,0 +1,55 @@
+1. Cancers (Basel). 2023 Feb 2;15(3):951. doi: 10.3390/cancers15030951.
+
+MRI-Based Radiomics Combined with Deep Learning for Distinguishing IDH-Mutant 
+WHO Grade 4 Astrocytomas from IDH-Wild-Type Glioblastomas.
+
+Hosseini SA(1)(2), Hosseini E(3), Hajianfar G(4), Shiri I(5), Servaes S(1)(2), 
+Rosa-Neto P(1)(2), Godoy L(6), Nasrallah MP(7), O'Rourke DM(8), Mohan S(6), 
+Chawla S(6).
+
+Author information:
+(1)Translational Neuroimaging Laboratory, The McGill University Research Centre 
+for Studies in Aging, Douglas Hospital, McGill University, Montréal, QC H4H 1R3, 
+Canada.
+(2)Department of Neurology and Neurosurgery, Faculty of Medicine, McGill 
+University, Montréal, QC H3A 2B4, Canada.
+(3)Department of Electrical and Computer Engineering, Kharazmi University, 
+Tehran 15719-14911, Iran.
+(4)Rajaie Cardiovascular Medical and Research Center, Iran University of Medical 
+Science, Tehran 19956-14331, Iran.
+(5)Division of Nuclear Medicine and Molecular Imaging, Geneva University 
+Hospital, CH-1211 Geneva, Switzerland.
+(6)Department of Radiology, Perelman School of Medicine at the University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+(7)Department of Pathology and Laboratory Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA 19104, USA.
+(8)Department of Neurosurgery, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, PA 19104, USA.
+
+This study aimed to investigate the potential of quantitative radiomic data 
+extracted from conventional MR images in discriminating IDH-mutant grade 4 
+astrocytomas from IDH-wild-type glioblastomas (GBMs). A cohort of 57 
+treatment-naïve patients with IDH-mutant grade 4 astrocytomas (n = 23) and 
+IDH-wild-type GBMs (n = 34) underwent anatomical imaging on a 3T MR system with 
+standard parameters. Post-contrast T1-weighted and T2-FLAIR images were 
+co-registered. A semi-automatic segmentation approach was used to generate 
+regions of interest (ROIs) from different tissue components of neoplasms. A 
+total of 1050 radiomic features were extracted from each image. The data were 
+split randomly into training and testing sets. A deep learning-based data 
+augmentation method (CTGAN) was implemented to synthesize 200 datasets from the 
+training sets. A total of 18 classifiers were used to distinguish two genotypes 
+of grade 4 astrocytomas. From generated data using 80% training set, the best 
+discriminatory power was obtained from core tumor regions overlaid on 
+post-contrast T1 using the K-best feature selection algorithm and a Gaussian 
+naïve Bayes classifier (AUC = 0.93, accuracy = 0.92, sensitivity = 1, 
+specificity = 0.86, PR_AUC = 0.92). Similarly, high diagnostic performances were 
+obtained from original and generated data using 50% and 30% training sets. Our 
+findings suggest that conventional MR imaging-based radiomic features combined 
+with machine/deep learning methods may be valuable in discriminating IDH-mutant 
+grade 4 astrocytomas from IDH-wild-type GBMs.
+
+DOI: 10.3390/cancers15030951
+PMCID: PMC9913426
+PMID: 36765908
+
+Conflict of interest statement: The authors declare no conflict of interest.

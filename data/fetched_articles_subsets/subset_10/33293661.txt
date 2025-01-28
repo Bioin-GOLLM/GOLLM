@@ -1,0 +1,55 @@
+1. Sci Rep. 2020 Dec 8;10(1):21440. doi: 10.1038/s41598-020-78574-x.
+
+Network analysis reveals essential proteins that regulate sodium-iodide 
+symporter expression in anaplastic thyroid carcinoma.
+
+Rakhsh-Khorshid H(1)(2), Samimi H(3), Torabi S(4), Sajjadi-Jazi SM(3)(5), Samadi 
+H(3), Ghafouri F(3)(6), Asgari Y(7), Haghpanah V(8)(9).
+
+Author information:
+(1)Department of Biochemistry, Faculty of Biological Sciences, Tarbiat Modares 
+University, Tehran, Iran.
+(2)Apoptosis Research Centre, National University of Ireland, Galway, Ireland.
+(3)Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+Clinical Sciences Institute, Tehran University of Medical Sciences, Dr. Shariati 
+Hospital, North Kargar Ave, Tehran, 14114, Iran.
+(4)Department of Stem Cells and Developmental Biology, Cell Science Research 
+Center, Royan Institute for Stem Cell Biology and Technology, Academic Center 
+for Education, Culture and Research (ACECR), Tehran, Iran.
+(5)Cell Therapy and Regenerative Medicine Research Center, Endocrinology and 
+Metabolism Molecular-Cellular Sciences Institute, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(6)Department of Biotechnology, Faculty of Life Sciences and Biotechnology, 
+Shahid Beheshti University, Tehran, Iran.
+(7)Department of Medical Biotechnology, School of Advanced Technologies in 
+Medicine, Tehran University of Medical Sciences, Italia St., Tehran, 1417755469, 
+Iran. yasgari@tums.ac.ir.
+(8)Endocrinology and Metabolism Research Center, Endocrinology and Metabolism 
+Clinical Sciences Institute, Tehran University of Medical Sciences, Dr. Shariati 
+Hospital, North Kargar Ave, Tehran, 14114, Iran. v.haghpanah@gmail.com.
+(9)Personalized Medicine Research Center, Endocrinology and Metabolism Clinical 
+Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran. 
+v.haghpanah@gmail.com.
+
+Anaplastic thyroid carcinoma (ATC) is the most rare and lethal form of thyroid 
+cancer and requires effective treatment. Efforts have been made to restore 
+sodium-iodide symporter (NIS) expression in ATC cells where it has been 
+downregulated, yet without complete success. Systems biology approaches have 
+been used to simplify complex biological networks. Here, we attempt to find more 
+suitable targets in order to restore NIS expression in ATC cells. We have built 
+a simplified protein interaction network including transcription factors and 
+proteins involved in MAPK, TGFβ/SMAD, PI3K/AKT, and TSHR signaling pathways 
+which regulate NIS expression, alongside proteins interacting with them. The 
+network was analyzed, and proteins were ranked based on several centrality 
+indices. Our results suggest that the protein interaction network of NIS 
+expression regulation is modular, and distance-based and information-flow-based 
+centrality indices may be better predictors of important proteins in such 
+networks. We propose that the high-ranked proteins found in our analysis are 
+expected to be more promising targets in attempts to restore NIS expression in 
+ATC cells.
+
+DOI: 10.1038/s41598-020-78574-x
+PMCID: PMC7722919
+PMID: 33293661 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

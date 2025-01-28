@@ -1,0 +1,36 @@
+1. J Biomol NMR. 2011 Jan;49(1):27-38. doi: 10.1007/s10858-010-9458-0. Epub 2010 
+Dec 14.
+
+A novel strategy for NMR resonance assignment and protein structure 
+determination.
+
+Lemak A(1), Gutmanas A, Chitayat S, Karra M, Farès C, Sunnerhagen M, Arrowsmith 
+CH.
+
+Author information:
+(1)Ontario Cancer Institute and The Campbell Family Cancer Research Institute, 
+Department of Medical Biophysics, University of Toronto, 101 College Street, 
+Toronto, ON M5G 1L7, Canada.
+
+The quality of protein structures determined by nuclear magnetic resonance (NMR) 
+spectroscopy is contingent on the number and quality of experimentally-derived 
+resonance assignments, distance and angular restraints. Two key features of 
+protein NMR data have posed challenges for the routine and automated structure 
+determination of small to medium sized proteins; (1) spectral resolution - 
+especially of crowded nuclear Overhauser effect spectroscopy (NOESY) spectra, 
+and (2) the reliance on a continuous network of weak scalar couplings as part of 
+most common assignment protocols. In order to facilitate NMR structure 
+determination, we developed a semi-automated strategy that utilizes non-uniform 
+sampling (NUS) and multidimensional decomposition (MDD) for optimal data 
+collection and processing of selected, high resolution multidimensional NMR 
+experiments, combined it with an ABACUS protocol for sequential and side chain 
+resonance assignments, and streamlined this procedure to execute structure and 
+refinement calculations in CYANA and CNS, respectively. Two graphical user 
+interfaces (GUIs) were developed to facilitate efficient analysis and 
+compilation of the data and to guide automated structure determination. This 
+integrated method was implemented and refined on over 30 high quality structures 
+of proteins ranging from 5.5 to 16.5 kDa in size.
+
+DOI: 10.1007/s10858-010-9458-0
+PMCID: PMC3715383
+PMID: 21161328 [Indexed for MEDLINE]

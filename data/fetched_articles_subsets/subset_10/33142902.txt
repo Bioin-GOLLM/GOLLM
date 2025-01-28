@@ -1,0 +1,37 @@
+1. Microorganisms. 2020 Oct 31;8(11):1713. doi: 10.3390/microorganisms8111713.
+
+Genetic Variation and Preliminary Indications of Divergent Niche Adaptation in 
+Cryptic Clade II of Escherichia.
+
+Shen ZY(1), Koh XP(2), Yu YP(1), Lau SCK(1)(2).
+
+Author information:
+(1)Department of Ocean Science, The Hong Kong University of Science and 
+Technology, Clear Water Bay, Kowloon, Hong Kong, China.
+(2)Division of Environment and Sustainability, The Hong Kong University of 
+Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China.
+
+The evolution, habitat, and lifestyle of the cryptic clade II of Escherichia, 
+which were first recovered at low frequency from non-human hosts and later from 
+external environments, were poorly understood. Here, the genomes of selected 
+strains were analyzed for preliminary indications of ecological differentiation 
+within their population. We adopted the delta bitscore metrics to detect 
+functional divergence of their orthologous genes and trained a random forest 
+classifier to differentiate the genomes according to habitats (gastrointestinal 
+vs external environment). Model was built with inclusion of other Escherichia 
+genomes previously demonstrated to have exhibited genomic traits of adaptation 
+to one of the habitats. Overall, gene degradation was more prominent in the 
+gastrointestinal strains. The trained model correctly classified the genomes, 
+identifying a set of predictor genes that were informative of habitat 
+association. Functional divergence in many of these genes were reflective of 
+ecological divergence. Accuracy of the trained model was confirmed by its 
+correct prediction of the habitats of an independent set of strains with known 
+habitat association. In summary, the cryptic clade II of Escherichia displayed 
+genomic signatures that are consistent with divergent adaptation to 
+gastrointestinal and external environments.
+
+DOI: 10.3390/microorganisms8111713
+PMCID: PMC7716201
+PMID: 33142902
+
+Conflict of interest statement: The authors declare no conflict of interest.

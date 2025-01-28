@@ -1,0 +1,48 @@
+1. Nucleic Acids Res. 2019 Dec 2;47(21):e141. doi: 10.1093/nar/gkz811.
+
+Low temperature isothermal amplification of microsatellites drastically reduces 
+stutter artifact formation and improves microsatellite instability detection in 
+cancer.
+
+Daunay A(1), Duval A(2), Baudrin LG(1)(3), Buhard O(2), Renault V(4), Deleuze 
+JF(1)(5), How-Kit A(1).
+
+Author information:
+(1)Laboratory for Genomics, Foundation Jean Dausset - CEPH (Centre d'Etude du 
+Polymorphisme Humain), Paris, France.
+(2)Sorbonne-Université, Université Pierre et Marie Curie - Paris 6, Paris, 
+France, INSERM, UMRS 938-Centre de Recherche Saint-Antoine, Equipe 'Instabilité 
+des Microsatellites et Cancers', Equipe labellisée par la Ligue Nationale contre 
+le Cancer, and SIRIC CURAMUS, Paris, France Université Pierre et Marie Curie, 
+Paris, France.
+(3)Laboratory of Excellence GenMed, Paris, France.
+(4)Laboratory for Bioinformatics, Foundation Jean Dausset - CEPH (Centre d'Etude 
+du Polymorphisme Humain), Paris, France.
+(5)Centre National de Recherche en Génomique Humaine, CEA-Institut François 
+Jacob, Evry, France.
+
+Microsatellites are polymorphic short tandem repeats of 1-6 nucleotides 
+ubiquitously present in the genome that are extensively used in living organisms 
+as genetic markers and in oncology to detect microsatellite instability (MSI). 
+While the standard analysis method of microsatellites is based on PCR followed 
+by capillary electrophoresis, it generates undesirable frameshift products known 
+as 'stutter peaks' caused by the polymerase slippage that can greatly complicate 
+the analysis and interpretation of the data. Here we present an easy 
+multiplexable approach replacing PCR that is based on low temperature isothermal 
+amplification using recombinase polymerase amplification (LT-RPA) that 
+drastically reduces and sometimes completely abolishes the formation of stutter 
+artifacts, thus greatly simplifying the calling of the alleles. Using HT17, a 
+mononucleotide DNA repeat that was previously proposed as an optimal marker to 
+detect MSI in tumor DNA, we showed that LT-RPA improves the limit of detection 
+of MSI compared to PCR up to four times, notably for small deletions, and 
+simplifies the identification of the mutant alleles. It was successfully applied 
+to clinical colorectal cancer samples and enabled detection of MSI. This 
+easy-to-handle, rapid and cost-effective approach may deeply improve the 
+analysis of microsatellites in several biological and clinical applications.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkz811
+PMCID: PMC6868440
+PMID: 31584085 [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+1. IEEE Int Symp Parallel Distrib Process Workshops Phd Forum. 2016 
+May;2016:89-100. doi: 10.1109/IPDPSW.2016.130.
+
+Evaluation of Emerging Energy-Efficient Heterogeneous Computing Platforms for 
+Biomolecular and Cellular Simulation Workloads.
+
+Stone JE(1), Hallock MJ(2), Phillips JC(1), Peterson JR(2), Luthey-Schulten 
+Z(2), Schulten K(3).
+
+Author information:
+(1)Beckman Institute, University of Illinois at Urbana-Champaign, Urbana, IL, 
+61801, USA.
+(2)Department of Chemistry, University of Illinois at Urbana-Champaign, Urbana, 
+IL, 61801, USA.
+(3)Department of Physics, University of Illinois at Urbana-Champaign, Urbana, 
+IL, 61801, USA.
+
+Many of the continuing scientific advances achieved through computational 
+biology are predicated on the availability of ongoing increases in computational 
+power required for detailed simulation and analysis of cellular processes on 
+biologically-relevant timescales. A critical challenge facing the development of 
+future exascale supercomputer systems is the development of new computing 
+hardware and associated scientific applications that dramatically improve upon 
+the energy efficiency of existing solutions, while providing increased 
+simulation, analysis, and visualization performance. Mobile computing platforms 
+have recently become powerful enough to support interactive molecular 
+visualization tasks that were previously only possible on laptops and 
+workstations, creating future opportunities for their convenient use for 
+meetings, remote collaboration, and as head mounted displays for immersive 
+stereoscopic viewing. We describe early experiences adapting several 
+biomolecular simulation and analysis applications for emerging heterogeneous 
+computing platforms that combine power-efficient system-on-chip multi-core CPUs 
+with high-performance massively parallel GPUs. We present low-cost power 
+monitoring instrumentation that provides sufficient temporal resolution to 
+evaluate the power consumption of individual CPU algorithms and GPU kernels. We 
+compare the performance and energy efficiency of scientific applications running 
+on emerging platforms with results obtained on traditional platforms, identify 
+hardware and algorithmic performance bottlenecks that affect the usability of 
+these platforms, and describe avenues for improving both the hardware and 
+applications in pursuit of the needs of molecular modeling tasks on mobile 
+devices and future exascale computers.
+
+DOI: 10.1109/IPDPSW.2016.130
+PMCID: PMC4978513
+PMID: 27516922

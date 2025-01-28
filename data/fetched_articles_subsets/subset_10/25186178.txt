@@ -1,0 +1,83 @@
+1. Sci Transl Med. 2014 Sep 3;6(252):252ra123. doi: 10.1126/scitranslmed.3009262.
+
+Effective diagnosis of genetic disease by computational phenotype analysis of 
+the disease-associated genome.
+
+Zemojtel T(1), Köhler S(2), Mackenroth L(2), Jäger M(2), Hecht J(3), Krawitz 
+P(4), Graul-Neumann L(2), Doelken S(2), Ehmke N(2), Spielmann M(4), Oien NC(5), 
+Schweiger MR(6), Krüger U(2), Frommer G(7), Fischer B(4), Kornak U(4), Flöttmann 
+R(2), Ardeshirdavani A(8), Moreau Y(8), Lewis SE(9), Haendel M(10), Smedley 
+D(11), Horn D(2), Mundlos S(12), Robinson PN(13).
+
+Author information:
+(1)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany. 
+Institute of Bioorganic Chemistry, Polish Academy of Sciences, 61-704 Poznan, 
+Poland. Labor Berlin-Charité Vivantes GmbH, Humangenetik, Föhrer Straße 15, 
+13353 Berlin, Germany.
+(2)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany.
+(3)Max Planck Institute for Molecular Genetics, Ihnestr. 63-73, 14195 Berlin, 
+Germany. Berlin-Brandenburg Center for Regenerative Therapies, Charité 
+Universitätsmedizin Berlin, 13353 Berlin, Germany.
+(4)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany. Max 
+Planck Institute for Molecular Genetics, Ihnestr. 63-73, 14195 Berlin, Germany.
+(5)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany. Max 
+Delbrück Center for Molecular Medicine, Robert-Rössle-Str. 10, 13125 Berlin, 
+Germany.
+(6)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany. Max 
+Planck Institute for Molecular Genetics, Ihnestr. 63-73, 14195 Berlin, Germany. 
+Cologne Center for Genomics, University of Cologne, D-50931 Cologne, Germany.
+(7)Agilent Technologies, Hewlett-Packard-Straße 8, 76337 Waldbronn, Germany.
+(8)Department of Electrical Engineering, STADIUS Center for Dynamical Systems, 
+Signal Processing and Data Analytics, KU Leuven, 3001 Leuven, Belgium.
+(9)Genomics Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, 
+USA.
+(10)University Library and Department of Medical Informatics and Clinical 
+Epidemiology, Oregon Health & Sciences University, Portland, OR 97327, USA.
+(11)Mouse Informatics Group, Wellcome Trust Sanger Institute, CB10 1SA Hinxton, 
+UK.
+(12)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany. Max 
+Planck Institute for Molecular Genetics, Ihnestr. 63-73, 14195 Berlin, Germany. 
+Berlin-Brandenburg Center for Regenerative Therapies, Charité 
+Universitätsmedizin Berlin, 13353 Berlin, Germany.
+(13)Institute for Medical Genetics and Human Genetics, Charité 
+Universitätsmedizin Berlin, Augustenburger Platz 1, 13353 Berlin, Germany. Max 
+Planck Institute for Molecular Genetics, Ihnestr. 63-73, 14195 Berlin, Germany. 
+Berlin-Brandenburg Center for Regenerative Therapies, Charité 
+Universitätsmedizin Berlin, 13353 Berlin, Germany. Institute for Bioinformatics, 
+Department of Mathematics and Computer Science, Freie Universität Berlin, 
+Takustr. 9, 14195 Berlin, Germany. peter.robinson@charite.de.
+
+Less than half of patients with suspected genetic disease receive a molecular 
+diagnosis. We have therefore integrated next-generation sequencing (NGS), 
+bioinformatics, and clinical data into an effective diagnostic workflow. We used 
+variants in the 2741 established Mendelian disease genes [the disease-associated 
+genome (DAG)] to develop a targeted enrichment DAG panel (7.1 Mb), which 
+achieves a coverage of 20-fold or better for 98% of bases. Furthermore, we 
+established a computational method [Phenotypic Interpretation of eXomes 
+(PhenIX)] that evaluated and ranked variants based on pathogenicity and semantic 
+similarity of patients' phenotype described by Human Phenotype Ontology (HPO) 
+terms to those of 3991 Mendelian diseases. In computer simulations, ranking 
+genes based on the variant score put the true gene in first place less than 5% 
+of the time; PhenIX placed the correct gene in first place more than 86% of the 
+time. In a retrospective test of PhenIX on 52 patients with previously 
+identified mutations and known diagnoses, the correct gene achieved a mean rank 
+of 2.1. In a prospective study on 40 individuals without a diagnosis, PhenIX 
+analysis enabled a diagnosis in 11 cases (28%, at a mean rank of 2.4). Thus, the 
+NGS of the DAG followed by phenotype-driven bioinformatic analysis allows quick 
+and effective differential diagnostics in medical genetics.
+
+Copyright © 2014, American Association for the Advancement of Science.
+
+DOI: 10.1126/scitranslmed.3009262
+PMCID: PMC4512639
+PMID: 25186178 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: Y.M. is an equity holder of 
+Cartagenia NV, and S.M. is a paid consultant for Agilent. The other authors 
+declare that they have no competing interests.

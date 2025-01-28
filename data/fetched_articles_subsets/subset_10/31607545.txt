@@ -1,0 +1,72 @@
+1. Mol Cell. 2019 Dec 5;76(5):826-837.e11. doi: 10.1016/j.molcel.2019.09.013.
+Epub  2019 Oct 10.
+
+Programmable Inhibition and Detection of RNA Viruses Using Cas13.
+
+Freije CA(1), Myhrvold C(2), Boehm CK(3), Lin AE(4), Welch NL(4), Carter A(3), 
+Metsky HC(5), Luo CY(6), Abudayyeh OO(7), Gootenberg JS(8), Yozwiak NL(6), Zhang 
+F(9), Sabeti PC(10).
+
+Author information:
+(1)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; PhD Program in Virology, Division of Medical Sciences, 
+Harvard Medical School, Boston, MA 02115, USA. Electronic address: 
+cfreije@broadinstitute.org.
+(2)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; Department of Organismic and Evolutionary Biology, 
+Harvard University, Cambridge, MA 02138, USA. Electronic address: 
+cmyhrvol@broadinstitute.org.
+(3)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA.
+(4)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; PhD Program in Virology, Division of Medical Sciences, 
+Harvard Medical School, Boston, MA 02115, USA.
+(5)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; Department of Electrical Engineering and Computer 
+Science, MIT, Cambridge, MA 02142, USA.
+(6)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; Department of Organismic and Evolutionary Biology, 
+Harvard University, Cambridge, MA 02138, USA.
+(7)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; McGovern Institute for Brain Research, MIT, Cambridge, 
+MA 02139, USA; Department of Brain and Cognitive Science, MIT, Cambridge, MA 
+02139, USA; Department of Biological Engineering, MIT, Cambridge, MA 02139, USA; 
+Department of Health Sciences and Technology, MIT, Cambridge, MA 02139, USA.
+(8)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; McGovern Institute for Brain Research, MIT, Cambridge, 
+MA 02139, USA; Department of Brain and Cognitive Science, MIT, Cambridge, MA 
+02139, USA; Department of Biological Engineering, MIT, Cambridge, MA 02139, USA; 
+Department of Systems Biology, Harvard Medical School, Boston, MA 02115, USA.
+(9)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; McGovern Institute for Brain Research, MIT, Cambridge, 
+MA 02139, USA; Department of Brain and Cognitive Science, MIT, Cambridge, MA 
+02139, USA; Department of Biological Engineering, MIT, Cambridge, MA 02139, USA; 
+Howard Hughes Medical Institute (HHMI), Chevy Chase, MD 20815, USA.
+(10)Broad Institute of Massachusetts Institute of Technology (MIT) and Harvard, 
+Cambridge, MA 02142, USA; PhD Program in Virology, Division of Medical Sciences, 
+Harvard Medical School, Boston, MA 02115, USA; Department of Organismic and 
+Evolutionary Biology, Harvard University, Cambridge, MA 02138, USA; Howard 
+Hughes Medical Institute (HHMI), Chevy Chase, MD 20815, USA; Department of 
+Immunology and Infectious Disease, T.H. Chan Harvard School of Public Health, 
+Boston, MA 02115, USA. Electronic address: pardis@broadinstitute.org.
+
+The CRISPR effector Cas13 could be an effective antiviral for single-stranded 
+RNA (ssRNA) viruses because it programmably cleaves RNAs complementary to its 
+CRISPR RNA (crRNA). Here, we computationally identify thousands of potential 
+Cas13 crRNA target sites in hundreds of ssRNA viral species that can potentially 
+infect humans. We experimentally demonstrate Cas13's potent activity against 
+three distinct ssRNA viruses: lymphocytic choriomeningitis virus (LCMV); 
+influenza A virus (IAV); and vesicular stomatitis virus (VSV). Combining this 
+antiviral activity with Cas13-based diagnostics, we develop Cas13-assisted 
+restriction of viral expression and readout (CARVER), an end-to-end platform 
+that uses Cas13 to detect and destroy viral RNA. We further screen hundreds of 
+crRNAs along the LCMV genome to evaluate how conservation and target RNA 
+nucleotide content influence Cas13's antiviral activity. Our results demonstrate 
+that Cas13 can be harnessed to target a wide range of ssRNA viruses and CARVER's 
+potential broad utility for rapid diagnostic and antiviral drug development.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2019.09.013
+PMCID: PMC7422627
+PMID: 31607545 [Indexed for MEDLINE]

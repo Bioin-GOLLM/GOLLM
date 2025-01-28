@@ -1,0 +1,88 @@
+1. BioData Min. 2015 Dec 14;8:41. doi: 10.1186/s13040-015-0074-0. eCollection
+2015.
+
+Identifying gene-gene interactions that are highly associated with Body Mass 
+Index using Quantitative Multifactor Dimensionality Reduction (QMDR).
+
+De R(1), Verma SS(2), Drenos F(3), Holzinger ER(2), Holmes MV(4), Hall MA(2), 
+Crosslin DR(5), Carrell DS(6), Hakonarson H(7), Jarvik G(8), Larson E(6), 
+Pacheco JA(9), Rasmussen-Torvik LJ(10), Moore CB(11), Asselbergs FW(12), Moore 
+JH(13), Ritchie MD(2), Keating BJ(14), Gilbert-Diamond D(15).
+
+Author information:
+(1)Computational Genetics Laboratory, Department of Genetics, Geisel School of 
+Medicine at Dartmouth, Dartmouth-Hitchcock Medical Center, 706 Rubin Building, 
+HB7937, One Medical Center Dr, Lebanon, NH 03756 USA.
+(2)Center for Systems Genomics, Department of Biochemistry and Molecular 
+Biology, 512 Wartik Laboratory, The Pennsylvania State University, University 
+Park, PA 16802 USA.
+(3)Centre for Cardiovascular Genetics, Institute of Cardiovascular Science, 
+Faculty of Population Health Sciences, University College London, 5 University 
+Street, London, WC1E 6JF UK.
+(4)Division of Transplant Surgery, Perelman School of Medicine, University of 
+Pennsylvania, 3400 Spruce Street, 2 Dulles Pvln, Philadelphia, PA 19104 USA.
+(5)Department of Genome Sciences, University of Washington, 3720 15th Ave NE, 
+Seattle, WA 98195-5065 USA.
+(6)Group Health Research Institute, Metropolitan Park East, 1730 Minor Avenue, 
+Suite 1600, Seattle, WA 98101-1448 USA.
+(7)The Joseph Stokes Jr. Research Institute, The Children's Hospital of 
+Philadelphia, Office 1016 Abramson Building, Room 1216E, 3615 Civic Center Blvd, 
+Philadelphia, PA 19104 USA.
+(8)Department of Genome Sciences, University of Washington, 3720 15th Ave NE, 
+Seattle, WA 98195-5065 USA ; Division of Medical Genetics, Department of 
+Medicine, University of Washington, Health Sciences Building, K-253B, Medical 
+Genetics, Box 357720, Seattle, WA 98195-7720 USA.
+(9)Center for Genetic Medicine, Northwestern University Feinberg School of 
+Medicine, 303 E. Superior Street, Lurie 7-125, Chicago, IL 60611 USA.
+(10)Department of Preventive Medicine, Northwestern University, Feinberg School 
+of Medicine, 680 N Lake Shore Drive, Suite 1400, Chicago, IL 60611 USA.
+(11)Center for Systems Genomics, Department of Biochemistry and Molecular 
+Biology, 512 Wartik Laboratory, The Pennsylvania State University, University 
+Park, PA 16802 USA ; Center for Human Genetics Research, Vanderbilt University 
+School of Medicine, 519 Light Hall, Nashville, TN 37232 USA.
+(12)Department of Cardiology, Division Heart and Lungs, University Medical 
+Center Utrecht, Room E03.511, P.O. Box 85500, 3508 GA Utrecht, The Netherlands ; 
+Institute of Cardiovascular Science, University College London, London, UK ; 
+Durrer Center for Cardiogenetic Research, ICIN-Netherlands Heart Institute, 
+Utrecht, The Netherlands.
+(13)Institute for Biomedical Informatics, The Perelman School of Medicine, 
+University of Pennsylvania, 1418 Blockley Hall, 423 Guardian Drive, 
+Philadelphia, PA 19104-6021 USA.
+(14)The Joseph Stokes Jr. Research Institute, The Children's Hospital of 
+Philadelphia, Office 1016 Abramson Building, Room 1216E, 3615 Civic Center Blvd, 
+Philadelphia, PA 19104 USA ; University Medical Center Utrecht, Utrecht, The 
+Netherlands.
+(15)Institute for Quantitative Biomedical Sciences at Dartmouth, Hanover, NH USA 
+; Department of Epidemiology, Geisel School of Medicine at Dartmouth, One 
+Medical Center Drive, 7927 Rubin Building, Lebanon, NH 03756 USA.
+
+BACKGROUND: Despite heritability estimates of 40-70 % for obesity, less than 2 % 
+of its variation is explained by Body Mass Index (BMI) associated loci that have 
+been identified so far. Epistasis, or gene-gene interactions are a plausible 
+source to explain portions of the missing heritability of BMI.
+METHODS: Using genotypic data from 18,686 individuals across five study cohorts 
+- ARIC, CARDIA, FHS, CHS, MESA - we filtered SNPs (Single Nucleotide 
+Polymorphisms) using two parallel approaches. SNPs were filtered either on the 
+strength of their main effects of association with BMI, or on the number of 
+knowledge sources supporting a specific SNP-SNP interaction in the context of 
+BMI. Filtered SNPs were specifically analyzed for interactions that are highly 
+associated with BMI using QMDR (Quantitative Multifactor Dimensionality 
+Reduction). QMDR is a nonparametric, genetic model-free method that detects 
+non-linear interactions associated with a quantitative trait.
+RESULTS: We identified seven novel, epistatic models with a Bonferroni corrected 
+p-value of association < 0.1. Prior experimental evidence helps explain the 
+plausible biological interactions highlighted within our results and their 
+relationship with obesity. We identified interactions between genes involved in 
+mitochondrial dysfunction (POLG2), cholesterol metabolism (SOAT2), lipid 
+metabolism (CYP11B2), cell adhesion (EZR), cell proliferation (MAP2K5), and 
+insulin resistance (IGF1R). Moreover, we found an 8.8 % increase in the variance 
+in BMI explained by these seven SNP-SNP interactions, beyond what is explained 
+by the main effects of an index FTO SNP and the SNPs within these interactions. 
+We also replicated one of these interactions and 58 proxy SNP-SNP models 
+representing it in an independent dataset from the eMERGE study.
+CONCLUSION: This study highlights a novel approach for discovering gene-gene 
+interactions by combining methods such as QMDR with traditional statistics.
+
+DOI: 10.1186/s13040-015-0074-0
+PMCID: PMC4678717
+PMID: 26674805

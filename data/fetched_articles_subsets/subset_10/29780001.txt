@@ -1,0 +1,111 @@
+1. Lancet Haematol. 2018 Jun;5(6):e241-e251. doi: 10.1016/S2352-3026(18)30053-X. 
+Epub 2018 May 17.
+
+Automated typing of red blood cell and platelet antigens: a whole-genome 
+sequencing study.
+
+Lane WJ(1), Westhoff CM(2), Gleadall NS(3), Aguad M(4), Smeland-Wagman R(4), 
+Vege S(2), Simmons DP(4), Mah HH(4), Lebo MS(5), Walter K(6), Soranzo N(7), Di 
+Angelantonio E(8), Danesh J(9), Roberts DJ(10), Watkins NA(11), Ouwehand WH(12), 
+Butterworth AS(8), Kaufman RM(4), Rehm HL(13), Silberstein LE(14), Green RC(15); 
+MedSeq Project.
+
+Collaborators: Bates DW, Blout C, Christensen KD, Cirino AL, Ho CY, Krier JB, 
+Lehmann LS, MacRae CA, Morton CC, Perry DL, Seidman CE, Sunyaev SR, Vassy JL, 
+Schonman E, Nguyen T, Steffens E, Betting WN, Aronson SJ, Ceyhan-Birsoy O, 
+Machini K, McLaughlin HM, Azzariti DR, Tsai EA, Blumenthal-Barby J, Feuerman LZ, 
+McGuire AL, Lee K, Robinson JO, Slashinski MJ, Diamond PM, Davis K, Ubel PA, 
+Kraft P, Roberts JS, Garber JE, Hambuch T, Murray MF, Kohane I, Kong SW.
+
+Author information:
+(1)Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA; 
+Harvard Medical School, Boston, MA, USA. Electronic address: 
+wlane@bwh.harvard.edu.
+(2)New York Blood Center, New York, NY, USA.
+(3)Department of Haematology, University of Cambridge, Cambridge, UK; National 
+Health Service (NHS) Blood and Transplant, Cambridge, UK.
+(4)Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA.
+(5)Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA; 
+Harvard Medical School, Boston, MA, USA; Laboratory for Molecular Medicine, 
+Boston, MA, USA; Partners Personalized Medicine, Boston, MA, USA.
+(6)Wellcome Trust Sanger Institute, Hinxton, UK.
+(7)Department of Haematology, University of Cambridge, Cambridge, UK; Wellcome 
+Trust Sanger Institute, Hinxton, UK; Cambridge Substantive Site, Health Data 
+Research UK, Wellcome Genome Campus, Hinxton, UK.
+(8)Medical Research Council and British Heart Foundation Cardiovascular 
+Epidemiology Unit, University of Cambridge, Cambridge, UK; National Institute 
+for Health Research Blood and Transplant Research Unit in Donor Health and 
+Genomics, University of Cambridge, Cambridge, UK; Cambridge Substantive Site, 
+Health Data Research UK, Wellcome Genome Campus, Hinxton, UK.
+(9)Medical Research Council and British Heart Foundation Cardiovascular 
+Epidemiology Unit, University of Cambridge, Cambridge, UK; National Institute 
+for Health Research Blood and Transplant Research Unit in Donor Health and 
+Genomics, University of Cambridge, Cambridge, UK; Department of Public Health 
+and Primary Care, and British Heart Foundation Cambridge Centre of Excellence, 
+Department of Medicine, University of Cambridge, Cambridge, UK; Wellcome Trust 
+Sanger Institute, Hinxton, UK; Cambridge Substantive Site, Health Data Research 
+UK, Wellcome Genome Campus, Hinxton, UK.
+(10)National Institute for Health Research Blood and Transplant Research Unit in 
+Donor Health and Genomics, University of Cambridge, Cambridge, UK; NHS Blood and 
+Transplant-Oxford Centre, Oxford, UK; Biomedical Research Centre Haematology 
+Theme and Radcliffe Department of Medicine, University of Oxford, Oxford, UK.
+(11)National Health Service (NHS) Blood and Transplant, Cambridge, UK.
+(12)Department of Haematology, University of Cambridge, Cambridge, UK; 
+Department of Public Health and Primary Care, and British Heart Foundation 
+Cambridge Centre of Excellence, Department of Medicine, University of Cambridge, 
+Cambridge, UK; National Health Service (NHS) Blood and Transplant, Cambridge, 
+UK; NHS Blood and Transplant-Oxford Centre, Oxford, UK.
+(13)Harvard Medical School, Boston, MA, USA; Laboratory for Molecular Medicine, 
+Boston, MA, USA; Partners Personalized Medicine, Boston, MA, USA; Department of 
+Medicine, Massachusetts General Hospital, Boston, MA, USA; Broad Institute of 
+Massachusetts Institute of Technology and Harvard, Boston, MA, USA.
+(14)Division of Transfusion Medicine, Brigham and Women's Hospital, Boston, MA, 
+USA; Harvard Medical School, Boston, MA, USA.
+(15)Division of Genetics, Department of Medicine, Brigham and Women's Hospital, 
+Boston, MA, USA; Harvard Medical School, Boston, MA, USA; Partners Personalized 
+Medicine, Boston, MA, USA; Broad Institute of Massachusetts Institute of 
+Technology and Harvard, Boston, MA, USA.
+
+BACKGROUND: There are more than 300 known red blood cell (RBC) antigens and 33 
+platelet antigens that differ between individuals. Sensitisation to antigens is 
+a serious complication that can occur in prenatal medicine and after blood 
+transfusion, particularly for patients who require multiple transfusions. 
+Although pre-transfusion compatibility testing largely relies on serological 
+methods, reagents are not available for many antigens. Methods based on 
+single-nucleotide polymorphism (SNP) arrays have been used, but typing for ABO 
+and Rh-the most important blood groups-cannot be done with SNP typing alone. We 
+aimed to develop a novel method based on whole-genome sequencing to identify RBC 
+and platelet antigens.
+METHODS: This whole-genome sequencing study is a subanalysis of data from 
+patients in the whole-genome sequencing arm of the MedSeq Project randomised 
+controlled trial (NCT01736566) with no measured patient outcomes. We created a 
+database of molecular changes in RBC and platelet antigens and developed an 
+automated antigen-typing algorithm based on whole-genome sequencing 
+(bloodTyper). This algorithm was iteratively improved to address cis-trans 
+haplotype ambiguities and homologous gene alignments. Whole-genome sequencing 
+data from 110 MedSeq participants (30 × depth) were used to initially validate 
+bloodTyper through comparison with conventional serology and SNP methods for 
+typing of 38 RBC antigens in 12 blood-group systems and 22 human platelet 
+antigens. bloodTyper was further validated with whole-genome sequencing data 
+from 200 INTERVAL trial participants (15 × depth) with serological comparisons.
+FINDINGS: We iteratively improved bloodTyper by comparing its typing results 
+with conventional serological and SNP typing in three rounds of testing. The 
+initial whole-genome sequencing typing algorithm was 99·5% concordant across the 
+first 20 MedSeq genomes. Addressing discordances led to development of an 
+improved algorithm that was 99·8% concordant for the remaining 90 MedSeq 
+genomes. Additional modifications led to the final algorithm, which was 99·2% 
+concordant across 200 INTERVAL genomes (or 99·9% after adjustment for the lower 
+depth of coverage).
+INTERPRETATION: By enabling more precise antigen-matching of patients with blood 
+donors, antigen typing based on whole-genome sequencing provides a novel 
+approach to improve transfusion outcomes with the potential to transform the 
+practice of transfusion medicine.
+FUNDING: National Human Genome Research Institute, Doris Duke Charitable 
+Foundation, National Health Service Blood and Transplant, National Institute for 
+Health Research, and Wellcome Trust.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2352-3026(18)30053-X
+PMCID: PMC6438177
+PMID: 29780001 [Indexed for MEDLINE]

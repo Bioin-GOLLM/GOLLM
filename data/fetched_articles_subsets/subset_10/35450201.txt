@@ -1,0 +1,51 @@
+1. Adv Contin Discret Model. 2022;2022(1):1. doi: 10.1186/s13662-021-03638-9.
+Epub  2022 Jan 4.
+
+On three-term conjugate gradient method for optimization problems with 
+applications on COVID-19 model and robotic motion control.
+
+Sulaiman IM(1), Malik M(2), Awwal AM(3)(4)(5), Kumam P(4)(5)(6), Mamat M(7), 
+Al-Ahmad S(7).
+
+Author information:
+(1)Department of Mathematics and Statistics, School of Quantitative Sciences, 
+College of Art and Sciences (CAS), Universiti Utara Malaysia (UUM), 06010 
+Sintok, Kedah Malaysia.
+(2)Department of Mathematics, Universitas Indonesia (UI), Depok, 16424 
+Indonesia.
+(3)Department of Mathematics, Faculty of Science, Gombe State University, Gombe, 
+Nigeria.
+(4)Center of Excellence in Theoretical and Computational Science (TaCS-CoE), 
+Faculty of Science, King Mongkut's University of Technology Thonburi (KMUTT), 
+126 Pracha Uthit Rd., Bang Mod, Thung Khru, Bangkok, 10140 Thailand.
+(5)KMUTT-Fixed Point Theory and Applications Research Group, Theoretical and 
+Computational Science Center (TaCS), Science Laboratory Building, Faculty of 
+Science, King Mongkut's University of Technology Thonburi (KMUTT), 126 
+Pracha-Uthit Road, Bang Mod, Thrung Khru, Bangkok, 10140 Thailand.
+(6)Department of Medical Research, China Medical University Hospital, China 
+Medical University, Taichung, 40402 Taiwan.
+(7)Faculty of informatics and Computing, Universiti Sultan Zainal Abidin 
+(UniSZA), Terengganu, 22200 Malaysia.
+
+The three-term conjugate gradient (CG) algorithms are among the efficient 
+variants of CG algorithms for solving optimization models. This is due to their 
+simplicity and low memory requirements. On the other hand, the regression model 
+is one of the statistical relationship models whose solution is obtained using 
+one of the least square methods including the CG-like method. In this paper, we 
+present a modification of a three-term conjugate gradient method for 
+unconstrained optimization models and further establish the global convergence 
+under inexact line search. The proposed method was extended to formulate a 
+regression model for the novel coronavirus (COVID-19). The study considers the 
+globally infected cases from January to October 2020 in parameterizing the 
+model. Preliminary results have shown that the proposed method is promising and 
+produces efficient regression model for COVID-19 pandemic. Also, the method was 
+extended to solve a motion control problem involving a two-joint planar robot.
+
+© The Author(s) 2021.
+
+DOI: 10.1186/s13662-021-03638-9
+PMCID: PMC8724236
+PMID: 35450201
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.

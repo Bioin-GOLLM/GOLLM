@@ -1,0 +1,61 @@
+1. Mol Cell Proteomics. 2022 Feb;21(2):100187. doi: 10.1016/j.mcpro.2021.100187. 
+Epub 2021 Dec 16.
+
+DIA-Based Proteomics Identifies IDH2 as a Targetable Regulator of Acquired Drug 
+Resistance in Chronic Myeloid Leukemia.
+
+Liu W(1), Sun Y(2), Ge W(3), Zhang F(2), Gan L(2), Zhu Y(2), Guo T(4), Liu K(5).
+
+Author information:
+(1)Department of Clinical Pharmacology, College of Pharmacy, Dalian Medical 
+University, Dalian, Liaoning, China; Key Laboratory of Structural Biology of 
+Zhejiang Province, School of Life Sciences, Westlake University, Hangzhou, 
+Zhejiang, China; Center for Infectious Disease Research, Westlake Laboratory of 
+Life Sciences and Biomedicine, Hangzhou, Zhejiang, China; Institute of Basic 
+Medical Sciences, Westlake Institute for Advanced Study, Hangzhou, Zhejiang, 
+China; Omics Research Institute, Westlake Omics (Hangzhou) Biotechnology Co, 
+Ltd, Hangzhou, China.
+(2)Key Laboratory of Structural Biology of Zhejiang Province, School of Life 
+Sciences, Westlake University, Hangzhou, Zhejiang, China; Center for Infectious 
+Disease Research, Westlake Laboratory of Life Sciences and Biomedicine, 
+Hangzhou, Zhejiang, China; Institute of Basic Medical Sciences, Westlake 
+Institute for Advanced Study, Hangzhou, Zhejiang, China.
+(3)Department of Big Data, Westlake Omics (Hangzhou) Biotechnology Co, Ltd, 
+Hangzhou, China.
+(4)Key Laboratory of Structural Biology of Zhejiang Province, School of Life 
+Sciences, Westlake University, Hangzhou, Zhejiang, China; Center for Infectious 
+Disease Research, Westlake Laboratory of Life Sciences and Biomedicine, 
+Hangzhou, Zhejiang, China; Institute of Basic Medical Sciences, Westlake 
+Institute for Advanced Study, Hangzhou, Zhejiang, China. Electronic address: 
+guotiannan@westlake.edu.cn.
+(5)Department of Clinical Pharmacology, College of Pharmacy, Dalian Medical 
+University, Dalian, Liaoning, China. Electronic address: liukexin89@163.com.
+
+Drug resistance is a critical obstacle to effective treatment in patients with 
+chronic myeloid leukemia. To understand the underlying resistance mechanisms in 
+response to imatinib mesylate (IMA) and adriamycin (ADR), the parental 
+K562 cells were treated with low doses of IMA or ADR for 2 months to generate 
+derivative cells with mild, intermediate, and severe resistance to the drugs as 
+defined by their increasing resistance index. PulseDIA-based (DIA 
+[data-independent acquisition]) quantitative proteomics was then employed to 
+reveal the proteome changes in these resistant cells. In total, 7082 proteins 
+from 98,232 peptides were identified and quantified from the dataset using four 
+DIA software tools including OpenSWATH, Spectronaut, DIA-NN, and EncyclopeDIA. 
+Sirtuin signaling pathway was found to be significantly enriched in both 
+ADR-resistant and IMA-resistant K562 cells. In particular, isocitrate 
+dehydrogenase (NADP(+)) 2 was identified as a potential drug target correlated 
+with the drug resistance phenotype, and its inhibition by the antagonist 
+AGI-6780 reversed the acquired resistance in K562 cells to either ADR or IMA. 
+Together, our study has implicated isocitrate dehydrogenase (NADP(+)) 2 as a 
+potential target that can be therapeutically leveraged to alleviate the drug 
+resistance in K562 cells when treated with IMA and ADR.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcpro.2021.100187
+PMCID: PMC8800142
+PMID: 34922009 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest T. G. and Y. Z. are 
+shareholders of Westlake Omics, Inc. W. G. is an employee of Westlake Omics, 
+Inc. The remaining authors declare no competing interests.

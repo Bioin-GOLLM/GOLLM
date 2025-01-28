@@ -1,0 +1,49 @@
+1. Protein Eng Des Sel. 2017 Feb;30(2):119-127. doi: 10.1093/protein/gzw072. Epub
+ 2016 Dec 22.
+
+Directed evolution of P450cin for mediated electron transfer.
+
+Belsare KD(1), Horn T(1), Ruff AJ(1), Martinez R(1), Magnusson A(2), Holtmann 
+D(2), Schrader J(2), Schwaneberg U(3)(4).
+
+Author information:
+(1)Lehrstuhl für Biotechnologie, RWTH Aachen University, Worringerweg 3, 52074 
+Aachen, Germany.
+(2)Biochemical Engineering Group, DECHEMA Research Institute, 
+Theodor-Heuss-Allee 25, 60486 Frankfurt am Main, Germany.
+(3)Lehrstuhl für Biotechnologie, RWTH Aachen University, Worringerweg 3, 52074 
+Aachen, Germany u.schwaneberg@biotec.rwth-aachen.de.
+(4)DWI-Leibniz-Institut für Interaktive Materialien e. V., Forckenbeckstraße 50, 
+52074 Aachen, Germany.
+
+Directed evolution is a powerful method to optimize enzyme properties for 
+application demands. Interesting targets are P450 monooxygenases which catalyze 
+the stereo- and regiospecific hydroxylation of chemically inert C-H bonds. 
+Synthesis employing P450s under cell-free reaction conditions is limited by low 
+total turnover numbers, enzyme instability, low product yields and the 
+requirement of the expensive co-factor NADPH. Bioelectrocatalysis is an 
+alternative to replace NADPH in cell-free P450-catalyzed reactions. However, 
+natural enzymes are often not suitable for using non-natural electron delivery 
+systems. Here we report the directed evolution of a previously engineered P450 
+CinA-10aa-CinC fusion protein (named P450cin-ADD-CinC) to use 
+zinc/cobalt(III)sepulchrate as electron delivery system for an increased 
+hydroxylation activity of 1,8-cineole. Two rounds of Sequence Saturation 
+Mutagenesis (SeSaM) each followed by one round of multiple site-saturation 
+mutagenesis of the P450 CinA-10aa-CinC fusion protein generated a variant 
+(Gln385His, Val386Ser, Thr77Asn, Leu88Arg; named KB8) with a 3.8-fold increase 
+in catalytic efficiency (28 µM-1 min-1) compared to P450cin-ADD-CinC (7 µM-1 
+min-1). Furthermore, variant KB8 exhibited a 1.5-fold higher product formation 
+(500 µM µM-1 P450) compared to the equimolar mixture of CinA, CinC and Fpr using 
+NADPH as co-factor (315 µM µM-1 P450). In addition, electrochemical experiments 
+with the electron delivery system platinum/cobalt(III)sepulchrate showed that 
+the KB8 variant had a 4-fold higher product formation rate (0.16 nmol (nmol) 
+P450-1 min-1 cm-2) than the P450cin-ADD-CinC (0.04 nmol (nmol) P450-1 min-1 
+cm-2). In summary, the current work shows prospects of using directed evolution 
+to generate P450 enzymes suitable for use with alternative electron delivery 
+systems.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. 
+For Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/protein/gzw072
+PMID: 28007937 [Indexed for MEDLINE]

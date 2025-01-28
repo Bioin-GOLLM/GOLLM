@@ -1,0 +1,64 @@
+1. Sci Rep. 2022 Dec 5;12(1):20990. doi: 10.1038/s41598-022-25144-y.
+
+Linking single nucleotide polymorphisms to signaling blueprints in abdominal 
+aortic aneurysms.
+
+Lim C(#)(1)(2), Pratama MY(#)(1)(2)(3), Rivera C(1)(3), Silvestro M(1)(3), Tsao 
+PS(4)(5), Maegdefessel L(6)(7)(8), Gallagher KA(9), Maldonado T(1), Ramkhelawon 
+B(10)(11).
+
+Author information:
+(1)Division of Vascular and Endovascular Surgery, Department of Surgery, New 
+York University Langone Medical Center, New York, USA.
+(2)Department of Biomedicine, Indonesia International Institute for 
+Life-Sciences (i3L), Jakarta, Indonesia.
+(3)Department of Cell Biology, New York University Langone Medical Center, New 
+York, USA.
+(4)VA Palo Alto Health Care System, Palo Alto, CA, USA.
+(5)Department of Medicine, Stanford University School of Medicine, Stanford, CA, 
+USA.
+(6)Department of Vascular and Endovascular Surgery, Technical University Munich, 
+Munich, Germany.
+(7)German Center for Cardiovascular Research (DZHK), Partner Site Munich Heart 
+Alliance, Berlin, Germany.
+(8)Department of Medicine, Karolinska Institute, Stockholm, Sweden.
+(9)Department of Surgery, University of Michigan, Ann Arbor, MI, USA.
+(10)Division of Vascular and Endovascular Surgery, Department of Surgery, New 
+York University Langone Medical Center, New York, USA. 
+bhama.ramkhelawon@nyulangone.org.
+(11)Department of Cell Biology, New York University Langone Medical Center, New 
+York, USA. bhama.ramkhelawon@nyulangone.org.
+(#)Contributed equally
+
+Abdominal aortic aneurysms (AAA) is a multifactorial complex disease with 
+life-threatening consequences. While Genome-wide association studies (GWAS) have 
+revealed several single nucleotide polymorphisms (SNPs) located in the genome of 
+individuals with AAA, the link between SNPs with the associated pathological 
+signals, the influence of risk factors on their distribution and their combined 
+analysis is not fully understood. We integrated 86 AAA SNPs from GWAS and 
+clinical cohorts from the literature to determine their phenotypical 
+vulnerabilities and association with AAA risk factors. The SNPs were annotated 
+using snpXplorer AnnotateMe tool to identify their chromosomal position, minor 
+allele frequency, CADD (Combined Annotation Dependent Depletion), 
+annotation-based pathogenicity score, variant consequence, and their associated 
+gene. Gene enrichment analysis was performed using Gene Ontology and clustered 
+using REVIGO. The plug-in GeneMANIA in Cytoscape was applied to identify network 
+integration with associated genes and functions. 15 SNPs affecting 20 genes with 
+a CADD score above ten were identified. AAA SNPs were predominantly located on 
+chromosome 3 and 9. Stop-gained rs5516 SNP obtained high frequency in AAA and 
+associated with proinflammatory and vascular remodeling phenotypes. SNPs 
+presence positively correlated with hypertension, dyslipidemia and smoking 
+history. GO showed that AAA SNPs and their associated genes could regulate lipid 
+metabolism, extracellular matrix organization, smooth muscle cell proliferation, 
+and oxidative stress, suggesting that part of these AAA traits could stem from 
+genetic abnormalities. We show a library of inborn SNPs and associated genes 
+that manifest in AAA. We uncover their pathological signaling trajectories that 
+likely fuel AAA development.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-022-25144-y
+PMCID: PMC9722707
+PMID: 36470918 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

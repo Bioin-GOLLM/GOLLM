@@ -1,0 +1,47 @@
+1. PLoS One. 2014 Sep 24;9(9):e108095. doi: 10.1371/journal.pone.0108095. 
+eCollection 2014.
+
+High-resolution transcriptome analysis with long-read RNA sequencing.
+
+Cho H(1), Davis J(2), Li X(3), Smith KS(3), Battle A(4), Montgomery SB(5).
+
+Author information:
+(1)Department of Computer Science, Stanford University, Stanford, California, 
+United States of America.
+(2)Department of Genetics, Stanford University, Stanford, California, United 
+States of America.
+(3)Department of Pathology, Stanford University, Stanford, California, United 
+States of America.
+(4)Department of Computer Science, Stanford University, Stanford, California, 
+United States of America; Department of Genetics, Stanford University, Stanford, 
+California, United States of America.
+(5)Department of Computer Science, Stanford University, Stanford, California, 
+United States of America; Department of Genetics, Stanford University, Stanford, 
+California, United States of America; Department of Pathology, Stanford 
+University, Stanford, California, United States of America.
+
+RNA sequencing (RNA-seq) enables characterization and quantification of 
+individual transcriptomes as well as detection of patterns of allelic expression 
+and alternative splicing. Current RNA-seq protocols depend on high-throughput 
+short-read sequencing of cDNA. However, as ongoing advances are rapidly yielding 
+increasing read lengths, a technical hurdle remains in identifying the degree to 
+which differences in read length influence various transcriptome analyses. In 
+this study, we generated two paired-end RNA-seq datasets of differing read 
+lengths (2×75 bp and 2×262 bp) for lymphoblastoid cell line GM12878 and compared 
+the effect of read length on transcriptome analyses, including read-mapping 
+performance, gene and transcript quantification, and detection of 
+allele-specific expression (ASE) and allele-specific alternative splicing (ASAS) 
+patterns. Our results indicate that, while the current long-read protocol is 
+considerably more expensive than short-read sequencing, there are important 
+benefits that can only be achieved with longer read length, including lower 
+mapping bias and reduced ambiguity in assigning reads to genomic elements, such 
+as mRNA transcript. We show that these benefits ultimately lead to improved 
+detection of cis-acting regulatory and splicing variation effects within 
+individuals.
+
+DOI: 10.1371/journal.pone.0108095
+PMCID: PMC4176000
+PMID: 25251678 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interests exist.

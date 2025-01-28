@@ -1,0 +1,40 @@
+1. iScience. 2022 Oct 13;25(11):105305. doi: 10.1016/j.isci.2022.105305. 
+eCollection 2022 Nov 18.
+
+Mapping-friendly sequence reductions: Going beyond homopolymer compression.
+
+Blassel L(1)(2), Medvedev P(3)(4)(5), Chikhi R(1).
+
+Author information:
+(1)Sequence Bioinformatics, Department of Computational Biology, Institut 
+Pasteur, Paris, France.
+(2)Sorbonne Université, Collège doctoral, Paris F-75005, France.
+(3)Department of Computer Science and Engineering, Pennsylvania State 
+University, University Park, PA, USA.
+(4)Department of Biochemistry and Molecular Biology, Pennsylvania State 
+University, University Park, PA, USA.
+(5)Center for Computational Biology and Bioinformatics, Pennsylvania State 
+University, University Park, PA, USA.
+
+Sequencing errors continue to pose algorithmic challenges to methods working 
+with sequencing data. One of the simplest and most prevalent techniques for 
+ameliorating the detrimental effects of homopolymer expansion/contraction errors 
+present in long reads is homopolymer compression. It collapses runs of repeated 
+nucleotides, to remove some sequencing errors and improve mapping sensitivity. 
+Though our intuitive understanding justifies why homopolymer compression works, 
+it in no way implies that it is the best transformation that can be done. In 
+this paper, we explore if there are transformations that can be applied in the 
+same pre-processing manner as homopolymer compression that would achieve better 
+alignment sensitivity. We introduce a more general framework than homopolymer 
+compression, called mapping-friendly sequence reductions. We transform the 
+reference and the reads using these reductions and then apply an alignment 
+algorithm. We demonstrate that some mapping-friendly sequence reductions lead to 
+improved mapping accuracy, outperforming homopolymer compression.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.isci.2022.105305
+PMCID: PMC9633736
+PMID: 36339268
+
+Conflict of interest statement: The authors declare no competing interests.
