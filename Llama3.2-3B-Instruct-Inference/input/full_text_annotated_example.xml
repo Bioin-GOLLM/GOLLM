@@ -1,0 +1,2875 @@
+<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE collection SYSTEM 'BioC.dtd'>
+<collection>
+    <source>PubTator</source>
+    <date></date>
+    <key>BioC.key</key>
+    <document>
+        <id>2376164</id>
+        <passage>
+            <infon key="name_3">surname:Endo;given-names:T</infon>
+            <infon key="name_2">surname:Yamori;given-names:T</infon>
+            <infon key="name_1">surname:Yamazaki;given-names:K</infon>
+            <infon key="name_0">surname:Sasaki;given-names:T</infon>
+            <infon key="fpage">918</infon>
+            <infon key="issue">8</infon>
+            <infon key="year">2002</infon>
+            <infon key="article-id_doi">10.1038/sj.bjc.6600550</infon>
+            <infon key="type">front</infon>
+            <infon key="volume">87</infon>
+            <infon key="license">This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in a credit line to the material.If material is not included in the article's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.</infon>
+            <infon key="section_type">TITLE</infon>
+            <infon key="kwd">glioma DSA glycan differentiation</infon>
+            <infon key="article-id_pii">6600550</infon>
+            <infon key="lpage">923</infon>
+            <infon key="article-id_pmc">2376164</infon>
+            <infon key="article-id_pmid">12373609</infon>
+            <offset>0</offset>
+            <text>Inhibition of proliferation and induction of differentiation of glioma cells with Datura stramonium agglutinin</text>
+            <annotation id="30103">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="64" length="6" />
+                <text>glioma</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">ABSTRACT</infon>
+            <infon key="type">abstract</infon>
+            <offset>111</offset>
+            <text>We found that a lectin, Datura stramonium agglutinin, induced irreversible differentiation in C6 glioma cells. The differentiated cells had long processes, a low rate of proliferation and a high content of glial fibrillary acidic protein. When the medium was replaced with Datura stramonium agglutinin-free medium after 1 h, cell proliferation continued to be inhibited. Experiments with several other lectins indicated that both recognition of linear N-acetyllactosamine repeats and recognition of multiantennary units of cell-surface glycans were required for the inhibition of C6 proliferation. Proliferation of four human glial tumour cells was also inhibited by Datura stramonium agglutinin. Further, these differentiated human glial tumour cells had long processes and a high content of glial fibrillary acidic protein similar to differentiated C6 glioma cells. Taken together, these observations suggest that Datura stramonium agglutinin may be useful as a new therapy for treating glioma without side effects.</text>
+            <annotation id="30104">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="317" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+            <annotation id="30105">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="904" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+            <annotation id="30106">
+                <infon key="type">Species</infon>
+                <location offset="135" length="28" />
+                <text>Datura stramonium agglutinin</text>
+            </annotation>
+            <annotation id="30107">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="844" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30108">
+                <infon key="identifier">MESH:C000458</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="563" length="19" />
+                <text>N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30109">
+                <infon key="identifier">CVCL:3581</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="962" length="9" />
+                <text>C6 glioma</text>
+            </annotation>
+            <annotation id="30110">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="647" length="7" />
+                <text>glycans</text>
+            </annotation>
+            <annotation id="30111">
+                <infon key="identifier">CVCL:3581</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="205" length="9" />
+                <text>C6 glioma</text>
+            </annotation>
+            <annotation id="30112">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1100" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30113">
+                <infon key="type">Species</infon>
+                <location offset="1027" length="28" />
+                <text>Datura stramonium agglutinin</text>
+            </annotation>
+            <annotation id="30114">
+                <infon key="type">Species</infon>
+                <location offset="778" length="28" />
+                <text>Datura stramonium agglutinin</text>
+            </annotation>
+            <annotation id="30115">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="838" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30116">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="737" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30117">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="731" length="5" />
+                <text>human</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">ABSTRACT</infon>
+            <infon key="type">abstract</infon>
+            <offset>1131</offset>
+            <text>British Journal of Cancer (2002) 87, 918-923. doi:10.1038/sj.bjc.6600550 www.bjcancer.com</text>
+            <annotation id="30118">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1150" length="6" />
+                <text>Cancer</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">ABSTRACT</infon>
+            <infon key="type">abstract</infon>
+            <offset>1223</offset>
+            <text>  2002 Cancer Research UK</text>
+            <annotation id="30119">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1230" length="6" />
+                <text>Cancer</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">INTRO</infon>
+            <infon key="type">paragraph</infon>
+            <offset>1250</offset>
+            <text>Malignant gliomas remain one of the most incurable forms of cancer in humans. While surgical and radiotherapeutic techniques have improved recently, the prognosis for patients with glial tumours still remains poor. Glial tumours are generally very highly malignant and infiltrate widely along axons. Most gliomas show indistinct boundaries between tumour tissue and normal tissue. Diffuse infiltration of the adjacent brain structures is the main reason that surgical resection is often incomplete, and even hemispherectomy may not prevent glioma recurrence. In the cases of tumours in other organs, malignant cells have been removed by surgical techniques, brachytherapy, and chemotherapy. In the case of brain tumours, however, extermination of malignant cells with any one of these treatments will cause extensive damage to normal cells and brain function, which explains why they are rarely curable.</text>
+            <annotation id="30120">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1790" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30121">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="1320" length="6" />
+                <text>humans</text>
+            </annotation>
+            <annotation id="30122">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="1417" length="8" />
+                <text>patients</text>
+            </annotation>
+            <annotation id="30123">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1465" length="13" />
+                <text>Glial tumours</text>
+            </annotation>
+            <annotation id="30124">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1310" length="6" />
+                <text>cancer</text>
+            </annotation>
+            <annotation id="30125">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1250" length="17" />
+                <text>Malignant gliomas</text>
+            </annotation>
+            <annotation id="30126">
+                <infon key="identifier">MESH:D001932</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1956" length="13" />
+                <text>brain tumours</text>
+            </annotation>
+            <annotation id="30127">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1555" length="7" />
+                <text>gliomas</text>
+            </annotation>
+            <annotation id="30128">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1598" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30129">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1431" length="13" />
+                <text>glial tumours</text>
+            </annotation>
+            <annotation id="30130">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="1825" length="7" />
+                <text>tumours</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">INTRO</infon>
+            <infon key="type">paragraph</infon>
+            <offset>2154</offset>
+            <text>Since immature normal cells and malignant cells share similar characteristics, e.g. rapid proliferation, cellular migration and invasion, proposed that oncogenesis was a process of dedifferentiation or uncontrolled differentiation. According to this view, knowledge and control of normal cellular differentiation could help to understand and control malignancy. Differentiation agents may provide a means of leading tumour cells to re-differentiate, and thereby suppress tumour cells with minimal toxicity to normal cells. However, differentiation agents that have been investigated so far, such as retinoic acid, have not yet proved useful in treating gliomas.</text>
+            <annotation id="30131">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="2504" length="10" />
+                <text>malignancy</text>
+            </annotation>
+            <annotation id="30132">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="2625" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30133">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="2570" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30134">
+                <infon key="identifier">MESH:D064420</infon>
+                <infon key="type">Disease</infon>
+                <location offset="2651" length="8" />
+                <text>toxicity</text>
+            </annotation>
+            <annotation id="30135">
+                <infon key="identifier">MESH:D063646</infon>
+                <infon key="type">Disease</infon>
+                <location offset="2306" length="11" />
+                <text>oncogenesis</text>
+            </annotation>
+            <annotation id="30136">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="2807" length="7" />
+                <text>gliomas</text>
+            </annotation>
+            <annotation id="30137">
+                <infon key="identifier">MESH:D014212</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="2753" length="13" />
+                <text>retinoic acid</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">INTRO</infon>
+            <infon key="type">paragraph</infon>
+            <offset>2816</offset>
+            <text>One of the most important findings in the past decade in developmental biology is that there are well-controlled variations of oligosaccharides during development and differentiation. The glycan structures of tumour cells are almost always different from those of normal cells. Glycosylation of proteins is one of many molecular changes that accompany malignant transformation. During a malignant transformation, there are increases in the amounts of highly branched N-glycans and poly-N-acetyllactosamine chains. In addition, terminal Lewis antigen sequences on highly branched N-glycans have been observed to increase in some cancers, and to correlate with poor prognosis. Therefore, such tumour-specific glycans might be new molecular targets for treating glioma. Since some plant lectins are known to mimic natural biological response modulators, we examined a panel of plant lectins and found one that bound to tumour-specific glycans. It is Datura stramonium agglutinin (DSA) which binds specifically to glycans containing multiantennary and/or N-acetyllactosamine repeat units. Recently, we found that DSA induced differentiation of astrocytes. Addition of DSA caused a morphological change from a polygonal shape to a stellate shape with many long processes, an increase of glial fibrillary acidic protein (GFAP) and suppression of proliferation. Therefore, it was of interest to determine whether DSA can inhibit cell-specific proliferation and induce differentiation of glioma cells.</text>
+            <annotation id="30138">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="4098" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+            <annotation id="30139">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="4131" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30140">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3826" length="7" />
+                <text>glycans</text>
+            </annotation>
+            <annotation id="30141">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="3732" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30142">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="3507" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30143">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3395" length="9" />
+                <text>N-glycans</text>
+            </annotation>
+            <annotation id="30144">
+                <infon key="identifier">MESH:D009844</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="2943" length="16" />
+                <text>oligosaccharides</text>
+            </annotation>
+            <annotation id="30145">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="4296" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30146">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3748" length="7" />
+                <text>glycans</text>
+            </annotation>
+            <annotation id="30147">
+                <infon key="identifier">MESH:C000458</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3867" length="19" />
+                <text>N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30148">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3283" length="9" />
+                <text>N-glycans</text>
+            </annotation>
+            <annotation id="30149">
+                <infon key="identifier">2950441</infon>
+                <infon key="type">Species</infon>
+                <location offset="3793" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30150">
+                <infon key="type">Species</infon>
+                <location offset="3763" length="28" />
+                <text>Datura stramonium agglutinin</text>
+            </annotation>
+            <annotation id="30151">
+                <infon key="identifier">2950441</infon>
+                <infon key="type">Species</infon>
+                <location offset="3925" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30152">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3004" length="6" />
+                <text>glycan</text>
+            </annotation>
+            <annotation id="30153">
+                <infon key="identifier">2950441</infon>
+                <infon key="type">Species</infon>
+                <location offset="4222" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30154">
+                <infon key="identifier">MESH:C037199</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3297" length="24" />
+                <text>poly-N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30155">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="3025" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30156">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="3444" length="7" />
+                <text>cancers</text>
+            </annotation>
+            <annotation id="30157">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="3523" length="7" />
+                <text>glycans</text>
+            </annotation>
+            <annotation id="30158">
+                <infon key="identifier">2950441</infon>
+                <infon key="type">Species</infon>
+                <location offset="3980" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30159">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="3575" length="6" />
+                <text>glioma</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">INTRO</infon>
+            <infon key="type">paragraph</infon>
+            <offset>4310</offset>
+            <text>In the present study, we examined whether DSA induced differentiation of C6 cells and human glioma cell lines into the mature astrocytic phenotype and whether use of this lectin could provide a new approach to treating glioma.</text>
+            <annotation id="30160">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="4352" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30161">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="4396" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30162">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="4402" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30163">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="4383" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30164">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="4529" length="6" />
+                <text>glioma</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">title_1</infon>
+            <offset>4537</offset>
+            <text>MATERIALS AND METHODS</text>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">title_2</infon>
+            <offset>4559</offset>
+            <text>Reagents</text>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>4568</offset>
+            <text>Datura stramonium agglutinin (DSA) and tomato lectin (TL) were obtained from Sigma (St. Louis, MO, USA). Dolichos biflorus agglutinin (DBA), Sambucus sieboldiana agglutinin (SSA), leucoagglutinin from Phaseolus vulgaris (L-PHA), and Lotus tetragonolobus agglutinin (LTA) were obtained from Seikagaku Corp. (Tokyo, Japan). Kanamycin sulphate, Dulbecco's modified Eagle's medium (DMEM), RPMI 1640 and foetal bovine serum (FBS) were obtained from GIBCO BRL (Grand Island, NY, USA). Phenylmethylsulphonyl fluoride (PMSF), leupeptin hemisulphate, aprotinin, bovine serum albumin (BSA), 3,3'-diaminobenzidine (DAB) and pepstatin A were obtained from Nacalai Tesque (Kyoto, Japan). The BCA protein assay kit was purchased from Pierce Chemical Company (Rockford, IL, USA). Polyvinylidene difluoride (PVDF) membrane was obtained from Millipore Corporation (Bedford, MA, USA). Peroxidase-conjugated avidin (Vectastain ABC kit) was purchased from Vector Laboratories Inc. (Burlingame, CA, USA). Anti-glial fibrillary acidic protein (GFAP) antibody was obtained from DAKO Corp., (Carpinteria, CA, USA). The peroxidase-linked F(ab')2 fragment of anti-rabbit IgG was obtained from Amersham Pharmacia Biotech Inc., (Piscataway, NJ, USA).</text>
+            <annotation id="30165">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="5557" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+            <annotation id="30166">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="5590" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30167">
+                <infon key="identifier">MESH:D007612</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="4890" length="18" />
+                <text>Kanamycin sulphate</text>
+            </annotation>
+            <annotation id="30168">
+                <infon key="identifier">MESH:D015100</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5172" length="3" />
+                <text>DAB</text>
+            </annotation>
+            <annotation id="30169">
+                <infon key="type">Species</infon>
+                <location offset="4789" length="5" />
+                <text>L-PHA</text>
+            </annotation>
+            <annotation id="30170">
+                <infon key="identifier">1081372</infon>
+                <infon key="type">Species</infon>
+                <location offset="4622" length="2" />
+                <text>TL</text>
+            </annotation>
+            <annotation id="30171">
+                <infon key="identifier">MESH:C031375</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5181" length="11" />
+                <text>pepstatin A</text>
+            </annotation>
+            <annotation id="30172">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="4910" length="34" />
+                <text>Dulbecco's modified Eagle's medium</text>
+            </annotation>
+            <annotation id="30173">
+                <infon key="identifier">3885</infon>
+                <infon key="type">Species</infon>
+                <location offset="4769" length="18" />
+                <text>Phaseolus vulgaris</text>
+            </annotation>
+            <annotation id="30174">
+                <infon key="identifier">MESH:C024865</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5360" length="4" />
+                <text>PVDF</text>
+            </annotation>
+            <annotation id="30175">
+                <infon key="identifier">MESH:C032854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5086" length="9" />
+                <text>leupeptin</text>
+            </annotation>
+            <annotation id="30176">
+                <infon key="identifier">2950441</infon>
+                <infon key="type">Species</infon>
+                <location offset="4598" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30177">
+                <infon key="type">Species</infon>
+                <location offset="4607" length="13" />
+                <text>tomato lectin</text>
+            </annotation>
+            <annotation id="30178">
+                <infon key="identifier">MESH:D015100</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5149" length="21" />
+                <text>3,3'-diaminobenzidine</text>
+            </annotation>
+            <annotation id="30179">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5047" length="30" />
+                <text>Phenylmethylsulphonyl fluoride</text>
+            </annotation>
+            <annotation id="30180">
+                <infon key="identifier">MESH:C024865</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5333" length="25" />
+                <text>Polyvinylidene difluoride</text>
+            </annotation>
+            <annotation id="30181">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5096" length="12" />
+                <text>hemisulphate</text>
+            </annotation>
+            <annotation id="30182">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="4946" length="4" />
+                <text>DMEM</text>
+            </annotation>
+            <annotation id="30183">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="4953" length="9" />
+                <text>RPMI 1640</text>
+            </annotation>
+            <annotation id="30184">
+                <infon key="type">Species</infon>
+                <location offset="4568" length="28" />
+                <text>Datura stramonium agglutinin</text>
+            </annotation>
+            <annotation id="30185">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5079" length="4" />
+                <text>PMSF</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">title_2</infon>
+            <offset>5795</offset>
+            <text>Cell cultures</text>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>5809</offset>
+            <text>The rat glioma cell line C6, was obtained from Dr K Watanabe (our institute). Cells were cultured in DMEM supplemented with 10% FBS, 0.1 mg ml-1 kanamycin, and 4 mg ml-1 glucose at 37 C under a humidified atmosphere of 5% CO2 -95% air. Human brain tumour-cell lines, U251 (glioblastoma), SF-539 (gliosarcoma), SNB-75 (astrocytoma), and SNB-78 (astrocytoma) were cultured as described previously.</text>
+            <annotation id="30186">
+                <infon key="identifier">MESH:D005947</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5979" length="7" />
+                <text>glucose</text>
+            </annotation>
+            <annotation id="30187">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5910" length="4" />
+                <text>DMEM</text>
+            </annotation>
+            <annotation id="30188">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="6045" length="5" />
+                <text>Human</text>
+            </annotation>
+            <annotation id="30189">
+                <infon key="identifier">MESH:D005909</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6082" length="12" />
+                <text>glioblastoma</text>
+            </annotation>
+            <annotation id="30190">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6076" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30191">
+                <infon key="identifier">MESH:D001254</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6127" length="11" />
+                <text>astrocytoma</text>
+            </annotation>
+            <annotation id="30192">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="5817" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30193">
+                <infon key="identifier">10116</infon>
+                <infon key="type">Species</infon>
+                <location offset="5813" length="3" />
+                <text>rat</text>
+            </annotation>
+            <annotation id="30194">
+                <infon key="identifier">MESH:D007612</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="5954" length="9" />
+                <text>kanamycin</text>
+            </annotation>
+            <annotation id="30195">
+                <infon key="identifier">CVCL:B321</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6145" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30196">
+                <infon key="identifier">MESH:D002245</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="6031" length="3" />
+                <text>CO2</text>
+            </annotation>
+            <annotation id="30197">
+                <infon key="identifier">MESH:D018316</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6105" length="11" />
+                <text>gliosarcoma</text>
+            </annotation>
+            <annotation id="30198">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="5834" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30199">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6119" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30200">
+                <infon key="identifier">MESH:D001254</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6153" length="11" />
+                <text>astrocytoma</text>
+            </annotation>
+            <annotation id="30201">
+                <infon key="identifier">CVCL:1691</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6097" length="6" />
+                <text>SF-539</text>
+            </annotation>
+            <annotation id="30202">
+                <infon key="identifier">MESH:D001932</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6051" length="12" />
+                <text>brain tumour</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">title_2</infon>
+            <offset>6218</offset>
+            <text>Morphological observations</text>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>6245</offset>
+            <text>Changes in cell morphology were assessed under a microscope (TE300, Nikon Co. Ltd., Tokyo, Japan) with a Hoffman Modulation Contrast module (Nikon Co. Ltd.). C6 cells and human glial tumour-cell lines were seeded in 12-well plates (Asahi Techno glass) at a density of 1.0x104 cells per cm2. Cells were incubated with 1 muM DSA or without DSA beginning 1 h after seeding. After 23 h, photographs of each cell were taken. Experiments were performed more than five times.</text>
+            <annotation id="30203">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6422" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30204">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6403" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30205">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="6416" length="5" />
+                <text>human</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">title_2</infon>
+            <offset>6723</offset>
+            <text>Cell proliferation assay</text>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>6748</offset>
+            <text>Plated cell numbers per well in 12-well plates of C6 cells and human tumour-cell lines (U251, SNB-75, and SNB-78) were 0.5x104, 0.4x104, 1.0x104, and 1.0x104 cells, respectively. Five wells were used for each experimental condition. Cells were detached with trypsin and EDTA and counted in a Burker-Turk haemocytometer. Values were expressed as the mean+-standard deviation.</text>
+            <annotation id="30206">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="6817" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30207">
+                <infon key="identifier">CVCL:B321</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6854" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30208">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="6811" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30209">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6842" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30210">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6798" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30211">
+                <infon key="identifier">MESH:D004492</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7018" length="4" />
+                <text>EDTA</text>
+            </annotation>
+            <annotation id="30212">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="6836" length="4" />
+                <text>U251</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>7131</offset>
+            <text>DNA synthesis was measured as the amount of 5'-bromodeoxyuridine (BrdU) incorporated using 'Cell Proliferation ELISA, BrdU (colorimetric)'. The subcultured astrocytes were seeded at a density of 1.9x104 cells per cm2 in a 96-well plate (Nippon Becton Dickinson Co., Ltd., Tokyo, Japan).</text>
+            <annotation id="30213">
+                <infon key="identifier">MESH:D001973</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7249" length="4" />
+                <text>BrdU</text>
+            </annotation>
+            <annotation id="30214">
+                <infon key="identifier">MESH:D001973</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7197" length="4" />
+                <text>BrdU</text>
+            </annotation>
+            <annotation id="30215">
+                <infon key="identifier">MESH:D001973</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7175" length="20" />
+                <text>5'-bromodeoxyuridine</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>7427</offset>
+            <text>Cell growth inhibition (percentage of growth) was calculated as:</text>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>7492</offset>
+            <text>% growth=100x{(T - T0)/(C - T0)}</text>
+            <annotation id="30216">
+                <infon key="identifier">tmVar:c|SUB|T|0|T;HGVS:c.0T&gt;T;VariantGroup:0;CorrespondingGene:2670;CorrespondingSpecies:9606</infon>
+                <infon key="type">DNAMutation</infon>
+                <location offset="7507" length="6" />
+                <text>T - T0</text>
+            </annotation>
+            <annotation id="30217">
+                <infon key="identifier">tmVar:c|SUB|C|0|T;HGVS:c.0C&gt;T;VariantGroup:0;CorrespondingGene:2670;CorrespondingSpecies:9606</infon>
+                <infon key="type">DNAMutation</infon>
+                <location offset="7516" length="6" />
+                <text>C - T0</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>7530</offset>
+            <text>where C and T are the cell number of the control and test wells, respectively, and T0 is the cell number immediately before the addition of DSA.</text>
+            <annotation id="30218">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7670" length="3" />
+                <text>DSA</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">title_2</infon>
+            <offset>7675</offset>
+            <text>SDS-PAGE and immunoblotting</text>
+            <annotation id="30219">
+                <infon key="identifier">MESH:D012967</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7675" length="3" />
+                <text>SDS</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>7705</offset>
+            <text>The cells in the culture dish were washed three times with ice-cold PBS, detached in ice-cold PBS with a rubber scraper, collected by centrifugation at 600 g for 10 min at 4 C, and homogenised with 1% SDS in 10 mM Tris-HCl buffer, pH 7.4, containing 1 mM PMSF, 10 muM leupeptin, 1 muM aprotinin, 1 muM pepstatin A and 1 mM EDTA.</text>
+            <annotation id="30220">
+                <infon key="identifier">MESH:C031375</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8007" length="11" />
+                <text>pepstatin A</text>
+            </annotation>
+            <annotation id="30221">
+                <infon key="identifier">MESH:D012967</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7906" length="3" />
+                <text>SDS</text>
+            </annotation>
+            <annotation id="30222">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7799" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30223">
+                <infon key="identifier">MESH:D004492</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8028" length="4" />
+                <text>EDTA</text>
+            </annotation>
+            <annotation id="30224">
+                <infon key="identifier">MESH:C032854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7973" length="9" />
+                <text>leupeptin</text>
+            </annotation>
+            <annotation id="30225">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7919" length="8" />
+                <text>Tris-HCl</text>
+            </annotation>
+            <annotation id="30226">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7773" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30227">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="7960" length="4" />
+                <text>PMSF</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">METHODS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>8053</offset>
+            <text>SDS-PAGE (10% acrylamide) was performed essentially as described by Laemmli. Protein concentration was determined with a BCA protein assay kit. Each sample (10 mug from C6 or 5 mug from human tumour-cell line) was subjected to SDS-PAGE. For the immunoblot, the proteins in the gel were transferred electrophoretically to a PVDF membrane at 2 mA/cm2 for 2 h in 25 mM Tris, 192 mM glycine and 20% methanol, pH 8.3, using a protein transfer system (Bio-Rad Laboratories, Hercules, CA, USA). The PVDF membrane was incubated with PBS containing 3% BSA at 4 C for about 12 h, incubated with a solution containing the anti-GFAP polyclonal antibody in PBS containing 1% BSA at room temperature for 2 h with shaking, incubated with an anti-rabbit IgG antibody conjugated with peroxidase in PBS containing 1% BSA for 1 h, washed three times with PBS containing 0.05% Tween 20 for 5 min, washed once with PBS for 10 min, and incubated with the peroxidase substrate, DAB, to detect reactive proteins. Band intensities were measured by densitometric scanning using a densitometer and NIH Image 1.61/ppc software.</text>
+            <annotation id="30228">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="8669" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30229">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="8239" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30230">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8578" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30231">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8947" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30232">
+                <infon key="identifier">MESH:D011136</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8910" length="8" />
+                <text>Tween 20</text>
+            </annotation>
+            <annotation id="30233">
+                <infon key="identifier">MESH:D020106</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8067" length="10" />
+                <text>acrylamide</text>
+            </annotation>
+            <annotation id="30234">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8889" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30235">
+                <infon key="identifier">MESH:D015100</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9008" length="3" />
+                <text>DAB</text>
+            </annotation>
+            <annotation id="30236">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8697" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30237">
+                <infon key="identifier">MESH:D005998</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8432" length="7" />
+                <text>glycine</text>
+            </annotation>
+            <annotation id="30238">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="8222" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30239">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8419" length="4" />
+                <text>Tris</text>
+            </annotation>
+            <annotation id="30240">
+                <infon key="identifier">MESH:D012967</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8280" length="3" />
+                <text>SDS</text>
+            </annotation>
+            <annotation id="30241">
+                <infon key="identifier">MESH:D007854</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8834" length="3" />
+                <text>PBS</text>
+            </annotation>
+            <annotation id="30242">
+                <infon key="identifier">MESH:C024865</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8376" length="4" />
+                <text>PVDF</text>
+            </annotation>
+            <annotation id="30243">
+                <infon key="identifier">MESH:C024865</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8545" length="4" />
+                <text>PVDF</text>
+            </annotation>
+            <annotation id="30244">
+                <infon key="identifier">MESH:D012967</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8053" length="3" />
+                <text>SDS</text>
+            </annotation>
+            <annotation id="30245">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="8245" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30246">
+                <infon key="identifier">MESH:D000432</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="8448" length="8" />
+                <text>methanol</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">title_1</infon>
+            <offset>9182</offset>
+            <text>RESULTS</text>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">title_2</infon>
+            <offset>9190</offset>
+            <text>Effect of DSA on the proliferation of C6 cells and human glial tumour-cell lines</text>
+            <annotation id="30247">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9200" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30248">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="9228" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30249">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="9247" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30250">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="9241" length="5" />
+                <text>human</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">FIG</infon>
+            <infon key="file">87-6600550f1.jpg</infon>
+            <infon key="id">fig1</infon>
+            <infon key="type">fig_caption</infon>
+            <offset>9271</offset>
+            <text>Inhibition of proliferation of glioma cells by DSA. (A), Effect of DSA on proliferation of C6 cells. Triangle, Cells exposed to 1 muM DSA after the seeding; diamond, control cells; square, cells after DSA-containing medium was replaced with DSA-free medium. Arrow indicates time of change of medium. Cells were detached with trypsin and EDTA and counted in a Burker-Turk haemocytometer at the indicated times after the seeding. C6 cells were seeded in 12-well plates (Asahi Techno glass) at a density of 0.5x104 cells per well and cultured in 10% FBS-supplemented media. The data are presented as mean+-s.d.; n=5 for each experimental condition. (B), Concentration-dependence of inhibition of proliferation of C6 cells. C6 cells were seeded in 12-well plates at a density of 1.0x104 cells per well and cultured in 10% FBS-supplemented media. DSA was added 3 h after the seeding of the cells at the indicated concentrations. Cell numbers were counted 24 h after seeding. The data are presented as mean+-s.d.; n=5 for each DSA concentration. (C), Effect of DSA on proliferation of four human glial tumour cells. DSA was added 24 h after seeding of the cells at a concentration of 1 muM. After 1 h exposure with DSA in FBS-free medium, the medium was changed to DSA-free, FBS-supplemented medium. After 36 h culture, cell growth was measured. Data are expressed as a percentage of growth as described in Materials and Methods.</text>
+            <annotation id="30251">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="9991" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30252">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9405" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30253">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="10355" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30254">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9512" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30255">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="9699" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30256">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10326" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30257">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9472" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30258">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10381" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30259">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10530" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30260">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10480" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30261">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="9362" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30262">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="9302" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30263">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10113" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30264">
+                <infon key="identifier">MESH:D004492</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9608" length="4" />
+                <text>EDTA</text>
+            </annotation>
+            <annotation id="30265">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10292" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30266">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9338" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30267">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="9981" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30268">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="9318" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30269">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="10361" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>10717</offset>
+            <text>To examine the effects of DSA on glioma cell proliferation, cell numbers were counted after the addition of DSA. One muM of DSA almost completely inhibited the proliferation of C6 cells (Figure 1A). After 120 h, the number of control C6 cells increased 28.9 times (Figure 1A, diamonds), but DSA-treated cells increased only 1.14 times (Figure 1A, triangles). DSA suppressed C6 proliferation in a dose-dependent manner (Figure 1B). After 24 h, the number of C6 cells cultured without DSA increased 2.6 times. The corresponding values of C6 cells treated with 250 nM, 500 nM, and 1 muM of DSA were 1.4, 1.2, and 1.1, respectively. We confirmed the results by a different method. Since 5'-bromodeoxyuridine (BrdU) incorporation of astrocytes cultured with 1 muM of DSA containing medium during 12 h culture was reduced to 4.3% in comparison with DSA free control, we concluded that DNA synthesis was strikingly suppressed by DSA.</text>
+            <annotation id="30270">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11200" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30271">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="11091" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30272">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11304" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30273">
+                <infon key="identifier">MESH:D001973</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11400" length="20" />
+                <text>5'-bromodeoxyuridine</text>
+            </annotation>
+            <annotation id="30274">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10841" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30275">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="11639" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30276">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11008" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30277">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11076" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30278">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="10951" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30279">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11560" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30280">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10743" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30281">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="10894" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30282">
+                <infon key="identifier">MESH:D001973</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11422" length="4" />
+                <text>BrdU</text>
+            </annotation>
+            <annotation id="30283">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="11174" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30284">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11479" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30285">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="10750" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30286">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="11253" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30287">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="10825" length="3" />
+                <text>DSA</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>11660</offset>
+            <text>After 24 h exposure to DSA, the medium was replaced with DSA-free medium. Despite the removal of DSA, the cells continued to proliferate at the same slow rate (Figure 1A, squares). Thus, the effect of DSA on C6 proliferation was irreversible and not a temporal response. These results suggested that DSA acted at an early stage of cell proliferation.</text>
+            <annotation id="30288">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="11868" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30289">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11717" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30290">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="11960" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30291">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11757" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30292">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11861" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30293">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="11683" length="3" />
+                <text>DSA</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>12013</offset>
+            <text>To determine whether the inhibitory effect of DSA on cell proliferation is limited to C6 cells, we examined the effect of DSA on the proliferation of four human glial tumour cells (U251, SF-539, SNB-75, and SNB-78). Exposure of each of these cells type to 1 muM of DSA for 1 h reduced their growth rate to 14% ~ 49% of that of the control (Figure 1C). Under these conditions, growth rate of C6 cells reduced by over 90%. These results suggested that DSA was effective on all types of glioma cells.</text>
+            <annotation id="30294">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="12278" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30295">
+                <infon key="identifier">CVCL:B321</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12220" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30296">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12208" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30297">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="12135" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30298">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="12168" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30299">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="12059" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30300">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12194" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30301">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="12497" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30302">
+                <infon key="identifier">CVCL:1691</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12200" length="6" />
+                <text>SF-539</text>
+            </annotation>
+            <annotation id="30303">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12404" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30304">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12099" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30305">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="12463" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30306">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="12174" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">title_2</infon>
+            <offset>12517</offset>
+            <text>Induction of morphological changes of gliomas by DSA</text>
+            <annotation id="30307">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="12555" length="7" />
+                <text>gliomas</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">FIG</infon>
+            <infon key="file">87-6600550f2.jpg</infon>
+            <infon key="id">fig2</infon>
+            <infon key="type">fig_caption</infon>
+            <offset>12570</offset>
+            <text>Morphological changes of glioma cells by DSA. Plated cell numbers per well of C6 cells and human tumour-cell lines (U251, SNB-75, and SNB-78) were 1.0x104, 0.7x104, 1.4x104, and 1.4x104 cells, respectively. C6 cells were cultured in 10% FBS-supplemented DMEM and human tumour-cell lines were done in 5% FBS-supplemented RPMI 1640. Cells were incubated without (A, C, E, and G) or with (B, D, F, and H) 1 muM DSA beginning 1 h after seeding. Cells were observed 23 h after the addition of DSA. (A and B), C6; (C and D), U251; (E and F), SNB-75; (G and H), SNB-78. Bar in (A), 50 mum.</text>
+            <annotation id="30308">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="12824" length="4" />
+                <text>DMEM</text>
+            </annotation>
+            <annotation id="30309">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12648" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30310">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="13125" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30311">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12692" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30312">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="12839" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30313">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="12890" length="9" />
+                <text>RPMI 1640</text>
+            </annotation>
+            <annotation id="30314">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="12595" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30315">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="12661" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30316">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="12833" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30317">
+                <infon key="identifier">CVCL:B321</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12704" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30318">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="12667" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30319">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12686" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30320">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="13074" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30321">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="12777" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30322">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="13089" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30323">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="13106" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>13167</offset>
+            <text>To assess the morphological effects of DSA, we analysed C6 cells treated with or without DSA by microscopy (Figure 2A,B). C6 cells had a flat epithelioidal morphology (Figure 2A), but after addition of DSA, most of them became astrocytic with many long, thin processes well-developed and extended radially (Figure 2B). The lengths of some processes exceeded 200 mum. In the absence of DSA, most cells were flattened and spindle-shaped and none of them had thin process (Figure 2A). Since it is known that well-differentiated astrocytes have a stellate shape and many long processes, the present results suggests that DSA caused C6 cells to enter the differentiated state.</text>
+            <annotation id="30324">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="13256" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30325">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="13552" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30326">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="13369" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30327">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="13795" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30328">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="13784" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30329">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="13206" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30330">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="13223" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30331">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="13289" length="2" />
+                <text>C6</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>13841</offset>
+            <text>When we examined the effect of DSA on the morphological changes of human glial tumour cells, most of them changed their shape as follows. U251 cells were a flat epithelioidal morphology (Figure 2C). After addition of DSA, most of them changed to a stellate shape (Figure 2D). In the case of SNB-75, the cells were elongated in comparison with C6 or U251 but flattened (Figure 2E). After addition of DSA, they changed to a stellate shape with well-branched processes (Figure 2F). The morphology of SNB-78 cells was similar to that of SNB-75 before addition of DSA (Figure 2G), but SNB-78 cells changed differently to a stellate shape with longer but fewer branched processes than SNB-75 cells after addition of DSA (Figure 2H). These results indicated that DSA induced the morphological changes of glial tumour cells from the flatten epithelioidal shape to the stellate form bearing two or more thin processes. It has been reported that such a stellate cell morphology is one of characteristics of differentiated astrocytes.</text>
+            <annotation id="30332">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14190" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30333">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14520" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30334">
+                <infon key="identifier">CVCL:B321</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14421" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30335">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="13979" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30336">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14132" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30337">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="14058" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30338">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="14400" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30339">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="13908" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30340">
+                <infon key="identifier">CVCL:1706</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14374" length="6" />
+                <text>SNB-75</text>
+            </annotation>
+            <annotation id="30341">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="13914" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30342">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="13872" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30343">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="14638" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30344">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="14240" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30345">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="14551" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30346">
+                <infon key="identifier">CVCL:B321</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14338" length="6" />
+                <text>SNB-78</text>
+            </annotation>
+            <annotation id="30347">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="14597" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30348">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="14184" length="2" />
+                <text>C6</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">title_2</infon>
+            <offset>14865</offset>
+            <text>Increased expression of GFAP after addition of DSA</text>
+            <annotation id="30349">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="14889" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30350">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="14912" length="3" />
+                <text>DSA</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">FIG</infon>
+            <infon key="file">87-6600550f3.jpg</infon>
+            <infon key="id">fig3</infon>
+            <infon key="type">fig_caption</infon>
+            <offset>14916</offset>
+            <text>Immunoblotting with anti-GFAP antibody. Cells cultured in media containing 10% FBS, were collected 24 h after incubation without (lanes 1, 3, 5, 7 and 9) and with DSA (lanes 2, 4, 6, 8 and 10). Lanes 1 and 2, U251; lanes 3 and 4, SNB-75; lanes 5 and 6, SNB-78; lanes 7 and 8, SF-539; lanes 9 and 10, C6. SDS-solubilised fractions obtained from each cell preparation were applied to SDS-PAGE using a 10% acrylamide gel, and the separated proteins were transferred to a PVDF membrane. Lanes from 1 to 8 contained 5 mug protein, and lanes 9 and 10 did 10 mug. The PVDF membrane was stained with anti-GFAP antibody. The migration positions of GFAP and molecular weight markers (kilodalton) are indicated (lane 11).</text>
+            <annotation id="30351">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="14941" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30352">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="15513" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30353">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="15555" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30354">
+                <infon key="identifier">CVCL:1691</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="15192" length="6" />
+                <text>SF-539</text>
+            </annotation>
+            <annotation id="30355">
+                <infon key="identifier">MESH:D012967</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="15220" length="3" />
+                <text>SDS</text>
+            </annotation>
+            <annotation id="30356">
+                <infon key="identifier">CVCL:0021</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="15125" length="4" />
+                <text>U251</text>
+            </annotation>
+            <annotation id="30357">
+                <infon key="identifier">MESH:C024865</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="15477" length="4" />
+                <text>PVDF</text>
+            </annotation>
+            <annotation id="30358">
+                <infon key="identifier">MESH:D020106</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="15319" length="10" />
+                <text>acrylamide</text>
+            </annotation>
+            <annotation id="30359">
+                <infon key="identifier">MESH:D012967</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="15298" length="3" />
+                <text>SDS</text>
+            </annotation>
+            <annotation id="30360">
+                <infon key="identifier">MESH:C024865</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="15384" length="4" />
+                <text>PVDF</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>15635</offset>
+            <text>The malignancy of gliomas is inversely correlated with the content of astrocyte-specific intermediate filament protein (GFAP). Furthermore, mature astrocytes are characterised by the expression of a large amount of GFAP. GFAP is expressed exclusively in astrocytes and the expression level increases during differentiation. C6 cells were found to produce only a small amount of GFAP due to their malignant properties. The immunoblot in Figure 3 shows clearly that the expression of GFAP was enhanced after the addition of DSA. A densitometric evaluation of the blot indicated that the amount of GFAP after the addition of DSA increased over hundred fold relative to the amount in the control cells. The corresponding values of human glial tumour cell lines were more than 12.2 times. Differentiated astrocytes are characterised by a stellate cell morphology, increased GFAP expression, and inhibited proliferation. We conclude that C6 cells and human glial tumour-cell lines were induced to differentiate by DSA.</text>
+            <annotation id="30361">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="15755" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30362">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="15850" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30363">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="15856" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30364">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="16013" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30365">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="16117" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30366">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="16230" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30367">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="16504" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30368">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="16586" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30369">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="15639" length="10" />
+                <text>malignancy</text>
+            </annotation>
+            <annotation id="30370">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="16157" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30371">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="15653" length="7" />
+                <text>gliomas</text>
+            </annotation>
+            <annotation id="30372">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="16567" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30373">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="16368" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30374">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="16643" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30375">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="16580" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30376">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="16362" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30377">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="15959" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30378">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="16257" length="3" />
+                <text>DSA</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">title_2</infon>
+            <offset>16648</offset>
+            <text>Lectin specificity of inhibitory effect on C6 proliferation</text>
+            <annotation id="30379">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="16691" length="2" />
+                <text>C6</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">FIG</infon>
+            <infon key="file">87-6600550f4.jpg</infon>
+            <infon key="id">fig4</infon>
+            <infon key="type">fig_caption</infon>
+            <offset>16708</offset>
+            <text>Lectin specificity of inhibitory effect on C6 proliferation. C6 cells were seeded in 12-well plates at a density of 1.0x104 cells per well and cultured in 10% FBS-supplemented media. One muM of each lectin was added 3 h after the seeding of the cells. Cell numbers were counted 24 h after seeding. Data are presented as mean+-s.d.; n=5 for each lectin. Twenty-four hours after seeding, the number of C6 cells cultured in DSA-free medium increased 2.64 times (control). The corresponding values of cells treated with DSA, L-PHA, TL, DBA, LTA and SSA were 1.06, 1.71, 1.09, 2.65, 2.61 and 2.06, respectively.</text>
+            <annotation id="30380">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="16751" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30381">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17129" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30382">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="16769" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30383">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17253" length="3" />
+                <text>SSA</text>
+            </annotation>
+            <annotation id="30384">
+                <infon key="identifier">CVCL:EQ30</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="17229" length="5" />
+                <text>L-PHA</text>
+            </annotation>
+            <annotation id="30385">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17224" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30386">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="17108" length="2" />
+                <text>C6</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">RESULTS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>17322</offset>
+            <text>DSA binds specifically to glycans containing multiantennary and/or N-acetyllactosamine repeat units. Therefore, it was of interest to determine whether other plant lectins, which possess different carbohydrate-binding specificities, can inhibit proliferation of C6 cells. The results are shown in Figure 4. TL, which reacts with a linear N-acetyllactosamine repeat sequence of three or more units, inhibited C6 proliferation as strongly as DSA. L-PHA which recognises multiantennary N-glycans containing a Galbeta1 4GlcNAcbeta1 6(Galbeta1 4GlcNAcbeta1 2)Man group, was also effective. These results indicate that the presence of both linear N-acetyllactosamine repeats and multiantennary units may be required for the inhibition of C6 proliferation. It is noteworthy that DBA, which binds to core 1 O-linked oligosaccharide (Galbeta1 3GalNAc), did not inhibit proliferation at all. LTA, a fucose-binding lectin, also did not inhibit proliferation. Since SSA showed only a small effect on C6 proliferation, glycans containing the Siaalpha2 6 group may not be effective. We conclude that DSA inhibited C6 proliferation in a glycan-specific manner, via glycans containing multiantennary and/or N-acetyllactosamine repeat units.</text>
+            <annotation id="30387">
+                <infon key="identifier">MESH:C000458</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18513" length="19" />
+                <text>N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30388">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="18310" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30389">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18444" length="6" />
+                <text>glycan</text>
+            </annotation>
+            <annotation id="30390">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17828" length="51" />
+                <text>Galbeta1 4GlcNAcbeta1 6(Galbeta1 4GlcNAcbeta1 2)Man</text>
+            </annotation>
+            <annotation id="30391">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18408" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30392">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18276" length="3" />
+                <text>SSA</text>
+            </annotation>
+            <annotation id="30393">
+                <infon key="identifier">MESH:C000458</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17963" length="19" />
+                <text>N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30394">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18351" length="11" />
+                <text>Siaalpha2 6</text>
+            </annotation>
+            <annotation id="30395">
+                <infon key="identifier">MESH:D002241</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17519" length="12" />
+                <text>carbohydrate</text>
+            </annotation>
+            <annotation id="30396">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="18054" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30397">
+                <infon key="identifier">MESH:C000458</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17660" length="19" />
+                <text>N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30398">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18328" length="7" />
+                <text>glycans</text>
+            </annotation>
+            <annotation id="30399">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18472" length="7" />
+                <text>glycans</text>
+            </annotation>
+            <annotation id="30400">
+                <infon key="identifier">MESH:C000458</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17389" length="19" />
+                <text>N-acetyllactosamine</text>
+            </annotation>
+            <annotation id="30401">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17805" length="9" />
+                <text>N-glycans</text>
+            </annotation>
+            <annotation id="30402">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="18422" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30403">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="17730" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30404">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18114" length="31" />
+                <text>core 1 O-linked oligosaccharide</text>
+            </annotation>
+            <annotation id="30405">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="17584" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30406">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17762" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30407">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="17348" length="7" />
+                <text>glycans</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">title_1</infon>
+            <offset>18547</offset>
+            <text>DISCUSSION</text>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>18558</offset>
+            <text>During organogenesis in the central nervous system, differentiated astrocytes are characterised by a high expression of GFAP, a change from a polygonal shape to a stellate shape, and a low rate of proliferation. In the present study, we showed that DSA-treated cells express the characteristics of differentiation, i.e., they had a high content of GFAP, long processes, and a low rate of proliferation. GFAP is expressed exclusively in astrocytes, and that the amount of GFAP is closely related to the differentiation of astrocytes. In addition to being a marker of matured astrocytes, GFAP is considered to be important for the induction and maintenance of astrocyte differentiation, because introduction of GFAP to C6 cells and human astrocytoma induced morphological changes, and suppressed their proliferation and invasive potential.</text>
+            <annotation id="30408">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="18678" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30409">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="18906" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30410">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="18961" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30411">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="19029" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30412">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="19144" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30413">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="19267" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30414">
+                <infon key="identifier">MESH:D001254</infon>
+                <infon key="type">Disease</infon>
+                <location offset="19294" length="11" />
+                <text>astrocytoma</text>
+            </annotation>
+            <annotation id="30415">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="19275" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30416">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="18807" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30417">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="19288" length="5" />
+                <text>human</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>19396</offset>
+            <text>A strategy was proposed to control glial tumours by cellular differentiation. Regulation of cell proliferation and terminal differentiation is a critical aspect of normal development and homeostasis, but is frequently disrupted during tumorigenesis. Thus, DSA may be useful for treating gliomas.</text>
+            <annotation id="30418">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="19431" length="13" />
+                <text>glial tumours</text>
+            </annotation>
+            <annotation id="30419">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="19652" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30420">
+                <infon key="identifier">MESH:D063646</infon>
+                <infon key="type">Disease</infon>
+                <location offset="19631" length="13" />
+                <text>tumorigenesis</text>
+            </annotation>
+            <annotation id="30421">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="19683" length="7" />
+                <text>gliomas</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>19692</offset>
+            <text>It is well known that neuronal cells, in addition to astrocytes, are important. Therefore, it is important to avoid any effects on neurons during treatment of glial tumours. It is desirable that the inhibitory effect of DSA on the proliferation of glial tumour cells continues after removal of DSA. Some agents that inhibit cell proliferation, such as dibutyryl cyclic AMP, have only a transient effect and thus must be continuously present. In contrast, DSA induced irreversible differentiation of tumour cells after a short exposure. Thus, DSA may be useful as an anti-tumour drug because such a short exposure may minimize the side effects on other normal cells. Treatment with DSA once or a few times may be enough to treat the tumour.</text>
+            <annotation id="30422">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20147" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30423">
+                <infon key="identifier">MESH:D003994</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20044" length="20" />
+                <text>dibutyryl cyclic AMP</text>
+            </annotation>
+            <annotation id="30424">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="19912" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30425">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="20263" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30426">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="19940" length="12" />
+                <text>glial tumour</text>
+            </annotation>
+            <annotation id="30427">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="20424" length="6" />
+                <text>tumour</text>
+            </annotation>
+            <annotation id="30428">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="19986" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30429">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20234" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30430">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20373" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30431">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="19851" length="13" />
+                <text>glial tumours</text>
+            </annotation>
+            <annotation id="30432">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="20191" length="6" />
+                <text>tumour</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>20432</offset>
+            <text>Many molecules on the surface of astrocytes including cell adhesion molecules and receptors are shared by neurons. Their effector molecules may bind to the molecules on both cells, and then they may affect not only astrocytes but also neurons. It is well known that the structures of glycans are specific for each cell type. Since lectins recognise specific sequences and configurations of the oligosaccharides, they are useful tools for distinguishing glycoproteins produced by different cells. In fact, DSA reacted strongly with many rat astrocyte glycoproteins, but reacted with very few neuronal glycoproteins. Actually, DSA did not affect neuronal cell migration or axonal extension and did not induce any morphological change of neurons. Taken together, these results suggest that DSA can distinguish between astrocytic and neuronal glycoreceptors. Previously, reported that DSA is bound to glial cells and/or glia in the surrounding extracellular matrix but not to neuronal cells in the locust. These results support the hypothesis that DSA selectively binds to astrocytes, but not to neuronal cells. Therefore, the effect of DSA on astrocytes may be restricted to glia in the brain. It is of interest that DSA was effective not only on rat C6 cells but also on four human glial tumours.</text>
+            <annotation id="30433">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="21565" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30434">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="21313" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30435">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="21706" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30436">
+                <infon key="identifier">10116</infon>
+                <infon key="type">Species</infon>
+                <location offset="21676" length="3" />
+                <text>rat</text>
+            </annotation>
+            <annotation id="30437">
+                <infon key="identifier">CVCL:0194</infon>
+                <infon key="type">CellLine</infon>
+                <location offset="21680" length="2" />
+                <text>C6</text>
+            </annotation>
+            <annotation id="30438">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="21219" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30439">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="21646" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30440">
+                <infon key="identifier">MESH:D009844</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20826" length="16" />
+                <text>oligosaccharides</text>
+            </annotation>
+            <annotation id="30441">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="21476" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30442">
+                <infon key="identifier">MESH:D009369</infon>
+                <infon key="type">Disease</infon>
+                <location offset="21712" length="13" />
+                <text>glial tumours</text>
+            </annotation>
+            <annotation id="30443">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20937" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30444">
+                <infon key="identifier">10116</infon>
+                <infon key="type">Species</infon>
+                <location offset="20968" length="3" />
+                <text>rat</text>
+            </annotation>
+            <annotation id="30445">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="21057" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30446">
+                <infon key="identifier">MESH:D011134</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="20716" length="7" />
+                <text>glycans</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>21727</offset>
+            <text>We previously found that DSA induced astrocyte differentiation through tyrosine dephosphorylation, specifically a decrease in the extent of tyrosine phosphorylation of a 38-kDa protein. Further studies are needed to elucidate molecular mechanism by which DSA acts on glioma cells.</text>
+            <annotation id="30447">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="21982" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30448">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="21752" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30449">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="21994" length="6" />
+                <text>glioma</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="section_type">DISCUSS</infon>
+            <infon key="type">paragraph</infon>
+            <offset>22008</offset>
+            <text>In summary, we showed that DSA induced differentiation and inhibited the proliferation of glioma cells. After addition of DSA to glioma cells, the cells grew at a much reduced rate, they changed from a flattened epithelioidal shape to a stellate shape having two or more long processes, so that some of the cells resembled normal fibrous astrocytes, and their content of GFAP was strikingly increased. These changes showed that DSA caused glioma cells to differentiate and thus may be useful as a new therapy for human glioma.</text>
+            <annotation id="30450">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="22379" length="4" />
+                <text>GFAP</text>
+            </annotation>
+            <annotation id="30451">
+                <infon key="identifier">-</infon>
+                <infon key="type">Chemical</infon>
+                <location offset="22035" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30452">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="22130" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30453">
+                <infon key="identifier">9606</infon>
+                <infon key="type">Species</infon>
+                <location offset="22521" length="5" />
+                <text>human</text>
+            </annotation>
+            <annotation id="30454">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="22527" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30455">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="22447" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30456">
+                <infon key="identifier">MESH:D000744</infon>
+                <infon key="type">Disease</infon>
+                <location offset="22436" length="3" />
+                <text>DSA</text>
+            </annotation>
+            <annotation id="30457">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="22098" length="6" />
+                <text>glioma</text>
+            </annotation>
+            <annotation id="30458">
+                <infon key="identifier">MESH:D005910</infon>
+                <infon key="type">Disease</infon>
+                <location offset="22137" length="6" />
+                <text>glioma</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="volume">6</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">585</infon>
+            <infon key="pub-id_pmid">606643</infon>
+            <infon key="year">1977</infon>
+            <infon key="source">Immunol Commun</infon>
+            <infon key="type">ref</infon>
+            <offset>22535</offset>
+            <text>A comparison of the binding specificities of lectins from Ulex europaeus and Lotus tetragonolobus</text>
+        </passage>
+        <passage>
+            <infon key="volume">22</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">2741</infon>
+            <infon key="pub-id_pmid">6603233</infon>
+            <infon key="year">1983</infon>
+            <infon key="source">Biochemistry</infon>
+            <infon key="type">ref</infon>
+            <offset>22633</offset>
+            <text>Immunochemical studies on the combining sites of Forssman hapten reactive hemagglutinins from Dolichos biflorus, Helix pomatia, and Wistaria floribunda</text>
+        </passage>
+        <passage>
+            <infon key="volume">324</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">1555</infon>
+            <infon key="pub-id_pmid">2027359</infon>
+            <infon key="year">1991</infon>
+            <infon key="source">N Engl J Med</infon>
+            <infon key="type">ref</infon>
+            <offset>22785</offset>
+            <text>Brain tumor</text>
+        </passage>
+        <passage>
+            <infon key="volume">102</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">248</infon>
+            <infon key="pub-id_pmid">6538151</infon>
+            <infon key="year">1984</infon>
+            <infon key="source">Dev Biol</infon>
+            <infon key="type">ref</infon>
+            <offset>22797</offset>
+            <text>Development of cerebellar astroglia: transitions in form and cytoskeletal content</text>
+        </passage>
+        <passage>
+            <infon key="section_type">REF</infon>
+            <infon key="year">1991</infon>
+            <infon key="source">Surgical pathology of the nervous system and its coverings</infon>
+            <infon key="type">ref</infon>
+            <offset>22879</offset>
+        </passage>
+        <passage>
+            <infon key="volume">633</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">90</infon>
+            <infon key="pub-id_pmid">1789597</infon>
+            <infon key="year">1991</infon>
+            <infon key="source">Ann NY Acad Sci</infon>
+            <infon key="type">ref</infon>
+            <offset>22880</offset>
+            <text>Macroglial cell types, lineage, and morphology in the CNS</text>
+        </passage>
+        <passage>
+            <infon key="volume">8</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">283</infon>
+            <infon key="pub-id_pmid">2989328</infon>
+            <infon key="year">1985</infon>
+            <infon key="source">J Neuroimmunol</infon>
+            <infon key="type">ref</infon>
+            <offset>22938</offset>
+            <text>Regulation of glial fibrillary acidic protein (GFAP) expression in CNS development and in pathological states</text>
+            <annotation id="30459">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="22952" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+            <annotation id="30460">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="22985" length="4" />
+                <text>GFAP</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="volume">257</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">11230</infon>
+            <infon key="pub-id_pmid">7118880</infon>
+            <infon key="year">1982</infon>
+            <infon key="source">J Biol Chem</infon>
+            <infon key="type">ref</infon>
+            <offset>23048</offset>
+            <text>Characterization of the structural determinants required for the high affinity interaction of asparagine-linked oligosaccharides with immobilized Phaseolus vulgaris leukoagglutinating and erythroagglutinating lectins</text>
+        </passage>
+        <passage>
+            <infon key="volume">259</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">6253</infon>
+            <infon key="pub-id_pmid">6725252</infon>
+            <infon key="year">1984</infon>
+            <infon key="source">J Biol Chem</infon>
+            <infon key="type">ref</infon>
+            <offset>23265</offset>
+            <text>The distribution of repeating [Gal beta 1,4GlcNAc beta 1,3] sequences in asparagine-linked oligosaccharides of the mouse lymphoma cell lines BW5147 and PHAR 2.1</text>
+        </passage>
+        <passage>
+            <infon key="volume">6</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">741</infon>
+            <infon key="pub-id_pmid">7334533</infon>
+            <infon key="year">1981</infon>
+            <infon key="source">J Neurosci Res</infon>
+            <infon key="type">ref</infon>
+            <offset>23426</offset>
+            <text>The vimentin-GFA protein transition in rat neuroglia cytoskeleton occurs at the time of myelination</text>
+        </passage>
+        <passage>
+            <infon key="volume">1473</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">21</infon>
+            <infon key="pub-id_pmid">10580127</infon>
+            <infon key="year">1999</infon>
+            <infon key="source">Biochim Biophys Acta</infon>
+            <infon key="type">ref</infon>
+            <offset>23526</offset>
+            <text>Glycoprotein glycosylation and cancer progression</text>
+        </passage>
+        <passage>
+            <infon key="volume">780</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">119</infon>
+            <infon key="pub-id_pmid">3890942</infon>
+            <infon key="year">1985</infon>
+            <infon key="source">Biochim Biophys Acta</infon>
+            <infon key="type">ref</infon>
+            <offset>23576</offset>
+            <text>Cell surface glycoconjugates as onco-differentiation markers in hematopoietic cells</text>
+        </passage>
+        <passage>
+            <infon key="volume">45</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">2405</infon>
+            <infon key="pub-id_pmid">3886132</infon>
+            <infon key="year">1985</infon>
+            <infon key="source">Cancer Res</infon>
+            <infon key="type">ref</infon>
+            <offset>23660</offset>
+            <text>Aberrant glycosylation in cancer cell membranes as focused on glycolipids: overview and perspectives</text>
+        </passage>
+        <passage>
+            <infon key="volume">387</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">255</infon>
+            <infon key="pub-id_pmid">9336227</infon>
+            <infon key="year">1997</infon>
+            <infon key="source">J Comp Neurol</infon>
+            <infon key="type">ref</infon>
+            <offset>23761</offset>
+            <text>Lectin histochemistry of the metathoracic ganglion of the locust Schistocerca gregaria before and after axotomy of the tympanal nerve</text>
+        </passage>
+        <passage>
+            <infon key="volume">263</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">17508</infon>
+            <infon key="pub-id_pmid">3182859</infon>
+            <infon key="year">1988</infon>
+            <infon key="source">J Biol Chem</infon>
+            <infon key="type">ref</infon>
+            <offset>23895</offset>
+            <text>Comparative study of the asparagine-linked sugar chains of natural human interferon-beta1 and recombinant human interferon-beta 1 produced by three different mammalian cells</text>
+        </passage>
+        <passage>
+            <infon key="volume">220</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">843</infon>
+            <infon key="pub-id_pmid">6087799</infon>
+            <infon key="year">1984</infon>
+            <infon key="source">Biochem J</infon>
+            <infon key="type">ref</infon>
+            <offset>24069</offset>
+            <text>A comparison of tomato (Lycopersicon esculentum) lectin with its deglycosylated derivative</text>
+        </passage>
+        <passage>
+            <infon key="volume">227</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">680</infon>
+            <infon key="pub-id_pmid">5432063</infon>
+            <infon key="year">1970</infon>
+            <infon key="source">Nature</infon>
+            <infon key="type">ref</infon>
+            <offset>24160</offset>
+            <text>Cleavage of structural proteins during the assembly of the head of bacteriophage T4</text>
+        </passage>
+        <passage>
+            <infon key="volume">36</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">1</infon>
+            <infon key="pub-id_pmid">7708144</infon>
+            <infon key="year">1995</infon>
+            <infon key="source">Neurosurgery</infon>
+            <infon key="type">ref</infon>
+            <offset>24244</offset>
+            <text>Glial differentiation: a review with implications for new directions in neuro-oncology</text>
+        </passage>
+        <passage>
+            <infon key="volume">262</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">8179</infon>
+            <infon key="pub-id_pmid">3597368</infon>
+            <infon key="year">1987</infon>
+            <infon key="source">J Biol Chem</infon>
+            <infon key="type">ref</infon>
+            <offset>24331</offset>
+            <text>Relationship of the terminal sequences to the length of poly-N-acetyllactosamine chains in asparagine-linked oligosaccharides from the mouse lymphoma cell line BW5147. Immobilized tomato lectin interacts with high affinity with glycopeptides containing long poly-N-acetyllactosamine chains</text>
+        </passage>
+        <passage>
+            <infon key="volume">58</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">2071</infon>
+            <infon key="pub-id_pmid">1315374</infon>
+            <infon key="year">1992</infon>
+            <infon key="source">J Neurochem</infon>
+            <infon key="type">ref</infon>
+            <offset>24621</offset>
+            <text>Synthesis of glial fibrillary acidic protein in rat C6 glioma in chemically defined medium: cyclic AMP-dependent transcriptional and translational regulation</text>
+            <annotation id="30461">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="24634" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="volume">83</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">757</infon>
+            <infon key="pub-id_pmid">2041050</infon>
+            <infon key="year">1991</infon>
+            <infon key="source">J Natl Cancer Inst</infon>
+            <infon key="type">ref</infon>
+            <offset>24779</offset>
+            <text>Feasibility of a high-flux anticancer drug screen using a diverse panel of cultured human tumor cell lines</text>
+        </passage>
+        <passage>
+            <infon key="volume">13</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">459</infon>
+            <infon key="pub-id_pmid">6861874</infon>
+            <infon key="year">1983</infon>
+            <infon key="source">Eur J Immunol</infon>
+            <infon key="type">ref</infon>
+            <offset>24886</offset>
+            <text>Agglutination of murine and guinea pig peritoneal cells by alpha-L-fucose-binding lectin: Evonymus europaea</text>
+        </passage>
+        <passage>
+            <infon key="volume">86</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">173</infon>
+            <infon key="pub-id_pmid">8706120</infon>
+            <infon key="year">1996</infon>
+            <infon key="source">Cell</infon>
+            <infon key="type">ref</infon>
+            <offset>24994</offset>
+            <text>Size control: the regulation of cell numbers in animal development</text>
+        </passage>
+        <passage>
+            <infon key="volume">53</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">3624</infon>
+            <infon key="pub-id_pmid">8339269</infon>
+            <infon key="year">1993</infon>
+            <infon key="source">Cancer Res</infon>
+            <infon key="type">ref</infon>
+            <offset>25061</offset>
+            <text>Transfection of human astrocytoma cells with glial fibrillary acidic protein complementary DNA: analysis of expression, proliferation, and tumorigenicity</text>
+            <annotation id="30462">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="25106" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="volume">28</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">236</infon>
+            <infon key="pub-id_pmid">10559782</infon>
+            <infon key="year">1999</infon>
+            <infon key="source">Glia</infon>
+            <infon key="type">ref</infon>
+            <offset>25215</offset>
+            <text>Evidence for the presence of N-CAM 180 on astrocytes from rat cerebellum and differences in glycan structures between N-CAM 120 and N-CAM 140</text>
+        </passage>
+        <passage>
+            <infon key="volume">32</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">60</infon>
+            <infon key="pub-id_pmid">10975911</infon>
+            <infon key="year">2000</infon>
+            <infon key="source">Glia</infon>
+            <infon key="type">ref</infon>
+            <offset>25357</offset>
+            <text>Both cell-surface carbohydrates and protein tyrosine phosphatase are involved in the differentiation of astrocytes in vitro</text>
+        </passage>
+        <passage>
+            <infon key="volume">64</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">337</infon>
+            <infon key="pub-id_pmid">1988151</infon>
+            <infon key="year">1991</infon>
+            <infon key="source">Cell</infon>
+            <infon key="type">ref</infon>
+            <offset>25481</offset>
+            <text>Leukemia and the disruption of normal hematopoiesis</text>
+        </passage>
+        <passage>
+            <infon key="volume">106</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">1098</infon>
+            <infon key="pub-id_pmid">2628427</infon>
+            <infon key="year">1989</infon>
+            <infon key="source">J Biochem (Tokyo)</infon>
+            <infon key="type">ref</infon>
+            <offset>25533</offset>
+            <text>A comparative study of bark lectins from three elderberry (Sambucus) species</text>
+        </passage>
+        <passage>
+            <infon key="volume">13</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">454</infon>
+            <infon key="pub-id_pmid">6281168</infon>
+            <infon key="year">1982</infon>
+            <infon key="source">Hum Pathol</infon>
+            <infon key="type">ref</infon>
+            <offset>25610</offset>
+            <text>Immunocytochemical study of the glial fibrillary acidic protein in human neoplasms of the central nervous system</text>
+            <annotation id="30463">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="25642" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="volume">63</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">1975</infon>
+            <infon key="pub-id_pmid">7931355</infon>
+            <infon key="year">1994</infon>
+            <infon key="source">J Neurochem</infon>
+            <infon key="type">ref</infon>
+            <offset>25723</offset>
+            <text>Cell growth suppression of astrocytoma C6 cells by glial fibrillary acidic protein cDNA transfection</text>
+            <annotation id="30464">
+                <infon key="identifier">2670</infon>
+                <infon key="type">Gene</infon>
+                <infon key="NCBI Homologene">1554</infon>
+                <location offset="25774" length="31" />
+                <text>glial fibrillary acidic protein</text>
+            </annotation>
+        </passage>
+        <passage>
+            <infon key="volume">14</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">3195</infon>
+            <infon key="pub-id_pmid">8182466</infon>
+            <infon key="year">1994</infon>
+            <infon key="source">J Neurosci</infon>
+            <infon key="type">ref</infon>
+            <offset>25824</offset>
+            <text>Astroglial differentiation is required for support of neurite outgrowth</text>
+        </passage>
+        <passage>
+            <infon key="volume">262</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">1602</infon>
+            <infon key="pub-id_pmid">3805046</infon>
+            <infon key="year">1987</infon>
+            <infon key="source">J Biol Chem</infon>
+            <infon key="type">ref</infon>
+            <offset>25896</offset>
+            <text>Carbohydrate binding properties of complex-type oligosaccharides on immobilized Datura stramonium lectin</text>
+        </passage>
+        <passage>
+            <infon key="volume">59</infon>
+            <infon key="section_type">REF</infon>
+            <infon key="fpage">4042</infon>
+            <infon key="pub-id_pmid">10463605</infon>
+            <infon key="year">1999</infon>
+            <infon key="source">Cancer Res</infon>
+            <infon key="type">ref</infon>
+            <offset>26001</offset>
+            <text>Potent antitumor activity of MS-247, a novel DNA minor groove binder, evaluated by an in vitro and in vivo human cancer cell line panel</text>
+        </passage>
+        <relation id="R1">
+            <infon key="score">0.9735</infon>
+            <infon key="role1">Disease|MESH:D009369</infon>
+            <infon key="role2">Gene|2670</infon>
+            <infon key="type">Association</infon>
+        </relation>
+    </document>
+</collection>
