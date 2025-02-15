@@ -11,26 +11,44 @@ class Gene:
     def __init__(self, gene_id):
         self.gene_id = gene_id
         self.occurrences = []  # list to store snippet(s) where the gene was mentioned
-        self.official_symbol = None
+        self.symbol = None
         self.organism = None
-        self.official_full_name = None
+        self.full_name = None
         self.also_known_as = None
+        self.temporary_name = None
 
     def add_occurrence(self, snippet):
         if snippet not in self.occurrences:  # Avoid duplicates
             self.occurrences.append(snippet)
 
-    def update_info(self, official_symbol, organism, official_full_name, also_known_as):
-        self.official_symbol = official_symbol
+    def set_temporary_name(self, temporary_name):
+        """Sets the temporary name of the gene. This is the name accroding to the article"""
+        # will be used if the official name is not available
+        self.temporary_name = temporary_name
+
+    def get_temporary_name(self):
+        return self.temporary_name
+
+    def get_occurrences(self):
+        return self.occurrences
+
+    def get_also_known_as(self):
+        return self.also_known_as
+
+    def update_info(self, symbol, organism, full_name, also_known_as):
+        self.symbol = symbol
         self.organism = organism
-        self.official_full_name = official_full_name
+        self.full_name = full_name
         self.also_known_as = also_known_as
 
     def __repr__(self):
-        return (f"Gene(gene_id={self.gene_id}, official_symbol={self.official_symbol}, "
-                f"organism={self.organism}, official_full_name={self.official_full_name}, "
-                f"also_known_as={self.also_known_as}, occurrences={self.occurrences})")
-
+        return (f"Gene({self.gene_id})\n"
+                f"  Symbol          : {self.symbol}\n"
+                f"  Organism        : {self.organism}\n"
+                f"  Full Name       : {self.full_name}\n"
+                f"  Also Known As   : {self.also_known_as}\n"
+                f"  Temporary Name  : {self.temporary_name}\n"
+                f"  Occurrences     : {self.occurrences}")   # occurrences is a list of 3-sentence snippets
 def parse_xml_file(xml_path):
     """Parses the XML file and returns a gene dictionary keyed by gene ID."""
     tree = ET.parse(xml_path)
@@ -42,11 +60,14 @@ def parse_xml_file(xml_path):
             # Get the full passage text.
             passage_text_elem = passage.find("text")
             passage_text = passage_text_elem.text if passage_text_elem is not None else ""
+            # determine the starting offset for this passage.
+            passage_offset_elem = passage.find("offset")
+            passage_offset = int(passage_offset_elem.text) if passage_offset_elem is not None else 0
             # Split the passage into sentences using regex.
             sentences = re.split(r'(?<=[.!?])\s+', passage_text)
             # Compute start indices for each sentence within the passage text.
             start_indices = []
-            current_index = 0
+            current_index = passage_offset
             for sentence in sentences:
                 start_indices.append(current_index)
                 current_index += len(sentence) + 1  # account for the delimiter space
@@ -59,6 +80,10 @@ def parse_xml_file(xml_path):
                 if ann_type is not None and ann_type.text == "Gene":
                     gene_id_elem = annotation.find("infon[@key='identifier']")
                     gene_id = gene_id_elem.text if gene_id_elem is not None else None
+                    
+                    # Extract the gene name from the annotation text. (Temporary name if official name is not available)
+                    in_text_gene_name_elem = annotation.find("text")
+                    in_text_gene_name = in_text_gene_name_elem.text if in_text_gene_name_elem is not None else None
 
                     # Extract the annotation location (offset) to find the sentence containing the gene.
                     location_elem = annotation.find("location")
@@ -85,6 +110,7 @@ def parse_xml_file(xml_path):
                             else:
                                 gene_obj = Gene(gene_id)
                                 gene_obj.add_occurrence(snippet)
+                                gene_obj.set_temporary_name(in_text_gene_name)       # Temporary name if official name is not available
                                 gene_dict[gene_id] = gene_obj
     return gene_dict
 
@@ -106,17 +132,18 @@ def fetch_and_update_gene_info(gene_dict):
 
         for docsum in record["DocumentSummarySet"]["DocumentSummary"]:
             gene_id = docsum.attributes["uid"]
-            official_symbol = docsum.get('NomenclatureSymbol', 'No official symbol')
+            symbol = docsum.get('NomenclatureSymbol', 'No symbol')
             organism = docsum.get('Organism', {}).get('ScientificName', 'No organism')
-            official_full_name = docsum.get('NomenclatureName', 'No official full name')
-            also_known_as = docsum.get('OtherDesignations', 'No also known as')
+            # if no official name is available, use the temporary name
+            full_name = docsum.get('NomenclatureName', gene_dict[gene_id].get_temporary_name())
+            also_known_as = docsum.get('OtherAliases', gene_dict[gene_id].get_temporary_name())
             if gene_id in gene_dict:
-                gene_dict[gene_id].update_info(official_symbol, organism, official_full_name, also_known_as)
+                gene_dict[gene_id].update_info(symbol, organism, full_name, also_known_as)
             # Pause briefly to avoid overwhelming NCBI servers.
             time.sleep(0.5)
 
 def main():
-    xml_path = r"full_text_annotated_example.xml"
+    xml_path = r"Llama3.2-3B-Instruct-Inference\input\full_text_annotated_example.xml"
     gene_dict = parse_xml_file(xml_path)
     fetch_and_update_gene_info(gene_dict)
     # Output updated gene information.
