@@ -15,19 +15,19 @@ class Gene:
         self.organism = None
         self.full_name = None
         self.also_known_as = None
-        self.temporary_name = None
+        self.name_from_article = None
 
     def add_occurrence(self, snippet):
         if snippet not in self.occurrences:  # Avoid duplicates
             self.occurrences.append(snippet)
 
-    def set_temporary_name(self, temporary_name):
+    def set_name_from_article(self, name_from_article):
         """Sets the temporary name of the gene. This is the name accroding to the article"""
         # will be used if the official name is not available
-        self.temporary_name = temporary_name
+        self.name_from_article = name_from_article
 
-    def get_temporary_name(self):
-        return self.temporary_name
+    def get_name_from_article(self):
+        return self.name_from_article
 
     def get_occurrences(self):
         return self.occurrences
@@ -47,7 +47,7 @@ class Gene:
                 f"  Organism        : {self.organism}\n"
                 f"  Full Name       : {self.full_name}\n"
                 f"  Also Known As   : {self.also_known_as}\n"
-                f"  Temporary Name  : {self.temporary_name}\n"
+                f"  In-text Name    : {self.name_from_article}\n"
                 f"  Occurrences     : {self.occurrences}")   # occurrences is a list of 3-sentence snippets
 def parse_xml_file(xml_path):
     """Parses the XML file and returns a gene dictionary keyed by gene ID."""
@@ -110,7 +110,7 @@ def parse_xml_file(xml_path):
                             else:
                                 gene_obj = Gene(gene_id)
                                 gene_obj.add_occurrence(snippet)
-                                gene_obj.set_temporary_name(in_text_gene_name)       # Temporary name if official name is not available
+                                gene_obj.set_name_from_article(in_text_gene_name)       # Temporary name if official name is not available
                                 gene_dict[gene_id] = gene_obj
     return gene_dict
 
@@ -134,16 +134,22 @@ def fetch_and_update_gene_info(gene_dict):
             gene_id = docsum.attributes["uid"]
             symbol = docsum.get('NomenclatureSymbol', 'No symbol')
             organism = docsum.get('Organism', {}).get('ScientificName', 'No organism')
-            # if no official name is available, use the temporary name
-            full_name = docsum.get('NomenclatureName', gene_dict[gene_id].get_temporary_name())
-            also_known_as = docsum.get('OtherAliases', gene_dict[gene_id].get_temporary_name())
+            full_name = docsum.get('NomenclatureName', gene_dict[gene_id].get_name_from_article())
+            also_known_as = docsum.get('OtherAliases', gene_dict[gene_id].get_name_from_article())
+            
+            # if full name and also known as are not available, use the name from the article
+            if (full_name == ''):
+                full_name = gene_dict[gene_id].get_name_from_article()
+            if (also_known_as == ''):
+                also_known_as = gene_dict[gene_id].get_name_from_article()
+            
             if gene_id in gene_dict:
                 gene_dict[gene_id].update_info(symbol, organism, full_name, also_known_as)
             # Pause briefly to avoid overwhelming NCBI servers.
             time.sleep(0.5)
 
 def main():
-    xml_path = r"Llama3.2-3B-Instruct-Inference\input\full_text_annotated_example.xml"
+    xml_path = r"Llama3.2-3B-Instruct-Inference\input\full_text_annotated_example2.xml"
     gene_dict = parse_xml_file(xml_path)
     fetch_and_update_gene_info(gene_dict)
     # Output updated gene information.
