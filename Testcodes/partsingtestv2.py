@@ -34,6 +34,9 @@ class Gene:
 
     def get_also_known_as(self):
         return self.also_known_as
+    
+    def get_gene_id(self):
+        return self.gene_id
 
     def update_info(self, symbol, organism, full_name, also_known_as):
         self.symbol = symbol
@@ -49,6 +52,7 @@ class Gene:
                 f"  Also Known As   : {self.also_known_as}\n"
                 f"  In-text Name    : {self.name_from_article}\n"
                 f"  Occurrences     : {self.occurrences}")   # occurrences is a list of 3-sentence snippets
+
 def parse_xml_file(xml_path):
     """Parses the XML file and returns a gene dictionary keyed by gene ID."""
     tree = ET.parse(xml_path)
@@ -95,7 +99,8 @@ def parse_xml_file(xml_path):
                         if start <= ann_offset < start + len(sentences[i]):
                             sentence_index = i
                             break
-
+                    
+                    # sentence_buffer
                     if sentence_index is not None:
                         start_sentence = max(0, sentence_index - 1)  # one sentence before
                         end_sentence = min(len(sentences), sentence_index + 2)  # one sentence after
@@ -146,10 +151,10 @@ def fetch_and_update_gene_info(gene_dict):
             if gene_id in gene_dict:
                 gene_dict[gene_id].update_info(symbol, organism, full_name, also_known_as)
             # Pause briefly to avoid overwhelming NCBI servers.
-            time.sleep(0.5)
+            time.sleep(0.5)     # 2 requests per second (safe). WITH API KEY, be increased if needed to 10 requests per second.
 
 def main():
-    xml_path = r"Llama3.2-3B-Instruct-Inference\input\full_text_annotated_example2.xml"
+    xml_path = r"Llama3.2-3B-Instruct-Inference\input\full_text_annotated_example.xml"
     gene_dict = parse_xml_file(xml_path)
     fetch_and_update_gene_info(gene_dict)
     # Output updated gene information.
