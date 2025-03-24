@@ -1,0 +1,224 @@
+[
+  {
+    "gene": "DDB1",
+    "geneID": "1642",
+    "go_data": [
+      {
+        "term": "ubiquitin ligase complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "DDB1 is part of the DDB1-CUL4-RBX1 (CRL4) ubiquitin ligase family.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "nucleotide excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "DDB1, through the DCAF DDB2, facilitates nucleotide excision repair by detecting UV-induced pyrimidine dimers in the genome.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The DDB1-CUL4-RBX1 (CRL4) ubiquitin ligase family regulates cellular pathways through ubiquitination.",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RBX1",
+    "geneID": "9978",
+    "go_data": [
+      {
+        "term": "ubiquitin ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RBX1 is part of the DDB1-CUL4-RBX1 ubiquitin ligase family.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The DDB1-CUL4-RBX1 ubiquitin ligase family regulates cellular pathways through ubiquitination.",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CRL4",
+    "geneID": "55540",
+    "go_data": [
+      {
+        "term": "ubiquitin ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The DDB1-CUL4-RBX1 (CRL4) ubiquitin ligase family regulates a diverse set of cellular pathways.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "nucleotide excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The DCAF DDB2 detects UV-induced pyrimidine dimers in the genome and facilitates nucleotide excision repair.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "DDB2 receptor-mediated cyclobutane pyrimidine dimer recognition in chromatin.",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DDB2",
+    "geneID": "1643",
+    "go_data": [
+      {
+        "term": "nucleotide excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "DDB2 detects UV-induced pyrimidine dimers in the genome and facilitates nucleotide excision repair.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "DDB2 detects UV-induced pyrimidine dimers in the genome.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "DDB2 receptor-mediated cyclobutane pyrimidine dimer recognition occurs in chromatin.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "ubiquitin ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "DDB2 is part of the DDB1-CUL4-RBX1 (CRL4) ubiquitin ligase family.",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CUL4A",
+    "geneID": "8451",
+    "go_data": [
+      {
+        "term": "ubiquitin ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CUL4A is part of the CRL4(DDB2) ligase complex, which is involved in ubiquitination.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CUL4A is a component of the CRL4(DDB2) complex, which participates in the ubiquitination process.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The CRL4(DDB2) complex, containing CUL4A, is involved in recognizing DNA damage in chromatin, implying a nuclear location.",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "COP9",
+    "geneID": "10920",
+    "go_data": [
+      {
+        "term": "protein deneddylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The COP9 signalosome (CSN) is known for its role in protein deneddylation, although the text does not explicitly state this, it is implied through the mention of CSN.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "None found, however CSN is typically found in the cytoplasm and nucleus.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "regulation of protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The COP9 signalosome (CSN) mediates the CRL4(DDB2) inhibition, which suggests a role in regulating protein catabolism.",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CSN5",
+    "geneID": "10987",
+    "go_data": [
+      {
+        "term": "protein deneddylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CSN5 is part of the COP9 signalosome (CSN), which is known for its role in protein deneddylation.",
+        "reference(s)": [
+          "22118460"
+        ]
+      },
+      {
+        "term": "COP9 signalosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CSN5 is a component of the COP9 signalosome (CSN).",
+        "reference(s)": [
+          "22118460"
+        ]
+      }
+    ]
+  }
+]

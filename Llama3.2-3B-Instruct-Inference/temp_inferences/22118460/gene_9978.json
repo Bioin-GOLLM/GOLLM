@@ -1,0 +1,24 @@
+{
+  "gene": "RBX1",
+  "geneID": "9978",
+  "go_data": [
+    {
+      "term": "ubiquitin ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RBX1 is part of the DDB1-CUL4-RBX1 ubiquitin ligase family.",
+      "reference(s)": [
+        "22118460"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The DDB1-CUL4-RBX1 ubiquitin ligase family regulates cellular pathways through ubiquitination.",
+      "reference(s)": [
+        "22118460"
+      ]
+    }
+  ]
+}

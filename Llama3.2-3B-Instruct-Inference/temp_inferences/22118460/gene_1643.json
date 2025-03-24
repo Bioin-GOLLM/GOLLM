@@ -1,0 +1,42 @@
+{
+  "gene": "DDB2",
+  "geneID": "1643",
+  "go_data": [
+    {
+      "term": "nucleotide excision repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DDB2 detects UV-induced pyrimidine dimers in the genome and facilitates nucleotide excision repair.",
+      "reference(s)": [
+        "22118460"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DDB2 detects UV-induced pyrimidine dimers in the genome.",
+      "reference(s)": [
+        "22118460"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DDB2 receptor-mediated cyclobutane pyrimidine dimer recognition occurs in chromatin.",
+      "reference(s)": [
+        "22118460"
+      ]
+    },
+    {
+      "term": "ubiquitin ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DDB2 is part of the DDB1-CUL4-RBX1 (CRL4) ubiquitin ligase family.",
+      "reference(s)": [
+        "22118460"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CRL4",
+  "geneID": "55540",
+  "go_data": [
+    {
+      "term": "ubiquitin ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The DDB1-CUL4-RBX1 (CRL4) ubiquitin ligase family regulates a diverse set of cellular pathways.",
+      "reference(s)": [
+        "22118460"
+      ]
+    },
+    {
+      "term": "nucleotide excision repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The DCAF DDB2 detects UV-induced pyrimidine dimers in the genome and facilitates nucleotide excision repair.",
+      "reference(s)": [
+        "22118460"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DDB2 receptor-mediated cyclobutane pyrimidine dimer recognition in chromatin.",
+      "reference(s)": [
+        "22118460"
+      ]
+    }
+  ]
+}
