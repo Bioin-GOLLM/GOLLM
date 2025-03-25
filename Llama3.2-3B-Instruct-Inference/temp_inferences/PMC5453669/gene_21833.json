@@ -1,0 +1,33 @@
+{
+  "gene": "TRalpha2",
+  "geneID": "21833",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRalpha2 is a thyroid hormone receptor.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Regulation of thyroid hormone receptor alpha is critical to understanding heart disease.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a thyroid hormone receptor, TRalpha2 is expected to be located in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

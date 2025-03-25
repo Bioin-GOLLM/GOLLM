@@ -1,0 +1,51 @@
+{
+  "gene": "TRalpha",
+  "geneID": "14685",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRalpha is a thyroid hormone receptor that mediates the effects of T3 on cardiac function and gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRalpha is a nuclear receptor that localizes to the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of cardiac hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRalpha activity is critical for regulating cardiac hypertrophy in response to T3.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRalpha is mono-ubiquitinated by MuRF1, which inhibits its activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "ligand-activated transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRalpha is activated by T3 to regulate gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

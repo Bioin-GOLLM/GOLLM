@@ -1,0 +1,42 @@
+{
+  "gene": "CAP350",
+  "geneID": "74081",
+  "go_data": [
+    {
+      "term": "nuclear receptor activity regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CAP350 has been identified as a protein involved in regulating nuclear receptor activity, including PPAR.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "centrosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CAP350 is defined as a centrosome-associated protein.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CAP350 has been found to localize to the nucleus and affect nuclear distribution of TRalpha.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CAP350 interacts with TRalpha and MuRF1, indicating a role in protein binding.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

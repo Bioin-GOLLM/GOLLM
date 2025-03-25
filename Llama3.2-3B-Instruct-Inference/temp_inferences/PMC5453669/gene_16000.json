@@ -1,0 +1,33 @@
+{
+  "gene": "IGF-1",
+  "geneID": "16000",
+  "go_data": [
+    {
+      "term": "regulation of cardiac muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 is mentioned to induce physiological hypertrophic response after cardiac injury and is involved in exercise-mediated physiological hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "positive regulation of cardiomyocyte hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 signaling is increased in physiological hypertrophy and MuRF1 inhibits IGF-1-dependent cardiomyocyte hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 is involved in driving increases in contractile proteins critical to cardiac function and performance, implying a role in cell growth.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

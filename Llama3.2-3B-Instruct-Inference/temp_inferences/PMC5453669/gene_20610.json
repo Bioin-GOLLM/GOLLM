@@ -1,0 +1,24 @@
+{
+  "gene": "SUMO3",
+  "geneID": "20610",
+  "go_data": [
+    {
+      "term": "protein sumoylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO3 is involved in SUMO modification, a type of post-translational modification.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "transcription regulation by TR",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO3 has been reported in T3-dependent gene regulation, closely matching TR activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

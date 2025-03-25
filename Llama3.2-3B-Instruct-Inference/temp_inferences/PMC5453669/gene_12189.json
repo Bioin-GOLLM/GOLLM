@@ -1,0 +1,33 @@
+{
+  "gene": "BRCA1",
+  "geneID": "12189",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BRCA1 mono-ubiquitinates the estrogen receptor to inhibit its activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BRCA1 acts as a ubiquitin ligase to mono-ubiquitinate the estrogen receptor.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BRCA1 regulates acetylation and ubiquitination of estrogen receptor-alpha, implying nuclear localization.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

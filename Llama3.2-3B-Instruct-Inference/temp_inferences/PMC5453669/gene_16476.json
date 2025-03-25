@@ -1,0 +1,33 @@
+{
+  "gene": "cJun",
+  "geneID": "16476",
+  "go_data": [
+    {
+      "term": "regulation of cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "cJun-mediated increases in IGF-1 signaling proteins are involved in cardiomyocyte growth.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MuRF1 preferentially recognizes phospho-cJun.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, cJun is expected to localize to the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "RING Finger-1",
+  "geneID": "66949",
+  "go_data": [
+    {
+      "term": "inhibition of JNK signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RING Finger-1 Attenuates IGF-1-dependent cardiomyocyte hypertrophy by inhibiting JNK signaling",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiac atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Muscle ring finger 1 mediates cardiac atrophy in vivo",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

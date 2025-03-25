@@ -1,0 +1,24 @@
+{
+  "gene": "alpha1 and beta",
+  "geneID": "12044",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "alpha1 and beta1 are thyroid hormone receptors",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of potassium channel activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "alpha1 and beta1 regulate cardiac KCND3 potassium channel expression",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

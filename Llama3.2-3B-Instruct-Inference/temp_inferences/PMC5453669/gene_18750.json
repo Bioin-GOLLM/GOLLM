@@ -1,0 +1,33 @@
+{
+  "gene": "PKCalpha",
+  "geneID": "18750",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PKCalpha activates p120-catenin by phosphorylating serine 879.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "PKCalpha activation disrupts vascular integrity by disassembling VE-cadherin junctions.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PKCalpha is implied to be in the cytoplasm where it can interact with and phosphorylate p120-catenin.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "JNK",
+  "geneID": "26419",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "JNK is involved in signaling, implying it has protein kinase activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of cardiomyocyte hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "JNK signaling is inhibited to attenuate IGF-1-dependent cardiomyocyte hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

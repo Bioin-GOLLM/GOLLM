@@ -1,0 +1,33 @@
+{
+  "gene": "MuRF3",
+  "geneID": "58522",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MuRF3 inhibits PPARbeta activity in vivo by mono-ubiquitination of substrates.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MuRF3 inhibits PPARbeta activity in vivo through mono-ubiquitination of substrates.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "fatty acid oxidation",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "MuRF3 inhibits PPARbeta activity, which is involved in regulating fatty acid oxidation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

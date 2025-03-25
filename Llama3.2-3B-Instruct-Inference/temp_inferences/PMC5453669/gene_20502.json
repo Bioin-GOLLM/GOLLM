@@ -1,0 +1,24 @@
+{
+  "gene": "MCT8",
+  "geneID": "20502",
+  "go_data": [
+    {
+      "term": "thyroid hormone transmembrane transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MCT8 is involved in the uptake and efflux of T3.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "thyroid hormone transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MCT8 is involved in the uptake and efflux of T3.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

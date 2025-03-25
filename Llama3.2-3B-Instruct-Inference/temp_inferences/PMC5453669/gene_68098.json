@@ -1,0 +1,33 @@
+{
+  "gene": "Pirh2",
+  "geneID": "68098",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pirh2 acts as an E3 ubiquitin ligase to monoubiquitinate DNA polymerase eta.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "negative regulation of translesion DNA synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pirh2 suppresses translesion DNA synthesis by monoubiquitinating DNA polymerase eta.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pirh2 is involved in the ubiquitination of target proteins, such as DNA polymerase eta.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

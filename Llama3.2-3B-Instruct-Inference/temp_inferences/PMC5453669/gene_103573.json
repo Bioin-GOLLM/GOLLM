@@ -1,0 +1,33 @@
+{
+  "gene": "CRM1",
+  "geneID": "103573",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CRM1 preferentially binds p53 after p53 mono-ubiquitination.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nuclear export",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CRM1 enhances p53 nuclear export resulting in activity inhibition.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CRM1 is part of the nuclear export apparatus and interacts with p53 in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

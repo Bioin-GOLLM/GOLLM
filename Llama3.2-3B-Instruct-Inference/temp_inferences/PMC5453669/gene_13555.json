@@ -1,0 +1,15 @@
+{
+  "gene": "E2F1",
+  "geneID": "13555",
+  "go_data": [
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "E2F1-mediated gene expression is regulated by muscle ring finger 1 and muscle ring finger 2.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

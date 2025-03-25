@@ -1,0 +1,24 @@
+{
+  "gene": "PKC{epsilon",
+  "geneID": "18754",
+  "go_data": [
+    {
+      "term": "protein kinase C activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PKC{epsilon} is implied to have protein kinase activity as it is referred to as PKC.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiomyocyte hypertrophy",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "PKC{epsilon} activation is associated with cardiomyocyte hypertrophy, which is prevented by Muscle ring finger protein-1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

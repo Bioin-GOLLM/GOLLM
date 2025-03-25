@@ -1,0 +1,15 @@
+{
+  "gene": "CSA",
+  "geneID": "71991",
+  "go_data": [
+    {
+      "term": "cardiac muscle cell hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 induced cardiomyocyte hypertrophy, reflected by increased CSA.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

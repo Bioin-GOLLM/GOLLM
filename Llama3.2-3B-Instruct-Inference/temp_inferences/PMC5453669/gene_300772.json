@@ -1,0 +1,33 @@
+{
+  "gene": "PIAS1",
+  "geneID": "300772",
+  "go_data": [
+    {
+      "term": "SUMO ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PIAS1 is a SUMO ligase that mediates SUMOylation of TRalpha.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein sumoylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PIAS1 SUMOylates TRalpha, indicating involvement in protein sumoylation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PIAS1 mediates SUMOylation of nuclear receptors like TRalpha, suggesting nuclear localization.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

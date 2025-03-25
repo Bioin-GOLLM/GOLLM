@@ -1,0 +1,24 @@
+{
+  "gene": "PPARbeta/delta",
+  "geneID": "19015",
+  "go_data": [
+    {
+      "term": "fatty acid oxidation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PPARbeta/delta activity is related to fatty acid oxidation, as MuRF3 inhibits PPARbeta activity in vivo.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a nuclear receptor, PPARbeta/delta is expected to be located in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

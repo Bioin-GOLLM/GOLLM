@@ -1,0 +1,24 @@
+{
+  "gene": "Rad52",
+  "geneID": "19365",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rad52 is found at a repair centre for DNA double-strand breaks.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "double-strand break repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rad52 is involved in the repair of DNA double-strand breaks.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "p53",
+  "geneID": "22060",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p53 mono-ubiquitination alters its conformation to preferentially bind CRM1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p53 nuclear export results in activity inhibition, implying it is normally located in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of cellular process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The multiple levels of regulation by p53 ubiquitination imply p53 is involved in regulating cellular processes.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

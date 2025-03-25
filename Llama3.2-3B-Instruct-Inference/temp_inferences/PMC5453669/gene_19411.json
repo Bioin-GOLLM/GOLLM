@@ -1,0 +1,33 @@
+{
+  "gene": "RARgamma",
+  "geneID": "19411",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RARgamma is a nuclear receptor, implying it is located in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein heterodimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RARgamma heterodimerizes with RXR, indicating it enables protein heterodimerization activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "ubiquitin-proteasome system",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RARgamma is degraded by the ubiquitin proteasome system, indicating involvement in this process.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}
