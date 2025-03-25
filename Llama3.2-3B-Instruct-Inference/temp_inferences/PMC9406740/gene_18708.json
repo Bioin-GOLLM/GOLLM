@@ -1,0 +1,51 @@
+{
+  "gene": "PI3K",
+  "geneID": "18708",
+  "go_data": [
+    {
+      "term": "phosphatidylinositol 3-kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PI3K is activated by insulin and IGF1.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "insulin signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PI3K is part of the insulin signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "IGF-1 signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PI3K is activated by IGF1.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to insulin stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PI3K is activated by insulin.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein kinase B signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PI3K activates the AKT pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

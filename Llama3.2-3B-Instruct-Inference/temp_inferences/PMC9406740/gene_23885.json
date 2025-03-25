@@ -1,0 +1,42 @@
+{
+  "gene": "gCl",
+  "geneID": "23885",
+  "go_data": [
+    {
+      "term": "chloride channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "gCl is described as sustaining the resting chloride conductance.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "gCl is pivotal for the regulation of the electrical and contractile properties of muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "sarcolemma",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "gCl is associated with the sarcolemma stability.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle excitability",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "gCl is a key determinant of muscle excitability.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

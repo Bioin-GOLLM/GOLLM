@@ -1,0 +1,33 @@
+{
+  "gene": "transient receptor potential cation channel, subfamily V, member 1",
+  "geneID": "193034",
+  "go_data": [
+    {
+      "term": "calcium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRPV1 causes an increase in intracellular Ca2+ levels.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRPV1 is involved in the induction of skeletal muscle hypertrophy through calcium signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "integral component of plasma membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, TRPV1 is embedded in the plasma membrane.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "calpastatin",
+  "geneID": "12380",
+  "go_data": [
+    {
+      "term": "peptidase inhibitor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Calpastatin is a calpain inhibitor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpressing calpastatin reduced hindlimb unloading-induced atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however calpastatin is known to inhibit calpain, which is often found in the cytosol.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

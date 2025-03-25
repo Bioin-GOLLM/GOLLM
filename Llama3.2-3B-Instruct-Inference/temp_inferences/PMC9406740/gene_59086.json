@@ -1,0 +1,33 @@
+{
+  "gene": "TGF-beta",
+  "geneID": "59086",
+  "go_data": [
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Losartan treatment attenuates hindlimb unloading-induced atrophy in the soleus muscle of female rats via canonical TGF-beta signaling",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Bimagrumab increases muscle volume, lean muscle mass, and functional status in some muscle disuse conditions",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "TGF-beta receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Bimagrumab, a monoclonal antibody against the activin II receptor that belongs to a TGF-beta receptor family",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

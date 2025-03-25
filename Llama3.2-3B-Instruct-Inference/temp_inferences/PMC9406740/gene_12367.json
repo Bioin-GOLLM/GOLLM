@@ -1,0 +1,24 @@
+{
+  "gene": "CASP3",
+  "geneID": "12367",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CASP3 activation is associated with mitochondrial apoptotic changes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cysteine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CASP3 is a caspase, which is a type of cysteine-type endopeptidase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "p70S6K",
+  "geneID": "72508",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p70S6K is described as a kinase in the context of the Akt-mTOR-p70S6K signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "anabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p70S6K is mentioned as part of the anabolic processes mediated by the Akt-mTOR-p70S6K signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p70S6K is part of the Akt-mTOR-p70S6K signaling pathway, indicating involvement in cell signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "gene": "Odorant receptor",
+    "geneID": "258511",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Odorant receptors function in detecting odorants.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "sensory perception of smell",
+        "go_id": "GO:0007608",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Odorant receptors are expressed in the olfactory epithelium and are involved in detecting odorants.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "sperm capacitation",
+        "go_id": "GO:0048240",
+        "relationship": [
+          "part_of GO:0007286"
+        ],
+        "namespace": "biological_process",
+        "justification": "One human testis-expressed olfactory receptor indicates that it functions in sperm chemotaxis.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MOR28",
+    "geneID": "57269",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "MOR28 is an olfactory receptor gene, suggesting it enables olfactory receptor activity.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception of smell",
+        "go_id": "GO:0050911",
+        "relationship": [
+          "part_of GO:0007608"
+        ],
+        "namespace": "biological_process",
+        "justification": "As an olfactory receptor, MOR28 is involved in detecting chemical stimuli for sensory perception of smell.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MOR10",
+    "geneID": "57270",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "MOR10 is an olfactory receptor gene, suggesting it enables olfactory receptor activity.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception of smell",
+        "go_id": "GO:0050911",
+        "relationship": [
+          "part_of GO:0007608"
+        ],
+        "namespace": "biological_process",
+        "justification": "As an olfactory receptor, MOR10 is involved in detecting chemical stimuli for sensory perception of smell.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OCNC1",
+    "geneID": "12789",
+    "go_data": [
+      {
+        "term": "voltage-gated channel activity",
+        "go_id": "GO:0022832",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "OCNC1 is described as a channel gene, implying it has ion channel activity.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "olfactory bulb development",
+        "go_id": "GO:0021772",
+        "relationship": [
+          "part_of GO:0021988"
+        ],
+        "namespace": "biological_process",
+        "justification": "X inactivation of the OCNC1 channel gene reveals a role in the olfactory system.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  }
+]

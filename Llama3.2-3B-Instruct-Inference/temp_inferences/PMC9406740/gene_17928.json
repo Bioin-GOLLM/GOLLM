@@ -1,0 +1,33 @@
+{
+  "gene": "myogenin",
+  "geneID": "17928",
+  "go_data": [
+    {
+      "term": "skeletal muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Skeletal muscle regeneration is impaired during disuse, likely due to decreased myogenin expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of transcription, DNA-templated",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myogenin is repressed by histone deacetylases (HDAC).",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myogenin and class II HDACs control neurogenic muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

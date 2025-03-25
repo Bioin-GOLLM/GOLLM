@@ -1,0 +1,33 @@
+{
+  "gene": "myosin heavy chain IIb",
+  "geneID": "17884",
+  "go_data": [
+    {
+      "term": "skeletal muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myosin heavy chain IIb is a component of the contractile apparatus in skeletal muscle fibers.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myosin heavy chain IIb plays a role in the contraction of skeletal muscle fibers.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "myofibril",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Myosin heavy chain IIb is a component of the myofibrils in skeletal muscle fibers.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

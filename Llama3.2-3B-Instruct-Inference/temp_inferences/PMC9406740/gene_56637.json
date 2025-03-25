@@ -1,0 +1,24 @@
+{
+  "gene": "glycogen synthase kinase-3 beta",
+  "geneID": "56637",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GSK-3beta is described as a kinase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to drug",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The action of beta2-adrenergic agonists, such as clenbuterol, is expressed through the inhibition of GSK-3beta.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

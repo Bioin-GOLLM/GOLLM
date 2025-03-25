@@ -1,0 +1,33 @@
+{
+  "gene": "AR",
+  "geneID": "14149",
+  "go_data": [
+    {
+      "term": "steroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ND's anabolic effect is mediated by its binding to the androgen receptor (AR).",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Binding to AR leads to the activation of specific DNA sequences and affects the transcriptional activity of specific anabolic genes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor that affects transcription, AR is expected to be located in the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

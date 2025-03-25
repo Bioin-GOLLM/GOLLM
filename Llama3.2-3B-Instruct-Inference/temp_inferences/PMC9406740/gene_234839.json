@@ -1,0 +1,33 @@
+{
+  "gene": "Piezo 1",
+  "geneID": "234839",
+  "go_data": [
+    {
+      "term": "calcium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Piezo 1 is involved in maintaining constant calcium levels in skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of Piezo 1 causes muscle atrophy through a signaling pathway involving KLF15 and IL-6.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an ion channel, Piezo 1 is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "nebulin",
+  "geneID": "17996",
+  "go_data": [
+    {
+      "term": "structural constituent of muscle",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Nebulin is a myofibrillar protein that makes up the sarcomere.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "sarcomere",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Nebulin is localized at the level of the Z disk of the sarcomere.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

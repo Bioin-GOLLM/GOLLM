@@ -1,0 +1,69 @@
+{
+  "gene": "IGF1",
+  "geneID": "3479",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IGF1 is a hormone produced mainly by the liver and skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF1 overexpression or chronic treatment can favor muscle hypertrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "bone growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF1 promotes bone growth and muscle mass increase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF1 appears to be able to improve the condition of muscle disuse through the regulation of protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF1 activates specific signaling pathways.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "liver",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "IGF1 is a hormone produced mainly by the liver and skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "IGF1 is a hormone produced mainly by the liver and skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

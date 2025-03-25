@@ -1,0 +1,33 @@
+{
+  "gene": "Piezo 1",
+  "geneID": "9780",
+  "go_data": [
+    {
+      "term": "mechanically gated ion channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Piezo 1 is involved in maintaining constant calcium levels in skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "calcium ion homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Piezo 1 is in charge of maintaining constant calcium levels in skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Piezo 1 is involved in maintaining constant calcium levels in skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

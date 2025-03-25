@@ -1,0 +1,24 @@
+{
+  "gene": "eIF2",
+  "geneID": "67204",
+  "go_data": [
+    {
+      "term": "translation initiation factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "eIF2 is described as eukaryotic initiation factor of protein translation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of translational initiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "eIF2 is involved in protein translation and its alteration affects protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

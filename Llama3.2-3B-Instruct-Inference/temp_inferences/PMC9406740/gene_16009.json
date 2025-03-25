@@ -1,0 +1,24 @@
+{
+  "gene": "insulin-like growth factor-binding protein 3",
+  "geneID": "16009",
+  "go_data": [
+    {
+      "term": "insulin-like growth factor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Insulin-like growth factor-binding protein 3 (IGFBP3) binds to insulin-like growth factors.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGFBP3 expression is reduced in response to ursolic acid, which stimulates muscle hypertrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

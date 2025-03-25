@@ -1,0 +1,42 @@
+{
+  "gene": "S1P",
+  "geneID": "13609",
+  "go_data": [
+    {
+      "term": "skeletal muscle regeneration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "S1P plays an important role in skeletal muscle regeneration in injured mdx mice.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "satellite cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "S1P has an important role in the activation and proliferation of satellite cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "satellite cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Sphingosine 1-phosphate stimulates proliferation and migration of satellite cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "signaling receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "S1P stimulates proliferation and migration of satellite cells: Role of S1P receptors.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

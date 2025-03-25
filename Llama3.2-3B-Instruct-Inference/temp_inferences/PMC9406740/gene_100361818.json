@@ -1,0 +1,33 @@
+{
+  "gene": "NFAT",
+  "geneID": "100361818",
+  "go_data": [
+    {
+      "term": "calcineurin-NFAT signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NFAT is involved in the NFAT signaling pathway involving calcium-dependent calcineurin.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle fiber differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NFATc1 inactivation is related to slow-to-fast fiber type shift in rat soleus muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "calcium-mediated signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NFAT signaling pathway involves calcium-dependent calcineurin.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

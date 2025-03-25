@@ -1,0 +1,24 @@
+{
+  "gene": "growth hormone",
+  "geneID": "14599",
+  "go_data": [
+    {
+      "term": "growth hormone secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ghrelin stimulates the appetite and growth hormone secretion.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "anabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Growth hormone is suggested as an anabolic therapy to mitigate disuse atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

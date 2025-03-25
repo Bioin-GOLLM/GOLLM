@@ -1,0 +1,33 @@
+{
+  "gene": "ghrelin",
+  "geneID": "58991",
+  "go_data": [
+    {
+      "term": "growth hormone secretion regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ghrelin stimulates the appetite and growth hormone secretion.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "appetite stimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ghrelin stimulates the appetite and growth hormone secretion.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ghrelin null mice are more prone to fasting-induced muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

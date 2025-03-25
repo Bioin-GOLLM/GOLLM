@@ -1,0 +1,51 @@
+{
+  "gene": "ClC-1",
+  "geneID": "12723",
+  "go_data": [
+    {
+      "term": "chloride channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The ClC-1 muscle chloride channel sustains the resting chloride conductance (gCl).",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle excitability",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The activity of ClC-1 is a key determinant of muscle excitability.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "sarcolemma",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The ClC-1 channel is involved in the regulation of the electrical and contractile properties of the sarcolemma.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "response to aging",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A downregulation of the expression of ClC-1 protein was observed in the fast-twitch EDL muscle during aging.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein kinase C binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The activity of ClC-1 is regulated by protein kinase C (PKC).",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

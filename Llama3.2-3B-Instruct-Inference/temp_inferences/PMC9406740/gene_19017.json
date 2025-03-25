@@ -1,0 +1,42 @@
+{
+  "gene": "PGC-1alpha",
+  "geneID": "19017",
+  "go_data": [
+    {
+      "term": "regulation of skeletal muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A PGC-1alpha isoform induced by resistance training regulates skeletal muscle hypertrophy",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "response to exercise",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PGC-1alpha4 expression was found to be increased in response to exercise",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of myostatin expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "overexpression of a splice variant of PGC-1alpha, PGC-1alpha4, may induce muscle fiber hypertrophy through the downregulation of myostatin expression",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "positive regulation of IGF-1 expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "overexpression of a splice variant of PGC-1alpha, PGC-1alpha4, may induce muscle fiber hypertrophy through... increase in IGF-1 expression",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

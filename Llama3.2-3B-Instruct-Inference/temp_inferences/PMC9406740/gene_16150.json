@@ -1,0 +1,51 @@
+{
+  "gene": "IKKbeta",
+  "geneID": "16150",
+  "go_data": [
+    {
+      "term": "skeletal muscle cell differentiation",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "Activation of NF-kB can also generate muscle atrophy by opposing myogenic differentiation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IKKbeta/NF-kappaB activation causes severe muscle wasting in mice",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "ubiquitin-proteasome system",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB can raise the expression of ubiquitin-proteasome system proteins",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IKKbeta is part of the IKK complex which is typically found in the cytoplasm",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "conditional IKKbeta knockout mice demonstrate Akt hyper-phosphorylation",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

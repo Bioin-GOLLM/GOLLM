@@ -1,0 +1,3794 @@
+[
+  {
+    "gene": "Muscle-specific RING finger protein-1",
+    "geneID": "433766",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MuRF1 is an E3 ubiquitin ligase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle cell differentiation",
+        "relationship": "negatively regulates",
+        "namespace": "biological_process",
+        "justification": "MuRF1 is upregulated during skeletal muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MuRF1 is able to control sarcomere muscle protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MuRF1 is a cytosolic E3 ubiquitin ligase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MuRF1 is involved in protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "sarcomere",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "MuRF1 controls sarcomere muscle protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "E3 ubiquitin ligase",
+    "geneID": "68350",
+    "go_data": [
+      {
+        "term": "ubiquitin protein ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "E3 ubiquitin ligase is involved in protein degradation through ubiquitination.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "E3 ubiquitin ligase, such as MuRF1, is upregulated during skeletal muscle atrophy and controls sarcomere muscle protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein degradation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "E3 ubiquitin ligase, such as TRAF6, promotes the union of Lys63-bound polyubiquitin chains to its target proteins, leading to protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle cell",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "E3 ubiquitin ligase, such as MuRF1, is selectively expressed in cardiac and skeletal muscles.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Atrogin-1",
+    "geneID": "67731",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Atrogin-1 is a muscle-specific ubiquitin ligase involved in muscle loss.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Atrogin-1 is involved in muscle atrophy through the regulation of protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Atrogin-1 contributes to muscle catabolism through the ubiquitin-proteasome system.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ring finger-1",
+    "geneID": "66949",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MuRF1 is a ubiquitin protein ligase (E3) that targets myosin heavy chains, myosin light chains, actin, myosin binding protein C, and troponin I for degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MuRF1 is involved in muscle loss, with its substrates including myosin heavy chains, myosin light chains, actin, myosin binding protein C, and troponin I.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MuRF1 targets cytosolic proteins such as actin and myosin for degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Trim32",
+    "geneID": "69807",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Trim32 is described as an E3 ubiquitin ligase, which implies it enables the transfer of ubiquitin to target proteins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Trim32 is mentioned in the context of muscle atrophy, indicating its involvement in this process.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein degradation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Trim32 is stated to be important for the degradation of actin, tropomyosin, and troponins, which are proteins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Trim32 causes the loss of desmin Z-bands and thin filaments, which are components of the cytoskeleton in muscle cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF6",
+    "geneID": "22034",
+    "go_data": [
+      {
+        "term": "ubiquitin protein ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRAF6 promotes the union of Lys63-bound polyubiquitin chains to its target proteins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF6 intercedes in starvation-induced skeletal muscle atrophy through multiple mechanisms.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRAF6-mediated ubiquitylation is essential for the activation of different factors.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however, TRAF6 is known to be involved in signaling pathways that often occur in the cytoplasm.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "JNK",
+    "geneID": "26419",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "JNK is activated by TRAF6-mediated ubiquitylation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of gene expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activated JNK is important for atrogin-1 and MuRF1 expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AMPK",
+    "geneID": "78975",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "AMPK is described as a protein kinase activated by 5'adenosine monophosphate.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of skeletal muscle mass",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AMPK has an important role in skeletal muscle metabolism and protein synthesis and is able to inhibit the anabolic processes that consume ATP and regulate skeletal muscle mass.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "fatty acid oxidation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AICA riboside increases AMP-activated protein kinase, fatty acid oxidation, and glucose uptake in rat muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "glucose uptake",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AICA riboside increases AMP-activated protein kinase, fatty acid oxidation, and glucose uptake in rat muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The inhibition of protein synthesis by AMPK is mediated by the mTORC1 block.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Denervation-induced atrophy is related to the upregulation of specific histone deacetylases (HDAC), able to repress a negative regulator of myogenin, with an increase in MuRF1 expression and muscle wasting. AMPK (protein kinase activated by 5'adenosine monophosphate) is also involved in muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FoxO3",
+    "geneID": "56484",
+    "go_data": [
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF6-mediated ubiquitylation is essential for the activation of FoxO3.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of gene expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activated FoxO3 is important for atrogin-1 and MuRF1 expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NFkappaB",
+    "geneID": "18033",
+    "go_data": [
+      {
+        "term": "transcription regulatory region DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappaB) is a protein complex that functions as a transcription factor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB plays an important role in regulating the immune response to infections.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "In the inactivated state, NF-KB is present in the cytosol, linked to an inhibitory protein.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NF-kappaB is available after IKK-mediated phosphorylation and degradation of IkappaBalpha, allowing it to translocate to the nucleus.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NFkappaB activation in skeletal muscle determines muscle degeneration and inhibits regeneration in dystrophic muscles.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of myoblast differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB inhibits myogenic differentiation through the accumulation of cyclin D1 and the activation of YinYang1 (YY1), a negative regulator of myogenesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "desmin",
+    "geneID": "13346",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Desmin is localized at the level of the Z disk of the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ubiquitylation by Trim32 causes coupled loss of desmin Z-bands, and thin filaments in muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Desmin interacts with other myofibrillar proteins such as filamen, protein C, tropomyosin, troponin T, troponin I, titin, nebulin, vimentin, gelsolin, and vinculin.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "titin",
+    "geneID": "22138",
+    "go_data": [
+      {
+        "term": "structural constituent of muscle",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Titin is a myofibrillar protein that makes up the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "Z disk",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Titin is localized at the level of the Z disk of the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Titin is a target of calpain's proteolytic cleavage, which is involved in muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "nebulin",
+    "geneID": "17996",
+    "go_data": [
+      {
+        "term": "structural constituent of muscle",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Nebulin is a myofibrillar protein that makes up the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "sarcomere",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Nebulin is localized at the level of the Z disk of the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vimentin",
+    "geneID": "22352",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Vimentin is localized at the level of the Z disk of the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "relationship": "None found",
+        "namespace": "None found",
+        "justification": "None found",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "gelsolin",
+    "geneID": "227753",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Gelsolin is localized at the level of the Z disk of the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gelsolin is a component of the sarcomere, which is the structural unit of striated muscle tissue responsible for contraction.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Gelsolin is known to bind to actin and regulate actin filament dynamics, which is crucial for muscle contraction.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vinculin",
+    "geneID": "22330",
+    "go_data": [
+      {
+        "term": "Z disk",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vinculin is localized at the level of the Z disk of the sarcomere.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vinculin is a substrate for calpain, which initiates the proteolytic cleavage of muscle proteins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "calpain 1",
+    "geneID": "12333",
+    "go_data": [
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Calpain has an important role in muscle atrophy due to hindlimb suspension and sarcopenia.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "ubiquitin-proteasome pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Calpain 1 has a role in the ubiquitin-proteasome pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "anabolic process",
+        "relationship": "negatively_regulates",
+        "namespace": "biological_process",
+        "justification": "Calpain 1 is involved in anabolic processes mediated by Akt-mTOR-p70S6K and MAPK-Erk (p90RSK) signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Calpain is a cytosolic protein.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Akt",
+    "geneID": "11651",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Akt is involved in the PI3K-AKT-mTOR pathways and the Akt-mTOR-p70S6K signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "anabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Akt is mentioned to be involved in the anabolic processes mediated by Akt-mTOR-p70S6K signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activation of NF-kB can also generate muscle atrophy by opposing myogenic differentiation, and NF-kB also seems to interfere with the IGF1-Akt signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Akt phosphorylation is associated with the level of eIF4e, which is involved in translation initiation, and consequent impairment of protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Akt is part of the IGF1-Akt signaling pathway and the PI3K-AKT-mTOR pathways.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mTOR",
+    "geneID": "56717",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "mTOR kinase cooperates with different proteins to form two different complexes: the rapamycin-sensitive TORC1 complex and the rapamycin-insensitive TORC2 complex.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Leucine is an essential amino acid able to increase muscle protein synthesis in C2C12 myotubes by activating the mTOR complex and the 4E binding protein-1 (4E-BP1) signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cell growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Raptor and mTOR-deficient mice show decreased growth of fast but not of slow muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BCAA supplementation in older people has been found to improve muscle mass and strength, and the parameters ameliorated by BCAAs action were myofiber CSA, muscle force, and contraction, as well as protein synthesis mediated by the mTOR pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "intracellular signaling cascade",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Most of the effects of clenbuterol are mediated by the Akt-mTOR signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p70S6K",
+    "geneID": "72508",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p70S6K is described as a kinase in the context of the Akt-mTOR-p70S6K signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "anabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p70S6K is mentioned as part of the anabolic processes mediated by the Akt-mTOR-p70S6K signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p70S6K is part of the Akt-mTOR-p70S6K signaling pathway, indicating involvement in cell signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MAPK",
+    "geneID": "26413",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MAPK is part of the MAPK-Erk (p90RSK) signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "anabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MAPK is mentioned in the context of anabolic processes mediated by MAPK-Erk (p90RSK) signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p90RSK",
+    "geneID": "20112",
+    "go_data": [
+      {
+        "term": "protein serine/threonine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p90RSK is part of the MAPK-Erk signaling pathway, which involves serine/threonine kinase activity.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "anabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p90RSK is mentioned as part of the anabolic processes mediated by MAPK-Erk signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "eEF2",
+    "geneID": "13629",
+    "go_data": [
+      {
+        "term": "translation elongation factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "eEF2 is involved in translation elongation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "peptide elongation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "eEF2 participates in the elongation phase of protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "eEF2 is found in the cytosol where translation occurs.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "calpastatin",
+    "geneID": "12380",
+    "go_data": [
+      {
+        "term": "peptidase inhibitor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Calpastatin is a calpain inhibitor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Overexpressing calpastatin reduced hindlimb unloading-induced atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however calpastatin is known to inhibit calpain, which is often found in the cytosol.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SOD1",
+    "geneID": "20655",
+    "go_data": [
+      {
+        "term": "superoxide dismutase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "A mutant superoxide dismutase protein (SOD1-G93A) expression generates oxidative stress.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to oxidative stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Oxidative stress was generated by a mutant superoxide dismutase protein (SOD1-G93A) expression able to cause muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Superoxide dismutase is typically found in the cytosol.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LC3",
+    "geneID": "66734",
+    "go_data": [
+      {
+        "term": "autophagosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "LC3 contributes to the formation of autophagosome.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "autophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LC3 is activated by oxidative stress to contribute to muscle atrophy through autophagy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Atg7",
+    "geneID": "74244",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Atg7-null mice exhibit muscle atrophy due to the inactivation of autophagy-related proteins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Atg7 is an E1 enzyme of the autophagic process, implying interaction with other proteins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "autophagosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Inhibition of autophagosome formation occurs upon removal of Atg7.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Atg5",
+    "geneID": "11793",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Atg5 is a component of the autophagic mechanism.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "autophagosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Atg5 is involved in autophagosome formation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BCL2",
+    "geneID": "12043",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The BCL2 family plays a role in mitochondrial apoptotic signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Altered total BCL2 is observed during muscle atrophy with elevated total and mitochondrial BAX.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The BCL2 family, involving pro- and anti-apoptotic proteins, plays a role in mitochondrial apoptotic signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BAX",
+    "geneID": "12028",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Elevated total and mitochondrial BAX is observed during muscle atrophy, and Bax-knockout attenuates muscle atrophy and mitochondrial apoptotic changes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Mitochondrial BAX is elevated during muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Elevation of BAX and alteration of BCL2 are observed, and Bax-knockout attenuates muscle atrophy and apoptotic changes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CASP9",
+    "geneID": "12371",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CASP9 activation is observed during muscle atrophy due to disuse.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Elevated total and mitochondrial BAX, and CASP9 activation are observed during muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cysteine-type endopeptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CASP9 activation implies its role as a cysteine-type endopeptidase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Bak",
+    "geneID": "12018",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Bax- and Bax/Bak-knockout attenuates muscle atrophy and a number of the mitochondrial apoptotic changes that occur with denervation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Elevated total and mitochondrial BAX, altered total BCL2, and CASP9 activation are observed during muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mitofusin 1",
+    "geneID": "67414",
+    "go_data": [
+      {
+        "term": "mitochondrial fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Elevation of miR-142a-5p suppressed mitofusin 1 (MFN1), leading to mitochondrial dysfunction.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Mitofusin 1 is involved in mitochondrial processes such as fusion and is associated with mitochondrial function.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Suppression of mitofusin 1 leads to elevated total BAX:BCL2, CASP9, and CASP3 activation, indicating a role in regulating apoptosis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CASP3",
+    "geneID": "12367",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CASP3 activation is associated with mitochondrial apoptotic changes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cysteine-type endopeptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CASP3 is a caspase, which is a type of cysteine-type endopeptidase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mTOR",
+    "geneID": "2475",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "mTOR is described as a serine/threonine kinase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mTOR is the principal regulator of protein synthesis by mediating the effects of growth factors.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to oxidative stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Muscle atrophy associated with oxidative stress is linked to the alteration of mTOR.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inhibition of mTOR delays skeletal muscle growth.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The PI3K-AKT-mTOR pathway is fundamental in hypertrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mTORC1",
+    "geneID": "382056",
+    "go_data": [
+      {
+        "term": "protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mTORC1 inhibition decreases protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of skeletal muscle mass",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mTORC1 is able to inhibit the anabolic processes that consume ATP and regulate skeletal muscle mass.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "intracellular signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin and IGF1 activate the PI3K-AKT-mTOR pathways, which includes mTORC1.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "TORC1 complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "mTORC1 is part of the rapamycin-sensitive TORC1 complex, which includes Raptor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UBR5",
+    "geneID": "70790",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "UBR5 is described as an E3 ubiquitin ligase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The silencing of UBR5 results in skeletal muscle atrophy, suggesting a role in muscle cell differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The knockdown of UBR5 leads to impairment of protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ERK1/2",
+    "geneID": "26417",
+    "go_data": [
+      {
+        "term": "protein phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERK1/2 phosphorylation is reduced in the knockdown of UBR5.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ERK1/2 is a kinase as indicated by its phosphorylation status.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Impairment of protein synthesis is consequent to reduction in ERK1/2 phosphorylation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "eIF4e",
+    "geneID": "13684",
+    "go_data": [
+      {
+        "term": "translation initiation factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "eIF4e is involved in translation initiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a translation initiation factor, eIF4e is expected to be located in the cytoplasm where translation occurs.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "eIF4e is involved in translation initiation and consequent protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-AR",
+    "geneID": "67118",
+    "go_data": [
+      {
+        "term": "muscle atrophy recovery",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "beta-AR agonists, such as clenbuterol, accelerate the recovery from disuse-induced atrophy and spinal and bulbar muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "transient receptor potential cation channel, subfamily V, member 1",
+    "geneID": "193034",
+    "go_data": [
+      {
+        "term": "calcium channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRPV1 causes an increase in intracellular Ca2+ levels.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRPV1 is involved in the induction of skeletal muscle hypertrophy through calcium signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "integral component of plasma membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, TRPV1 is embedded in the plasma membrane.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ca2",
+    "geneID": "54231",
+    "go_data": [
+      {
+        "term": "calcium ion binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Ca2 is involved in various cellular processes through its binding properties.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The accumulation of calcium promotes contractile protein degradation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "sarcoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The increase in calcium in the sarcoplasm involves L-type Ca channels and sarcoplasmic reticulum ryanodine receptors.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "calcium-mediated signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nitric oxide was suggested to play a role in muscle hypertrophy via the activation of the transient receptor potential cation channel, subfamily V, member 1 (TRPV1), causing an increase in intracellular Ca2 levels.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PGC-1alpha",
+    "geneID": "19017",
+    "go_data": [
+      {
+        "term": "regulation of skeletal muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A PGC-1alpha isoform induced by resistance training regulates skeletal muscle hypertrophy",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "response to exercise",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PGC-1alpha4 expression was found to be increased in response to exercise",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of myostatin expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "overexpression of a splice variant of PGC-1alpha, PGC-1alpha4, may induce muscle fiber hypertrophy through the downregulation of myostatin expression",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "positive regulation of IGF-1 expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "overexpression of a splice variant of PGC-1alpha, PGC-1alpha4, may induce muscle fiber hypertrophy through... increase in IGF-1 expression",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myostatin",
+    "geneID": "17700",
+    "go_data": [
+      {
+        "term": "negative regulation of skeletal muscle growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myostatin inhibits muscle development.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Myostatin is a protein produced by skeletal muscle cells and acts as an inhibitor of muscle development, implying it is secreted into the extracellular space.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle cell differentiation",
+        "relationship": "negatively_regulates",
+        "namespace": "biological_process",
+        "justification": "Myostatin signaling upregulation impairs skeletal muscle regeneration, indicating it negatively regulates muscle cell differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IGF-1",
+    "geneID": "16000",
+    "go_data": [
+      {
+        "term": "regulation of protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF-1 appears to be able to improve the condition of muscle disuse through the regulation of protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF-1 overexpression or chronic treatment can favor muscle hypertrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle satellite cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF-1 overexpression has been shown to have limited effects in preventing HU-induced muscle atrophy, indicating a role in muscle cell proliferation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "secreted_in",
+        "namespace": "cellular_component",
+        "justification": "Localized infusion of IGF-1 results in skeletal muscle hypertrophy, indicating IGF-1 is secreted into the extracellular space.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MyoD",
+    "geneID": "17927",
+    "go_data": [
+      {
+        "term": "DNA-binding transcription activator activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MyoD is a myogenic transcription factor that plays an important role in regulating muscle differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MyoD plays an important role in regulating muscle differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, MyoD localizes to the nucleus to regulate the expression of muscle-specific genes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of myogenic differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB inhibits myogenic differentiation through the reduction of MyoD levels.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MyoD, belonging to the family of helix-loop-helix transcription factors, is involved in the regulation of gene expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myogenin",
+    "geneID": "17928",
+    "go_data": [
+      {
+        "term": "skeletal muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Skeletal muscle regeneration is impaired during disuse, likely due to decreased myogenin expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of transcription, DNA-templated",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myogenin is repressed by histone deacetylases (HDAC).",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myogenin and class II HDACs control neurogenic muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tumor necrosis factor-alpha",
+    "geneID": "21926",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "tumor necrosis factor-alpha plays an important role in regulating the immune response to infections",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "tumor necrosis factor-alpha mediates the effect of inflammatory cytokines",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "tumor necrosis factor-alpha is an inflammatory cytokine",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "tumor necrosis factor-alpha is an extracellular signal",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IkappaBalpha",
+    "geneID": "18035",
+    "go_data": [
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "IkappaBalpha protein is phosphorylated, ubiquitinated, and degraded in the cytoplasm by the proteasome.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IkappaBalpha is ubiquitinated after phosphorylation by IKK enzyme.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "NF-kappaB signaling",
+        "relationship": "negatively_regulates",
+        "namespace": "biological_process",
+        "justification": "Degradation of IkappaBalpha leads to NF-kappaB availability, indicating its negative regulation of NF-kappaB signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IkappaBalpha is phosphorylated by IKK enzyme.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IKKbeta",
+    "geneID": "16150",
+    "go_data": [
+      {
+        "term": "skeletal muscle cell differentiation",
+        "relationship": "negatively regulates",
+        "namespace": "biological_process",
+        "justification": "Activation of NF-kB can also generate muscle atrophy by opposing myogenic differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IKKbeta/NF-kappaB activation causes severe muscle wasting in mice",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "ubiquitin-proteasome system",
+        "relationship": "regulates",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB can raise the expression of ubiquitin-proteasome system proteins",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "IKKbeta is part of the IKK complex which is typically found in the cytoplasm",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "conditional IKKbeta knockout mice demonstrate Akt hyper-phosphorylation",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cyclin D1",
+    "geneID": "12443",
+    "go_data": [
+      {
+        "term": "negative regulation of myoblast differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB inhibits myogenic differentiation through the accumulation of cyclin D1.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cell cycle",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cyclin D1 is involved in cell cycle regulation, implied by its name and role in myogenesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Cyclin D1 is typically found in the cytoplasm, although the text does not explicitly state this for cyclin D1, it is generally known for cyclins.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "YinYang1",
+    "geneID": "22632",
+    "go_data": [
+      {
+        "term": "negative regulation of skeletal muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "YinYang1 is a negative regulator of myogenesis, inhibiting skeletal muscle cell differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "transcriptional repressor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "YinYang1 works by blocking the synthesis of genes such as actin, creatine kinase, and myosin heavy chain IIb, indicating transcriptional repression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcriptional regulator, YinYang1 is expected to be located in the nucleus to regulate gene expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myosin heavy chain IIb",
+    "geneID": "17884",
+    "go_data": [
+      {
+        "term": "skeletal muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myosin heavy chain IIb is a component of the contractile apparatus in skeletal muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myosin heavy chain IIb plays a role in the contraction of skeletal muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "myofibril",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Myosin heavy chain IIb is a component of the myofibrils in skeletal muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "inducible nitric oxide synthase",
+    "geneID": "18126",
+    "go_data": [
+      {
+        "term": "nitric oxide biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activation of NF-kappaB increases the expression of the inducible nitric oxide synthase (iNOS) in muscle cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however, iNOS is typically found in the cytosol.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HuR",
+    "geneID": "15568",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HuR is described as an RNA-binding protein.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of MyoD expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activation of NF-kappaB increases the expression of iNOS in muscle cells that sequester HuR by preventing transcription of MyoD.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mRNA stabilization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappa B-mediated MyoD decay during muscle wasting requires nitric oxide synthase mRNA stabilization, HuR protein.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "peroxiredoxin-6",
+    "geneID": "11758",
+    "go_data": [
+      {
+        "term": "antioxidant activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Peroxiredoxin-6 (PRDX6) is involved in the antioxidant defense system.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to oxidative stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The reduced synthesis of peroxiredoxin-6 can be responsible for hydrogen peroxide accumulation and thus for the oxidative stress increase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "carbonic anhydrase 3",
+    "geneID": "12350",
+    "go_data": [
+      {
+        "term": "antioxidant activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Carbonic anhydrase 3 expression is reduced, contributing to a weakening of the antioxidant defense systems.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ClC-1",
+    "geneID": "12723",
+    "go_data": [
+      {
+        "term": "chloride channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The ClC-1 muscle chloride channel sustains the resting chloride conductance (gCl).",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle excitability",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The activity of ClC-1 is a key determinant of muscle excitability.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "sarcolemma",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The ClC-1 channel is involved in the regulation of the electrical and contractile properties of the sarcolemma.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "response to aging",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A downregulation of the expression of ClC-1 protein was observed in the fast-twitch EDL muscle during aging.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein kinase C binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The activity of ClC-1 is regulated by protein kinase C (PKC).",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "gCl",
+    "geneID": "23885",
+    "go_data": [
+      {
+        "term": "chloride channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "gCl is described as sustaining the resting chloride conductance.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "gCl is pivotal for the regulation of the electrical and contractile properties of muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "sarcolemma",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "gCl is associated with the sarcolemma stability.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle excitability",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "gCl is a key determinant of muscle excitability.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MyHC",
+    "geneID": "111671",
+    "go_data": [
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MyHC is associated with muscle fibers, which are involved in muscle contraction.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle fiber",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "MyHC is a component of muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "insulin receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin/IGF1 signaling interferes with the mTOR kinase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein kinase B signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin and IGF1 have been shown to activate the PI3K-AKT-mTOR pathways.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to insulin stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Numerous studies indicate that insulin can modulate the expression of PKC.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "secreted_in",
+        "namespace": "cellular_component",
+        "justification": "Insulin is secreted by cells to act on other cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NFAT",
+    "geneID": "100361818",
+    "go_data": [
+      {
+        "term": "calcineurin-NFAT signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NFAT is involved in the NFAT signaling pathway involving calcium-dependent calcineurin.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle fiber differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NFATc1 inactivation is related to slow-to-fast fiber type shift in rat soleus muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "calcium-mediated signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NFAT signaling pathway involves calcium-dependent calcineurin.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ca2",
+    "geneID": "12349",
+    "go_data": [
+      {
+        "term": "calcium ion binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Association and dissociation of the calcium-binding domains of calpain by Ca2",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "intracellular calcium ion homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Intracellular Ca2 transients in mouse soleus muscle after hindlimb unloading and reloading",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Intracellular Ca2 transients in mouse soleus muscle after hindlimb unloading and reloading",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "aquaporin-4",
+    "geneID": "11829",
+    "go_data": [
+      {
+        "term": "water channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Aquaporin-4 is described as a water channel.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "response to muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "An increase in aquaporin-4 was found in response to muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "Aquaporin-4 expression is modulated in skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IIa",
+    "geneID": "11981",
+    "go_data": [
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MHC-IIa is associated with fast-twitch muscles, which are involved in muscle contraction.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle fiber",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "MHC-IIa is a fiber type found in skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kir6.2",
+    "geneID": "83535",
+    "go_data": [
+      {
+        "term": "ATP-sensitive potassium channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Kir6.2/SUR1 subunits of the K(ATP) channels characterize the fast muscle phenotype with higher K(ATP) currents.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Higher expression and activity of Kir6.2/SUR1 subunits are associated with resistance to atrophy in fast-twitch muscles.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a subunit of the K(ATP) channel, Kir6.2 is embedded in the plasma membrane of muscle cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SUR1",
+    "geneID": "25559",
+    "go_data": [
+      {
+        "term": "ATP-sensitive potassium channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SUR1 is a subunit of the K(ATP) channels, which have ATP-sensitive potassium channel activity.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "potassium ion transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SUR1 is part of the K(ATP) channels, which are involved in potassium ion transport.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a subunit of the K(ATP) channels, SUR1 is located in the plasma membrane.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATPase",
+    "geneID": "13417",
+    "go_data": [
+      {
+        "term": "sodium ion transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Na, K ATPase is important in removing Na from the sarcoplasm.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "potassium ion transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Na, K ATPase is involved in the transport of potassium ions.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Na, K ATPase is important in the contractility of skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Na, K ATPase is a membrane-bound enzyme.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Piezo 1",
+    "geneID": "234839",
+    "go_data": [
+      {
+        "term": "calcium channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Piezo 1 is involved in maintaining constant calcium levels in skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inhibition of Piezo 1 causes muscle atrophy through a signaling pathway involving KLF15 and IL-6.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As an ion channel, Piezo 1 is expected to be located in the plasma membrane.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kruppel-like factor 15",
+    "geneID": "66277",
+    "go_data": [
+      {
+        "term": "transcription regulatory region DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "KLF15 binds to the promoter region of the Il6 gene.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inhibition of Piezo 1 causes muscle atrophy through a signaling pathway involving KLF15.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, KLF15 localizes to the nucleus to regulate the expression of target genes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of muscle protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "KLF15 promotes atrophy and is involved in the inhibition of the mTOR pathway, which derives from the inhibition of muscle protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "KLF15 is a transcription factor that regulates the expression of target genes, such as Il6.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "interleukin-6",
+    "geneID": "16193",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Interleukin-6 (IL-6) is referred to as a cytokine.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-6 is involved in a signaling pathway that causes muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "secreted_in",
+        "namespace": "cellular_component",
+        "justification": "As a cytokine, IL-6 is secreted into the extracellular space.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Piezo 1",
+    "geneID": "9780",
+    "go_data": [
+      {
+        "term": "mechanically gated ion channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Piezo 1 is involved in maintaining constant calcium levels in skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "calcium ion homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Piezo 1 is in charge of maintaining constant calcium levels in skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Piezo 1 is involved in maintaining constant calcium levels in skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "glucocorticoid receptor",
+    "geneID": "14815",
+    "go_data": [
+      {
+        "term": "steroid hormone receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The glucocorticoid receptor promotes the expression of genes in response to glucocorticoids.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of muscle protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The inhibitory action of glucocorticoids on muscle protein synthesis is mediated by the glucocorticoid receptor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of TOR signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The glucocorticoid receptor inhibits the mTOR pathway, possibly through the promotion of REDD1 expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "REDD1",
+    "geneID": "74747",
+    "go_data": [
+      {
+        "term": "negative regulation of TOR signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "REDD1 inhibits the activity of mTOR.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The inhibitory action of glucocorticoids on muscle protein synthesis derives from the inhibition of the mTOR pathway, which is inhibited by REDD1.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BCAT2",
+    "geneID": "12036",
+    "go_data": [
+      {
+        "term": "branched-chain amino acid catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BCAT2 induces the degradation of branched-chain amino acids.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "catalytic activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "BCAT2 is a branched-chain aminotransferase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FoxO1",
+    "geneID": "56458",
+    "go_data": [
+      {
+        "term": "transcriptional regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FoxO1 is transcriptionally regulated by KLF15.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Gadd45a",
+    "geneID": "13197",
+    "go_data": [
+      {
+        "term": "regulation of transcription, DNA-templated",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gadd45a is mentioned as a transcription factor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inhibition of Gadd45a can avoid the loss of muscle mass.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p21",
+    "geneID": "12575",
+    "go_data": [
+      {
+        "term": "negative regulation of muscle mass",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "inhibition of p21 transcription factor can avoid the loss of muscle mass",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "ubiquitin-proteasome system",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p21 is related to the ubiquitin-proteasome system as one of the targets",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MEKK4",
+    "geneID": "26407",
+    "go_data": [
+      {
+        "term": "regulation of muscle mass",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inhibition of MEKK4 transcription factor can avoid the loss of muscle mass.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "transcription factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MEKK4 is described as a transcription factor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "growth hormone",
+    "geneID": "14599",
+    "go_data": [
+      {
+        "term": "growth hormone secretion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ghrelin stimulates the appetite and growth hormone secretion.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "anabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Growth hormone is suggested as an anabolic therapy to mitigate disuse atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGF-beta",
+    "geneID": "59086",
+    "go_data": [
+      {
+        "term": "muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Losartan treatment attenuates hindlimb unloading-induced atrophy in the soleus muscle of female rats via canonical TGF-beta signaling",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Bimagrumab increases muscle volume, lean muscle mass, and functional status in some muscle disuse conditions",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "TGF-beta receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Bimagrumab, a monoclonal antibody against the activin II receptor that belongs to a TGF-beta receptor family",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IGF1",
+    "geneID": "3479",
+    "go_data": [
+      {
+        "term": "hormone activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IGF1 is a hormone produced mainly by the liver and skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF1 overexpression or chronic treatment can favor muscle hypertrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "bone growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF1 promotes bone growth and muscle mass increase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF1 appears to be able to improve the condition of muscle disuse through the regulation of protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGF1 activates specific signaling pathways.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "liver",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "IGF1 is a hormone produced mainly by the liver and skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "IGF1 is a hormone produced mainly by the liver and skeletal muscle.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PI3K",
+    "geneID": "18708",
+    "go_data": [
+      {
+        "term": "phosphatidylinositol 3-kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PI3K is activated by insulin and IGF1.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "insulin signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PI3K is part of the insulin signaling pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "IGF-1 signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PI3K is activated by IGF1.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to insulin stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PI3K is activated by insulin.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein kinase B signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PI3K activates the AKT pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Raptor",
+    "geneID": "57521",
+    "go_data": [
+      {
+        "term": "protein-containing complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Raptor is part of the TORC1 complex.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of cellular response to growth factor stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Raptor is part of the mTOR pathway, which is activated by insulin and IGF1.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Raptor-deficient mice show decreased growth of fast muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TORC2",
+    "geneID": "74343",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TORC2 is a complex that includes mTOR kinase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "intracellular signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TORC2 is part of the PI3K-AKT-mTOR pathway, which is involved in insulin/IGF1 signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As part of the mTOR pathway, TORC2 is likely located in the cytoplasm.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rictor",
+    "geneID": "253260",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rictor cooperates with mTOR kinase to form the TORC2 complex.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": " TORC2 complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Rictor is a component of the rapamycin-insensitive TORC2 complex.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "insulin signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin/IGF1 signaling interferes with the mTOR kinase, which cooperates with Rictor in the TORC2 complex.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rictor",
+    "geneID": "78757",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rictor is part of the mTOR kinase complex TORC2.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "mTOR kinase complexes, including TORC2 which includes Rictor, are typically found in the cytoplasm.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rictor is part of the TORC2 complex, which is involved in insulin/IGF1 signaling that affects muscle growth.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Raptor",
+    "geneID": "74370",
+    "go_data": [
+      {
+        "term": "protein-containing complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Raptor is part of the TORC1 complex.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of cellular response to growth factor stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Raptor, as part of the mTOR complex, is involved in the regulation of cellular response to insulin/IGF1 signaling.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle fiber growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Raptor-deficient mice show decreased growth of fast muscle fibers.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "androgen receptor",
+    "geneID": "11835",
+    "go_data": [
+      {
+        "term": "steroid hormone receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The androgen receptor binds to androgens, leading to the activation of specific DNA sequences.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The androgen receptor affects the transcriptional activity of specific anabolic genes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, the androgen receptor localizes to the nucleus to regulate gene expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The anabolic effect of androgen receptor activation can induce an increase in protein synthesis with a hypertrophic effect.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AR",
+    "geneID": "14149",
+    "go_data": [
+      {
+        "term": "steroid hormone receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ND's anabolic effect is mediated by its binding to the androgen receptor (AR).",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Binding to AR leads to the activation of specific DNA sequences and affects the transcriptional activity of specific anabolic genes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor that affects transcription, AR is expected to be located in the nucleus to regulate gene expression.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "eIF2",
+    "geneID": "67204",
+    "go_data": [
+      {
+        "term": "translation initiation factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "eIF2 is described as eukaryotic initiation factor of protein translation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of translational initiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "eIF2 is involved in protein translation and its alteration affects protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Notch-1",
+    "geneID": "18128",
+    "go_data": [
+      {
+        "term": "muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND treatment prevented the alteration in Notch-1 expression suggesting the advancement of myogenic stem cell differentiation in response to atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myostatin",
+    "geneID": "2660",
+    "go_data": [
+      {
+        "term": "negative regulation of skeletal muscle growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myostatin is known to inhibit muscle growth, and its inhibitors have been studied for their potential to prevent muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myostatin has been associated with the regulation of muscle cell differentiation, as evidenced by its role in muscle growth and development.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-2",
+    "geneID": "12062",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Beta-2-adrenergic agonists mediate effects through signaling pathways.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Beta-2-adrenergic agonists promote protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to drug",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Beta-2-adrenergic agonists have effects on cells as a response to the drug.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "glycogen synthase kinase-3 beta",
+    "geneID": "56637",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GSK-3beta is described as a kinase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to drug",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The action of beta2-adrenergic agonists, such as clenbuterol, is expressed through the inhibition of GSK-3beta.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ghrelin",
+    "geneID": "58991",
+    "go_data": [
+      {
+        "term": "growth hormone secretion regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ghrelin stimulates the appetite and growth hormone secretion.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "appetite stimulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ghrelin stimulates the appetite and growth hormone secretion.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ghrelin null mice are more prone to fasting-induced muscle atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "S1P",
+    "geneID": "13609",
+    "go_data": [
+      {
+        "term": "skeletal muscle regeneration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "S1P plays an important role in skeletal muscle regeneration in injured mdx mice.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "satellite cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "S1P has an important role in the activation and proliferation of satellite cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "satellite cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Sphingosine 1-phosphate stimulates proliferation and migration of satellite cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "signaling receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "S1P stimulates proliferation and migration of satellite cells: Role of S1P receptors.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGF-beta",
+    "geneID": "21803",
+    "go_data": [
+      {
+        "term": "regulation of muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGF-beta signaling is associated with hindlimb unloading-induced atrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "insulin-like growth factor-binding protein 3",
+    "geneID": "16009",
+    "go_data": [
+      {
+        "term": "insulin-like growth factor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Insulin-like growth factor-binding protein 3 (IGFBP3) binds to insulin-like growth factors.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "negative regulation of muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IGFBP3 expression is reduced in response to ursolic acid, which stimulates muscle hypertrophy.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "4E-BP1",
+    "geneID": "13685",
+    "go_data": [
+      {
+        "term": "intracellular signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "4E-BP1 is part of an intracellular pathway that controls muscle protein synthesis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of translation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "4E-BP1 signaling pathway controls muscle protein synthesis, which is a translation process.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "4E-BP1 is involved in an intracellular pathway, implying it is located in the cytoplasm.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BCAA",
+    "geneID": "51742",
+    "go_data": [
+      {
+        "term": "muscle protein synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BCAA supplementation mediates protein synthesis through the mTOR pathway.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle tissue",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "BCAA action improves muscle mass and strength in skeletal muscle tissue.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "positive regulation of muscle mass",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BCAA supplementation has been found to improve muscle mass in older people.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BCAA",
+    "geneID": "94246",
+    "go_data": [
+      {
+        "term": "nutrient uptake",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BCAA is being studied as a supplement for muscle atrophy conditions, implying involvement in nutrient uptake.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SARM",
+    "geneID": "237868",
+    "go_data": [
+      {
+        "term": "androgen receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SARM acts as an androgen receptor modulator.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "growth hormone secretagogue receptor",
+    "geneID": "208188",
+    "go_data": [
+      {
+        "term": "G protein-coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Growth hormone secretagogue receptor is a G protein-coupled receptor.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "growth hormone secretion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Growth hormone secretagogue receptor synthetic agonists have been tested for cancer cachexia atrophy, implying involvement in growth hormone secretion regulation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a G protein-coupled receptor, growth hormone secretagogue receptor is typically located in the plasma membrane.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Granzyme B",
+    "geneID": "14939",
+    "go_data": [
+      {
+        "term": "proteolysis",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Granzyme B-dependent proteolysis acts as a switch to enhance the proinflammatory activity of IL-1alpha",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Granzyme B-dependent proteolysis enhances the proinflammatory activity of IL-1alpha",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1",
+    "geneID": "111343",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1alpha has proinflammatory activity",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "m-calpain",
+    "geneID": "12334",
+    "go_data": [
+      {
+        "term": "myogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Specific knockdown of m-calpain blocks myogenesis",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "miR-142a",
+    "geneID": "387160",
+    "go_data": [
+      {
+        "term": "regulation of mitochondrial dynamics",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Denervation induces mitochondrial dysfunction via miR-142a-5p/MFN1 axis",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "mitophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Denervation induces mitophagy via miR-142a-5p/MFN1 axis",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Denervation induces apoptosis via miR-142a-5p/MFN1 axis",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle atrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Denervation drives skeletal muscle atrophy via miR-142a-5p/MFN1 axis",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HSP70",
+    "geneID": "15511",
+    "go_data": [
+      {
+        "term": "response to exercise",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Exercise training reverses downregulation of HSP70",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cellular response to heat",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "HSP70 is a heat shock protein",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Protein kinase C theta",
+    "geneID": "18761",
+    "go_data": [
+      {
+        "term": "protein kinase C activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Protein kinase C theta (PKCtheta) is a type of protein kinase C, which implies it has protein kinase C activity.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle phenotype",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PKCtheta modulates the skeletal muscle phenotype in mouse models.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "chloride channel regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PKCtheta modulates the ClC-1 chloride channel activity.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HDAC4",
+    "geneID": "363287",
+    "go_data": [
+      {
+        "term": "histone deacetylase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HDAC4 is a histone deacetylase.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "HDAC4 is indispensable for reduced slow myosin expression at the early stage of hindlimb unloading in rat soleus muscle, implying a role in muscle cell differentiation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-6",
+    "geneID": "24498",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-6 is mentioned in the context of muscle, implying its role as a cytokine.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "response to muscle disuse",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-6 is targeted in disused rat soleus muscle, indicating involvement in response to muscle disuse.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "albumin",
+    "geneID": "11657",
+    "go_data": [
+      {
+        "term": "serum albumin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Albumin is a serum protein that binds to various substances in the blood.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "blood circulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Albumin is found in the blood and plays a role in maintaining blood volume and circulation.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Albumin is a secreted protein found in the blood, which is part of the extracellular region.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "growth hormone",
+    "geneID": "81668",
+    "go_data": [
+      {
+        "term": "hormone activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Growth hormone has hormone activity as indicated by its role in regulating various physiological processes.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of skeletal muscle calcium homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Growth hormone secretagogues prevent dysregulation of skeletal muscle calcium homeostasis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "regulation of skeletal muscle sodium channel activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Growth hormone treatment leads to partial recovery of skeletal muscle sodium channel properties.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GH",
+    "geneID": "25455",
+    "go_data": [
+      {
+        "term": "growth hormone receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GH binds to its receptor to exert its effects.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "skeletal muscle regeneration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GH treatment leads to partial recovery of skeletal muscle sodium channel properties in aged rats.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "20S",
+    "geneID": "27475",
+    "go_data": [
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "20S Proteasome is involved in protein degradation through proteolysis.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The 20S proteasome is typically found in the cytosol of eukaryotic cells.",
+        "reference(s)": [
+          "PMC9406740"
+        ]
+      }
+    ]
+  }
+]

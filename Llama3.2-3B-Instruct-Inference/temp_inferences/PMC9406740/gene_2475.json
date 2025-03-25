@@ -1,0 +1,51 @@
+{
+  "gene": "mTOR",
+  "geneID": "2475",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "mTOR is described as a serine/threonine kinase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mTOR is the principal regulator of protein synthesis by mediating the effects of growth factors.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to oxidative stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Muscle atrophy associated with oxidative stress is linked to the alteration of mTOR.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of mTOR delays skeletal muscle growth.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The PI3K-AKT-mTOR pathway is fundamental in hypertrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

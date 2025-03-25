@@ -1,0 +1,15 @@
+{
+  "gene": "beta-AR",
+  "geneID": "67118",
+  "go_data": [
+    {
+      "term": "muscle atrophy recovery",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "beta-AR agonists, such as clenbuterol, accelerate the recovery from disuse-induced atrophy and spinal and bulbar muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

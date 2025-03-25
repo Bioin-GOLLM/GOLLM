@@ -1,0 +1,33 @@
+{
+  "gene": "BAX",
+  "geneID": "12028",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Elevated total and mitochondrial BAX is observed during muscle atrophy, and Bax-knockout attenuates muscle atrophy and mitochondrial apoptotic changes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mitochondrial BAX is elevated during muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Elevation of BAX and alteration of BCL2 are observed, and Bax-knockout attenuates muscle atrophy and apoptotic changes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

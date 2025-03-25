@@ -1,0 +1,51 @@
+{
+  "gene": "mTOR",
+  "geneID": "56717",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "mTOR kinase cooperates with different proteins to form two different complexes: the rapamycin-sensitive TORC1 complex and the rapamycin-insensitive TORC2 complex.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Leucine is an essential amino acid able to increase muscle protein synthesis in C2C12 myotubes by activating the mTOR complex and the 4E binding protein-1 (4E-BP1) signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Raptor and mTOR-deficient mice show decreased growth of fast but not of slow muscle fibers.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BCAA supplementation in older people has been found to improve muscle mass and strength, and the parameters ameliorated by BCAAs action were myofiber CSA, muscle force, and contraction, as well as protein synthesis mediated by the mTOR pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "intracellular signaling cascade",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Most of the effects of clenbuterol are mediated by the Akt-mTOR signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

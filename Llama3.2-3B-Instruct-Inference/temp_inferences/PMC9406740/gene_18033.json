@@ -1,0 +1,60 @@
+{
+  "gene": "NFkappaB",
+  "geneID": "18033",
+  "go_data": [
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kappaB) is a protein complex that functions as a transcription factor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB plays an important role in regulating the immune response to infections.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "In the inactivated state, NF-KB is present in the cytosol, linked to an inhibitory protein.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NF-kappaB is available after IKK-mediated phosphorylation and degradation of IkappaBalpha, allowing it to translocate to the nucleus.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NFkappaB activation in skeletal muscle determines muscle degeneration and inhibits regeneration in dystrophic muscles.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of myoblast differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB inhibits myogenic differentiation through the accumulation of cyclin D1 and the activation of YinYang1 (YY1), a negative regulator of myogenesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

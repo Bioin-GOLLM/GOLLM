@@ -1,0 +1,51 @@
+{
+  "gene": "Akt",
+  "geneID": "11651",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Akt is involved in the PI3K-AKT-mTOR pathways and the Akt-mTOR-p70S6K signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "anabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Akt is mentioned to be involved in the anabolic processes mediated by Akt-mTOR-p70S6K signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of NF-kB can also generate muscle atrophy by opposing myogenic differentiation, and NF-kB also seems to interfere with the IGF1-Akt signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Akt phosphorylation is associated with the level of eIF4e, which is involved in translation initiation, and consequent impairment of protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Akt is part of the IGF1-Akt signaling pathway and the PI3K-AKT-mTOR pathways.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

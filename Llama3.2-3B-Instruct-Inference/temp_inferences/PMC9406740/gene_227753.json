@@ -1,0 +1,33 @@
+{
+  "gene": "gelsolin",
+  "geneID": "227753",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Gelsolin is localized at the level of the Z disk of the sarcomere.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gelsolin is a component of the sarcomere, which is the structural unit of striated muscle tissue responsible for contraction.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Gelsolin is known to bind to actin and regulate actin filament dynamics, which is crucial for muscle contraction.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

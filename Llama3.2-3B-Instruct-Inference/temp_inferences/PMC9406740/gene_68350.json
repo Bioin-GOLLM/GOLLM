@@ -1,0 +1,42 @@
+{
+  "gene": "E3 ubiquitin ligase",
+  "geneID": "68350",
+  "go_data": [
+    {
+      "term": "ubiquitin protein ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "E3 ubiquitin ligase is involved in protein degradation through ubiquitination.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "E3 ubiquitin ligase, such as MuRF1, is upregulated during skeletal muscle atrophy and controls sarcomere muscle protein degradation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein degradation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "E3 ubiquitin ligase, such as TRAF6, promotes the union of Lys63-bound polyubiquitin chains to its target proteins, leading to protein degradation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "E3 ubiquitin ligase, such as MuRF1, is selectively expressed in cardiac and skeletal muscles.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

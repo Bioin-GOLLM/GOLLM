@@ -1,0 +1,42 @@
+{
+  "gene": "ATPase",
+  "geneID": "13417",
+  "go_data": [
+    {
+      "term": "sodium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Na, K ATPase is important in removing Na from the sarcoplasm.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "potassium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Na, K ATPase is involved in the transport of potassium ions.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Na, K ATPase is important in the contractility of skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Na, K ATPase is a membrane-bound enzyme.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

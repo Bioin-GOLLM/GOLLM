@@ -1,0 +1,24 @@
+{
+  "gene": "inducible nitric oxide synthase",
+  "geneID": "18126",
+  "go_data": [
+    {
+      "term": "nitric oxide biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of NF-kappaB increases the expression of the inducible nitric oxide synthase (iNOS) in muscle cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however, iNOS is typically found in the cytosol.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

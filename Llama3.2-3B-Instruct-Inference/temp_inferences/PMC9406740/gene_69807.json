@@ -1,0 +1,42 @@
+{
+  "gene": "Trim32",
+  "geneID": "69807",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Trim32 is described as an E3 ubiquitin ligase, which implies it enables the transfer of ubiquitin to target proteins.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Trim32 is mentioned in the context of muscle atrophy, indicating its involvement in this process.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein degradation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Trim32 is stated to be important for the degradation of actin, tropomyosin, and troponins, which are proteins.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Trim32 causes the loss of desmin Z-bands and thin filaments, which are components of the cytoskeleton in muscle cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

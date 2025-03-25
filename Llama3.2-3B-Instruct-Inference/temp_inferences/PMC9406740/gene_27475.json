@@ -1,0 +1,24 @@
+{
+  "gene": "20S",
+  "geneID": "27475",
+  "go_data": [
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "20S Proteasome is involved in protein degradation through proteolysis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The 20S proteasome is typically found in the cytosol of eukaryotic cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

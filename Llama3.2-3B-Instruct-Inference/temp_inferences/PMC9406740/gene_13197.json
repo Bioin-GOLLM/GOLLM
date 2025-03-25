@@ -1,0 +1,24 @@
+{
+  "gene": "Gadd45a",
+  "geneID": "13197",
+  "go_data": [
+    {
+      "term": "regulation of transcription, DNA-templated",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gadd45a is mentioned as a transcription factor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of Gadd45a can avoid the loss of muscle mass.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

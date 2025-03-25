@@ -1,0 +1,33 @@
+{
+  "gene": "4E-BP1",
+  "geneID": "13685",
+  "go_data": [
+    {
+      "term": "intracellular signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "4E-BP1 is part of an intracellular pathway that controls muscle protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of translation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "4E-BP1 signaling pathway controls muscle protein synthesis, which is a translation process.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "4E-BP1 is involved in an intracellular pathway, implying it is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

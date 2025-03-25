@@ -1,0 +1,134 @@
+[
+  {
+    "gene": "Odorant receptor",
+    "geneID": "258511",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Odorant receptors function in detecting odorants.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "sensory perception of smell",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Odorant receptors are expressed in the olfactory epithelium and are involved in detecting odorants.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "olfactory epithelium",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "Odorant receptors are expressed in the olfactory epithelium.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "sperm chemotaxis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "One human testis-expressed olfactory receptor indicates that it functions in sperm chemotaxis.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MOR28",
+    "geneID": "57269",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MOR28 is an olfactory receptor gene, suggesting it enables olfactory receptor activity.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception of smell",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As an olfactory receptor, MOR28 is involved in detecting chemical stimuli for sensory perception of smell.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "olfactory epithelium",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "MOR28 is expressed in the olfactory epithelium, specifically in zone 4.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MOR10",
+    "geneID": "57270",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MOR10 is an olfactory receptor gene, suggesting it enables olfactory receptor activity.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception of smell",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As an olfactory receptor, MOR10 is involved in detecting chemical stimuli for sensory perception of smell.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "olfactory epithelium",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "MOR10 is expressed in the olfactory epithelium, specifically in zone 4.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OCNC1",
+    "geneID": "12789",
+    "go_data": [
+      {
+        "term": "voltage-gated ion channel activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "OCNC1 is described as a channel gene, implying it has ion channel activity.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      },
+      {
+        "term": "olfactory system development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "X inactivation of the OCNC1 channel gene reveals a role in the olfactory system.",
+        "reference(s)": [
+          "PMC329117"
+        ]
+      }
+    ]
+  }
+]

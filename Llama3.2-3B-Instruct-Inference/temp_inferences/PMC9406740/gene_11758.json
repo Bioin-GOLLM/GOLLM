@@ -1,0 +1,24 @@
+{
+  "gene": "peroxiredoxin-6",
+  "geneID": "11758",
+  "go_data": [
+    {
+      "term": "antioxidant activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Peroxiredoxin-6 (PRDX6) is involved in the antioxidant defense system.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to oxidative stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The reduced synthesis of peroxiredoxin-6 can be responsible for hydrogen peroxide accumulation and thus for the oxidative stress increase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}
