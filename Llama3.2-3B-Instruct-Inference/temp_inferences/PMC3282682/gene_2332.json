@@ -1,0 +1,42 @@
+{
+  "gene": "POF1",
+  "geneID": "2332",
+  "go_data": [
+    {
+      "term": "cytidylyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "POF1 contains the conserved motif HxxH, characteristic of the active site of the cytidylyltransferase family.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pof1p exhibits efficient ATPase activity comparable to Kar2p and p97.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Pof1p is predicted to interact with proteins involved in ERAD, such as Kar2p and Cdc48p.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein retention in ER",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pof1p is predicted to interact with proteins involved in ERAD.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

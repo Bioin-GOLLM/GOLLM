@@ -1,0 +1,24 @@
+{
+  "gene": "BETA2",
+  "geneID": "18012",
+  "go_data": [
+    {
+      "term": "cochlea development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Altered traveling wave propagation and reduced endocochlear potential associated with cochlear dysplasia in the BETA2/NeuroD1 null mouse",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "inner ear morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Altered traveling wave propagation and reduced endocochlear potential associated with cochlear dysplasia in the BETA2/NeuroD1 null mouse",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

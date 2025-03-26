@@ -1,0 +1,24 @@
+{
+  "gene": "NDUFA10",
+  "geneID": "338060",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFA10 is part of the NDUFA5/NDUFA10 interface in the bovine active and deactive states of complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFA10 is involved in the process of cellular respiration as part of complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

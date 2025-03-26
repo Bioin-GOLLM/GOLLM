@@ -1,0 +1,15 @@
+{
+  "gene": "min-1 mg-1",
+  "geneID": "966",
+  "go_data": [
+    {
+      "term": "NADH dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The complex exhibited an NADH oxidoreductase activity comparable to mammalian complex I of 7.3 - 0.3 micromol min-1 mg-1.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

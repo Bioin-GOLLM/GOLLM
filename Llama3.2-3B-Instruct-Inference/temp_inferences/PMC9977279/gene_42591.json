@@ -1,0 +1,42 @@
+{
+  "gene": "NDUFA10",
+  "geneID": "42591",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFA10 is a subunit of mitochondrial respiratory complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Most mitochondrial dGTP is tightly bound to respiratory complex I through the NDUFA10 subunit, indicating its mitochondrial location.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a subunit of complex I, NDUFA10 is involved in cellular respiration.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Most mitochondrial dGTP is tightly bound to respiratory complex I through the NDUFA10 subunit.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

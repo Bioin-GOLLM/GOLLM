@@ -1,0 +1,15 @@
+{
+  "gene": "ml-1",
+  "geneID": "112744",
+  "go_data": [
+    {
+      "term": "NADH dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The highest concentration peak fraction exhibited an NADH oxidoreductase activity comparable to mammalian complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

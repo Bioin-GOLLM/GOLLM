@@ -1,0 +1,33 @@
+{
+  "gene": "ND6",
+  "geneID": "19893555",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ND6 is a subunit of the Drosophila complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "electron transport chain",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ND6 is part of complex I, which is involved in the electron transport chain.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ND6 is a subunit of the mitochondrial complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

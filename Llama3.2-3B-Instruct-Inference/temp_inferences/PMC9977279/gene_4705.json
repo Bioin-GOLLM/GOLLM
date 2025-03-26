@@ -1,0 +1,33 @@
+{
+  "gene": "NDUFA10",
+  "geneID": "4705",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFA10 is a subunit of the mammalian complex, which forms an interface with NDUFA5 between the hydrophilic and membrane domains.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFA10 is part of complex I, which is involved in cellular respiration.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NDUFA10 is a subunit of the mitochondrial respiratory chain complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

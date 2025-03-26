@@ -1,0 +1,15 @@
+{
+  "gene": "mL-1",
+  "geneID": "23961",
+  "go_data": [
+    {
+      "term": "NADH dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The complex exhibited an NADH oxidoreductase activity comparable to mammalian complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

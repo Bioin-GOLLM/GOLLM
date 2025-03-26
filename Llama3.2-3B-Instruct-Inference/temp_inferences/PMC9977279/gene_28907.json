@@ -1,0 +1,24 @@
+{
+  "gene": "beta2",
+  "geneID": "28907",
+  "go_data": [
+    {
+      "term": "ubiquinone binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The NDUFS2-beta1-beta2 loop carries the His97 ligand to bound ubiquinone.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "The beta2 subunit is part of the NDUFS2-beta1-beta2 loop in complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

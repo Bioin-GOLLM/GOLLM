@@ -1,0 +1,33 @@
+{
+  "gene": "ALG10",
+  "geneID": "853142",
+  "go_data": [
+    {
+      "term": "alpha-1,2-glucosyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The ALG10 locus encodes the alpha-1,2 glucosyltransferase of the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The ALG10 locus encodes the alpha-1,2 glucosyltransferase of the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "protein N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The terminal glucose of the lipid-linked oligosaccharide is required for efficient N-linked glycosylation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

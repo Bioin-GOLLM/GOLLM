@@ -1,0 +1,24 @@
+{
+  "gene": "Ush1c",
+  "geneID": "72088",
+  "go_data": [
+    {
+      "term": "hearing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "An antisense oligonucleotide rescues the mutant phenotype of deafness in mice with an Ush1c mutation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "visual perception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "An antisense oligonucleotide rescues the mutant phenotype of blindness in mice with an Ush1c mutation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

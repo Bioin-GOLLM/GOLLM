@@ -1,0 +1,33 @@
+{
+  "gene": "ND2",
+  "geneID": "19893529",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ND2 is a subunit of complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "integral component of membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ND2 has a canonical 14-TMH core structure and is part of the membrane domain.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "electron transport chain",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ND2 is part of complex I, which is involved in the electron transport chain.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

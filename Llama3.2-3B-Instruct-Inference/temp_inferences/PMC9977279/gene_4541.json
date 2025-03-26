@@ -1,0 +1,33 @@
+{
+  "gene": "ND6",
+  "geneID": "4541",
+  "go_data": [
+    {
+      "term": "electron transport chain",
+      "relationship": "part_of",
+      "namespace": "biological_process",
+      "justification": "ND6 is a subunit of complex I, which is involved in electron transport chain.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ND6 is a subunit of complex I, which is located in the mitochondrion.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "NADH dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ND6 is a subunit of complex I, which has NADH dehydrogenase activity.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

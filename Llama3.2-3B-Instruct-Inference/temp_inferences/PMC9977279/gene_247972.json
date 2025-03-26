@@ -1,0 +1,15 @@
+{
+  "gene": "CASTp",
+  "geneID": "247972",
+  "go_data": [
+    {
+      "term": "protein structure",
+      "relationship": "related_to",
+      "namespace": "molecular_function",
+      "justification": "CASTp is a computed atlas of surface topography of proteins.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

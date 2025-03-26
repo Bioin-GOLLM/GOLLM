@@ -1,0 +1,24 @@
+{
+  "gene": "Ubx2p",
+  "geneID": "854995",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Ubx2p is part of the Doa10p complex, which is involved in the ERAD pathway, indicating its location in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein retention in ER",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As part of the Doa10p complex in the ERAD pathway, Ubx2p is involved in the process of retaining proteins in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

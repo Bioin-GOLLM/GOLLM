@@ -1,0 +1,24 @@
+{
+  "gene": "ALG10A",
+  "geneID": "84920",
+  "go_data": [
+    {
+      "term": "dolichyl-phosphate-mannose-protein mannosyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ALG10A is predicted to produce a full-length protein, which is likely involved in the mannosylation of proteins.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a mannosyltransferase, ALG10A is likely located in the endoplasmic reticulum, where protein glycosylation occurs.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

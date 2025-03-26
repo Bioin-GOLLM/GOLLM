@@ -1,0 +1,33 @@
+{
+  "gene": "ND2",
+  "geneID": "2846626",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ND2 is part of complex I, as observed in the 'slack' state of bovine complex I and in a catalytically inactive state of complex I from rhesus macaque.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "electron transport chain",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ND2 is involved in the electron transport chain as part of complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ND2 is located in the mitochondrion as part of complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

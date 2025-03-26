@@ -1,0 +1,33 @@
+{
+  "gene": "Dm2",
+  "geneID": "7354376",
+  "go_data": [
+    {
+      "term": "NADH dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dm2 is a state of Drosophila complex I, which is involved in NADH dehydrogenase activity.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Dm2 is a state of Drosophila complex I, which is part of the mitochondrial respiratory chain complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "electron transport chain",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dm2 is a state of Drosophila complex I, which is involved in the electron transport chain.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

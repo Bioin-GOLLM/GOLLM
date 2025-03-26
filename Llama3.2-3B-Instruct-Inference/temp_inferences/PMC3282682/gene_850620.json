@@ -1,0 +1,42 @@
+{
+  "gene": "ubiquitin",
+  "geneID": "850620",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ubiquitin interacts with various proteins, including ubiquitin conjugating enzymes like Ubc7p, as part of the ubiquitin-proteasome system.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein quality control",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ubiquitin is a key component of the ubiquitin-proteasome system, which is involved in degrading misfolded proteins and maintaining protein quality.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ubiquitin is involved in the endoplasmic reticulum-associated degradation (ERAD) pathway, which takes place in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "ubiquitin-proteasome system",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ubiquitin is a central component of the ubiquitin-proteasome system, which is responsible for degrading proteins marked by ubiquitination.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

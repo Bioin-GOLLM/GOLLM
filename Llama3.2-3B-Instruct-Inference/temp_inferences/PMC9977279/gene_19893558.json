@@ -1,0 +1,33 @@
+{
+  "gene": "ND1",
+  "geneID": "19893558",
+  "go_data": [
+    {
+      "term": "oxidation-reduction process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ND1 is part of complex I, which is involved in the electron transport chain and oxidation-reduction processes.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ND1 is a subunit of complex I, which is located in the mitochondrion.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "electron transport chain",
+      "relationship": "part_of",
+      "namespace": "biological_process",
+      "justification": "ND1 is a subunit of complex I, which is part of the electron transport chain.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "Nas2p",
+  "geneID": "854810",
+  "go_data": [
+    {
+      "term": "proteasome assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nas2p is a protein involved in proteasome assembly.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

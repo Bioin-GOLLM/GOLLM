@@ -1,0 +1,33 @@
+{
+  "gene": "Ufd1p",
+  "geneID": "852939",
+  "go_data": [
+    {
+      "term": "ER-associated ubiquitin-dependent protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ufd1p is part of the Doa10p complex and the p97-Ufd1-Npl4 complex, which are involved in ERAD pathway and retrotranslocation from the ER to the cytosol.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The p97-Ufd1-Npl4 complex is involved in retrotranslocation from the ER to the cytosol.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Ufd1p is part of the Doa10p complex, which is involved in the ERAD pathway.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

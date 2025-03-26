@@ -1,0 +1,33 @@
+{
+  "gene": "NDUFC1",
+  "geneID": "4717",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFC1 is a subunit in the membrane domain of mammalian complex I.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "integral component of membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFC1 is a short, single transmembrane helix-containing subunit.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFC1 is part of complex I, which is involved in cellular respiration.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

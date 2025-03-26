@@ -1,0 +1,15 @@
+{
+  "gene": "ALG8",
+  "geneID": "854233",
+  "go_data": [
+    {
+      "term": "N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ALG8 protein has functional overlap with ALG6 and ALG10B proteins in N-linked glycosylation pathway.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

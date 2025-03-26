@@ -1,0 +1,33 @@
+{
+  "gene": "RET",
+  "geneID": "5979",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RET is mentioned in the context of RET-ROS increase and RET-mediated IR injury, implying a role in signaling.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RET is mentioned in relation to hypoxic or anoxic exposure, suggesting involvement in the cellular response to low oxygen levels.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "response to ischemia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RET is linked to ischemia-reperfusion injury, indicating a role in responding to ischemic conditions.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}

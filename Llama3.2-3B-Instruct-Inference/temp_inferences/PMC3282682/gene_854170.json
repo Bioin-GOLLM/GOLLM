@@ -1,0 +1,33 @@
+{
+  "gene": "Wsc1p",
+  "geneID": "854170",
+  "go_data": [
+    {
+      "term": "cell wall integrity signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Wsc1 and Mid2 are cell surface sensors for cell wall integrity signaling that act through Rom2, a guanine nucleotide exchange factor for Rho1",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Wsc1p is a transmembrane protein that functions as a sensor of plasma membrane/cell wall integrity",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Wsc1 and Mid2 are cell surface sensors for cell wall integrity signaling that act through Rom2, a guanine nucleotide exchange factor for Rho1",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

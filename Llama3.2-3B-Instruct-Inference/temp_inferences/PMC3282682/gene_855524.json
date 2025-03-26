@@ -1,0 +1,24 @@
+{
+  "gene": "Whi3",
+  "geneID": "855524",
+  "go_data": [
+    {
+      "term": "regulation of cell morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Whi3 regulates morphogenesis in budding yeast",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cellular bud formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Whi3 regulates morphogenesis in budding yeast by enhancing Cdk functions in apical growth",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "ALG6",
+  "geneID": "854163",
+  "go_data": [
+    {
+      "term": "N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ALG6 has functional overlap with ALG10B and ALG8 proteins in the N-linked glycosylation pathway.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

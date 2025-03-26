@@ -1,0 +1,1565 @@
+[
+  {
+    "gene": "NDUFA3",
+    "geneID": "4696",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA3 is a subunit of complex I, as indicated by its presence in the membrane domain of the enzyme.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As a subunit of complex I, NDUFA3 is involved in cellular respiration, which is the process by which cells generate energy from the food they consume.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA3 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND6",
+    "geneID": "4541",
+    "go_data": [
+      {
+        "term": "electron transport chain",
+        "relationship": "part_of",
+        "namespace": "biological_process",
+        "justification": "ND6 is a subunit of complex I, which is involved in electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND6 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ND6 is a subunit of complex I, which has NADH dehydrogenase activity.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RET",
+    "geneID": "43875",
+    "go_data": [
+      {
+        "term": "oxidoreduction coenzyme binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RET is involved in ubiquinol:NAD oxidoreduction.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "RET is associated with complex I in mitochondria.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "response to oxidative stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RET-ROS increase is proposed to be involved in a stress-responsive transcriptional programme.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "oxidoreductase",
+    "geneID": "8630",
+    "go_data": [
+      {
+        "term": "oxidoreductase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Mitochondrial complex I (NADH:ubiquinone oxidoreductase) catalyzes NADH oxidation in the mitochondrial matrix coupled to ubiquinone reduction.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrial matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NADH:ubiquinone oxidoreductase catalyzes NADH oxidation in the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mitochondrial complex I is central to respiration and oxidative phosphorylation.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "oxidative phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mitochondrial complex I is central to oxidative phosphorylation.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RET",
+    "geneID": "5979",
+    "go_data": [
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RET is mentioned in the context of RET-ROS increase and RET-mediated IR injury, implying a role in signaling.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RET is mentioned in relation to hypoxic or anoxic exposure, suggesting involvement in the cellular response to low oxygen levels.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "response to ischemia",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RET is linked to ischemia-reperfusion injury, indicating a role in responding to ischemic conditions.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "min-1 mg-1",
+    "geneID": "966",
+    "go_data": [
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The complex exhibited an NADH oxidoreductase activity comparable to mammalian complex I of 7.3 - 0.3 micromol min-1 mg-1.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mL-1",
+    "geneID": "23961",
+    "go_data": [
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The complex exhibited an NADH oxidoreductase activity comparable to mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFC1",
+    "geneID": "4717",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFC1 is a subunit in the membrane domain of mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "integral component of membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFC1 is a short, single transmembrane helix-containing subunit.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFC1 is part of complex I, which is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA2",
+    "geneID": "4695",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA2 is a subunit of mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "oxidative phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As a subunit of complex I, NDUFA2 is involved in oxidative phosphorylation.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA2 is a subunit of mitochondrial complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFC2",
+    "geneID": "4718",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFC2 is a subunit of the mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFC2 is a subunit of complex I, which is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFC2 is a subunit of the mitochondrial complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS1",
+    "geneID": "4719",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFS1 is a subunit in the mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFS1 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFS1 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA11",
+    "geneID": "126328",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA11 is a subunit in the membrane domain of the mammalian complex.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFA11 is part of complex I, which is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA11 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND1",
+    "geneID": "4535",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND1 is a subunit of complex I in the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND1 is involved in the electron transport chain as a subunit of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND1 is located in the mitochondrion as part of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS1",
+    "geneID": "31762",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFS1 is a subunit of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "NDUFS1 is part of complex I, which is involved in electron transport.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND-B8",
+    "geneID": "50178",
+    "go_data": [
+      {
+        "term": "male germline",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA2 (Drosophila ND-B8) expression is restricted principally to the male germline",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND4",
+    "geneID": "19893551",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND4 is mentioned as part of the subunits in the context of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND4 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "integral component of membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND4 is described as having a canonical 14-TMH core structure, indicating it is an integral component of the membrane.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND5",
+    "geneID": "19893549",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND5 is a subunit of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND5 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND5 is a subunit of the mitochondrial respiratory chain complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMHs",
+    "geneID": "38251",
+    "go_data": [
+      {
+        "term": "integral component of membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "TMHs are described as being part of subunits with a canonical core structure, indicating they are integral to the membrane.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The presence of TMHs in subunits like ND2, ND4, and ND5 implies they are located in the membrane.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND2",
+    "geneID": "19893529",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND2 is a subunit of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "integral component of membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND2 has a canonical 14-TMH core structure and is part of the membrane domain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND2 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dm1",
+    "geneID": "33782",
+    "go_data": [
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dm1 is the active resting state of Drosophila complex I, which is part of the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dm1 is a state of Drosophila complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dm1 is the active resting state of Drosophila complex I, which has NADH dehydrogenase activity.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "ubiquinone binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The Dm1 state has a sealed and closed ubiquinone-binding site, indicating that it is capable of binding ubiquinone.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dm2",
+    "geneID": "7354376",
+    "go_data": [
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dm2 is a state of Drosophila complex I, which is involved in NADH dehydrogenase activity.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Dm2 is a state of Drosophila complex I, which is part of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dm2 is a state of Drosophila complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dm3",
+    "geneID": "7354378",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Dm3 is a state of Drosophila complex I, which is part of the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dm3 is a state of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dm3 is a state of Drosophila complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND3",
+    "geneID": "19893542",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND3 is identified as a structural component of mitochondrial respiratory complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND3 is part of respiratory complex I, which is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND3 is a subunit of mitochondrial respiratory complex I, indicating it is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS2",
+    "geneID": "4720",
+    "go_data": [
+      {
+        "term": "ubiquinone binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "NDUFS2-His97 and NDUFS2-Tyr146 are proposed ligating partners for ubiquinone reduction.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFS2 is a subunit of complex I, as indicated by its involvement in the ubiquinone-binding site.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFS2 is part of complex I, which plays a role in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND3",
+    "geneID": "4537",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND3 is mentioned as part of the complex I structure in the context of its role in the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The text discusses the role of ND3 in the context of complex I, which is part of the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "oxidative phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The discussion of complex I and its components, including ND3, implies involvement in oxidative phosphorylation.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND3 is a component of mitochondrial complex I, indicating its location within the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND1",
+    "geneID": "19893558",
+    "go_data": [
+      {
+        "term": "oxidation-reduction process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND1 is part of complex I, which is involved in the electron transport chain and oxidation-reduction processes.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND1 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "part_of",
+        "namespace": "biological_process",
+        "justification": "ND1 is a subunit of complex I, which is part of the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta1",
+    "geneID": "28905",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The beta1 subunit is part of the NDUFS2-beta1-beta2 loop in the mitochondrial complex.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The beta1 subunit is associated with the NDUFS2-beta1-beta2 loop that carries the His97 ligand to bound ubiquinone, indicating involvement in electron transport.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta2",
+    "geneID": "28907",
+    "go_data": [
+      {
+        "term": "ubiquinone binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The NDUFS2-beta1-beta2 loop carries the His97 ligand to bound ubiquinone.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "The beta2 subunit is part of the NDUFS2-beta1-beta2 loop in complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS7",
+    "geneID": "374291",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFS7 is part of the ubiquinone-binding site in the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFS7 is involved in the electron transport chain as part of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFS7 is located in the mitochondrion as part of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND6",
+    "geneID": "19893555",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND6 is a subunit of the Drosophila complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND6 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND6 is a subunit of the mitochondrial complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dm1",
+    "geneID": "28509",
+    "go_data": [
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dm1 is a complex I enzyme, which is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dm1 is a mitochondrial enzyme, as it is part of complex I in the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dm1 is involved in electron transport as part of the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA5",
+    "geneID": "4698",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA5 is a subunit of the mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFA5 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "hydrophilic domain",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA5 is located in the hydrophilic domain of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA10",
+    "geneID": "4705",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA10 is a subunit of the mammalian complex, which forms an interface with NDUFA5 between the hydrophilic and membrane domains.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFA10 is part of complex I, which is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA10 is a subunit of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA5",
+    "geneID": "327714",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA5 is mentioned in the context of the bovine active and deactive states of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFA5 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA10",
+    "geneID": "338060",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA10 is part of the NDUFA5/NDUFA10 interface in the bovine active and deactive states of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFA10 is involved in the process of cellular respiration as part of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS4",
+    "geneID": "327680",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFS4 is a subunit of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFS4 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFS4 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA10",
+    "geneID": "42591",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA10 is a subunit of mitochondrial respiratory complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Most mitochondrial dGTP is tightly bound to respiratory complex I through the NDUFA10 subunit, indicating its mitochondrial location.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As a subunit of complex I, NDUFA10 is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Most mitochondrial dGTP is tightly bound to respiratory complex I through the NDUFA10 subunit.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS2",
+    "geneID": "327697",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFS2 is a subunit of the ubiquinone-binding site in complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NDUFS2 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFS2 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND2",
+    "geneID": "3283878",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND2 is a subunit of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND2 is part of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND2 is a subunit of mitochondrial complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND4L",
+    "geneID": "19893552",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND4L is mentioned within the context of the connecting subdomain between ND1 and ND2, indicating its role in complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND4L is associated with the mitochondrial respiratory chain complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND4L",
+    "geneID": "4539",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND4L is mentioned in the context of complex I, suggesting it is a part of this complex.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND4L is associated with complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA9",
+    "geneID": "40272",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "NDUFA9 is mentioned in the context of complex I, suggesting it is a component of this complex.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NDUFA9 is associated with complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dm2",
+    "geneID": "28508",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dm2 is a state of the enzyme particle that resembles the active state, with characteristics of the mammalian active state enzyme.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "ubiquinone binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The ubiquinone-binding site remains enclosed and sealed from the matrix in the Dm2 state.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dm2 is a state of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND6",
+    "geneID": "3283888",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND6 is mentioned in the context of the structure and conformation of complex I, indicating it is a part of this complex.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND6 is a subunit of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND6 is a mitochondrial gene, indicating it is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND4",
+    "geneID": "2846630",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND4 is part of complex I, as observed in the 'slack' state of bovine complex I and in a catalytically inactive state of complex I from rhesus macaque.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND4 is involved in the electron transport chain as part of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND4 is located in the mitochondrion as part of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND2",
+    "geneID": "2846626",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND2 is part of complex I, as observed in the 'slack' state of bovine complex I and in a catalytically inactive state of complex I from rhesus macaque.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND2 is involved in the electron transport chain as part of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND2 is located in the mitochondrion as part of complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND4",
+    "geneID": "3283886",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND4 is part of the bovine complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND4 is a subunit of complex I, which is involved in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND4 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RET",
+    "geneID": "19713",
+    "go_data": [
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RET is implied to be involved in a catalytic process with complex I, suggesting it has receptor activity.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RET is mentioned in the context of hypoxia and reoxygenation, implying involvement in the cellular response to hypoxia.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ND6",
+    "geneID": "17722",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ND6 is a subunit of complex I, which is involved in the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "electron transport chain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ND6 is part of complex I, which participates in the electron transport chain.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ND6 is a subunit of complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ndi1",
+    "geneID": "854919",
+    "go_data": [
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Expression of yeast Ndi1 rescues a Drosophila complex I assembly defect, implying Ndi1 has NADH dehydrogenase activity.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      },
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Yeast Ndi1 rescues a Drosophila complex I assembly defect, indicating involvement in complex I assembly.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CASTp",
+    "geneID": "247972",
+    "go_data": [
+      {
+        "term": "protein structure",
+        "relationship": "related_to",
+        "namespace": "molecular_function",
+        "justification": "CASTp is a computed atlas of surface topography of proteins.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ml-1",
+    "geneID": "112744",
+    "go_data": [
+      {
+        "term": "NADH dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The highest concentration peak fraction exhibited an NADH oxidoreductase activity comparable to mammalian complex I.",
+        "reference(s)": [
+          "PMC9977279"
+        ]
+      }
+    ]
+  }
+]

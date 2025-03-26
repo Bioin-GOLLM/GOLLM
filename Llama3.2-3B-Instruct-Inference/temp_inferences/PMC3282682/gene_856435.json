@@ -1,0 +1,24 @@
+{
+  "gene": "VMA10",
+  "geneID": "856435",
+  "go_data": [
+    {
+      "term": "vacuole",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The ATPase from vacuole VMA10",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "ATP hydrolysis activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The ATPase from vacuole VMA10",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "NDUFA3",
+  "geneID": "4696",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFA3 is a subunit of complex I, as indicated by its presence in the membrane domain of the enzyme.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a subunit of complex I, NDUFA3 is involved in cellular respiration, which is the process by which cells generate energy from the food they consume.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NDUFA3 is a subunit of complex I, which is located in the mitochondrion.",
+      "reference(s)": [
+        "PMC9977279"
+      ]
+    }
+  ]
+}
