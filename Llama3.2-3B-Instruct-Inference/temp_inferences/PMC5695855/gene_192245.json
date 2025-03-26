@@ -1,0 +1,24 @@
+{
+  "gene": "p20",
+  "geneID": "192245",
+  "go_data": [
+    {
+      "term": "inhibition of translation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p20 competes with eIF4G for binding to eIF4E, inhibiting cap-dependent translation initiation.",
+      "reference(s)": [
+        "PMC5695855"
+      ]
+    },
+    {
+      "term": "translation initiation factor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p20 competes with eIF4G for binding to eIF4E.",
+      "reference(s)": [
+        "PMC5695855"
+      ]
+    }
+  ]
+}
