@@ -1,0 +1,42 @@
+{
+  "gene": "TANK binding kinase 1",
+  "geneID": "56480",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TBK1 phosphorylates and activates IRF3 and IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF3 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 activates IRF3 through phosphorylation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF7 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 activates IRF7 through phosphorylation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TBK1 is described in relation to its effects on IRF3 and IRF7, which are known to be activated in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

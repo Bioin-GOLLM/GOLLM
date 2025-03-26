@@ -1,0 +1,15 @@
+{
+  "gene": "PDF1.2",
+  "geneID": "834469",
+  "go_data": [
+    {
+      "term": "defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PDF1.2 is mentioned alongside other pathogenesis-related genes, implying its involvement in defense response.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

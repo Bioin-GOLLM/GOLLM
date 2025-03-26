@@ -1,0 +1,42 @@
+{
+  "gene": "IFI16",
+  "geneID": "3428",
+  "go_data": [
+    {
+      "term": "intracellular signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFI16 signals to cause type I IFN production in response to DNA viruses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IFI16 recognizes the presence of dsDNA in the cytosol.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "double-stranded DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IFI16 is an innate immune sensor for intracellular DNA, recognizing dsDNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "defense response to virus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFI16 is involved in sensing DNA viruses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

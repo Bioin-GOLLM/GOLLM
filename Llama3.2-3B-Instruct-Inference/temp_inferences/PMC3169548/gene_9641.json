@@ -1,0 +1,60 @@
+{
+  "gene": "IkappaB kinase-epsilon",
+  "geneID": "9641",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IkappaB kinase-epsilon phosphorylates and activates IRF3 and IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF3 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IkappaB kinase-epsilon phosphorylates IRF3, leading to its dimerization and translocation to the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF7 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IkappaB kinase-epsilon phosphorylates IRF7, leading to its activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IkappaB kinase-epsilon is part of a complex that interacts with scaffold proteins in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IkappaB kinase-epsilon plays a role in the activation of IRFs, which are essential for the innate immune response to viruses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IkappaB kinase-epsilon phosphorylates IRF3 and IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

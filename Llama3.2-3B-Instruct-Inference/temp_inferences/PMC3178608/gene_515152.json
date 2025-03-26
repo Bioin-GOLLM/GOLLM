@@ -1,0 +1,69 @@
+{
+  "gene": "melanopsin",
+  "geneID": "515152",
+  "go_data": [
+    {
+      "term": "G-protein coupled photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Opn4.1 bound to the chromophore 11-cis retinal forms a visual pigment that functionally couples to a G-protein in HEK293 cells.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Melanopsin is involved in light detection for vision and circadian regulation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "circadian regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin is involved in circadian regulation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin is expressed in retinal ganglion cells and other photoreceptor cells.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retina",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin is expressed in the retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "detection of light stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin is involved in light detection for vision and circadian regulation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "regulation of circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin is involved in circadian regulation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "M protein",
+  "geneID": "9172",
+  "go_data": [
+    {
+      "term": "negative regulation of type I interferon production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "M protein inhibits type I interferon production by impeding the formation of TRAF3.TANK.TBK1/IKKepsilon complex.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "suppression by virus of host IRF3 activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "M protein inhibits the induction of the IFN-beta promoter by inhibiting IRF3 activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral nucleocapsid",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, removing as per instructions",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

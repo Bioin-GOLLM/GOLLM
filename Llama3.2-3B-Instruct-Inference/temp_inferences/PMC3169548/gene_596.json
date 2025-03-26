@@ -1,0 +1,33 @@
+{
+  "gene": "Bcl-2",
+  "geneID": "596",
+  "go_data": [
+    {
+      "term": "inhibition of apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Bcl-2 proteins have been shown to inhibit apoptosis.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Poxvirus Bcl-2-like proteins, including those similar to Bcl-2, are involved in regulation of host immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Bcl-2-like proteins, such as F1 and N1, have a surface groove for binding BH3 peptides from pro-apoptotic Bcl-2 proteins.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

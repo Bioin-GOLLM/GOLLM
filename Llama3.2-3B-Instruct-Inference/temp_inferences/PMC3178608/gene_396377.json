@@ -1,0 +1,51 @@
+{
+  "gene": "Opsin",
+  "geneID": "396377",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Opsins are G-protein coupled receptors that bind chromophore.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Opsins are photopigments localized to extraocular photoreceptors and are involved in regulating circadian entrainment and seasonal responses.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Opsins mediate light-dependent induction of calcium release and are involved in photoreception.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "integral component of membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Opsins have seven helical transmembrane domains.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "cellular response to light stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Opsins are involved in mediating light-dependent responses.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

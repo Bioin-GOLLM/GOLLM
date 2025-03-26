@@ -1,0 +1,15 @@
+{
+  "gene": "TLR3",
+  "geneID": "142980",
+  "go_data": [
+    {
+      "term": " Toll-like receptor 3 signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR3 participates in the TLR3 pathway in type I IFN induction.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

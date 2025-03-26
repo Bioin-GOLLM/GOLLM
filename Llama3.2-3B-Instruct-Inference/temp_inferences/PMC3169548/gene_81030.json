@@ -1,0 +1,42 @@
+{
+  "gene": "DAI",
+  "geneID": "81030",
+  "go_data": [
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DAI is a cytosolic DNA sensor",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DAI recognizes the presence of dsDNA in the cytosol",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DAI is an activator of innate immune response",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "type I interferon production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DAI signals to cause type I IFN production",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

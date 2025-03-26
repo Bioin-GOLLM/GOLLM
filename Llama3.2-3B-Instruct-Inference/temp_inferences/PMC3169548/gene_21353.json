@@ -1,0 +1,15 @@
+{
+  "gene": "TANK",
+  "geneID": "21353",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TANK co-precipitated with C6, indicating a direct interaction.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

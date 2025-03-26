@@ -1,0 +1,51 @@
+{
+  "gene": "IRF7",
+  "geneID": "3665",
+  "go_data": [
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF7 is described as a transcription factor.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of interferon-beta production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C6 inhibits IFN-beta expression by preventing the activation of IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, IRF7 is expected to localize to the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF7 activation is involved in the response to viral infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF7 interacts with MyD88.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

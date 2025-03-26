@@ -1,0 +1,33 @@
+{
+  "gene": "rhodopsin",
+  "geneID": "6010",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "rhodopsin is activated in classical photoreceptors, rods and cones, for vision.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "visual perception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "rhodopsin is responsible for vision through activation in rods and cones.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor outer segment",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "rhodopsin is found in rods, which are a type of photoreceptor.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

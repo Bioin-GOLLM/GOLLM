@@ -1,0 +1,24 @@
+{
+  "gene": "Gal4",
+  "geneID": "3960",
+  "go_data": [
+    {
+      "term": "DNA-binding transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The DNA-binding domain of Gal4 is used in a fusion protein to measure transactivation activity.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gal4-dependent promoter controls the expression of a luciferase reporter gene.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

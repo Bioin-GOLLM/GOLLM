@@ -1,0 +1,33 @@
+{
+  "gene": "MAVS",
+  "geneID": "57506",
+  "go_data": [
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAVS is a mitochondrial antiviral signalling protein that activates NF-kappaB and IRF3.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MAVS is a mitochondrial antiviral signalling protein.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAVS activates NF-kappaB and IRF3 as part of a signalling cascade.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

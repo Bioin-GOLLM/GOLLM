@@ -1,0 +1,51 @@
+{
+  "gene": "retinoic acid induced gene I",
+  "geneID": "23586",
+  "go_data": [
+    {
+      "term": "double-stranded RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RIG-I senses intracellular double-stranded (ds) RNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "single-stranded RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RIG-I senses single-stranded (ss) RNA containing a 5' triphosphate.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RIG-I has an essential function in double-stranded RNA-induced innate antiviral responses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RIG-I-mediated antiviral responses to single-stranded RNA bearing 5'-phosphates.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RIG-I senses intracellular double-stranded (ds) RNA and single-stranded (ss) RNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

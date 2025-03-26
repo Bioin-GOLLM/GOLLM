@@ -1,0 +1,33 @@
+{
+  "gene": "IRF7",
+  "geneID": "54123",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRF7 translocation into the nucleus is mentioned, indicating its location.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF7 activation is downstream of immune-related kinases TBK1 and IKKepsilon, and is involved in response to Sendai virus infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Constitutively active IRF7 activates the ISRE element, indicating DNA binding capability.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

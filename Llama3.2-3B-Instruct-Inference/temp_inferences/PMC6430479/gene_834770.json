@@ -1,0 +1,51 @@
+{
+  "gene": "ERF5",
+  "geneID": "834770",
+  "go_data": [
+    {
+      "term": "ethylene-activated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF5 is involved in JA/Et-mediated defense against Botrytis cinerea.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "chitin-induced immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF5 is involved in chitin-induced innate immunity response.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "defense response to fungus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF5 plays a role in defense against Botrytis cinerea.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, ERF5 is expected to localize to the nucleus.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ERF5, as an ethylene-responsive element-binding factor, binds to specific DNA sequences.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

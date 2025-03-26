@@ -1,0 +1,33 @@
+{
+  "gene": "TLR7",
+  "geneID": "51284",
+  "go_data": [
+    {
+      "term": "viral RNA detection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR7 senses single-stranded RNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TLR7 is an endosomal toll-like receptor.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR7 signals through the adaptor protein MyD88.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

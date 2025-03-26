@@ -1,0 +1,33 @@
+{
+  "gene": "p65",
+  "geneID": "5970",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p65 accumulation in the nucleus was observed during Sendai virus infection and IL-1 stimulation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "NF-kappaB signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1, an activator of NF-kappaB, caused p65 nuclear translocation, indicating p65's involvement in NF-kappaB signaling.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nuclear translocation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p65 underwent nuclear translocation in response to Sendai virus infection and IL-1 stimulation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

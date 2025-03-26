@@ -1,0 +1,42 @@
+{
+  "gene": "interferon-beta",
+  "geneID": "3456",
+  "go_data": [
+    {
+      "term": "defense response to virus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Interferon-beta is induced in response to viral infection and plays a key role in the anti-viral innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cellular response to viral genome",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Interferon-beta expression is triggered by the detection of viral DNA and RNA by cellular pattern recognition receptors.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "type I interferon signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Interferon-beta acts in an autocrine and paracrine manner to induce the expression of target genes that contribute to anti-viral innate immunity.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Interferon-beta is a cytokine that promotes anti-viral innate immunity and adaptive immune responses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

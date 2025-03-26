@@ -1,0 +1,42 @@
+{
+  "gene": "SINTBAD",
+  "geneID": "9755",
+  "go_data": [
+    {
+      "term": "scaffold protein activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SINTBAD acts as a scaffold protein that associates constitutively with TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C6 is expressed early during infection and is present in both nucleus and cytoplasm, and SINTBAD interacts with C6.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SINTBAD is a novel component of innate antiviral immunity.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SINTBAD is part of a protein complex containing TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

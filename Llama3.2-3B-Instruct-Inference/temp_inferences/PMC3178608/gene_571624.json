@@ -1,0 +1,51 @@
+{
+  "gene": "opn4a",
+  "geneID": "571624",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "opn4a is a melanopsin-related gene, which is known to be involved in photoreception.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "opn4a is expressed in the retina and brain, and its expression is affected by light conditions.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retina",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "opn4a is expressed in the retina, specifically in the inner nuclear layer (INL).",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "brain",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "opn4a is expressed in discrete regions of the brain, including the presumptive preoptic area.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "opn4a expression shows a diurnal rhythm that varies with different photoperiods.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

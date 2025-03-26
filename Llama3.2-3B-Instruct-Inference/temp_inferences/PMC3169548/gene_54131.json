@@ -1,0 +1,33 @@
+{
+  "gene": "IRF3",
+  "geneID": "54131",
+  "go_data": [
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF3 activates the IFN-beta promoter induction, implying it binds to specific DNA sequences.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRF3 translocates into the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of interferon-beta production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF3 activates the IFN-beta promoter induction.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "p65",
+  "geneID": "19697",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p65 translocates from the cytoplasm to the nucleus upon activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p65 is initially located in the cytoplasm before translocation to the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "NF-kappaB signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p65 is a subunit of NF-kappaB and its nuclear translocation is a key step in NF-kappaB activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

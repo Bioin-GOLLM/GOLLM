@@ -1,0 +1,33 @@
+{
+  "gene": "ANAC096",
+  "geneID": "834702",
+  "go_data": [
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ANAC096 is a NAC transcription factor, implying it binds to DNA regulatory regions.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to osmotic stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANAC096 cooperates in osmotic stress responses.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to dehydration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANAC096 cooperates in dehydration stress responses.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

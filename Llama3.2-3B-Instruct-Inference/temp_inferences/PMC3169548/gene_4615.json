@@ -1,0 +1,33 @@
+{
+  "gene": "MyD88",
+  "geneID": "4615",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyD88 is employed by TLR7, TLR8 and TLR9, leading to activation of the kinase IKKalpha.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MyD88 acts as an adaptor protein in TLR signalling pathways, which typically occur in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

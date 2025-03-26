@@ -1,0 +1,15 @@
+{
+  "gene": "PR4",
+  "geneID": "819632",
+  "go_data": [
+    {
+      "term": "defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PR4 is a pathogenesis-related gene, which implies involvement in defense response.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

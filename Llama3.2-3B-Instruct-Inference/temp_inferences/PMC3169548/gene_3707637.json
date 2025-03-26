@@ -1,0 +1,42 @@
+{
+  "gene": "C6L",
+  "geneID": "3707637",
+  "go_data": [
+    {
+      "term": "inhibition of type I interferon production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C6 protein inhibits the induction of the type I IFN response after PRR activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C6 is present in both nucleus and cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C6 is present in both nucleus and cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral virulence",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C6 contributes to VACV virulence.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "gene": "melanopsin",
+  "geneID": "30044",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Melanopsin mediates non-image forming functions such as circadian photoentrainment and sleep.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin is involved in regulating circadian activity.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retinal ganglion cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin is expressed in a small subset of retinal ganglion cells (RGCs) in the mammalian retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin is involved in light detection for vision.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated for melanopsin, however melanopsin is a photopigment and as such is likely located in the plasma membrane, but the text does mention that it is expressed in the retina and likely encodes a functional photopigment.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "G-protein coupled receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Not explicitly stated, however melanopsin is a photopigment and as such is likely a G-protein coupled receptor.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "cellular response to light stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin mediates light-dependent induction of calcium release.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

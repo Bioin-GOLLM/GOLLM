@@ -1,0 +1,33 @@
+{
+  "gene": "IKKalpha",
+  "geneID": "1147",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IKKalpha phosphorylates IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF7 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IKKalpha is involved in the activation of IRF7 through phosphorylation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IKKalpha is involved in signalling pathways and is likely located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

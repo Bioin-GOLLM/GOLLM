@@ -1,0 +1,191 @@
+[
+  {
+    "gene": "Mgat1",
+    "geneID": "100142647",
+    "go_data": [
+      {
+        "term": "acetylglucosaminyltransferase activity",
+        "go_id": "GO:0008375",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Mgat1 encodes GnT-I, which catalyzes the conversion of oligomannose-type N-glycans to hybrid type N-glycans.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "go_id": "GO:0006486",
+        "relationship": [
+          "part_of GO:0009101"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mgat1 is involved in the conversion of oligomannose-type N-glycans to hybrid and complex N-glycans.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "neural tube development",
+        "go_id": "GO:0021915",
+        "relationship": [
+          "part_of GO:0007399",
+          "part_of GO:0043009"
+        ],
+        "namespace": "biological_process",
+        "justification": "The inactivation of Mgat1 in mice causes severe neurological defects and early post-natal death due to maldevelopment of their neural tubes.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "skeletal muscle tissue development",
+        "go_id": "GO:0007519",
+        "relationship": [
+          "part_of GO:0060538"
+        ],
+        "namespace": "biological_process",
+        "justification": "The delay in skeletal muscle development coincides with a reduction in motor and sensory functions in Mgat1b-/- embryos and larvae zebrafish.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "locomotory behavior",
+        "go_id": "GO:0007626",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Inadequate levels of complex-type N-glycans can impair skeletal muscle development, thus coinciding with less efficient locomotor activity in zebrafish.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mgat1b",
+    "geneID": "558524",
+    "go_data": [
+      {
+        "term": "acetylglucosaminyltransferase activity",
+        "go_id": "GO:0008375",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Mgat1b is involved in the transfer of N-acetylglucosamine to growing glycan chains.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "go_id": "GO:0006486",
+        "relationship": [
+          "part_of GO:0009101"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mgat1b is necessary for the proper glycosylation of proteins, as evidenced by the accumulation of oligomannose N-glycans in Mgat1b-/- fish.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "embryo development",
+        "go_id": "GO:0009790",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is required for normal embryonic development, as Mgat1b-/- fish exhibit delayed development and reduced survivability.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "skeletal muscle tissue development",
+        "go_id": "GO:0007519",
+        "relationship": [
+          "part_of GO:0060538"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mgat1b is necessary for proper skeletal muscle development, as Mgat1b-/- fish exhibit delayed skeletal muscle development and impaired locomotor activity.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "cardiac muscle tissue development",
+        "go_id": "GO:0048738",
+        "relationship": [
+          "part_of GO:0007507"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mgat1b is required for normal cardiac muscle development, as Mgat1b-/- fish exhibit delayed cardiac development.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "go_id": "GO:0016477",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is necessary for proper cell migration during embryonic development, as Mgat1b-/- fish exhibit impaired cell migration and reduced survivability.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "glycosylation",
+        "go_id": "GO:0070085",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is involved in the glycosylation of proteins at specific sites.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MGAT2",
+    "geneID": "100000478",
+    "go_data": [
+      {
+        "term": "acetylglucosaminyltransferase activity",
+        "go_id": "GO:0008375",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MGAT2 encodes GnT-II, which is involved in the conversion of hybrid-type N-glycans to complex-type N-glycans.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "go_id": "GO:0006486",
+        "relationship": [
+          "part_of GO:0009101"
+        ],
+        "namespace": "biological_process",
+        "justification": "MGAT2 is involved in the processing of N-glycans to the complex type.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-actin",
+    "geneID": "57934",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Beta-actin is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  }
+]
