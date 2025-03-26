@@ -24,7 +24,7 @@
       "term": "regulation of cardiac hypertrophy",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "TRalpha activity is critical for regulating cardiac hypertrophy in response to T3.",
+      "justification": "TRalpha plays a critical role in regulating cardiac hypertrophy in response to T3.",
       "reference(s)": [
         "PMC5453669"
       ]

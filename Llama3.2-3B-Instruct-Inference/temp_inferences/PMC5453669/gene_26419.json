@@ -12,7 +12,7 @@
       ]
     },
     {
-      "term": "regulation of cardiomyocyte hypertrophy",
+      "term": "regulation of cardiac muscle cell size",
       "relationship": "involved_in",
       "namespace": "biological_process",
       "justification": "JNK signaling is inhibited to attenuate IGF-1-dependent cardiomyocyte hypertrophy.",

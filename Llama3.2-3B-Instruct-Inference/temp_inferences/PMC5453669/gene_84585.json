@@ -15,25 +15,16 @@
       "term": "protein monoubiquitination",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "MuRF1 was found to inhibit PPARalpha in the cardiomyocyte through mono-ubiquitination that enhanced nuclear export without promoting PPARalpha degradation.",
+      "justification": "MuRF1 inhibited PPARalpha-regulated fatty acid oxidation both in vitro and in vivo by multi-mono-ubiquitination of lysines adjacent to the newly identified nuclear export sequence in PPARalpha.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "nucleus",
-      "relationship": "located_in",
-      "namespace": "cellular_component",
-      "justification": "MuRF1 inhibits PPARalpha-regulated fatty acid oxidation by mono-ubiquitinating lysines adjacent to a newly identified nuclear export sequence in PPARalpha, implying nuclear localization.",
-      "reference(s)": [
-        "PMC5453669"
-      ]
-    },
-    {
-      "term": "regulation of fatty acid oxidation",
+      "term": "nuclear export",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "MuRF1 inhibited PPARalpha-regulated fatty acid oxidation both in vitro and in vivo by mono-ubiquitination.",
+      "justification": "MuRF1 had an inhibitory effect on PPARalpha in cardiomyocytes by enhancing nuclear export, not degradation.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -42,7 +33,16 @@
       "term": "negative regulation of transcription by RNA polymerase II",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "MuRF1 inhibits PPARalpha activity, which is a transcription factor, implying a role in regulating transcription.",
+      "justification": "MuRF1 inhibits PPARalpha activity in the cardiomyocyte through mono-ubiquitination that enhanced nuclear export without promoting PPARalpha degradation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The ubiquitin ligase MuRF1 regulates PPARalpha activity in the heart by enhancing nuclear export via monoubiquitination, implying cytoplasmic involvement.",
       "reference(s)": [
         "PMC5453669"
       ]

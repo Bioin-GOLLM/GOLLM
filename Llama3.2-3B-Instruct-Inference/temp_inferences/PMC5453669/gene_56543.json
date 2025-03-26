@@ -24,7 +24,7 @@
       "term": "plasma membrane",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "KCND3 is a potassium channel, which is typically located in the plasma membrane",
+      "justification": "KCND3 is a potassium channel, which is typically membrane-bound",
       "reference(s)": [
         "PMC5453669"
       ]

@@ -6,14 +6,14 @@
       "term": "ubiquitin-protein transferase activity",
       "relationship": "enables",
       "namespace": "molecular_function",
-      "justification": "MuRF2 inhibits PPARgamma1 through mono-ubiquitination.",
+      "justification": "MuRF2 is a muscle-specific ubiquitin ligase that inhibits PPARgamma1 through mono-ubiquitination.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "negative regulation of fatty acid oxidation",
-      "relationship": "involved_in",
+      "term": "fatty acid oxidation",
+      "relationship": "negatively regulates",
       "namespace": "biological_process",
       "justification": "MuRF2 inhibits PPARgamma1, which regulates fatty acid oxidation.",
       "reference(s)": [
@@ -24,7 +24,7 @@
       "term": "protein ubiquitination",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "MuRF2 mono-ubiquitinates PPARgamma1.",
+      "justification": "MuRF2 is involved in the mono-ubiquitination of PPARgamma1.",
       "reference(s)": [
         "PMC5453669"
       ]

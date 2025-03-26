@@ -6,7 +6,7 @@
       "term": "protein binding",
       "relationship": "enables",
       "namespace": "molecular_function",
-      "justification": "CRM1 preferentially binds p53 after p53 mono-ubiquitination.",
+      "justification": "CRM1 preferentially binds p53 after its mono-ubiquitination.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -15,7 +15,7 @@
       "term": "nuclear export",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "CRM1 enhances p53 nuclear export resulting in activity inhibition.",
+      "justification": "CRM1 enhances p53 nuclear export after p53 mono-ubiquitination.",
       "reference(s)": [
         "PMC5453669"
       ]

@@ -3,28 +3,46 @@
   "geneID": "16000",
   "go_data": [
     {
-      "term": "regulation of cardiac muscle hypertrophy",
-      "relationship": "involved_in",
-      "namespace": "biological_process",
-      "justification": "IGF-1 is mentioned to induce physiological hypertrophic response after cardiac injury and is involved in exercise-mediated physiological hypertrophy.",
-      "reference(s)": [
-        "PMC5453669"
-      ]
-    },
-    {
-      "term": "positive regulation of cardiomyocyte hypertrophy",
-      "relationship": "involved_in",
-      "namespace": "biological_process",
-      "justification": "IGF-1 signaling is increased in physiological hypertrophy and MuRF1 inhibits IGF-1-dependent cardiomyocyte hypertrophy.",
-      "reference(s)": [
-        "PMC5453669"
-      ]
-    },
-    {
       "term": "cell growth",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "IGF-1 is involved in driving increases in contractile proteins critical to cardiac function and performance, implying a role in cell growth.",
+      "justification": "IGF-1 mediates increases in cardiomyocyte growth.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiac hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 is involved in physiological hypertrophy induced by exercise.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 signaling proteins are increased by cJun and inhibited by MuRF1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiomyocyte differentiation",
+      "relationship": "not explicitly stated, however 'cardiomyocyte hypertrophy' is mentioned",
+      "namespace": "biological_process",
+      "justification": "None found for differentiation, however 'IGF-1-dependent cardiomyocyte hypertrophy' is mentioned.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "IGF-1 is a secreted protein that acts on cardiomyocytes.",
       "reference(s)": [
         "PMC5453669"
       ]

@@ -15,16 +15,16 @@
       "term": "nucleus",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "p53 nuclear export results in activity inhibition, implying it is normally located in the nucleus.",
+      "justification": "p53 nuclear export resulting in activity inhibition implies it is initially located in the nucleus.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "regulation of cellular process",
+      "term": "protein ubiquitination",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "The multiple levels of regulation by p53 ubiquitination imply p53 is involved in regulating cellular processes.",
+      "justification": "MDM2 mediates p53 mono-ubiquitination, indicating p53 is involved in this process.",
       "reference(s)": [
         "PMC5453669"
       ]

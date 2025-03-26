@@ -28,6 +28,15 @@
       "reference(s)": [
         "PMC5453669"
       ]
+    },
+    {
+      "term": "transcription regulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PPARalpha is a nuclear hormone receptor that regulates gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
     }
   ]
 }

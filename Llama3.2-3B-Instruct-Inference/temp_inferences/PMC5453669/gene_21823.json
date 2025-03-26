@@ -33,7 +33,7 @@
       "term": "cardiac muscle cell differentiation",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "T3 is involved in directing myocyte alignment and geometry.",
+      "justification": "T3 directs myocyte alignment and geometry.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -48,15 +48,6 @@
       ]
     },
     {
-      "term": "regulation of cardiac muscle contraction",
-      "relationship": "involved_in",
-      "namespace": "biological_process",
-      "justification": "T3 mediates direct influences on cardiac function by affecting calcium flux and calcium handling proteins.",
-      "reference(s)": [
-        "PMC5453669"
-      ]
-    },
-    {
       "term": "thyroid hormone receptor binding",
       "relationship": "enables",
       "namespace": "molecular_function",
@@ -66,10 +57,19 @@
       ]
     },
     {
+      "term": "regulation of cardiac muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 mediates direct influences on cardiac function by affecting calcium flux and calcium handling proteins.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
       "term": "cellular response to hormone stimulus",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "Treatment with TH following myocardial infarction is cardioprotective.",
+      "justification": "TH induces molecular changes that benefit the failing heart.",
       "reference(s)": [
         "PMC5453669"
       ]

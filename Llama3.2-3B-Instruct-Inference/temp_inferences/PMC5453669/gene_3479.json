@@ -3,19 +3,10 @@
   "geneID": "3479",
   "go_data": [
     {
-      "term": "growth factor activity",
-      "relationship": "enables",
-      "namespace": "molecular_function",
-      "justification": "IGF1 is mentioned in relation to the IGF1/IGFR system, implying its role as a growth factor.",
-      "reference(s)": [
-        "PMC5453669"
-      ]
-    },
-    {
-      "term": "heart development",
+      "term": "cellular response to thyroid hormone stimulus",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "IGF1 is mentioned in the context of possible relations in the human heart, suggesting involvement in heart development.",
+      "justification": "IGF1 is related to thyroid hormone receptor systems in the human heart.",
       "reference(s)": [
         "PMC5453669"
       ]

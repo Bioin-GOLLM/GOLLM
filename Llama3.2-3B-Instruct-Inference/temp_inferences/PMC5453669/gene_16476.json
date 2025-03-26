@@ -6,7 +6,7 @@
       "term": "regulation of cell growth",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "cJun-mediated increases in IGF-1 signaling proteins are involved in cardiomyocyte growth.",
+      "justification": "cJun-mediated increases in IGF-1 signaling proteins regulate cardiomyocyte growth.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -21,10 +21,10 @@
       ]
     },
     {
-      "term": "nucleus",
-      "relationship": "located_in",
-      "namespace": "cellular_component",
-      "justification": "As a transcription factor, cJun is expected to localize to the nucleus.",
+      "term": "cellular response to mechanical stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "cJun is involved in pressure overload-induced cardiac hypertrophy.",
       "reference(s)": [
         "PMC5453669"
       ]

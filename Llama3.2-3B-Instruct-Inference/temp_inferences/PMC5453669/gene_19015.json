@@ -6,7 +6,7 @@
       "term": "fatty acid oxidation",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "PPARbeta/delta activity is related to fatty acid oxidation, as MuRF3 inhibits PPARbeta activity in vivo.",
+      "justification": "MuRF3 inhibits PPARbeta activity in vivo, implying PPARbeta/delta's role in fatty acid oxidation.",
       "reference(s)": [
         "PMC5453669"
       ]

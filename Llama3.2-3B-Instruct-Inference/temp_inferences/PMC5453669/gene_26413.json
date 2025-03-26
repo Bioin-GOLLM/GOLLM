@@ -6,7 +6,7 @@
       "term": "signal transduction",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "ERK is involved in signaling pathway.",
+      "justification": "ERK is involved in the signaling pathway affected by thyroid hormone.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -24,7 +24,7 @@
       "term": "thyroid hormone signaling pathway",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "Dose-dependent effects of thyroid hormone on post-ischemic cardiac performance: Potential involvement of Akt and ERK signalings",
+      "justification": "ERK signaling pathway is potentially involved in the dose-dependent effects of thyroid hormone.",
       "reference(s)": [
         "PMC5453669"
       ]

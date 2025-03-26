@@ -21,10 +21,10 @@
       ]
     },
     {
-      "term": "cytoplasm",
+      "term": "cell junction",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "PKCalpha is implied to be in the cytoplasm where it can interact with and phosphorylate p120-catenin.",
+      "justification": "PKCalpha activation affects VE-cadherin junctions, indicating its involvement at cell junctions.",
       "reference(s)": [
         "PMC5453669"
       ]

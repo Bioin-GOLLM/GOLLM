@@ -6,16 +6,16 @@
       "term": "protein sumoylation",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "SUMO3 is involved in SUMO modification, a type of post-translational modification.",
+      "justification": "SUMO3 is reported in T3-dependent gene regulation, indicating involvement in protein sumoylation.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "transcription regulation by TR",
-      "relationship": "involved_in",
-      "namespace": "biological_process",
-      "justification": "SUMO3 has been reported in T3-dependent gene regulation, closely matching TR activity.",
+      "term": "transcription regulation by small RNA",
+      "relationship": "None found",
+      "namespace": "None",
+      "justification": "None found",
       "reference(s)": [
         "PMC5453669"
       ]

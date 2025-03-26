@@ -15,7 +15,7 @@
       "term": "cardiac muscle cell differentiation",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "BNP is identified alongside alpha1-skeletal muscle actin, suggesting a role in cardiac cell differentiation.",
+      "justification": "BNP is identified alongside alpha1-skeletal muscle actin and ANF, markers of cardiac hypertrophy and development.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -24,7 +24,7 @@
       "term": "secretion",
       "relationship": "enables",
       "namespace": "molecular_function",
-      "justification": "BNP increase is observed in circulating concentrations, implying secretion.",
+      "justification": "BNP is secreted in response to pathological hypertrophy.",
       "reference(s)": [
         "PMC5453669"
       ]

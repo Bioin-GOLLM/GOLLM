@@ -19,6 +19,15 @@
       "reference(s)": [
         "PMC5453669"
       ]
+    },
+    {
+      "term": "heart",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p38 is activated in myocardial infarction experiment.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
     }
   ]
 }

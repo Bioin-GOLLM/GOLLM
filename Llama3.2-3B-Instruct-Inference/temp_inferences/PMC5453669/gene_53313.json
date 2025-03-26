@@ -6,7 +6,7 @@
       "term": "calcium ion transmembrane transport",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "sarco/endoplasmic reticulum Ca2+-ATPase is affected by MuRF1, which impacts systolic function and contractility, suggesting a role in calcium transport.",
+      "justification": "sarco/endoplasmic reticulum Ca2+-ATPase is affected by MuRF1, which impacts systolic function and contractility, suggesting a role in calcium ion transport.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -16,6 +16,15 @@
       "relationship": "located_in",
       "namespace": "cellular_component",
       "justification": "The gene is named sarco/endoplasmic reticulum Ca2+-ATPase, indicating its location in the sarcoplasmic reticulum.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "calcium-transporting ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The gene's name, sarco/endoplasmic reticulum Ca2+-ATPase, implies that it has calcium-transporting ATPase activity.",
       "reference(s)": [
         "PMC5453669"
       ]

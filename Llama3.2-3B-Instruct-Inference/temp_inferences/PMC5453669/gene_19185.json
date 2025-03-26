@@ -3,19 +3,19 @@
   "geneID": "19185",
   "go_data": [
     {
-      "term": "transcription factor activity",
-      "relationship": "enables",
-      "namespace": "molecular_function",
-      "justification": "AF1 is part of the TRalpha A/B construct, which is associated with the N-terminus, a common location for transcription factor activity.",
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "AF1 is part of the N-terminus of TRalpha, which is a nuclear receptor.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "nucleus",
-      "relationship": "located_in",
-      "namespace": "cellular_component",
-      "justification": "As part of a transcription factor construct, AF1 is likely located in the nucleus.",
+      "term": "transcription regulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AF1 is part of TRalpha, which is involved in regulating gene expression.",
       "reference(s)": [
         "PMC5453669"
       ]

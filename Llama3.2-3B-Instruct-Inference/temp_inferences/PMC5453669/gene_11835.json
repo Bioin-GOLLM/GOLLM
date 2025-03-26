@@ -6,7 +6,7 @@
       "term": "nucleus",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "Androgen receptor is targeted to the proteasome in the absence of ligand and is also involved in nuclear translocation.",
+      "justification": "Androgen receptor is targeted to the nucleus for transcriptional activity.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -15,16 +15,16 @@
       "term": "transcription regulator activity",
       "relationship": "enables",
       "namespace": "molecular_function",
-      "justification": "Proteasome activity is required for androgen receptor transcriptional activity.",
+      "justification": "Androgen receptor transcriptional activity is required in prostate cancer cells.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "prostate cancer cell differentiation",
+      "term": "proteasome-mediated ubiquitin-dependent protein catabolic process",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "Androgen receptor transcriptional activity is regulated in prostate cancer cells.",
+      "justification": "Androgen receptor is targeted to the proteasome in the absence of ligand.",
       "reference(s)": [
         "PMC5453669"
       ]

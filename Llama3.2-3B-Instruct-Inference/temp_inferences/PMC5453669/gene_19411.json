@@ -12,19 +12,19 @@
       ]
     },
     {
-      "term": "protein heterodimerization activity",
-      "relationship": "enables",
-      "namespace": "molecular_function",
-      "justification": "RARgamma heterodimerizes with RXR, indicating it enables protein heterodimerization activity.",
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RARgamma is degraded by the ubiquitin proteasome system, indicating involvement in protein ubiquitination.",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "ubiquitin-proteasome system",
-      "relationship": "involved_in",
-      "namespace": "biological_process",
-      "justification": "RARgamma is degraded by the ubiquitin proteasome system, indicating involvement in this process.",
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RARgamma's degradation by the ubiquitin proteasome system implies interaction with ubiquitin-protein transferase activity.",
       "reference(s)": [
         "PMC5453669"
       ]

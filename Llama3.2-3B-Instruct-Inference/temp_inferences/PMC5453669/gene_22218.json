@@ -15,7 +15,7 @@
       "term": "regulation of transcription by RNA polymerase II",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "SUMO1 modification is reported in T3-dependent gene regulation, matching TR activity and cofactor recruitment to the TRE.",
+      "justification": "SUMO1 modification is reported in T3-dependent gene regulation, closely matching TR activity and cofactor recruitment to the TRE in ChIP assays.",
       "reference(s)": [
         "PMC5453669"
       ]

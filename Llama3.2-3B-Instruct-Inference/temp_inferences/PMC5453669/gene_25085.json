@@ -3,28 +3,19 @@
   "geneID": "25085",
   "go_data": [
     {
-      "term": "cardiac muscle cell differentiation",
+      "term": "catecholamine biosynthetic process",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "TH-induced physiological hypertrophy in cardiomyocytes",
+      "justification": "TH is involved in physiological hypertrophy",
       "reference(s)": [
         "PMC5453669"
       ]
     },
     {
-      "term": "atrial cardiac muscle cell development",
+      "term": "cellular response to thyroid hormone stimulus",
       "relationship": "involved_in",
       "namespace": "biological_process",
-      "justification": "Thyroid hormone replacement therapy attenuates atrial remodeling",
-      "reference(s)": [
-        "PMC5453669"
-      ]
-    },
-    {
-      "term": "heart regeneration",
-      "relationship": "involved_in",
-      "namespace": "biological_process",
-      "justification": "Thyroid hormone replacement therapy reduces atrial fibrillation inducibility in a rat myocardial infarction-heart failure model",
+      "justification": "T3 induced cardiomyocyte hypertrophy",
       "reference(s)": [
         "PMC5453669"
       ]

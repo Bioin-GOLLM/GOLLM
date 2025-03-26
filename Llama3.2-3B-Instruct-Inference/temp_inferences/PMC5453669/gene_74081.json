@@ -15,7 +15,7 @@
       "term": "centrosome",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "CAP350 is defined as a centrosome-associated protein.",
+      "justification": "CAP350 is described as a centrosome-associated protein.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -24,7 +24,7 @@
       "term": "nucleus",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "CAP350 has been found to localize to the nucleus and affect nuclear distribution of TRalpha.",
+      "justification": "CAP350 localization was observed to move from a perinuclear to a pan-nuclear distribution.",
       "reference(s)": [
         "PMC5453669"
       ]
@@ -33,7 +33,7 @@
       "term": "protein binding",
       "relationship": "enables",
       "namespace": "molecular_function",
-      "justification": "CAP350 interacts with TRalpha and MuRF1, indicating a role in protein binding.",
+      "justification": "CAP350 interacts with TRalpha and MuRF1.",
       "reference(s)": [
         "PMC5453669"
       ]

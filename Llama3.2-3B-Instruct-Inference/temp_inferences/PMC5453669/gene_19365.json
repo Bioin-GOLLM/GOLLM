@@ -12,7 +12,7 @@
       ]
     },
     {
-      "term": "double-strand break repair",
+      "term": "double-strand break repair via homologous recombination",
       "relationship": "involved_in",
       "namespace": "biological_process",
       "justification": "Rad52 is involved in the repair of DNA double-strand breaks.",

@@ -21,10 +21,10 @@
       ]
     },
     {
-      "term": "fatty acid oxidation",
-      "relationship": "negatively regulates",
-      "namespace": "biological_process",
-      "justification": "MuRF3 inhibits PPARbeta activity, which is involved in regulating fatty acid oxidation.",
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however MuRF3 is a muscle-specific ubiquitin ligase which typically functions in the cytoplasm.",
       "reference(s)": [
         "PMC5453669"
       ]

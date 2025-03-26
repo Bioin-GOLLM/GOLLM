@@ -15,7 +15,7 @@
       "term": "cell junction",
       "relationship": "located_in",
       "namespace": "cellular_component",
-      "justification": "VE-cadherin forms junctions that are disassembled by PKCalpha activation, indicating location at cell junctions.",
+      "justification": "VE-cadherin junctions are mentioned, indicating VE-cadherin is located in cell junctions.",
       "reference(s)": [
         "PMC5453669"
       ]
