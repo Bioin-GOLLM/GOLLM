@@ -1,0 +1,91 @@
+[
+  {
+    "gene": "insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "glucose homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin is used in the treatment of type 1 diabetes, which is characterized by impaired glucose homeostasis.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      },
+      {
+        "term": "regulation of blood glucose levels",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin therapy is used to regulate blood glucose levels in individuals with diabetes.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      },
+      {
+        "term": "cellular response to glucose stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin is released in response to elevated glucose levels and facilitates glucose uptake in cells.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      },
+      {
+        "term": "peptide hormone receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Insulin binds to its receptor, triggering a signaling cascade that regulates glucose metabolism.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Insulin is secreted into the extracellular space, where it can interact with its receptor on the surface of target cells.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "has",
+    "geneID": "3036",
+    "go_data": []
+  },
+  {
+    "gene": "glucagon",
+    "geneID": "2641",
+    "go_data": [
+      {
+        "term": "hormone activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Glucagon is used as a treatment for severe hypoglycaemia, indicating its role as a hormone.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      },
+      {
+        "term": "glucose homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Glucagon treatment is used to counteract severe hypoglycaemia, suggesting its involvement in glucose homeostasis.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      },
+      {
+        "term": "blood",
+        "relationship": "secreted_by",
+        "namespace": "cellular_component",
+        "justification": "Glucagon is administered intramuscularly to treat severe hypoglycaemia, implying it is secreted into the blood.",
+        "reference(s)": [
+          "PMC9050729"
+        ]
+      }
+    ]
+  }
+]

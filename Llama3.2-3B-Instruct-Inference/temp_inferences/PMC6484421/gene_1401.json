@@ -1,0 +1,24 @@
+{
+  "gene": "CRP",
+  "geneID": "1401",
+  "go_data": [
+    {
+      "term": "acute-phase response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CRP is mentioned alongside other inflammation-related genes, such as IL-1beta, which are significantly up-regulated in atrial appendages of AF patients.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CRP is described as an inflammatory factor, with its obvious increase found in atrial appendage tissue of AF patients.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

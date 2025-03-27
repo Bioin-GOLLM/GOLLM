@@ -1,0 +1,42 @@
+{
+  "gene": "miR-21",
+  "geneID": "406991",
+  "go_data": [
+    {
+      "term": "negative regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-21 is involved in a variety of biological processes and diseases by inhibiting the protein translation process of the target gene.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "fibrosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-21 is involved in multiple pro-fibrotic pathways by targeting Spry1, PIAS3, Smad7, and Jagged1.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "regulation of atrial fibrillation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-21 participates in the development of atrial fibrillation through fibrosis-related target genes.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "microRNA-mediated gene silencing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-21 inhibits the protein translation process of the target gene.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

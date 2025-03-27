@@ -1,0 +1,51 @@
+{
+  "gene": "Smad3",
+  "geneID": "4088",
+  "go_data": [
+    {
+      "term": "transcription coregulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Smad3 activation modulates miR-23b-3p and miR-27b-3p expression.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "atrial fibrosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Smad3 signalling pathway was activated in Ang-II-treated HAFs to promote atrial fibrosis.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Smad3 accumulated in the nuclei of HAFs after transfection with miR-23b-3p, miR-27b-3p and TGFBR3 siRNA.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Smad3 activation modulates miR-23b-3p and miR-27b-3p expression through the Smad3 signalling pathway.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The phosphorylation level of Smad3 was significantly increased in HAFs at 10 minutes in response to Ang-II treatment.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

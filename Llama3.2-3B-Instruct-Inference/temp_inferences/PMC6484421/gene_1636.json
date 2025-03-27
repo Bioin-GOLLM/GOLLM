@@ -1,0 +1,24 @@
+{
+  "gene": "ACE1",
+  "geneID": "1636",
+  "go_data": [
+    {
+      "term": "peptidyl-dipeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ACE1 is known for its role in converting angiotensin I to angiotensin II, a function that involves peptidyl-dipeptidase activity.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "blood vessel",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ACE1 is associated with the renin-angiotensin-aldosterone system (RAAS), which plays a crucial role in regulating blood pressure and is primarily located in blood vessels.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

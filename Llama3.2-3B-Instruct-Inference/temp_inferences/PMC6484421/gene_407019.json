@@ -1,0 +1,42 @@
+{
+  "gene": "miR-27b",
+  "geneID": "407019",
+  "go_data": [
+    {
+      "term": "negative regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-27b targets PPAR-gamma, ALK5, and other genes to regulate their expression.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "regulation of fibrosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-27b contributes to cardiac dysfunction with enhanced myocardial fibrosis and attenuated angiotensin II-induced atrial fibrosis.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "microRNA-mediated gene silencing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "miR-27b targets specific genes, such as TGIF1, PTEN, and PPAR-gamma, to regulate their expression.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "miR-27b is a microRNA, which is typically located in the cytoplasm.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

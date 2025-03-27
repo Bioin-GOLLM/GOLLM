@@ -1,0 +1,24 @@
+{
+  "gene": "IL-1beta",
+  "geneID": "3553",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1beta is described as an inflammation-related gene that is significantly up-regulated in atrial appendages of AF patients.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-1beta is implied to have cytokine activity as it is mentioned alongside other inflammatory factors.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

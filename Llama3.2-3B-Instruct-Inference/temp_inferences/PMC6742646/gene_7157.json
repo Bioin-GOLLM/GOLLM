@@ -1,0 +1,13 @@
+{
+  "gene": "TP53",
+  "geneID": "7157",
+  "go_data": [
+    {
+      "term": "None found",
+      "justification": "No explicit evidence in the text supports any specific Gene Ontology term for TP53.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

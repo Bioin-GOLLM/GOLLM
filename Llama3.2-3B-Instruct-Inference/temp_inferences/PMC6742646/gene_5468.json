@@ -1,0 +1,24 @@
+{
+  "gene": "PPARG",
+  "geneID": "5468",
+  "go_data": [
+    {
+      "term": "glucose homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The P12A polymorphism of PPARG increases risk for type 2 diabetes.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "response to drug",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PPARG is involved in response to troglitazone.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

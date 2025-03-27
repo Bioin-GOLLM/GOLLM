@@ -1,0 +1,51 @@
+{
+  "gene": "Ran",
+  "geneID": "5901",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ran is a small GTPase.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    },
+    {
+      "term": "GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ran has intrinsic GTPase activity.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Ran is involved in regulating nuclear functions.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    },
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ran regulates gene expression by interacting with transcription factors.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    },
+    {
+      "term": "cell cycle",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ran is involved in regulating cell cycle progression.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    }
+  ]
+}

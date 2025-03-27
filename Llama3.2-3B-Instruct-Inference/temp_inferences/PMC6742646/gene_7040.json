@@ -1,0 +1,33 @@
+{
+  "gene": "TGFbeta",
+  "geneID": "7040",
+  "go_data": [
+    {
+      "term": "cellular response to growth stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta is implicated in the TGFbeta/SMAD signaling pathway, which is involved in the formation of juvenile polyposis, suggesting a role in cellular response to growth stimulus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta is part of the TGFbeta/SMAD signaling pathway, indicating involvement in signal transduction.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "transforming growth factor beta receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta is directly mentioned as part of the TGFbeta/SMAD signaling pathway.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

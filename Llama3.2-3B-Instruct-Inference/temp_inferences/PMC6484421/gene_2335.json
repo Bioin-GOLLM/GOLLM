@@ -1,0 +1,33 @@
+{
+  "gene": "FN1",
+  "geneID": "2335",
+  "go_data": [
+    {
+      "term": "extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FN1 mRNA expression is up-regulated in atrial appendages of AF patients, suggesting a role in fibrosis.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "fibrinogen binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Not explicitly stated in the text, however FN1 is known to bind fibrinogen.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "FN1 is a component of the extracellular matrix.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

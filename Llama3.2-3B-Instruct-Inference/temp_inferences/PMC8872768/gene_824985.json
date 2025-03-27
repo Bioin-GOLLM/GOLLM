@@ -1,0 +1,24 @@
+{
+  "gene": "AtXI-J",
+  "geneID": "824985",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "AtXI-J is a myosin XI, which is a type of motor protein associated with the cytoskeleton.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "microfilament motor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "As a myosin XI, AtXI-J is expected to have microfilament motor activity, although the text does not explicitly confirm this for AtXI-J.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

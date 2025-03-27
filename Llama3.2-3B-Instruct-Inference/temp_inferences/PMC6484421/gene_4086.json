@@ -1,0 +1,42 @@
+{
+  "gene": "Smad1",
+  "geneID": "4086",
+  "go_data": [
+    {
+      "term": "transforming growth factor beta receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Smad1 inactivation and Smad3 activation mediate the pro-fibrotic effects of miR-23b-3p, miR-27b-3p and TGFBR3 siRNA in atrial fibrosis.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Phosphorylated Smad1 (p-Smad1) was decreased, but no direct information about Smad1 location is provided, however Smad3 accumulated in the nuclei of HAFs, and given the context, Smad1 is likely to be in the nucleus as well.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "intracellular signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The activation of Smad1 through TGFBR3 and the negative modulation between p-Smad1 and p-Smad3 were in agreement with the previous report.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Phosphorylated Smad1 (p-Smad1) was decreased.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

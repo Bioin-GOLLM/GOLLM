@@ -1,0 +1,33 @@
+{
+  "gene": "collagen, type I, alpha 1",
+  "geneID": "1277",
+  "go_data": [
+    {
+      "term": "fibril organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "COL1A1 is a key component of collagen fibrils, which are essential for tissue structure and function.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "COL1A1 is a major component of the extracellular matrix in connective tissue.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "fibrosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "COL1A1 expression is increased in atrial fibrosis, suggesting its involvement in the fibrotic process.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

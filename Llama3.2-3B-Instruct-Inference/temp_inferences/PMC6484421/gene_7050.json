@@ -1,0 +1,24 @@
+{
+  "gene": "TGIF1",
+  "geneID": "7050",
+  "go_data": [
+    {
+      "term": "negative regulation of TGF-beta signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGIF1 is targeted by miR-23b to activate TGF-beta1/Smad2/3 signalling.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "regulation of cardiac fibroblast activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of miR-23b could alleviate cardiac fibrosis by targeting TGIF1 to activate TGF-beta1/Smad2/3 signalling in cardiac fibroblasts.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

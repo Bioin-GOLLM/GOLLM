@@ -1,0 +1,24 @@
+{
+  "gene": "Apelin",
+  "geneID": "8862",
+  "go_data": [
+    {
+      "term": "regulation of blood pressure",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Apelin is associated with RAAS (Renin-Angiotensin-Aldosterone System), which plays a crucial role in regulating blood pressure.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "atrial appendage",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "No significant changes of RAAS-associated genes, such as ACE1, ACE2 and Apelin were observed in the atrial appendages of AF patients.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

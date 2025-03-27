@@ -1,0 +1,329 @@
+[
+  {
+    "gene": "myosin",
+    "geneID": "396902",
+    "go_data": [
+      {
+        "term": "motor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Myosins are motor proteins that convert chemical energy, ATP, to physical force to move actin filaments.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "actin filament binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Myosins bind to actin filaments and move them.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoplasmic streaming",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cytoplasmic streaming in plants is caused by myosin XI-bound organelle movement along actin filaments.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cellular component movement",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myosins are involved in the movement of cellular components, such as vesicles, along actin filaments.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Myosins are associated with the cytoskeleton, specifically actin filaments.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "528168",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Actin binds to myosin, enabling myosin to move along actin filaments.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Actin filaments are a component of the cytoskeleton and play a role in its organization.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Actin filaments are found in the cytoplasm of cells.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "823805",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Structural analyses and mutation experiments suggest that the central regions that define Chara myosin XI's fast movement are the actin-binding sites.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myosin VI",
+    "geneID": "397085",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Cryo-EM structures reveal specialization at the myosin VI-actin interface.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "microfilament motor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Myosin VI is a processive motor with a large step size.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Myosin VI interacts with actin, a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myosin VI is compared to other myosins involved in muscle contraction, such as myosin II.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AtXI-A",
+    "geneID": "839480",
+    "go_data": [
+      {
+        "term": "cytoskeleton-dependent intracellular transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AtXI-A is a myosin XI, which is involved in cytoskeleton-dependent intracellular transport.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cellular component movement",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AtXI-A is a myosin XI, which is involved in cellular component movement.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "AtXI-A is a myosin XI, which is part of the cytoskeleton.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AtXI-D",
+    "geneID": "817886",
+    "go_data": [
+      {
+        "term": "cytoskeleton-dependent intracellular transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AtXI-D is a myosin XI, which is involved in cytoskeleton-dependent intracellular transport.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "calmodulin binding",
+        "relationship": "not enables",
+        "namespace": "molecular_function",
+        "justification": "The IQ motif sequences of AtXI-D are far from the typical calmodulin-binding motif and coexpression with calmodulin did not yield functional myosin.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AtXI-I",
+    "geneID": "829456",
+    "go_data": [
+      {
+        "term": "cytoskeleton-dependent intracellular transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AtXI-I is a plant myosin XI, which is involved in intracellular transport.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "calmodulin binding",
+        "relationship": "not enables",
+        "namespace": "molecular_function",
+        "justification": "The IQ motif sequences of AtXI-I are far from the typical calmodulin-binding motif.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "microfilament motor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "AtXI-I is a myosin, which has motor activity.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AtXI-J",
+    "geneID": "824985",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "AtXI-J is a myosin XI, which is a type of motor protein associated with the cytoskeleton.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "microfilament motor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "As a myosin XI, AtXI-J is expected to have microfilament motor activity, although the text does not explicitly confirm this for AtXI-J.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AtXI-F",
+    "geneID": "817748",
+    "go_data": [
+      {
+        "term": "calmodulin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Calmodulin binds to the six IQ motifs of AtXI-F as light chains.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MYA2",
+    "geneID": "834412",
+    "go_data": [
+      {
+        "term": "ATPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MYA2 has ATPase activity that is more stable than those of Chara myosins.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoskeleton-dependent intracellular transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "No direct evidence, however MYA2 is a myosin, which typically plays a role in this process, but since it is not explicitly stated, this should not be included.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "733615",
+    "go_data": [
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Actin is a key component of the cytoskeleton and its interactions with myosins suggest a role in cytoskeleton organization.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Actin binds to myosins, as evidenced by the acto-CcXI and acto-CbXI-1 models and the footprint analyses of the actin-binding sites.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a component of the cytoskeleton, actin is located in the cytoplasm.",
+        "reference(s)": [
+          "PMC8872768"
+        ]
+      }
+    ]
+  }
+]

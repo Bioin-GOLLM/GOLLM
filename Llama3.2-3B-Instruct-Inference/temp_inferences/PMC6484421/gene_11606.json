@@ -1,0 +1,42 @@
+{
+  "gene": "Ang-II",
+  "geneID": "11606",
+  "go_data": [
+    {
+      "term": "peptide hormone receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ang-II can stimulate NADPH oxidases 2 (Nox2) activity through the TGF-beta1 pathway.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "atrial fibrosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ang-II-induced HAFs were used as a cell model of atrial fibrosis.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "Smad3 signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Smad3 signalling has been shown to participate in cardiac fibrosis and was activated in Ang-II-treated HAFs.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cellular response to angiotensin",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ang-II-treated HAFs were used to study the effects of Ang-II on cell proliferation and migration.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

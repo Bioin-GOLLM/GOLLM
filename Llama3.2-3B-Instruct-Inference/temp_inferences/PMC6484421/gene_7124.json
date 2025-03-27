@@ -1,0 +1,15 @@
+{
+  "gene": "TNF-alpha",
+  "geneID": "7124",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF-alpha is mentioned alongside other inflammation-related genes, such as IL-1beta and CRP.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

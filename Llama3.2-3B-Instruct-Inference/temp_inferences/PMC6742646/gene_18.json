@@ -1,0 +1,24 @@
+{
+  "gene": "ABAT",
+  "geneID": "18",
+  "go_data": [
+    {
+      "term": "metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ABAT is an enzyme involved in the metabolism of certain compounds.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "enzyme activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ABAT is described as an enzyme, implying it has catalytic activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

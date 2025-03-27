@@ -1,0 +1,33 @@
+{
+  "gene": "angiotensin II",
+  "geneID": "183",
+  "go_data": [
+    {
+      "term": "atrial fibrosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atrial overexpression of microRNA-27b attenuates angiotensin II-induced atrial fibrosis",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cardiac dysfunction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpression of miR-27b in cardiomyocytes contributes to cardiac dysfunction with enhanced myocardial fibrosis, and angiotensin II is mentioned in the context of this process",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "blood vessel",
+      "relationship": "acts_on",
+      "namespace": "cellular_component",
+      "justification": "Angiotensin II is known to have effects on blood vessels, although this is not explicitly stated in the text, it is implied through its involvement in fibrosis",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

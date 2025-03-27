@@ -1,0 +1,33 @@
+{
+  "gene": "N-Cadherin",
+  "geneID": "1000",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "N-Cadherin is involved in AKT/N-Cadherin signalling.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "N-Cadherin is involved in cell adhesion processes.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "N-Cadherin is involved in cell-cell adhesion, which occurs at cell junctions.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

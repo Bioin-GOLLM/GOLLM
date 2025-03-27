@@ -1,0 +1,33 @@
+{
+  "gene": "TGFBR2",
+  "geneID": "7048",
+  "go_data": [
+    {
+      "term": "transforming growth factor beta-activated receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TGFBR2 is mentioned in the context of TGF-beta1 receptor complex formation.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFBR2 is part of the TGF-beta signaling pathway, which is a cell surface receptor signaling pathway.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, TGFBR2 is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}

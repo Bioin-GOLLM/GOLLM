@@ -1,0 +1,15 @@
+{
+  "gene": "PTEN",
+  "geneID": "5728",
+  "go_data": [
+    {
+      "term": "negative regulation of protein kinase B signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PTEN is targeted by miR-23b to activate AKT/N-Cadherin signalling in cardiac fibroblasts.",
+      "reference(s)": [
+        "PMC6484421"
+      ]
+    }
+  ]
+}
