@@ -1,0 +1,24 @@
+{
+  "gene": "IL-1",
+  "geneID": "111343",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-1 stimulated cells, indicating its role as a cytokine.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cellular response to cytokine stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cells were stimulated with IL-1, triggering a response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

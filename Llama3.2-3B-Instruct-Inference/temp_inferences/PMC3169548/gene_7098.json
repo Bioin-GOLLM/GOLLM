@@ -1,0 +1,51 @@
+{
+  "gene": "TLR3",
+  "geneID": "7098",
+  "go_data": [
+    {
+      "term": "double-stranded RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TLR3 senses dsRNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral RNA detection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR3 senses dsRNA, aiding in the detection of viruses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TLR3 is an endosomal toll-like receptor.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR3 activates signalling pathways via TRIF.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR3 is involved in sensing viruses and activating immune response pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

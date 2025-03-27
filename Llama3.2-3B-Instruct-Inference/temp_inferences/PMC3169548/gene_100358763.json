@@ -1,0 +1,51 @@
+{
+  "gene": "IRF7",
+  "geneID": "100358763",
+  "go_data": [
+    {
+      "term": "DNA-binding transcription activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF7 is a transcription factor that participates in the induction of the IFN-beta promoter in response to PRR signalling.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Once activated, IRF7 translocates to the nucleus to regulate the expression of target genes.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF7 plays an important role in anti-viral responses and is essential for the induction of IFN-alpha genes.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of interferon-beta production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF7 is particularly important for the continued expression of IFN-beta during viral infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRF7 is present at low levels in most cells before being induced and activated.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

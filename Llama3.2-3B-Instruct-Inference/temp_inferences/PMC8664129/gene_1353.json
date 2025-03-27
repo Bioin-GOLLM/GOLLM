@@ -1,0 +1,24 @@
+{
+  "gene": "COX11",
+  "geneID": "1353",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "COX11 is associated with individual structural subunits of complex IV, supporting a putative role in COX assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "COX11 is associated with the assembly of complex IV, which is a component of the mitochondrial respiratory chain.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

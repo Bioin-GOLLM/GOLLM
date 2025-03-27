@@ -1,0 +1,51 @@
+{
+  "gene": "NAP1",
+  "geneID": "100009129",
+  "go_data": [
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NAP1 exists in complexes with the kinases TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "scaffold protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NAP1 acts as a scaffold protein for TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NAP1 interacts with TBK1 and IKKepsilon, which are cytoplasmic kinases.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NAP1 is involved in the signalling pathways activated by RLRs and TLR3, which are part of the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein-protein interactions",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NAP1 interacts with C6, TBK1, and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

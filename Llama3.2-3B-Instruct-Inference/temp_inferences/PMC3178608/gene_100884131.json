@@ -1,0 +1,42 @@
+{
+  "gene": "opn4b",
+  "geneID": "100884131",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "opn4b is a melanopsin-related gene, which suggests it has photoreceptor activity.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "inner nuclear layer of retina",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Strong expression of opn4b was found in distinct sublaminae of the INL.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The products of opn4b could provide necessary light information to zebrafish embryos before the retina is completely functional.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "somite",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "opn4b is expressed outside of the nervous system at 1 dpf, in cells within trunk and tail somites.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

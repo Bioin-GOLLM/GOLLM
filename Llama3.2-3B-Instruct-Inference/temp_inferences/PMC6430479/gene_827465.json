@@ -1,0 +1,15 @@
+{
+  "gene": "At4G17505",
+  "geneID": "827465",
+  "go_data": [
+    {
+      "term": "unknown",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "At4G17505 is annotated as a gene encoding a putative protein domain with unknown function (DUF239).",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

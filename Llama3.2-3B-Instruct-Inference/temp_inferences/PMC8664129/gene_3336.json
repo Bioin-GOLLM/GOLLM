@@ -1,0 +1,33 @@
+{
+  "gene": "HSP10",
+  "geneID": "3336",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HSP10 is described as one of the most abundant mitochondrial proteins.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HSP10 is referred to as a chaperone, which implies involvement in protein folding.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "chaperone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HSP10 is identified as a chaperone, indicating it enables chaperone activity.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

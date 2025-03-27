@@ -1,0 +1,24 @@
+{
+  "gene": "Metallo-beta-lactamase domain containing protein 2",
+  "geneID": "153364",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MBLAC2 may function at the outer membrane/cytosol interface.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MBLAC2 copurified with several proteins including MARCH5, HAX1, RMDN3, and MAVS.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

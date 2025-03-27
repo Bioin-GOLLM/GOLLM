@@ -1,0 +1,42 @@
+{
+  "gene": "MIGA2",
+  "geneID": "84895",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MIGA2 was reported to have mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "de novo lipogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MIGA2 promotes de novo lipogenesis in adipocytes.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MIGA2 links mitochondria, the ER, and lipid droplets.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "lipid droplet",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MIGA2 links mitochondria, the ER, and lipid droplets.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

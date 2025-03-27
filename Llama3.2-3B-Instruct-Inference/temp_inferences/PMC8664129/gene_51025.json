@@ -1,0 +1,24 @@
+{
+  "gene": "PAM16",
+  "geneID": "51025",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PAM16 interacts with the TIM23 complex, which is associated with the mitochondrial inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PAM16 is part of the TIM23-PAM machinery, suggesting its involvement in the assembly of protein complexes.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

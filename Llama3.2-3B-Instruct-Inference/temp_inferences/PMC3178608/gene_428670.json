@@ -1,0 +1,24 @@
+{
+  "gene": "neuropsin",
+  "geneID": "428670",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Neuropsin is localized to extraocular photoreceptors.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "extraocular photoreceptor",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Neuropsin is localized to extraocular photoreceptors.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

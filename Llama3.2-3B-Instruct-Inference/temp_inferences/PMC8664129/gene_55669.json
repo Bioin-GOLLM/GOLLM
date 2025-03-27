@@ -1,0 +1,33 @@
+{
+  "gene": "MFN1",
+  "geneID": "55669",
+  "go_data": [
+    {
+      "term": "mitochondrial fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MFN1 is a dynamin-like mitochondrial GTPase fusion protein involved in mitochondrial fusion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "outer mitochondrial membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MFN1 is an outer membrane protein.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MFN1 is a dynamin-like mitochondrial GTPase fusion protein.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "MSH2",
+  "geneID": "17685",
+  "go_data": [
+    {
+      "term": "mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MSH2 is involved in the mismatch repair pathway.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MSH2 is involved in repairing a variety of mismatches and participates in recombination during meiosis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MSH2 is a nuclear protein involved in DNA repair.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "germ cell development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MSH2 is involved in maintaining DNA integrity in the germline.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

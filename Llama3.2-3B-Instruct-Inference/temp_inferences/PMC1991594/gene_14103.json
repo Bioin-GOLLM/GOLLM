@@ -1,0 +1,33 @@
+{
+  "gene": "FASL",
+  "geneID": "14103",
+  "go_data": [
+    {
+      "term": "induction of apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FASL is capable of initiating apoptosis in response to binding its ligand.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FASL binds to its receptor FAS, which is a transmembrane receptor protein, implying FASL is located at the cell surface.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FASL initiates apoptosis in response to binding its ligand.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

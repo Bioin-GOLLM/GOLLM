@@ -1,0 +1,33 @@
+{
+  "gene": "MLH3",
+  "geneID": "217716",
+  "go_data": [
+    {
+      "term": "meiotic recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MLH3 is involved in meiosis, similar to MLH1 which is found at sites of meiotic crossing over.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "centromere",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MSH2-MSH3 dimers form complexes on repetitive sequences at centromeres during meiotic prophase.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MLH3 is one of the MutL homologs, which are involved in mismatch repair.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "gene": "IRF3",
+  "geneID": "103346571",
+  "go_data": [
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF3 binds to specific DNA sequences to activate transcription.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF3 is involved in the defense response against viral infections.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRF3 translocates to the nucleus to activate transcription.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "transcriptional activation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF3 activates transcription of target genes, such as IFN-beta and CCL5.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRF3 is initially located in the cytoplasm before translocating to the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF3 is phosphorylated by TBK1 and IKKepsilon, leading to its activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "IKKbeta",
+  "geneID": "3551",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IKKbeta is involved in the phosphorylation of the inhibitor of NF-kappaB (IkappaB).",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "I-kappaB kinase/NF-kappaB signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IKKbeta phosphorylates IkappaB, leading to its degradation and the subsequent activation of NF-kappaB.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IKKbeta is involved in the phosphorylation of IkappaB in the cytoplasm, prior to NF-kappaB activation and nuclear translocation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "gene": "Mgat1",
+    "geneID": "100142647",
+    "go_data": [
+      {
+        "term": "N-acetylglucosaminyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Mgat1 encodes GnT-I, which catalyzes the conversion of oligomannose-type N-glycans to hybrid type N-glycans.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mgat1 is involved in the conversion of oligomannose-type N-glycans to hybrid and complex N-glycans.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "neural tube development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The inactivation of Mgat1 in mice causes severe neurological defects and early post-natal death due to maldevelopment of their neural tubes.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "skeletal muscle development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The delay in skeletal muscle development coincides with a reduction in motor and sensory functions in Mgat1b-/- embryos and larvae zebrafish.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "locomotor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inadequate levels of complex-type N-glycans can impair skeletal muscle development, thus coinciding with less efficient locomotor activity in zebrafish.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mgat1b",
+    "geneID": "558524",
+    "go_data": [
+      {
+        "term": "N-acetylglucosaminyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Mgat1b is involved in the transfer of N-acetylglucosamine to growing glycan chains.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is necessary for the proper glycosylation of proteins, as evidenced by the accumulation of oligomannose N-glycans in Mgat1b-/- fish.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "embryonic development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is required for normal embryonic development, as Mgat1b-/- fish exhibit delayed development and reduced survivability.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "skeletal muscle development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is necessary for proper skeletal muscle development, as Mgat1b-/- fish exhibit delayed skeletal muscle development and impaired locomotor activity.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "cardiac muscle development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mgat1b is required for normal cardiac muscle development, as Mgat1b-/- fish exhibit delayed cardiac development.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "justification": "Mgat1b is necessary for proper cell migration during embryonic development, as Mgat1b-/- fish exhibit impaired cell migration and reduced survivability.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "glycosylation site",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Mgat1b is involved in the glycosylation of proteins at specific sites.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MGAT2",
+    "geneID": "100000478",
+    "go_data": [
+      {
+        "term": "acetylglucosaminyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MGAT2 encodes GnT-II, which is involved in the conversion of hybrid-type N-glycans to complex-type N-glycans.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MGAT2 is involved in the processing of N-glycans to the complex type.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-actin",
+    "geneID": "57934",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Beta-actin is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC10669939"
+        ]
+      }
+    ]
+  }
+]

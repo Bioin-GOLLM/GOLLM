@@ -1,0 +1,24 @@
+{
+  "gene": "NCBP2",
+  "geneID": "22916",
+  "go_data": [
+    {
+      "term": "protein transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NCBP2-AS2 interacts with the PAM import motor of the presequence translocase, suggesting involvement in protein biogenesis and assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NCBP2-AS2 interacts with inner membrane scaffold proteins and TIM23, indicating localization to the mitochondrial inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

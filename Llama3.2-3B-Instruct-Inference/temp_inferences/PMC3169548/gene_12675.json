@@ -1,0 +1,33 @@
+{
+  "gene": "IKKalpha",
+  "geneID": "12675",
+  "go_data": [
+    {
+      "term": "IRF7 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IKKalpha activates IRF7 via MyD88 in response to TLR8 stimulation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IKKalpha is part of the non-canonical NF-kappaB signaling pathway, which typically resides in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IKKalpha is a kinase that phosphorylates and activates downstream targets.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

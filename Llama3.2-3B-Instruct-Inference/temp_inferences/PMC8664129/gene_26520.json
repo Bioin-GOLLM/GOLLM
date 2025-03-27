@@ -1,0 +1,15 @@
+{
+  "gene": "TIMM9",
+  "geneID": "26520",
+  "go_data": [
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TIMM9 is part of the TIMM9-TIMM10 complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

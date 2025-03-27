@@ -1,0 +1,15 @@
+{
+  "gene": "SLC35A4",
+  "geneID": "113829",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SLC35A4 is reported to have mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

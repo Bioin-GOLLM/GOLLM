@@ -1,0 +1,42 @@
+{
+  "gene": "CHCHD10",
+  "geneID": "400916",
+  "go_data": [
+    {
+      "term": "mitochondrial cristae organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CHCHD10/MIC14 may function as targets for modulating mitochondrial cristae architecture.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CHCHD10 is linked to mitochondrial cristae architecture and MICOS complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "apoptosis",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "CHCHD10 mutations inhibit apoptosis.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial genome maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CHCHD10 mutations impair mitochondrial genome maintenance.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

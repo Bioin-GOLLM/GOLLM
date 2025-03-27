@@ -1,0 +1,51 @@
+{
+  "gene": "ATP23",
+  "geneID": "91419",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ATP23 copurified with mitochondrial outer membrane proteins.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ATP23 is described as a processing peptidase.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial ATP synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ATP23 is involved in the assembly of subunit 6 of mitochondrial ATPase.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "chaperone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ATP23 acts as a chaperone for the F1Fo-ATP synthase.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "intermembrane space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ATP23 is located in the intermembrane space.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

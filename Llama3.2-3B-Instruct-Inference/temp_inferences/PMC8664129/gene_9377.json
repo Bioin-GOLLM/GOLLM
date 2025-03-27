@@ -1,0 +1,24 @@
+{
+  "gene": "COX5A",
+  "geneID": "9377",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex IV assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "COX5A is associated with individual structural subunits of complex IV and with the assembly factor COX11, supporting a putative role in COX assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "COX5A is a subunit of complex IV, which is part of the mitochondrial inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

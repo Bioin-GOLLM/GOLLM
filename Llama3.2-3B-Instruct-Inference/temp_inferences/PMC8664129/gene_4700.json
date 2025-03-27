@@ -1,0 +1,24 @@
+{
+  "gene": "NDUFA6",
+  "geneID": "4700",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFA6 is associated with the acyl carrier protein NDUFAB1, which is involved in the assembly of respiratory chain complex I.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NDUFA6 is a subunit of the mitochondrial respiratory chain complex I.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

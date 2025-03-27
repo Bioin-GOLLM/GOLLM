@@ -1,0 +1,33 @@
+{
+  "gene": "TLR8",
+  "geneID": "170744",
+  "go_data": [
+    {
+      "term": "viral defense",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR8 is stimulated by agonists and activates IRF7, suggesting a role in viral defense.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TLR8 is a Toll-like receptor, which is typically located in the cytoplasm or endosomes.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TLR8 is a receptor that is stimulated by agonists CL075 or R848.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

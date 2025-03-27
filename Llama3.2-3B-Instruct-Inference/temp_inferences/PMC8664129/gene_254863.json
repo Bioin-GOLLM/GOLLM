@@ -1,0 +1,33 @@
+{
+  "gene": "TMEM256",
+  "geneID": "254863",
+  "go_data": [
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TMEM256 presumably localizes to the inner membrane",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TMEM256 is associated with the TIM23 core and assists in distinct processes of protein biogenesis and assembly",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "siRNA depletion of TMEM256 moderately impaired the biogenesis of ATP5F1C and COX4l precursors in import experiments with isolated mitochondria",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

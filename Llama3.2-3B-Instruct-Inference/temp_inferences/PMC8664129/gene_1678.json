@@ -1,0 +1,24 @@
+{
+  "gene": "TIMM8A",
+  "geneID": "1678",
+  "go_data": [
+    {
+      "term": "mitochondrial protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Human deafness dystonia syndrome is caused by a defect in assembly of the DDP1/TIMM8a-TIMM13 complex",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM8A is part of the DDP1/TIMM8a-TIMM13 complex, which is involved in mitochondrial function",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

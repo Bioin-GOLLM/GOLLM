@@ -1,0 +1,42 @@
+{
+  "gene": "NAP1",
+  "geneID": "64343",
+  "go_data": [
+    {
+      "term": "scaffold protein activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NAP1 acts as a scaffold protein that associates constitutively with TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NAP1 is present in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NAP1 participates in the TLR3 and cytoplasmic pathways in type I IFN induction.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NAP1 is a component of the protein complexes containing TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

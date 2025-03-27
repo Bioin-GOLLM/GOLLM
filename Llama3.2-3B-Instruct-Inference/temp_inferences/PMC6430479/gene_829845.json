@@ -1,0 +1,51 @@
+{
+  "gene": "APETALA2",
+  "geneID": "829845",
+  "go_data": [
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Members of the AP2/ERF superfamily bind DNA at an AGCCGCC motif in promoter regions of target genes.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ERF family members bind DNA at an AGCCGCC motif in promoter regions of target genes.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to drought",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "An Arabidopsis AP2/EREBP-type transcriptional repressor is involved in drought stress responses.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "abscisic acid mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "An Arabidopsis AP2/EREBP-type transcriptional repressor is involved in abscisic acid and drought stress responses.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, APETALA2 localizes to the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

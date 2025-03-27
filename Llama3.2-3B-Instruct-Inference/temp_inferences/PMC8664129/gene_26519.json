@@ -1,0 +1,24 @@
+{
+  "gene": "TIMM10",
+  "geneID": "26519",
+  "go_data": [
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TIMM10 is part of the TIMM9-TIMM10 complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial intermembrane space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM10 is an intermembrane space chaperone.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "COX4I1",
+  "geneID": "1327",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex IV assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "COX4I1 is associated with individual structural subunits of complex IV and with the assembly factor COX11, supporting a putative role in COX assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "COX4I1 is a subunit of complex IV, which is part of the mitochondrial respiratory chain.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

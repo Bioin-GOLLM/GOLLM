@@ -1,0 +1,51 @@
+{
+  "gene": "MITOGEN-ACTIVATED PROTEIN KINASE3",
+  "geneID": "823706",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to osmotic stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mild osmotic stress is thought to induce elevated cellular levels of ACC, which could activate MPK3/MPK6.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to abiotic stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The transcriptional activity of ERF6 in Arabidopsis is regulated by MPK3/MPK6 in response to biotic and abiotic stress.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to biotic stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The transcriptional activity of ERF6 in Arabidopsis is regulated by MPK3/MPK6 in response to biotic and abiotic stress.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6 and enables its targeting to the nucleus, implying MPK3/MPK6 is located in the cytoplasm where it can interact with ERF6.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

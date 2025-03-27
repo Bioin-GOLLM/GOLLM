@@ -1,0 +1,42 @@
+{
+  "gene": "IKKepsilon",
+  "geneID": "56489",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IKKepsilon is involved in the TBK1/IKKepsilon-dependent pathway, indicating its role as a kinase.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IKKepsilon is involved in signaling pathways, which typically occur in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IKKepsilon is involved in the activation of IRF7, which is a key component of the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IKKepsilon is part of the TBK1/IKKepsilon-dependent pathway, which is a signaling pathway.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

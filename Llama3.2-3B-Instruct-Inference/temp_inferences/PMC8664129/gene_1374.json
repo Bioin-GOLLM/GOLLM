@@ -1,0 +1,24 @@
+{
+  "gene": "carnitine palmitoyltransferase 1A",
+  "geneID": "1374",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CPT1A is an outer membrane protein.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "fatty acid beta-oxidation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, however, based on general knowledge of CPT1A, it is typically involved in this process, but since it is not explicitly stated in the text, it will not be included.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

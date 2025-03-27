@@ -1,0 +1,24 @@
+{
+  "gene": "At4G17520",
+  "geneID": "827467",
+  "go_data": [
+    {
+      "term": "mRNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "At4G17520 encodes HYALURONAN/mRNA BINDING FAMILY PROTEIN (HLN).",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "seed germination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Seeds of Arabidopsis lines harbouring a T-DNA insert in At4G17520 showed an aberrant germination phenotype.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

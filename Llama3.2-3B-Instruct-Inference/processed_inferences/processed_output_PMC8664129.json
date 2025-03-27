@@ -1,0 +1,2695 @@
+[
+  {
+    "gene": "HSP60",
+    "geneID": "3329",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "HSP60 is described as one of the most abundant mitochondrial proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "HSP60 is a chaperone, implying involvement in protein folding.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-folding chaperone binding",
+        "go_id": "GO:0051087",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "HSP60 is identified as a chaperone, indicating it has chaperone activity.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HSP10",
+    "geneID": "3336",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "HSP10 is described as one of the most abundant mitochondrial proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "HSP10 is referred to as a chaperone, which implies involvement in protein folding.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-folding chaperone binding",
+        "go_id": "GO:0051087",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "HSP10 is identified as a chaperone, indicating it enables chaperone activity.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIM23",
+    "geneID": "100287932",
+    "go_data": [
+      {
+        "term": "protein transmembrane transport",
+        "go_id": "GO:0071806",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The TIM23 complex can perform two different functions, distinguished by its association with the presequence translocase-associated motor (PAM), including the import of proteins into the matrix and lateral membrane protein insertion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The TIM23 complex is associated with the mitochondrial inner membrane, as indicated by its interaction with inner membrane scaffold proteins and its role in protein import into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "The TIM23-PAM complex promotes the import of proteins into the matrix, whereas the motor-free translocase supports lateral membrane protein insertion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIM22",
+    "geneID": "29928",
+    "go_data": [
+      {
+        "term": "protein transmembrane transport",
+        "go_id": "GO:0071806",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The TIM22 complex is responsible for importing the large number of metabolite carriers into the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The TIM22 complex inserts the precursors of TIMM23 and TIMM17A/B into the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein insertion into mitochondrial inner membrane",
+        "go_id": "GO:0045039",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIMM22 also inserts the precursors of TIMM23 and TIMM17A/B into the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOMM34",
+    "geneID": "10953",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TOMM34 is associated with mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TOMM34 has a predominantly cytosolic location.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "go_id": "GO:0015031",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TOMM34 shuttles between a cytosolic location and an association with mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CIA",
+    "geneID": "57727",
+    "go_data": [
+      {
+        "term": "iron-sulfur cluster assembly",
+        "go_id": "GO:0016226",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CIA proteins are involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CIAO1",
+    "geneID": "9391",
+    "go_data": [
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CIAO1 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "iron-sulfur cluster assembly",
+        "go_id": "GO:0016226",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CIAO1 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NUBP2",
+    "geneID": "10101",
+    "go_data": [
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NUBP2 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "iron-sulfur cluster assembly",
+        "go_id": "GO:0016226",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NUBP2 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NBP1",
+    "geneID": "4682",
+    "go_data": [
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NBP1 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "iron-sulfur cluster assembly",
+        "go_id": "GO:0016226",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NBP1 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOM",
+    "geneID": "24148",
+    "go_data": [
+      {
+        "term": "protein transmembrane transport",
+        "go_id": "GO:0071806",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "More than 90% of mitochondrial proteins are imported via the main entry gate TOM.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The preprotein translocase of the outer membrane (TOM) is distributed to the mitochondrial classes 1 and 2.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TOM functions as the main entry gate for mitochondrial protein import.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOMM40",
+    "geneID": "10452",
+    "go_data": [
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TOMM40 is the central pore-forming subunit of the TOM complex, which provides a selective means to distinguish authentic mitochondrial proteins from proteins of other cell organelles/compartments.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TOMM40 is a subunit of the TOM complex, which is embedded in the mitochondrial outer membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein transmembrane transporter activity",
+        "go_id": "GO:0008320",
+        "relationship": [
+          "part_of GO:0071806"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TOMM40 forms a channel for the import of mitochondrial proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SAMM50",
+    "geneID": "25813",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SAMM50 is described as an outer membrane protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein insertion into mitochondrial outer membrane",
+        "go_id": "GO:0045040",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "SAMM50 is mentioned in the context of import via the TOMM40 channel, suggesting its involvement in this process.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MFN1",
+    "geneID": "55669",
+    "go_data": [
+      {
+        "term": "mitochondrial fusion",
+        "go_id": "GO:0008053",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MFN1 is a dynamin-like mitochondrial GTPase fusion protein involved in mitochondrial fusion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MFN1 is an outer membrane protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "GTPase activity",
+        "go_id": "GO:0003924",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MFN1 is a dynamin-like mitochondrial GTPase fusion protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "carnitine palmitoyltransferase 1A",
+    "geneID": "1374",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CPT1A is an outer membrane protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "fatty acid beta-oxidation",
+        "go_id": "GO:0006635",
+        "relationship": [
+          "has_part GO:0015645"
+        ],
+        "namespace": "biological_process",
+        "justification": "None found, however, based on general knowledge of CPT1A, it is typically involved in this process, but since it is not explicitly stated in the text, it will not be included.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOMM70",
+    "geneID": "9868",
+    "go_data": [
+      {
+        "term": "protein transmembrane transporter activity",
+        "go_id": "GO:0008320",
+        "relationship": [
+          "part_of GO:0071806"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TOMM70 functions as receptor for precursor proteins with internal targeting signals.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TOMM70 functions as receptor for precursor proteins with internal targeting signals, particularly for hydrophobic metabolite carriers of the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TOMM70 is associated with the TOM complex, which is part of the mitochondrion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOMM20",
+    "geneID": "67952",
+    "go_data": [
+      {
+        "term": "protein import into mitochondrial intermembrane space",
+        "go_id": "GO:0045041",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TOMM20 can partially compensate for TOMM70's function as a receptor for precursor proteins with internal targeting signals.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TOMM20 is described as part of the main entry gate, implying its location in the mitochondrial outer membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOMM22",
+    "geneID": "56993",
+    "go_data": [
+      {
+        "term": "protein import into mitochondrial intermembrane space",
+        "go_id": "GO:0045041",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TOMM22 can partially compensate for TOMM70's function in importing precursor proteins with internal targeting signals.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TOMM22 is a core component of the main entry gate, implying its location in the mitochondrial outer membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DHRS4",
+    "geneID": "10901",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "DHRS4 demonstrated a mitochondrial localization in in vitro import assays.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NOCT",
+    "geneID": "25819",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "All assays demonstrated a mitochondrial localization of the MitoCoP proteins studied, including NOCT.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OXLD1",
+    "geneID": "339229",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "OXLD1 was proteolytically processed and transported to a protease-protected internal mitochondrial compartment.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ACOT13",
+    "geneID": "55856",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Mitochondrial localizations were reported for ACOT13.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FAM173A",
+    "geneID": "65990",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "FAM173A is described as having mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "lysine N-methyltransferase activity",
+        "go_id": "GO:0016278",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "FAM173A is described as a mitochondrial lysine-specific methyltransferase.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein methylation",
+        "go_id": "GO:0006479",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FAM173A targets adenine nucleotide translocase, implying involvement in protein methylation.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "go_id": "GO:0045333",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FAM173A affects mitochondrial respiration.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LYRM9",
+    "geneID": "201229",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "LYRM9 was reported to have mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "LYRM9 knockout cells revealed a defect of complex I assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial DNA metabolic process",
+        "go_id": "GO:0032042",
+        "relationship": [
+          "occurs_in GO:0005739",
+          "part_of GO:0000002"
+        ],
+        "namespace": "biological_process",
+        "justification": "LYRM9 is required for mitochondrial metabolic activity.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MIGA2",
+    "geneID": "84895",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MIGA2 was reported to have mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "lipid biosynthetic process",
+        "go_id": "GO:0008610",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MIGA2 promotes de novo lipogenesis in adipocytes.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MIGA2 links mitochondria, the ER, and lipid droplets.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "lipid droplet",
+        "go_id": "GO:0005811",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MIGA2 links mitochondria, the ER, and lipid droplets.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NSUN2",
+    "geneID": "54888",
+    "go_data": [
+      {
+        "term": "tRNA methylation",
+        "go_id": "GO:0030488",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NSUN2 introduces 5-methylcytosines in mammalian mitochondrial tRNAs",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NSUN2 has mitochondrial localization",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMEM242",
+    "geneID": "729515",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TMEM242 was reported to have mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "proton-transporting ATP synthase complex assembly",
+        "go_id": "GO:0043461",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TMEM242 helps to assemble the rotor ring of human ATP synthase.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TMEM242 interacts with assembly factors for complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SLC35A4",
+    "geneID": "113829",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "SLC35A4 is reported to have mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PIGBOS1",
+    "geneID": "101928527",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PIGBOS1 was reported to have mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "respiratory chain complex III assembly",
+        "go_id": "GO:0017062",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PIGBOS1 copurified with subunits of complex III, complex IV, and an ortholog of the yeast respiratory supercomplex III-IV assembly factor Rcf1.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NCBP2-AS2",
+    "geneID": "152217",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NCBP2-AS2 is found in the MitoCoP fraction and interacts with inner membrane scaffold proteins and TIM23, indicating its localization to the mitochondrion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "NCBP2-AS2 interacts with the TIM23-PAM machinery, suggesting its involvement in protein import into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial respirasome assembly",
+        "go_id": "GO:0097250",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NCBP2-AS2 associates with different forms of the mitochondrial presequence translocase, indicating its role in mitochondrial protein complex assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NTPCR",
+    "geneID": "84284",
+    "go_data": [
+      {
+        "term": "respiratory chain complex IV assembly",
+        "go_id": "GO:0008535",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NTPCR was associated with individual structural subunits of complex IV and with the assembly factor COX11, supporting a putative role in COX assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NTPCR is a membrane-associated protein associated with mitochondrial complex IV subunits and assembly factors.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMEM256",
+    "geneID": "254863",
+    "go_data": [
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TMEM256 presumably localizes to the inner membrane",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TMEM256 is associated with the TIM23 core and assists in distinct processes of protein biogenesis and assembly",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "siRNA depletion of TMEM256 moderately impaired the biogenesis of ATP5F1C and COX4l precursors in import experiments with isolated mitochondria",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "deoxyguanosine kinase",
+    "geneID": "1716",
+    "go_data": [
+      {
+        "term": "nucleotide metabolic process",
+        "go_id": "GO:0009117",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Linked to metabolism",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Described as mitochondrial deoxyguanosine kinase",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "heme A farnesyltransferase",
+    "geneID": "1352",
+    "go_data": [
+      {
+        "term": "heme binding",
+        "go_id": "GO:0020037",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "heme A farnesyltransferase is associated with cytochrome c oxidase (COX, complex IV) assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "respiratory chain complex IV assembly",
+        "go_id": "GO:0008535",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "heme A farnesyltransferase COX10 is an assembly factor for cytochrome c oxidase (COX, complex IV).",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PHB",
+    "geneID": "5245",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PHB is a member of the prohibitin-stomatin family of membrane scaffold proteins, which are associated with the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex binding",
+        "go_id": "GO:0044877",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PHB copurified with core subunits of the TIM23 complex, suggesting an interaction between PHB and the TIM23 complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PHB2",
+    "geneID": "11331",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PHB2 is a member of the prohibitin-stomatin family of membrane scaffold proteins, which are associated with the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "PHB2 is assigned to protein complexes, to which they had not been linked before, as revealed by complexome analysis.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C3orf33",
+    "geneID": "285315",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Comigration with the prohibitins PHB/PHB2 and sequence alignment suggest that C3orf33 is a member of the prohibitin-stomatin family, which is associated with mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "stomatin",
+    "geneID": "2040",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Stomatin is assigned to protein complexes with established mitochondrial localization.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "membrane tag activity",
+        "go_id": "GO:0141048",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Stomatin is part of the prohibitin-stomatin family of membrane scaffold proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATPase",
+    "geneID": "1769",
+    "go_data": [
+      {
+        "term": "ATP hydrolysis activity",
+        "go_id": "GO:0016887",
+        "relationship": [
+          "part_of GO:0140657"
+        ],
+        "namespace": "molecular_function",
+        "justification": "The gene is named ATPase, which implies it has ATP hydrolysis activity.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C15orf61",
+    "geneID": "145853",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Comigration with the prohibitins PHB/PHB2 suggests C15orf61 is associated with mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PIGB",
+    "geneID": "9488",
+    "go_data": []
+  },
+  {
+    "gene": "HIGD2A",
+    "geneID": "67044",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex assembly",
+        "go_id": "GO:0033108",
+        "relationship": [
+          "occurs_in GO:0005739",
+          "part_of GO:0007005"
+        ],
+        "namespace": "biological_process",
+        "justification": "HIGD2A copurified with subunits of complex III and complex IV, suggesting a relation to respiratory chain assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "HIGD2A is associated with mitochondrial respiratory chain complexes.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "COX5A",
+    "geneID": "9377",
+    "go_data": [
+      {
+        "term": "respiratory chain complex IV assembly",
+        "go_id": "GO:0008535",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "COX5A is associated with individual structural subunits of complex IV and with the assembly factor COX11, supporting a putative role in COX assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "COX5A is a subunit of complex IV, which is part of the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "COX4I1",
+    "geneID": "1327",
+    "go_data": [
+      {
+        "term": "respiratory chain complex IV assembly",
+        "go_id": "GO:0008535",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "COX4I1 is associated with individual structural subunits of complex IV and with the assembly factor COX11, supporting a putative role in COX assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "COX4I1 is a subunit of complex IV, which is part of the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MT-CO2",
+    "geneID": "4513",
+    "go_data": [
+      {
+        "term": "respiratory chain complex IV assembly",
+        "go_id": "GO:0008535",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MT-CO2 is associated with individual structural subunits of complex IV and with the assembly factor COX11, supporting a putative role in COX assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MT-CO2 is a subunit of complex IV, which is a component of the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "COX11",
+    "geneID": "1353",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex assembly",
+        "go_id": "GO:0033108",
+        "relationship": [
+          "occurs_in GO:0005739",
+          "part_of GO:0007005"
+        ],
+        "namespace": "biological_process",
+        "justification": "COX11 is associated with individual structural subunits of complex IV, supporting a putative role in COX assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "COX11 is associated with the assembly of complex IV, which is a component of the mitochondrial respiratory chain.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Metallo-beta-lactamase domain containing protein 2",
+    "geneID": "153364",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MBLAC2 may function at the outer membrane/cytosol interface.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MBLAC2 copurified with several proteins including MARCH5, HAX1, RMDN3, and MAVS.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HAX1",
+    "geneID": "10456",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "HAX1 copurified with the TOM complex and other mitochondrial outer membrane proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "go_id": "GO:0007010",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HAX1 is a cytoskeleton-related protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RMDN3",
+    "geneID": "55177",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "RMDN3 copurified with mitochondrial outer membrane proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MAVS",
+    "geneID": "57506",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MAVS copurified with the TOM complex and other mitochondrial outer membrane proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "MAVS is described as a signaling related protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C22orf39",
+    "geneID": "128977",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "C22orf39 may function at the outer membrane/cytosol interface.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial intermembrane space",
+        "go_id": "GO:0005758",
+        "relationship": [
+          "part_of GO:0005740"
+        ],
+        "namespace": "cellular_component",
+        "justification": "C22orf39 copurified proteins located in the intermembrane space.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "go_id": "GO:0045333",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Oxygen consumption of C22orf39 knockout cells was impaired.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial respirasome assembly",
+        "go_id": "GO:0097250",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "C22orf39 is required for mitochondrial metabolic activity, similar to LYRM9 which is required for complex I assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATP23",
+    "geneID": "91419",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ATP23 copurified with mitochondrial outer membrane proteins.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "peptidase activity",
+        "go_id": "GO:0008233",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ATP23 is described as a processing peptidase.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "proton motive force-driven mitochondrial ATP synthesis",
+        "go_id": "GO:0042776",
+        "relationship": [
+          "occurs_in GO:0005739",
+          "part_of GO:0006119"
+        ],
+        "namespace": "biological_process",
+        "justification": "ATP23 is involved in the assembly of subunit 6 of mitochondrial ATPase.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-folding chaperone binding",
+        "go_id": "GO:0051087",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ATP23 acts as a chaperone for the F1Fo-ATP synthase.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial intermembrane space",
+        "go_id": "GO:0005758",
+        "relationship": [
+          "part_of GO:0005740"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ATP23 is located in the intermembrane space.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HTRA2",
+    "geneID": "27429",
+    "go_data": [
+      {
+        "term": "serine-type endopeptidase activity",
+        "go_id": "GO:0004252",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "HTRA2 is described as a serine protease.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial intermembrane space",
+        "go_id": "GO:0005758",
+        "relationship": [
+          "part_of GO:0005740"
+        ],
+        "namespace": "cellular_component",
+        "justification": "HTRA2 is located in the intermembrane space.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFS1",
+    "geneID": "4719",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NDUFS1 copurified with LYRM9, which is involved in the assembly of respiratory complexes.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NDUFS1 is a subunit of the respiratory chain complex I, which is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA2",
+    "geneID": "4695",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NDUFA2 is identified as an N-module assembly factor, suggesting its involvement in the assembly of respiratory chain complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NDUFA2 is associated with the assembly of mitochondrial respiratory chain complex I, indicating its localization to the mitochondrion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFAB1",
+    "geneID": "4706",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NDUFAB1 copurified with the N-module core subunit NDUFS1 and the N-module assembly factor NDUFA2, suggesting involvement in complex I assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "acyl carrier activity",
+        "go_id": "GO:0000036",
+        "relationship": [
+          "part_of GO:0006633"
+        ],
+        "namespace": "molecular_function",
+        "justification": "NDUFAB1 is described as an acyl carrier protein.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NDUFAB1 is involved in the assembly of mitochondrial respiratory complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFA6",
+    "geneID": "4700",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NDUFA6 is associated with the acyl carrier protein NDUFAB1, which is involved in the assembly of respiratory chain complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NDUFA6 is a subunit of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NDUFB9",
+    "geneID": "4715",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NDUFB9 is associated with the acyl carrier protein NDUFAB1, which suggests involvement in complex I assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "respiratory chain complex I",
+        "go_id": "GO:0045271",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "NDUFB9 is a subunit of the NADH-ubiquinone oxidoreductase complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMEM160",
+    "geneID": "54958",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I assembly",
+        "go_id": "GO:0032981",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TMEM160 copurified with the N-module core subunit NDUFS1 and the N-module assembly factor NDUFA2 of respiratory chain complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TMEM160 copurified with components of the mitochondrial respiratory chain complex I.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STOML2",
+    "geneID": "30968",
+    "go_data": [
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "STOML2 is a member of the prohibitin-stomatin family of membrane scaffold proteins found in the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PAM16",
+    "geneID": "51025",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PAM16 interacts with the TIM23 complex, which is associated with the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PAM16 is part of the TIM23-PAM machinery, suggesting its involvement in the assembly of protein complexes.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DNAJC19",
+    "geneID": "131118",
+    "go_data": [
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "DNAJC19 is part of the TIM23-PAM system, essential for the import of precursor proteins into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "metallochaperone activity",
+        "go_id": "GO:0016530",
+        "relationship": [
+          "has_part GO:0046872"
+        ],
+        "namespace": "molecular_function",
+        "justification": "DNAJC19 is described as a cochaperone associated with the TIM23-PAM system.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "DNAJC19 is a mitochondrial cochaperone and interacts with the TIM23 complex, which is localized to the mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DNAJC19 forms a complex with prohibitins to regulate cardiolipin remodeling.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM21",
+    "geneID": "29090",
+    "go_data": [
+      {
+        "term": "mitochondrial respirasome assembly",
+        "go_id": "GO:0097250",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIMM21 interacts with the TIM23 core complex and is involved in the assembly of oxidative phosphorylation complexes.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM21 is associated with the mitochondrial presequence translocase and the mitochondrial translation regulation assembly intermediate of cytochrome c oxidase (MITRAC).",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIMM21 shuttles between TIM23 and the mitochondrial translation regulation assembly intermediate of cytochrome c oxidase (MITRAC), and is involved in the sorting machinery that links protein import to respiratory chain assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OCIAD1",
+    "geneID": "54940",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex III assembly",
+        "go_id": "GO:0034551",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "OCIAD1 is identified as a regulatory determinant of mitochondrial Complex III assembly in human cells.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "OCIAD1 is associated with the TIM23 complex, which is involved in mitochondrial protein transport.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DNAJC30",
+    "geneID": "84277",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "DNAJC30 is described in relation to the TIM23 complex and other mitochondrial components.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial respirasome assembly",
+        "go_id": "GO:0097250",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DNAJC30 is associated with the TIM23 complex, which is involved in mitochondrial protein complex assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM17B",
+    "geneID": "10245",
+    "go_data": [
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TIMM17B is a subunit of the presequence translocase, which is associated with the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIMM17B interacts with TMEM256 and other subunits, indicating involvement in the assembly of protein complexes in the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM50",
+    "geneID": "92609",
+    "go_data": [
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TIMM50 is a core subunit of the presequence translocase, which is associated with the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIMM50 interacts with other subunits of the presequence translocase and the respiratory chain assembly line, indicating involvement in protein complex assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM44",
+    "geneID": "10469",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM44 is associated with the presequence translocase and mitochondrial HSP70, indicating its localization to the mitochondrion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HSP70",
+    "geneID": "3308",
+    "go_data": [
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "HSP70 is a molecular chaperone involved in mitochondrial protein import, indicating its role in protein folding.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "HSP70 delivers preproteins to the mitochondrial import receptor Tom70.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Tom34 is a cytosolic cochaperone of the Hsp90/Hsp70 protein complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GRP-75",
+    "geneID": "3313",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "GRP-75 is also known as mitochondrial HSP70, indicating its localization to the mitochondrion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NCBP2",
+    "geneID": "22916",
+    "go_data": [
+      {
+        "term": "protein transport",
+        "go_id": "GO:0015031",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NCBP2-AS2 interacts with the PAM import motor of the presequence translocase, suggesting involvement in protein biogenesis and assembly.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "NCBP2-AS2 interacts with inner membrane scaffold proteins and TIM23, indicating localization to the mitochondrial inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM17A",
+    "geneID": "10440",
+    "go_data": [
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIMM17A is part of the TIM23-PAM import system.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM17A is a component of the mitochondrial import machinery.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ROMO1",
+    "geneID": "140823",
+    "go_data": [
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "ROMO1 is a constituent of the human presequence translocase required for YME1L protease import",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ROMO1 is part of the TIM23-PAM import system in mitochondria",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TOMM40",
+    "geneID": "53333",
+    "go_data": [
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TOMM40 is a core component of the main entry gate of the mitochondrial outer membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "TOMM40 is part of the TOM complex, which is involved in the import of proteins into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM9",
+    "geneID": "26520",
+    "go_data": [
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TIMM9 is part of the TIMM9-TIMM10 complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM10",
+    "geneID": "26519",
+    "go_data": [
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TIMM10 is part of the TIMM9-TIMM10 complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial intermembrane space",
+        "go_id": "GO:0005758",
+        "relationship": [
+          "part_of GO:0005740"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM10 is an intermembrane space chaperone.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM8B",
+    "geneID": "26521",
+    "go_data": [
+      {
+        "term": "mitochondrial intermembrane space",
+        "go_id": "GO:0005758",
+        "relationship": [
+          "part_of GO:0005740"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM8B is part of the TIMM8B-TIMM13 complex in the intermembrane space.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM13",
+    "geneID": "26517",
+    "go_data": [
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIMM13 is part of the DDP1/TIMM8a-TIMM13 complex, defects in which cause human deafness dystonia syndrome.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial intermembrane space",
+        "go_id": "GO:0005758",
+        "relationship": [
+          "part_of GO:0005740"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM13 is described as an intermembrane space chaperone, indicating its location in the mitochondrial intermembrane space.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIMM8A",
+    "geneID": "1678",
+    "go_data": [
+      {
+        "term": "mitochondrial respirasome assembly",
+        "go_id": "GO:0097250",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Human deafness dystonia syndrome is caused by a defect in assembly of the DDP1/TIMM8a-TIMM13 complex",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TIMM8A is part of the DDP1/TIMM8a-TIMM13 complex, which is involved in mitochondrial function",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MFN2",
+    "geneID": "9927",
+    "go_data": [
+      {
+        "term": "mitochondrial fusion",
+        "go_id": "GO:0008053",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MFN2 is a dynamin-like mitochondrial GTPase fusion protein involved in mitochondrial fusion.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MFN2 is a mitochondrial protein involved in regulating mitochondrial membrane dynamics.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "GTPase activity",
+        "go_id": "GO:0003924",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MFN2 is a dynamin-like mitochondrial GTPase fusion protein, implying it has GTPase activity.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GrpE",
+    "geneID": "80273",
+    "go_data": [
+      {
+        "term": "guanyl-nucleotide exchange factor activity",
+        "go_id": "GO:0005085",
+        "relationship": [
+          "negatively_regulates GO:0019003",
+          "positively_regulates GO:0005525"
+        ],
+        "namespace": "molecular_function",
+        "justification": "GrpE is described as a nucleotide exchange factor.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "GrpE is part of the TIM23-PAM system, which is essential for the import of precursor proteins into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "GrpE is involved in the import of proteins into the mitochondrial matrix, indicating its association with mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GrpEL2",
+    "geneID": "134266",
+    "go_data": [
+      {
+        "term": "guanyl-nucleotide exchange factor activity",
+        "go_id": "GO:0005085",
+        "relationship": [
+          "negatively_regulates GO:0019003",
+          "positively_regulates GO:0005525"
+        ],
+        "namespace": "molecular_function",
+        "justification": "GrpEL2 is described as a nucleotide exchange factor.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial matrix",
+        "go_id": "GO:0030150",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "GrpEL2 is part of the TIM23-PAM system, which is essential for the import of precursor proteins into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "GrpEL2 is involved in the import of proteins into the mitochondrial matrix, indicating its association with mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DnaJC15",
+    "geneID": "29103",
+    "go_data": [
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "DnaJC15 is described as an HSP70-stimulating cochaperone, indicating involvement in protein folding.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial matrix",
+        "go_id": "GO:0005759",
+        "relationship": [
+          "part_of GO:0005739"
+        ],
+        "namespace": "cellular_component",
+        "justification": "DnaJC15 is part of the TIM23-PAM system, which is essential for the import of precursor proteins into the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "metallochaperone activity",
+        "go_id": "GO:0016530",
+        "relationship": [
+          "has_part GO:0046872"
+        ],
+        "namespace": "molecular_function",
+        "justification": "DnaJC15 is identified as an HSP70-stimulating cochaperone, implying it has cochaperone activity.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "acylglycerol kinase",
+    "geneID": "55750",
+    "go_data": [
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Associated acylglycerol kinase is a subunit of the human TIM22 protein import complex in the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein import into mitochondrial intermembrane space",
+        "go_id": "GO:0045041",
+        "relationship": [
+          "part_of GO:0006626"
+        ],
+        "namespace": "biological_process",
+        "justification": "Acylglycerol kinase is a subunit of the TIM22 protein translocase in mitochondria, which inserts precursors into the inner membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MIC60",
+    "geneID": "10989",
+    "go_data": [
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The central subunit MIC60 is part of the inner membrane MICOS system.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial membrane organization",
+        "go_id": "GO:0007006",
+        "relationship": [
+          "occurs_in GO:0005739"
+        ],
+        "namespace": "biological_process",
+        "justification": "The inner membrane MICOS system, including MIC60, is crucial for controlling mitochondrial membrane architecture.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "protein-containing complex binding",
+        "go_id": "GO:0044877",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MIC60 bridges MICOS to the SAM complex of the outer membrane, forming stable contact sites.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MIC13",
+    "geneID": "125988",
+    "go_data": [
+      {
+        "term": "cristae formation",
+        "go_id": "GO:0042407",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MIC13 is essential for formation of crista junctions in mammalian cells.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial outer membrane",
+        "go_id": "GO:0005741",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MIC13 links two MICOS subcomplexes and is required for MICOS assembly, which is associated with the mitochondrial outer membrane.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial inner membrane",
+        "go_id": "GO:0005743",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MIC13 is part of the MICOS complex, which forms stable contact sites between inner and outer membranes of human mitochondria.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CHCHD10",
+    "geneID": "400916",
+    "go_data": [
+      {
+        "term": "mitochondrion organization",
+        "go_id": "GO:0007005",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CHCHD10/MIC14 may function as targets for modulating mitochondrial cristae architecture.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CHCHD10 is linked to mitochondrial cristae architecture and MICOS complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "go_id": "GO:0006915",
+        "relationship": [
+          "has_part GO:0097190",
+          "has_part GO:0097194"
+        ],
+        "namespace": "biological_process",
+        "justification": "CHCHD10 mutations inhibit apoptosis.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrial genome maintenance",
+        "go_id": "GO:0000002",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CHCHD10 mutations impair mitochondrial genome maintenance.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MIC14",
+    "geneID": "84269",
+    "go_data": [
+      {
+        "term": "mitochondrion organization",
+        "go_id": "GO:0007005",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CHCHD10/MIC14 may function as a target for modulating mitochondrial cristae architecture.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MIC14 is associated with mitochondrial cristae architecture and MICOS complex.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ISCU",
+    "geneID": "23479",
+    "go_data": [
+      {
+        "term": "iron-sulfur cluster assembly",
+        "go_id": "GO:0016226",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ISCU is involved in the biosynthesis of Fe-S clusters.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The biosynthesis of Fe-S clusters, which involves ISCU, is related to mitochondrial cristae architecture.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ISCA1",
+    "geneID": "81689",
+    "go_data": [
+      {
+        "term": "iron-sulfur cluster assembly",
+        "go_id": "GO:0016226",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ISCA1 is involved in the biosynthesis of Fe-S clusters.",
+        "reference(s)": [
+          "PMC8664129"
+        ]
+      }
+    ]
+  }
+]

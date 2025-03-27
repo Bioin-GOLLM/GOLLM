@@ -1,0 +1,51 @@
+{
+  "gene": "IRF3",
+  "geneID": "3661",
+  "go_data": [
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF3 is a transcription factor that binds to specific DNA sequences.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of interferon-beta production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF3 is involved in the activation of IFN-beta promoters.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRF3 translocates to the nucleus after phosphorylation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF3 plays a role in the innate immune response to viral infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF3 binds to the IFN-beta promoter region.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

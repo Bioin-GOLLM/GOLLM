@@ -1,0 +1,33 @@
+{
+  "gene": "melanoma differentiation-associated gene 5",
+  "geneID": "64135",
+  "go_data": [
+    {
+      "term": "double-stranded RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MDA5 senses intracellular double-stranded (ds) RNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral RNA detection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MDA5 detects the presence of foreign RNA, specifically double-stranded RNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a RIG-I-like receptor, MDA5 is expected to be located in the cytoplasm where it can sense intracellular dsRNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

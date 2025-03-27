@@ -1,0 +1,24 @@
+{
+  "gene": "TMEM160",
+  "geneID": "54958",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TMEM160 copurified with the N-module core subunit NDUFS1 and the N-module assembly factor NDUFA2 of respiratory chain complex I.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TMEM160 copurified with components of the mitochondrial respiratory chain complex I.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

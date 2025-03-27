@@ -1,0 +1,42 @@
+{
+  "gene": "melanopsin",
+  "geneID": "423609",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Melanopsin is a photopigment localized to extraocular photoreceptors.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "circadian rhythm regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin expression in the pineal organ of chickens oscillates in a circadian manner.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "pineal gland",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin expression is found in the photosensitive pineal organ of chickens.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "suprachiasmatic nucleus",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin is produced in the suprachiasmatic nucleus (SCN).",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

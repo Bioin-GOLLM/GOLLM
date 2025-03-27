@@ -1,0 +1,33 @@
+{
+  "gene": "HSP70",
+  "geneID": "3308",
+  "go_data": [
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HSP70 is a molecular chaperone involved in mitochondrial protein import, indicating its role in protein folding.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HSP70 delivers preproteins to the mitochondrial import receptor Tom70.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tom34 is a cytosolic cochaperone of the Hsp90/Hsp70 protein complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

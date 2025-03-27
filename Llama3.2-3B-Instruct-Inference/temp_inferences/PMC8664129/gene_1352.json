@@ -1,0 +1,24 @@
+{
+  "gene": "heme A farnesyltransferase",
+  "geneID": "1352",
+  "go_data": [
+    {
+      "term": "heme binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "heme A farnesyltransferase is associated with cytochrome c oxidase (COX, complex IV) assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial respiratory chain complex IV assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "heme A farnesyltransferase COX10 is an assembly factor for cytochrome c oxidase (COX, complex IV).",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

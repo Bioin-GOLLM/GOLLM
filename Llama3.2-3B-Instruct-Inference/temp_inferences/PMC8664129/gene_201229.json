@@ -1,0 +1,33 @@
+{
+  "gene": "LYRM9",
+  "geneID": "201229",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LYRM9 was reported to have mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "respiratory chain complex I assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LYRM9 knockout cells revealed a defect of complex I assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LYRM9 is required for mitochondrial metabolic activity.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

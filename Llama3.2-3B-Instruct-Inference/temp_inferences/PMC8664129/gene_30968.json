@@ -1,0 +1,15 @@
+{
+  "gene": "STOML2",
+  "geneID": "30968",
+  "go_data": [
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "STOML2 is a member of the prohibitin-stomatin family of membrane scaffold proteins found in the inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "TFB",
+  "geneID": "26609049",
+  "go_data": [
+    {
+      "term": "transcription initiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Archaeal transcription initiation requires only two accessory proteins bound to DNA: transcription factor B (TFB) and TATA-box binding protein (TBP).",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TFB is an accessory protein bound to DNA during transcription initiation in Archaea.",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "None, however, the archaeal transcription machinery is orthologous to that of eukaryotes, thus TFB is likely located in the nucleoid or equivalent structure in Archaea.",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    }
+  ]
+}

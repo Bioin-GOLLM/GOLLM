@@ -1,0 +1,33 @@
+{
+  "gene": "TOM",
+  "geneID": "24148",
+  "go_data": [
+    {
+      "term": "protein transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "More than 90% of mitochondrial proteins are imported via the main entry gate TOM.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The preprotein translocase of the outer membrane (TOM) is distributed to the mitochondrial classes 1 and 2.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein import into mitochondrial matrix",
+      "relationship": "involved_in",
+      "justification": "TOM functions as the main entry gate for mitochondrial protein import.",
+      "namespace": "biological_process",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

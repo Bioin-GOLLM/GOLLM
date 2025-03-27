@@ -1,0 +1,24 @@
+{
+  "gene": "MyD88",
+  "geneID": "17874",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyD88 over-expression affects IRF7 activation, indicating involvement in signal transduction.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyD88 is involved in the activation of IRF7, which is part of the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "MIC13",
+  "geneID": "125988",
+  "go_data": [
+    {
+      "term": "mitochondrial crista formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MIC13 is essential for formation of crista junctions in mammalian cells.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MIC13 links two MICOS subcomplexes and is required for MICOS assembly, which is associated with the mitochondrial outer membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MIC13 is part of the MICOS complex, which forms stable contact sites between inner and outer membranes of human mitochondria.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

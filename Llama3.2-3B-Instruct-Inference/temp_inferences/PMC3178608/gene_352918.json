@@ -1,0 +1,60 @@
+{
+  "gene": "opn4.1",
+  "geneID": "352918",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Opn4.1 binds to the chromophore 11-cis retinal and functionally couples to a G-protein in HEK293 cells.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Opn4.1 has an absorbance spectrum similar to mouse melanopsin and mediates light-dependent induction of calcium release.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Transcripts for opn4.1 localized to the outermost shell of the INL where horizontal cells are located and in scattered photoreceptor cells.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "horizontal cell of the retina",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Transcripts for opn4.1 localized to the outermost shell of the INL where horizontal cells are located.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "response to light stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Opn4.1 mediates light-dependent induction of calcium release and its expression is altered under different light:dark conditions.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The opn4.1 gene shows rhythmic expression but with different waveforms under different light:dark conditions.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

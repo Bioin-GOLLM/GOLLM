@@ -1,0 +1,33 @@
+{
+  "gene": "MSH3",
+  "geneID": "17686",
+  "go_data": [
+    {
+      "term": "mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MSH2/MSH3 are involved in repairing replicative mismatches.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MSH2/MSH3 function as heterodimers to initiate repair activity.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MSH2-MSH3 dimers form complexes on repetitive sequences at centromeres and on the Y chromosome during meiotic prophase.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

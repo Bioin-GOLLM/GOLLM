@@ -1,0 +1,33 @@
+{
+  "gene": "MFN2",
+  "geneID": "9927",
+  "go_data": [
+    {
+      "term": "mitochondrial fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MFN2 is a dynamin-like mitochondrial GTPase fusion protein involved in mitochondrial fusion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MFN2 is a mitochondrial protein involved in regulating mitochondrial membrane dynamics.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MFN2 is a dynamin-like mitochondrial GTPase fusion protein, implying it has GTPase activity.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

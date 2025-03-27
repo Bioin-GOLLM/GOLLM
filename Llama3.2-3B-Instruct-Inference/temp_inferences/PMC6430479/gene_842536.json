@@ -1,0 +1,24 @@
+{
+  "gene": "ACC oxidase 2",
+  "geneID": "842536",
+  "go_data": [
+    {
+      "term": "ethylene biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ACC oxidase 2 is involved in the conversion of ACC into ethylene.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "1-aminocyclopropane-1-carboxylate oxidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ACC oxidase 2 catalyzes the conversion of ACC into ethylene.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

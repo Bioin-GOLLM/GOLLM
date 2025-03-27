@@ -1,0 +1,24 @@
+{
+  "gene": "RAB GTPASE HOMOLOG 1C",
+  "geneID": "827468",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAB GTPASE HOMOLOG 1C is a GTPase, which implies it has GTP binding activity.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "cellular response to infection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The relative expression of RAB1C showed a small, but significant, difference between infected and non-infected Arabidopsis roots at 7 dpi.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

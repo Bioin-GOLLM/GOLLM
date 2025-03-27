@@ -1,0 +1,42 @@
+{
+  "gene": "B14",
+  "geneID": "4700",
+  "go_data": [
+    {
+      "term": "inhibition of NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B14 binds IKKbeta and thereby inhibits IkappaB phosphorylation and NF-kappaB activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "B14 binds IKKbeta.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "B14 binds IKKbeta, which is part of the IKK complex located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "negative regulation of innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B14 inhibits innate immune signalling pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

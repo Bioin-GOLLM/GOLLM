@@ -1,0 +1,60 @@
+{
+  "gene": "ERF6",
+  "geneID": "827463",
+  "go_data": [
+    {
+      "term": "transcriptional activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ERF6 functions as a transcriptional activator and suppressor of genes in response to various abiotic stresses.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "transcriptional repressor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ERF6 functions as a transcriptional activator and suppressor of genes in response to various abiotic stresses.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "abiotic stress response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF6 affects the expression of abiotic stress response genes.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to osmotic stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF6 is thought to be involved in tolerance to osmotic stress.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to reactive oxygen species",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF6 is thought to be involved in tolerance to abiotic stress regulated by reactive oxygen species (ROS).",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6 and enables its targeting to the nucleus.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

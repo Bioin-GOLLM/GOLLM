@@ -1,0 +1,24 @@
+{
+  "gene": "OCIAD1",
+  "geneID": "54940",
+  "go_data": [
+    {
+      "term": "mitochondrial complex III assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "OCIAD1 is identified as a regulatory determinant of mitochondrial Complex III assembly in human cells.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "OCIAD1 is associated with the TIM23 complex, which is involved in mitochondrial protein transport.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

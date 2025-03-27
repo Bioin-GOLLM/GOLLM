@@ -1,0 +1,24 @@
+{
+  "gene": "HIGD2A",
+  "geneID": "67044",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HIGD2A copurified with subunits of complex III and complex IV, suggesting a relation to respiratory chain assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HIGD2A is associated with mitochondrial respiratory chain complexes.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

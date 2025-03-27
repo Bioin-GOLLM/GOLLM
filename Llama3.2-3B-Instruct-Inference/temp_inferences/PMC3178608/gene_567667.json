@@ -1,0 +1,24 @@
+{
+  "gene": "bipolin",
+  "geneID": "567667",
+  "go_data": [
+    {
+      "term": "bipolar cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Bipolin is a marker of bipolar cell identity.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "inner nuclear layer",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Bipolin is expressed in some cells in the INL of the retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

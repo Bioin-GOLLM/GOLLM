@@ -1,0 +1,33 @@
+{
+  "gene": "Xpf",
+  "geneID": "50505",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Xpf acts in a complex with ERCC1 in the NER pathway.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleotide-excision repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Xpf is part of the NER pathway, where it acts in a complex with ERCC1.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "spermatogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Xpf is highly expressed in mouse testes and its repair functions are essential for normal germ cell maturation.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}
