@@ -1,0 +1,15 @@
+{
+  "gene": "RMDN3",
+  "geneID": "55177",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RMDN3 copurified with mitochondrial outer membrane proteins.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

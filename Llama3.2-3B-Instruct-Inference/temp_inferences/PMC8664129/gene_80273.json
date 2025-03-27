@@ -1,0 +1,33 @@
+{
+  "gene": "GrpE",
+  "geneID": "80273",
+  "go_data": [
+    {
+      "term": "nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GrpE is described as a nucleotide exchange factor.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GrpE is part of the TIM23-PAM system, which is essential for the import of precursor proteins into the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GrpE is involved in the import of proteins into the mitochondrial matrix, indicating its association with mitochondria.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

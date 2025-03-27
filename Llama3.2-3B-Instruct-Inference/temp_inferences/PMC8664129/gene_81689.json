@@ -1,0 +1,15 @@
+{
+  "gene": "ISCA1",
+  "geneID": "81689",
+  "go_data": [
+    {
+      "term": "iron-sulfur cluster assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ISCA1 is involved in the biosynthesis of Fe-S clusters.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

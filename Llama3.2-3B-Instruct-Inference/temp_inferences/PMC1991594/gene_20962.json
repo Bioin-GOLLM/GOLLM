@@ -1,0 +1,42 @@
+{
+  "gene": "SCP3",
+  "geneID": "20962",
+  "go_data": [
+    {
+      "term": "synaptonemal complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The murine SCP3 gene is required for synaptonemal complex assembly.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "chromosome synapsis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The murine SCP3 gene is required for chromosome synapsis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "male fertility",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The murine SCP3 gene is required for male fertility.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "synaptonemal complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SCP3 is a synaptonemal complex protein.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

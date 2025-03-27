@@ -1,0 +1,15 @@
+{
+  "gene": "TIMM8B",
+  "geneID": "26521",
+  "go_data": [
+    {
+      "term": "mitochondrial intermembrane space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM8B is part of the TIMM8B-TIMM13 complex in the intermembrane space.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

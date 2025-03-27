@@ -1,0 +1,33 @@
+{
+  "gene": "MSH5",
+  "geneID": "17687",
+  "go_data": [
+    {
+      "term": "meiotic recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MSH4/MSH5 is a meiosis specific complex essential for processing recombination intermediates.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The mouse MMR pathway, which includes MSH5, is involved in repairing a variety of mismatches.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MSH5 is involved in meiotic recombination, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

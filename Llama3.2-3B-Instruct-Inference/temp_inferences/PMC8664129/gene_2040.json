@@ -1,0 +1,24 @@
+{
+  "gene": "stomatin",
+  "geneID": "2040",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Stomatin is assigned to protein complexes with established mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "membrane scaffold protein activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Stomatin is part of the prohibitin-stomatin family of membrane scaffold proteins.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

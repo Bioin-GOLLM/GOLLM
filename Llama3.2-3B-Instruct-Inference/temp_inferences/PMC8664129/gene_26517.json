@@ -1,0 +1,24 @@
+{
+  "gene": "TIMM13",
+  "geneID": "26517",
+  "go_data": [
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIMM13 is part of the DDP1/TIMM8a-TIMM13 complex, defects in which cause human deafness dystonia syndrome.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial intermembrane space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM13 is described as an intermembrane space chaperone, indicating its location in the mitochondrial intermembrane space.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

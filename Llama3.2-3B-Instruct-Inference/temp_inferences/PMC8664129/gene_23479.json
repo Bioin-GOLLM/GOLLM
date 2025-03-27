@@ -1,0 +1,24 @@
+{
+  "gene": "ISCU",
+  "geneID": "23479",
+  "go_data": [
+    {
+      "term": "iron-sulfur cluster assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ISCU is involved in the biosynthesis of Fe-S clusters.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The biosynthesis of Fe-S clusters, which involves ISCU, is related to mitochondrial cristae architecture.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

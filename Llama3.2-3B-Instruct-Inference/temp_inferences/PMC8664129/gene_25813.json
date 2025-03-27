@@ -1,0 +1,24 @@
+{
+  "gene": "SAMM50",
+  "geneID": "25813",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SAMM50 is described as an outer membrane protein.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein import into mitochondrial outer membrane",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SAMM50 is mentioned in the context of import via the TOMM40 channel, suggesting its involvement in this process.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

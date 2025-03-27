@@ -1,0 +1,15 @@
+{
+  "gene": "TIMM44",
+  "geneID": "10469",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM44 is associated with the presequence translocase and mitochondrial HSP70, indicating its localization to the mitochondrion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

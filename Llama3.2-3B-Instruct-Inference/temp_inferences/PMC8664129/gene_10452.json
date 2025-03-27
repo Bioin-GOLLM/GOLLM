@@ -1,0 +1,33 @@
+{
+  "gene": "TOMM40",
+  "geneID": "10452",
+  "go_data": [
+    {
+      "term": "protein import into mitochondrial matrix",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "TOMM40 is the central pore-forming subunit of the TOM complex, which provides a selective means to distinguish authentic mitochondrial proteins from proteins of other cell organelles/compartments.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TOMM40 is a subunit of the TOM complex, which is embedded in the mitochondrial outer membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein transmembrane transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TOMM40 forms a channel for the import of mitochondrial proteins.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

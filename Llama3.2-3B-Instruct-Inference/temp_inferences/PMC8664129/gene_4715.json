@@ -1,0 +1,24 @@
+{
+  "gene": "NDUFB9",
+  "geneID": "4715",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFB9 is associated with the acyl carrier protein NDUFAB1, which suggests involvement in complex I assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "NDUFB9 is a subunit of the NADH-ubiquinone oxidoreductase complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "Xpc",
+  "geneID": "22591",
+  "go_data": [
+    {
+      "term": "nucleotide-excision repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NER activity has been found and Xpc is mentioned as a NER gene.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Xpc is mentioned in the context of repair roles, such as in HR and repair of DSBs.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a protein involved in DNA repair, Xpc is likely located in the nucleus.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

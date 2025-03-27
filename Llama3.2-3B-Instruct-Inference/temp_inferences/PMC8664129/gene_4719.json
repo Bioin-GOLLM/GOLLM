@@ -1,0 +1,24 @@
+{
+  "gene": "NDUFS1",
+  "geneID": "4719",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFS1 copurified with LYRM9, which is involved in the assembly of respiratory complexes.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NDUFS1 is a subunit of the respiratory chain complex I, which is located in the mitochondrion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

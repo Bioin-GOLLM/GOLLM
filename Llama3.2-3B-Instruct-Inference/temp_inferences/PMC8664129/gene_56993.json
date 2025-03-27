@@ -1,0 +1,24 @@
+{
+  "gene": "TOMM22",
+  "geneID": "56993",
+  "go_data": [
+    {
+      "term": "protein import into mitochondrial inner membrane",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TOMM22 can partially compensate for TOMM70's function in importing precursor proteins with internal targeting signals.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TOMM22 is a core component of the main entry gate, implying its location in the mitochondrial outer membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

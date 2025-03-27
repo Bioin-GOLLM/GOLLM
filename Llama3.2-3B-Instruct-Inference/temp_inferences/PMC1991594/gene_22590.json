@@ -1,0 +1,33 @@
+{
+  "gene": "Xpa",
+  "geneID": "22590",
+  "go_data": [
+    {
+      "term": "nucleotide-excision repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NER activity has been found and Xpa is a NER gene.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "response to UV-B",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Increased susceptibility to ultraviolet-B of mice lacking the DNA excision repair gene XPA.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Xpa is a DNA excision repair gene.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

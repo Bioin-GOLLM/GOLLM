@@ -1,0 +1,24 @@
+{
+  "gene": "TIMM50",
+  "geneID": "92609",
+  "go_data": [
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM50 is a core subunit of the presequence translocase, which is associated with the mitochondrial inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIMM50 interacts with other subunits of the presequence translocase and the respiratory chain assembly line, indicating involvement in protein complex assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

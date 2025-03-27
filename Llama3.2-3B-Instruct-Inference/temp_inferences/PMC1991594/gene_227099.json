@@ -1,0 +1,24 @@
+{
+  "gene": "PMS1",
+  "geneID": "227099",
+  "go_data": [
+    {
+      "term": "meiotic recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PMS1 is one of the MutL homologs involved in meiosis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PMS1 is a MutL homolog, which is involved in repairing mismatches.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

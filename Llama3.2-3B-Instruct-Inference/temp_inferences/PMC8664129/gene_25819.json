@@ -1,0 +1,15 @@
+{
+  "gene": "NOCT",
+  "geneID": "25819",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "All assays demonstrated a mitochondrial localization of the MitoCoP proteins studied, including NOCT.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

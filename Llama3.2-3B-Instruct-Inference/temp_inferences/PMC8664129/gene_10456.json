@@ -1,0 +1,24 @@
+{
+  "gene": "HAX1",
+  "geneID": "10456",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HAX1 copurified with the TOM complex and other mitochondrial outer membrane proteins.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HAX1 is a cytoskeleton-related protein.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

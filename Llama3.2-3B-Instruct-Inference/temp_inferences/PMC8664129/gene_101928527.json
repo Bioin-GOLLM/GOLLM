@@ -1,0 +1,24 @@
+{
+  "gene": "PIGBOS1",
+  "geneID": "101928527",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PIGBOS1 was reported to have mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "respiratory chain complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PIGBOS1 copurified with subunits of complex III, complex IV, and an ortholog of the yeast respiratory supercomplex III-IV assembly factor Rcf1.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

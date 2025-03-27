@@ -1,0 +1,33 @@
+{
+  "gene": "caspase-3",
+  "geneID": "12367",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Caspase-3 positive germ cells were detected, indicating involvement in apoptosis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "execution-phase caspase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Caspase-3 is one of the 'executioner caspases' known to be activated by the FAS system.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Caspase-3 is activated in the cytoplasm as part of the apoptotic process.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}
