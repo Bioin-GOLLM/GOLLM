@@ -1,0 +1,24 @@
+{
+  "gene": "SSADH",
+  "geneID": "7915",
+  "go_data": [
+    {
+      "term": "succinate-semialdehyde dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SSADH is described as succinate semialdehyde dehydrogenase, implying it has this enzymatic activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Impacts on SSA turnover and metabolism of compounds like doxorubicin suggest involvement in metabolic processes.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

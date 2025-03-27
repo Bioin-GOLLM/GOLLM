@@ -1,0 +1,24 @@
+{
+  "gene": "BRCA1",
+  "geneID": "672",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found in provided text, however BRCA1 is known for its role in DNA repair.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "None found in provided text, however BRCA1 is known to be localized in the nucleus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

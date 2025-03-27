@@ -1,0 +1,24 @@
+{
+  "gene": "SMAD3",
+  "geneID": "4088",
+  "go_data": [
+    {
+      "term": "transforming growth factor beta receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SMAD3 interacts with SMAD4 in the TGFbeta/SMAD signaling pathway.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SMAD3 interacts with SMAD4.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

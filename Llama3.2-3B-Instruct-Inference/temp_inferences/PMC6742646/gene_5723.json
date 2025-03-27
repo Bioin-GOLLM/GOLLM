@@ -1,0 +1,33 @@
+{
+  "gene": "PSPH",
+  "geneID": "5723",
+  "go_data": [
+    {
+      "term": "phosphoserine phosphatase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PSPH has phosphatase activity as measured by a malachite green assay.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "dimerization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PSPH exists as a dimer in solution and mutations that interfere with dimerization can reduce enzymatic activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however phosphatases are often found in the cytoplasm.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

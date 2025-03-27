@@ -1,0 +1,15 @@
+{
+  "gene": "SEPT12",
+  "geneID": "71089",
+  "go_data": [
+    {
+      "term": "spermatogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Homozygous Sept12G169E males were subfertile, suggesting SEPT12's involvement in spermatogenesis.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

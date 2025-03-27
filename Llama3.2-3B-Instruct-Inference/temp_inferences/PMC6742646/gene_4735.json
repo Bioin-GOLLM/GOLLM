@@ -1,0 +1,33 @@
+{
+  "gene": "SEPT2",
+  "geneID": "4735",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SEPT2 is part of a filamentous structure at the sperm annulus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT2 is a GTPase, implying it has GTP binding activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "sperm motility",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Disruption of SEPT2 interactions affects sperm motility.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

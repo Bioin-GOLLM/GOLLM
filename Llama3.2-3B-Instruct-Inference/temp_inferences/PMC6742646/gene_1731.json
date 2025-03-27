@@ -1,0 +1,33 @@
+{
+  "gene": "SEPT1",
+  "geneID": "1731",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT1 is a GTPase, implying it has GTP binding activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SEPT1 is a septin protein, which is a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein heterodimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT1 interacts with other septin proteins such as SEPT12 and SEPT7.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}
