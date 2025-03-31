@@ -1,0 +1,15 @@
+{
+  "gene": "TRG",
+  "geneID": "6965",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "involved_in",
+      "namespace": "molecular_function",
+      "justification": "TRG is mentioned in the context of DMI structures and motif classes, suggesting interaction with other proteins.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

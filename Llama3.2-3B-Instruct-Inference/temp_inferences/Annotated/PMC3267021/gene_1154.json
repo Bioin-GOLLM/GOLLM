@@ -1,0 +1,15 @@
+{
+  "gene": "cis",
+  "geneID": "1154",
+  "go_data": [
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The steady state localization of VAMPs 8, 3, and 2 is endosomal.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

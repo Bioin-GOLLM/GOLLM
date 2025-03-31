@@ -1,0 +1,33 @@
+{
+  "gene": "SDCBP",
+  "geneID": "6386",
+  "go_data": [
+    {
+      "term": "extracellular vesicle formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SDCBP functions in ESCRT-dependent EV generation and its knockout shows reduced EV production.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein recruitment into extracellular vesicles",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SDCBP may play a role in the recruitment of proteins into EVs.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "extracellular vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SDCBP is frequently detected in EVs.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "AP180",
+  "geneID": "20616",
+  "go_data": [
+    {
+      "term": "vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AP180 may play a role in the trafficking of VAMP2 in mammalian cells.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "protein transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AP180 may play a role in the trafficking of VAMP2 in mammalian cells.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "VAMP2",
+  "geneID": "6844",
+  "go_data": [
+    {
+      "term": "SNAP receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VAMP2 is a SNARE protein that provides a large part of the specificity and energy needed for membrane fusion.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 drives the fusion of fast-recycling synaptic vesicles with the plasma membrane.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "clathrin-mediated endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is internalized from the plasma membrane by clathrin-mediated endocytosis due to a direct interaction with the clathrin adaptor CALM.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 cycles between the plasma membrane and endosomes.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 cycles between the plasma membrane and endosomes.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

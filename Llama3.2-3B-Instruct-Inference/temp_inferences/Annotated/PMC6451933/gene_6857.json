@@ -1,0 +1,33 @@
+{
+  "gene": "synaptotagmin-1",
+  "geneID": "6857",
+  "go_data": [
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "synaptotagmin-1 is described as the primary Ca2+ sensor",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "regulation of synaptic vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "synaptotagmin-1 is mentioned as a key regulatory element for Ca2+-regulated neurotransmitter release",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "synaptotagmin-1 is associated with synaptic vesicle cycling and fusion",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

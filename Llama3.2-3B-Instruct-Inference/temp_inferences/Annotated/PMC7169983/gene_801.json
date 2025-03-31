@@ -1,0 +1,24 @@
+{
+  "gene": "CALM1",
+  "geneID": "801",
+  "go_data": [
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CALM1, also known as calmodulin, is known to bind calcium ions.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "extracellular vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CALM1 was detected in the U373vIII EV proteome.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

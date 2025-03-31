@@ -1,0 +1,33 @@
+{
+  "gene": "ARL6IP1",
+  "geneID": "23204",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum membrane shaping",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Arl6IP1 has the ability to shape the mammalian ER membrane in a reticulon-like fashion",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Roles in protein transport and ER function have also been ascribed to ARL6IP1",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Arl6IP1 has the ability to shape the mammalian ER membrane in a reticulon-like fashion and roles in ER function have been ascribed to ARL6IP1",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

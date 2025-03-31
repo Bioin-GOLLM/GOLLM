@@ -1,0 +1,33 @@
+{
+  "gene": "VAMP2",
+  "geneID": "22318",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is a small R-SNARE involved in the endocytosis process.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is a small R-SNARE that plays a role in the trafficking of proteins through the endocytic pathway.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 is transported to early endosomes as part of the endocytic pathway.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

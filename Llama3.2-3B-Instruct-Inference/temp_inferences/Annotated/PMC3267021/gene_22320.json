@@ -1,0 +1,33 @@
+{
+  "gene": "VAMP8",
+  "geneID": "22320",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VAMP8 binds to CALMANTH through its N-terminal half of the SNARE motif.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP8 is a SNARE protein, which is typically involved in vesicle fusion.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a SNARE protein, VAMP8 is likely located in the cytosol.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

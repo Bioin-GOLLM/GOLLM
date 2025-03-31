@@ -1,0 +1,33 @@
+{
+  "gene": "STX1B",
+  "geneID": "112755",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "STX1B binds to VAMP2 in a similar way to STX1A, which binds in a 4-helix bundle to VAMP2 together with SNAP25.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STX1B interacts with VAMP2 and FBXO28 via coiled-coil interfaces, suggesting involvement in protein complex assembly.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a SNARE protein, STX1B is expected to be located in the cytoplasm, where it can interact with other proteins such as VAMP2 and FBXO28.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

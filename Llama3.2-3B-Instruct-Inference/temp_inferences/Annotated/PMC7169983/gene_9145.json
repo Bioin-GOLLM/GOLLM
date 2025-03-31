@@ -1,0 +1,24 @@
+{
+  "gene": "SYNGR1",
+  "geneID": "9145",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SYNGR1 is involved in PPIs with PNKP.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "brain",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "SYNGR1 is preferentially expressed in the brain.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

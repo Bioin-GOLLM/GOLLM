@@ -1,0 +1,33 @@
+{
+  "gene": "Abeta",
+  "geneID": "11820",
+  "go_data": [
+    {
+      "term": "neurotoxin activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Abeta modifies toxicity in primary rat cortical neuron models.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "modification of cognitive function",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Abeta has been implicated in alterations in cognitive function with increasing age.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Abeta modifies toxicity in primary rat cortical neuron models.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

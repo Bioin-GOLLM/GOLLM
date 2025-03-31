@@ -1,0 +1,15 @@
+{
+  "gene": "SUCLA2",
+  "geneID": "8803",
+  "go_data": [
+    {
+      "term": "mitochondrial matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SUCLA2 is known to be involved in the citric acid cycle, which takes place in the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

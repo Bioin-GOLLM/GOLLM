@@ -1,0 +1,15 @@
+{
+  "gene": "Myc",
+  "geneID": "4609",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myc-tagged CALM interacts with VAMP8.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

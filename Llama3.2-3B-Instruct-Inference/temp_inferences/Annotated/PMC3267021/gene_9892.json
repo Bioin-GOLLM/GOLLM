@@ -1,0 +1,60 @@
+{
+  "gene": "CALMANTH",
+  "geneID": "9892",
+  "go_data": [
+    {
+      "term": "clathrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CALMANTH binds to clathrin.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "phosphatidylinositol-4,5-bisphosphate binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CALMANTH binds to PtdIns4,5P2.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CALMANTH binds to the SNARE motif of VAMP8, VAMP3, and VAMP2.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CALMANTH is involved in the endocytosis of VAMP8, VAMP3, and VAMP2.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "vesicle formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CALMANTH is involved in the formation of endocytic vesicles.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CALMANTH is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

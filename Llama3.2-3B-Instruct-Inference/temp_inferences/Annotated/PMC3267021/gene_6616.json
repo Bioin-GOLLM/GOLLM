@@ -1,0 +1,33 @@
+{
+  "gene": "SNAP25",
+  "geneID": "6616",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP25 is a SNARE protein, which is involved in SNARE complex assembly.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "cell membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAREs, including SNAP25, are typically associated with cell membranes.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SNAP25, as a SNARE protein, is capable of binding to other proteins to form SNARE complexes.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

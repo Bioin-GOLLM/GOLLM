@@ -1,0 +1,15 @@
+{
+  "gene": "ETO",
+  "geneID": "12395",
+  "go_data": [
+    {
+      "term": "regulation of phagocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CalpB can modify the effect of the human leukemogenic fusion protein AML1-ETO when expressed in Drosophila blood cells, which are involved in phagocytosis.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "gene": "HCF-1",
+  "geneID": "3054",
+  "go_data": [
+    {
+      "term": "transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HCFC1 is a transcription factor that associates with other transcription factors.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HCFC1 interacts with other transcription factors, splice factors, and cell cycle regulators.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, HCFC1 is expected to be located in the nucleus.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "regulation of cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The deubiquitinating enzyme BAP1 regulates cell growth via interaction with HCF-1.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "viral process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HCF-1 is a host protein required for herpes simplex virus infection.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "RNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A novel function for human factor C1 (HCF-1) in pre-mRNA splicing.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

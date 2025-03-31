@@ -1,0 +1,33 @@
+{
+  "gene": "EGF",
+  "geneID": "1950",
+  "go_data": [
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EGF binds to its receptor, which is not explicitly stated in the text but is a well-known fact, however, the text does mention EGF in the context of endocytosis.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The endocytosis rates of standard cargoes such as EGF were not significantly altered by CALM depletion.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EGF is a secreted protein that binds to its receptor on the cell surface, although the text does not explicitly state this, it can be inferred that EGF is outside the cell.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

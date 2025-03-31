@@ -1,0 +1,24 @@
+{
+  "gene": "syntaxin3",
+  "geneID": "20908",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Syntaxin3 forms SNARE complexes with its cognate plasma membrane SNARE partners.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Syntaxin3 is able to form SNARE complexes with its cognate plasma membrane SNARE partners.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

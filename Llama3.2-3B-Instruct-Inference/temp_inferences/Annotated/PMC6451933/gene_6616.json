@@ -1,0 +1,51 @@
+{
+  "gene": "synaptosomal-associated protein 25",
+  "geneID": "6616",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP25 assembles with VAMP2 and syntaxin-1A to mediate fusion of synaptic vesicles.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP25 mediates fusion of synaptic vesicles to release neurotransmitters.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAP25 is involved in the fusion of synaptic vesicles at the synapse.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP25, together with VAMP2 and syntaxin-1A, mediates fusion of synaptic vesicles.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAP25 is part of the binary complex on the plasma membrane.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

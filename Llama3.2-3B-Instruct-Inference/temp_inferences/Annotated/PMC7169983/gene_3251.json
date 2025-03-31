@@ -1,0 +1,15 @@
+{
+  "gene": "HPRT1",
+  "geneID": "3251",
+  "go_data": [
+    {
+      "term": "extracellular vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "HPRT1 displayed significantly reduced protein levels in EVs.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

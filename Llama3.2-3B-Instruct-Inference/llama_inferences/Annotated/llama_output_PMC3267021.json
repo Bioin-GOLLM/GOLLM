@@ -1,0 +1,1087 @@
+[
+  {
+    "gene": "VAMP8",
+    "geneID": "8673",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP8 binds directly to the ubiquitously expressed, PtdIns4,5P2-binding, endocytic clathrin adaptor CALM/PICALM.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP8 mediates the fusion of vesicles with early endosomes/recycling endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytic vesicle",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "VAMP8 is internalized from the plasma membrane by clathrin-mediated endocytosis.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cellular protein localization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP8 is involved in the trafficking of proteins through the endocytic pathway.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP8 is localized to the plasma membrane and cycles between the plasma membrane and endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP3",
+    "geneID": "9341",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP3 binds directly to the CALMANTH domain as helices in a manner that mimics SNARE complex formation.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP3 mediates the fusion of vesicles with early endosomes/recycling endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP3 is internalized from the plasma membrane by clathrin-mediated endocytosis due to a direct interaction with the clathrin adaptor CALM.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP3 cycles between the plasma membrane and early endosomes/recycling endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP3 mediates the fusion of vesicles with early endosomes/recycling endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP2",
+    "geneID": "6844",
+    "go_data": [
+      {
+        "term": "SNAP receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP2 is a SNARE protein that provides a large part of the specificity and energy needed for membrane fusion.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP2 drives the fusion of fast-recycling synaptic vesicles with the plasma membrane.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "clathrin-mediated endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP2 is internalized from the plasma membrane by clathrin-mediated endocytosis due to a direct interaction with the clathrin adaptor CALM.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP2 cycles between the plasma membrane and endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP2 cycles between the plasma membrane and endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CALM",
+    "geneID": "233489",
+    "go_data": [
+      {
+        "term": "clathrin-dependent endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CALM is involved in the endocytosis of VAMPs 2, 3, and 8 through direct interaction with the N-terminal halves of their SNARE motifs.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CALM binds directly to the N-terminal halves of the SNARE motifs of VAMP8, VAMP3, and VAMP2.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytic vesicle",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CALM is involved in the formation of endocytic clathrin-coated vesicles (CCVs) through its interaction with VAMPs.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "regulates",
+        "namespace": "biological_process",
+        "justification": "CALM's interaction with VAMPs prevents them from forming SNARE complexes, and this interaction is mutually exclusive with SNARE complex formation.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CALM is involved in the endocytosis of VAMPs from the plasma membrane.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "phosphatidylinositol binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CALM binds to PtdIns4,5P2, which increases its affinity for VAMPs.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNARE",
+    "geneID": "100170220",
+    "go_data": [
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAREs are required for the fusion of endocytic vesicles with their target early endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The internalization of VAMP8, and consequently that of the highly related small R-SNAREs, VAMP3 and VAMP2, is mediated by specific, direct interactions between the N-terminal halves of their SNARE motifs and the ANTH domain of the endocytic clathrin adaptor CALM.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNARE complexes are formed when four SNARE motifs come together as a tetrameric coiled-coil.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SNAREs must be positioned in their appropriate cellular location in order to function correctly, and are found in the cell membrane.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP8, VAMP3, and VAMP2 are required for the fusion of endocytic vesicles with their target early endosomes, and are found in endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "R-SNARE",
+    "geneID": "10652",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNARE complexes are formed when four SNARE motifs come together as a tetrameric coiled-coil, with R-SNAREs playing a crucial role in this process.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "R-SNAREs are required for the fusion of endocytic clathrin-coated vesicles with endosomes and also for subsequent postendosomal trafficking.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CALM:R-SNARE interactions ensure that R-SNAREs are sorted into endocytic vesicles, and CALM's role in directing the endocytosis of small R-SNAREs may provide insight into the association of CALM/PICALM mutations with growth retardation, cognitive defects, and Alzheimer's disease.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "R-SNAREs reside in the membrane that will fuse with another membrane, and the SNARE motif of a small R-SNARE is never free but interacts with either CALM, a membrane surface, or is part of a cognate SNARE complex.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CALMANTH",
+    "geneID": "9892",
+    "go_data": [
+      {
+        "term": "clathrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CALMANTH binds to clathrin.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "phosphatidylinositol-4,5-bisphosphate binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CALMANTH binds to PtdIns4,5P2.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CALMANTH binds to the SNARE motif of VAMP8, VAMP3, and VAMP2.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CALMANTH is involved in the endocytosis of VAMP8, VAMP3, and VAMP2.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CALMANTH is involved in the formation of endocytic vesicles.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CALMANTH is located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNAP23",
+    "geneID": "8773",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAP23 forms SNARE complexes with VAMP8 and syntaxin3.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SNAP23 is a plasma membrane SNARE partner.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SNAP23 binds to VAMP8 and syntaxin3 to form SNARE complexes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNAP25",
+    "geneID": "6616",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAP25 is a SNARE protein, which is involved in SNARE complex assembly.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SNAREs, including SNAP25, are typically associated with cell membranes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SNAP25, as a SNARE protein, is capable of binding to other proteins to form SNARE complexes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNAP29",
+    "geneID": "9342",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SNAP29 contains a conserved helical SNARE motif.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "justification": "Not explicitly stated, removing due to lack of direct evidence.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vti1b",
+    "geneID": "10490",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vti1b forms a complex with VAMP8, Syntaxin7, and Syntaxin8.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vti1b is sorted into transport vesicles and is involved in post-Golgi trafficking.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endomembrane system",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vti1b is involved in ER to Golgi transport and is found in endocytic clathrin-coated vesicles.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EpsinR",
+    "geneID": "9685",
+    "go_data": [
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "EpsinR mediates the sorting of Vti1b in post-Golgi trafficking.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EpsinR interacts with the folded N-terminal domains of the SNAREs.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cytoplasmic vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EpsinR is involved in the sorting of Vti1b into transport vesicles.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP7",
+    "geneID": "6845",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP7 can be transported as part of a cis-SNARE complex.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endosome to lysosome transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP7 is active on late endocytic organelles and is involved in endosome/lysosome biogenesis.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP7 is involved in the regulated secretion of lysosomes with the plasma membrane.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "late endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP7 is active on late endocytic organelles.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "clathrin-coated vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP7 is endocytosed in an inactive cis-SNARE complex through binding to the clathrin adaptor and ArfGAP Hrb.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Hrb",
+    "geneID": "3267",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Hrb binds to the N-terminal domain of VAMP7.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Hrb is involved in the sorting of VAMP7 by interacting with the coated vesicle adaptors.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytic vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Hrb is associated with endocytic vesicles through binding to VAMP7 in an inactive cis-SNARE complex.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP4",
+    "geneID": "8674",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP4 contains a conventional cargo motif (ExxxLL motif) and participates in vesicle fusion events, implying SNARE binding activity.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP4 mediates the fusion of vesicles, specifically in TGN-to-endosome transport.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "trans-Golgi network",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP4 cycles from the cell surface to the trans-Golgi network via sorting and recycling endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP4 is involved in TGN-to-endosome transport and cycles through endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP4 cycles from the cell surface to the trans-Golgi network via sorting and recycling endosomes.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cis",
+    "geneID": "1154",
+    "go_data": [
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The steady state localization of VAMPs 8, 3, and 2 is endosomal.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AP180",
+    "geneID": "20616",
+    "go_data": [
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AP180 may play a role in the trafficking of VAMP2 in mammalian cells.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AP180 may play a role in the trafficking of VAMP2 in mammalian cells.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP2",
+    "geneID": "22318",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP2 is a small R-SNARE involved in the endocytosis process.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP2 is a small R-SNARE that plays a role in the trafficking of proteins through the endocytic pathway.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP2 is transported to early endosomes as part of the endocytic pathway.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Myc",
+    "geneID": "4609",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Myc-tagged CALM interacts with VAMP8.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGF",
+    "geneID": "1950",
+    "go_data": [
+      {
+        "term": "receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EGF binds to its receptor, which is not explicitly stated in the text but is a well-known fact, however, the text does mention EGF in the context of endocytosis.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The endocytosis rates of standard cargoes such as EGF were not significantly altered by CALM depletion.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EGF is a secreted protein that binds to its receptor on the cell surface, although the text does not explicitly state this, it can be inferred that EGF is outside the cell.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TfR",
+    "geneID": "7037",
+    "go_data": [
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TfR endocytosis rates were not significantly altered by CALM depletion.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TfR is a transmembrane receptor that undergoes endocytosis from the plasma membrane.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "epsin1",
+    "geneID": "29924",
+    "go_data": [
+      {
+        "term": "clathrin adaptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "epsin1 is described as an endocytic clathrin adaptor.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "epsin1 is mentioned in the context of endocytosis of VAMPs.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP8",
+    "geneID": "22320",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP8 binds to CALMANTH through its N-terminal half of the SNARE motif.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP8 is a SNARE protein, which is typically involved in vesicle fusion.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a SNARE protein, VAMP8 is likely located in the cytosol.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNARE",
+    "geneID": "53612",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The SNARE motif is necessary for binding to CALM, indicating involvement in SNARE complex assembly.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The SNARE motif binds to CALM, demonstrating protein binding capability.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP3",
+    "geneID": "22319",
+    "go_data": [
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP3 is involved in internalisation from the cell surface, suggesting a role in vesicle fusion.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP3 is internalised from the cell surface.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP3, as a VAMP protein, is likely to have SNARE binding activity.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Syntaxin7",
+    "geneID": "8417",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin7 is part of the SNARE complex formed from VAMP8, Syntaxin7, Syntaxin8, and Vti1b.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin7 interacts with VAMP8 in the SNARE complex.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Syntaxin8",
+    "geneID": "9482",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin8 forms a SNARE complex with VAMP8, Syntaxin7, and Vti1b.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin8 is part of a SNARE complex, which is involved in vesicle fusion.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syntaxin3",
+    "geneID": "20908",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin3 forms SNARE complexes with its cognate plasma membrane SNARE partners.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Syntaxin3 is able to form SNARE complexes with its cognate plasma membrane SNARE partners.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Syntaxin3",
+    "geneID": "6809",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin3 forms SNARE complex with SNAP23 and VAMP8.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a SNARE protein, Syntaxin3 is expected to be located in the cell membrane.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin3 binds to SNAP23 and VAMP8 to form SNARE complex.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Abeta",
+    "geneID": "11820",
+    "go_data": [
+      {
+        "term": "neurotoxin activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Abeta modifies toxicity in primary rat cortical neuron models.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "modification of cognitive function",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Abeta has been implicated in alterations in cognitive function with increasing age.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "neuron",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Abeta modifies toxicity in primary rat cortical neuron models.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Abeta",
+    "geneID": "351",
+    "go_data": [
+      {
+        "term": "amyloid-beta formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Alterations in vesicle trafficking give rise to increased levels of Abeta production.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Endocytosis is a major pathway for clearance of Abeta from the brain parenchyma.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Abeta is produced and found outside the cell, contributing to amyloid-beta formation.",
+        "reference(s)": [
+          "PMC3267021"
+        ]
+      }
+    ]
+  }
+]

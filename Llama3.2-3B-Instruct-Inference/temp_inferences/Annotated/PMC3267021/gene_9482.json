@@ -1,0 +1,24 @@
+{
+  "gene": "Syntaxin8",
+  "geneID": "9482",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Syntaxin8 forms a SNARE complex with VAMP8, Syntaxin7, and Vti1b.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Syntaxin8 is part of a SNARE complex, which is involved in vesicle fusion.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "VAMP1",
+  "geneID": "6843",
+  "go_data": [
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP1 encodes a protein involved in vesicle fusion mainly at neuromuscular synapses.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neuromuscular synapse",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP1 is involved in vesicle fusion mainly at neuromuscular synapses.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "presynaptic neuromuscular transmission",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations in VAMP1 lead to presynaptic congenital myasthenic syndrome with neurophysiological evidence of presynaptic neuromuscular transmission impairment.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "Ca2+-triggered neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Synaptobrevin1/VAMP1 is involved in Ca2+-triggered neurotransmitter release at the neuromuscular junction.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

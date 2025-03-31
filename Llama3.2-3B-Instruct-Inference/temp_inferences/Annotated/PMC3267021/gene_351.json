@@ -1,0 +1,33 @@
+{
+  "gene": "Abeta",
+  "geneID": "351",
+  "go_data": [
+    {
+      "term": "amyloid-beta formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Alterations in vesicle trafficking give rise to increased levels of Abeta production.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Endocytosis is a major pathway for clearance of Abeta from the brain parenchyma.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Abeta is produced and found outside the cell, contributing to amyloid-beta formation.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

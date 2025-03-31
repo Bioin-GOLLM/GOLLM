@@ -1,0 +1,15 @@
+{
+  "gene": "FBXO23",
+  "geneID": "26262",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FBXO23 interacts with STX1B, indicating a protein binding activity.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

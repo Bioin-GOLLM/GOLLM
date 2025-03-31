@@ -1,0 +1,15 @@
+{
+  "gene": "JIP1",
+  "geneID": "9479",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "JIP1 is mentioned in the context of DOC_MAPK_JIP1_4, suggesting interaction with MAPK.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

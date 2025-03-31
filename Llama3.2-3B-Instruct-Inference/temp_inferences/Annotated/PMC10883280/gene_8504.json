@@ -1,0 +1,33 @@
+{
+  "gene": "PEX3",
+  "geneID": "8504",
+  "go_data": [
+    {
+      "term": "peroxisome membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PEX3 is anchored into the peroxisomal membrane via its N-terminal TM helix.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PEX3 binds to PEX19 and PEX16.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "peroxisome organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PEX3 regulates peroxisome homeostasis.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

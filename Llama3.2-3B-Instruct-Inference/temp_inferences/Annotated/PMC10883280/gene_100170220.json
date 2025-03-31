@@ -1,0 +1,33 @@
+{
+  "gene": "SNARE",
+  "geneID": "100170220",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The SNARE domain in STX1B is crucial for binding to VAMP2 and FBXO28, suggesting involvement in SNARE complex assembly.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The SNARE domain in STX1B binds to VAMP2 and FBXO28, indicating protein binding activity.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a component of the SNARE complex, SNARE is expected to be located in the cytoplasm, where vesicle fusion occurs.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "TRIM37",
+  "geneID": "4591",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRIM37 is predicted to bind to PNKP via its MATH domain and disordered stretches.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information, however, based on the interaction with PNKP, which is known to be involved in DNA repair processes that can occur in the nucleus and cytoplasm, TRIM37 might be located in the cytoplasm, but this is not explicitly stated.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "SNRPB",
+  "geneID": "6628",
+  "go_data": [
+    {
+      "term": "mRNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNRPB is involved in mRNA splicing as it is part of the Sm ring complex that binds small nuclear RNA.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNRPB is part of the Sm ring complex that binds small nuclear RNA, which is typically found in the nucleus.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SNRPB binds to GIGYF1 through its LSM domain and a proline-rich repeat motif in its C-terminal region.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "small nuclear ribonucleoprotein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SNRPB is part of the Sm ring complex that binds small nuclear RNA.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

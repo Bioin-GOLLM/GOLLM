@@ -1,0 +1,24 @@
+{
+  "gene": "SOL",
+  "geneID": "44014",
+  "go_data": [
+    {
+      "term": "cysteine-type peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SOL encodes an atypical calpain molecule, which is a type of cysteine protease.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a calpain molecule, SOL is involved in proteolytic activity.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "gene": "CALM",
+  "geneID": "233489",
+  "go_data": [
+    {
+      "term": "clathrin-dependent endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CALM is involved in the endocytosis of VAMPs 2, 3, and 8 through direct interaction with the N-terminal halves of their SNARE motifs.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CALM binds directly to the N-terminal halves of the SNARE motifs of VAMP8, VAMP3, and VAMP2.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "endocytic vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CALM is involved in the formation of endocytic clathrin-coated vesicles (CCVs) through its interaction with VAMPs.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "CALM's interaction with VAMPs prevents them from forming SNARE complexes, and this interaction is mutually exclusive with SNARE complex formation.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "cell membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CALM is involved in the endocytosis of VAMPs from the plasma membrane.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    },
+    {
+      "term": "phosphatidylinositol binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CALM binds to PtdIns4,5P2, which increases its affinity for VAMPs.",
+      "reference(s)": [
+        "PMC3267021"
+      ]
+    }
+  ]
+}

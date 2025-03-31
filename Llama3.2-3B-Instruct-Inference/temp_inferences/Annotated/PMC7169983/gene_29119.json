@@ -1,0 +1,15 @@
+{
+  "gene": "CTNNA3",
+  "geneID": "29119",
+  "go_data": [
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTNNA3, also known as alpha-catulin or alpha-catenin, is involved in cell-cell adhesion.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

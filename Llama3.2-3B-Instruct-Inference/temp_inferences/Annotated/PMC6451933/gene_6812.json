@@ -1,0 +1,42 @@
+{
+  "gene": "Munc18-1",
+  "geneID": "6812",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Munc18-1 binds the C-terminal portion of the SNARE complex, modulating vesicle fusion.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "regulation of SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Munc18-1 regulates trans-SNARE zippering, which is essential for synaptic exocytosis.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Munc18-1 is involved in synaptic exocytosis, implying its presence in synaptic vesicles.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Munc18-1 is essential for Ca2+-triggered neurotransmitter release.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

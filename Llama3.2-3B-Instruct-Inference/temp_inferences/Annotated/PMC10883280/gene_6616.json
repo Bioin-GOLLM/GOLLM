@@ -1,0 +1,33 @@
+{
+  "gene": "SNAP25",
+  "geneID": "6616",
+  "go_data": [
+    {
+      "term": "SNAP receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SNAP25 binds in a 4-helix bundle to VAMP2 together with STX1A.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP25 is part of the SNARE complex which is involved in vesicle fusion.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAP25 is a component of the SNARE complex which is typically found in the cytoplasm.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}
