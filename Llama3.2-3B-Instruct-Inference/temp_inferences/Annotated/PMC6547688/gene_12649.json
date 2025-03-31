@@ -1,0 +1,24 @@
+{
+  "gene": "CHK1",
+  "geneID": "12649",
+  "go_data": [
+    {
+      "term": "DNA damage checkpoint",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CHK1 is indicated in the context of the DNA damage checkpoint.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CHK1 phosphorylation is mentioned as an indicator of activation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

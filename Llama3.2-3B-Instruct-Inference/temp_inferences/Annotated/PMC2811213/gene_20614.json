@@ -1,0 +1,33 @@
+{
+  "gene": "SNAP-25",
+  "geneID": "20614",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 assembly into SDS-resistant SNARE complexes was examined.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAP-25 membrane association was examined.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "intracellular membrane fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 is a member of the SNARE superfamily of proteins that control membrane fusion.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

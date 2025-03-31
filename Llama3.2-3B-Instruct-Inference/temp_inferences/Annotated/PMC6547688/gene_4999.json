@@ -1,0 +1,33 @@
+{
+  "gene": "ORC2",
+  "geneID": "4999",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORC2 is part of the pre-RC complex, which is involved in replication origin biology.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ORC2 recruitment to chromatin is mentioned in the text, indicating its location.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ORC2 interacts with several proteins, including OBI1 and other ORC subunits.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

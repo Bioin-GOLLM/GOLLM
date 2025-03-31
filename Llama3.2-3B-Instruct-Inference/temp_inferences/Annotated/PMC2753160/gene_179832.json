@@ -1,0 +1,15 @@
+{
+  "gene": "EEA-1",
+  "geneID": "179832",
+  "go_data": [
+    {
+      "term": "early endosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "FYVE domain of EEA-1 is a marker of early endosomes.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

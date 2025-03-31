@@ -1,0 +1,24 @@
+{
+  "gene": "RGS4",
+  "geneID": "617437",
+  "go_data": [
+    {
+      "term": "G-protein signaling regulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RGS4 is described as a regulator of G-protein signaling.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "brain",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "RGS4 is mentioned in the context of brain BLOC-1 and as a candidate schizophrenia susceptibility gene, implying its expression in the brain.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

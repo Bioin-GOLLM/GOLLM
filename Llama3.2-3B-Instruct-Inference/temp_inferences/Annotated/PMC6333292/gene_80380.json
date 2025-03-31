@@ -1,0 +1,24 @@
+{
+  "gene": "PD-L2",
+  "geneID": "80380",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L2 is described as a protein, implying it is located on the cell surface.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PD-L2 is associated with MHC-I, which is involved in the immune response.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

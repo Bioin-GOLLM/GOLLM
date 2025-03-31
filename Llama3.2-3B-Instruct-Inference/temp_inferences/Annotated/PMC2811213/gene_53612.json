@@ -1,0 +1,51 @@
+{
+  "gene": "SNARE",
+  "geneID": "53612",
+  "go_data": [
+    {
+      "term": "membrane fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNARE proteins are key regulators of docking and fusion of intracellular membranes.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "intracellular membrane trafficking",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNARE proteins control membrane fusion, including the fusion of vesicles with the plasma membrane during exocytosis.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "neurite outgrowth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNARE proteins, including SNAP-25 and syntaxin 13, have been implicated in neurite outgrowth.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNARE proteins are key regulators of docking and fusion of intracellular membranes, including vesicle fusion.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "SNARE complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SNARE proteins assemble into heterotypic complexes containing one domain each of the Qa, Qb, Qc and R types.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

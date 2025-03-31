@@ -1,0 +1,24 @@
+{
+  "gene": "ORC5",
+  "geneID": "26429",
+  "go_data": [
+    {
+      "term": "chromatin organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Orc5 induces large-scale chromatin decondensation",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "OBI1 ubiquitin ligase activity toward the ORC complex",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

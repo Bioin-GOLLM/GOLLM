@@ -1,0 +1,15 @@
+{
+  "gene": "FXR1",
+  "geneID": "8087",
+  "go_data": [
+    {
+      "term": "RNA metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FXR1 is associated with RNA metabolism.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

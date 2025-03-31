@@ -1,0 +1,42 @@
+{
+  "gene": "PD-L1",
+  "geneID": "29126",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L1 was one of only 4 proteins reproducibly decreased more than two-fold from the plasma membrane.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The success of anti-cancer therapies targeting the PD-1/PD-L1 immune checkpoint lies in their ability to potentiate anti-tumour immunity.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "Deleting PD-L1 or adding a saturating concentration of PD-1 blocking antibody to the co-culture enhanced T-cell activation.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CMTM6 was immunoprecipitated from digitonin lysates of IFN-gamma treated cells and subjected to mass spectrometry analysis, identifying PD-L1 as a high confidence interacting protein.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

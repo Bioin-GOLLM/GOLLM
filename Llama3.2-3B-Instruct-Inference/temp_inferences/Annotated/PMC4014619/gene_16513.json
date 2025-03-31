@@ -1,0 +1,33 @@
+{
+  "gene": "Kcnj10",
+  "geneID": "16513",
+  "go_data": [
+    {
+      "term": "potassium ion transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kcnj10 is essential for transport of K+ and generation of the transepithelial endocochlear potential.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "strial intermediate cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Kcnj10 is expressed in the stria vascularis.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "voltage-gated potassium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Kcnj10 is involved in the generation of the transepithelial endocochlear potential, suggesting it functions as a voltage-gated potassium channel.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

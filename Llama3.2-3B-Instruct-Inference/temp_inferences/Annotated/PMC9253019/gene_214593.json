@@ -1,0 +1,15 @@
+{
+  "gene": "Duox2",
+  "geneID": "214593",
+  "go_data": [
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Duox2 is one of the genes involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+[
+  {
+    "gene": "PD-L1",
+    "geneID": "29126",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "PD-L1 can be expressed by cancer cells and by infiltrating immune cells at the cell surface.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "negative regulation of immune response",
+        "go_id": "GO:0050777",
+        "relationship": [
+          "negatively_regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "PD-L1 expression on tumor cells or immune cells contributes to T cell inhibition.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PD-L1 interacts with CMTM6 and CMTM4 as shown by co-immunoprecipitation.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "go_id": "GO:0004842",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CMTM6 protects PD-L1 from ubiquitination, suggesting that PD-L1 is a substrate for ubiquitin-protein transferase activity.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CMTM6",
+    "geneID": "54918",
+    "go_data": [
+      {
+        "term": "protein stabilization",
+        "go_id": "GO:0050821",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CMTM6 influences PD-L1 protein stability at late time points after biosynthesis.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CMTM6 is predominantly present within the plasma membrane fraction.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "ubiquitin-dependent protein catabolic process",
+        "go_id": "GO:0006511",
+        "relationship": [
+          "has_part GO:0016567"
+        ],
+        "namespace": "biological_process",
+        "justification": "CMTM6 protects PD-L1 from ubiquitination.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "regulation of protein stability",
+        "go_id": "GO:0031647",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CMTM6 regulates PD-L1 protein stability.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CMTM6 is present at the cell surface.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CMTM4",
+    "geneID": "146223",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Co-immunoprecipitation was observed for PD-L1 and CMTM4.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "positive regulation of gene expression",
+        "go_id": "GO:0010628",
+        "relationship": [
+          "positively_regulates GO:0010467"
+        ],
+        "namespace": "biological_process",
+        "justification": "CMTM4 is a positive regulator of PD-L1 expression.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CMTM6, which is closely related to CMTM4, is largely located at the cell surface.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Interferon gamma",
+    "geneID": "3458",
+    "go_data": [
+      {
+        "term": "cell surface receptor signaling pathway",
+        "go_id": "GO:0007166",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IFNgamma treated haploid HAP1 cells express high levels of cell surface PD-L1.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "regulation of protein localization to cell surface",
+        "go_id": "GO:2000008",
+        "relationship": [
+          "regulates GO:0034394"
+        ],
+        "namespace": "biological_process",
+        "justification": "IFNgamma exposure induces PD-L1 expression on the cell surface.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IFNgamma is described as a cytokine that induces PD-L1 expression.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IFNgamma is involved in the regulation of PD-L1, which plays a role in immune response.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF1",
+    "geneID": "3659",
+    "go_data": []
+  },
+  {
+    "gene": "CKLF",
+    "geneID": "51192",
+    "go_data": [
+      {
+        "term": "chemokine activity",
+        "go_id": "GO:0008009",
+        "relationship": [
+          "part_of GO:0060326"
+        ],
+        "namespace": "molecular_function",
+        "justification": "CKLF is identified as a chemokine-like factor, suggesting it has chemokine activity.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PD-L2",
+    "geneID": "80380",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "PD-L2 is described as a protein, implying it is located on the cell surface.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PD-L2 is associated with MHC-I, which is involved in the immune response.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STUB1",
+    "geneID": "10273",
+    "go_data": [
+      {
+        "term": "ubiquitin protein ligase activity",
+        "go_id": "GO:0061630",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "STUB1 is described as an E3 ubiquitin ligase.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "STUB1 causes destabilization of PD-L1, either by direct modification of one of the lysines in the PD-L1 cytoplasmic domain or indirectly.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "negative regulation of regulatory T cell differentiation",
+        "go_id": "GO:0045590",
+        "relationship": [
+          "negatively_regulates GO:0045066"
+        ],
+        "namespace": "biological_process",
+        "justification": "The ubiquitin ligase Stub1 negatively modulates regulatory T cell suppressive activity by promoting degradation of the transcription factor Foxp3.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "E3 ubiquitin ligase",
+    "geneID": "79594",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "go_id": "GO:0004842",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "STUB1, an E3 ubiquitin ligase, is implicated in degradation of Foxp3 in regulatory T cells.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "STUB1, an E3 ubiquitin ligase, has been implicated in degradation of Foxp3 in regulatory T cells and affects PD-L1 protein stability.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Foxp3",
+    "geneID": "50943",
+    "go_data": [
+      {
+        "term": "regulatory T cell differentiation",
+        "go_id": "GO:0045066",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Foxp3 is implicated in degradation in regulatory T cells.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "STUB1, an E3 ubiquitin ligase, has been implicated in degradation of Foxp3.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-2",
+    "geneID": "3558",
+    "go_data": [
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-2 production is reduced in PD-1 expressing T cells upon encounter of CMTM6-proficient tumor cells, but restored upon CMTM6 disruption.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "cytokine production",
+        "go_id": "GO:0001816",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-2 production of PD-1 expressing T cells is reduced or restored depending on the presence or absence of CMTM6 in tumor cells.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CMTM7",
+    "geneID": "112616",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CMTM7 has been described in association with the B cell receptor (BCR) complex at the cell surface.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "B cell receptor signaling pathway",
+        "go_id": "GO:0050853",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CMTM7 may contribute to BCR signaling as a transmembrane linker of BLNK and the B-cell receptor.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      },
+      {
+        "term": "transmembrane signaling receptor activity",
+        "go_id": "GO:0004888",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CMTM7 acts as a transmembrane linker of BLNK and the B-cell receptor, suggesting it enables transmembrane signaling receptor activity.",
+        "reference(s)": [
+          "PMC6333292"
+        ]
+      }
+    ]
+  }
+]

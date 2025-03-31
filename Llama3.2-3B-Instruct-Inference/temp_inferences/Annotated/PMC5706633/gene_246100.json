@@ -1,0 +1,15 @@
+{
+  "gene": "NY-ESO-1",
+  "geneID": "246100",
+  "go_data": [
+    {
+      "term": "antigen binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NY-ESO-1 is recognized by antigen-specific cytotoxic T-lymphocyte clones.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

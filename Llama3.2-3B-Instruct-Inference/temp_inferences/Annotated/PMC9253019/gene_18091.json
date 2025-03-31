@@ -1,0 +1,15 @@
+{
+  "gene": "Nkx2-5",
+  "geneID": "18091",
+  "go_data": [
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nkx2-5 is differentially expressed in genes involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

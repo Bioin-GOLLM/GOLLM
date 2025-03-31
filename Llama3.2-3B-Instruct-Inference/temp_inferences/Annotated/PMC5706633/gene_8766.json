@@ -1,0 +1,15 @@
+{
+  "gene": "RAB11",
+  "geneID": "8766",
+  "go_data": [
+    {
+      "term": "recycling endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RAB11 is identified in recycling endosomes where it co-localises with TFRC.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

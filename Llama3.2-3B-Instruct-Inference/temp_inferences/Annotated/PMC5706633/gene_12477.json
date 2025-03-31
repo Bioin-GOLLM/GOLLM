@@ -1,0 +1,24 @@
+{
+  "gene": "CTLA-4",
+  "geneID": "12477",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is mentioned in the context of anti-CTLA-4 antibodies, implying involvement in immune system processes.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is known to downregulate T cell activation, but this is not explicitly stated in the text, however, CTLA-4 is often associated with this process.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+[
+  {
+    "gene": "Slc26a7",
+    "geneID": "208890",
+    "go_data": [
+      {
+        "term": "iodide transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC26A7 is involved in iodide transport at the apical membrane of thyroid follicular cells.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC26A7 plays a crucial role in thyroid hormone synthesis by transporting iodide into thyroid follicular cells.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "apical plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SLC26A7 is localized at the apical membrane of thyroid follicular cells and renal tubular cells.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "anion transmembrane transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC26A7 functions as an anion exchanger, transporting chloride and other anions across cell membranes.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Slc26a4",
+    "geneID": "23985",
+    "go_data": [
+      {
+        "term": "iodide transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC26A4 is involved in iodide transport at the apical membrane of thyroid follicular cells.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "apical plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SLC26A4 is localized at the apical membrane of thyrocytes.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "thyroid gland development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC26A4 is involved in thyroid function, and its dysfunction can lead to thyroid-related abnormalities.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Na+/I- symporter",
+    "geneID": "114479",
+    "go_data": [
+      {
+        "term": "iodide transmembrane transport",
+        "relationship": "enables",
+        "namespace": "biological_process",
+        "justification": "Iodide uptake across the basolateral membrane into the thyroid follicular cells is mediated by the Na+/I- symporter (NIS).",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "sodium ion transmembrane transport",
+        "relationship": "enables",
+        "namespace": "biological_process",
+        "justification": "The Na+/I- symporter (NIS) mediates the transport of iodide into the follicular lumen, implying sodium ion transport as well.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "integral component of plasma membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Iodide uptake across the basolateral membrane into the thyroid follicular cells is mediated by the Na+/I- symporter (NIS), indicating it is part of the plasma membrane.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "symporter activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The Na+/I- symporter (NIS) mediates the transport of iodide into the follicular lumen, which is a symporter activity.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "chloride anion exchanger",
+    "geneID": "13487",
+    "go_data": [
+      {
+        "term": "chloride transmembrane transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC26A7 was identified as a chloride anion exchanger in the kidneys and stomach.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "anion transmembrane transporter activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SLC26A7 functions as a chloride anion exchanger.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "kidney",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "SLC26A7 was identified as a chloride anion exchanger in the kidneys.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "stomach",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "SLC26A7 was identified as a chloride anion exchanger in the stomach.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ano1",
+    "geneID": "101772",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ano1 is involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Cftr",
+    "geneID": "12638",
+    "go_data": [
+      {
+        "term": "iodide transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cftr is listed among genes involved in iodide transport.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Clcn5",
+    "geneID": "12728",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Clcn5 is involved in thyroid hormone synthesis and release as one of the 26 genes analyzed for differential expression.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "iodide transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Clcn5 is listed among the genes encoding iodide transporters, suggesting its involvement in iodide transport.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dio1",
+    "geneID": "13370",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dio1 is involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dio2",
+    "geneID": "13371",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dio2 is involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dio3",
+    "geneID": "107585",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dio3 is one of the 26 genes analyzed for differential expression in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Duoxa1",
+    "geneID": "213696",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Duoxa1 is one of the genes involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Duoxa2",
+    "geneID": "66811",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Duoxa2 is one of the 26 genes analyzed for differential expression in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Duox1",
+    "geneID": "99439",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Duox1 is involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Duox2",
+    "geneID": "214593",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Duox2 is one of the genes involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Foxe1",
+    "geneID": "110805",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Foxe1 is one of the 26 genes involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Glis3",
+    "geneID": "226075",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Glis3 is differentially expressed in the context of thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Gnas",
+    "geneID": "14683",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gnas is one of the 26 genes analyzed for differential expression in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Iyd",
+    "geneID": "70337",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Iyd is one of the genes analyzed for differential expression in the context of thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Nkx2-1",
+    "geneID": "21869",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nkx2-1 is one of the genes analyzed for differential expression in the context of thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Nkx2-5",
+    "geneID": "18091",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nkx2-5 is differentially expressed in genes involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Pax8",
+    "geneID": "18510",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pax8 is involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "thyroid gland development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pax8 is a key transcription factor in thyroid development.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Secisbp2",
+    "geneID": "75420",
+    "go_data": [
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Secisbp2 is one of the 26 genes analyzed for differential expression in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Slc5a8",
+    "geneID": "216225",
+    "go_data": [
+      {
+        "term": "iodide transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Slc5a8 is listed among genes involved in iodide transport.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Slc5a8 is analyzed for differential expression in the context of thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Tpo",
+    "geneID": "22018",
+    "go_data": [
+      {
+        "term": "thyroid hormone generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Tpo is involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Tshr",
+    "geneID": "22095",
+    "go_data": [
+      {
+        "term": "thyroid-stimulating hormone receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Tshr is positively regulated by TSH.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "thyroid hormone synthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Tshr is one of the genes involved in thyroid hormone synthesis and release.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, Tshr is expected to be located in the plasma membrane.",
+        "reference(s)": [
+          "PMC9253019"
+        ]
+      }
+    ]
+  }
+]

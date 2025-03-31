@@ -1,0 +1,15 @@
+{
+  "gene": "TFRC",
+  "geneID": "22042",
+  "go_data": [
+    {
+      "term": "recycling endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TFRC is identified in recycling endosomes where it co-localises with CMTM6 and RAB11.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

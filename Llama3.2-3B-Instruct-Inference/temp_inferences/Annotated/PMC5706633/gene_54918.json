@@ -1,0 +1,42 @@
+{
+  "gene": "CMTM6",
+  "geneID": "54918",
+  "go_data": [
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM6 is an uncharacterised protein localised at the cell surface.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CMTM6 was immunoprecipitated from digitonin lysates of IFN-gamma treated cells and subjected to mass spectrometry analysis, identifying PD-L1 as a top ranked interacting protein.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM6 functions as a key regulator of T-lymphocyte mediated anti-tumour immunity by modulating cell surface expression of PD-L1.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The physical association between CMTM6 and PD-L1, and the effect of CMTM6 depletion on T-cell responses, indicate involvement in cell surface receptor signaling.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

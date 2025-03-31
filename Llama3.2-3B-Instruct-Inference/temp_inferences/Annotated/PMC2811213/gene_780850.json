@@ -1,0 +1,24 @@
+{
+  "gene": "Vti1a",
+  "geneID": "780850",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "involved_in",
+      "namespace": "molecular_function",
+      "justification": "Vti1a is a Qb SNARE protein that failed to interact with BLOC-1.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a SNARE protein, Vti1a is likely located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "cappuccino",
+  "geneID": "117197",
+  "go_data": [
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Cappuccino is part of the pallidin-muted complex (BLOC-1).",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "Duox1",
+  "geneID": "99439",
+  "go_data": [
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Duox1 is involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

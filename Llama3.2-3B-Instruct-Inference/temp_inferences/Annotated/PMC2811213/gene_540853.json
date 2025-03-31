@@ -1,0 +1,51 @@
+{
+  "gene": "SNAP-25",
+  "geneID": "540853",
+  "go_data": [
+    {
+      "term": "SNAP receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SNAP-25 is a key regulator of docking and fusion of intracellular membranes, including the fusion of vesicles with the plasma membrane during exocytosis.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 is best known for its role in synaptic vesicle exocytosis, and it also has a demonstrated role in membrane fusion events that occur during the process of neurite outgrowth.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "neurite outgrowth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 has a demonstrated role in membrane fusion events that occur during the process of neurite outgrowth.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "cellular membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAP-25 is involved in the fusion of vesicles with the plasma membrane during exocytosis.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "exocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 is best known for its role in synaptic vesicle exocytosis.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

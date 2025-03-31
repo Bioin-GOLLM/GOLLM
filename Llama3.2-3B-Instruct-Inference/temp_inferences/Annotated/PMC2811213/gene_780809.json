@@ -1,0 +1,33 @@
+{
+  "gene": "Vti1b",
+  "geneID": "780809",
+  "go_data": [
+    {
+      "term": "SNAP receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vti1b is a Qb SNARE protein.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vti1b is a SNARE protein, which is involved in vesicle fusion.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a SNARE protein, Vti1b is likely located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "RFC2",
+  "geneID": "19718",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RFC2 is part of the replisome components, such as DNA polymerase alpha, RPA32, PSF1/GINS1, PCNA, which are involved in DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Chromatin binding of RFC2, along with other factors, was reduced or impaired.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA clamp loader activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RFC2 is the loader for the processivity factor PCNA.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "HNRPM",
+  "geneID": "4670",
+  "go_data": [
+    {
+      "term": "RNA metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HNRPM is associated with RNA metabolism.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nuclear matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HNRPM is among factors associated with the nuclear matrix.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

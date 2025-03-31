@@ -1,0 +1,769 @@
+[
+  {
+    "gene": "UNC-108",
+    "geneID": "171956",
+    "go_data": [
+      {
+        "term": "dense core granule maturation",
+        "go_id": "GO:1990502",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "UNC-108/RAB-2 and its effector RIC-19 are involved in dense core vesicle maturation in Caenorhabditis elegans",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "UNC-108/RAB-2 is highly expressed in the nervous system",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "Golgi apparatus",
+        "go_id": "GO:0005794",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The Golgi localization of RAB-2 in the cell soma",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuronal dense core vesicle",
+        "go_id": "GO:0098992",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "UNC-108/RAB-2 is involved in dense core vesicle maturation",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "regulation of postsynaptic dense core vesicle exocytosis",
+        "go_id": "GO:0150044",
+        "relationship": [
+          "regulates GO:0150038"
+        ],
+        "namespace": "biological_process",
+        "justification": "The DCV maturation defect in unc-108 mutants may affect a DCV function unrelated to neuropeptides",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "The lack of DCV cargo caused by mistrafficking during DCV maturation results in signaling defects at the NMJ, leading to reduced locomotion",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RAB-2",
+    "geneID": "5862",
+    "go_data": [
+      {
+        "term": "Golgi apparatus",
+        "go_id": "GO:0005794",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RAB-2 localizes to the Golgi apparatus but not to synapses.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "dense core granule maturation",
+        "go_id": "GO:1990502",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RAB-2 is required for the maturation of dense core vesicles.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "go_id": "GO:0016192",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RAB-2 regulates vesicular transport and sorting at the Golgi apparatus.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "GTP binding",
+        "go_id": "GO:0005525",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RAB-2 has GTP binding activity.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "GTPase activity",
+        "go_id": "GO:0003924",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RAB-2 has GTPase activity.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RAB-2 interacts with RIC-19 and other effector molecules.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RIC-19",
+    "geneID": "191757",
+    "go_data": [
+      {
+        "term": "dense core granule maturation",
+        "go_id": "GO:1990502",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RIC-19 is involved in dense core vesicle maturation in Caenorhabditis elegans.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "Golgi membrane",
+        "go_id": "GO:0000139",
+        "relationship": [
+          "part_of GO:0005794"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RIC-19 is recruited to the Golgi membranes by activated RAB-2.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RIC-19 is exclusively expressed in neurons.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RIC-19 can be specifically affinity purified with RAB-2(Q65L)DA.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ICA69",
+    "geneID": "3382",
+    "go_data": [
+      {
+        "term": "Golgi membrane",
+        "go_id": "GO:0000139",
+        "relationship": [
+          "part_of GO:0005794"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Rab2 recruits ICA69 to Golgi membranes in a GTP-dependent manner.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ICA69/RIC-19 interacts with Rab GTPases.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "dense core granule maturation",
+        "go_id": "GO:1990502",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ICA69 is involved in DCV maturation in cooperation with Rab2.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum to Golgi vesicle-mediated transport",
+        "go_id": "GO:0006888",
+        "relationship": [
+          "occurs_in GO:0005737"
+        ],
+        "namespace": "biological_process",
+        "justification": "ICA69 is a novel Rab2 effector regulating ER-Golgi trafficking in insulinoma cells.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab",
+    "geneID": "3267",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "go_id": "GO:0005525",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Rab proteins act as membrane-bound molecular switches cycling between an inactive GDP-bound form and an active GTP-bound form.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "vesicle-mediated intercellular transport",
+        "go_id": "GO:0110077",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Small guanosine triphosphatases of the Rab family regulate intracellular vesicular trafficking.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "vesicle budding from membrane",
+        "go_id": "GO:0006900",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "Through their effectors, Rab GTPases regulate actin and microtubule-dependent transport, vesicle budding and tethering, and membrane fusion.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "membrane fusion",
+        "go_id": "GO:0061025",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Through their effectors, Rab GTPases regulate actin and microtubule-dependent transport, vesicle budding and tethering, and membrane fusion.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Rab proteins act as membrane-bound molecular switches cycling between an inactive GDP-bound form and an active GTP-bound form.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "176793",
+    "go_data": [
+      {
+        "term": "cytoskeleton organization",
+        "go_id": "GO:0007010",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Actin is regulated by Rab GTPases for actin and microtubule-dependent transport.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton",
+        "go_id": "GO:0015629",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Actin is a component of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "rab-3",
+    "geneID": "173971",
+    "go_data": [
+      {
+        "term": "vesicle tethering",
+        "go_id": "GO:0099022",
+        "relationship": [
+          "part_of GO:0006903"
+        ],
+        "namespace": "biological_process",
+        "justification": "rab-3 mutants have been shown to have defects in SV tethering.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "presynaptic density",
+        "go_id": "GO:0098980",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Direct interactions between C. elegans RAB-3 and Rim provide a mechanism to target vesicles to the presynaptic density.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuron-neuron synaptic transmission",
+        "go_id": "GO:0007270",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Regulation of synaptic transmission by RAB-3 and RAB-27 in Caenorhabditis elegans.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "exocytosis",
+        "go_id": "GO:0006887",
+        "relationship": [
+          "has_part GO:0099500"
+        ],
+        "namespace": "biological_process",
+        "justification": "Differences in the distribution of SVs relative to the presynaptic density can also lead to reduced SV exocytosis and thus aldicarb resistance, as seen in rab-3 mutants.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "lev-10",
+    "geneID": "24105310",
+    "go_data": [
+      {
+        "term": "umami taste receptor activity",
+        "go_id": "GO:0033042",
+        "relationship": [
+          "part_of GO:0046535"
+        ],
+        "namespace": "molecular_function",
+        "justification": "lev-10 mutants lack clustered levamisole receptors.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuromuscular synaptic transmission",
+        "go_id": "GO:0007274",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "lev-10 mutants display levamisole resistance, indicating a role in neuromuscular synaptic transmission.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "postsynaptic membrane",
+        "go_id": "GO:0045211",
+        "relationship": [
+          "part_of GO:0098794"
+        ],
+        "namespace": "cellular_component",
+        "justification": "lev-10 mutants lack clustered levamisole receptors, which are postsynaptic.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNB-1",
+    "geneID": "266648",
+    "go_data": [
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "SNB-1-GFP is used to label synaptic vesicles (SVs).",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuron projection",
+        "go_id": "GO:0043005",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SNB-1 is found in cholinergic motor neurons projecting axons into the dorsal cord.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "unc-31",
+    "geneID": "178233",
+    "go_data": [
+      {
+        "term": "presynaptic dense core vesicle exocytosis",
+        "go_id": "GO:0099525",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Defects in DCV release, like in the unc-31/CAPS mutant, can also lead to slow locomotion.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "locomotion",
+        "go_id": "GO:0040011",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Defects in DCV release, like in the unc-31/CAPS mutant, can also lead to slow locomotion.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "somatic motor neuron differentiation",
+        "go_id": "GO:0021523",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DCVs are secreted from motor neurons and defects in DCV release, like in the unc-31/CAPS mutant, can also lead to slow locomotion.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NLP-21",
+    "geneID": "176570",
+    "go_data": [
+      {
+        "term": "neuropeptide hormone activity",
+        "go_id": "GO:0005184",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "NLP-21 is a neuropeptide hormone.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "dense core granule",
+        "go_id": "GO:0031045",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "NLP-21-YFP-derived fusion proteins are packaged into DCVs.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "peptide hormone secretion",
+        "go_id": "GO:0030072",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NLP-21-derived YFP is released into the body cavity.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuropeptide signaling pathway",
+        "go_id": "GO:0007218",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NLP-21 is a neuropeptide hormone involved in signaling.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FLP-3",
+    "geneID": "181221",
+    "go_data": [
+      {
+        "term": "neuropeptide signaling pathway",
+        "go_id": "GO:0007218",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FLP-3 is a neuropeptide, and its reduced YFP levels in unc-108 mutant axons suggest its involvement in neuropeptide signaling.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "axon",
+        "go_id": "GO:0030424",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "FLP-3-YFP fluorescence is reduced in axons of unc-108 mutants, indicating its presence in axons.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cytochrome b5",
+    "geneID": "1528",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "cytochrome b5 is used as a marker of the ER",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EEA-1",
+    "geneID": "179832",
+    "go_data": [
+      {
+        "term": "early endosome",
+        "go_id": "GO:0005769",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "FYVE domain of EEA-1 is a marker of early endosomes.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "neuropeptide-like protein",
+    "geneID": "180281",
+    "go_data": [
+      {
+        "term": "neuropeptide hormone activity",
+        "go_id": "GO:0005184",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Neuropeptide-like protein is mentioned alongside other neuropeptides, implying it has a role similar to neuropeptide hormones.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "peptide hormone processing",
+        "go_id": "GO:0016486",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The text mentions impaired processing of NLP peptides, indicating the gene is involved in this process.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "egl-3",
+    "geneID": "179412",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "go_id": "GO:0008233",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "EGL-3 is a proprotein convertase required for proteolytically liberating neuropeptides from their precursor.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "neuropeptide processing",
+        "go_id": "GO:0061837",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "In the absence of EGL-3 activity, no active neuropeptides were detectable, indicating its role in neuropeptide processing.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "dense core granule",
+        "go_id": "GO:0031045",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "EGL-3 is involved in the processing of neuropeptides in dense core vesicles (DCVs).",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RAB-5",
+    "geneID": "172755",
+    "go_data": [
+      {
+        "term": "early endosome",
+        "go_id": "GO:0005769",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "RAB-5 is described as an early endosomal marker.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "regulation of vesicle-mediated transport",
+        "go_id": "GO:0060627",
+        "relationship": [
+          "regulates GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "Interfering with early endosomal function by expressing RAB-5(Q78L)DA affects the transport of YFP cargo.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "GTP binding",
+        "go_id": "GO:0005525",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RAB-5 is expressed in a GTP-bound form, RAB-5(Q78L)DA.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RAB-7",
+    "geneID": "174834",
+    "go_data": [
+      {
+        "term": "late endosome",
+        "go_id": "GO:0005770",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "RAB-7 is described as a late endosomal marker.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "insulin secretion",
+        "go_id": "GO:0030073",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Insulin is involved in insulin secretion in insulinoma cells.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      },
+      {
+        "term": "Golgi apparatus",
+        "go_id": "GO:0005794",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Insulin secretion involves Golgi membranes in human insulin-producing beta cells.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IDA-1",
+    "geneID": "175807",
+    "go_data": [
+      {
+        "term": "neuronal dense core vesicle",
+        "go_id": "GO:0098992",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IDA-1 is a DCV-specific transmembrane protein.",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "rrf-3",
+    "geneID": "174315",
+    "go_data": [
+      {
+        "term": "transitive RNA interference",
+        "go_id": "GO:0036453",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "rrf-3 strain is used for genome-wide RNAi in C. elegans",
+        "reference(s)": [
+          "PMC2753160"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "gene": "HLA",
+  "geneID": "3105",
+  "go_data": [
+    {
+      "term": "antigen binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HLA restricts epitopes recognized by antigen-specific cytotoxic T-lymphocyte clones.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HLA is involved in the recognition of epitopes by cytotoxic T-lymphocyte clones.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HLA is recognized by T-cells on the surface of cells.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

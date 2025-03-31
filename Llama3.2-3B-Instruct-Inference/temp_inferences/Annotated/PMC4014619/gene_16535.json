@@ -1,0 +1,24 @@
+{
+  "gene": "Kcnq1",
+  "geneID": "16535",
+  "go_data": [
+    {
+      "term": "potassium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kcnq1 is essential for transport of K+.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "stria vascularis",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Kcnq1 is fully expressed in the stria vascularis.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

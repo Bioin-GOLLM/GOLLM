@@ -1,0 +1,33 @@
+{
+  "gene": "TNF-alpha",
+  "geneID": "7124",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF-alpha is produced by CD8+ T-cells, indicating its involvement in immune response.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF-alpha production is associated with the production of pro-inflammatory chemokines.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNF-alpha is a cytokine that is secreted and acts to promote immune responses.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

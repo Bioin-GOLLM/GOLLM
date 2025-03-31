@@ -1,0 +1,15 @@
+{
+  "gene": "Nkx2-1",
+  "geneID": "21869",
+  "go_data": [
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nkx2-1 is one of the genes analyzed for differential expression in the context of thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

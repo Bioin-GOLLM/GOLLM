@@ -1,0 +1,51 @@
+{
+  "gene": "BLOC-1",
+  "geneID": "18457",
+  "go_data": [
+    {
+      "term": "intracellular membrane trafficking",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BLOC-1 is involved in intracellular membrane trafficking and organelle biogenesis.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "organelle biogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BLOC-1 is involved in organelle biogenesis and intracellular membrane trafficking.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "neurite outgrowth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BLOC-1 plays a role in neurite outgrowth, as BLOC-1-deficient neurons display neurite outgrowth defects.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "BLOC-1 regulates SNARE complex assembly, as SNARE complex assembly impairs BLOC-1 binding.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BLOC-1 has been localized to endosomes, at least in certain cell types.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

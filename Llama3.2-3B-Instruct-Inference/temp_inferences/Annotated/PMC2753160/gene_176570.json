@@ -1,0 +1,42 @@
+{
+  "gene": "NLP-21",
+  "geneID": "176570",
+  "go_data": [
+    {
+      "term": "neuropeptide hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NLP-21 is a neuropeptide hormone.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "dense core granule",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NLP-21-YFP-derived fusion proteins are packaged into DCVs.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "peptide hormone secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NLP-21-derived YFP is released into the body cavity.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neuropeptide signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NLP-21 is a neuropeptide hormone involved in signaling.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "VAMP2",
+  "geneID": "282116",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Purified recombinant proteins comprising full-length SNAP-25, the cytoplasmic portion of VAMP2, and the SN fragment of either syntaxin 1, 4 or 13, were mixed under conditions that allowed formation of recombinant SNARE complexes.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The cytoplasmic portion of VAMP2 was used in the experiment, indicating VAMP2 is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VAMP2 was found to bind to BLOC-1, although the extent of binding was less than that observed for unassembled SNAP-25.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

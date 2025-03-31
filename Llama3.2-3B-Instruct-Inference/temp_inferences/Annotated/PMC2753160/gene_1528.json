@@ -1,0 +1,15 @@
+{
+  "gene": "cytochrome b5",
+  "geneID": "1528",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "cytochrome b5 is used as a marker of the ER",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

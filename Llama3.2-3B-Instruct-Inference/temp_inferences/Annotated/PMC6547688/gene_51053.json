@@ -1,0 +1,33 @@
+{
+  "gene": "geminin",
+  "geneID": "51053",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Geminin is described as a licensing inhibitor in the context of DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Geminin is involved in DNA replication, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Geminin interacts with other proteins such as CDT1, as indicated by its role as a CDT1 inhibitor.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

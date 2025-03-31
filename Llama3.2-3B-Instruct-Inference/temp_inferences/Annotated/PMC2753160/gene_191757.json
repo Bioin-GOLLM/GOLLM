@@ -1,0 +1,42 @@
+{
+  "gene": "RIC-19",
+  "geneID": "191757",
+  "go_data": [
+    {
+      "term": "dense core vesicle maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RIC-19 is involved in dense core vesicle maturation in Caenorhabditis elegans.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "Golgi membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RIC-19 is recruited to the Golgi membranes by activated RAB-2.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "RIC-19 is exclusively expressed in neurons.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RIC-19 can be specifically affinity purified with RAB-2(Q65L)DA.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

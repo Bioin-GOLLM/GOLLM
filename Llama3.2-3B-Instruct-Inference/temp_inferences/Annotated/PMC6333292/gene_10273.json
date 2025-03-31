@@ -1,0 +1,33 @@
+{
+  "gene": "STUB1",
+  "geneID": "10273",
+  "go_data": [
+    {
+      "term": "ubiquitin protein ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "STUB1 is described as an E3 ubiquitin ligase.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STUB1 causes destabilization of PD-L1, either by direct modification of one of the lysines in the PD-L1 cytoplasmic domain or indirectly.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "negative regulation of regulatory T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ubiquitin ligase Stub1 negatively modulates regulatory T cell suppressive activity by promoting degradation of the transcription factor Foxp3.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CDC45",
+  "geneID": "8318",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDC45 is part of the CMG complex that catalyses the unwinding of the DNA, allowing origin firing and the establishment of active replication forks.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "helicase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CDC45 associates with the MCM2/7 helicase and the GINS complex to form the active CMG complex, which catalyses the unwinding of the DNA.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CDC45 is involved in DNA replication, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

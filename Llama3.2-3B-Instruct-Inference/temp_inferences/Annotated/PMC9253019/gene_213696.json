@@ -1,0 +1,15 @@
+{
+  "gene": "Duoxa1",
+  "geneID": "213696",
+  "go_data": [
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Duoxa1 is one of the genes involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

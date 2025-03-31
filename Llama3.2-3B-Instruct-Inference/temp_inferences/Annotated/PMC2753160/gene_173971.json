@@ -1,0 +1,42 @@
+{
+  "gene": "rab-3",
+  "geneID": "173971",
+  "go_data": [
+    {
+      "term": "vesicle tethering",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "rab-3 mutants have been shown to have defects in SV tethering.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "presynaptic density",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Direct interactions between C. elegans RAB-3 and Rim provide a mechanism to target vesicles to the presynaptic density.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "synaptic transmission",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Regulation of synaptic transmission by RAB-3 and RAB-27 in Caenorhabditis elegans.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "exocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Differences in the distribution of SVs relative to the presynaptic density can also lead to reduced SV exocytosis and thus aldicarb resistance, as seen in rab-3 mutants.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "dystrophin",
+  "geneID": "13405",
+  "go_data": [
+    {
+      "term": "dystroglycan complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Dystrophin is a component of the dystrophin-dystroglycan complex.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

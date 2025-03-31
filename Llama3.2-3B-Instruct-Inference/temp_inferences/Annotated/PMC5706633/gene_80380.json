@@ -1,0 +1,15 @@
+{
+  "gene": "PD-L2",
+  "geneID": "80380",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L2 is expressed on the cell surface of myeloid lineage cells.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

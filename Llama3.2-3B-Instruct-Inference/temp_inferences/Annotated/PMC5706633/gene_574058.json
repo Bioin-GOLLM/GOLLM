@@ -1,0 +1,42 @@
+{
+  "gene": "PD-L1",
+  "geneID": "574058",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L1 is a type I transmembrane protein with cell surface expression.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PD-L1 inhibits activation, expansion and effector functions of antigen specific CD8+ T cells and helps cancer cells evade immune destruction.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "recycling endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L1 co-localises with CMTM6 in recycling endosomes.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PD-L1 binds to CMTM6, which maintains its cell surface expression.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

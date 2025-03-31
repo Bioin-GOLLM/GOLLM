@@ -1,0 +1,15 @@
+{
+  "gene": "TAP",
+  "geneID": "23541",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TAP is used in a TAP-TAG approach for immunoprecipitation, implying interaction with other proteins.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

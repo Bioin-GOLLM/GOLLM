@@ -1,0 +1,24 @@
+{
+  "gene": "Clcn5",
+  "geneID": "12728",
+  "go_data": [
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Clcn5 is involved in thyroid hormone synthesis and release as one of the 26 genes analyzed for differential expression.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "iodide transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Clcn5 is listed among the genes encoding iodide transporters, suggesting its involvement in iodide transport.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

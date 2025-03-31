@@ -1,0 +1,24 @@
+{
+  "gene": "PD-L1",
+  "geneID": "60533",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PD-L1 expression is associated with immune response in cancer context.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L1 is a cell surface protein.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "DISC1",
+  "geneID": "244667",
+  "go_data": [
+    {
+      "term": "neurite outgrowth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DISC1 is reminiscent of those documented for the products of other candidate susceptibility genes in the regulation of neurite outgrowth.",
+      "reference(s)": [
+        "PMC2811213"
+      ]
+    }
+  ]
+}

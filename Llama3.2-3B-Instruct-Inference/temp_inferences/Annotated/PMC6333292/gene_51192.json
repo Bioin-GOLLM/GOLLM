@@ -1,0 +1,15 @@
+{
+  "gene": "CKLF",
+  "geneID": "51192",
+  "go_data": [
+    {
+      "term": "chemokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CKLF is identified as a chemokine-like factor, suggesting it has chemokine activity.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

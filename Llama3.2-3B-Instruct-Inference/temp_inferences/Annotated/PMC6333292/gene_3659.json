@@ -1,0 +1,15 @@
+{
+  "gene": "IRF1",
+  "geneID": "3659",
+  "go_data": [
+    {
+      "term": "regulation of PD-L1 expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF1 is a known regulator of PD-L1 upon IFNgamma exposure.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "RIF1",
+  "geneID": "55183",
+  "go_data": [
+    {
+      "term": "nuclear matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RIF1 is found among factors associated with the nuclear matrix.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

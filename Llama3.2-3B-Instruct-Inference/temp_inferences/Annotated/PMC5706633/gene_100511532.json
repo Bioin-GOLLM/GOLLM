@@ -1,0 +1,51 @@
+{
+  "gene": "CMTM6",
+  "geneID": "100511532",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CMTM6 binds PD-L1 and maintains its cell surface expression.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM6 co-localizes with PD-L1 at the plasma membrane.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "recycling endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM6 co-localizes with PD-L1 in recycling endosomes.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "regulation of protein localization to cell surface",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM6 maintains PD-L1 cell surface expression by preventing its lysosome-mediated degradation.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    },
+    {
+      "term": "negative regulation of protein degradation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM6 prevents PD-L1 from being targeted for lysosomal degradation.",
+      "reference(s)": [
+        "PMC5706633"
+      ]
+    }
+  ]
+}
