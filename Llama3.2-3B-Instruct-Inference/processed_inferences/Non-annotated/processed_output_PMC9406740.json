@@ -1767,18 +1767,6 @@
         "reference(s)": [
           "PMC9406740"
         ]
-      },
-      {
-        "term": "positive regulation of interleukin-1 production",
-        "go_id": "GO:0032732",
-        "relationship": [
-          "positively_regulates GO:0032612"
-        ],
-        "namespace": "biological_process",
-        "justification": "overexpression of a splice variant of PGC-1alpha, PGC-1alpha4, may induce muscle fiber hypertrophy through... increase in IGF-1 expression",
-        "reference(s)": [
-          "PMC9406740"
-        ]
       }
     ]
   },
