@@ -1,0 +1,33 @@
+{
+  "gene": "IGF1R",
+  "geneID": "3480",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IGF1R has inhibitory effects, implying it has receptor activity.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF1R is affected by inhibitory effects, suggesting involvement in cell surface receptor signaling.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, IGF1R is likely located in the plasma membrane.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

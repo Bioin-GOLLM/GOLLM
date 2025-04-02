@@ -1,0 +1,33 @@
+{
+  "gene": "FGFR1",
+  "geneID": "2260",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FGFR1 is mentioned alongside other receptors such as IGF1R and EGFR, suggesting it has receptor activity.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FGFR1 is affected by a compound, implying its involvement in cell surface receptor signaling pathways.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, FGFR1 is typically located in the plasma membrane.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

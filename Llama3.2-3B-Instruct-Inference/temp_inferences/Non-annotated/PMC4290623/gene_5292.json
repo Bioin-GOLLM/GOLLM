@@ -1,0 +1,24 @@
+{
+  "gene": "Pim-1",
+  "geneID": "5292",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pim-1 is described as a serine/threonine-protein kinase.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a serine/threonine-protein kinase, Pim-1 is involved in protein phosphorylation.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}
