@@ -1,0 +1,24 @@
+{
+  "gene": "DIP-beta",
+  "geneID": "48450",
+  "go_data": [
+    {
+      "term": "neuron differentiation",
+      "relationship": "marker_for",
+      "namespace": "biological_process",
+      "justification": "DIP-beta is used as a marker for L4 lamina neurons.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "L4 lamina neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "DIP-beta is specifically expressed in L4 lamina neurons.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

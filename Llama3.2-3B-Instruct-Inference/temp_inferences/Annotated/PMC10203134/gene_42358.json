@@ -1,0 +1,33 @@
+{
+  "gene": "Ire1",
+  "geneID": "42358",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum unfolded protein response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ire1 is activated in response to accumulation of misfolded proteins in the ER, triggering the UPR.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "RNA splicing",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Activated Ire1 promotes splicing of the transcription factor XBP1.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Ire1 is part of the UPR stress sensing system in the ER.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

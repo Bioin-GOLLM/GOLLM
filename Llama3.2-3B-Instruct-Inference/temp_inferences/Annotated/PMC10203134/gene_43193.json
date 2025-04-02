@@ -1,0 +1,33 @@
+{
+  "gene": "PDF",
+  "geneID": "43193",
+  "go_data": [
+    {
+      "term": "neuropeptide hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The neuropeptide PDF acts directly on evening pacemaker neurons",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "regulation of circadian behavior",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PDF regulates multiple features of circadian behavior",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PDF acts directly on evening pacemaker neurons",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

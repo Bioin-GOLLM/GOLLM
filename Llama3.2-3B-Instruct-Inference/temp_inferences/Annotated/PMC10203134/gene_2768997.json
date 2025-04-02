@@ -1,0 +1,24 @@
+{
+  "gene": "CG12038",
+  "geneID": "2768997",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CG12038 encodes a member of the Divergent protein kinases (Dipk) family.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "secretory pathway",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CG12038 localizes within the lumen of the secretory pathway.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

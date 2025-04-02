@@ -1,0 +1,33 @@
+{
+  "gene": "Rhodopsin",
+  "geneID": "42367",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rhodopsin mediates early steps in the phototransduction cascade.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "rhabdomere",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rhodopsin is contained within rhabdomeres, a characteristic feature of Drosophila photoreceptors.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "phototransduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rhodopsin mediates early steps in the phototransduction cascade.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}
