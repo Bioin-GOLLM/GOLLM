@@ -1,0 +1,33 @@
+{
+  "gene": "PI3 kinase",
+  "geneID": "5295",
+  "go_data": [
+    {
+      "term": "phosphatidylinositol 3-kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PI3 kinase is activated as part of its pathway.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of PI3 kinase/AKT pathways promotes tumorigenesis through cell proliferation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "Activation of PI3 kinase/AKT pathways leads to reduced apoptosis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

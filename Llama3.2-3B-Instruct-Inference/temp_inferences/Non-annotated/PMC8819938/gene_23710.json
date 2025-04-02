@@ -1,0 +1,15 @@
+{
+  "gene": "Atg8",
+  "geneID": "23710",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TECPR2 is a possible positive regulator of autophagy and a binding partner of the mammalian Atg8 protein family.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    }
+  ]
+}

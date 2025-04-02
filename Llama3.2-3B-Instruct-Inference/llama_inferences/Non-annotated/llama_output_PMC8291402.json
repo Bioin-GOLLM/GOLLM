@@ -1,0 +1,68 @@
+[
+  {
+    "gene": "PS1",
+    "geneID": "19164",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PS1 is involved in the pathogenesis of Alzheimer's disease, interacting with APP.",
+        "reference(s)": [
+          "PMC8291402"
+        ]
+      },
+      {
+        "term": "regulation of amyloid-beta formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PS1 is associated with the generation of amyloid-beta peptides in Alzheimer's disease.",
+        "reference(s)": [
+          "PMC8291402"
+        ]
+      },
+      {
+        "term": "cellular response to amyloid-beta",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PS1 is implicated in the cellular response to amyloid-beta, contributing to Alzheimer's disease pathology.",
+        "reference(s)": [
+          "PMC8291402"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "PS1 is an integral membrane protein, primarily localized to the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC8291402"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Abeta",
+    "geneID": "11820",
+    "go_data": [
+      {
+        "term": "amyloid-beta clearance",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Compromised cerebral vessels led to impaired Abeta clearance.",
+        "reference(s)": [
+          "PMC8291402"
+        ]
+      },
+      {
+        "term": "blood-brain barrier",
+        "relationship": "associated_with",
+        "namespace": "cellular_component",
+        "justification": "Cerebral vascular lesions could induce impairment of neurovascular regulation, particularly the breakdown of the blood-brain barrier (BBB) related to Abeta.",
+        "reference(s)": [
+          "PMC8291402"
+        ]
+      }
+    ]
+  }
+]

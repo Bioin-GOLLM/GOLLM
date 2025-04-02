@@ -1,0 +1,24 @@
+{
+  "gene": "Alpha-2-macroglobulin",
+  "geneID": "2",
+  "go_data": [
+    {
+      "term": "anticoagulant activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Alpha-2-macroglobulin is described as an anticoagulant.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "blood coagulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Alpha-2-macroglobulin is mentioned to modulate blood coagulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

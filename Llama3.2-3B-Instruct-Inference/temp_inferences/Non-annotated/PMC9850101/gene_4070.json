@@ -1,0 +1,33 @@
+{
+  "gene": "Trop-2",
+  "geneID": "4070",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Trop-2 is targeted by antibody drug conjugates, implying it is accessible on the cell surface.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Trop-2 is targeted by specific antibodies, suggesting it may act as a receptor or have receptor-like activity.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "epithelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Trop-2 induces ADAM10-mediated cleavage of e-cadherin and drives EMT-less metastasis in colon cancer.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

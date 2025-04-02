@@ -1,0 +1,24 @@
+{
+  "gene": "IL1beta",
+  "geneID": "3553",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL1beta is released as a cytokine which can cause or contribute to tissue damage and disease pathology.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL1beta is a cytokine that contributes to tissue damage and disease pathology, indicating involvement in the inflammatory response.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

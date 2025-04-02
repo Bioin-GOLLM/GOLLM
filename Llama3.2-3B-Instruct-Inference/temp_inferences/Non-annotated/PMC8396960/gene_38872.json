@@ -1,0 +1,42 @@
+{
+  "gene": "clock",
+  "geneID": "38872",
+  "go_data": [
+    {
+      "term": "circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The circadian clock controls daily rhythms in animal physiology and metabolism.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "regulation of circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The circadian clock controls the rhythm of emergence and migration.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "transcriptional regulation of circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A set of proteins function as transcription-based feedback loops within the clock.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, clock localizes to the nucleus to regulate the expression of clock genes.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    }
+  ]
+}

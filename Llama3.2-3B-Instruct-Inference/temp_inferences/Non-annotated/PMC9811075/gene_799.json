@@ -1,0 +1,15 @@
+{
+  "gene": "CALCR",
+  "geneID": "799",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CALCR is involved in new pathways involving lymphangiogenesis.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

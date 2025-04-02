@@ -1,0 +1,33 @@
+{
+  "gene": "PROS1",
+  "geneID": "5627",
+  "go_data": [
+    {
+      "term": "anticoagulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PROS1 is involved in anticoagulation as part of the protein cargo in ChipEXOs.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "vasodilation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PROS1 is involved in vasodilation as part of the protein cargo in ChipEXOs.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "blood coagulation",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "PROS1 modulates blood coagulation as part of the protein cargo in ChipEXOs.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

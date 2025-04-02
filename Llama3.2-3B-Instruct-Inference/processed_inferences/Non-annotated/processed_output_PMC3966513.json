@@ -1,0 +1,194 @@
+[
+  {
+    "gene": "Orco",
+    "geneID": "40650",
+    "go_data": [
+      {
+        "term": "odorant binding",
+        "go_id": "GO:0005549",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Orco is an olfactory coreceptor that binds to odorants.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Orco is involved in the detection of odorants in the olfactory system.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception",
+        "go_id": "GO:0050907",
+        "relationship": [
+          "part_of GO:0007606"
+        ],
+        "namespace": "biological_process",
+        "justification": "Orco is involved in the detection of chemical stimuli in the olfactory system.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IR25a",
+    "geneID": "33683",
+    "go_data": [
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IR25a acts as a coreceptor in combinations of up to three subunits for individual odor-specific receptors in insect chemosensation.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "chemosensory behavior",
+        "go_id": "GO:0007635",
+        "relationship": [
+          "part_of GO:0042221"
+        ],
+        "namespace": "biological_process",
+        "justification": "IR25a is involved in insect chemosensation as part of the variant ionotropic glutamate receptors.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IR8a",
+    "geneID": "31867",
+    "go_data": [
+      {
+        "term": "glutamate receptor activity",
+        "go_id": "GO:0008066",
+        "relationship": [
+          "has_part GO:0016595"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IR8a acts as a coreceptor in combinations of up to three subunits in insect chemosensation.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IR8a is involved in insect chemosensation and is expressed in olfactory tissues.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception of smell",
+        "go_id": "GO:0050911",
+        "relationship": [
+          "part_of GO:0007608"
+        ],
+        "namespace": "biological_process",
+        "justification": "IR8a is necessary and sufficient for sensitivity towards organic acids and other odors.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IR76b",
+    "geneID": "40198",
+    "go_data": [
+      {
+        "term": "glutamate receptor activity",
+        "go_id": "GO:0008066",
+        "relationship": [
+          "has_part GO:0016595"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IR76b is part of the variant ionotropic glutamate receptors (IRs) family.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "chemosensory behavior",
+        "go_id": "GO:0007635",
+        "relationship": [
+          "part_of GO:0042221"
+        ],
+        "namespace": "biological_process",
+        "justification": "IR76b acts as a coreceptor in insect chemosensation.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "olfactory receptor activity",
+        "go_id": "GO:0004984",
+        "relationship": [
+          "part_of GO:0050911"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IRs, including IR76b, are present in olfactory tissues.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IR64a",
+    "geneID": "38616",
+    "go_data": [
+      {
+        "term": "odorant binding",
+        "go_id": "GO:0005549",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IR64a is expressed in OSNs activated by various odors, including esters, alcohols, and ketones.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "detection of chemical stimulus involved in sensory perception",
+        "go_id": "GO:0050907",
+        "relationship": [
+          "part_of GO:0007606"
+        ],
+        "namespace": "biological_process",
+        "justification": "IR64a is expressed in OSNs activated by free protons, organic acids, and other odors.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      },
+      {
+        "term": "sensory dendrite",
+        "go_id": "GO:0071683",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IR64a is expressed in different subpopulations of sensilla in the third chamber of the sacculus.",
+        "reference(s)": [
+          "PMC3966513"
+        ]
+      }
+    ]
+  }
+]

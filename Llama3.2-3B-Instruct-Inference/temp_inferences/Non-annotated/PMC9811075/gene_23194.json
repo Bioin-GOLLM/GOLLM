@@ -1,0 +1,15 @@
+{
+  "gene": "FBXL7",
+  "geneID": "23194",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FBXL7 is mentioned alongside genes involved in lymphangiogenesis and remodelling pathways.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

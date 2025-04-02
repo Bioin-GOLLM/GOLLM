@@ -1,0 +1,42 @@
+{
+  "gene": "CYP21A2",
+  "geneID": "1589",
+  "go_data": [
+    {
+      "term": "steroid hydroxylase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The CYP21A2 gene is responsible for the production of 21-OH.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "adrenal gland development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations in the CYP21A2 gene lead to adrenal insufficiencies.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a cytochrome P450 enzyme, CYP21A2 is typically located in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "steroid biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The CYP21A2 gene is involved in the production of steroids, specifically 21-hydroxylase.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

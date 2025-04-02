@@ -1,0 +1,15 @@
+{
+  "gene": "carcinoembryonic antigen",
+  "geneID": "1084",
+  "go_data": [
+    {
+      "term": "tumor biomarker",
+      "relationship": "acts_as",
+      "namespace": "molecular_function",
+      "justification": "carcinoembryonic antigen (CEA) is listed as a tumor marker",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

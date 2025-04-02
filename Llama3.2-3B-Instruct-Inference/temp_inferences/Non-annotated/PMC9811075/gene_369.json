@@ -1,0 +1,24 @@
+{
+  "gene": "ARAF",
+  "geneID": "369",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ARAF is mentioned in the context of new pathways involving lymphangiogenesis.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ARAF is noted to be part of a pathway, implying involvement in signal transduction.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

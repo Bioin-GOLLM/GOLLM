@@ -1,0 +1,15 @@
+{
+  "gene": "CA6",
+  "geneID": "765",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CA6 is mentioned as a target in clinical trials, implying it is accessible from the outside of the cell, thus located on the cell surface.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "SDHD",
+  "geneID": "6392",
+  "go_data": [
+    {
+      "term": "succinate dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SDHD is a mitochondrial complex II gene.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SDHD is a mitochondrial complex II gene.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "paraganglioma",
+      "relationship": "involved_in",
+      "namespace": "disease",
+      "justification": "Mutations in SDHD are associated with hereditary paraganglioma.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "pheochromocytoma",
+      "relationship": "involved_in",
+      "namespace": "disease",
+      "justification": "Mutations in SDHD are associated with pheochromocytoma.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "histidine-rich glycoprotein",
+  "geneID": "3273",
+  "go_data": [
+    {
+      "term": "complement binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Histidine-rich glycoprotein is annotated under 'complement binding'.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "immunoglobulin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Histidine-rich glycoprotein is annotated under 'immunoglobulin binding'.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "response to symbiont",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histidine-rich glycoprotein is associated with 'response to symbiont'.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "vasodilation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histidine-rich glycoprotein is involved in vasodilation as part of the protein cargo in ChipEXOs.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "anticoagulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histidine-rich glycoprotein is involved in anticoagulation as part of the protein cargo in ChipEXOs.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

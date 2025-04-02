@@ -1,0 +1,104 @@
+[
+  {
+    "gene": "Osteopontin",
+    "geneID": "100008982",
+    "go_data": [
+      {
+        "term": "bile acid secretion",
+        "go_id": "GO:0032782",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Osteopontin is closely related to cholelithiasis and plays a significant role in the pathogenesis of gallstone disease.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "hepatic immune response",
+        "go_id": "GO:0002384",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The mRNA OPN expression showed a significant increase in the hepatic tissue of gallstone-formed rabbits.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "bone development",
+        "go_id": "GO:0060348",
+        "relationship": [
+          "part_of GO:0001501"
+        ],
+        "namespace": "biological_process",
+        "justification": "OPN has participated in a different number of physiological processes including the organizing of bone formation/resorption.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "OPN has participated in a different number of physiological processes including the organizing of the immune system.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Osteopontin promotes rat hepatocyte proliferation both in vitro and in vivo.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GAPDH",
+    "geneID": "100009074",
+    "go_data": [
+      {
+        "term": "glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) activity",
+        "go_id": "GO:0043797",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "GAPDH is explicitly mentioned as Glyceraldehyde-3-phosphate dehydrogenase.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "GAPDH is typically found in the cytosol as it is a key enzyme in glycolysis.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OPN",
+    "geneID": "6696",
+    "go_data": [
+      {
+        "term": "hepatic immune response",
+        "go_id": "GO:0002384",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "mRNA OPN expression was detected in hepatic tissue",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      }
+    ]
+  }
+]

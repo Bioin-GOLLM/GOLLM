@@ -1,0 +1,33 @@
+{
+  "gene": "TNFalpha",
+  "geneID": "7124",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFalpha is described as a cytokine.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "tissue damage",
+      "relationship": "contributes_to",
+      "namespace": "biological_process",
+      "justification": "TNFalpha can cause or contribute to tissue damage and disease pathology.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "TNFalpha is released by the neurotoxic phenotype.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

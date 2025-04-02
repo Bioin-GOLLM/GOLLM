@@ -1,0 +1,33 @@
+{
+  "gene": "rod outer segment membrane protein 1",
+  "geneID": "19881",
+  "go_data": [
+    {
+      "term": "photoreceptor outer segment",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ROM-1 is a tetraspanin glycoprotein known to form complexes with RDS, critical for photoreceptor disc rim assembly and outer segment orientation.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ROM-1 expression is decreased by RDS deficiency, suggesting a role in photoreceptor cell development.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor disc membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ROM-1 is a component of photoreceptor disc membranes, forming complexes with RDS.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

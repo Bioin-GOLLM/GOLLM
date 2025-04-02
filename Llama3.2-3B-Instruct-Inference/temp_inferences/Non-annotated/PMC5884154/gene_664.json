@@ -1,0 +1,24 @@
+{
+  "gene": "BNIP3",
+  "geneID": "664",
+  "go_data": [
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BNIP3 is involved in adaptive responses under hypoxia or pseudohypoxia.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cell survival",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BNIP3 is regulated by HIF-alpha, which plays a central role in regulating genes involved in cell survival.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

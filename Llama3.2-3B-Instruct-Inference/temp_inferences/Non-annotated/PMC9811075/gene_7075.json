@@ -1,0 +1,42 @@
+{
+  "gene": "TIE1",
+  "geneID": "7075",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TIE1 is part of the TIE1-TIE2 pathway, indicating it functions as a receptor.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "blood vessel formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The TIE1-TIE2 pathway is critical to the formation of blood and lymphatic vessels.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The TIE1-TIE2 pathway is critical to the formation of blood and lymphatic vessels.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "vessel maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The TIE1-TIE2 pathway is involved in vessel maintenance.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "fumarate hydratase",
+  "geneID": "2271",
+  "go_data": [
+    {
+      "term": "fumarate hydratase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FH enzymes catalyze the conversion of fumarate to malate in the Krebs cycle.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "tricarboxylic acid cycle",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FH is part of the Krebs cycle, catalyzing the conversion of fumarate to malate.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FH is an enzyme involved in the Krebs cycle, which takes place in the cytosol.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

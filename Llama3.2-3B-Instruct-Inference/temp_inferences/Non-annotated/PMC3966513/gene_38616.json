@@ -1,0 +1,33 @@
+{
+  "gene": "IR64a",
+  "geneID": "38616",
+  "go_data": [
+    {
+      "term": "odorant binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IR64a is expressed in OSNs activated by various odors, including esters, alcohols, and ketones.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "detection of chemical stimulus involved in sensory perception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IR64a is expressed in OSNs activated by free protons, organic acids, and other odors.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "sensillum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IR64a is expressed in different subpopulations of sensilla in the third chamber of the sacculus.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    }
+  ]
+}

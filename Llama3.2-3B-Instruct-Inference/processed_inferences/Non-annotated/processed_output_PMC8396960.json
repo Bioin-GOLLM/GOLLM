@@ -1,0 +1,142 @@
+[
+  {
+    "gene": "clock",
+    "geneID": "38872",
+    "go_data": [
+      {
+        "term": "circadian rhythm",
+        "go_id": "GO:0007623",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The circadian clock controls daily rhythms in animal physiology and metabolism.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "regulation of circadian rhythm",
+        "go_id": "GO:0042752",
+        "relationship": [
+          "regulates GO:0007623"
+        ],
+        "namespace": "biological_process",
+        "justification": "The circadian clock controls the rhythm of emergence and migration.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, clock localizes to the nucleus to regulate the expression of clock genes.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PERIOD",
+    "geneID": "31251",
+    "go_data": [
+      {
+        "term": "circadian rhythm",
+        "go_id": "GO:0007623",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PERIOD is part of the transcription-based feedback loops or post-translational regulation within the clock that functions with a near-24-hour period.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "regulation of circadian rhythm",
+        "go_id": "GO:0042752",
+        "relationship": [
+          "regulates GO:0007623"
+        ],
+        "namespace": "biological_process",
+        "justification": "PERIOD is controlled by the TRPA channel PYREXIA to regulate the Drosophila circadian clock.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "nervous system process",
+        "go_id": "GO:0050877",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Expression of clock genes period and timeless in the central nervous system of the Mediterranean flour moth, Ephestia kuehniella, implies PERIOD is expressed in the central nervous system.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CRYPTOCHROME",
+    "geneID": "42305",
+    "go_data": [
+      {
+        "term": "circadian rhythm",
+        "go_id": "GO:0007623",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CRYPTOCHROME is a major contributor to circadian rhythm resetting.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "photoreceptor activity",
+        "go_id": "GO:0009881",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CRY is a light-regulated cryptochrome.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "transcription regulator activity",
+        "go_id": "GO:0140110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CRYPTOCHROME functions as part of transcription-based feedback loops within the clock.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PYREXIA",
+    "geneID": "38037",
+    "go_data": [
+      {
+        "term": "sensory perception of temperature stimulus",
+        "go_id": "GO:0050951",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PYREXIA regulates antennal temperature signals.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      },
+      {
+        "term": "regulation of circadian rhythm",
+        "go_id": "GO:0042752",
+        "relationship": [
+          "regulates GO:0007623"
+        ],
+        "namespace": "biological_process",
+        "justification": "PYREXIA synchronizes clock neurons in the brain to regulate the Drosophila circadian clock protein PERIOD.",
+        "reference(s)": [
+          "PMC8396960"
+        ]
+      }
+    ]
+  }
+]

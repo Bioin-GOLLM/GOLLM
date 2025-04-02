@@ -1,0 +1,24 @@
+{
+  "gene": "C8A",
+  "geneID": "731",
+  "go_data": [
+    {
+      "term": "complement activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C8A is found among enriched complement proteins.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "exosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C8A is found in exosomes from plasma.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

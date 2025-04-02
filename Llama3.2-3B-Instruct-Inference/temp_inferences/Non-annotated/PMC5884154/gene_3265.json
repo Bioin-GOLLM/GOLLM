@@ -1,0 +1,33 @@
+{
+  "gene": "Harvey rat sarcoma viral oncogene homolog",
+  "geneID": "3265",
+  "go_data": [
+    {
+      "term": "GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HRAS is a GTPase, an enzyme that can bind and hydrolyze GTP.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HRAS is involved in signal transduction pathways, transmitting signals from the cell surface to the interior of the cell.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular response to epidermal growth factor stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HRAS is activated by epidermal growth factor (EGF) and other growth factors, leading to cell proliferation and differentiation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

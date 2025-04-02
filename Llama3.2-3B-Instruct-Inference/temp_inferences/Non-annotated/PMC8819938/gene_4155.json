@@ -1,0 +1,24 @@
+{
+  "gene": "myelin basic protein",
+  "geneID": "4155",
+  "go_data": [
+    {
+      "term": "central nervous system myelination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin basic protein is associated with demyelinating diseases of the central nervous system.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "myelin sheath",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Myelin basic protein is a component of the myelin sheath in the central nervous system.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    }
+  ]
+}

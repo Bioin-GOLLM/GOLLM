@@ -1,0 +1,24 @@
+{
+  "gene": "PIKFYVE",
+  "geneID": "200576",
+  "go_data": [
+    {
+      "term": "viral entry into host cell",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "PIKFYVE is mentioned as a receptor that the virus binds to, and blocking this interaction prevents viral entry into the cell.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PIKFYVE is mentioned as a receptor in the cell, implying it is located at the cell surface.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

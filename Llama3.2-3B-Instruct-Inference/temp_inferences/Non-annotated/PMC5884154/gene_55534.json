@@ -1,0 +1,15 @@
+{
+  "gene": "MAML3",
+  "geneID": "55534",
+  "go_data": [
+    {
+      "term": "Wnt signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAML3 fusion genes are associated with the Wnt-altered pathway cluster in the development of pediatric PHEO.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

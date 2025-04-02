@@ -1,0 +1,51 @@
+{
+  "gene": "VHL",
+  "geneID": "7428",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VHL protein binds to hydroxylated HIF-alpha isoforms for degradation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "negative regulation of hypoxia-inducible factor signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VHL mutations lead to an excess of HIF-alpha, which promotes metastasis, indicating VHL's role in regulating HIF signaling.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VHL protein is found in the cytosol where it interacts with hydroxylated HIF-alpha isoforms.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "ubiquitin ligase complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "VHL is part of an E3 ubiquitin ligase complex that targets HIF-alpha for degradation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "regulation of cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VHL's regulation of HIF-alpha impacts cell growth, as HIF-alpha promotes the expression of genes involved in cell proliferation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

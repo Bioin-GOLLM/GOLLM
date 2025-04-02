@@ -1,0 +1,33 @@
+{
+  "gene": "rhodopsin",
+  "geneID": "212541",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Expression of rhodopsin is necessary for phototransduction and proper photoreceptor maintenance.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Expression of rhodopsin is necessary for phototransduction and proper photoreceptor maintenance.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor outer segment",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rhodopsin is the rod visual pigment, implying its location in the photoreceptor outer segment.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

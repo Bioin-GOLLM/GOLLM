@@ -1,0 +1,24 @@
+{
+  "gene": "JAK3",
+  "geneID": "3718",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "JAK3 is involved in immune regulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cytokine-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "JAK3 is a JAK kinase, which is involved in signaling pathways mediated by cytokines.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

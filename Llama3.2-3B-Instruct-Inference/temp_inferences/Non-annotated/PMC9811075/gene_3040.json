@@ -1,0 +1,33 @@
+{
+  "gene": "alpha-globin",
+  "geneID": "3040",
+  "go_data": [
+    {
+      "term": "oxygen transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Alpha-globin is a component of hemoglobin, which binds to oxygen for transport.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "heme binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Alpha-globin is part of the hemoglobin complex, which binds to heme for oxygen transport.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "erythrocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Alpha-globin is crucial for normal erythrocyte development and function.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

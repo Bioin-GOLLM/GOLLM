@@ -1,0 +1,51 @@
+{
+  "gene": "adrenocorticotropic hormone",
+  "geneID": "5443",
+  "go_data": [
+    {
+      "term": "peptide hormone secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The compensatory secretion of adrenocorticotropic hormone (ACTH) from the pituitary may reach a level high enough to cause hypertrophy and hyperplasia of the testicular adrenal-derived cells.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The presence of abnormal, residual adrenal cells leads to the development of testicular adrenal rest tumors (TARTs) due to insufficient endocrine regulation, involving ACTH secretion.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "pituitary gland",
+      "relationship": "secreted_by",
+      "namespace": "cellular_component",
+      "justification": "The compensatory secretion of pituitary ACTH may reach a sufficiently high level to cause hyperplasia of testicular adrenal-derived cells.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "adrenal gland",
+      "relationship": "acts_on",
+      "namespace": "cellular_component",
+      "justification": "Congenital adrenal hyperplasia (CAH) comprises a group of autosomal recessive genetic disorders affecting cortisol (CO) synthesis in the adrenal glands, resulting in a compensatory increase in the secretion of adrenocorticotropic hormone (ACTH).",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "regulation of hormone secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The secretion of ACTH was inhibited by glucocorticoid replacement therapy, which compensated for the lack of cortisol (CO).",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

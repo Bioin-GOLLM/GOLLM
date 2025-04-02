@@ -1,0 +1,33 @@
+{
+  "gene": "IR25a",
+  "geneID": "33683",
+  "go_data": [
+    {
+      "term": "olfactory receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IR25a acts as a coreceptor in combinations of up to three subunits for individual odor-specific receptors in insect chemosensation.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "chemosensory behavior",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IR25a is involved in insect chemosensation as part of the variant ionotropic glutamate receptors.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "olfactory sensory neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "IR25a is expressed in many, if not all mature OSNs of various species, including Drosophila melanogaster.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    }
+  ]
+}

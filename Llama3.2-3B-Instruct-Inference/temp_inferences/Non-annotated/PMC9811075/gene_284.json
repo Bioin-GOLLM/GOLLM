@@ -1,0 +1,42 @@
+{
+  "gene": "angiopoietin-1",
+  "geneID": "284",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT1 is required for embryonic angiogenesis and its mutation disrupts angiogenesis in the developing embryo.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "blood vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Homozygous LOF of ANGPT1 is expected to be embryonically lethal in humans due to defective blood vessel formation.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "Schlemm's canal development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Angiopoietin-1 is required for Schlemm's canal development in mice and humans.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "Tie2 receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Angiopoietin-1 is a ligand for the Tie2 receptor.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+[
+  {
+    "gene": "transmembrane protein 127",
+    "geneID": "55654",
+    "go_data": [
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Germline mutations in TMEM127 confer susceptibility to pheochromocytoma, which is related to hypoxia-inducible pathways.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TMEM127 is a transmembrane protein, indicating its location in the plasma membrane.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "hypoxia-inducible factor 2 alpha",
+    "geneID": "2034",
+    "go_data": [
+      {
+        "term": "DNA-binding transcription activator activity",
+        "go_id": "GO:0001216",
+        "relationship": [
+          "part_of GO:0045893"
+        ],
+        "namespace": "molecular_function",
+        "justification": "HIF2A is involved in regulating genes under hypoxia, implying a role in transcription activation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "response to hypoxia",
+        "go_id": "GO:0001666",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HIF2A plays a central role in regulating adaptive responses to hypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HIF2A is crucial in mediating cellular responses to hypoxia, including erythropoiesis and angiogenesis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, HIF2A would be expected to localize to the nucleus to regulate gene expression.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "fumarate hydratase",
+    "geneID": "2271",
+    "go_data": [
+      {
+        "term": "fumarate hydratase activity",
+        "go_id": "GO:0004333",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "FH enzymes catalyze the conversion of fumarate to malate in the Krebs cycle.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "tricarboxylic acid cycle",
+        "go_id": "GO:0006099",
+        "relationship": [
+          "part_of GO:0009060"
+        ],
+        "namespace": "biological_process",
+        "justification": "FH is part of the Krebs cycle, catalyzing the conversion of fumarate to malate.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "FH is an enzyme involved in the Krebs cycle, which takes place in the cytosol.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PHD1",
+    "geneID": "112398",
+    "go_data": [
+      {
+        "term": "peptide hormone binding",
+        "go_id": "GO:0017046",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PHD1 mutations are associated with pheochromocytoma/paraganglioma-polycythemia, suggesting involvement in hormone regulation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "oxygen sensor activity",
+        "go_id": "GO:0019826",
+        "relationship": [
+          "has_part GO:0019825"
+        ],
+        "namespace": "molecular_function",
+        "justification": "PHD1 hydroxylates HIF-alpha isoforms, which is an oxygen-dependent process.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PHD1 is involved in the regulation of HIF-alpha, which is a key player in the cellular response to hypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "protein hydroxylation",
+        "go_id": "GO:0018126",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PHD1 hydroxylates HIF-alpha isoforms.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PHD1 is likely located in the cytoplasm, where it can interact with HIF-alpha.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PHD2",
+    "geneID": "54583",
+    "go_data": [
+      {
+        "term": "peptide hormone binding",
+        "go_id": "GO:0017046",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PHD2 hydroxylates HIF-alpha isoforms",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PHD2 is involved in the regulation of HIF-alpha",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "negative regulation of transcription by RNA polymerase II",
+        "go_id": "GO:0000122",
+        "relationship": [
+          "negatively_regulates GO:0006366"
+        ],
+        "namespace": "biological_process",
+        "justification": "PHD2 inhibits HIF-alpha, which regulates transcription",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "oxygen sensor activity",
+        "go_id": "GO:0019826",
+        "relationship": [
+          "has_part GO:0019825"
+        ],
+        "namespace": "molecular_function",
+        "justification": "PHD2 hydroxylates HIF-alpha in response to oxygen levels",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Harvey rat sarcoma viral oncogene homolog",
+    "geneID": "3265",
+    "go_data": [
+      {
+        "term": "GTPase activity",
+        "go_id": "GO:0003924",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "HRAS is a GTPase, an enzyme that can bind and hydrolyze GTP.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "HRAS is involved in signal transduction pathways, transmitting signals from the cell surface to the interior of the cell.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular response to epidermal growth factor stimulus",
+        "go_id": "GO:0071364",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HRAS is activated by epidermal growth factor (EGF) and other growth factors, leading to cell proliferation and differentiation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "kinesin family member 1B",
+    "geneID": "23095",
+    "go_data": [
+      {
+        "term": "microtubule-based movement",
+        "go_id": "GO:0007018",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "KIF1B is a kinesin family member, which are known to be involved in microtubule-based movement.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATRX",
+    "geneID": "546",
+    "go_data": [
+      {
+        "term": "chromatin binding",
+        "go_id": "GO:0003682",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ATRX is involved in chromatin remodeling.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ATRX is a nuclear protein.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NF1",
+    "geneID": "4763",
+    "go_data": [
+      {
+        "term": "GTPase activator activity",
+        "go_id": "GO:0005096",
+        "relationship": [
+          "positively_regulates GO:0003924"
+        ],
+        "namespace": "molecular_function",
+        "justification": "NF1 acts as a tumor suppressor gene, its protein: neurofibromin 1, is a GTPase activator.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "negative regulation of Ras protein signal transduction",
+        "go_id": "GO:0046580",
+        "relationship": [
+          "negatively_regulates GO:0007265"
+        ],
+        "namespace": "biological_process",
+        "justification": "NF1 inhibits Ras signaling through the mTOR kinase pathway.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "negative regulation of cell population proliferation",
+        "go_id": "GO:0008285",
+        "relationship": [
+          "negatively_regulates GO:0008283"
+        ],
+        "namespace": "biological_process",
+        "justification": "Loss-of-function mutations in NF1 result in an enhanced cell proliferation through impaired Ras signaling inhibition.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VHL",
+    "geneID": "7428",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "VHL protein binds to hydroxylated HIF-alpha isoforms for degradation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "negative regulation of hypoxia-inducible factor-1alpha signaling pathway",
+        "go_id": "GO:1902072",
+        "relationship": [
+          "negatively_regulates GO:0097411"
+        ],
+        "namespace": "biological_process",
+        "justification": "VHL mutations lead to an excess of HIF-alpha, which promotes metastasis, indicating VHL's role in regulating HIF signaling.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VHL protein is found in the cytosol where it interacts with hydroxylated HIF-alpha isoforms.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "ubiquitin ligase complex",
+        "go_id": "GO:0000151",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "VHL is part of an E3 ubiquitin ligase complex that targets HIF-alpha for degradation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "regulation of cell growth",
+        "go_id": "GO:0001558",
+        "relationship": [
+          "regulates GO:0016049"
+        ],
+        "namespace": "biological_process",
+        "justification": "VHL's regulation of HIF-alpha impacts cell growth, as HIF-alpha promotes the expression of genes involved in cell proliferation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RET",
+    "geneID": "5979",
+    "go_data": [
+      {
+        "term": "transmembrane receptor protein tyrosine kinase activity",
+        "go_id": "GO:0004714",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "animal organ development",
+        "go_id": "GO:0048513",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase involved in organ development.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Germline mutations in specific exons of the RET may lead to constitutive activation of its protein tyrosine kinase domain and subsequent downstream activation of Ras/mitogen-activated protein kinase and PI3 kinase/AKT pathways, promoting tumorigenesis through cell proliferation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "go_id": "GO:0006915",
+        "relationship": [
+          "has_part GO:0097190",
+          "has_part GO:0097194"
+        ],
+        "namespace": "biological_process",
+        "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase involved in organ development, proliferation, and apoptosis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SDHB",
+    "geneID": "6390",
+    "go_data": [
+      {
+        "term": "succinate dehydrogenase activity",
+        "go_id": "GO:0000104",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The SDH complex, which includes SDHB, catalyzes the oxidation of succinate to fumarate in the Krebs cycle.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The SDH complex, which includes SDHB, is part of the mitochondrial electron transport chain.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "go_id": "GO:0045333",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The SDH complex, which includes SDHB, plays a role in the Krebs cycle, which is part of cellular respiration.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SDHD",
+    "geneID": "6392",
+    "go_data": [
+      {
+        "term": "succinate dehydrogenase activity",
+        "go_id": "GO:0000104",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "SDHD is a mitochondrial complex II gene.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "SDHD is a mitochondrial complex II gene.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SDHA",
+    "geneID": "6389",
+    "go_data": [
+      {
+        "term": "succinate dehydrogenase activity",
+        "go_id": "GO:0000104",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "SDHA is a subunit of the SDH complex, which has succinate dehydrogenase activity.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The SDH complex, which includes SDHA, is located in the mitochondrion.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular respiration",
+        "go_id": "GO:0045333",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The SDH complex, which includes SDHA, is involved in cellular respiration.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SDHC",
+    "geneID": "6391",
+    "go_data": [
+      {
+        "term": "succinate dehydrogenase activity",
+        "go_id": "GO:0000104",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "SDHC is a subunit of the succinate dehydrogenase complex.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Succinate dehydrogenase is a mitochondrial enzyme complex.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SDHAF2",
+    "geneID": "54949",
+    "go_data": [
+      {
+        "term": "respiratory chain complex II assembly",
+        "go_id": "GO:0034552",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "SDHAF2 is associated with the assembly of the succinate dehydrogenase complex.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MDH2",
+    "geneID": "4191",
+    "go_data": [
+      {
+        "term": "oxidoreductase activity",
+        "go_id": "GO:0016491",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MDH2 is involved in the pseudohypoxic cluster, suggesting a role in redox reactions.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MDH2 is part of the pseudohypoxic cluster, indicating involvement in responding to hypoxic conditions.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CSDE1",
+    "geneID": "7812",
+    "go_data": []
+  },
+  {
+    "gene": "MAML3",
+    "geneID": "55534",
+    "go_data": [
+      {
+        "term": "Wnt signaling pathway",
+        "go_id": "GO:0016055",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MAML3 fusion genes are associated with the Wnt-altered pathway cluster in the development of pediatric PHEO.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EPO",
+    "geneID": "2056",
+    "go_data": [
+      {
+        "term": "erythrocyte development",
+        "go_id": "GO:0048821",
+        "relationship": [
+          "part_of GO:0030218"
+        ],
+        "namespace": "biological_process",
+        "justification": "EPO is involved in regulating genes involved in erythropoiesis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ADM",
+    "geneID": "133",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "ADM is regulated by HIF-alpha and is involved in angiogenesis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ADM is regulated by HIF-alpha under hypoxia, indicating its involvement in the cellular response to hypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VEGFA",
+    "geneID": "7422",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "VEGFA is regulated by HIF-alpha and is involved in angiogenesis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HK1",
+    "geneID": "3098",
+    "go_data": [
+      {
+        "term": "glucose metabolic process",
+        "go_id": "GO:0006006",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HK1 is involved in glucose metabolism, as stated in the text, where it is regulated by HIF-alpha under hypoxia or pseudohypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HK2",
+    "geneID": "3099",
+    "go_data": [
+      {
+        "term": "glucose metabolic process",
+        "go_id": "GO:0006006",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HK2 is involved in glucose metabolism as stated in the text.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFB",
+    "geneID": "7040",
+    "go_data": [
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TGFB is involved in cellular proliferation under hypoxia or pseudohypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CCND1",
+    "geneID": "595",
+    "go_data": [
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CCND1 is involved in cellular proliferation as indicated by its regulation by HIF-alpha under hypoxia or pseudohypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BNIP3",
+    "geneID": "664",
+    "go_data": [
+      {
+        "term": "cellular response to hypoxia",
+        "go_id": "GO:0071456",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "BNIP3 is involved in adaptive responses under hypoxia or pseudohypoxia.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cell death",
+        "go_id": "GO:0008219",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "BNIP3 is regulated by HIF-alpha, which plays a central role in regulating genes involved in cell survival.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PI3 kinase",
+    "geneID": "5295",
+    "go_data": [
+      {
+        "term": "1-phosphatidylinositol-3-kinase activity",
+        "go_id": "GO:0016303",
+        "relationship": [
+          "part_of GO:0036092"
+        ],
+        "namespace": "molecular_function",
+        "justification": "PI3 kinase is activated as part of its pathway.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Activation of PI3 kinase/AKT pathways promotes tumorigenesis through cell proliferation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "go_id": "GO:0006915",
+        "relationship": [
+          "has_part GO:0097190",
+          "has_part GO:0097194"
+        ],
+        "namespace": "biological_process",
+        "justification": "Activation of PI3 kinase/AKT pathways leads to reduced apoptosis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AKT",
+    "geneID": "207",
+    "go_data": [
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Activation of AKT pathways promotes tumorigenesis through cell proliferation.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "go_id": "GO:0006915",
+        "relationship": [
+          "has_part GO:0097190",
+          "has_part GO:0097194"
+        ],
+        "namespace": "biological_process",
+        "justification": "Activation of AKT pathways promotes tumorigenesis through reduced apoptosis.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "protein kinase C signaling",
+        "go_id": "GO:0070528",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "AKT is activated in the PI3 kinase/AKT pathway.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Myc",
+    "geneID": "4609",
+    "go_data": [
+      {
+        "term": "regulation of transcription regulatory region DNA binding",
+        "go_id": "GO:2000677",
+        "relationship": [
+          "regulates GO:0000976"
+        ],
+        "namespace": "biological_process",
+        "justification": "Myc binds to DNA in the nucleus.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Myc binds to MAX in the nucleus.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Loss-of-function mutations in MAX lead to enhanced cell proliferation due to impaired regulation of Myc.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "negative regulation of cell differentiation",
+        "go_id": "GO:0045596",
+        "relationship": [
+          "negatively_regulates GO:0030154"
+        ],
+        "namespace": "biological_process",
+        "justification": "Loss-of-function mutations in MAX lead to repression of cell differentiation due to impaired regulation of Myc.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      },
+      {
+        "term": "protein dimerization activity",
+        "go_id": "GO:0046983",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Myc binds to MAX.",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BCL2",
+    "geneID": "596",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "BCL2 interacts with adenovirus E1B 19 kDa protein",
+        "reference(s)": [
+          "PMC5884154"
+        ]
+      }
+    ]
+  }
+]

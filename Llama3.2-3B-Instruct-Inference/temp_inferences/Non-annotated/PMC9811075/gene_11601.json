@@ -1,0 +1,42 @@
+{
+  "gene": "Angpt2",
+  "geneID": "11601",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Angpt2 knockout mice have disturbed angiogenetic remodelling",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Angpt2 plays a comparatively prominent activating role in lymphatic vasculature",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "negative regulation of angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT2 is considered an antagonist of ANGPT1-induced TIE1-TIE2 signalling in the vascular system",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Angpt2 knockout mice exhibit major lymphatic vessel defects and generalised lymphatic dysfunction",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "HK1",
+  "geneID": "3098",
+  "go_data": [
+    {
+      "term": "glucose metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HK1 is involved in glucose metabolism, as stated in the text, where it is regulated by HIF-alpha under hypoxia or pseudohypoxia.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

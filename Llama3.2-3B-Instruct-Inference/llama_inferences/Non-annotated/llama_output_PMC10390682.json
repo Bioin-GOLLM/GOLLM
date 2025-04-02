@@ -1,0 +1,92 @@
+[
+  {
+    "gene": "Osteopontin",
+    "geneID": "100008982",
+    "go_data": [
+      {
+        "term": "cholesterol gallstone formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Osteopontin is closely related to cholelithiasis and plays a significant role in the pathogenesis of gallstone disease.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "hepatic tissue",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "The mRNA OPN expression showed a significant increase in the hepatic tissue of gallstone-formed rabbits.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "bone formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "OPN has participated in a different number of physiological processes including the organizing of bone formation/resorption.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "OPN has participated in a different number of physiological processes including the organizing of the immune system.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Osteopontin promotes rat hepatocyte proliferation both in vitro and in vivo.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GAPDH",
+    "geneID": "100009074",
+    "go_data": [
+      {
+        "term": "glyceraldehyde-3-phosphate dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GAPDH is explicitly mentioned as Glyceraldehyde-3-phosphate dehydrogenase.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "GAPDH is typically found in the cytosol as it is a key enzyme in glycolysis.",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OPN",
+    "geneID": "6696",
+    "go_data": [
+      {
+        "term": "hepatic tissue",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "mRNA OPN expression was detected in hepatic tissue",
+        "reference(s)": [
+          "PMC10390682"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "gene": "SDHB",
+  "geneID": "6390",
+  "go_data": [
+    {
+      "term": "succinate dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The SDH complex, which includes SDHB, catalyzes the oxidation of succinate to fumarate in the Krebs cycle.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The SDH complex, which includes SDHB, is part of the mitochondrial electron transport chain.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The SDH complex, which includes SDHB, plays a role in the Krebs cycle, which is part of cellular respiration.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "EPHB4",
+  "geneID": "2050",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "New pathways involving lymphangiogenesis and remodelling have also been identified and involve genes such as PIEZO1, EPHB4, CALCR  and GDF2.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ephb4 kinase-inactivating mutations cause autosomal dominant lymphatic-related hydrops fetalis",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

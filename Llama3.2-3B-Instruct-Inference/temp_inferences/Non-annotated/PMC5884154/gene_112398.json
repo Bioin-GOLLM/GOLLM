@@ -1,0 +1,51 @@
+{
+  "gene": "PHD1",
+  "geneID": "112398",
+  "go_data": [
+    {
+      "term": "peptide hormone binding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PHD1 mutations are associated with pheochromocytoma/paraganglioma-polycythemia, suggesting involvement in hormone regulation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "oxygen sensor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PHD1 hydroxylates HIF-alpha isoforms, which is an oxygen-dependent process.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PHD1 is involved in the regulation of HIF-alpha, which is a key player in the cellular response to hypoxia.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "protein hydroxylation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PHD1 hydroxylates HIF-alpha isoforms.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PHD1 is likely located in the cytoplasm, where it can interact with HIF-alpha.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

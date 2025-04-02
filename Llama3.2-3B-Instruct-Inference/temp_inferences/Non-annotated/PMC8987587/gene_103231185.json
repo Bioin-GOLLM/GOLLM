@@ -1,0 +1,24 @@
+{
+  "gene": "furin",
+  "geneID": "103231185",
+  "go_data": [
+    {
+      "term": "viral entry into host cell",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Furin is involved in the processing of SARS-CoV-2 S protein, which is necessary for viral entry into host cells.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Furin processes the SARS-CoV-2 S protein, indicating its peptidase activity.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

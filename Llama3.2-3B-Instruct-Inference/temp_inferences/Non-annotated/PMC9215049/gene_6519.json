@@ -1,0 +1,15 @@
+{
+  "gene": "SLC3A1",
+  "geneID": "6519",
+  "go_data": [
+    {
+      "term": "amino acid transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC3A1 is not explicitly described in the given text, however based on general knowledge it is a transporter, but since the text does not provide any information about its function, no term can be directly linked to the provided text.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "tyrosine kinase",
+  "geneID": "7294",
+  "go_data": [
+    {
+      "term": "vascular endothelial growth factor receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ANGPT2-TIE2 tyrosine kinase pathway is implicated in primary lymphoedema.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT2 is considered an antagonist of ANGPT1-induced TIE1-TIE2 signalling in the vascular system, and Angpt2 knockout mice have disrupted postnatal angiogenic remodelling.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ANGPT2-TIE2 tyrosine kinase pathway is involved in the formation and remodelling of lymphatic vessels.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "receptor tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Tie2 is described as a receptor tyrosine kinase.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

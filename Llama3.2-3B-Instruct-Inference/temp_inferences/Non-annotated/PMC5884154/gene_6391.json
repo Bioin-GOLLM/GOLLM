@@ -1,0 +1,24 @@
+{
+  "gene": "SDHC",
+  "geneID": "6391",
+  "go_data": [
+    {
+      "term": "succinate dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SDHC is a subunit of the succinate dehydrogenase complex.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Succinate dehydrogenase is a mitochondrial enzyme complex.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}
