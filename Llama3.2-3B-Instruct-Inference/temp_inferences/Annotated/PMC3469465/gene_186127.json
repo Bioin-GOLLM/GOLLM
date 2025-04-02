@@ -1,0 +1,24 @@
+{
+  "gene": "collagen",
+  "geneID": "186127",
+  "go_data": [
+    {
+      "term": "fibril organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Collagen is involved in muscle-specific and developmentally regulated alternative splicing.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Collagen is a component of the extracellular matrix in body wall muscles and pharyngeal muscles.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "ETR-1",
+  "geneID": "173401",
+  "go_data": [
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ETR-1 is a putative co-regulator of the unc-60 reporter.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

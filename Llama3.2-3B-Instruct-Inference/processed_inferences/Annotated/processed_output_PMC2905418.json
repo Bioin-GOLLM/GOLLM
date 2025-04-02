@@ -1,0 +1,308 @@
+[
+  {
+    "gene": "STAR",
+    "geneID": "6770",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "go_id": "GO:0003723",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "STAR/GSG proteins regulate gene expression by binding consensus sites in the 5' or 3' UTRs of target mRNA transcripts.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "post-transcriptional regulation of gene expression",
+        "go_id": "GO:0010608",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "STAR/GSG proteins regulate the expression of developmental genes in eukaryotes by binding specific sites in target mRNA transcripts.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "No direct evidence, but STAR proteins are involved in post-transcriptional regulation, which often occurs in the nucleus.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "STAR, a gene family involved in signal transduction and activation of RNA.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GLD-1",
+    "geneID": "172532",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "go_id": "GO:0003723",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "GLD-1 binds to TGE RNA and regulates tra-2 translation.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "regulation of translation",
+        "go_id": "GO:0006417",
+        "relationship": [
+          "regulates GO:0006412"
+        ],
+        "namespace": "biological_process",
+        "justification": "GLD-1 is a translational regulator of sexual identity in Caenorhabditis elegans.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "GLD-1 is a cytoplasmic protein essential for oocyte differentiation.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Qk-1",
+    "geneID": "9444",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "go_id": "GO:0003723",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Qk-1 binds to a specific hexameric consensus sequence in the UTRs of target mRNA transcripts.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "RNA localization",
+        "go_id": "GO:0006403",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Qk-1 ensures the proper sub-cellular localization and expression of myelin basic protein (MBP) in glial cells.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Qk-1 binds to mRNA in the cytoplasm and regulates its localization and expression.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STAR",
+    "geneID": "20845",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "go_id": "GO:0003723",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "STAR protein binds target RNA consensus sites and has an extended platform for RNA binding through its KH and Qua2 domains.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "protein homodimerization activity",
+        "go_id": "GO:0042803",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Qua1 domain of STAR facilitates STAR homodimerization in the presence or absence of RNA.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BBP",
+    "geneID": "7536",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "go_id": "GO:0003723",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The splicing factor BBP interacts specifically with the pre-mRNA branchpoint sequence UACUAAC",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "RNA splicing",
+        "go_id": "GO:0008380",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "BBP is described as a splicing factor that interacts with pre-mRNA",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a splicing factor, BBP is likely to be located in the nucleus where splicing occurs",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tra-2",
+    "geneID": "174137",
+    "go_data": [
+      {
+        "term": "mRNA binding",
+        "go_id": "GO:0003729",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "tra-2 mRNA 3'-UTR contains TGEs that bind GLD-1.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "regulation of translation",
+        "go_id": "GO:0006417",
+        "relationship": [
+          "regulates GO:0006412"
+        ],
+        "namespace": "biological_process",
+        "justification": "GLD-1 binds to tra-2 mRNA 3'-UTR and silences tra-2 translation.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "tra-2 mRNA is translated in the cytoplasm and its translation is regulated by GLD-1 binding to its 3'-UTR.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myelin basic protein",
+    "geneID": "17196",
+    "go_data": [
+      {
+        "term": "myelination",
+        "go_id": "GO:0042552",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Myelin basic protein is involved in the process of myelination.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "axon ensheathment",
+        "go_id": "GO:0008366",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Myelin basic protein is involved in the process of axon ensheathment.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "Schwann cell differentiation",
+        "go_id": "GO:0014037",
+        "relationship": [
+          "part_of GO:0007422"
+        ],
+        "namespace": "biological_process",
+        "justification": "Myelin basic protein is involved in the differentiation of Schwann cells.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "oligodendrocyte differentiation",
+        "go_id": "GO:0048709",
+        "relationship": [
+          "part_of GO:0007417"
+        ],
+        "namespace": "biological_process",
+        "justification": "Myelin basic protein is involved in the differentiation of oligodendrocytes.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      },
+      {
+        "term": "myelin sheath",
+        "go_id": "GO:0043209",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Myelin basic protein is a component of the myelin sheath.",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "let-2",
+    "geneID": "181708",
+    "go_data": [
+      {
+        "term": "RNA splicing",
+        "go_id": "GO:0008380",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "STAR-2 facilitates alternative splicing patterns in let-2 mRNA",
+        "reference(s)": [
+          "PMC2905418"
+        ]
+      }
+    ]
+  }
+]

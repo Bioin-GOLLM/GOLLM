@@ -1,0 +1,33 @@
+{
+  "gene": "integrin linked kinase",
+  "geneID": "53573",
+  "go_data": [
+    {
+      "term": "cardiomyogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ILK induces cardiomyogenesis in the human heart.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Integrin linked kinase is part of the Integrin Adhesion complex (IAC).",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ILK is required for the effect of betaPS-integrin overexpression on heart function in Drosophila.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

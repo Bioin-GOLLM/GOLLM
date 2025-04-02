@@ -1,0 +1,33 @@
+{
+  "gene": "Qk-1",
+  "geneID": "9444",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Qk-1 binds to a specific hexameric consensus sequence in the UTRs of target mRNA transcripts.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "regulation of RNA localization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Qk-1 ensures the proper sub-cellular localization and expression of myelin basic protein (MBP) in glial cells.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Qk-1 binds to mRNA in the cytoplasm and regulates its localization and expression.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}

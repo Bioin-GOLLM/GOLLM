@@ -1,0 +1,24 @@
+{
+  "gene": "Glutathione-S-transferase",
+  "geneID": "185412",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Glutathione-S-transferase (GST)-fused ASD-2b protein pulled down a substantial amount of recombinant full-length SUP-12 protein.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "cellular detoxification",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, however 'Glutathione-S-transferase' implies involvement in detoxification, but text does not explicitly support this.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "egl-15",
+  "geneID": "181291",
+  "go_data": [
+    {
+      "term": "fibroblast growth factor receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "egl-15 is identified as a fibroblast growth factor receptor gene.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "egl-15 exon 5B is repressed in a muscle-specific manner.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

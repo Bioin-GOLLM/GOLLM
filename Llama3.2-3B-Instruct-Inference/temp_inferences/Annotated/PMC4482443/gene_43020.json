@@ -1,0 +1,33 @@
+{
+  "gene": "tintin",
+  "geneID": "43020",
+  "go_data": [
+    {
+      "term": "sarcomere",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "tintin is linked to the sarcomere",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "tintin is analogous to mammalian Dilated Cardiomyopathy (DCM)",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "interacts_with",
+      "namespace": "cellular_component",
+      "justification": "tintin links the sarcomere to the ECM",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@
         "go_id": "GO:0042593",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Insulin is used in the treatment of type 1 diabetes, which is characterized by impaired glucose homeostasis.",
+        "justification": "Insulin is used in the treatment of type 1 diabetes, implying its role in glucose homeostasis.",
         "reference(s)": [
           "PMC9050729"
         ]
@@ -18,27 +18,7 @@
         "go_id": "GO:0071333",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Insulin is released in response to elevated glucose levels and facilitates glucose uptake in cells.",
-        "reference(s)": [
-          "PMC9050729"
-        ]
-      },
-      {
-        "term": "peptide hormone receptor binding",
-        "go_id": "GO:0051428",
-        "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "Insulin binds to its receptor, triggering a signaling cascade that regulates glucose metabolism.",
-        "reference(s)": [
-          "PMC9050729"
-        ]
-      },
-      {
-        "term": "extracellular region",
-        "go_id": "GO:0005576",
-        "relationship": "unknown",
-        "namespace": "cellular_component",
-        "justification": "Insulin is secreted into the extracellular space, where it can interact with its receptor on the surface of target cells.",
+        "justification": "Insulin therapy affects glucose levels, suggesting a cellular response to glucose stimulus.",
         "reference(s)": [
           "PMC9050729"
         ]
@@ -65,21 +45,21 @@
         ]
       },
       {
-        "term": "glucose homeostasis",
-        "go_id": "GO:0042593",
+        "term": "response to glucose",
+        "go_id": "GO:0009749",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Glucagon treatment is used to counteract severe hypoglycaemia, suggesting its involvement in glucose homeostasis.",
+        "justification": "Glucagon treatment is reported in the context of severe hypoglycaemic episodes, indicating its involvement in responding to hypoglycemia.",
         "reference(s)": [
           "PMC9050729"
         ]
       },
       {
-        "term": "blood circulation",
-        "go_id": "GO:0008015",
+        "term": "glucose homeostasis",
+        "go_id": "GO:0042593",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Glucagon is administered intramuscularly to treat severe hypoglycaemia, implying it is secreted into the blood.",
+        "justification": "Glucagon is used to treat hypoglycaemia, implying its role in regulating blood glucose levels.",
         "reference(s)": [
           "PMC9050729"
         ]

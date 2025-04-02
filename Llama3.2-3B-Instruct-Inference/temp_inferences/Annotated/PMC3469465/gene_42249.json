@@ -1,0 +1,24 @@
+{
+  "gene": "choline acetyltransferase",
+  "geneID": "42249",
+  "go_data": [
+    {
+      "term": "choline O-acetyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "choline acetyltransferase (ChAT) is mentioned as part of the cholinergic gene locus.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "neurotransmitter biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ChAT is involved in the biosynthesis of the neurotransmitter acetylcholine.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

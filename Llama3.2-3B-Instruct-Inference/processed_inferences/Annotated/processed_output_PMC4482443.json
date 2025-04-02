@@ -1,0 +1,600 @@
+[
+  {
+    "gene": "Talin",
+    "geneID": "38978",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "go_id": "GO:0007155",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Talin is required for cardiomyocyte adhesion and maintaining the one-to-one apposition of myofibril ends between cardiomyocytes.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "integrin-mediated signaling pathway",
+        "go_id": "GO:0007229",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Talin acts as a physical link between the Integrin dimer and the actin cytoskeleton, and its engagement of actin is modulated by Integrin-ECM adhesion.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Talin is required continuously for cardiomyocyte remodeling during heart growth in Drosophila.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "Talin is required for the differentiation, growth, and remodeling of cardiomyocytes.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Talin localizes to the costameres of cardiomyocytes and is involved in cell-cell adhesion.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton",
+        "go_id": "GO:0015629",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Talin acts as a physical link between the Integrin dimer and the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dystroglycan",
+    "geneID": "36773",
+    "go_data": [
+      {
+        "term": "cell-matrix adhesion",
+        "go_id": "GO:0007160",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Dystroglycan is part of the linkage between the muscle Z-line and the ECM.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "costamere",
+        "go_id": "GO:0043034",
+        "relationship": [
+          "part_of GO:0030016"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Dystroglycan is part of the costamere, an Integrin and Dystroglycan based linkage.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Dystroglycan is involved in the structure of intercalated discs, which transmit mechanical tension across heart muscle.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-1 integrin",
+    "geneID": "44885",
+    "go_data": [
+      {
+        "term": "cell-matrix adhesion",
+        "go_id": "GO:0007160",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Costameres are Integrin and Dystroglycan based linkage between the muscle Z-line and the ECM.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cell-substrate junction",
+        "go_id": "GO:0030055",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Costameres are Integrin and Dystroglycan based linkage between the muscle Z-line and the ECM.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Drosophila hearts express a single beta-integrin, betaPS, encoded by myospheroid.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "focal adhesion kinase",
+    "geneID": "37233",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "go_id": "GO:0007155",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Focal adhesion kinase is postulated to mediate tension signalling as an integrin second messenger.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton",
+        "go_id": "GO:0015629",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Focal adhesion kinase is linked to the actin cytoskeleton via the Talin dimer.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "protein tyrosine kinase activity",
+        "go_id": "GO:0004713",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Focal adhesion kinase is a kinase, implying it has protein tyrosine kinase activity.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "integrin linked kinase",
+    "geneID": "53573",
+    "go_data": [
+      {
+        "term": "cardiac cell development",
+        "go_id": "GO:0055006",
+        "relationship": [
+          "part_of GO:0035051"
+        ],
+        "namespace": "biological_process",
+        "justification": "ILK induces cardiomyogenesis in the human heart.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "go_id": "GO:0007155",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Integrin linked kinase is part of the Integrin Adhesion complex (IAC).",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "ILK is required for the effect of betaPS-integrin overexpression on heart function in Drosophila.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "40444",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The Talin dimer acts as a physical link between the Integrin dimer and the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "go_id": "GO:0006936",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Myofibrils (discrete bundles of actomyosin filaments) were uniformly distributed around the vessel.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "sarcomere",
+        "go_id": "GO:0030017",
+        "relationship": [
+          "part_of GO:0030016"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The heart was flanked by pairs of integrin-rich pericardial cells, which function as nephrocytes, and integrin was enriched on the myocyte surface at each costamere, revealed in a striated pattern of both actin and integrin labeling.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vinculin",
+    "geneID": "22330",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "go_id": "GO:0005925",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Vinculin is linked to Focal Adhesion kinase in the context of Integrin-ECM adhesion and actin cytoskeleton interaction.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton organization",
+        "go_id": "GO:0030036",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Vinculin interacts with the actin cytoskeleton through Talin, suggesting involvement in its organization.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Talin 1",
+    "geneID": "21894",
+    "go_data": [
+      {
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Talin 1 is localised to cardiac muscle intercalated discs and to the costamere.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Up-regulation of Talin 1 in the hearts of Fragile X autosomal homolog1 mutants is associated with disruption of costamere structure in heart muscle.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "response to mechanical stimulus",
+        "go_id": "GO:0009612",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Increased cardiac load will increase Talin1 expression at costameres and Talin1 modifies the hypertrophic response to pressure overload.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Talin2",
+    "geneID": "70549",
+    "go_data": [
+      {
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Talin2 is expressed at costameres, which are cell junctions.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Talin2 is the major form expressed after differentiation in the adult mouse heart.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "go_id": "GO:0007010",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Talin2 is related to costameres, which are involved in cytoskeleton organization.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "betaPS",
+    "geneID": "39935",
+    "go_data": [
+      {
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "betaPS is found at an integrin-rich cell junction, analogous to an intercalated disc.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "integrin-mediated signaling pathway",
+        "go_id": "GO:0007229",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "betaPS, as an integrin, is likely involved in integrin-mediated signaling pathways.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "tissue morphogenesis",
+        "go_id": "GO:0048729",
+        "relationship": [
+          "part_of GO:0009888"
+        ],
+        "namespace": "biological_process",
+        "justification": "A novel alpha integrin subunit associates with betaPS and functions in tissue morphogenesis and movement during Drosophila development.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cell adhesion molecule binding",
+        "go_id": "GO:0050839",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "As an integrin, betaPS is involved in cell adhesion.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "betaPS is expressed in cardiomyocytes and is necessary for maintaining myofibril structure.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Zasp",
+    "geneID": "36740",
+    "go_data": [
+      {
+        "term": "costamere",
+        "go_id": "GO:0043034",
+        "relationship": [
+          "part_of GO:0030016"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Zasp localises to the costameres of cardiomyocytes of control larval hearts.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cardiac muscle cell development",
+        "go_id": "GO:0055013",
+        "relationship": [
+          "part_of GO:0055007"
+        ],
+        "namespace": "biological_process",
+        "justification": "Zasp is detected at costameres in cardiomyocytes, suggesting a role in cardiac muscle cell development.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Pericardin",
+    "geneID": "43930",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "go_id": "GO:0031012",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Pericardin is a collagen-like protein characteristic of the abluminal heart ECM.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart morphogenesis",
+        "go_id": "GO:0003007",
+        "relationship": [
+          "part_of GO:0007507"
+        ],
+        "namespace": "biological_process",
+        "justification": "Pericardin is involved in the morphogenesis and maintenance of the heart epithelium during dorsal ectoderm closure.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "dorsal closure",
+        "go_id": "GO:0007391",
+        "relationship": [
+          "part_of GO:0001700"
+        ],
+        "namespace": "biological_process",
+        "justification": "Pericardin is involved in the morphogenesis and maintenance of the heart epithelium during dorsal ectoderm closure.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cadherin",
+    "geneID": "37386",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "go_id": "GO:0007155",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Cadherin is involved in cell adhesion as it forms cadherin-based cell junctions in the Drosophila heart.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Cadherin forms cell junctions in the Drosophila heart, specifically at the dorsal and ventral midline.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vinculin",
+    "geneID": "31201",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "go_id": "GO:0007155",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Vinculin links the sarcomere to the ECM, suggesting involvement in cell adhesion.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "sarcomere",
+        "go_id": "GO:0030017",
+        "relationship": [
+          "part_of GO:0030016"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Vinculin links the sarcomere to the ECM, indicating it is part of the sarcomere.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "go_id": "GO:0031012",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Vinculin links the sarcomere to the ECM, indicating interaction with the ECM.",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tintin",
+    "geneID": "43020",
+    "go_data": [
+      {
+        "term": "sarcomere",
+        "go_id": "GO:0030017",
+        "relationship": [
+          "part_of GO:0030016"
+        ],
+        "namespace": "cellular_component",
+        "justification": "tintin is linked to the sarcomere",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "tintin is analogous to mammalian Dilated Cardiomyopathy (DCM)",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "go_id": "GO:0031012",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "tintin links the sarcomere to the ECM",
+        "reference(s)": [
+          "PMC4482443"
+        ]
+      }
+    ]
+  }
+]

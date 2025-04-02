@@ -1,0 +1,42 @@
+{
+  "gene": "SUP-12",
+  "geneID": "180674",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SUP-12 specifically binds to UGUGUG stretch in intron 1A of the unc-60 gene.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "regulation of alternative splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUP-12 cooperatively regulates muscle-specific alternative splicing of the unc-60 gene with ASD-2.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "SUP-12 is expressed in body wall muscles and regulates muscle-specific splicing of the unc-60 gene.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an RNA-binding protein, SUP-12 is expected to be localized to the nucleus to regulate pre-mRNA processing.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

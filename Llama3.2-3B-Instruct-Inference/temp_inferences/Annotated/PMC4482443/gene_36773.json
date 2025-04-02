@@ -1,0 +1,33 @@
+{
+  "gene": "Dystroglycan",
+  "geneID": "36773",
+  "go_data": [
+    {
+      "term": "cell-matrix adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dystroglycan is part of the linkage between the muscle Z-line and the ECM.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "costamere",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Dystroglycan is part of the costamere, an Integrin and Dystroglycan based linkage.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dystroglycan is involved in the structure of intercalated discs, which transmit mechanical tension across heart muscle.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

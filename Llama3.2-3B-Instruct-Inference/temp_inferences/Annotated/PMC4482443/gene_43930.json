@@ -1,0 +1,33 @@
+{
+  "gene": "Pericardin",
+  "geneID": "43930",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Pericardin is a collagen-like protein characteristic of the abluminal heart ECM.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pericardin is involved in the morphogenesis and maintenance of the heart epithelium during dorsal ectoderm closure.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "dorsal ectoderm closure",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pericardin is involved in the morphogenesis and maintenance of the heart epithelium during dorsal ectoderm closure.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

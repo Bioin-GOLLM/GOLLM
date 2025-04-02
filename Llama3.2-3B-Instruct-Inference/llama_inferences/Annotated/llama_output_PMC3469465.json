@@ -1,0 +1,614 @@
+[
+  {
+    "gene": "ASD-2",
+    "geneID": "188703",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ASD-2 is an RNA-binding protein belonging to the STAR family.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "regulation of alternative splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ASD-2 regulates muscle-specific and developmentally regulated alternative splicing of the unc-60 gene.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Nuclei of body wall muscles are stained with an antibody against ASD-2b, indicating that ASD-2 is localized in the nucleus.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ASD-2 orthologs in other organisms are required for muscle development or activity, suggesting a similar role for ASD-2 in C. elegans.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SUP-12",
+    "geneID": "180674",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SUP-12 specifically binds to UGUGUG stretch in intron 1A of the unc-60 gene.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "regulation of alternative splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SUP-12 cooperatively regulates muscle-specific alternative splicing of the unc-60 gene with ASD-2.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "SUP-12 is expressed in body wall muscles and regulates muscle-specific splicing of the unc-60 gene.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As an RNA-binding protein, SUP-12 is expected to be localized to the nucleus to regulate pre-mRNA processing.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "unc-60",
+    "geneID": "178640",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The unc-60 gene encodes proteins homologous to a family of actin-binding proteins.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "actin filament dynamics",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Two Caenorhabditis elegans actin depolymerizing factor/cofilin proteins, encoded by the unc-60 gene, differentially regulate actin filament dynamics.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "UNC-60B protein is specifically expressed in muscle.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "regulation of actin cytoskeleton",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The unc-60 gene encodes two tissue-specific isoforms of ADF/cofilin with distinct biochemical properties in regulating actin organization.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "176793",
+    "go_data": [
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Actin filaments are organized in a striated pattern in wild-type worms, and their disorganization is observed in unc-60B mutants.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Actin filaments are essential for muscle contraction, and their disorganization leads to paralysis in unc-60B mutants.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "actin filament",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Actin filaments are composed of actin proteins and are a key component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "troponin T",
+    "geneID": "180914",
+    "go_data": [
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Troponin T is a muscle-specific protein isoform that plays a role in muscle contraction.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Troponin T is expressed in muscle cells, including heart and skeletal muscle.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "regulation of muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Alternative pre-mRNA splicing generates functionally distinct isoforms of troponin T, which may regulate muscle contraction.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "unc-51",
+    "geneID": "180311",
+    "go_data": [
+      {
+        "term": "protein serine/threonine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "unc-51 encodes a novel serine/threonine kinase",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "axonal elongation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "unc-51 gene required for axonal elongation",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myo-3",
+    "geneID": "179676",
+    "go_data": [
+      {
+        "term": "muscle cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "myo-3 promoter drives expression specifically in body wall muscles, indicating myo-3's role in muscle cell differentiation.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "body wall muscle cell",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "myo-3 promoter drives expression of the unc-60 reporter specifically in body wall muscles.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "egl-15",
+    "geneID": "181291",
+    "go_data": [
+      {
+        "term": "fibroblast growth factor receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "egl-15 is identified as a fibroblast growth factor receptor gene.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "egl-15 exon 5B is repressed in a muscle-specific manner.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Fox-1",
+    "geneID": "180549",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Fox-1 is described as an RNA-binding protein.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "alternative splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The Fox-1 family and SUP-12 coordinately regulate tissue-specific alternative splicing in vivo.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "regulation of RNA splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fox-1 family proteins and SUP-12 cooperatively bind to juxtaposed cis-elements overlapping a putative branch site to regulate splicing.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ASD-1",
+    "geneID": "175542",
+    "go_data": [
+      {
+        "term": "regulation of RNA splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ASD-1 functions as a muscle-specific partner of the Fox-1 family proteins in the repression of egl-15 exon 5B.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ASD-1 is a muscle-specific partner of the Fox-1 family proteins.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ETR-1",
+    "geneID": "173401",
+    "go_data": [
+      {
+        "term": "regulation of gene expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ETR-1 is a putative co-regulator of the unc-60 reporter.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MEC-8",
+    "geneID": "172771",
+    "go_data": [
+      {
+        "term": "regulation of gene expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MEC-8 is a putative co-regulator of the unc-60 reporter.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "R02F2.5",
+    "geneID": "187528",
+    "go_data": [
+      {
+        "term": "regulation of gene expression",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "R02F2.5 is a putative co-regulator of the unc-60 reporter.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "collagen",
+    "geneID": "186127",
+    "go_data": [
+      {
+        "term": "fibril organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Collagen is involved in muscle-specific and developmentally regulated alternative splicing.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Collagen is a component of the extracellular matrix in body wall muscles and pharyngeal muscles.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "let-2",
+    "geneID": "181708",
+    "go_data": [
+      {
+        "term": "collagen biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "let-2 is a collagen gene, indicating its involvement in collagen biosynthesis.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle cell development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "let-2 is developmentally regulated and involved in muscle-specific alternative splicing.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "As a collagen gene, let-2 is part of the extracellular matrix.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Glutathione-S-transferase",
+    "geneID": "185412",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Glutathione-S-transferase (GST)-fused ASD-2b protein pulled down a substantial amount of recombinant full-length SUP-12 protein.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "cellular detoxification",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "None found, however 'Glutathione-S-transferase' implies involvement in detoxification, but text does not explicitly support this.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "U2 snRNP auxiliary factor",
+    "geneID": "33201",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "U2AF bound to the 3'-splice site",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "mRNA splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "U2AF recruiting U2 snRNP to the branch site",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "U2AF involved in mRNA splicing, a process occurring in the nucleus",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Held out",
+    "geneID": "33432",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The held out wings (how) Drosophila gene encodes a putative RNA-binding protein",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Held out wings (How) are known to be required for muscle development or activity by mutant analyses",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "heart development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The held out wings (how) Drosophila gene is involved in the control of muscular and cardiac activity",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RBM24",
+    "geneID": "405801",
+    "go_data": [
+      {
+        "term": "RNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RBM24 is described as an RNA-binding protein.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "myogenic differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RBM24 is required for myogenesis during Xenopus early development and regulates myogenic differentiation.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "sarcomere assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RBM24 is required for sarcomere assembly.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "muscle tissue",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "RBM24 is expressed in muscle tissues.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "choline acetyltransferase",
+    "geneID": "42249",
+    "go_data": [
+      {
+        "term": "choline O-acetyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "choline acetyltransferase (ChAT) is mentioned as part of the cholinergic gene locus.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "neurotransmitter biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ChAT is involved in the biosynthesis of the neurotransmitter acetylcholine.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vesicular acetylcholine transporter",
+    "geneID": "42795",
+    "go_data": [
+      {
+        "term": "acetylcholine transport",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Vesicular acetylcholine transporter is involved in transporting acetylcholine.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "synaptic vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vesicular acetylcholine transporter is expected to be located in synaptic vesicles based on its function.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      },
+      {
+        "term": "neurotransmitter transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vesicular acetylcholine transporter is involved in the transport of the neurotransmitter acetylcholine.",
+        "reference(s)": [
+          "PMC3469465"
+        ]
+      }
+    ]
+  }
+]

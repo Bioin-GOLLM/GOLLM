@@ -516,7 +516,7 @@
         "term": "DNA repair",
         "relationship": "involved_in",
         "namespace": "biological_process",
-        "justification": "None found in provided text, however BRCA1 is known for its role in DNA repair.",
+        "justification": "BRCA1 is known for its role in DNA repair, although the provided text does not explicitly state this, it is a well established fact, however, the text does mention 'BRCA1' in the context of 'massively parallel functional analysis' and 'saturation genome editing', which implies a role in genome stability, which is related to DNA repair.",
         "reference(s)": [
           "PMC6742646"
         ]

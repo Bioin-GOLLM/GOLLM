@@ -1,0 +1,15 @@
+{
+  "gene": "let-2",
+  "geneID": "181708",
+  "go_data": [
+    {
+      "term": "mRNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STAR-2 facilitates alternative splicing patterns in let-2 mRNA",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}

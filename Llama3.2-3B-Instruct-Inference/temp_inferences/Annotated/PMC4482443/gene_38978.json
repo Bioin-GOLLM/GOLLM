@@ -1,0 +1,60 @@
+{
+  "gene": "Talin",
+  "geneID": "38978",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Talin is required for cardiomyocyte adhesion and maintaining the one-to-one apposition of myofibril ends between cardiomyocytes.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "integrin-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Talin acts as a physical link between the Integrin dimer and the actin cytoskeleton, and its engagement of actin is modulated by Integrin-ECM adhesion.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Talin is required continuously for cardiomyocyte remodeling during heart growth in Drosophila.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Talin is required for the differentiation, growth, and remodeling of cardiomyocytes.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Talin localizes to the costameres of cardiomyocytes and is involved in cell-cell adhesion.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Talin acts as a physical link between the Integrin dimer and the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

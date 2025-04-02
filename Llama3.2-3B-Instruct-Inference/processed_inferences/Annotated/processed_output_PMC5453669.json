@@ -52,7 +52,7 @@
           "negatively_regulates GO:0003300"
         ],
         "namespace": "biological_process",
-        "justification": "MuRF1 inhibits T3-induced cardiomyocyte hypertrophy.",
+        "justification": "MuRF1 inhibits T3-induced cardiac hypertrophy.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -104,7 +104,7 @@
           "regulates GO:0003300"
         ],
         "namespace": "biological_process",
-        "justification": "TRalpha activity is critical for regulating cardiac hypertrophy in response to T3.",
+        "justification": "TRalpha plays a critical role in regulating cardiac hypertrophy in response to T3.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -206,11 +206,11 @@
         ]
       },
       {
-        "term": "protein kinase binding",
-        "go_id": "GO:0019901",
+        "term": "protein kinase C signaling",
+        "go_id": "GO:0070528",
         "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "mTOR is activated by T3, which also activates pro-survival pathways including Akt.",
+        "namespace": "biological_process",
+        "justification": "T3 activates pro-survival pathways including Akt and mTOR.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -220,7 +220,7 @@
         "go_id": "GO:0016049",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "T3 activates many of the physiological changes that would benefit the heart, activating pro-survival pathways Akt and mTOR.",
+        "justification": "mTOR is activated by T3, which promotes elements of physiological hypertrophic response after cardiac injury.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -270,7 +270,7 @@
           "part_of GO:0048738"
         ],
         "namespace": "biological_process",
-        "justification": "T3 is involved in directing myocyte alignment and geometry.",
+        "justification": "T3 directs myocyte alignment and geometry.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -281,6 +281,16 @@
         "relationship": "unknown",
         "namespace": "biological_process",
         "justification": "T3 is involved in extracellular matrix remodeling.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "nuclear thyroid hormone receptor binding",
+        "go_id": "GO:0046966",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TH is a ligand for the thyroid hormone receptor.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -298,21 +308,11 @@
         ]
       },
       {
-        "term": "nuclear thyroid hormone receptor binding",
-        "go_id": "GO:0046966",
-        "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "TH is a ligand for the thyroid hormone receptor.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
         "term": "cellular response to hormone stimulus",
         "go_id": "GO:0032870",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Treatment with TH following myocardial infarction is cardioprotective.",
+        "justification": "TH induces molecular changes that benefit the failing heart.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -324,35 +324,59 @@
     "geneID": "16000",
     "go_data": [
       {
-        "term": "regulation of cardiac muscle hypertrophy",
-        "go_id": "GO:0010611",
-        "relationship": [
-          "regulates GO:0003300"
-        ],
-        "namespace": "biological_process",
-        "justification": "IGF-1 is mentioned to induce physiological hypertrophic response after cardiac injury and is involved in exercise-mediated physiological hypertrophy.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "positive regulation of cardiac muscle hypertrophy",
-        "go_id": "GO:0010613",
-        "relationship": [
-          "positively_regulates GO:0003300"
-        ],
-        "namespace": "biological_process",
-        "justification": "IGF-1 signaling is increased in physiological hypertrophy and MuRF1 inhibits IGF-1-dependent cardiomyocyte hypertrophy.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
         "term": "cell growth",
         "go_id": "GO:0016049",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "IGF-1 is involved in driving increases in contractile proteins critical to cardiac function and performance, implying a role in cell growth.",
+        "justification": "IGF-1 mediates increases in cardiomyocyte growth.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "cardiac muscle hypertrophy",
+        "go_id": "GO:0003300",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IGF-1 is involved in physiological hypertrophy induced by exercise.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "IGF-1 signaling proteins are increased by cJun and inhibited by MuRF1.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "cardiac muscle cell differentiation",
+        "go_id": "GO:0055007",
+        "relationship": [
+          "part_of GO:0048738"
+        ],
+        "namespace": "biological_process",
+        "justification": "None found for differentiation, however 'IGF-1-dependent cardiomyocyte hypertrophy' is mentioned.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "go_id": "GO:0005615",
+        "relationship": [
+          "part_of GO:0005576"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IGF-1 is a secreted protein that acts on cardiomyocytes.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -374,21 +398,21 @@
         ]
       },
       {
-        "term": "protein heterodimerization activity",
-        "go_id": "GO:0046982",
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
         "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "RARgamma heterodimerizes with RXR, indicating it enables protein heterodimerization activity.",
+        "namespace": "biological_process",
+        "justification": "RARgamma is degraded by the ubiquitin proteasome system, indicating involvement in protein ubiquitination.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "proteasome-mediated ubiquitin-dependent protein catabolic process",
-        "go_id": "GO:0043161",
+        "term": "ubiquitin-protein transferase activity",
+        "go_id": "GO:0004842",
         "relationship": "unknown",
-        "namespace": "biological_process",
-        "justification": "RARgamma is degraded by the ubiquitin proteasome system, indicating involvement in this process.",
+        "namespace": "molecular_function",
+        "justification": "RARgamma's degradation by the ubiquitin proteasome system implies interaction with ubiquitin-protein transferase activity.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -428,6 +452,16 @@
         "reference(s)": [
           "PMC5453669"
         ]
+      },
+      {
+        "term": "transcription regulator activity",
+        "go_id": "GO:0140110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PPARalpha is a nuclear hormone receptor that regulates gene expression.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
       }
     ]
   },
@@ -440,7 +474,7 @@
         "go_id": "GO:0019395",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "PPARbeta/delta activity is related to fatty acid oxidation, as MuRF3 inhibits PPARbeta activity in vivo.",
+        "justification": "MuRF3 inhibits PPARbeta activity in vivo, implying PPARbeta/delta's role in fatty acid oxidation.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -466,17 +500,15 @@
         "go_id": "GO:0004842",
         "relationship": "unknown",
         "namespace": "molecular_function",
-        "justification": "MuRF2 inhibits PPARgamma1 through mono-ubiquitination.",
+        "justification": "MuRF2 is a muscle-specific ubiquitin ligase that inhibits PPARgamma1 through mono-ubiquitination.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "negative regulation of fatty acid oxidation",
-        "go_id": "GO:0046322",
-        "relationship": [
-          "negatively_regulates GO:0019395"
-        ],
+        "term": "fatty acid oxidation",
+        "go_id": "GO:0019395",
+        "relationship": "unknown",
         "namespace": "biological_process",
         "justification": "MuRF2 inhibits PPARgamma1, which regulates fatty acid oxidation.",
         "reference(s)": [
@@ -488,7 +520,7 @@
         "go_id": "GO:0016567",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "MuRF2 mono-ubiquitinates PPARgamma1.",
+        "justification": "MuRF2 is involved in the mono-ubiquitination of PPARgamma1.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -532,11 +564,13 @@
         ]
       },
       {
-        "term": "fatty acid oxidation",
-        "go_id": "GO:0019395",
-        "relationship": "unknown",
-        "namespace": "biological_process",
-        "justification": "MuRF3 inhibits PPARbeta activity, which is involved in regulating fatty acid oxidation.",
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however MuRF3 is a muscle-specific ubiquitin ligase which typically functions in the cytoplasm.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -562,29 +596,17 @@
         "go_id": "GO:0006513",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "MuRF1 was found to inhibit PPARalpha in the cardiomyocyte through mono-ubiquitination that enhanced nuclear export without promoting PPARalpha degradation.",
+        "justification": "MuRF1 inhibited PPARalpha-regulated fatty acid oxidation both in vitro and in vivo by multi-mono-ubiquitination of lysines adjacent to the newly identified nuclear export sequence in PPARalpha.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "nucleus",
-        "go_id": "GO:0005634",
+        "term": "nuclear export",
+        "go_id": "GO:0051168",
         "relationship": "unknown",
-        "namespace": "cellular_component",
-        "justification": "MuRF1 inhibits PPARalpha-regulated fatty acid oxidation by mono-ubiquitinating lysines adjacent to a newly identified nuclear export sequence in PPARalpha, implying nuclear localization.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "regulation of fatty acid oxidation",
-        "go_id": "GO:0046320",
-        "relationship": [
-          "regulates GO:0019395"
-        ],
         "namespace": "biological_process",
-        "justification": "MuRF1 inhibited PPARalpha-regulated fatty acid oxidation both in vitro and in vivo by mono-ubiquitination.",
+        "justification": "MuRF1 had an inhibitory effect on PPARalpha in cardiomyocytes by enhancing nuclear export, not degradation.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -596,7 +618,19 @@
           "negatively_regulates GO:0006366"
         ],
         "namespace": "biological_process",
-        "justification": "MuRF1 inhibits PPARalpha activity, which is a transcription factor, implying a role in regulating transcription.",
+        "justification": "MuRF1 inhibits PPARalpha activity in the cardiomyocyte through mono-ubiquitination that enhanced nuclear export without promoting PPARalpha degradation.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The ubiquitin ligase MuRF1 regulates PPARalpha activity in the heart by enhancing nuclear export via monoubiquitination, implying cytoplasmic involvement.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -614,7 +648,7 @@
           "negatively_regulates GO:0003300"
         ],
         "namespace": "biological_process",
-        "justification": "MuRF1 attenuates T3-induced cardiac hypertrophy.",
+        "justification": "MuRF1 inhibits T3-induced increase in CSA, indicating its role in attenuating cardiac hypertrophy.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -626,7 +660,7 @@
           "part_of GO:0005737"
         ],
         "namespace": "cellular_component",
-        "justification": "MuRF1 is expressed in cardiomyocytes.",
+        "justification": "MuRF1 is expressed in cardiomyocytes, which are a type of muscle cell.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -654,35 +688,21 @@
     "geneID": "25085",
     "go_data": [
       {
-        "term": "cardiac muscle cell differentiation",
-        "go_id": "GO:0055007",
-        "relationship": [
-          "part_of GO:0048738"
-        ],
-        "namespace": "biological_process",
-        "justification": "TH-induced physiological hypertrophy in cardiomyocytes",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "atrial cardiac muscle cell development",
-        "go_id": "GO:0055014",
-        "relationship": [
-          "part_of GO:0055011"
-        ],
-        "namespace": "biological_process",
-        "justification": "Thyroid hormone replacement therapy attenuates atrial remodeling",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "cardiac muscle tissue regeneration",
-        "go_id": "GO:0061026",
+        "term": "catecholamine biosynthetic process",
+        "go_id": "GO:0042423",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Thyroid hormone replacement therapy reduces atrial fibrillation inducibility in a rat myocardial infarction-heart failure model",
+        "justification": "TH is involved in physiological hypertrophy",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "cellular response to thyroid hormone stimulus",
+        "go_id": "GO:0097067",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "T3 induced cardiomyocyte hypertrophy",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -756,13 +776,13 @@
         ]
       },
       {
-        "term": "heart development",
-        "go_id": "GO:0007507",
+        "term": "regulation of heart contraction",
+        "go_id": "GO:0008016",
         "relationship": [
-          "part_of GO:0072359"
+          "regulates GO:0060047"
         ],
         "namespace": "biological_process",
-        "justification": "Regulation of thyroid hormone receptor alpha is critical to understanding heart disease.",
+        "justification": "Thyroid hormone receptor alpha, which includes TRalpha2, can control action potential duration in mouse ventricular myocytes.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -772,7 +792,7 @@
         "go_id": "GO:0005634",
         "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "As a thyroid hormone receptor, TRalpha2 is expected to be located in the nucleus.",
+        "justification": "As a thyroid hormone receptor, TRalpha2 is expected to be located in the nucleus to regulate gene expression.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -816,7 +836,7 @@
         "go_id": "GO:0070588",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "sarco/endoplasmic reticulum Ca2+-ATPase is affected by MuRF1, which impacts systolic function and contractility, suggesting a role in calcium transport.",
+        "justification": "sarco/endoplasmic reticulum Ca2+-ATPase is affected by MuRF1, which impacts systolic function and contractility, suggesting a role in calcium ion transport.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -829,6 +849,16 @@
         ],
         "namespace": "cellular_component",
         "justification": "The gene is named sarco/endoplasmic reticulum Ca2+-ATPase, indicating its location in the sarcoplasmic reticulum.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "calcium-dependent ATPase activity",
+        "go_id": "GO:0030899",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The gene's name, sarco/endoplasmic reticulum Ca2+-ATPase, implies that it has calcium-transporting ATPase activity.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -938,7 +968,7 @@
           "has_part GO:0005814"
         ],
         "namespace": "cellular_component",
-        "justification": "CAP350 is defined as a centrosome-associated protein.",
+        "justification": "CAP350 is described as a centrosome-associated protein.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -948,7 +978,7 @@
         "go_id": "GO:0005634",
         "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "CAP350 has been found to localize to the nucleus and affect nuclear distribution of TRalpha.",
+        "justification": "CAP350 localization was observed to move from a perinuclear to a pan-nuclear distribution.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -958,7 +988,7 @@
         "go_id": "GO:0005515",
         "relationship": "unknown",
         "namespace": "molecular_function",
-        "justification": "CAP350 interacts with TRalpha and MuRF1, indicating a role in protein binding.",
+        "justification": "CAP350 interacts with TRalpha and MuRF1.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -970,24 +1000,21 @@
     "geneID": "19185",
     "go_data": [
       {
-        "term": "DNA-binding transcription factor activity",
-        "go_id": "GO:0003700",
-        "relationship": [
-          "has_part GO:0000976",
-          "part_of GO:0006355"
-        ],
-        "namespace": "molecular_function",
-        "justification": "AF1 is part of the TRalpha A/B construct, which is associated with the N-terminus, a common location for transcription factor activity.",
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "AF1 is part of the N-terminus of TRalpha, which is a nuclear receptor.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "nucleus",
-        "go_id": "GO:0005634",
+        "term": "transcription regulator activity",
+        "go_id": "GO:0140110",
         "relationship": "unknown",
-        "namespace": "cellular_component",
-        "justification": "As part of a transcription factor construct, AF1 is likely located in the nucleus.",
+        "namespace": "molecular_function",
+        "justification": "AF1 is part of TRalpha, which is involved in regulating gene expression.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1017,7 +1044,7 @@
           "part_of GO:0048738"
         ],
         "namespace": "biological_process",
-        "justification": "BNP is identified alongside alpha1-skeletal muscle actin, suggesting a role in cardiac cell differentiation.",
+        "justification": "BNP is identified alongside alpha1-skeletal muscle actin and ANF, markers of cardiac hypertrophy and development.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1027,7 +1054,7 @@
         "go_id": "GO:0046903",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "BNP increase is observed in circulating concentrations, implying secretion.",
+        "justification": "BNP is secreted in response to pathological hypertrophy.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1045,7 +1072,7 @@
           "part_of GO:0072359"
         ],
         "namespace": "biological_process",
-        "justification": "ANF is identified in the context of pathological hypertrophy, implying a role in heart development.",
+        "justification": "ANF is identified alongside increases in BNP and alpha1-skeletal muscle actin, markers of pathological hypertrophy, suggesting a role in heart development or function.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1055,17 +1082,7 @@
         "go_id": "GO:0055011",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "ANF expression is associated with cardiac hypertrophy, suggesting involvement in atrial cardiac muscle cell differentiation.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "secretion",
-        "go_id": "GO:0046903",
-        "relationship": "unknown",
-        "namespace": "biological_process",
-        "justification": "ANF is known to be secreted, as implied by its association with cardiac function and regulation.",
+        "justification": "ANF expression is associated with cardiac hypertrophy, implying involvement in atrial cardiac muscle cell differentiation.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1128,6 +1145,16 @@
         "reference(s)": [
           "PMC5453669"
         ]
+      },
+      {
+        "term": "heart process",
+        "go_id": "GO:0003015",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "p38 is activated in myocardial infarction experiment.",
+        "reference(s)": [
+          "PMC5453669"
+        ]
       }
     ]
   },
@@ -1140,7 +1167,7 @@
         "go_id": "GO:0005634",
         "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "Androgen receptor is targeted to the proteasome in the absence of ligand and is also involved in nuclear translocation.",
+        "justification": "Androgen receptor is targeted to the nucleus for transcriptional activity.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1150,19 +1177,17 @@
         "go_id": "GO:0140110",
         "relationship": "unknown",
         "namespace": "molecular_function",
-        "justification": "Proteasome activity is required for androgen receptor transcriptional activity.",
+        "justification": "Androgen receptor transcriptional activity is required in prostate cancer cells.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "epithelial cell differentiation involved in prostate gland development",
-        "go_id": "GO:0060742",
-        "relationship": [
-          "part_of GO:0030850"
-        ],
+        "term": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+        "go_id": "GO:0043161",
+        "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Androgen receptor transcriptional activity is regulated in prostate cancer cells.",
+        "justification": "Androgen receptor is targeted to the proteasome in the absence of ligand.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1180,7 +1205,7 @@
           "regulates GO:0016049"
         ],
         "namespace": "biological_process",
-        "justification": "cJun-mediated increases in IGF-1 signaling proteins are involved in cardiomyocyte growth.",
+        "justification": "cJun-mediated increases in IGF-1 signaling proteins regulate cardiomyocyte growth.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1196,11 +1221,11 @@
         ]
       },
       {
-        "term": "nucleus",
-        "go_id": "GO:0005634",
+        "term": "cellular response to mechanical stimulus",
+        "go_id": "GO:0071260",
         "relationship": "unknown",
-        "namespace": "cellular_component",
-        "justification": "As a transcription factor, cJun is expected to localize to the nucleus.",
+        "namespace": "biological_process",
+        "justification": "cJun is involved in pressure overload-induced cardiac hypertrophy.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1252,19 +1277,17 @@
         "go_id": "GO:0005634",
         "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "p53 nuclear export results in activity inhibition, implying it is normally located in the nucleus.",
+        "justification": "p53 nuclear export resulting in activity inhibition implies it is initially located in the nucleus.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "regulation of cellular process",
-        "go_id": "GO:0050794",
-        "relationship": [
-          "regulates GO:0009987"
-        ],
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "The multiple levels of regulation by p53 ubiquitination imply p53 is involved in regulating cellular processes.",
+        "justification": "MDM2 mediates p53 mono-ubiquitination, indicating p53 is involved in this process.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1280,7 +1303,7 @@
         "go_id": "GO:0005515",
         "relationship": "unknown",
         "namespace": "molecular_function",
-        "justification": "CRM1 preferentially binds p53 after p53 mono-ubiquitination.",
+        "justification": "CRM1 preferentially binds p53 after its mono-ubiquitination.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1290,7 +1313,7 @@
         "go_id": "GO:0051168",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "CRM1 enhances p53 nuclear export resulting in activity inhibition.",
+        "justification": "CRM1 enhances p53 nuclear export after p53 mono-ubiquitination.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1316,7 +1339,7 @@
         "go_id": "GO:0005634",
         "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "Estrogen receptor (ER) is mono-ubiquitinated by the BRCA1 ubiquitin ligase, implying nuclear localization.",
+        "justification": "Estrogen receptor is mentioned in the context of nuclear export, implying it is located in the nucleus.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1326,7 +1349,7 @@
         "go_id": "GO:0005515",
         "relationship": "unknown",
         "namespace": "molecular_function",
-        "justification": "Estrogen receptor (ER) interacts with BRCA1 ubiquitin ligase, indicating protein binding capability.",
+        "justification": "Estrogen receptor interacts with CRM1, a subunit of the nuclear export apparatus, and BRCA1 ubiquitin ligase, indicating protein binding activity.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1338,7 +1361,7 @@
           "regulates GO:0006366"
         ],
         "namespace": "biological_process",
-        "justification": "Estrogen receptor (ER) is implied to have a role in transcriptional regulation, given its activity is inhibited by mono-ubiquitination.",
+        "justification": "Estrogen receptor is known to regulate gene expression, and its activity is inhibited by mono-ubiquitination, suggesting involvement in transcription regulation.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1525,7 +1548,7 @@
         "go_id": "GO:0061665",
         "relationship": "unknown",
         "namespace": "molecular_function",
-        "justification": "PIAS1 is a SUMO ligase that mediates SUMOylation of TRalpha.",
+        "justification": "PIAS1 mediates SUMOylation of TRalpha.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1535,17 +1558,7 @@
         "go_id": "GO:0016925",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "PIAS1 SUMOylates TRalpha, indicating involvement in protein sumoylation.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "nucleus",
-        "go_id": "GO:0005634",
-        "relationship": "unknown",
-        "namespace": "cellular_component",
-        "justification": "PIAS1 mediates SUMOylation of nuclear receptors like TRalpha, suggesting nuclear localization.",
+        "justification": "PIAS1 SUMOylates TRalpha in the absence of ligand.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1573,7 +1586,7 @@
           "regulates GO:0006366"
         ],
         "namespace": "biological_process",
-        "justification": "SUMO1 modification is reported in T3-dependent gene regulation, matching TR activity and cofactor recruitment to the TRE.",
+        "justification": "SUMO1 modification is reported in T3-dependent gene regulation, closely matching TR activity and cofactor recruitment to the TRE in ChIP assays.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1589,17 +1602,19 @@
         "go_id": "GO:0016925",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "SUMO3 is involved in SUMO modification, a type of post-translational modification.",
+        "justification": "SUMO3 is reported in T3-dependent gene regulation, indicating involvement in protein sumoylation.",
         "reference(s)": [
           "PMC5453669"
         ]
       },
       {
-        "term": "transcription regulator activity",
-        "go_id": "GO:0140110",
-        "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "SUMO3 has been reported in T3-dependent gene regulation, closely matching TR activity.",
+        "term": "regulation of antisense RNA transcription",
+        "go_id": "GO:0060194",
+        "relationship": [
+          "regulates GO:0009300"
+        ],
+        "namespace": "biological_process",
+        "justification": "None found",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1668,7 +1683,7 @@
         "go_id": "GO:0003300",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "PKC{epsilon} activation is associated with cardiomyocyte hypertrophy, which is prevented by Muscle ring finger protein-1.",
+        "justification": "PKC{epsilon} activation is associated with cardiomyocyte hypertrophy.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1736,7 +1751,7 @@
           "part_of GO:0071944"
         ],
         "namespace": "cellular_component",
-        "justification": "KCND3 is a potassium channel, which is typically located in the plasma membrane",
+        "justification": "KCND3 is a potassium channel, which is typically membrane-bound",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1754,7 +1769,7 @@
           "part_of GO:0030522"
         ],
         "namespace": "molecular_function",
-        "justification": "alpha1 and beta1 are thyroid hormone receptors",
+        "justification": "alpha1 and beta1 are thyroid hormone receptors.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1766,7 +1781,7 @@
           "regulates GO:0005267"
         ],
         "namespace": "molecular_function",
-        "justification": "alpha1 and beta1 regulate cardiac KCND3 potassium channel expression",
+        "justification": "alpha1 and beta1 regulate cardiac KCND3 potassium channel expression.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1778,11 +1793,13 @@
     "geneID": "14182",
     "go_data": [
       {
-        "term": "transmembrane receptor protein tyrosine kinase activity",
-        "go_id": "GO:0004714",
-        "relationship": "unknown",
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
         "namespace": "molecular_function",
-        "justification": "FGFR1 is a fibroblast growth factor receptor with tyrosine kinase activity.",
+        "justification": "FGFR1 is a receptor tyrosine kinase.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1794,7 +1811,21 @@
           "has_part GO:0005814"
         ],
         "namespace": "cellular_component",
-        "justification": "FOP-FGFR1 fusion kinase recruits phosphoinositide-3 kinase and phospholipase Cgamma at the centrosome.",
+        "justification": "FOP-FGFR1 fusion kinase recruits phosphoinositide-3 kinase and phospholipase Cgamma at the centrosome",
+        "reference(s)": [
+          "PMC5453669"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "FGFR1 recruits phosphoinositide-3 kinase and phospholipase Cgamma",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1854,8 +1885,8 @@
         ]
       },
       {
-        "term": "double-strand break repair",
-        "go_id": "GO:0006302",
+        "term": "double-strand break repair via homologous recombination",
+        "go_id": "GO:0000724",
         "relationship": "unknown",
         "namespace": "biological_process",
         "justification": "Rad52 is involved in the repair of DNA double-strand breaks.",
@@ -1918,7 +1949,7 @@
           "part_of GO:0051716"
         ],
         "namespace": "biological_process",
-        "justification": "ERK is involved in signaling pathway.",
+        "justification": "ERK is involved in the signaling pathway affected by thyroid hormone.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1940,7 +1971,7 @@
         "go_id": "GO:0002154",
         "relationship": "unknown",
         "namespace": "biological_process",
-        "justification": "Dose-dependent effects of thyroid hormone on post-ischemic cardiac performance: Potential involvement of Akt and ERK signalings",
+        "justification": "ERK signaling pathway is potentially involved in the dose-dependent effects of thyroid hormone.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -1952,23 +1983,11 @@
     "geneID": "3479",
     "go_data": [
       {
-        "term": "growth factor activity",
-        "go_id": "GO:0008083",
+        "term": "cellular response to thyroid hormone stimulus",
+        "go_id": "GO:0097067",
         "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "IGF1 is mentioned in relation to the IGF1/IGFR system, implying its role as a growth factor.",
-        "reference(s)": [
-          "PMC5453669"
-        ]
-      },
-      {
-        "term": "heart development",
-        "go_id": "GO:0007507",
-        "relationship": [
-          "part_of GO:0072359"
-        ],
         "namespace": "biological_process",
-        "justification": "IGF1 is mentioned in the context of possible relations in the human heart, suggesting involvement in heart development.",
+        "justification": "IGF1 is related to thyroid hormone receptor systems in the human heart.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -2018,13 +2037,11 @@
         ]
       },
       {
-        "term": "cytoplasm",
-        "go_id": "GO:0005737",
-        "relationship": [
-          "part_of GO:0005622"
-        ],
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "PKCalpha is implied to be in the cytoplasm where it can interact with and phosphorylate p120-catenin.",
+        "justification": "PKCalpha activation affects VE-cadherin junctions, indicating its involvement at cell junctions.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -2054,16 +2071,6 @@
         "reference(s)": [
           "PMC5453669"
         ]
-      },
-      {
-        "term": "protein binding",
-        "go_id": "GO:0005515",
-        "relationship": "unknown",
-        "namespace": "molecular_function",
-        "justification": "p120-catenin interacts with VE-cadherin",
-        "reference(s)": [
-          "PMC5453669"
-        ]
       }
     ]
   },
@@ -2086,7 +2093,7 @@
         "go_id": "GO:0030054",
         "relationship": "unknown",
         "namespace": "cellular_component",
-        "justification": "VE-cadherin forms junctions that are disassembled by PKCalpha activation, indicating location at cell junctions.",
+        "justification": "VE-cadherin junctions are mentioned, indicating VE-cadherin is located in cell junctions.",
         "reference(s)": [
           "PMC5453669"
         ]
@@ -2118,6 +2125,18 @@
         "reference(s)": [
           "PMC5453669"
         ]
+      },
+      {
+        "term": "negative regulation of cardiac muscle hypertrophy",
+        "go_id": "GO:0010614",
+        "relationship": [
+          "negatively_regulates GO:0003300"
+        ],
+        "namespace": "biological_process",
+        "justification": "RING Finger-1 Attenuates IGF-1-dependent cardiomyocyte hypertrophy",
+        "reference(s)": [
+          "PMC5453669"
+        ]
       }
     ]
   },
@@ -2136,11 +2155,9 @@
         ]
       },
       {
-        "term": "regulation of cardiac muscle hypertrophy",
-        "go_id": "GO:0010611",
-        "relationship": [
-          "regulates GO:0003300"
-        ],
+        "term": "regulation of myofibril size",
+        "go_id": "GO:0014881",
+        "relationship": "unknown",
         "namespace": "biological_process",
         "justification": "JNK signaling is inhibited to attenuate IGF-1-dependent cardiomyocyte hypertrophy.",
         "reference(s)": [
@@ -2160,7 +2177,7 @@
           "regulates GO:0010467"
         ],
         "namespace": "biological_process",
-        "justification": "E2F1-mediated gene expression is regulated by muscle ring finger 1 and muscle ring finger 2.",
+        "justification": "E2F1-mediated gene expression is regulated by Muscle ring finger 1 and muscle ring finger 2.",
         "reference(s)": [
           "PMC5453669"
         ]

@@ -1,0 +1,33 @@
+{
+  "gene": "Fox-1",
+  "geneID": "180549",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Fox-1 is described as an RNA-binding protein.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "alternative splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The Fox-1 family and SUP-12 coordinately regulate tissue-specific alternative splicing in vivo.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "regulation of RNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fox-1 family proteins and SUP-12 cooperatively bind to juxtaposed cis-elements overlapping a putative branch site to regulate splicing.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

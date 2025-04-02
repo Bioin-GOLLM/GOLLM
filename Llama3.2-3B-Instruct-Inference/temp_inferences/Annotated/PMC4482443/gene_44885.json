@@ -1,0 +1,33 @@
+{
+  "gene": "beta-1 integrin",
+  "geneID": "44885",
+  "go_data": [
+    {
+      "term": "cell-matrix adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Costameres are Integrin and Dystroglycan based linkage between the muscle Z-line and the ECM.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cell-substrate junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Costameres are Integrin and Dystroglycan based linkage between the muscle Z-line and the ECM.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Drosophila hearts express a single beta-integrin, betaPS, encoded by myospheroid.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

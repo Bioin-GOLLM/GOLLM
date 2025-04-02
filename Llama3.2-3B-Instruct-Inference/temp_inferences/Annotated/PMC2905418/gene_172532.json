@@ -1,0 +1,33 @@
+{
+  "gene": "GLD-1",
+  "geneID": "172532",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GLD-1 binds to TGE RNA and regulates tra-2 translation.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "translational regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GLD-1 is a translational regulator of sexual identity in Caenorhabditis elegans.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GLD-1 is a cytoplasmic protein essential for oocyte differentiation.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}
