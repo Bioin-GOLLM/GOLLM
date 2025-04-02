@@ -1,0 +1,15 @@
+{
+  "gene": "I fimbrin",
+  "geneID": "102502",
+  "go_data": [
+    {
+      "term": "brush border",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "I fimbrin exhibited a cellular distribution similar to those observed in wild-type animals, with no expression or labeling in the brush border.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

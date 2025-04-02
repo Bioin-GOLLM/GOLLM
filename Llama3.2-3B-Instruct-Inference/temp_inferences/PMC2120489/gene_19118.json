@@ -1,0 +1,33 @@
+{
+  "gene": "protamine-1",
+  "geneID": "19118",
+  "go_data": [
+    {
+      "term": "spermatid differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Protamine-1 is specifically mentioned in the context of male germ cell development, implying its involvement in spermatid differentiation.",
+      "reference(s)": [
+        "PMC2120489"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a protein involved in spermatid development, protamine-1 is expected to be localized to the nucleus, although the text does not explicitly state this for protamine-1, it does imply nuclear involvement through RNA metabolism.",
+      "reference(s)": [
+        "PMC2120489"
+      ]
+    },
+    {
+      "term": "translational regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The 3' UTR of protamine-1 mRNA is important for its translational control, indicating protamine-1's involvement in translational regulation.",
+      "reference(s)": [
+        "PMC2120489"
+      ]
+    }
+  ]
+}

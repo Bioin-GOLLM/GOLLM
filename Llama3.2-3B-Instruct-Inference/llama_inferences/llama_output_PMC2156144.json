@@ -1,0 +1,333 @@
+[
+  {
+    "gene": "actin-binding protein",
+    "geneID": "70394",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Villin is an actin-binding protein that bundles and severs F-actin in a Ca2+-dependent manner.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "brush border",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Villin is localized in intestinal and kidney brush borders.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Villin is associated with the actin cytoskeleton of the intestinal epithelial cell brush border microvilli.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "gelsolin",
+    "geneID": "227753",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Gelsolin is described as a Ca2+-regulated actin-binding protein.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "actin filament severing",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The severing activity of gelsolin is mentioned, indicating its ability to sever actin filaments.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As an actin-binding protein, gelsolin is associated with the cytoskeleton.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "adseverin",
+    "geneID": "20259",
+    "go_data": [
+      {
+        "term": "None found.",
+        "justification": "No explicit information is provided about the function or location of adseverin in the given text.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "supervillin",
+    "geneID": "225115",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Supervillin is an F-actin-binding protein.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Supervillin is a membrane-associated protein.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "advillin",
+    "geneID": "11567",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Advillin is a new member of the gelsolin/villin family of actin regulatory proteins.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As a member of the gelsolin/villin family, advillin is involved in regulating actin, which is a key component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "sucrase isomaltase",
+    "geneID": "69983",
+    "go_data": [
+      {
+        "term": "catalytic activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Sucrase isomaltase is a digestive enzyme.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "small intestine epithelium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Sucrase isomaltase has a normal localization in intestinal epithelial cells.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "carbohydrate digestion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Sucrase isomaltase is a major digestive enzyme.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "dipeptidylpeptidase IV",
+    "geneID": "13482",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dipeptidylpeptidase IV is mentioned as one of the digestive enzymes.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "intestinal epithelial cell",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dipeptidylpeptidase IV has a normal localization in intestinal epithelial cells.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "espin",
+    "geneID": "56226",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Espin is described as an actin-binding protein.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "brush border",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Espin is localized in the intestinal brush border microvilli.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As an actin-binding protein, espin is involved in the organization of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ezrin",
+    "geneID": "22350",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Ezrin is known to be an actin-binding protein.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Ezrin is involved in the link between the brush border cytoskeleton and the plasma membrane.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ezrin plays a structural and regulatory role in the assembly and stabilization of specialized plasma membrane domains.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BBMI",
+    "geneID": "432516",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "BBMI is an actin-binding protein.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "brush border",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "BBMI is expressed in the brush border of epithelial cells.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BBMI is involved in the link between the brush border cytoskeleton and the plasma membrane.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "I fimbrin",
+    "geneID": "102502",
+    "go_data": [
+      {
+        "term": "brush border",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "I fimbrin exhibited a cellular distribution similar to those observed in wild-type animals, with no expression or labeling in the brush border.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PLC",
+    "geneID": "15530",
+    "go_data": [
+      {
+        "term": "calcium ion transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Carbachol induces a biphasic increase in intracellular Ca2+ concentration involving a phosphoinositol phospholipase/phosphokinase (PLC/PKC) cascade.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "phosphatidylinositol phospholipase C activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PLC is involved in a phosphoinositol phospholipase/phosphokinase (PLC/PKC) cascade.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "PLC-gamma1 associates with microvillar protein villin, suggesting cytoplasmic localization.",
+        "reference(s)": [
+          "PMC2156144"
+        ]
+      }
+    ]
+  }
+]

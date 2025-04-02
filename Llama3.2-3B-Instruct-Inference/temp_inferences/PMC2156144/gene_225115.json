@@ -1,0 +1,24 @@
+{
+  "gene": "supervillin",
+  "geneID": "225115",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Supervillin is an F-actin-binding protein.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Supervillin is a membrane-associated protein.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

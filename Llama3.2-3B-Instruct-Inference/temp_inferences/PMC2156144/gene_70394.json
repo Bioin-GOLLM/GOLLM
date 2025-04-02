@@ -1,0 +1,33 @@
+{
+  "gene": "actin-binding protein",
+  "geneID": "70394",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Villin is an actin-binding protein that bundles and severs F-actin in a Ca2+-dependent manner.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "brush border",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Villin is localized in intestinal and kidney brush borders.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Villin is associated with the actin cytoskeleton of the intestinal epithelial cell brush border microvilli.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

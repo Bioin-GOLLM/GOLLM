@@ -1,0 +1,35 @@
+[
+  {
+    "gene": "mesothelial type II keratin",
+    "geneID": "3855",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Keratins are components of intermediate filaments, which are part of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2114014"
+        ]
+      },
+      {
+        "term": "keratin filament formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The gene encoding K7 is expressed in mesothelial cells, suggesting involvement in keratin filament formation.",
+        "reference(s)": [
+          "PMC2114014"
+        ]
+      },
+      {
+        "term": "cytoskeletal protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Keratins bind to other cytoskeletal proteins to form filaments.",
+        "reference(s)": [
+          "PMC2114014"
+        ]
+      }
+    ]
+  }
+]

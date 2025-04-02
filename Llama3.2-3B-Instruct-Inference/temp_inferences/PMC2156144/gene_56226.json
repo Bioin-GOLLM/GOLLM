@@ -1,0 +1,33 @@
+{
+  "gene": "espin",
+  "geneID": "56226",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Espin is described as an actin-binding protein.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "brush border",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Espin is localized in the intestinal brush border microvilli.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As an actin-binding protein, espin is involved in the organization of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

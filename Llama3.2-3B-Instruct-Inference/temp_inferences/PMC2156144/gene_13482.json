@@ -1,0 +1,24 @@
+{
+  "gene": "dipeptidylpeptidase IV",
+  "geneID": "13482",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dipeptidylpeptidase IV is mentioned as one of the digestive enzymes.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "intestinal epithelial cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Dipeptidylpeptidase IV has a normal localization in intestinal epithelial cells.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

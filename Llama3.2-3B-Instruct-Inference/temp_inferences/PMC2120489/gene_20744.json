@@ -1,0 +1,33 @@
+{
+  "gene": "Spnr",
+  "geneID": "20744",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Spnr contains two previously described RNA binding domains.",
+      "reference(s)": [
+        "PMC2120489"
+      ]
+    },
+    {
+      "term": "cytoplasmic microtubule",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Spnr is localized to cytoplasmic microtubules.",
+      "reference(s)": [
+        "PMC2120489"
+      ]
+    },
+    {
+      "term": "spermatid development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Spnr is expressed exclusively in postmeiotic germ cells and may be involved in aspects of spermatid RNA metabolism.",
+      "reference(s)": [
+        "PMC2120489"
+      ]
+    }
+  ]
+}

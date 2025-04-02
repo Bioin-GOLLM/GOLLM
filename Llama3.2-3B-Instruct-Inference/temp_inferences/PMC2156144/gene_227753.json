@@ -1,0 +1,33 @@
+{
+  "gene": "gelsolin",
+  "geneID": "227753",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Gelsolin is described as a Ca2+-regulated actin-binding protein.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "actin filament severing",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The severing activity of gelsolin is mentioned, indicating its ability to sever actin filaments.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an actin-binding protein, gelsolin is associated with the cytoskeleton.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "sucrase isomaltase",
+  "geneID": "69983",
+  "go_data": [
+    {
+      "term": "catalytic activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Sucrase isomaltase is a digestive enzyme.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "small intestine epithelium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Sucrase isomaltase has a normal localization in intestinal epithelial cells.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "carbohydrate digestion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Sucrase isomaltase is a major digestive enzyme.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

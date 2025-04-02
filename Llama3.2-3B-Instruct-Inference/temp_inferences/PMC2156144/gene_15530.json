@@ -1,0 +1,33 @@
+{
+  "gene": "PLC",
+  "geneID": "15530",
+  "go_data": [
+    {
+      "term": "calcium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Carbachol induces a biphasic increase in intracellular Ca2+ concentration involving a phosphoinositol phospholipase/phosphokinase (PLC/PKC) cascade.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "phosphatidylinositol phospholipase C activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PLC is involved in a phosphoinositol phospholipase/phosphokinase (PLC/PKC) cascade.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PLC-gamma1 associates with microvillar protein villin, suggesting cytoplasmic localization.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}

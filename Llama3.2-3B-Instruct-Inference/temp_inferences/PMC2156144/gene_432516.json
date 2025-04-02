@@ -1,0 +1,33 @@
+{
+  "gene": "BBMI",
+  "geneID": "432516",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BBMI is an actin-binding protein.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "brush border",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BBMI is expressed in the brush border of epithelial cells.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BBMI is involved in the link between the brush border cytoskeleton and the plasma membrane.",
+      "reference(s)": [
+        "PMC2156144"
+      ]
+    }
+  ]
+}
