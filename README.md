@@ -28,7 +28,7 @@ This project implements a complete pipeline for processing gene-related data fro
 - **NCBI GO Annotation Comparison**:  
   - Fetches GO annotations from NCBI Gene records (in XML).  
   - Computes semantic similarities between local annotations and NCBI GO terms.  
-  - Classifies matches as True Positive (TP), Not Present (NP), Discrepant (DCU), or Not Detected (ND).
+  - Classifies matches as True Positive (TP), Novel Positive (NP), Database Confirmed but Unreferenced (DCU), or Not Detected (ND).
 - **Reporting & Summary**: Outputs per-gene and global summaries of the annotation classification.
 
 ---
