@@ -40,11 +40,15 @@ This project implements a complete pipeline for processing gene-related data fro
 ├─ \
 └─ go.obo # Local Gene Ontology file
 
+---
+
 ## Installation
 
 Download the Gene Ontology file:
 
 Ensure that go.obo is available at the path specified in the code (or update the path accordingly).
+
+---
 
 ## License
 This project is licensed under the MIT License.
