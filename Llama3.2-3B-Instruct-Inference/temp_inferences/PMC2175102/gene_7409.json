@@ -1,0 +1,51 @@
+{
+  "gene": "Vav",
+  "geneID": "7409",
+  "go_data": [
+    {
+      "term": "Rho guanyl-nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vav is a guanine nucleotide exchange factor for Rho GTPases.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vav is involved in signaling pathways that mediate cell activation, such as the TCR-signaling cascade and collagen-induced activation of platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vav colocalizes with F-actin, Ena/VASP proteins, WASP, and the Arp2/3 complex at the lamellipodia of spreading platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vav is involved in the reorganization of the actin cytoskeleton in activated T cells and platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vav is part of a signaling pathway that links cell activation to the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

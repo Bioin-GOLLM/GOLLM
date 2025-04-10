@@ -1,0 +1,51 @@
+{
+  "gene": "CD30",
+  "geneID": "943",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD30 contains two binding sites with different specificities for members of the tumor necrosis factor receptor-associated factor family of signal transducing proteins",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD30-TRAF interaction leads to NF-kappaB activation",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD30 is involved in T cell receptor-dependent cell death of T cell hybridomas",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD30 is a receptor on the surface of cells",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD30 interacts with TRAF proteins to initiate signal transduction",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "TNF",
+  "geneID": "24835",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNF is considered to be a proinflammatory, cytotoxic cytokine.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF is a critical mediator of lymphocyte-dependent autoimmune pathologies such as multiple sclerosis (MS) and the MS animal model, experimental autoimmune encephalomyelitis (EAE).",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cellular response to cytokine stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF-dependent cell adhesion events are important for the control of cell movement within the tissue.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF is involved in the control of cell movement within the tissue and the generation of inflammatory lesions.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

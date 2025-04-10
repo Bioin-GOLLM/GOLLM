@@ -1,0 +1,33 @@
+{
+  "gene": "phosphatidylinositol-3-kinase",
+  "geneID": "5295",
+  "go_data": [
+    {
+      "term": "phosphatidylinositol 3-kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "phosphatidylinositol-3-kinase is involved in the production of PI-3-phosphate (PI-3P).",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "phosphatidylinositol-3-kinase is required for the membrane recruitment of EEA1 and the regulation of fusion of plasma membrane-derived CCVs with early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "phosphatidylinositol-3-kinase is recruited to early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

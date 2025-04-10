@@ -1,0 +1,51 @@
+{
+  "gene": "EEA1",
+  "geneID": "8411",
+  "go_data": [
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EEA1 is recruited to early endosomes by the action of Rab5 and the interaction of PI-3P with its FYVE domain.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "EEA1 is required for early endosomal fusion, and its release from early endosomes after inhibition of PI-3-kinase activity inhibits endosome fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "phosphatidylinositol 3-phosphate binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The FYVE finger domain of EEA1 binds to phosphatidylinositol 3-phosphate, which is necessary for its recruitment to early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "Rab5 GTPase binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EEA1 interacts directly with Rab5, which is necessary for its recruitment to early endosomes and its function in endosome fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "syntaxin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EEA1 interacts directly with syntaxin 13, which is involved in SNARE-dependent membrane docking and fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

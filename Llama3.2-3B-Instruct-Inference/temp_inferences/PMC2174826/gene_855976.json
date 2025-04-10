@@ -1,0 +1,15 @@
+{
+  "gene": "HHO1",
+  "geneID": "855976",
+  "go_data": [
+    {
+      "term": "chromosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HHO1 is located on chromosome XVI.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "TRAF1",
+  "geneID": "22029",
+  "go_data": [
+    {
+      "term": "lymphocyte proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The expression of TRAF1 was upregulated upon lymphocyte proliferation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

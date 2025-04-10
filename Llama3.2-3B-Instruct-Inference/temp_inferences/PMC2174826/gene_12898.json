@@ -1,0 +1,24 @@
+{
+  "gene": "CPY",
+  "geneID": "12898",
+  "go_data": [
+    {
+      "term": "proteasomal protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CPY* is a substrate for proteasomal degradation.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CPY is a glycoprotein that does not fold correctly, implying it is located in the endoplasmic reticulum where protein folding occurs.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

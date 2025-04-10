@@ -1,0 +1,42 @@
+{
+  "gene": "nephronectin",
+  "geneID": "100101608",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Nephronectin is an extracellular matrix protein, synthesized by the ureteric bud epithelium and localized with alpha8beta1 at the interface between the ureteric bud and the metanephric mesenchyme.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Nephronectin binds to integrin alpha8beta1 in an RGD-sensitive fashion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "kidney development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nephronectin is expressed in the developing kidney and is likely important for regulating kidney development.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell-matrix adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nephronectin mediates alpha8beta1 function during development, suggesting a role in cell-matrix adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

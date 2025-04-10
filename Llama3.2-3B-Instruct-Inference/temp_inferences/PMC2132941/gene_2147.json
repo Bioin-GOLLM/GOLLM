@@ -1,0 +1,60 @@
+{
+  "gene": "thrombin",
+  "geneID": "2147",
+  "go_data": [
+    {
+      "term": "G protein-coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin functions through G protein-coupled receptors which activate Gq, G12, G13, and Gi type G proteins.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin is a full platelet activator that functions through G protein-coupled receptors.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "regulation of phospholipase C activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin receptor activation leads to phospholipase C activation and Ca2+ mobilization.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "inhibition of adenylyl cyclase activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin receptors couple to Gi-type G proteins, resulting in an inhibition of adenylyl cyclase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "Rho protein signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin inactivates myosin light chain phosphatase via Rho and its target Rho kinase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "protein tyrosine kinase activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin activates protein-tyrosine kinase p72syk in platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

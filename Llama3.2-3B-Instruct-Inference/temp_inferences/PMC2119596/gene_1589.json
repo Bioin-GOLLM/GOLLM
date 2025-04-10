@@ -1,0 +1,33 @@
+{
+  "gene": "P450c21B",
+  "geneID": "1589",
+  "go_data": [
+    {
+      "term": "steroid hydroxylase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "P450c21B gene encodes steroid 21-hydroxylase",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "adrenal cortex development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "P450c21B is expressed in the human adrenal cortex",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a P450 enzyme, P450c21B is expected to be located in the endoplasmic reticulum",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    }
+  ]
+}

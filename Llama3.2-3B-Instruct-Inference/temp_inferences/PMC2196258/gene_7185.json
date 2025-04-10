@@ -1,0 +1,51 @@
+{
+  "gene": "TRAF1",
+  "geneID": "7185",
+  "go_data": [
+    {
+      "term": "signal transducer activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRAF1 is required for the recruitment of members of the cellular inhibitor of apoptosis protein (c-IAP) family to the TNFR2-signaling complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "receptor signaling complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF1 may work as an adapter protein to recruit different downstream signal transducers to the receptor complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRAF1 interacts with TRIP in the cytoplasm.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF1 forms a complex with TRAF2 and TRIP.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "negative regulation of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF1 interacts with A20, which inhibits NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

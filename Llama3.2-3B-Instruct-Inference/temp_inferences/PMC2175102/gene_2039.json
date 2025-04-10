@@ -1,0 +1,15 @@
+{
+  "gene": "dematin",
+  "geneID": "2039",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The dematin headpiece has a putative G-actin binding site.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

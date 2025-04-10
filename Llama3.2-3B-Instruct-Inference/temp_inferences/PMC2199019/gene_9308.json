@@ -1,0 +1,33 @@
+{
+  "gene": "CD83",
+  "geneID": "9308",
+  "go_data": [
+    {
+      "term": "dendritic cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD83 is expressed together with decysin in response to CD40 ligation and a mixed lymphocyte reaction, indicating its involvement in dendritic cell differentiation.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD83 is a marker of mature dendritic cells and is upregulated by signals of activated T cells, indicating its involvement in immune system processes.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a marker of mature dendritic cells, CD83 is likely located on the cell surface.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

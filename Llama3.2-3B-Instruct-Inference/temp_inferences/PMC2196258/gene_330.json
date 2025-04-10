@@ -1,0 +1,24 @@
+{
+  "gene": "c-IAP2",
+  "geneID": "330",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "c-IAPs are involved in the protection of cells from apoptosis.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "c-IAP2 is recruited to the TNFR2 signaling complex to regulate various biological effects.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CLDN2",
+  "geneID": "9075",
+  "go_data": [
+    {
+      "term": "intestinal absorption",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CLDN2 is upregulated by 1,25(OH)2D to facilitate the transport of calcium from the intestinal lumen to the blood.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "calcium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CLDN2 is upregulated by 1,25(OH)2D to facilitate the transport of calcium from the intestinal lumen to the blood.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "tight junction",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CLDN2 is a tight junction protein.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

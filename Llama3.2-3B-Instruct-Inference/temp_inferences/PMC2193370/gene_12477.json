@@ -1,0 +1,42 @@
+{
+  "gene": "CTLA-4",
+  "geneID": "12477",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is mentioned in the context of T cell proliferation and cytokine release, indicating its involvement in immune system processes.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is described as interacting with its ligands, implying involvement in cell surface receptor signaling pathways.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is compared to a situation with CD28, which is known for T cell costimulation, suggesting CTLA-4's involvement in this process.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, CTLA-4 is expected to be located in the plasma membrane, where it can interact with its ligands.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

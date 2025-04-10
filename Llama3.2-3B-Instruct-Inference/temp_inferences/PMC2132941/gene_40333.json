@@ -1,0 +1,33 @@
+{
+  "gene": "adenylyl cyclase",
+  "geneID": "40333",
+  "go_data": [
+    {
+      "term": "cAMP biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Adenylyl cyclase is involved in the production of cAMP.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "inhibition of adenylyl cyclase activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gi-type G proteins are involved in the inhibitory regulation of platelet adenylyl cyclase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Adenylyl cyclase is typically found in the cytosol of cells.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

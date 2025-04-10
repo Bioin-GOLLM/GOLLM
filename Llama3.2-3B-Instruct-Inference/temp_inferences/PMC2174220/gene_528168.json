@@ -1,0 +1,42 @@
+{
+  "gene": "actin",
+  "geneID": "528168",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Actin is a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Actin binds to actin-related proteins and other actin-binding proteins.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "actin filament organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actin is involved in the organization of actin filaments.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "microfilament",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Actin is a component of microfilaments.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

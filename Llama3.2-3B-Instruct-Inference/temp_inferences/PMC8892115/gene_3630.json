@@ -1,0 +1,33 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "insulin secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "insulin secretion is modified by calcitriol",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "glucose homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "insulin plays a role in glucose homeostasis",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cellular response to insulin stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "insulin sensitivity is modified by calcitriol",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

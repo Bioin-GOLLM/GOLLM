@@ -1,0 +1,24 @@
+{
+  "gene": "JNK",
+  "geneID": "5599",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "JNK is activated by TRAFs, indicating its role as a protein kinase.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "JNK activation is linked to the signal transduction pathway of TNFR family members through TRAFs.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

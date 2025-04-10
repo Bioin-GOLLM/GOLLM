@@ -1,0 +1,33 @@
+{
+  "gene": "CYP3A4",
+  "geneID": "1576",
+  "go_data": [
+    {
+      "term": "oxidoreductase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP3A4 is involved in the catabolism of vitamin D, indicating its role as an oxidoreductase.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "vitamin D catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CYP3A4 induction increases 25(OH)D catabolism.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a cytochrome P450 enzyme, CYP3A4 is typically located in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

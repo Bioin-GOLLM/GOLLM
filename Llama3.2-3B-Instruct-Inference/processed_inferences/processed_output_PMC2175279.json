@@ -1,0 +1,952 @@
+[
+  {
+    "gene": "Murf",
+    "geneID": "58522",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MURF was contained in the microtubule pellet from muscle extracts and was absent from the supernatant, demonstrating a physical association between MURF and microtubules in vivo.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "skeletal muscle cell differentiation",
+        "go_id": "GO:0035914",
+        "relationship": [
+          "part_of GO:0007519"
+        ],
+        "namespace": "biological_process",
+        "justification": "Expression of MURF is required for skeletal myoblast differentiation and myotube fusion.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule stabilizing activity",
+        "go_id": "GO:0140778",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MURF stabilizes microtubules and is essential for the initiation of myogenesis and myotube formation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MURF associates with microtubules in skeletal muscle cells.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RBCC",
+    "geneID": "51127",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RBCC proteins, such as PML and MURF, interact with other proteins through their RING-finger, B-box, and coiled-coil domains.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "RBCC proteins have been implicated in signal transduction.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Some RBCC proteins, such as PML, are known to be localized to the nucleus.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "MURF, a muscle-specific RBCC protein, is expressed in cardiac and skeletal muscle throughout development.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "ubiquitin protein ligase activity",
+        "go_id": "GO:0061630",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RBCC proteins contain a RING-finger domain, which is known to be involved in E2-dependent ubiquitination.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PML",
+    "geneID": "18854",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "PML is implicated in processes related to the nucleus, such as the formation of the PML-RAR fusion in acute promyelocytic leukemia.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "regulation of cell population proliferation",
+        "go_id": "GO:0042127",
+        "relationship": [
+          "regulates GO:0008283"
+        ],
+        "namespace": "biological_process",
+        "justification": "PML is implicated in oncogenesis, suggesting involvement in the regulation of cell proliferation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "retinoic acid receptor alpha",
+    "geneID": "19401",
+    "go_data": [
+      {
+        "term": "nuclear receptor activity",
+        "go_id": "GO:0004879",
+        "relationship": [
+          "part_of GO:0030522"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Retinoic acid receptor alpha is a nuclear receptor.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "regulation of cell growth",
+        "go_id": "GO:0001558",
+        "relationship": [
+          "regulates GO:0016049"
+        ],
+        "namespace": "biological_process",
+        "justification": "Retinoic acid receptor alpha is implicated in oncogenesis, suggesting a role in regulating cell growth.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a nuclear receptor, retinoic acid receptor alpha is expected to be located in the nucleus.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BRCA1",
+    "geneID": "12189",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "go_id": "GO:0006281",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "None found, however BRCA1 is known for DNA repair, but not mentioned in the text.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Cbl",
+    "geneID": "12402",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Cbl is an adaptor protein that associates with epidermal growth factor receptor.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cellular response to epidermal growth factor stimulus",
+        "go_id": "GO:0071364",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Cbl associates with epidermal growth factor receptor.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As an adaptor protein, Cbl is likely located in the cytoplasm where it can interact with other proteins such as the epidermal growth factor receptor.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rfp",
+    "geneID": "19720",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Involvement of the rfp tripartite motif in protein-protein interactions",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Association with microtubules suggests cytoplasmic location",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIF1",
+    "geneID": "21848",
+    "go_data": [
+      {
+        "term": "DNA damage response",
+        "go_id": "GO:0006974",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIF1 is related to BRCA1, which is known for its role in DNA damage response.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TIF1 is associated with other proteins like BRCA1 that are known to function in the nucleus.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MDM2",
+    "geneID": "17246",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MDM2 is mentioned alongside other RBCC proteins, implying interaction with other proteins.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cellular response to stimulus",
+        "go_id": "GO:0051716",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Oncogenic properties of MDM2 when fused to other factors suggest involvement in response to cellular stimuli.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mid1",
+    "geneID": "4281",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Mid1 associates with microtubules and leads to a stable population of microtubules resistant to depolymerization.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Mid1 is incorporated into an undulating reticular network in the cytoplasm.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MURF",
+    "geneID": "57159",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MURF binds and stabilizes microtubules against depolymerizing agents.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "MURF expression is required for execution of the muscle differentiation program.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MURF associates with microtubules in the cytoskeleton.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule stabilizing activity",
+        "go_id": "GO:0140778",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MURF prevents depolymerization of microtubules in the presence of nocodazole.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "myotube cell development",
+        "go_id": "GO:0014904",
+        "relationship": [
+          "part_of GO:0014902"
+        ],
+        "namespace": "biological_process",
+        "justification": "Ablation of MURF expression severely diminishes myotube formation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mid2",
+    "geneID": "11043",
+    "go_data": [
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Mid2 is incorporated into an undulating reticular network in the cytoplasm.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Mid2 associates with microtubules through a non-classical microtubule association domain.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mid2 is highly expressed in the heart as well as elsewhere in the embryo.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MyoD",
+    "geneID": "17927",
+    "go_data": [
+      {
+        "term": "skeletal muscle cell differentiation",
+        "go_id": "GO:0035914",
+        "relationship": [
+          "part_of GO:0007519"
+        ],
+        "namespace": "biological_process",
+        "justification": "MyoD expression was detected in proliferating myoblasts before expression of myogenin and was upregulated during myoblast differentiation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "myoblast differentiation",
+        "go_id": "GO:0045445",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "MyoD expression was upregulated during myoblast differentiation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "muscle cell proliferation",
+        "go_id": "GO:0033002",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MyoD expression was detected in proliferating myoblasts.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myogenin",
+    "geneID": "4656",
+    "go_data": [
+      {
+        "term": "skeletal muscle cell differentiation",
+        "go_id": "GO:0035914",
+        "relationship": [
+          "part_of GO:0007519"
+        ],
+        "namespace": "biological_process",
+        "justification": "Myogenin expression was detected during myoblast differentiation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "Myogenin is an essential myogenic regulator for the initiation of myogenesis in vitro.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mid1",
+    "geneID": "17318",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Mid1 interacts with microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Myc",
+    "geneID": "17869",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Myc-tagged MURF was used in coimmunoprecipitation experiments, indicating Myc can bind to other proteins.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myc",
+    "geneID": "4609",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Myc-tagged MURF coexpressed with Flag-tagged MURF resulted in colocalization along the same filamentous structures, suggesting interaction between the two proteins.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Doublecortin",
+    "geneID": "1641",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Doublecortin is a microtubule-associated protein that binds and stabilizes microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "neuron migration",
+        "go_id": "GO:0001764",
+        "relationship": [
+          "part_of GO:0048699"
+        ],
+        "namespace": "biological_process",
+        "justification": "Doublecortin is expressed widely by migrating neurons.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "neuron differentiation",
+        "go_id": "GO:0030182",
+        "relationship": [
+          "part_of GO:0048699"
+        ],
+        "namespace": "biological_process",
+        "justification": "Doublecortin is expressed in migrating and differentiating neurons.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule",
+        "go_id": "GO:0005874",
+        "relationship": [
+          "part_of GO:0015630"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Doublecortin is a microtubule-associated protein.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Lis1",
+    "geneID": "5048",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Lis1 is a microtubule-associated protein that binds and stabilizes microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule stabilizing activity",
+        "go_id": "GO:0140778",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Lis1 has been implicated in stabilizing microtubules, regulating microtubule dynamics.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a microtubule-associated protein, Lis1 is part of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Tau",
+    "geneID": "4137",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Tau binds and stabilizes microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Tau is a microtubule-associated protein.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule stabilizing activity",
+        "go_id": "GO:0140778",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Tau stabilizes microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kif3A",
+    "geneID": "16568",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Kif3A is a microtubule-binding protein.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "determination of left/right symmetry",
+        "go_id": "GO:0007368",
+        "relationship": [
+          "part_of GO:0060972"
+        ],
+        "namespace": "biological_process",
+        "justification": "Kif3A is involved in left-right asymmetry and laterality determination.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cilium",
+        "go_id": "GO:0005929",
+        "relationship": [
+          "has_part GO:0030990"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Kif3A is associated with embryonic ciliary morphogenesis.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kif3B",
+    "geneID": "16569",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Kif3B is described as a microtubule-binding protein.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "heart development",
+        "go_id": "GO:0007507",
+        "relationship": [
+          "part_of GO:0072359"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mutant mice lacking Kif3B display situs inversus of the heart.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SRF",
+    "geneID": "6722",
+    "go_data": [
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "go_id": "GO:0006357",
+        "relationship": [
+          "regulates GO:0006366"
+        ],
+        "namespace": "biological_process",
+        "justification": "Activation of gene expression by SRF, a regulator of myogenesis, is linked to changes in actin dynamics and cytoskeletal reorganization.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "transcription regulator activator activity",
+        "go_id": "GO:0140537",
+        "relationship": [
+          "part_of GO:0010468",
+          "positively_regulates GO:0140110"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Cooperative transcriptional activation by serum response factor and the high mobility group protein SSRP1.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Expression of the serum response factor gene is regulated by serum response factor binding sites, implying nuclear localization.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myocyte enhancer factor 2",
+    "geneID": "17260",
+    "go_data": [
+      {
+        "term": "transcription regulator activator activity",
+        "go_id": "GO:0140537",
+        "relationship": [
+          "part_of GO:0010468",
+          "positively_regulates GO:0140110"
+        ],
+        "namespace": "molecular_function",
+        "justification": "MEF2 has transcriptional activity regulated by p38 kinase.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "MEF2 is involved in myogenesis, regulated by p38 kinase.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MAP4",
+    "geneID": "17758",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MAP4 is a microtubule-associated protein that can stabilize microtubules in vitro.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "myoblast differentiation",
+        "go_id": "GO:0045445",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "A muscle-specific isoform of MAP4 is expressed upon differentiation in a pattern very similar to that of MURF during myoblast differentiation.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MAP4 is a microtubule-associated protein, indicating its association with the cytoskeleton.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule stabilizing activity",
+        "go_id": "GO:0140778",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Overexpression of full- or partial-length MAP4 stabilizes microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "microtubule-associated protein",
+    "geneID": "54141",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "go_id": "GO:0008017",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Microtubule-associated protein is involved in stabilization of the microtubule array.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "go_id": "GO:0007010",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Stabilization and functional modulation of microtubules by microtubule-associated protein 4.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "microtubule",
+        "go_id": "GO:0005874",
+        "relationship": [
+          "part_of GO:0015630"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Microtubule-associated protein is associated with microtubules.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "neuron differentiation",
+        "go_id": "GO:0030182",
+        "relationship": [
+          "part_of GO:0048699"
+        ],
+        "namespace": "biological_process",
+        "justification": "Doublecortin is a developmentally regulated, microtubule-associated protein expressed in migrating and differentiating neurons.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      },
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "A muscle-specific variant of the microtubule-associated protein 4 (MAP4) is required for myogenesis.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "-coil",
+    "geneID": "12812",
+    "go_data": [
+      {
+        "term": "muscle cell differentiation",
+        "go_id": "GO:0042692",
+        "relationship": [
+          "part_of GO:0061061"
+        ],
+        "namespace": "biological_process",
+        "justification": "None found, insufficient information provided in the text.",
+        "reference(s)": [
+          "PMC2175279"
+        ]
+      }
+    ]
+  }
+]

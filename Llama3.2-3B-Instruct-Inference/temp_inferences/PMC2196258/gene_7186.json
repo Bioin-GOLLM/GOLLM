@@ -1,0 +1,42 @@
+{
+  "gene": "TRAF2",
+  "geneID": "7186",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF2 mediates NF-kappaB activation induced by TNF receptors, CD40, and CD30.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF2 mediates NF-kappaB activation induced by TNF receptors, CD40, and CD30.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRAF2 interacts with TRIP, TRAF1, and other proteins to regulate NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRAF2 is a cytoplasmic protein that interacts with receptors and other signaling molecules.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

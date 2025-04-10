@@ -1,0 +1,24 @@
+{
+  "gene": "Kif3B",
+  "geneID": "16569",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Kif3B is described as a microtubule-binding protein.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutant mice lacking Kif3B display situs inversus of the heart.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

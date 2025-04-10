@@ -1,0 +1,24 @@
+{
+  "gene": "SLAP2",
+  "geneID": "84174",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The COOH terminus of Fyb/SLAP interacts directly with VASP and Mena in vitro.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SLAP2 is found in human platelet extracts, which are cytoplasmic components.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

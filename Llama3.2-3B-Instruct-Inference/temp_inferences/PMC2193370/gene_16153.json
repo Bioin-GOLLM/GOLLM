@@ -1,0 +1,33 @@
+{
+  "gene": "IL-10",
+  "geneID": "16153",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-10 production is mentioned in the context of lymphokine secretion and T cell responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "T cell proliferation",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "IL-10 production is compared to interferon gamma production in the context of T cell proliferation costimulation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cytokine production",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-10 is referred to as a lymphokine, implying it is a product of immune cell activity.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

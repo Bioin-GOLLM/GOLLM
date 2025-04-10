@@ -1,0 +1,15 @@
+{
+  "gene": "Myc",
+  "geneID": "17869",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myc-tagged MURF was used in coimmunoprecipitation experiments, indicating Myc can bind to other proteins.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

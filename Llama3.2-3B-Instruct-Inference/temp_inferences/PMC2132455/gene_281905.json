@@ -1,0 +1,24 @@
+{
+  "gene": "LTBP-2",
+  "geneID": "281905",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTBP-2 associates with the microfibrillar component of elastic fibers in the bovine fetal nuchal ligament and aorta.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "elastic fiber",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "LTBP-2 was shown to associate with the microfibrillar component of elastic fibers in the bovine fetal nuchal ligament and aorta.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

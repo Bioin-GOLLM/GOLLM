@@ -1,0 +1,33 @@
+{
+  "gene": "GM-CSF",
+  "geneID": "1437",
+  "go_data": [
+    {
+      "term": "dendritic cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GM-CSF and TNF-alpha cooperate in the generation of dendritic Langerhans cells",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "hematopoietic progenitor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD34+ hematopoietic progenitors from human cord blood differentiate along two independent dendritic cell pathways in response to GM-CSF+TNF-alpha",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GM-CSF is used in combination with other factors to induce differentiation of various cell types, implying it has cytokine activity",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

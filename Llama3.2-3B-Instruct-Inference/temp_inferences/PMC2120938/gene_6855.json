@@ -1,0 +1,33 @@
+{
+  "gene": "synaptophysin",
+  "geneID": "6855",
+  "go_data": [
+    {
+      "term": "synaptic vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Synaptophysin is one of the major synaptic vesicle membrane proteins.",
+      "reference(s)": [
+        "PMC2120938"
+      ]
+    },
+    {
+      "term": "vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Synaptophysin is related to the transport of synaptic transmitter vesicles.",
+      "reference(s)": [
+        "PMC2120938"
+      ]
+    },
+    {
+      "term": "integral component of membrane",
+      "relationship": "is_a",
+      "namespace": "cellular_component",
+      "justification": "Synaptophysin has four hydrophobic putative transmembrane domains.",
+      "reference(s)": [
+        "PMC2120938"
+      ]
+    }
+  ]
+}

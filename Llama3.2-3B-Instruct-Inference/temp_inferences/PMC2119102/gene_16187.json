@@ -1,0 +1,24 @@
+{
+  "gene": "IL-3",
+  "geneID": "16187",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-3 is mentioned in the context of cell lines that are dependent on it, implying it has cytokine activity.",
+      "reference(s)": [
+        "PMC2119102"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The murine IL-3-dependent cell line FDC-P1 proliferates in response to an alternative stimulus, implying IL-3's role in cell proliferation.",
+      "reference(s)": [
+        "PMC2119102"
+      ]
+    }
+  ]
+}

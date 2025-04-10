@@ -1,0 +1,15 @@
+{
+  "gene": "beta-galactosidase",
+  "geneID": "2720",
+  "go_data": [
+    {
+      "term": "beta-galactosidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The text mentions 'beta-galactosidase' which implies the gene product has beta-galactosidase activity.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "LAP",
+  "geneID": "403090",
+  "go_data": [
+    {
+      "term": "TGF-beta binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The mature TGFbeta is noncovalently associated with the LAP.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The large latent TGFbeta complex, containing LTBP-1, LAP, and the mature form of TGFbeta1, is distributed as an extracellular fibrillar structure surrounding cells.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "regulation of TGF-beta activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The dissociation of the LAP renders the TGFbeta biologically active.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

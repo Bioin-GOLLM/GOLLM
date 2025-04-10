@@ -1,0 +1,15 @@
+{
+  "gene": "HPRT",
+  "geneID": "15452",
+  "go_data": [
+    {
+      "term": "hypoxanthine phosphoribosyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HPRT stands for hypoxanthine phosphoribosyltransferase.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

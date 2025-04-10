@@ -1,0 +1,24 @@
+{
+  "gene": "IL-6",
+  "geneID": "3569",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-6 is described as a pro-inflammatory cytokine.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-6 is referred to as a cytokine, implying it has cytokine activity.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

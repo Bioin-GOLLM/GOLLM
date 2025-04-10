@@ -1,0 +1,33 @@
+{
+  "gene": "CD34",
+  "geneID": "12490",
+  "go_data": [
+    {
+      "term": "hematopoietic progenitor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD34+ hematopoietic progenitors differentiate along two independent dendritic cell pathways.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD34+ hematopoietic progenitors differentiate along two independent dendritic cell pathways.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "hematopoietic stem cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD34 is a marker for hematopoietic progenitor cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

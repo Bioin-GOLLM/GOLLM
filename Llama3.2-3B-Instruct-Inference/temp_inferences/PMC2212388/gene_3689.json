@@ -1,0 +1,33 @@
+{
+  "gene": "CD18",
+  "geneID": "3689",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mAbs to CD18 were effective in reducing adhesion to background levels.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD18 is part of the beta2 integrin, alphadbeta2, CD11b/CD18 and CD11c/CD18 complexes.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "leukocyte adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "alphadbeta2, which includes CD18, is expressed on most human leukocytes and is involved in adhesion.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

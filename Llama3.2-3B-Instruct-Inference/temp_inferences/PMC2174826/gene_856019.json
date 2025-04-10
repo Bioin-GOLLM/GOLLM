@@ -1,0 +1,15 @@
+{
+  "gene": "ELP3",
+  "geneID": "856019",
+  "go_data": [
+    {
+      "term": "chromosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ELP3 locus is on the same arm of a chromosome as the PEP4 locus.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

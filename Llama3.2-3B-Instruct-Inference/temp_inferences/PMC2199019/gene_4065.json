@@ -1,0 +1,24 @@
+{
+  "gene": "DEC205",
+  "geneID": "4065",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DEC205 is expressed by mature dendritic cells (DCs), which are key components of the immune system.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "dendritic cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "DEC205 is highly expressed by mature DCs, indicating its specific expression in these cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

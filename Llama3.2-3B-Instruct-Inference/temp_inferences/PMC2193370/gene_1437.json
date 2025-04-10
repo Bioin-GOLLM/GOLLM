@@ -1,0 +1,24 @@
+{
+  "gene": "GM-CSF",
+  "geneID": "1437",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GM-CSF is used to culture DCs, implying it has a role in promoting cell growth or differentiation, a characteristic of cytokines.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GM-CSF is involved in the growth and differentiation of DCs, which are crucial components of the immune system.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "myelin oligodendrocyte glycoprotein",
+  "geneID": "17441",
+  "go_data": [
+    {
+      "term": "myelination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin oligodendrocyte glycoprotein is associated with the myelination process.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "oligodendrocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin oligodendrocyte glycoprotein is related to oligodendrocyte differentiation.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "myelin sheath",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Myelin oligodendrocyte glycoprotein is a component of the myelin sheath.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

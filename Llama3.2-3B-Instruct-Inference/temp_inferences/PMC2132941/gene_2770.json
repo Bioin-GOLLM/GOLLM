@@ -1,0 +1,42 @@
+{
+  "gene": "Gi",
+  "geneID": "2770",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gi is activated through G protein-coupled receptors by thrombin.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "inhibition of adenylyl cyclase activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of Gi by thrombin decreases cAMP levels through inhibition of adenylyl cyclase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gi-mediated processes are involved in the regulation of platelet activation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Gi is a component of heterotrimeric G proteins which are membrane-associated.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

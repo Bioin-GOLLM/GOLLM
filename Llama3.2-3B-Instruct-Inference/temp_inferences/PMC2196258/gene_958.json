@@ -1,0 +1,42 @@
+{
+  "gene": "CD40",
+  "geneID": "958",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD40 interacts directly with TRAFs via a short stretch of amino acids within their cytoplasmic tails.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF2 mediates NF-kappaB activation induced by CD40.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 plays a role in the activation of signaling pathways induced by these receptors.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD40 is a receptor that interacts with TRAFs via its cytoplasmic tail, implying it is located at the cell surface.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

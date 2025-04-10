@@ -1,0 +1,59 @@
+[
+  {
+    "gene": "MLZE",
+    "geneID": "83492",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Human homolog of MLZE contained two potential nuclear localizing signals.",
+        "reference(s)": [
+          "PMC5926699"
+        ]
+      },
+      {
+        "term": "leucine zipper structure",
+        "relationship": "has",
+        "namespace": "molecular_function",
+        "justification": "Human homolog of MLZE contained one leucine zipper structure.",
+        "reference(s)": [
+          "PMC5926699"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Expression levels of mouse MLZE increased in accordance with metastatic ability of B16 melanoma sublines.",
+        "reference(s)": [
+          "PMC5926699"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "c-myc",
+    "geneID": "4609",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "c-myc is often associated with nuclear functions as an oncogene.",
+        "reference(s)": [
+          "PMC5926699"
+        ]
+      },
+      {
+        "term": "cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "c-myc oncogene expression is often linked to increased cell proliferation in malignant melanomas.",
+        "reference(s)": [
+          "PMC5926699"
+        ]
+      }
+    ]
+  }
+]

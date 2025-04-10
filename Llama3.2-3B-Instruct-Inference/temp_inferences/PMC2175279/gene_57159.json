@@ -1,0 +1,51 @@
+{
+  "gene": "MURF",
+  "geneID": "57159",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MURF binds and stabilizes microtubules against depolymerizing agents.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MURF expression is required for execution of the muscle differentiation program.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "MURF associates with microtubules in the cytoskeleton.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule stabilization",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MURF prevents depolymerization of microtubules in the presence of nocodazole.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "myotube formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ablation of MURF expression severely diminishes myotube formation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

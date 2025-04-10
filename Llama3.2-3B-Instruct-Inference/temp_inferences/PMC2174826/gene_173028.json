@@ -1,0 +1,42 @@
+{
+  "gene": "PNG1",
+  "geneID": "173028",
+  "go_data": [
+    {
+      "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNG1 encodes a soluble protein that exhibits PNGase activity when expressed in Escherichia coli.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "proteasome-mediated protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PNG1 may be required for efficient proteasome-mediated degradation of a misfolded glycoprotein.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Subcellular localization studies indicate that Png1p is present in the nucleus as well as the cytosol.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Subcellular localization studies indicate that Png1p is present in the nucleus as well as the cytosol.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

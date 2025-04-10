@@ -1,0 +1,51 @@
+{
+  "gene": "tumor necrosis factor alpha",
+  "geneID": "7124",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The gene is strongly expressed in mature DC and in situ can be localized to germinal centers, suggesting a role in immune response.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "germinal center",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "In situ hybridization showed distinct expression of this gene in the germinal center.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "dendritic cell differentiation",
+      "relationship": "involved_in",
+      "justification": "GM-CSF and TNF-alpha cooperate in the generation of dendritic Langerhans cells",
+      "namespace": "biological_process",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Decysin may represent a key molecule in regulating DC-T cell interaction.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNF-alpha is a cytokine that plays a role in immune response.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "LTbetaR",
+  "geneID": "17000",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTbetaR interacts with LTalpha1beta2, suggesting it has tumor necrosis factor receptor activity.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTbetaR elicits a cytotoxic signal through LTalpha1beta2-LTbetaR interactions, indicating involvement in cell surface receptor signaling.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, LTbetaR is likely located in the plasma membrane to interact with its ligands.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "G protein alpha",
+  "geneID": "2778",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Receptors activated by thrombin couple to Gq, G12, G13, and Gi, indicating involvement in G-protein coupled receptor signaling.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "G protein alpha-subunits are found in membranes of human platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "signal transducer activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "G protein alpha-subunits are involved in transmitting signals from receptors, such as those activated by thrombin and TXA2.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "MyoD",
+  "geneID": "17927",
+  "go_data": [
+    {
+      "term": "skeletal muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyoD expression was detected in proliferating myoblasts before expression of myogenin and was upregulated during myoblast differentiation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "myoblast differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyoD expression was upregulated during myoblast differentiation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "muscle cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyoD expression was detected in proliferating myoblasts.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

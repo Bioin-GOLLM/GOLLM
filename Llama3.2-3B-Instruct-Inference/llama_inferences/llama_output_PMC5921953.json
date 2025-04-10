@@ -1,0 +1,73 @@
+[
+  {
+    "gene": "Uroplakin Ib",
+    "geneID": "7348",
+    "go_data": [
+      {
+        "term": "transmembrane signaling receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Uroplakin Ib is a urothelium-specific transmembrane protein.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      },
+      {
+        "term": "urothelial cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Uroplakin Ib is specifically expressed in urothelial cells.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Uroplakin Ib is a transmembrane protein.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Uroplakin III",
+    "geneID": "7380",
+    "go_data": [
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Uroplakin III is described as a transmembrane protein.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "justification": "No explicit evidence, removing due to lack of direct mention.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UP",
+    "geneID": "7378",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information is provided, however, based on the context that the gene is expressed and detected, it can be inferred the gene product would be in the nucleus, but since it is not explicitly stated, this term is not included.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "gene": "prc1",
+  "geneID": "233406",
+  "go_data": [
+    {
+      "term": "proteasomal protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "prc1-1 allele encodes CPY*, a substrate for proteasomal degradation.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

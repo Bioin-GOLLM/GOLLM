@@ -1,0 +1,24 @@
+{
+  "gene": "IL-12",
+  "geneID": "3593",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-12 is mentioned in the context of Th1 responses, suggesting its involvement in immune response.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-12 is implied to have a role in costimulating IFN-gamma production, indicating cytokine activity.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

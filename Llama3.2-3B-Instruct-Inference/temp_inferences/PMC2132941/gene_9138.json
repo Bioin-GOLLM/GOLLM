@@ -1,0 +1,33 @@
+{
+  "gene": "p115 RhoGEF",
+  "geneID": "9138",
+  "go_data": [
+    {
+      "term": "Rho guanyl-nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p115 RhoGEF can directly link Galpha13 to the regulation of Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p115 RhoGEF functions downstream of G12/G13 and can link Galpha13 to the regulation of Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "regulation of Rho protein signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p115 RhoGEF can directly link Galpha13 to the regulation of Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

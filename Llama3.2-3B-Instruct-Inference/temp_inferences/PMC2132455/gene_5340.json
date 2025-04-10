@@ -1,0 +1,33 @@
+{
+  "gene": "plasmin",
+  "geneID": "5340",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Plasmin is involved in the cleavage of LTBP-1, releasing latent TGFbeta.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Plasmin is secreted and acts on the extracellular matrix to release latent TGFbeta.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Plasmin cleaves LTBP-1, demonstrating its role in proteolytic activity.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

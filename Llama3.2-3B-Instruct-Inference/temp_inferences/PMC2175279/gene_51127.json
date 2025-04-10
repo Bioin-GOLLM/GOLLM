@@ -1,0 +1,51 @@
+{
+  "gene": "RBCC",
+  "geneID": "51127",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RBCC proteins, such as PML and MURF, interact with other proteins through their RING-finger, B-box, and coiled-coil domains.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RBCC proteins have been implicated in signal transduction.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Some RBCC proteins, such as PML, are known to be localized to the nucleus.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MURF, a muscle-specific RBCC protein, is expressed in cardiac and skeletal muscle throughout development.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "ubiquitin protein ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RBCC proteins contain a RING-finger domain, which is known to be involved in E2-dependent ubiquitination.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

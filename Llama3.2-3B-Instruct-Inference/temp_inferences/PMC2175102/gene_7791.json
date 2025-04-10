@@ -1,0 +1,33 @@
+{
+  "gene": "zyxin",
+  "geneID": "7791",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Zyxin was predominantly detected in focal contacts.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Zyxin is associated with the cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Zyxin is an interactive LIM domain protein associated with the cytoskeleton, implying it binds to other proteins.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

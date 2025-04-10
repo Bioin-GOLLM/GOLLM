@@ -1,0 +1,51 @@
+{
+  "gene": "NF-kappaB",
+  "geneID": "4790",
+  "go_data": [
+    {
+      "term": "transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NF-kappaB activation induces the expression of various genes.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB activation is required for cell activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB activation suppresses cell death and prevents TNF-alpha-induced apoptosis.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NF-kappaB is a transcription factor that localizes to the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB activation is mediated by TRAF2 and is involved in signal transduction pathways.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

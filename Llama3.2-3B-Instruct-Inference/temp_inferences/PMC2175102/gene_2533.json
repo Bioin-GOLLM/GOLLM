@@ -1,0 +1,69 @@
+{
+  "gene": "Fyn-Binding Protein",
+  "geneID": "2533",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fyb/SLAP is involved in linking TCR signaling to the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fyb/SLAP is a component of the TCR signaling complex and interacts with SLP-76, Nck, and WASP.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP localizes exclusively to lamellipodia of spreading platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell-cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP accumulates at the T cell-beads attachment sites.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP is part of a complex that contains WASP, SLP-76, and Nck.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Fyb/SLAP has a region with high homology to the known G-actin binding site of thymosin beta4.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fyb/SLAP is involved in a signaling pathway that links TCR signaling to the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

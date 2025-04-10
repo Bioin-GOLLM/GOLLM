@@ -1,0 +1,42 @@
+{
+  "gene": "IL-7R",
+  "geneID": "16197",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-7R is described as a receptor for IL-7 and potentially TSLP.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "lymphopoiesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-7R knockout mice show T and B cell lymphopenia, indicating its role in lymphopoiesis.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "justification": "IL-7R-/- mice have a B cell maturational arrest, suggesting its involvement in B cell differentiation.",
+      "namespace": "biological_process",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, IL-7R is expected to be located on the cell surface.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

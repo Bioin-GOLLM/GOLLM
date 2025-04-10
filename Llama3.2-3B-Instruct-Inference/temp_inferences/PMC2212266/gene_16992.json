@@ -1,0 +1,42 @@
+{
+  "gene": "LTalpha",
+  "geneID": "16992",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTalpha is thought to contribute to pathologies by promoting inflammation through the upregulation of endothelial adhesion molecules.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTalpha is a proinflammatory cytokine with activities equivalent to tumor necrosis factor (TNF).",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "lymphoid organ development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTalpha in association with LTbeta binds the LTbeta receptor, which is essential for normal peripheral lymphoid development.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cellular response to cytokine stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTalpha binds to TNFR1 and TNFR2, resulting in the promotion of inflammation and delivery of cytotoxic signals to target cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

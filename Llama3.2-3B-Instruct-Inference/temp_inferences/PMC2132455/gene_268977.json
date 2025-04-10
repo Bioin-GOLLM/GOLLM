@@ -1,0 +1,42 @@
+{
+  "gene": "TGFbeta",
+  "geneID": "268977",
+  "go_data": [
+    {
+      "term": "cellular differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Transforming growth factor-beta (TGFbeta) regulates cellular differentiation and proliferation during development.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TGFbeta is secreted as a large latent TGFbeta complex containing mature TGFbeta, latency associated peptide, and latent TGFbeta-binding protein (LTBP)-1.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "endothelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mature TGFbeta protein was required at the onset of the endothelial-mesenchymal transformation to initiate endocardial cushion tissue formation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Transforming growth factor-beta (TGFbeta) is a dimeric peptide growth factor.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

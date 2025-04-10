@@ -1,0 +1,24 @@
+{
+  "gene": "substance P",
+  "geneID": "6863",
+  "go_data": [
+    {
+      "term": "neuropeptide hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Substance P is described as a neuropeptide.",
+      "reference(s)": [
+        "PMC2114764"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Substance P, being a neuropeptide, is likely involved in signal transduction.",
+      "reference(s)": [
+        "PMC2114764"
+      ]
+    }
+  ]
+}

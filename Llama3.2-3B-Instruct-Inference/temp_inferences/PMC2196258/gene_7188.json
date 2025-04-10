@@ -1,0 +1,33 @@
+{
+  "gene": "TRAF5",
+  "geneID": "7188",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF5 is a putative signal transducer for the lymphotoxin-beta receptor.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF5 is an activator of NF-kappaB.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF5 interacts directly with some members of the TNFR family and plays pivotal roles in the activation of signaling pathways induced by these receptors.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

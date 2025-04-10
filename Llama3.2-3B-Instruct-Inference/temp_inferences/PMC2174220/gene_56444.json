@@ -1,0 +1,42 @@
+{
+  "gene": "Arp11",
+  "geneID": "56444",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The Arp11 sequence predicts this protein will interact only with Arp1 or actin filament pointed ends.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "pointed-end capping",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The Arp11 sequence suggests a pointed-end capping activity.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Arp11 is a subunit of the dynactin complex, which is involved in cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "dynactin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Arp11 is a subunit of the dynactin complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

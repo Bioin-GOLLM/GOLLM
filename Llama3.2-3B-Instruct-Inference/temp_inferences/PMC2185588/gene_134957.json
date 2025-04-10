@@ -1,0 +1,15 @@
+{
+  "gene": "tomosyn",
+  "geneID": "134957",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Tomosyn binds to SNAREs, modulating their ability to form complexes with other SNAREs.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "DC",
+  "geneID": "13179",
+  "go_data": [
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7-DC is mentioned in the context of T cell costimulatory activity of B7 family molecules.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "lymphokine production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7-DC is related to lymphokine production, one of the most important mediators of T cell function.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

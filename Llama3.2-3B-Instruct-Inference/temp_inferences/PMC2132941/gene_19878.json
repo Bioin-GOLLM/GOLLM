@@ -1,0 +1,51 @@
+{
+  "gene": "Rho-Kinase",
+  "geneID": "19878",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rho-kinase can directly phosphorylate MLC in vitro.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "myosin light chain phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho-kinase-mediated MLC phosphorylation is involved in contractile responses in various cell types.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "regulation of myosin phosphatase activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho-kinase can phosphorylate and inactivate myosin phosphatase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet shape change",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho/Rho-kinase-mediated MLC phosphorylation is involved in TXA2 receptor-induced platelet shape change.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rho-kinase regulates myosin light chain phosphorylation, which affects cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

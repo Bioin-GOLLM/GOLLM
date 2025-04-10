@@ -1,0 +1,33 @@
+{
+  "gene": "IFN-gamma",
+  "geneID": "3458",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IFN-gamma production is stimulated by B7-DC in T cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFN-gamma production is costimulated by B7-DC, indicating a role in immune response.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "As a cytokine, IFN-gamma is secreted into the extracellular region.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

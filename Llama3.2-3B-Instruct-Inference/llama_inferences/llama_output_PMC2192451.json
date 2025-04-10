@@ -1,0 +1,101 @@
+[
+  {
+    "gene": "p58",
+    "geneID": "3804",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p58 is identified as an HLA-C-specific inhibitory receptor.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p58 is a receptor with extracellular regions formed by two Ig-like domains.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      },
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p58 functions as an HLA-C-specific inhibitory receptor.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p50",
+    "geneID": "51008",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p50 is an activatory receptor that mediates functions in immune response.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p50 is a receptor with extracellular regions formed by two Ig-like domains, indicating it is located on the cell surface.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      },
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p50 functions as an activatory receptor, suggesting it has receptor activity.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HLA-C",
+    "geneID": "3107",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "HLA-C allele specificity is mentioned in the context of receptors mediating functions, implying involvement in immune response.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      },
+      {
+        "term": "MHC class I protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HLA-C is an MHC class I molecule, which suggests it can bind to other MHC class I proteins.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transmembrane protein, HLA-C is located in the cell surface.",
+        "reference(s)": [
+          "PMC2192451"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,817 @@
+[
+  {
+    "gene": "thymic stromal lymphopoietin",
+    "geneID": "53603",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TSLP supports the growth of pre-B cell colonies in vitro and has comitogenic activity for fetal thymocytes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TSLP administration enhances B cell production and increases B cell numbers, and may support B cell development to a more mature stage than IL-7.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "lymphoid progenitor cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TSLP supports B lymphopoiesis from early progenitor cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TSLP stimulates the proliferation of pre-B cells and thymocytes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TSLP is a secreted protein that acts as a cytokine.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "interleukin 7",
+    "geneID": "16196",
+    "go_data": [
+      {
+        "term": "lymphopoiesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-7 plays a role in lymphopoiesis as shown by severe lymphopenia in IL-7 gene-deleted mice.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-7 induces BP-1 expression on pre-B cells and increases this population when administered to mice.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "T cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-7 stimulates significant growth of thymocytes in submersion cultures of intact day 14 fetal thymic lobes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-7 acts as a cytokine to support B lymphopoiesis and T cell development.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B220",
+    "geneID": "19264",
+    "go_data": [
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TSLP stimulates B cell precursor growth and induces the expansion of B220+BP-1+ pre-B cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "hematopoietic progenitor cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "B220 is expressed on the surface of B cell precursors and is involved in their differentiation.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "bone marrow",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "B220+ cells are found in the bone marrow and are involved in B cell development.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BP-1",
+    "geneID": "326397",
+    "go_data": [
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The transition from pro-B cell to pre-B cell is determined by the induction of expression of BP-1.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "BP-1 is expressed on the surface of pre-B cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "immune system development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BP-1 expression is associated with the development of B cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TSLP",
+    "geneID": "85480",
+    "go_data": [
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TSLP supports the clonal growth of normal murine bone marrow cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "lymphoid progenitor cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TSLP stimulates the growth of lymphoid progenitor cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TSLP is secreted by thymic stromal cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TSLP acts on lymphoid progenitor cells to stimulate their growth.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Apc",
+    "geneID": "11789",
+    "go_data": []
+  },
+  {
+    "gene": "Apc",
+    "geneID": "324",
+    "go_data": [
+      {
+        "term": "cellular component organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "No direct evidence, however Apc is known to be involved in cellular processes, but the provided text does not explicitly support any GO term.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GM-CSF",
+    "geneID": "12981",
+    "go_data": [
+      {
+        "term": "hematopoietic progenitor cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GM-CSF stimulates the growth of granulocyte and/or macrophage colonies.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GM-CSF is used to stimulate cultures of whole bone marrow or bone marrow depleted of B220+ cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "GM-CSF is added to cultures of whole bone marrow, indicating it acts outside the cell.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-3",
+    "geneID": "16187",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-3 stimulates granulocyte and/or macrophage colonies in response to its presence.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "myeloid cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-3 supports the growth of granulocyte and/or macrophage colonies.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a cytokine, IL-3 is secreted and acts in the extracellular space.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CSF-1",
+    "geneID": "12977",
+    "go_data": [
+      {
+        "term": "hematopoietic progenitor cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CSF-1 stimulates the growth of granulocyte and/or macrophage colonies.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "myeloid cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CSF-1 stimulates the growth of granulocyte and/or macrophage colonies.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CSF-1 is used to stimulate the growth of colonies in bone marrow cultures.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "G-CSF",
+    "geneID": "100036204",
+    "go_data": [
+      {
+        "term": "granulocyte colony-stimulating factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "G-CSF stimulates the growth of granulocyte colonies.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "myeloid cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "G-CSF is involved in the growth of myeloid colonies.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "secreted_in",
+        "namespace": "cellular_component",
+        "justification": "G-CSF is added to cultures, implying it is secreted.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "sIg",
+    "geneID": "109565",
+    "go_data": [
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "sIg is mentioned in the context of B220+ surface IgM- bone marrow cells developing into surface mu+ cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "sIg is referred to as surface Ig, indicating its location on the cell surface.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IgM",
+    "geneID": "299357",
+    "go_data": [
+      {
+        "term": "B cell receptor complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Cells expressed surface IgM.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IgM is expressed on the surface of B cells, which are part of the immune system.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "IgM is expressed on the surface of cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mac-1",
+    "geneID": "16409",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Mac-1 is expressed on the surface of cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Thy-1",
+    "geneID": "21838",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Cells were negative for expression of Thy-1, indicating Thy-1 is typically found on the cell surface.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD4",
+    "geneID": "12504",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD4 is mentioned in the context of thymocytes and T lymphopoiesis, indicating involvement in immune system processes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "T cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD4 is a marker for a specific subset of T cells, implying involvement in T cell differentiation.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD4 is a cell surface receptor.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1",
+    "geneID": "111343",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-1 had significant synergy with TSLP in cultures of CD4-CD8- thymocytes, indicating its role as a cytokine.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1 synergized with TSLP to stimulate proliferation in cultures of CD4-CD8- thymocytes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "immune system",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1 is a cytokine that interacts with TSLP, which affects T lymphopoiesis, a process in the immune system.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-2",
+    "geneID": "16183",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-2 is mentioned as a cytokine in the context of thymocyte proliferation assays.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-2 is mentioned in the context of T lymphopoiesis and thymocyte proliferation.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-4",
+    "geneID": "16189",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-4 is mentioned as a cytokine in the context of thymocyte proliferation assays.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-4 is mentioned in the context of thymocyte proliferation, which is an immune system process.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SCF",
+    "geneID": "17311",
+    "go_data": [
+      {
+        "term": "stem cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SCF (c-kit ligand) synergizes with IL-7 to stimulate growth of thymocytes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SCF synergizes with IL-7 to increase cell yield per cultured thymic lobe.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SCF (c-kit ligand) stimulates the in vitro growth of immature thymocytes.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD43",
+    "geneID": "20737",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD43 is expressed on the surface of pre-pro-B cells and pro-B cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD43 expression is decreased as B cells transition from pro-B cell to pre-B cell.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "leukocyte cell surface binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CD43, also known as leukosialin, is involved in cell surface binding.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HSA",
+    "geneID": "12484",
+    "go_data": [
+      {
+        "term": "cell surface receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "HSA expression is analyzed in B cell precursors and its expression changes are observed in relation to other cell surface markers.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "HSA expression is used to define the transition from pro-B cell to pre-B cell, indicating its role in B cell development.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a cell surface marker, HSA is expressed on the surface of B cell precursors.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IgM",
+    "geneID": "16019",
+    "go_data": [
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IgM-secreting cells are a stage in B cell development.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "immune system",
+        "relationship": "part_of",
+        "namespace": "biological_process",
+        "justification": "IgM is involved in the development of B cells.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Surface IgM+ B cells have IgM on their surface.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-7R",
+    "geneID": "16197",
+    "go_data": [
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-7R is described as a receptor for IL-7 and potentially TSLP.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "lymphopoiesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-7R knockout mice show T and B cell lymphopenia, indicating its role in lymphopoiesis.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "justification": "IL-7R-/- mice have a B cell maturational arrest, suggesting its involvement in B cell differentiation.",
+        "namespace": "biological_process",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, IL-7R is expected to be located on the cell surface.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "gammac",
+    "geneID": "16186",
+    "go_data": [
+      {
+        "term": "cytokine receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "gammac is part of the receptor complex for several cytokines.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "lymphocyte differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mice with targeted disruptions of the gammac gene show profound T and B cell lymphopenia.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, gammac is expected to be located on the cell surface.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "lck",
+    "geneID": "16818",
+    "go_data": [
+      {
+        "term": "lymphopoiesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The lck promoter is used to drive the transgene in TSLP transgenic mice, which develop pathology related to lymphopoiesis.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      },
+      {
+        "term": "T cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The lck promoter is active in T cells, suggesting lck's involvement in T cell differentiation.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HPRT",
+    "geneID": "15452",
+    "go_data": [
+      {
+        "term": "hypoxanthine phosphoribosyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HPRT stands for hypoxanthine phosphoribosyltransferase.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HSA",
+    "geneID": "25145",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "HSA is referred to as a heat-stable antigen, which is typically associated with being located on the cell surface.",
+        "reference(s)": [
+          "PMC2193273"
+        ]
+      }
+    ]
+  }
+]

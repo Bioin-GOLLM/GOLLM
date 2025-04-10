@@ -1,0 +1,24 @@
+{
+  "gene": "osteocalcin",
+  "geneID": "12097",
+  "go_data": [
+    {
+      "term": "bone formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "1,25(OH)2D increases osteoblastic expression of osteocalcin, supporting bone formation.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "osteoblast differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Osteocalcin expression is increased by 1,25(OH)2D in osteoblasts, indicating a role in osteoblast differentiation.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

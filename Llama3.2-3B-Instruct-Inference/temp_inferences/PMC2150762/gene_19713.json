@@ -1,0 +1,33 @@
+{
+  "gene": "c-ret",
+  "geneID": "19713",
+  "go_data": [
+    {
+      "term": "receptor tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "c-ret is activated as a tyrosine kinase upon binding to GFR-alpha1.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "ureteric bud development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Secreted GDNF binds to GFR-alpha1, resulting in activation of the c-ret tyrosine kinase, which controls ingrowth of the ureteric bud.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor tyrosine kinase, c-ret is embedded in the cell surface to interact with its ligand.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "T Cell Receptor",
+  "geneID": "6962",
+  "go_data": [
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T cell receptor (TCR)-driven activation of helper T cells induces a rapid polarization of their cytoskeleton towards bound antigen presenting cells (APCs).",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton reorganization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Engagement of the TCR leads to the formation of actin-supported signaling, which serves to coordinate downstream events such as proliferation and secretion of cytokines.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR engagement induces the activation of tyrosine kinases (Fyn, Lck, and ZAP-70), leading to the phosphorylation of several components of the T cell signal transduction pathway.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "T cell receptor (TCR) is a membrane-bound receptor on T cells.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

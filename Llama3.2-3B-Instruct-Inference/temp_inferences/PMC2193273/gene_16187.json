@@ -1,0 +1,33 @@
+{
+  "gene": "IL-3",
+  "geneID": "16187",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-3 stimulates granulocyte and/or macrophage colonies in response to its presence.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "myeloid cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-3 supports the growth of granulocyte and/or macrophage colonies.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a cytokine, IL-3 is secreted and acts in the extracellular space.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "Klotho",
+  "geneID": "9365",
+  "go_data": [
+    {
+      "term": "fibroblast growth factor receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Klotho binds to FGF23, which inhibits 1-alpha hydroxylase and reduces the renal synthesis of 1,25(OH)2D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Klotho binds to FGF23, implying it is located on the cell surface to interact with FGF23.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

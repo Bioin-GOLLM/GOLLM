@@ -1,0 +1,24 @@
+{
+  "gene": "fibronectin",
+  "geneID": "2335",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Fibronectin is associated with cellular fibronectin as a component of extracellular microfibrils.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fibronectin is a component of extracellular microfibrils, which are involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

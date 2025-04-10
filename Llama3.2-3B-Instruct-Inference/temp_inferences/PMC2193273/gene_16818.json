@@ -1,0 +1,24 @@
+{
+  "gene": "lck",
+  "geneID": "16818",
+  "go_data": [
+    {
+      "term": "lymphopoiesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The lck promoter is used to drive the transgene in TSLP transgenic mice, which develop pathology related to lymphopoiesis.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The lck promoter is active in T cells, suggesting lck's involvement in T cell differentiation.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

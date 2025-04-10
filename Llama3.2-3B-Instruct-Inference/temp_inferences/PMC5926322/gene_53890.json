@@ -1,0 +1,24 @@
+{
+  "gene": "SART3",
+  "geneID": "53890",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "hSART3 was found to exist as an RNA-binding nuclear protein.",
+      "reference(s)": [
+        "PMC5926322"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "hSART3 was found to exist as an RNA-binding nuclear protein.",
+      "reference(s)": [
+        "PMC5926322"
+      ]
+    }
+  ]
+}

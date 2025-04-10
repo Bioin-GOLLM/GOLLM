@@ -1,0 +1,33 @@
+{
+  "gene": "Fibronectin",
+  "geneID": "14268",
+  "go_data": [
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Fibronectin (FN) is a ligand for the integrin alpha8beta1.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "K562 cells bind efficiently in a dose-dependent manner to FN in the presence of Mn2+, indicating a role for FN in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fibronectin is expressed in the metanephric mesenchyme, which is part of the extracellular matrix.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

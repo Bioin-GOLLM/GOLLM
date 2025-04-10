@@ -1,0 +1,42 @@
+{
+  "gene": "Doublecortin",
+  "geneID": "1641",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Doublecortin is a microtubule-associated protein that binds and stabilizes microtubules.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "neuron migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Doublecortin is expressed widely by migrating neurons.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "neuron differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Doublecortin is expressed in migrating and differentiating neurons.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Doublecortin is a microtubule-associated protein.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "B7h",
+  "geneID": "50723",
+  "go_data": [
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7h/B7RP-1 binds the inducible costimulator (ICOS) receptor, which is induced upon T cell activation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Expression of B7h is broadly distributed on multiple hematopoietic and nonhematopoietic tissues, raising questions as to its relative role in immune response regulation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "B7h is a costimulatory homolog of B7.1 and B7.2, which are cell surface molecules.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "B7h/B7RP-1 binds the inducible costimulator (ICOS) receptor.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

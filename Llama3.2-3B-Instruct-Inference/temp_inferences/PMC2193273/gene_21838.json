@@ -1,0 +1,15 @@
+{
+  "gene": "Thy-1",
+  "geneID": "21838",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cells were negative for expression of Thy-1, indicating Thy-1 is typically found on the cell surface.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

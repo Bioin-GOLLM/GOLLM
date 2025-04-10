@@ -1,0 +1,60 @@
+{
+  "gene": "Ena/Vasodilator-Stimulated Phosphoprotein",
+  "geneID": "7408",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ena/VASP family proteins are essential for the remodeling of the actin cytoskeleton upon TCR ligation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VASP binds in vitro to F-actin through the EVH2 domain.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ena/VASP proteins appear to retard cell motility in Rat2 fibroblasts and in cells derived from Mena/VASP double knockout mice.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "focal adhesion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VASP localizes at focal adhesions in cells.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP and VASP localize at the front of spreading lamellipodia.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "regulation of actin filament length",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ena/VASP family proteins function as regulators of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

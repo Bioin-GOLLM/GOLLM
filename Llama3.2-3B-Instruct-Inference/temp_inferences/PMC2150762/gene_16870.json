@@ -1,0 +1,15 @@
+{
+  "gene": "alkaline phosphatase",
+  "geneID": "16870",
+  "go_data": [
+    {
+      "term": "catalytic activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Alkaline phosphatase is used as a marker enzyme.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

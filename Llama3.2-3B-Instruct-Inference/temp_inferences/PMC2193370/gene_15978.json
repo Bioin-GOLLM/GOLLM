@@ -1,0 +1,33 @@
+{
+  "gene": "interferon gamma",
+  "geneID": "15978",
+  "go_data": [
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7-DC costimulates T cell proliferation and induces interferon gamma production.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Interferon gamma is a lymphokine produced by T cells in response to B7-DC costimulation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Interferon gamma is a cytokine that is strongly costimulated by B7-DC.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "vinculin",
+  "geneID": "22330",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Vinculin is described as a cytoskeletal protein.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

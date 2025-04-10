@@ -1,0 +1,42 @@
+{
+  "gene": "cathepsin D",
+  "geneID": "1509",
+  "go_data": [
+    {
+      "term": "lysosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cathepsin D is synthesized as a 53-kD precursor, which is processed into a 47-kD intermediate form in endocytic compartments and ultimately transported to lysosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein processing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cathepsin D is processed from a 53-kD precursor to a 47-kD intermediate form in endocytic compartments.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cathepsin D is transported through early endosomes en route to lysosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cathepsin D is a lysosomal aspartic protease, implying peptidase activity.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

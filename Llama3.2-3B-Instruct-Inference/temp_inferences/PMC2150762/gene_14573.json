@@ -1,0 +1,42 @@
+{
+  "gene": "Glial cell-derived neurotrophic factor",
+  "geneID": "14573",
+  "go_data": [
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GDNF is described as a growth factor.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Secreted GDNF is mentioned, implying it is located in the extracellular space.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "ureteric bud development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GDNF controls ingrowth of the ureteric bud.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "metanephric mesenchyme development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GDNF is synthesized in the metanephric mesenchyme.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

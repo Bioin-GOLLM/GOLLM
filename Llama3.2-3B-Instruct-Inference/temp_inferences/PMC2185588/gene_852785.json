@@ -1,0 +1,33 @@
+{
+  "gene": "Vps45p",
+  "geneID": "852785",
+  "go_data": [
+    {
+      "term": "regulation of SNARE complex formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vps45p serves as a link between Rab5 regulation of endosomal fusion events and regulation of endosomal SNARE complex formation.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vps45p is involved in endosomal fusion events and SNARE complex formation, indicating its presence in endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vps45p can complex with different syntaxin isoforms, such as Pep12p and Tlg2p.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

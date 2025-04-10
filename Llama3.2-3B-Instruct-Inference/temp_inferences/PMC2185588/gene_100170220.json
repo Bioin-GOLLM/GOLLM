@@ -1,0 +1,51 @@
+{
+  "gene": "SNARE",
+  "geneID": "100170220",
+  "go_data": [
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAREs are involved in membrane fusion, which occurs through priming and proper pairing of SNARE molecules.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "membrane docking",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAREs are involved in the coupling of vesicle tethering and membrane fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAREs are found in complex with proteins on early endosomal membranes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAREs assemble into membrane fusion-competent complexes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "SNAP receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SNAREs are defined as SNAP receptor molecules.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

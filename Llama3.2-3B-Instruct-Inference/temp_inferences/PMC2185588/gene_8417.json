@@ -1,0 +1,33 @@
+{
+  "gene": "syntaxin 7",
+  "geneID": "8417",
+  "go_data": [
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Syntaxin 7 localizes to early endosomes in vivo.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Syntaxin 7 bound alpha-SNAP.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosomal transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Syntaxin 7 has differential roles in endosomal trafficking.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

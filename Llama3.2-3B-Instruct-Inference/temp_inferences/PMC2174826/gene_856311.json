@@ -1,0 +1,15 @@
+{
+  "gene": "SEC23",
+  "geneID": "856311",
+  "go_data": [
+    {
+      "term": "COPII vesicle coating",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found in the given text.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

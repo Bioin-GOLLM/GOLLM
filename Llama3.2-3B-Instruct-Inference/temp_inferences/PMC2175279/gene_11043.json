@@ -1,0 +1,33 @@
+{
+  "gene": "Mid2",
+  "geneID": "11043",
+  "go_data": [
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mid2 is incorporated into an undulating reticular network in the cytoplasm.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Mid2 associates with microtubules through a non-classical microtubule association domain.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mid2 is highly expressed in the heart as well as elsewhere in the embryo.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

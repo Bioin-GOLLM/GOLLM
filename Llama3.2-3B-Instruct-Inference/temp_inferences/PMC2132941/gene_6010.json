@@ -1,0 +1,60 @@
+{
+  "gene": "Rho",
+  "geneID": "6010",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rho is a small GTP-binding protein.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "Rho protein signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho is involved in the regulation of MLC phosphorylation through Rho-kinase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rho is involved in the regulation of actin cytoskeleton reorganization.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell shape change",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho is involved in the regulation of platelet shape change.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "myosin light chain phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho is involved in the regulation of MLC phosphorylation through Rho-kinase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton reorganization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho is involved in the regulation of actin cytoskeleton reorganization.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

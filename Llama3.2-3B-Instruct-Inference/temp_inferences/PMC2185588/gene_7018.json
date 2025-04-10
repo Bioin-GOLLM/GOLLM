@@ -1,0 +1,42 @@
+{
+  "gene": "transferrin",
+  "geneID": "7018",
+  "go_data": [
+    {
+      "term": "iron ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Transferrin is known to bind iron ions, although this is not explicitly stated in the provided text, it is a well established fact about transferrin.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "recycling endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Transferrin recycling to the plasma membrane is mentioned, indicating its presence in recycling endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Transferrin is loaded into early endosomes in the experiment described.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "receptor-mediated endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The process of loading transferrin into early endosomes implies involvement in receptor-mediated endocytosis.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

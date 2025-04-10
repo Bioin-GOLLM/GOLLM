@@ -1,0 +1,69 @@
+{
+  "gene": "dynein",
+  "geneID": "33319",
+  "go_data": [
+    {
+      "term": "microtubule motor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dynein is a minus-end directed, microtubule-based motor.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasmic dynein-driven transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dynein drives a wide range of cytoplasmic motor activities.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "microtubule",
+      "relationship": "located_on",
+      "namespace": "cellular_component",
+      "justification": "Dynein is a microtubule-based motor.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "mitotic spindle formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dynein plays a role in mammalian mitotic spindle formation.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "centrosome separation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dynein is required for distinct aspects of MTOC positioning, including centrosome separation.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "nuclear migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dynein is required for the nuclear attachment and migration of centrosome during mitosis.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "vesicle transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dynein is a vesicle protein and binds to phospholipid vesicles.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

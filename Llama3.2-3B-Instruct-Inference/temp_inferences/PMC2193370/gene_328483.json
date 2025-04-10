@@ -1,0 +1,33 @@
+{
+  "gene": "TCR",
+  "geneID": "328483",
+  "go_data": [
+    {
+      "term": "antigen binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TCR engages with peptide-MHC ligand.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR-dependent stimulus is required for T cell activation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TCR is engaged by peptide-MHC ligand on the surface of T cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

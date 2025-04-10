@@ -1,0 +1,33 @@
+{
+  "gene": "thrombin",
+  "geneID": "14061",
+  "go_data": [
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thrombin stimulates platelets in an aggregation-independent manner.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Thrombin is known for its role in the coagulation cascade, where it acts as a peptidase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Thrombin is secreted by platelets into the extracellular region.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

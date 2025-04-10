@@ -1,0 +1,24 @@
+{
+  "gene": "TNFalpha",
+  "geneID": "7124",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNFalpha is described as a pro-inflammatory cytokine.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFalpha is referred to as a cytokine.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

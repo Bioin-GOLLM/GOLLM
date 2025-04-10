@@ -1,0 +1,33 @@
+{
+  "gene": "PTH",
+  "geneID": "5741",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PTH increases the synthesis of 1,25(OH)2D, which regulates blood calcium levels.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "calcium ion homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PTH increases the synthesis of 1,25(OH)2D, which regulates blood calcium levels through intestinal absorption, renal reabsorption and release from bone stores.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "parathyroid gland",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Parathyroid hormone (PTH) is controlled in the kidneys and secreted by the parathyroid gland.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

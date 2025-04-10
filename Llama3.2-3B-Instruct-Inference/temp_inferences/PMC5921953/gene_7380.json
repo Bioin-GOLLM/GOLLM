@@ -1,0 +1,23 @@
+{
+  "gene": "Uroplakin III",
+  "geneID": "7380",
+  "go_data": [
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Uroplakin III is described as a transmembrane protein.",
+      "reference(s)": [
+        "PMC5921953"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "justification": "No explicit evidence, removing due to lack of direct mention.",
+      "reference(s)": [
+        "PMC5921953"
+      ]
+    }
+  ]
+}

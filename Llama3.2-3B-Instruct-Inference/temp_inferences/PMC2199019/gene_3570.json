@@ -1,0 +1,15 @@
+{
+  "gene": "IL-6R",
+  "geneID": "3570",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-6R is mentioned in the context of being processed, implying it functions as a receptor.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

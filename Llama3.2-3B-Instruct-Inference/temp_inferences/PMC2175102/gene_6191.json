@@ -1,0 +1,33 @@
+{
+  "gene": "Scar",
+  "geneID": "6191",
+  "go_data": [
+    {
+      "term": "actin nucleation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Scar, a WASp-related protein, activates nucleation of actin filaments by the Arp2/3 complex",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "regulation of actin filament organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpression of ScarWA causes the loss of lamellipodia and stress fibers in Swiss3T3 fibroblasts and J774 macrophages",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Scar is involved in actin dynamics and organization",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

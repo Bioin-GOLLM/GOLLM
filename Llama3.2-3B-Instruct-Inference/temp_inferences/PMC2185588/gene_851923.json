@@ -1,0 +1,42 @@
+{
+  "gene": "Vac1p",
+  "geneID": "851923",
+  "go_data": [
+    {
+      "term": "vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vac1p is thought to act in membrane trafficking as a complex with the Sec1 homologue Vps45p.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vacuole inheritance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vac1p was originally identified as a gene required for vacuole inheritance and vacuole protein sorting.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vacuole protein sorting",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vac1p was originally identified as a gene required for vacuole inheritance and vacuole protein sorting.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vac1p coordinates Rab and phosphatidylinositol 3-kinase signaling in Vps45p-dependent vesicle docking/fusion at the endosome.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

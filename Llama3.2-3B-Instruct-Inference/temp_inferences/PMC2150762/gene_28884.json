@@ -1,0 +1,33 @@
+{
+  "gene": "alpha5",
+  "geneID": "28884",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "alpha5 integrin binds to the RGD site.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin alpha5 beta1 complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "alpha5 is part of the integrin alpha5 beta1 complex, implied by its classification as an integrin alpha sequence.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As an integrin, alpha5 is involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "integrin alpha4",
+  "geneID": "16401",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Integrin alpha4 sequence binds to sequences not containing an RGD site.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Integrin alpha4 is involved in cell adhesion through binding to specific sequences.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin alpha4-beta1 complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Integrin alpha4 forms a complex with other integrin subunits.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a cell adhesion molecule, integrin alpha4 is located on the cell surface.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

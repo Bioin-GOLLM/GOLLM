@@ -1,0 +1,33 @@
+{
+  "gene": "CD34",
+  "geneID": "947",
+  "go_data": [
+    {
+      "term": "cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD34 is expressed in progenitor cell-generated DCs, indicating involvement in cell differentiation.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "dendritic cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD34 progenitor cell-generated DCs express the gene, suggesting involvement in dendritic cell differentiation.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "hematopoietic progenitor cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD34 is expressed in CD34 progenitor cell-generated DCs, indicating it is part of hematopoietic progenitor cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

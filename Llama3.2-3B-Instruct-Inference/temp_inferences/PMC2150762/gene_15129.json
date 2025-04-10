@@ -1,0 +1,33 @@
+{
+  "gene": "beta1",
+  "geneID": "15129",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "beta1 is part of the integrin alpha8beta1 heterodimer, suggesting it binds to other molecules.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As part of the integrin alpha8beta1, beta1 is involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "beta1 is part of the integrin alpha8beta1 heterodimer.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

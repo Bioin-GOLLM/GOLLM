@@ -1,0 +1,24 @@
+{
+  "gene": "sIg",
+  "geneID": "109565",
+  "go_data": [
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "sIg is mentioned in the context of B220+ surface IgM- bone marrow cells developing into surface mu+ cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "sIg is referred to as surface Ig, indicating its location on the cell surface.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

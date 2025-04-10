@@ -1,0 +1,42 @@
+{
+  "gene": "tenascin",
+  "geneID": "3371",
+  "go_data": [
+    {
+      "term": "extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tenascin contains fibronectin type III repeats, which are known to be involved in extracellular matrix organization.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "fibrinogen-like domain",
+      "relationship": "has_part",
+      "namespace": "molecular_function",
+      "justification": "The predicted protein of tenascin consists of a carboxy-terminal fibrinogen-like domain.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Tenascin contains EGF-like repeats, which are known to be involved in cell adhesion molecule binding.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tenascin is predicted to be a large protein with multiple domains, suggesting it is located in the extracellular matrix.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    }
+  ]
+}

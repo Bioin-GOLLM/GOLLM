@@ -1,0 +1,33 @@
+{
+  "gene": "IL-1",
+  "geneID": "111343",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-1 had significant synergy with TSLP in cultures of CD4-CD8- thymocytes, indicating its role as a cytokine.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1 synergized with TSLP to stimulate proliferation in cultures of CD4-CD8- thymocytes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "immune system",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1 is a cytokine that interacts with TSLP, which affects T lymphopoiesis, a process in the immune system.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

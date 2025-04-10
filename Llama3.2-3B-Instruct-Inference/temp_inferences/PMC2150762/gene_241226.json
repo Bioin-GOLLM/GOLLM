@@ -1,0 +1,33 @@
+{
+  "gene": "integrin alpha8",
+  "geneID": "241226",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Integrin alpha8 interacts with nephronectin as shown by immunoprecipitation.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell-matrix adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Integrin alpha8, as part of the alpha8beta1 integrin, is involved in cell adhesion processes.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integral component of plasma membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "As a transmembrane receptor, integrin alpha8 is embedded in the plasma membrane.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

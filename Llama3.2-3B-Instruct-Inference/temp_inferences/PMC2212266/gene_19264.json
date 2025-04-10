@@ -1,0 +1,51 @@
+{
+  "gene": "CD45",
+  "geneID": "19264",
+  "go_data": [
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD45 is used as a marker for flow cytometric analyses of peripheral blood leukocytes.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "leukocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD45 is a marker for various leukocyte populations, including alpha/beta-TCR+, B220+, and CD11b+ cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "hemopoietic or lymphoid organ development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD45 is used to examine the reconstitution of the hemopoietic compartment in recipients.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune system",
+      "relationship": "part_of",
+      "namespace": "biological_process",
+      "justification": "CD45 is a marker for immune cells, including T cells, monocyte-macrophages, and microglia.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD45 is a cell surface marker.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

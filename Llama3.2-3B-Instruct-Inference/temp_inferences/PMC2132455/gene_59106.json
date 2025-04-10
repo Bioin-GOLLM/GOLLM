@@ -1,0 +1,15 @@
+{
+  "gene": "LTBP-2",
+  "geneID": "59106",
+  "go_data": [
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTBP-2 is found in the conditioned medium from COS-1 cells.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

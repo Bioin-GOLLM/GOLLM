@@ -1,0 +1,42 @@
+{
+  "gene": "CD3",
+  "geneID": "12503",
+  "go_data": [
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD3 is part of the T cell receptor complex and is involved in T cell receptor signaling pathway.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD3 is a component of the T cell receptor complex, which is located on the cell surface.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton reorganization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD3-mediated stimulation leads to actin reorganization in T cells.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD3 is part of the T cell receptor complex, which plays a crucial role in the immune response.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

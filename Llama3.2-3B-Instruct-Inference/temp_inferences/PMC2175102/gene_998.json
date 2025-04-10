@@ -1,0 +1,42 @@
+{
+  "gene": "Cdc42",
+  "geneID": "998",
+  "go_data": [
+    {
+      "term": "cellular bud assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cdc42-dependent signals are linked to actin assembly.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cdc42-dependent signals are linked to actin assembly.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "Rho GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cdc42 is implied to be a Rho GTPase based on its interaction with WASP family proteins.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cdc42 interacts with cytosolic proteins such as WASP and the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

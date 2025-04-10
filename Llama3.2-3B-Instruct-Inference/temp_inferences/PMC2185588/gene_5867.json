@@ -1,0 +1,33 @@
+{
+  "gene": "Rab4",
+  "geneID": "5867",
+  "go_data": [
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab4 occupies a restricted membrane domain on endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "membrane organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rab4 is involved in distinct membrane domains on endosomes in the recycling pathway.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Not explicitly stated in the text, however, based on the provided context it can be noted that Rab proteins are GTPases, but since it is not explicitly stated for Rab4, this should not be included.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "MAP4",
+  "geneID": "17758",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MAP4 is a microtubule-associated protein that can stabilize microtubules in vitro.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "myoblast differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A muscle-specific isoform of MAP4 is expressed upon differentiation in a pattern very similar to that of MURF during myoblast differentiation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "MAP4 is a microtubule-associated protein, indicating its association with the cytoskeleton.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule stabilization",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Overexpression of full- or partial-length MAP4 stabilizes microtubules.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

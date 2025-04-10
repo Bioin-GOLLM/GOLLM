@@ -1,0 +1,24 @@
+{
+  "gene": "IL-1beta converting enzyme",
+  "geneID": "834",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1beta converting enzyme overexpression triggers apoptosis.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cysteine-type peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-1beta converting enzyme is known for its role in processing IL-1beta, implying peptidase activity.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

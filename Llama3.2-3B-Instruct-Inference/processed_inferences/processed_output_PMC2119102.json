@@ -1,0 +1,64 @@
+[
+  {
+    "gene": "interleukin 5",
+    "geneID": "3567",
+    "go_data": [
+      {
+        "term": "eosinophil differentiation",
+        "go_id": "GO:0030222",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Human interleukin 5 (IL-5) plays an important role in proliferation and differentiation of human eosinophils.",
+        "reference(s)": [
+          "PMC2119102"
+        ]
+      },
+      {
+        "term": "eosinophil activation",
+        "go_id": "GO:0043307",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Human interleukin 5 (IL-5) plays an important role in proliferation and differentiation of human eosinophils.",
+        "reference(s)": [
+          "PMC2119102"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-5 binds to its receptor with high affinity, allowing signal transduction and enabling cellular responses.",
+        "reference(s)": [
+          "PMC2119102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-3",
+    "geneID": "16187",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-3 is mentioned in the context of cell lines that are dependent on it, implying it has cytokine activity.",
+        "reference(s)": [
+          "PMC2119102"
+        ]
+      },
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The murine IL-3-dependent cell line FDC-P1 proliferates in response to an alternative stimulus, implying IL-3's role in cell proliferation.",
+        "reference(s)": [
+          "PMC2119102"
+        ]
+      }
+    ]
+  }
+]

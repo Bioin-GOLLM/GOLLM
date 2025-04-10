@@ -1,0 +1,1130 @@
+[
+  {
+    "gene": "B7-DC",
+    "geneID": "80380",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC costimulates much greater levels of IFN-gamma production than B7.1.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC participates in different immune responses than the defined B7.1/2 pathways.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7-DC is expressed on the surface of dendritic cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7-DC binds to PD-1, a receptor for B7-H1/PD-L1.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC expression is highly restricted to DCs.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7-DC",
+    "geneID": "58205",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC costimulates T cell proliferation more efficiently than B7.1 and induces a distinct pattern of lymphokine secretion.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC is a critical regulator of both natural and vaccine-induced immune responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7-DC has a transmembrane domain.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7-DC binds to PD-1, a receptor for B7-H1/PD-L1.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC is selectively expressed in DCs.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD28",
+    "geneID": "12487",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 costimulates T cell proliferation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface receptor signaling pathway",
+        "go_id": "GO:0007166",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 is a receptor that binds B7.1/2.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 is involved in T cell proliferation and lymphokine secretion.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a cell surface receptor, CD28 is located in the plasma membrane.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7-H1",
+    "geneID": "60533",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-H1/PD-L1 costimulates T cell proliferation and cytokine release at lower concentrations of anti-CD3.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "Expression of B7-H1/PD-L1 is broadly distributed on multiple hematopoietic and nonhematopoietic tissues, raising interesting questions as to their relative role in immune response regulation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7-H1/PD-L1 is a member of the B7 family and binds to the PD-1 receptor, implying it is located on the cell surface.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7-H1/PD-L1 binds the PD-1 receptor.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7.1",
+    "geneID": "12519",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.1 costimulates T cell proliferation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7.1 is a cell surface molecule that interacts with CD28 and CTLA-4.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.1 is involved in the immune response through its interaction with T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "interferon gamma",
+    "geneID": "15978",
+    "go_data": [
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC costimulates T cell proliferation and induces interferon gamma production.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Interferon gamma is a lymphokine produced by T cells in response to B7-DC costimulation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Interferon gamma is a cytokine that is strongly costimulated by B7-DC.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-10",
+    "geneID": "16153",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-10 production is mentioned in the context of lymphokine secretion and T cell responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell proliferation",
+        "go_id": "GO:0042098",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-10 production is compared to interferon gamma production in the context of T cell proliferation costimulation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cytokine production",
+        "go_id": "GO:0001816",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-10 is referred to as a lymphokine, implying it is a product of immune cell activity.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TCR",
+    "geneID": "328483",
+    "go_data": [
+      {
+        "term": "antigen binding",
+        "go_id": "GO:0003823",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TCR engages with peptide-MHC ligand.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TCR-dependent stimulus is required for T cell activation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TCR is engaged by peptide-MHC ligand on the surface of T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7.1",
+    "geneID": "941",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.1 delivers a positive costimulatory signal to T cells through CD28.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.1 binds to CD28 and CTLA-4 on T cells, delivering costimulatory and counterregulatory signals.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.1 is involved in the activation of T cells and the regulation of the immune response.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7.1 is expressed on the surface of antigen-presenting cells, including B cells, macrophages, and dendritic cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7.1 binds to CD28 and CTLA-4 on T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7.2",
+    "geneID": "942",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.2 delivers costimulatory signals to T cells by binding CD28.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7.2 is part of the B7 family, which delivers important costimulatory signals in the immune response.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7.2 is expressed on the surface of bone marrow-derived APCs, including B cells, macrophages, and DCs.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7.2 binds to CD28 and CTLA-4 on T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD28",
+    "geneID": "940",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 delivers a positive costimulatory signal, enhancing the production of certain lymphokines such as IL-2.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 binds to B7.1 and B7.2 on antigen-presenting cells, delivering a costimulatory signal to T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 is involved in the regulation of T cell activation and the production of lymphokines.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "CD28 binds to B7.1 and B7.2, delivering a costimulatory signal to T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CD28 is a cell surface receptor that interacts with B7 molecules on antigen-presenting cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-2",
+    "geneID": "3558",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor superfamily cytokine production",
+        "go_id": "GO:0071706",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 delivers a positive costimulatory signal, enhancing the production of certain lymphokines such as IL-2.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD28 delivers a positive costimulatory signal, enhancing the production of IL-2 via transcriptional and posttranscriptional mechanisms during T cell activation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CTLA-4",
+    "geneID": "1493",
+    "go_data": [
+      {
+        "term": "negative regulation of T cell activation",
+        "go_id": "GO:0050868",
+        "relationship": [
+          "negatively_regulates GO:0042110"
+        ],
+        "namespace": "biological_process",
+        "justification": "CTLA-4 delivers a counterregulatory negative signal that antagonizes CD28 signals and thereby limits the magnitude and duration of T cell activation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell receptor signaling pathway",
+        "go_id": "GO:0050852",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CTLA-4 is a negative regulator of T-lymphocyte activation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CTLA-4 is a receptor for the B cell activation antigen B7.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "CTLA-4 is a receptor for the B cell activation antigen B7.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7h",
+    "geneID": "50723",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7h/B7RP-1 binds the inducible costimulator (ICOS) receptor, which is induced upon T cell activation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "Expression of B7h is broadly distributed on multiple hematopoietic and nonhematopoietic tissues, raising questions as to its relative role in immune response regulation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7h is a costimulatory homolog of B7.1 and B7.2, which are cell surface molecules.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7h/B7RP-1 binds the inducible costimulator (ICOS) receptor.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IFN-gamma",
+    "geneID": "3458",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IFN-gamma production is stimulated by B7-DC in T cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IFN-gamma production is costimulated by B7-DC, indicating a role in immune response.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "go_id": "GO:0005576",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a cytokine, IFN-gamma is secreted into the extracellular region.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GM-CSF",
+    "geneID": "1437",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "GM-CSF is used to culture DCs, implying it has a role in promoting cell growth or differentiation, a characteristic of cytokines.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GM-CSF is involved in the growth and differentiation of DCs, which are crucial components of the immune system.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "M-CSF",
+    "geneID": "12977",
+    "go_data": [
+      {
+        "term": "macrophage differentiation",
+        "go_id": "GO:0030225",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "M-CSF macrophages were used as the driver population, indicating M-CSF's role in macrophage differentiation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "M-CSF is a cytokine involved in the differentiation and survival of macrophages.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "F4/80",
+    "geneID": "13733",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "F4/80 is expressed at higher levels on the macrophage population, which is part of the immune system.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "macrophage differentiation",
+        "go_id": "GO:0030225",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "F4/80 is a marker for macrophages, indicating its involvement in macrophage differentiation.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "F4/80 is expressed on the surface of macrophages.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD16",
+    "geneID": "2214",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD16 is expressed on macrophage population, which is part of the immune system.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD16 is expressed at higher levels on the macrophage population, implying it is located on the cell surface.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B7.2",
+    "geneID": "12524",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "RENCA cells do not express any endogenous B7.1, B7.2, suggesting B7.2 is typically located on the cell surface.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PD-L1",
+    "geneID": "29126",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-H1/PD-L1 co-stimulates T-cell proliferation",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "B7-H1/PD-L1 is a member of the B7 family, which are cell surface proteins",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B7-H1/PD-L1 binds to PD-1, a receptor",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-4",
+    "geneID": "3565",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-4 is used in combination with GM-CSF to grow human DCs, indicating its role as a cytokine.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-4 production is mentioned in the context of costimulation of T cells and driving Th1 or Th2 responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD3",
+    "geneID": "12503",
+    "go_data": [
+      {
+        "term": "T cell receptor signaling pathway",
+        "go_id": "GO:0050852",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD3 is involved in T cell stimulation assays with anti-CD3.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PD-1 is expressed subsequent to T cell activation with high concentrations of anti-CD3.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD3 is targeted by plate-bound anti-CD3 in T cell stimulation assays.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD4",
+    "geneID": "12504",
+    "go_data": [
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD4 cells are costimulated by B7-DC to proliferate in response to anti-CD3.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD4 cells are involved in T cell proliferative responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD4 is a cell surface molecule.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DC",
+    "geneID": "13179",
+    "go_data": [
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC is mentioned in the context of T cell costimulatory activity of B7 family molecules.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "tumor necrosis factor superfamily cytokine production",
+        "go_id": "GO:0071706",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B7-DC is related to lymphokine production, one of the most important mediators of T cell function.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-10",
+    "geneID": "3586",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-10 production is mentioned in the context of immune responses, specifically Th1 and Th2 responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "IL-10 is implicated in the differentiation of regulatory T cells that inhibit Th1 effector responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-10 is mentioned as a cytokine whose production is costimulated or not costimulated by different B7 family members.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-12",
+    "geneID": "3593",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-12 is mentioned in the context of Th1 responses, suggesting its involvement in immune response.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-12 is implied to have a role in costimulating IFN-gamma production, indicating cytokine activity.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD8alpha",
+    "geneID": "925",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD8alpha+ DCs induce strong Th1 responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD8alpha",
+    "geneID": "12525",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD8alpha+ DCs induce strong Th1 responses.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell differentiation",
+        "go_id": "GO:0030217",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD8alpha+ and CD8alpha- subclasses of dendritic cells direct the development of distinct T helper cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD8alpha is expressed on a subset of dendritic cells.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CTLA-4",
+    "geneID": "12477",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CTLA-4 is mentioned in the context of T cell proliferation and cytokine release, indicating its involvement in immune system processes.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "cell surface receptor signaling pathway",
+        "go_id": "GO:0007166",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CTLA-4 is described as interacting with its ligands, implying involvement in cell surface receptor signaling pathways.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "T cell costimulation",
+        "go_id": "GO:0031295",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CTLA-4 is compared to a situation with CD28, which is known for T cell costimulation, suggesting CTLA-4's involvement in this process.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a receptor, CTLA-4 is expected to be located in the plasma membrane, where it can interact with its ligands.",
+        "reference(s)": [
+          "PMC2193370"
+        ]
+      }
+    ]
+  }
+]

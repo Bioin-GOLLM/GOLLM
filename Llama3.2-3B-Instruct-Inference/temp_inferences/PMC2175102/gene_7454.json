@@ -1,0 +1,60 @@
+{
+  "gene": "Wiskott-Aldrich syndrome protein",
+  "geneID": "7454",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "WASP regulates the actin cytoskeleton through the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin nucleation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "WASP family proteins interact with the Arp2/3 complex to activate its actin nucleation activity.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "WASP is involved in linking TCR signaling to the remodeling of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP localizes exclusively to the lamellipodia of spreading platelets, where WASP is also found.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "WASP-deficient mice reveal a role for WASP in T but not B cell activation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "WASP forms a complex with Fyb/SLAP, SLP-76, and Nck in T cells.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

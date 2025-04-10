@@ -1,0 +1,33 @@
+{
+  "gene": "Kif3A",
+  "geneID": "16568",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Kif3A is a microtubule-binding protein.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "determination of left/right symmetry",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kif3A is involved in left-right asymmetry and laterality determination.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cilium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Kif3A is associated with embryonic ciliary morphogenesis.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

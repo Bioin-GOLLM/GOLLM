@@ -1,0 +1,24 @@
+{
+  "gene": "Mid1",
+  "geneID": "4281",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Mid1 associates with microtubules and leads to a stable population of microtubules resistant to depolymerization.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mid1 is incorporated into an undulating reticular network in the cytoplasm.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

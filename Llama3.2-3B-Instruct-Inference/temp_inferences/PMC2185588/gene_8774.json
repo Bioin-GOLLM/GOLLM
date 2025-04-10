@@ -1,0 +1,24 @@
+{
+  "gene": "soluble NSF attachment protein",
+  "geneID": "8774",
+  "go_data": [
+    {
+      "term": "SNAP receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Soluble NSF attachment protein is referred to as SNAP, which is known to interact with SNARE receptors.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Soluble NSF attachment protein is associated with NSF, which is known for its role in vesicle fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

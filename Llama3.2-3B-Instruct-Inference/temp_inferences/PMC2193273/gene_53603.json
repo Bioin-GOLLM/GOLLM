@@ -1,0 +1,51 @@
+{
+  "gene": "thymic stromal lymphopoietin",
+  "geneID": "53603",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TSLP supports the growth of pre-B cell colonies in vitro and has comitogenic activity for fetal thymocytes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSLP administration enhances B cell production and increases B cell numbers, and may support B cell development to a more mature stage than IL-7.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "lymphoid progenitor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSLP supports B lymphopoiesis from early progenitor cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSLP stimulates the proliferation of pre-B cells and thymocytes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TSLP is a secreted protein that acts as a cytokine.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

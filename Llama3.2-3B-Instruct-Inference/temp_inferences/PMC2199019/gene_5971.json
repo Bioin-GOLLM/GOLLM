@@ -1,0 +1,15 @@
+{
+  "gene": "Rel-B",
+  "geneID": "5971",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rel-B is highly expressed by mature dendritic cells (DCs).",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

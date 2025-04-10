@@ -1,0 +1,33 @@
+{
+  "gene": "myogenin",
+  "geneID": "4656",
+  "go_data": [
+    {
+      "term": "skeletal muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myogenin expression was detected during myoblast differentiation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "myogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MURF ablation inhibited the expression of the early myogenic regulatory factors, MyoD and myogenin, suggesting myogenin's role in myogenesis.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myogenin is an essential myogenic regulator for the initiation of myogenesis in vitro.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

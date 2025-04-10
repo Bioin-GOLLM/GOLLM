@@ -1,0 +1,24 @@
+{
+  "gene": "p110beta",
+  "geneID": "5291",
+  "go_data": [
+    {
+      "term": "phosphatidylinositol 3-kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p110beta is referred to as the PI-3-kinase catalytic subunit.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Reactions were carried out in the absence of cytosol or an ATP-regenerating system, implying p110beta's involvement in cytosolic processes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "URA3",
+  "geneID": "856692",
+  "go_data": [
+    {
+      "term": "orotate phosphoribosyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "URA3 is involved in the pyrimidine biosynthesis pathway.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "pyrimidine nucleotide biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "URA3 is required for uracil biosynthesis.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "URA3 is a cytosolic enzyme involved in pyrimidine biosynthesis.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

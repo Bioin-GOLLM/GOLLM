@@ -1,0 +1,24 @@
+{
+  "gene": "CTLA-4",
+  "geneID": "1493",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is expressed on GCDCs which induce strong stimulation of CD4+ T cells, suggesting involvement in immune system process.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CTLA-4 is a ligand expressed on the surface of GCDCs.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

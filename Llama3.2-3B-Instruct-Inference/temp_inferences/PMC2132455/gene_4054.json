@@ -1,0 +1,24 @@
+{
+  "gene": "LTBP-3",
+  "geneID": "4054",
+  "go_data": [
+    {
+      "term": "transforming growth factor beta binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-3 is a latent transforming growth factor-beta binding protein.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, however, based on the provided text, no explicit evidence supports this term, thus: None found.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

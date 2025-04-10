@@ -1,0 +1,33 @@
+{
+  "gene": "TGFbeta2",
+  "geneID": "7042",
+  "go_data": [
+    {
+      "term": "endocardial cushion formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta2 is preferentially distributed within the cushion tissue-forming region in the heart.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cellular response to growth factor stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta2 restored the inhibitory effect of Ab39 at a concentration of 2 ng/ml.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "external myocardium",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "TGFbeta2 is expressed in the external myocardium.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

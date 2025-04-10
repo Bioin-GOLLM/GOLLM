@@ -1,0 +1,15 @@
+{
+  "gene": "-coil",
+  "geneID": "12812",
+  "go_data": [
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, insufficient information provided in the text.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

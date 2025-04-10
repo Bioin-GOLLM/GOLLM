@@ -1,0 +1,51 @@
+{
+  "gene": "ActA",
+  "geneID": "47223626",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ActA binds to actin and promotes actin nucleation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin filament organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ActA is required for the initiation of actin polymerization at the bacterial surface leading to intracellular motility.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cellular component organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ActA is involved in the organization of the actin comet tail formation by Listeria monocytogenes.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "bacterial type III secretion system",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ActA is a surface protein of Listeria monocytogenes.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ActA binds to Ena/VASP proteins through its EVH1-binding sites.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

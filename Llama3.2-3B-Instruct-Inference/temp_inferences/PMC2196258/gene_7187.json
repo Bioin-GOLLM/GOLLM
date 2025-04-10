@@ -1,0 +1,24 @@
+{
+  "gene": "TRAF3",
+  "geneID": "7187",
+  "go_data": [
+    {
+      "term": "negative regulation of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF3 inhibits TRAF2-mediated NF-kappaB activation when overexpressed in 293 cells.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "CD40 signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF3 was shown to be involved in the regulation of CD40-mediated CD23 upregulation in B cells.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

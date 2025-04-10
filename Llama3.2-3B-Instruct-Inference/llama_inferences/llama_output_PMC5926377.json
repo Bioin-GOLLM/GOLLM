@@ -1,0 +1,41 @@
+[
+  {
+    "gene": "CA11",
+    "geneID": "770",
+    "go_data": [
+      {
+        "term": "stomach",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "CA11 was a novel gene expressed predominantly in the stomach.",
+        "reference(s)": [
+          "PMC5926377"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GC36",
+    "geneID": "10753",
+    "go_data": [
+      {
+        "term": "digestive tract development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GC36 is homologous to the digestive tract-specific calpain gene, nCL-4.",
+        "reference(s)": [
+          "PMC5926377"
+        ]
+      },
+      {
+        "term": "stomach",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "GC36 was expressed predominantly in the stomach.",
+        "reference(s)": [
+          "PMC5926377"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1035 @@
+[
+  {
+    "gene": "CD40",
+    "geneID": "958",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40 is activated in germinal center dendritic cells, which play a pivotal role in germinal center reactions and induce strong stimulation of CD4+ T cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40 activation results in the induction of decysin, a novel metalloproteinase, in response to T cell signals.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "germinal center formation",
+        "go_id": "GO:0002467",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40-activated germinal center dendritic cells express high levels of the message in the germinal center.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "CD40 is activated by anti-CD40 antibody G28-5, indicating its role as a receptor.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tumor necrosis factor alpha",
+    "geneID": "7124",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The gene is strongly expressed in mature DC and in situ can be localized to germinal centers, suggesting a role in immune response.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "germinal center formation",
+        "go_id": "GO:0002467",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "In situ hybridization showed distinct expression of this gene in the germinal center.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GM-CSF and TNF-alpha cooperate in the generation of dendritic Langerhans cells",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Decysin may represent a key molecule in regulating DC-T cell interaction.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TNF-alpha is a cytokine that plays a role in immune response.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FasL",
+    "geneID": "356",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FasL may play an important role in dendritic cell function and their interactions with germinal center T cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FasL is implicated in interactions between dendritic cells and T cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "protein processing",
+        "go_id": "GO:0016485",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Metalloproteinases have been implicated in FasL processing.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "germinal center formation",
+        "go_id": "GO:0002467",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "In situ hybridization showed distinct expression of FasL in the germinal center.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD4",
+    "geneID": "920",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD4+ T cells are stimulated by DCs, indicating CD4's involvement in immune response.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD4+ T cells are strongly stimulated by DCs, indicating CD4's role in T cell activation.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD4 is expressed on the surface of T cells and DCs.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD11c",
+    "geneID": "3687",
+    "go_data": [
+      {
+        "term": "antigen processing and presentation",
+        "go_id": "GO:0019882",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DCs, which express CD11c, are characterized by a high capacity for antigen capture and processing.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD11c is expressed on dendritic cells (DCs), which are part of the immune system.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD11c is a cell surface molecule expressed on DCs.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "lymph node development",
+        "go_id": "GO:0048535",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD11c+ DCs migrate into the T cell areas of regional lymph nodes.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CTLA-4",
+    "geneID": "1493",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CTLA-4 is expressed on GCDCs which induce strong stimulation of CD4+ T cells, suggesting involvement in immune system process.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CTLA-4 is a ligand expressed on the surface of GCDCs.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD34",
+    "geneID": "947",
+    "go_data": [
+      {
+        "term": "cell differentiation",
+        "go_id": "GO:0030154",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD34 is expressed in progenitor cell-generated DCs, indicating involvement in cell differentiation.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD34 progenitor cell-generated DCs express the gene, suggesting involvement in dendritic cell differentiation.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "primitive hemopoiesis",
+        "go_id": "GO:0060215",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD34 is expressed in CD34 progenitor cell-generated DCs, indicating it is part of hematopoietic progenitor cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "decysin",
+    "geneID": "27299",
+    "go_data": [
+      {
+        "term": "metalloendopeptidase activity",
+        "go_id": "GO:0004222",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Decysin is a member of the metalloproteinase family and contains a zinc-chelating catalytic site.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "proteolysis",
+        "go_id": "GO:0006508",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "As a metalloproteinase, decysin is involved in proteolysis.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "go_id": "GO:0005576",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Decysin lacks a transmembrane domain and is therefore potentially secreted.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Decysin is induced or upregulated during DC maturation.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Decysin is selectively expressed by DC and upregulated by signals of activated T cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "furin",
+    "geneID": "5045",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "go_id": "GO:0008233",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Furin is mentioned as part of the metalloproteinase family, indicating its role in peptidase activity.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "zinc ion binding",
+        "go_id": "GO:0008270",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The presence of zinc-chelating histidine residues in the zinc binding pocket suggests furin's ability to bind zinc ions.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "protein processing",
+        "go_id": "GO:0016485",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The mention of a furin cleavage site implies its involvement in protein processing.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD83",
+    "geneID": "9308",
+    "go_data": [
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD83 is expressed together with decysin in response to CD40 ligation and a mixed lymphocyte reaction, indicating its involvement in dendritic cell differentiation.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD83 is a marker of mature dendritic cells and is upregulated by signals of activated T cells, indicating its involvement in immune system processes.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a marker of mature dendritic cells, CD83 is likely located on the cell surface.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD34",
+    "geneID": "12490",
+    "go_data": [
+      {
+        "term": "hematopoietic progenitor cell differentiation",
+        "go_id": "GO:0002244",
+        "relationship": [
+          "part_of GO:0030097"
+        ],
+        "namespace": "biological_process",
+        "justification": "CD34+ hematopoietic progenitors differentiate along two independent dendritic cell pathways.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell differentiation",
+        "go_id": "GO:0030154",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD34+ hematopoietic progenitors differentiate along two independent dendritic cell pathways.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "hematopoietic stem cell differentiation",
+        "go_id": "GO:0060218",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD34 is a marker for hematopoietic progenitor cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta actin",
+    "geneID": "728378",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Beta actin is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DEC205",
+    "geneID": "4065",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DEC205 is expressed by mature dendritic cells (DCs), which are key components of the immune system.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DEC205 is highly expressed by mature DCs, indicating its specific expression in these cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rel-B",
+    "geneID": "5971",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Rel-B is highly expressed by mature dendritic cells (DCs).",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "fibrinogen",
+    "geneID": "2244",
+    "go_data": [
+      {
+        "term": "blood coagulation",
+        "go_id": "GO:0007596",
+        "relationship": [
+          "part_of GO:0042060"
+        ],
+        "namespace": "biological_process",
+        "justification": "Fibrinogen is involved in blood coagulation as it interacts with beta3alphav integrin.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "go_id": "GO:0031012",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Fibrinogen is found in the extracellular matrix as it is secreted into the bloodstream and plays a role in clot formation.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGF-alpha",
+    "geneID": "7039",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "go_id": "GO:0050839",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TGF-alpha is shed by metalloproteases, implying interaction with cell surface receptors.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "regulation of immune system process",
+        "go_id": "GO:0002682",
+        "relationship": [
+          "regulates GO:0002376"
+        ],
+        "namespace": "biological_process",
+        "justification": "TGF-alpha is implicated in the immune system, as it is shed along with other molecules critical to immune function.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TGF-alpha is shed from the cell surface by metalloproteases.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p60",
+    "geneID": "8878",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor activity",
+        "go_id": "GO:0005031",
+        "relationship": [
+          "has_part GO:0043120",
+          "part_of GO:0033209"
+        ],
+        "namespace": "molecular_function",
+        "justification": "p60 is referred to as the p60 TNF receptor, indicating its role in tumor necrosis factor signaling.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The p60 TNF receptor is shed from the cell surface by metalloproteases, indicating its initial location.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "p60 TNF receptor plays a critical role in the immune system, as indicated by its shedding and the impact on immune response.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p80",
+    "geneID": "8161",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "p80 is mentioned alongside other molecules that play critical roles in the immune system.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface receptor signaling pathway",
+        "go_id": "GO:0007166",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "p80 is a TNF receptor, which is involved in cell surface receptor signaling pathways.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a receptor, p80 is likely located in the plasma membrane.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD30",
+    "geneID": "943",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD30 is described as being shed from the cell surface by metalloproteases.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD30 is mentioned alongside other molecules that play critical roles in the immune system.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "protein processing",
+        "go_id": "GO:0016485",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Metalloproteinases have been implicated in the processing of CD30.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "bounding membrane of organelle",
+        "go_id": "GO:0098588",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CD30 is described as a membrane-bound molecule that is processed by metalloproteinases.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "L-selectin",
+    "geneID": "6402",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "go_id": "GO:0007155",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "L-selectin plays a critical role in the immune system, which involves cell adhesion.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a molecule that can be shed from the cell surface, L-selectin is located in the plasma membrane.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "L-selectin can interact with other molecules, implying it has protein binding capabilities.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TACE",
+    "geneID": "6868",
+    "go_data": [
+      {
+        "term": "membrane protein proteolysis",
+        "go_id": "GO:0033619",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TACE processes membrane-bound TNF-alpha precursors.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "metalloendopeptidase activity",
+        "go_id": "GO:0004222",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TACE is a disintegrin metalloproteinase that processes TNF-alpha.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TACE processes membrane-bound TNF-alpha precursors, indicating it is located at the cell surface.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ADAM-10",
+    "geneID": "102",
+    "go_data": [
+      {
+        "term": "membrane protein proteolysis",
+        "go_id": "GO:0033619",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ADAM-10 has been shown to process membrane-bound TNF-alpha precursors.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ADAM-10 processes membrane-bound TNF-alpha precursors, indicating it is located at the cell surface.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "metalloendopeptidase activity",
+        "go_id": "GO:0004222",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ADAM-10 is a disintegrin metalloproteinase, which implies it has metalloendopeptidase activity.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFR",
+    "geneID": "7132",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor activity",
+        "go_id": "GO:0005031",
+        "relationship": [
+          "has_part GO:0043120",
+          "part_of GO:0033209"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TNFR is mentioned in the context of processing by metalloproteinases, implying its role as a receptor for TNF-alpha.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TNFR is described as a membrane-bound molecule that can be processed by metalloproteinases.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "TNFR is implicated in DC-T cell interactions, which are crucial for the regulation of immune responses.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-6R",
+    "geneID": "3570",
+    "go_data": [
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IL-6R is mentioned in the context of being processed, implying it functions as a receptor.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD40 ligand",
+    "geneID": "959",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40 ligand promotes maturation of immature DCs.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40 ligand interacts with DCs to induce decysin expression.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "go_id": "GO:0042110",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40 ligand is known to be involved in the activation of T cells.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GM-CSF",
+    "geneID": "1437",
+    "go_data": [
+      {
+        "term": "dendritic cell differentiation",
+        "go_id": "GO:0097028",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GM-CSF and TNF-alpha cooperate in the generation of dendritic Langerhans cells",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "hematopoietic progenitor cell differentiation",
+        "go_id": "GO:0002244",
+        "relationship": [
+          "part_of GO:0030097"
+        ],
+        "namespace": "biological_process",
+        "justification": "CD34+ hematopoietic progenitors from human cord blood differentiate along two independent dendritic cell pathways in response to GM-CSF+TNF-alpha",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "GM-CSF is used in combination with other factors to induce differentiation of various cell types, implying it has cytokine activity",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-4",
+    "geneID": "3565",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-4 is used in the maturation of different types of immature DCs.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-4 is a cytokine used in the differentiation of monocyte-derived DCs.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD40",
+    "geneID": "21939",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "go_id": "GO:0006915",
+        "relationship": [
+          "has_part GO:0097190",
+          "has_part GO:0097194"
+        ],
+        "namespace": "biological_process",
+        "justification": "Fas ligation induces apoptosis of CD40-activated human B lymphocytes",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CD40 is activated in human B lymphocytes",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-2",
+    "geneID": "16183",
+    "go_data": [
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-2 is expressed in Tac-positive malignant lymphomas, suggesting involvement in immune response.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-2 is a cytokine, implying it has cytokine activity.",
+        "reference(s)": [
+          "PMC2199019"
+        ]
+      }
+    ]
+  }
+]

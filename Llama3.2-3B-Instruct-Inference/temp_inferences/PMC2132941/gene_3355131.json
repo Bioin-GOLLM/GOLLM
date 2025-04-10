@@ -1,0 +1,24 @@
+{
+  "gene": "concertina",
+  "geneID": "3355131",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Concertina functions downstream of the Drosophila G12/G13 homologue in regulating Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "Rho guanyl-nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Concertina is related to the regulation of Rho by G12/G13, which is mediated by a Rho-specific GEF, DRhoGEF2.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

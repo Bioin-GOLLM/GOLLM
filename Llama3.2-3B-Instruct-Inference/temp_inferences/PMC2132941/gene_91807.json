@@ -1,0 +1,51 @@
+{
+  "gene": "MLCK",
+  "geneID": "91807",
+  "go_data": [
+    {
+      "term": "calcium-dependent protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MLCK is activated by Ca2+/calmodulin.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "myosin light chain kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MLCK phosphorylates MLC.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "smooth muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MLCK leads to actin-myosin interaction resulting in actin-stimulated ATPase activity of smooth muscle myosin.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MLCK is involved in MLC phosphorylation in platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MLCK is activated by cytosolic Ca2+.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

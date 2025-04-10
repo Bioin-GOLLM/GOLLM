@@ -1,0 +1,51 @@
+{
+  "gene": "TRADD",
+  "geneID": "8717",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRADD recruits FADD/MORT1 or TRAF2 to the TNFR1 complex to initiate the signal transduction required for cell death or NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "death domain binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRADD interacts with Fas(CD95) or TNFR1 via interaction of the death domains.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRADD is involved in signal transduction pathways initiated by TNFR1, which is a membrane receptor, implying TRADD's location in the cytoplasm.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRADD overexpression mediates NF-kappaB activation in 293 cells.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRADD recruits FADD/MORT1 or TRAF2 to the TNFR1 complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

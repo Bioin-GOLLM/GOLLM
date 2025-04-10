@@ -1,0 +1,24 @@
+{
+  "gene": "Eotaxin",
+  "geneID": "6356",
+  "go_data": [
+    {
+      "term": "eosinophil chemotaxis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Eotaxin is tested for its acute effects on eosinophils.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Eotaxin is incubated with eosinophils, implying it is outside the cells.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

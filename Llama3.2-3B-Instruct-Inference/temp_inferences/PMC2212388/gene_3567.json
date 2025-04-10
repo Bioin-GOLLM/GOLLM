@@ -1,0 +1,42 @@
+{
+  "gene": "interleukin 5",
+  "geneID": "3567",
+  "go_data": [
+    {
+      "term": "eosinophil differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-5 culture leads to changes in surface expression of alphad integrin on eosinophils.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-5 enhances the in vitro adhesion of human eosinophils in a leucocyte integrin (CD11/18)-dependent manner.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-5 may play a role in cytokine-primed eosinophil recruitment to inflammatory sites.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-5 is a cytokine that affects eosinophil behavior and function.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

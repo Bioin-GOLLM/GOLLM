@@ -1,0 +1,33 @@
+{
+  "gene": "vascular cell adhesion molecule 1",
+  "geneID": "22329",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vascular cell adhesion molecule 1 is expressed and functions in cell adhesion.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vascular cell adhesion molecule 1 participates in cell-cell adhesion.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "integral component of plasma membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "As a cell adhesion molecule, vascular cell adhesion molecule 1 is part of the plasma membrane.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

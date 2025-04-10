@@ -1,0 +1,33 @@
+{
+  "gene": "p25",
+  "geneID": "280968",
+  "go_data": [
+    {
+      "term": "cargo binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p62, p27, and p25 contain predicted cargo-binding motifs.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "dynactin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p25 is a subunit of the dynactin complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p25 is part of the dynactin complex which is involved in cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

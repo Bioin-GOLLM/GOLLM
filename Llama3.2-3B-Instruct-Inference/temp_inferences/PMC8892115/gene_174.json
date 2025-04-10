@@ -1,0 +1,15 @@
+{
+  "gene": "alpha-fetoprotein",
+  "geneID": "174",
+  "go_data": [
+    {
+      "term": "liver",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Alpha-fetoprotein is mainly produced in the liver.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "CD11a",
+  "geneID": "3683",
+  "go_data": [
+    {
+      "term": "leukocyte migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11a is part of the beta2 family of integrins, which are expressed on most leukocytes and play a role in cell adhesion and migration.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11a, as a beta2 integrin, is involved in cell adhesion, as blocking mAbs to CD18, alphad, or alpha4 integrins reduced adhesion to background levels.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin alpha subunit binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD11a is an alpha subunit of the beta2 integrin family and binds to beta2 integrins to form a functional complex.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD11a is expressed on the surface of leukocytes, including eosinophils, neutrophils, and basophils, indicating its location in the plasma membrane.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

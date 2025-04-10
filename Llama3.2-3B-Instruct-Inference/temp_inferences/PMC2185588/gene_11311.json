@@ -1,0 +1,42 @@
+{
+  "gene": "Vps45p",
+  "geneID": "11311",
+  "go_data": [
+    {
+      "term": "vesicle docking",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vac1p coordinates Rab and phosphatidylinositol 3-kinase signaling in Vps45p-dependent vesicle docking/fusion at the endosome",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein complex binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vps45p interacts with Tlg2p, in addition to Pep12p",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vac1p coordinates Rab and phosphatidylinositol 3-kinase signaling in Vps45p-dependent vesicle docking/fusion at the endosome",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vacuole",
+      "relationship": "involved_in",
+      "namespace": "cellular_component",
+      "justification": "Vps45p is required for the consumption of vacuole-targeted, post-Golgi transport vesicles",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

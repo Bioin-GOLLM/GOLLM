@@ -1,0 +1,65 @@
+[
+  {
+    "gene": "J chain",
+    "geneID": "3512",
+    "go_data": [
+      {
+        "term": "B cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "J chain expression is analyzed in human cell lines corresponding to pre-B and B lymphocytes.",
+        "reference(s)": [
+          "PMC2189063"
+        ]
+      },
+      {
+        "term": "polyadenylation-dependent mRNA cleavage",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The J chain gene has nine candidate polyadenylation signals downstream of the C-terminal coding block.",
+        "reference(s)": [
+          "PMC2189063"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "J chain protein is secreted as part of immunoglobulins, implying it is initially located in the cytoplasm.",
+        "reference(s)": [
+          "PMC2189063"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IgA",
+    "geneID": "973",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IgA is mentioned in the context of B cell lines and B lymphocyte differentiation, implying involvement in immune response.",
+        "reference(s)": [
+          "PMC2189063"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "J chain",
+    "geneID": "16069",
+    "go_data": [
+      {
+        "term": "polyadenylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The sequence 40 basepairs 5' of the functional polyadenylation site is identified.",
+        "reference(s)": [
+          "PMC2189063"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "gene": "TNFR",
+  "geneID": "7132",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor-activated receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFR is activated by tumor necrosis factor.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "tumor necrosis factor-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNFR is involved in signaling pathway mediated by tumor necrosis factor.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

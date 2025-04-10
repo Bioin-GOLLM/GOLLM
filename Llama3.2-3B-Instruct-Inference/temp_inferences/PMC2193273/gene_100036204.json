@@ -1,0 +1,33 @@
+{
+  "gene": "G-CSF",
+  "geneID": "100036204",
+  "go_data": [
+    {
+      "term": "granulocyte colony-stimulating factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "G-CSF stimulates the growth of granulocyte colonies.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "myeloid cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "G-CSF is involved in the growth of myeloid colonies.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "G-CSF is added to cultures, implying it is secreted.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

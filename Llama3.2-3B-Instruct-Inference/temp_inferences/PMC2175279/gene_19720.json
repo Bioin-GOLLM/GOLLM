@@ -1,0 +1,24 @@
+{
+  "gene": "Rfp",
+  "geneID": "19720",
+  "go_data": [
+    {
+      "term": "protein-protein interactions",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Involvement of the rfp tripartite motif in protein-protein interactions",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Association with microtubules suggests cytoplasmic location",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

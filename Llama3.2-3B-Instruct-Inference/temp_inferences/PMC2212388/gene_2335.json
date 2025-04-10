@@ -1,0 +1,33 @@
+{
+  "gene": "fibronectin",
+  "geneID": "2335",
+  "go_data": [
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Fibronectin can bind to integrins, such as alpha4 integrins and alphadbeta2 integrin.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fibronectin mediates human eosinophil interaction through integrin alpha4beta7.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Fibronectin is a component of the extracellular matrix, interacting with cell surface adhesion glycoproteins.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

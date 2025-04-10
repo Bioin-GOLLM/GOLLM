@@ -1,0 +1,24 @@
+{
+  "gene": "vinculin",
+  "geneID": "7414",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vinculin was predominantly detected in focal contacts.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vinculin was also found in lamellipodia as described previously.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

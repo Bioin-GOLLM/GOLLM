@@ -1,0 +1,42 @@
+{
+  "gene": "LTBP-1",
+  "geneID": "4052",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTBP-1 is associated with the extracellular matrix via the targeting mechanism involving LTBP-1 of the large latent TGFbeta1 complex.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-1 contains structural motifs involved in protein-protein interaction, and is thought to target the large latent TGFbeta complex on the surface of certain cells.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "TGF-beta binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-1 is a latent TGFbeta-binding protein that binds to TGF-beta.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cellular extravascular extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTBP-1 is involved in the formation of extracellular microfibrils and is associated with the microfibrillar component of elastic fibers.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

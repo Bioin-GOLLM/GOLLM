@@ -1,0 +1,24 @@
+{
+  "gene": "IL-4",
+  "geneID": "3565",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-4 is used in the maturation of different types of immature DCs.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-4 is a cytokine used in the differentiation of monocyte-derived DCs.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

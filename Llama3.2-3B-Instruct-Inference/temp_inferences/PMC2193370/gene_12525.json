@@ -1,0 +1,33 @@
+{
+  "gene": "CD8alpha",
+  "geneID": "12525",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8alpha+ DCs induce strong Th1 responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8alpha+ and CD8alpha- subclasses of dendritic cells direct the development of distinct T helper cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "dendritic cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD8alpha is expressed on a subset of dendritic cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

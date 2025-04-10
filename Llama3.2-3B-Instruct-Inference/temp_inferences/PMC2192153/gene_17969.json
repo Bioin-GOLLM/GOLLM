@@ -1,0 +1,42 @@
+{
+  "gene": "p47phox",
+  "geneID": "17969",
+  "go_data": [
+    {
+      "term": "defense response to bacterium",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p47phox-/- mice produced no superoxide and killed staphylococci ineffectively, indicating a role in bacterial defense.",
+      "reference(s)": [
+        "PMC2192153"
+      ]
+    },
+    {
+      "term": "defense response to fungus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p47phox-/- mice developed recurrent life-threatening bacterial and fungal infections, indicating a role in fungal defense.",
+      "reference(s)": [
+        "PMC2192153"
+      ]
+    },
+    {
+      "term": "NADPH oxidase complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p47phox is part of the phagocyte NADPH oxidase complex, which plays a critical role in mammalian host defense.",
+      "reference(s)": [
+        "PMC2192153"
+      ]
+    },
+    {
+      "term": "superoxide metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Leukocytes from p47phox-/- mice produced no superoxide, indicating a role for p47phox in superoxide production.",
+      "reference(s)": [
+        "PMC2192153"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "EGF",
+  "geneID": "13645",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Nephronectin, which contains EGF-like repeats, is described as an extracellular matrix protein.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nephronectin, with its RGD sequence and EGF-like repeats, binds to integrins such as alpha8beta1, suggesting involvement in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EGF (Epidermal Growth Factor) is known for its role as a growth factor, although this specific text does not directly mention EGF's growth factor activity, the presence of EGF-like repeats in nephronectin implies a potential role in growth factor activity for EGF itself.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

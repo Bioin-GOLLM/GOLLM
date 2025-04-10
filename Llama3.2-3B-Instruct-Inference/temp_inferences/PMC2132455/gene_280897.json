@@ -1,0 +1,24 @@
+{
+  "gene": "plasmin",
+  "geneID": "280897",
+  "go_data": [
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "plasmin activates the latent TGFbeta complex by proteolysis",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "serine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "plasmin is involved in proteolysis of the latent complex",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

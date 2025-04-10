@@ -1,0 +1,33 @@
+{
+  "gene": "Manganese superoxide dismutase",
+  "geneID": "6648",
+  "go_data": [
+    {
+      "term": "antioxidant activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Manganese superoxide dismutase contributes to the survival of cells by potentially reducing oxidative stress.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Manganese superoxide dismutase is induced by NF-kappaB activation and contributes to the survival of cells during cell proliferation/growth.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "negative regulation of apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Manganese superoxide dismutase acts as an antiapoptotic protein, contributing to cell survival.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

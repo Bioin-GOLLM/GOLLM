@@ -1,0 +1,24 @@
+{
+  "gene": "CD23",
+  "geneID": "2208",
+  "go_data": [
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD23 upregulation is mediated by CD40, a cell surface receptor.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "B cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "CD23 upregulation occurs in B cells.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

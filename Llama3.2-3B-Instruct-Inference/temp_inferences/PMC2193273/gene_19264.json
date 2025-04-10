@@ -1,0 +1,33 @@
+{
+  "gene": "B220",
+  "geneID": "19264",
+  "go_data": [
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSLP stimulates B cell precursor growth and induces the expansion of B220+BP-1+ pre-B cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "hematopoietic progenitor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B220 is expressed on the surface of B cell precursors and is involved in their differentiation.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "bone marrow",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "B220+ cells are found in the bone marrow and are involved in B cell development.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

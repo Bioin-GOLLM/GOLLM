@@ -1,0 +1,51 @@
+{
+  "gene": "TRAF-interacting Protein",
+  "geneID": "10293",
+  "go_data": [
+    {
+      "term": "negative regulation of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIP inhibits TRAF2-mediated NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRIP interacts with TRAF1 and TRAF2.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRIP is recruited to the receptor-TRAF signaling complex in the cytoplasm.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "receptor signaling complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TRIP is a component of the receptor-TRAF complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "regulation of signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIP regulates the receptor-mediated signal transduction by inhibiting TRAF2-mediated NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

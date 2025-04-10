@@ -1,0 +1,24 @@
+{
+  "gene": "iNOS",
+  "geneID": "18126",
+  "go_data": [
+    {
+      "term": "nitric oxide biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "iNOS is described as inducible nitric oxide synthase, indicating its role in producing nitric oxide.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "macrophage effector function",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The activation of iNOS is described as a critical macrophage effector.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

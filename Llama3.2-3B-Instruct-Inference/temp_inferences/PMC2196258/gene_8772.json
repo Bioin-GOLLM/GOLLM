@@ -1,0 +1,42 @@
+{
+  "gene": "FADD",
+  "geneID": "8772",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FADD interacts with the death domain of Fas and initiates apoptosis through signal transduction.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "death-inducing signaling complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "FADD is recruited to the death-inducing signaling complex to initiate cell death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein-protein interactions",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FADD interacts with the death domain of Fas and other proteins like TRADD and RIP to initiate signal transduction.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FADD initiates apoptosis through its interaction with the death domain of Fas.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

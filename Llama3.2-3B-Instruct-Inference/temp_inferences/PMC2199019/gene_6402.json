@@ -1,0 +1,33 @@
+{
+  "gene": "L-selectin",
+  "geneID": "6402",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "L-selectin plays a critical role in the immune system, which involves cell adhesion.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a molecule that can be shed from the cell surface, L-selectin is located in the plasma membrane.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "L-selectin can interact with other molecules, implying it has protein binding capabilities.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

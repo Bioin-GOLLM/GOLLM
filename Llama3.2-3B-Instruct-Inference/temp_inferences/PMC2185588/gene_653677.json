@@ -1,0 +1,42 @@
+{
+  "gene": "Sec1",
+  "geneID": "653677",
+  "go_data": [
+    {
+      "term": "negative regulation of SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Sec1-like proteins are thought to serve as negative regulators of SNARE pairing by sequestering syntaxin molecules.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Sec1p binds to SNARE complexes and concentrates at sites of secretion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Yeast Vps45p is a Sec1p-like protein required for the consumption of vacuole-targeted, post-Golgi transport vesicles.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Sec1p binds to SNARE complexes and concentrates at sites of secretion, implying a cytoplasmic location.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

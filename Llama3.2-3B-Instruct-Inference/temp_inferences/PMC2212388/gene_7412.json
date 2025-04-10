@@ -1,0 +1,42 @@
+{
+  "gene": "Vascular Cell Adhesion Molecule 1",
+  "geneID": "7412",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VCAM-1 binds to alphadbeta2 integrin and alpha4 integrin.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "leukocyte adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VCAM-1 is involved in the adhesion of eosinophils to vascular endothelium.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VCAM-1 is expressed on the surface of vascular endothelial cells.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VCAM-1 is involved in the recruitment of eosinophils to sites of allergic inflammation.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

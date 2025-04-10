@@ -1,0 +1,33 @@
+{
+  "gene": "TRX2",
+  "geneID": "56551",
+  "go_data": [
+    {
+      "term": "thioredoxin activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The active site for thioreductase activity (WCGPC) is completely conserved, suggesting thioredoxin-like activity.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The action of PNGase in the cytosol may be regulated by redox potential, implying TRX2 could be located in the cytosol.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The action of PNGase in the nucleus may be regulated by redox potential, implying TRX2 could be located in the nucleus.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CD4",
+  "geneID": "920",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4+ T cells are stimulated by DCs, indicating CD4's involvement in immune response.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4+ T cells are strongly stimulated by DCs, indicating CD4's role in T cell activation.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD4 is expressed on the surface of T cells and DCs.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

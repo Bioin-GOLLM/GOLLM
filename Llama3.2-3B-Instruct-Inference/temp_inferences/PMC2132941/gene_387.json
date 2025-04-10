@@ -1,0 +1,42 @@
+{
+  "gene": "RhoA",
+  "geneID": "387",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RhoA is a small GTPase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Our data clearly support a role of Rho in early platelet activation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "regulation of integrin activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RhoA and the function of platelet integrin alphaIIbbeta3",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "cAMP-induced morphological changes are counteracted by the activated RhoA small GTPase",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

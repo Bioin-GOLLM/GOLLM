@@ -1,0 +1,15 @@
+{
+  "gene": "syk",
+  "geneID": "20963",
+  "go_data": [
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The text mentions 'tyrosine kinase pp72(syk)' indicating syk has protein tyrosine kinase activity.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

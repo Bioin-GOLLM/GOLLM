@@ -1,0 +1,15 @@
+{
+  "gene": "myc",
+  "geneID": "4609",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "myc-tagged Scar1 fragments were overexpressed in T cells, implying myc can bind to other proteins.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

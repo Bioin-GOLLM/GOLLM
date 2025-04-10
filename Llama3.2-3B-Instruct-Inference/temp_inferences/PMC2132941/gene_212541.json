@@ -1,0 +1,33 @@
+{
+  "gene": "Rho",
+  "geneID": "212541",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rho is activated as part of G12/G13 signaling, implying GTP binding activity.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho/Rho-kinase-mediated myosin light chain phosphorylation is involved in the platelet shape change response.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rho/Rho-kinase-mediated phosphorylation of myosin light chain suggests involvement with the cytoskeleton.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

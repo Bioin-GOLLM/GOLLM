@@ -1,0 +1,42 @@
+{
+  "gene": "Scar1",
+  "geneID": "8936",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Scar1 regulates the actin cytoskeleton through the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin nucleation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpression of Scar1 blocks Listeria-induced actin tail formation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "Arp2/3 complex binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Scar1 regulates the actin cytoskeleton through the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Scar1 regulates the actin cytoskeleton through the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

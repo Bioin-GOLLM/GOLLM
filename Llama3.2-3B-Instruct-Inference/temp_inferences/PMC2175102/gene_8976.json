@@ -1,0 +1,33 @@
+{
+  "gene": "N-WASP",
+  "geneID": "8976",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "N-WASP plays a key role in the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "N-WASP is involved in a signal transduction pathway to link cell activation to the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin filament binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The interaction between N-WASP and the Arp2/3 complex links Cdc42-dependent signals to actin assembly.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

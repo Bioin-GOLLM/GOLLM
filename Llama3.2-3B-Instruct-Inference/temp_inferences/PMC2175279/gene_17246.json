@@ -1,0 +1,24 @@
+{
+  "gene": "MDM2",
+  "geneID": "17246",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MDM2 is mentioned alongside other RBCC proteins, implying interaction with other proteins.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cellular response to stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Oncogenic properties of MDM2 when fused to other factors suggest involvement in response to cellular stimuli.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

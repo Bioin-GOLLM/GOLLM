@@ -1,0 +1,33 @@
+{
+  "gene": "SRF",
+  "geneID": "6722",
+  "go_data": [
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of gene expression by SRF, a regulator of myogenesis, is linked to changes in actin dynamics and cytoskeletal reorganization.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "transcriptional activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cooperative transcriptional activation by serum response factor and the high mobility group protein SSRP1.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Expression of the serum response factor gene is regulated by serum response factor binding sites, implying nuclear localization.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "gene": "cytokeratin 4",
+    "geneID": "3851",
+    "go_data": [
+      {
+        "term": "intermediate filament",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Cytokeratin 4 is a type II cytokeratin, which is a component of intermediate filaments.",
+        "reference(s)": [
+          "PMC2114990"
+        ]
+      },
+      {
+        "term": "epithelial cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cytokeratin 4 is expressed during the development of stratified epithelia and in adult epithelial tissues, indicating its involvement in epithelial cell differentiation.",
+        "reference(s)": [
+          "PMC2114990"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "As an intermediate filament protein, cytokeratin 4 is part of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2114990"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cytokeratin 15",
+    "geneID": "3866",
+    "go_data": [
+      {
+        "term": "intermediate filament",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Cytokeratin 15 is a type I cytokeratin, which is a component of intermediate filaments.",
+        "reference(s)": [
+          "PMC2114990"
+        ]
+      },
+      {
+        "term": "epithelial cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cytokeratin 15 is expressed during the development of stratified epithelia and in adult epithelial tissues, indicating its involvement in epithelial cell differentiation.",
+        "reference(s)": [
+          "PMC2114990"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "As a cytokeratin, cytokeratin 15 is a component of the cytoskeleton, providing structural support to epithelial cells.",
+        "reference(s)": [
+          "PMC2114990"
+        ]
+      }
+    ]
+  }
+]

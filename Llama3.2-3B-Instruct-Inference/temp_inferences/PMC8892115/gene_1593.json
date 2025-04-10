@@ -1,0 +1,42 @@
+{
+  "gene": "CYP27A1",
+  "geneID": "1593",
+  "go_data": [
+    {
+      "term": "vitamin D metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CYP27A1 hydroxylates vitamin D2 and D3 at carbon 25 resulting in the production of 25(OH)D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CYP27A1 is a mitochondrial cytochrome P450.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "monooxygenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP27A1 hydroxylates vitamin D2 and D3, which is a monooxygenase reaction.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "liver",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "CYP27A1 is active in the liver where it hydroxylates vitamin D2 and D3.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

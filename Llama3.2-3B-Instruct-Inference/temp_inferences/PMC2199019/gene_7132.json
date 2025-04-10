@@ -1,0 +1,33 @@
+{
+  "gene": "TNFR",
+  "geneID": "7132",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor-activated receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFR is mentioned in the context of processing by metalloproteinases, implying its role as a receptor for TNF-alpha.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TNFR is described as a membrane-bound molecule that can be processed by metalloproteinases.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNFR is implicated in DC-T cell interactions, which are crucial for the regulation of immune responses.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

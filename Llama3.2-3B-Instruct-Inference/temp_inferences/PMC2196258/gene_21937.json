@@ -1,0 +1,24 @@
+{
+  "gene": "TNFR",
+  "geneID": "21937",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor-activated receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFR is part of the TNFR-TRAF signaling complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "lymphocyte proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The expression of components of the TNFR-TRAF signaling complex was upregulated upon lymphocyte proliferation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

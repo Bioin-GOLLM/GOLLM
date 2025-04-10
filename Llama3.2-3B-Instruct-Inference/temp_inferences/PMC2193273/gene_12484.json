@@ -1,0 +1,33 @@
+{
+  "gene": "HSA",
+  "geneID": "12484",
+  "go_data": [
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HSA expression is analyzed in B cell precursors and its expression changes are observed in relation to other cell surface markers.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HSA expression is used to define the transition from pro-B cell to pre-B cell, indicating its role in B cell development.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a cell surface marker, HSA is expressed on the surface of B cell precursors.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

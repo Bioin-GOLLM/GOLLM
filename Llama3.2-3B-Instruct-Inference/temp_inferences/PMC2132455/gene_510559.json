@@ -1,0 +1,51 @@
+{
+  "gene": "LTBP-1",
+  "geneID": "510559",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The large latent form of TGFbeta associates with the extracellular matrix covalently via LTBP-1.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "transforming growth factor beta binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-1 is associated with the LAP via a disulfide bond and the mature TGFbeta is noncovalently associated with the LAP.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "endothelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTBP-1 was required for the generation of the endothelial-mesenchymal transformation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The antibody specific for LTBP-1 (Ab39) inhibited the mesenchymal cell invasion into the collagen gel lattice in culture.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-1 binds to the LAP and the mature TGFbeta.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

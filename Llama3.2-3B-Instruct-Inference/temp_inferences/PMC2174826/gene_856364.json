@@ -1,0 +1,15 @@
+{
+  "gene": "spo11",
+  "geneID": "856364",
+  "go_data": [
+    {
+      "term": "meiotic recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The rationale behind the spo11 mapping technique takes advantage of the fact that there is no meiotic recombination in spo11 diploids.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

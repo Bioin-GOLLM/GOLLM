@@ -1,0 +1,33 @@
+{
+  "gene": "Rho",
+  "geneID": "38168",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rho is activated, implying it has GTP binding activity.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rho activation is regulated by G12/G13, indicating involvement in cell signaling.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a GTPase, Rho is typically located in the cytosol.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

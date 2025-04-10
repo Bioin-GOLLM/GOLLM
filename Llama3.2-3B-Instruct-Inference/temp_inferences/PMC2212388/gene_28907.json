@@ -1,0 +1,42 @@
+{
+  "gene": "beta2",
+  "geneID": "28907",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "alphadbeta2 can function as a ligand for vascular cell adhesion molecule 1 (VCAM-1).",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "leukocyte migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The interaction of alphadbeta2 with VCAM-1 is a mechanism by which selective recruitment of eosinophils into sites of allergic inflammation occurs.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "beta2 is part of the alphadbeta2 integrin complex.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The beta2 family of integrins, including alphadbeta2, are expressed on the surface of most leukocytes.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

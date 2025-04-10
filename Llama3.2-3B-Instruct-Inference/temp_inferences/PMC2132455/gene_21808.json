@@ -1,0 +1,24 @@
+{
+  "gene": "TGFbeta2",
+  "geneID": "21808",
+  "go_data": [
+    {
+      "term": "endothelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta2 led to some recovery of the inhibitory effect of Ab39 against endothelial-mesenchymal transformation in an AV explant culture.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "mesenchyme development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A combined administration of antibodies (anti-TGFbeta1 and anti-TGFbeta3) to an AV explant culture inhibited mesenchymal formation, implying TGFbeta2's role in mesenchyme development.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "Evl",
+  "geneID": "51466",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Evl is essential for actin remodeling upon T cell stimulation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell-cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Evl localizes at the interface between T cells and anti-CD3-coated beads.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP, which interacts with Evl, is restricted to lamellipodia of spreading platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

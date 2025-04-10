@@ -1,0 +1,24 @@
+{
+  "gene": "CD40",
+  "geneID": "21939",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fas ligation induces apoptosis of CD40-activated human B lymphocytes",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 is activated in human B lymphocytes",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

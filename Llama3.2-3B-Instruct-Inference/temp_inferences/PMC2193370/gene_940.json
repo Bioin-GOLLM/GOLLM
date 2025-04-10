@@ -1,0 +1,51 @@
+{
+  "gene": "CD28",
+  "geneID": "940",
+  "go_data": [
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD28 delivers a positive costimulatory signal, enhancing the production of certain lymphokines such as IL-2.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD28 binds to B7.1 and B7.2 on antigen-presenting cells, delivering a costimulatory signal to T cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD28 is involved in the regulation of T cell activation and the production of lymphokines.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD28 binds to B7.1 and B7.2, delivering a costimulatory signal to T cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD28 is a cell surface receptor that interacts with B7 molecules on antigen-presenting cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

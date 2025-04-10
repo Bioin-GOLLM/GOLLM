@@ -1,0 +1,42 @@
+{
+  "gene": "FcR gamma",
+  "geneID": "2207",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FcR gamma-chain is associated with a signaling pathway similar to the TCR-signaling cascade in platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "immunoglobulin receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FcR gamma is part of the Fc receptor complex, which binds immunoglobulins.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FcR gamma-chain is involved in collagen-induced activation of platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FcR gamma-chain is part of a pathway that links cell activation to the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

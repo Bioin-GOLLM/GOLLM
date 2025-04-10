@@ -1,0 +1,33 @@
+{
+  "gene": "Tenascin-X",
+  "geneID": "7148",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Tenascin-X is described as a novel extracellular matrix protein.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "ubiquitous expression in human fetal tissues",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RNase protection experiments show that the TN-X transcript is expressed ubiquitously in human fetal tissues.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "skeletal muscle development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The greatest expression of TN-X transcript is in fetal skeletal muscle.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    }
+  ]
+}

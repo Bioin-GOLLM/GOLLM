@@ -1,0 +1,42 @@
+{
+  "gene": "PNG1",
+  "geneID": "856009",
+  "go_data": [
+    {
+      "term": "peptide-N-glycosidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNG1 encodes a soluble protein with peptide:N-glycanase activity.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "proteasome-dependent protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The deletion of PNG1 results in a delay in the degradation of a mutant carboxypeptidase Y protein, suggesting involvement in ER-associated proteasomal degradation.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Subcellular localization studies indicate that Png1p is found in the nucleus, with a lower level occurring in the cytoplasm.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Subcellular localization studies indicate that Png1p is found in the cytosol, with a higher concentration in the nucleus.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

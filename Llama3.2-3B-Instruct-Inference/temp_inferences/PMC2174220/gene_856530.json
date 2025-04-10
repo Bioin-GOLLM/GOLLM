@@ -1,0 +1,24 @@
+{
+  "gene": "Arp1",
+  "geneID": "856530",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Arp1 is associated with actin and other cytoskeletal proteins in a complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Arp1 is found in a complex with actin, suggesting it binds to actin.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

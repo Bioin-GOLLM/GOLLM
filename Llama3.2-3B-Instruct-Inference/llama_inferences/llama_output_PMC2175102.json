@@ -1,0 +1,1223 @@
+[
+  {
+    "gene": "Fyn-Binding Protein",
+    "geneID": "2533",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fyb/SLAP is involved in linking TCR signaling to the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fyb/SLAP is a component of the TCR signaling complex and interacts with SLP-76, Nck, and WASP.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP localizes exclusively to lamellipodia of spreading platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell-cell junction",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP accumulates at the T cell-beads attachment sites.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP is part of a complex that contains WASP, SLP-76, and Nck.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Fyb/SLAP has a region with high homology to the known G-actin binding site of thymosin beta4.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fyb/SLAP is involved in a signaling pathway that links TCR signaling to the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Slap",
+    "geneID": "6503",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fyb/SLAP localizes at the interface between T cells and anti-CD3-coated beads, where it colocalizes with F-actin, and is involved in actin remodeling upon T cell stimulation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP localizes exclusively to lamellipodia of spreading platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fyb/SLAP is a component of the TCR signaling complex and is involved in linking TCR signaling to actin remodeling.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP is present in a protein complex with WASP, SLP-76, and Nck in activated T cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ena/Vasodilator-Stimulated Phosphoprotein",
+    "geneID": "7408",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ena/VASP family proteins are essential for the remodeling of the actin cytoskeleton upon TCR ligation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VASP binds in vitro to F-actin through the EVH2 domain.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ena/VASP proteins appear to retard cell motility in Rat2 fibroblasts and in cells derived from Mena/VASP double knockout mice.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "focal adhesion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VASP localizes at focal adhesions in cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP and VASP localize at the front of spreading lamellipodia.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "regulation of actin filament length",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ena/VASP family proteins function as regulators of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "T Cell Receptor",
+    "geneID": "6962",
+    "go_data": [
+      {
+        "term": "cell-cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "T cell receptor (TCR)-driven activation of helper T cells induces a rapid polarization of their cytoskeleton towards bound antigen presenting cells (APCs).",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton reorganization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Engagement of the TCR leads to the formation of actin-supported signaling, which serves to coordinate downstream events such as proliferation and secretion of cytokines.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TCR engagement induces the activation of tyrosine kinases (Fyn, Lck, and ZAP-70), leading to the phosphorylation of several components of the T cell signal transduction pathway.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "T cell receptor (TCR) is a membrane-bound receptor on T cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Fyn",
+    "geneID": "2534",
+    "go_data": [
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TCR engagement induces the activation of tyrosine kinases (Fyn, Lck, and ZAP-70).",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FYN-T-FYB-SLP-76 interactions define a T-cell receptor zeta/CD3-mediated tyrosine phosphorylation pathway.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "T cell receptor (TCR)-driven activation of helper T cells induces a rapid polarization of their cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A signaling pathway similar to the TCR-signaling cascade mediates collagen-induced activation of platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TCR engagement induces the activation of tyrosine kinases (Fyn, Lck, and ZAP-70), leading to the phosphorylation of several components.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SLP-76",
+    "geneID": "3937",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLP-76 is part of a complex that links TCR signaling to the remodeling of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLP-76 is tyrosine phosphorylated in response to T cell stimulation and is part of a complex that forms upon T cell activation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein tyrosine kinase signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLP-76 is a substrate of the T cell antigen receptor-stimulated protein tyrosine kinases.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SLP-76 is part of a complex that interacts with the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLP-76 is involved in T cell receptor-mediated signaling.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD3",
+    "geneID": "12503",
+    "go_data": [
+      {
+        "term": "T cell receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD3 is part of the T cell receptor complex and is involved in T cell receptor signaling pathway.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD3 is a component of the T cell receptor complex, which is located on the cell surface.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton reorganization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD3-mediated stimulation leads to actin reorganization in T cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD3 is part of the T cell receptor complex, which plays a crucial role in the immune response.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Evl",
+    "geneID": "51466",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Evl is essential for actin remodeling upon T cell stimulation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell-cell junction",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Evl localizes at the interface between T cells and anti-CD3-coated beads.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP, which interacts with Evl, is restricted to lamellipodia of spreading platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Wiskott-Aldrich syndrome protein",
+    "geneID": "7454",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "WASP regulates the actin cytoskeleton through the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin nucleation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "WASP family proteins interact with the Arp2/3 complex to activate its actin nucleation activity.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "WASP is involved in linking TCR signaling to the remodeling of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fyb/SLAP localizes exclusively to the lamellipodia of spreading platelets, where WASP is also found.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "WASP-deficient mice reveal a role for WASP in T but not B cell activation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "WASP forms a complex with Fyb/SLAP, SLP-76, and Nck in T cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Nck",
+    "geneID": "4690",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nck is part of a complex that links TCR signaling to the remodeling of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nck is involved in T cell signaling and the formation of a complex that brings together Ena/VASP family proteins and the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Nck is part of a complex composed of Fyb/SLAP, SLP-76, Nck, and WASP in T cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "SH3 domain binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The SH3 domain of Nck binds to WASP.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Nck is involved in actin cytoskeleton organization and cell signaling, which occur in the cytoplasm.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Lck",
+    "geneID": "3932",
+    "go_data": [
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Lck is described as a tyrosine kinase that is activated upon TCR engagement.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Lck is activated in response to TCR ligation, indicating its involvement in the T cell receptor signaling pathway.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "regulation of Rho protein signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Lck regulates Vav activation of members of the Rho family of GTPases.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ZAP-70",
+    "geneID": "7535",
+    "go_data": [
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ZAP-70 is described as a tyrosine kinase that is activated upon TCR engagement.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "T cell receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ZAP-70 is activated in response to TCR ligation, indicating its involvement in the T cell receptor signaling pathway.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cellular response to stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ZAP-70 is activated in response to TCR engagement, which is a cellular response to a stimulus.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LAT",
+    "geneID": "27040",
+    "go_data": [
+      {
+        "term": "T cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LAT is found in immunoprecipitates of SLP-76 only in activated T cells.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "membrane microdomain",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LAT palmitoylation is essential for membrane microdomain targeting.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "involved_in",
+        "namespace": "molecular_function",
+        "justification": "LAT undergoes tyrosine phosphorylation during T-cell activation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vav",
+    "geneID": "7409",
+    "go_data": [
+      {
+        "term": "Rho guanyl-nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Vav is a guanine nucleotide exchange factor for Rho GTPases.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vav is involved in signaling pathways that mediate cell activation, such as the TCR-signaling cascade and collagen-induced activation of platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vav colocalizes with F-actin, Ena/VASP proteins, WASP, and the Arp2/3 complex at the lamellipodia of spreading platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vav is involved in the reorganization of the actin cytoskeleton in activated T cells and platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vav is part of a signaling pathway that links cell activation to the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "guanine nucleotide exchange factor",
+    "geneID": "5923",
+    "go_data": [
+      {
+        "term": "Rho guanine nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "guanine nucleotide exchange factor for Rho GTPases",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-2",
+    "geneID": "3558",
+    "go_data": [
+      {
+        "term": "T cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-2 is upregulated in TCR-dependent changes in gene expression during T cell activation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-2 is a cytokine.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ActA",
+    "geneID": "47223626",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ActA binds to actin and promotes actin nucleation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin filament organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ActA is required for the initiation of actin polymerization at the bacterial surface leading to intracellular motility.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cellular component organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ActA is involved in the organization of the actin comet tail formation by Listeria monocytogenes.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "bacterial type III secretion system",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ActA is a surface protein of Listeria monocytogenes.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ActA binds to Ena/VASP proteins through its EVH1-binding sites.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Scar1",
+    "geneID": "8936",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Scar1 regulates the actin cytoskeleton through the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin nucleation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Overexpression of Scar1 blocks Listeria-induced actin tail formation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "Arp2/3 complex binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Scar1 regulates the actin cytoskeleton through the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Scar1 regulates the actin cytoskeleton through the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mena",
+    "geneID": "55740",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mena is implicated in the control of microfilament dynamics and required for neurulation and commissure formation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Mena is a relative of VASP and Drosophila Enabled, and is involved in actin-based motility of Listeria monocytogenes.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cell projection",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Mena is highly concentrated at the distal tips of growth cone filopodia.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "axon guidance",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Genetic analyses indicate that Mena and its Drosophila homologue Ena are required for axon guidance.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "zyxin",
+    "geneID": "7791",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Zyxin was predominantly detected in focal contacts.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Zyxin is associated with the cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Zyxin is an interactive LIM domain protein associated with the cytoskeleton, implying it binds to other proteins.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vinculin",
+    "geneID": "7414",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vinculin was predominantly detected in focal contacts.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "lamellipodium",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vinculin was also found in lamellipodia as described previously.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vinculin",
+    "geneID": "22330",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Vinculin is described as a cytoskeletal protein.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GST",
+    "geneID": "373156",
+    "go_data": [
+      {
+        "term": "glutathione transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GST stands for glutathione S-transferase.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SLAP2",
+    "geneID": "84174",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The COOH terminus of Fyb/SLAP interacts directly with VASP and Mena in vitro.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SLAP2 is found in human platelet extracts, which are cytoplasmic components.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "thymosin beta4",
+    "geneID": "7114",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "thymosin beta4 has a known G-actin binding site",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "dematin",
+    "geneID": "2039",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The dematin headpiece has a putative G-actin binding site.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Arp3",
+    "geneID": "10096",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Arp3 is part of the Arp2/3 complex, which is known to be involved in actin cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Arp3 is part of the Arp2/3 complex, which is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Scar",
+    "geneID": "6191",
+    "go_data": [
+      {
+        "term": "actin nucleation",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Scar, a WASp-related protein, activates nucleation of actin filaments by the Arp2/3 complex",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "regulation of actin filament organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Overexpression of ScarWA causes the loss of lamellipodia and stress fibers in Swiss3T3 fibroblasts and J774 macrophages",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Scar is involved in actin dynamics and organization",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p21Arc",
+    "geneID": "10094",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p21Arc subunit of the Arp2/3 complex is involved in actin tail formation and lamellipodia formation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "Arp2/3 complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p21Arc is a subunit of the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p21Arc subunit of the Arp2/3 complex is involved in stress fibers formation.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myc",
+    "geneID": "4609",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "myc-tagged Scar1 fragments were overexpressed in T cells, implying myc can bind to other proteins.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Lyn",
+    "geneID": "4067",
+    "go_data": [
+      {
+        "term": "cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Lyn is associated with a signaling pathway that mediates collagen-induced activation of platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton reorganization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Lyn is part of a signal transduction pathway that links cell activation to the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Lyn is involved in the signaling pathway that mediates collagen-induced activation of platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FcR gamma",
+    "geneID": "2207",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FcR gamma-chain is associated with a signaling pathway similar to the TCR-signaling cascade in platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "immunoglobulin receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FcR gamma is part of the Fc receptor complex, which binds immunoglobulins.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FcR gamma-chain is involved in collagen-induced activation of platelets.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FcR gamma-chain is part of a pathway that links cell activation to the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "N-WASP",
+    "geneID": "8976",
+    "go_data": [
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "N-WASP plays a key role in the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "N-WASP is involved in a signal transduction pathway to link cell activation to the reorganization of the actin cytoskeleton.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin filament binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The interaction between N-WASP and the Arp2/3 complex links Cdc42-dependent signals to actin assembly.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Cdc42",
+    "geneID": "998",
+    "go_data": [
+      {
+        "term": "cellular bud assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cdc42-dependent signals are linked to actin assembly.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cdc42-dependent signals are linked to actin assembly.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "Rho GTPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Cdc42 is implied to be a Rho GTPase based on its interaction with WASP family proteins.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Cdc42 interacts with cytosolic proteins such as WASP and the Arp2/3 complex.",
+        "reference(s)": [
+          "PMC2175102"
+        ]
+      }
+    ]
+  }
+]

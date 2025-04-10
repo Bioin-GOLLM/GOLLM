@@ -1,0 +1,42 @@
+{
+  "gene": "Murf",
+  "geneID": "58522",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MURF was contained in the microtubule pellet from muscle extracts and was absent from the supernatant, demonstrating a physical association between MURF and microtubules in vivo.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "skeletal muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Expression of MURF is required for skeletal myoblast differentiation and myotube fusion.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule stabilization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MURF stabilizes microtubules and is essential for the initiation of myogenesis and myotube formation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "MURF associates with microtubules in skeletal muscle cells.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

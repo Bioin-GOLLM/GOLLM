@@ -1,0 +1,33 @@
+{
+  "gene": "F4/80",
+  "geneID": "13733",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "F4/80 is expressed at higher levels on the macrophage population, which is part of the immune system.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "macrophage differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "F4/80 is a marker for macrophages, indicating its involvement in macrophage differentiation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "F4/80 is expressed on the surface of macrophages.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

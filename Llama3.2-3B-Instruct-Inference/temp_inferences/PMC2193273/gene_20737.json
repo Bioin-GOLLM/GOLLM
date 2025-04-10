@@ -1,0 +1,33 @@
+{
+  "gene": "CD43",
+  "geneID": "20737",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD43 is expressed on the surface of pre-pro-B cells and pro-B cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD43 expression is decreased as B cells transition from pro-B cell to pre-B cell.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "leukocyte cell surface binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD43, also known as leukosialin, is involved in cell surface binding.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

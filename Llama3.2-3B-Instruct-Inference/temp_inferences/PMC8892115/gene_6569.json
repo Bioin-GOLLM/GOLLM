@@ -1,0 +1,15 @@
+{
+  "gene": "SLC34A1",
+  "geneID": "6569",
+  "go_data": [
+    {
+      "term": "calcium ion homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations of the SLC34A1 gene are associated with hypercalcaemia.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

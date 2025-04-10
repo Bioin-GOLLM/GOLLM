@@ -1,0 +1,24 @@
+{
+  "gene": "thioredoxin",
+  "geneID": "7295",
+  "go_data": [
+    {
+      "term": "thioredoxin activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "thioredoxin has an active site for thioreductase activity (WCGPC)",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cell redox homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "thioredoxin has thioreductase activity",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

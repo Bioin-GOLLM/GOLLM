@@ -1,0 +1,92 @@
+[
+  {
+    "gene": "Pantophysin",
+    "geneID": "6856",
+    "go_data": [
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pantophysin defines constitutive transport vesicles and is detected at vesicles with a diameter of < 100 nm.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "cytoplasmic vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Pantophysin is detected at vesicles with a smooth surface and an electron-translucent interior in the cytoplasm.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pantophysin is a marker of small cytoplasmic transport vesicles independent of their content.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "synaptophysin",
+    "geneID": "6855",
+    "go_data": [
+      {
+        "term": "synaptic vesicle",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Synaptophysin is one of the major synaptic vesicle membrane proteins.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Synaptophysin is related to the transport of synaptic transmitter vesicles.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "integral component of membrane",
+        "relationship": "is_a",
+        "namespace": "cellular_component",
+        "justification": "Synaptophysin has four hydrophobic putative transmembrane domains.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "pantophysin",
+    "geneID": "19027",
+    "go_data": [
+      {
+        "term": "integral component of membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "The encoded polypeptide of pantophysin has four hydrophobic putative transmembrane domains.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The encoded polypeptide of pantophysin has four hydrophobic putative transmembrane domains, indicating it is a membrane protein.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      }
+    ]
+  }
+]

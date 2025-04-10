@@ -1,0 +1,51 @@
+{
+  "gene": "NSF",
+  "geneID": "4905",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NSF is involved in SNARE priming and pairing, a multistep process that must be coordinated with membrane tethering.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosomal membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EEA1 associates with oligomeric structures containing NSF and Rabaptin-5/Rabex-5 on endosomal membranes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "membrane fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cytosolic ATPases, p97 and NSF, are sufficient to mediate rapid membrane fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "Golgi to endosome transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A novel Sec18p/NSF-dependent complex is required for Golgi-to-endosome transport in yeast.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NSF is a cytosolic ATPase that mediates rapid membrane fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

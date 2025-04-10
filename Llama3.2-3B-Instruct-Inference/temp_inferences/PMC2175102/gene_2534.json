@@ -1,0 +1,51 @@
+{
+  "gene": "Fyn",
+  "geneID": "2534",
+  "go_data": [
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TCR engagement induces the activation of tyrosine kinases (Fyn, Lck, and ZAP-70).",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FYN-T-FYB-SLP-76 interactions define a T-cell receptor zeta/CD3-mediated tyrosine phosphorylation pathway.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "T cell receptor (TCR)-driven activation of helper T cells induces a rapid polarization of their cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A signaling pathway similar to the TCR-signaling cascade mediates collagen-induced activation of platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR engagement induces the activation of tyrosine kinases (Fyn, Lck, and ZAP-70), leading to the phosphorylation of several components.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

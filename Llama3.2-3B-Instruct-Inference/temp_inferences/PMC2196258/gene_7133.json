@@ -1,0 +1,51 @@
+{
+  "gene": "TNFR2",
+  "geneID": "7133",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor-activated receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFR2 is a receptor that interacts with TRAF proteins to activate signaling pathways.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNFR2 is involved in signal transduction through its interaction with TRAF proteins.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TNFR2 is a receptor located on the cell surface.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNFR2 signaling can lead to apoptosis.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNFR2 signaling can lead to NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

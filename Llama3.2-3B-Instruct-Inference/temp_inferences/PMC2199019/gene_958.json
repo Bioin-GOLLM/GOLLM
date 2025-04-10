@@ -1,0 +1,42 @@
+{
+  "gene": "CD40",
+  "geneID": "958",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 is activated in germinal center dendritic cells, which play a pivotal role in germinal center reactions and induce strong stimulation of CD4+ T cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 activation results in the induction of decysin, a novel metalloproteinase, in response to T cell signals.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "germinal center",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD40-activated germinal center dendritic cells express high levels of the message in the germinal center.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD40 is activated by anti-CD40 antibody G28-5, indicating its role as a receptor.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

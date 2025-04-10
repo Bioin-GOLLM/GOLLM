@@ -1,0 +1,33 @@
+{
+  "gene": "p21Arc",
+  "geneID": "10094",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p21Arc subunit of the Arp2/3 complex is involved in actin tail formation and lamellipodia formation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "Arp2/3 complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p21Arc is a subunit of the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p21Arc subunit of the Arp2/3 complex is involved in stress fibers formation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

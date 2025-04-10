@@ -1,0 +1,51 @@
+{
+  "gene": "Rabenosyn-5",
+  "geneID": "64145",
+  "go_data": [
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rabenosyn-5 is recruited to early endosomes in a phosphatidylinositol-3-kinase-dependent fashion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rabenosyn-5 interacts with hVPS45, a Sec1-like protein.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rabenosyn-5 is required for fusion of plasma membrane-derived CCVs with the early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosomal transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rabenosyn-5 is involved in trafficking of newly synthesized proteins through early endosomes en route to lysosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rabenosyn-5 colocalizes with EEA1 on early endosomes in A431 cells.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

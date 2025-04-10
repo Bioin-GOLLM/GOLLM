@@ -1,0 +1,33 @@
+{
+  "gene": "RAG 1",
+  "geneID": "19373",
+  "go_data": [
+    {
+      "term": "V(D)J recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RAG 1 is involved in the process of V(D)J recombination, which is crucial for the development of mature lymphocytes.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "lymphocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The absence of RAG 1 results in a lack of mature lymphocytes, indicating its role in lymphocyte differentiation.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune system development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RAG 1-deficient mice have a broadly deficient immune system, suggesting its involvement in immune system development.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

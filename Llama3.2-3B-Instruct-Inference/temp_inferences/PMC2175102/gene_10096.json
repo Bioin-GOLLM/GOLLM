@@ -1,0 +1,24 @@
+{
+  "gene": "Arp3",
+  "geneID": "10096",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Arp3 is part of the Arp2/3 complex, which is known to be involved in actin cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Arp3 is part of the Arp2/3 complex, which is a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

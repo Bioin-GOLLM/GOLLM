@@ -1,0 +1,33 @@
+{
+  "gene": "TGFbeta3",
+  "geneID": "21809",
+  "go_data": [
+    {
+      "term": "endothelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta3 is required for the generation of the endothelial-mesenchymal transformation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta3 leads to some recovery of the inhibitory effect of Ab39 against endothelial-mesenchymal transformation in an AV explant culture, indicating a role in cell differentiation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "signaling receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Neutralizing antibodies against TGFbeta3 were used, implying TGFbeta3 binds to a signaling receptor.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

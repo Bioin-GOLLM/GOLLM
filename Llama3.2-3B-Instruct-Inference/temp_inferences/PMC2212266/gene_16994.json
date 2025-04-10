@@ -1,0 +1,42 @@
+{
+  "gene": "LTbeta",
+  "geneID": "16994",
+  "go_data": [
+    {
+      "term": "lymphoid organ development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTbeta is essential for normal peripheral lymphoid development.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTbeta contributes to the promotion of inflammation by the upregulation of endothelial adhesion molecules.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cytotoxic signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTbeta is capable of delivering a cytotoxic signal to target cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTbeta is a cell surface molecule.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

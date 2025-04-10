@@ -1,0 +1,15 @@
+{
+  "gene": "thymosin beta4",
+  "geneID": "7114",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "thymosin beta4 has a known G-actin binding site",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "albumin",
+  "geneID": "213",
+  "go_data": [
+    {
+      "term": "vitamin D binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Albumin binds approximately 15% of all circulating vitamin D metabolites.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "blood circulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Albumin is found in the circulation, where it binds vitamin D metabolites.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Albumin is found in the serum, which is part of the extracellular region.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Albumin binds to vitamin D metabolites.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

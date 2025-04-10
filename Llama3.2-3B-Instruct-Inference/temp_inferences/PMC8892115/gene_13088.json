@@ -1,0 +1,33 @@
+{
+  "gene": "p16",
+  "geneID": "13088",
+  "go_data": [
+    {
+      "term": "negative regulation of cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p16 is involved in senescence pathways, which suggests its role in regulating cell proliferation.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cellular senescence",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p16 is activated in senescence pathways, indicating its involvement in cellular senescence.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "regulation of cellular aging",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p16 is part of the p16/p53-senescence signaling, which is inactivated by 1,25-Dihydroxyvitamin D to exert an antiaging role.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

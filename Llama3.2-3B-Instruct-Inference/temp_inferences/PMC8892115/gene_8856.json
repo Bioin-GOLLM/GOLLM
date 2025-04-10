@@ -1,0 +1,42 @@
+{
+  "gene": "pregnane X receptor",
+  "geneID": "8856",
+  "go_data": [
+    {
+      "term": "steroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The pregnane X receptor is a nuclear receptor that shares homologies with the VDR, a known steroid hormone receptor.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The pregnane X receptor is described as a nuclear receptor.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "regulation of vitamin D metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Binding of anti-epileptic drugs to the pregnane X receptor increases 25(OH)D catabolism by an induction of CYP3A4 and CYP24A1.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "drug binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The pregnane X receptor binds to anti-epileptic drugs such as phenobarbital, carbamazepine, phenytoin and valproate.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

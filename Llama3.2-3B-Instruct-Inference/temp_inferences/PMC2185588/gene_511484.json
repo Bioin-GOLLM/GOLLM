@@ -1,0 +1,51 @@
+{
+  "gene": "Rabenosyn-5",
+  "geneID": "511484",
+  "go_data": [
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rabenosyn-5 is targeted to early endosomes in a PI-3-kinase-dependent manner through a FYVE domain.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rabenosyn-5 is required for fusion of plasma membrane-derived CCVs with endosomes, and for homotypic endosome fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rabenosyn-5 interacts directly with Rab5 and associates with the Sec1 homologue hVPS45.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "lysosomal transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rabenosyn-5 overexpression inhibits cathepsin D processing, suggesting a role in transport of cathepsin D from the Golgi complex to lysosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "phosphatidylinositol-3-phosphate binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rabenosyn-5 contains a FYVE zinc finger, which binds to phosphatidylinositol-3-phosphate (PI-3P) on early endosomal membranes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

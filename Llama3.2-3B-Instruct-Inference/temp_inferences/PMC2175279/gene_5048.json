@@ -1,0 +1,33 @@
+{
+  "gene": "Lis1",
+  "geneID": "5048",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Lis1 is a microtubule-associated protein that binds and stabilizes microtubules.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule stabilization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Lis1 has been implicated in stabilizing microtubules, regulating microtubule dynamics.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "As a microtubule-associated protein, Lis1 is part of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

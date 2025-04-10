@@ -1,0 +1,24 @@
+{
+  "gene": "RANTES",
+  "geneID": "6352",
+  "go_data": [
+    {
+      "term": "chemokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RANTES is tested for its effects on eosinophils, indicating its role as a chemokine.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "eosinophil chemotaxis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RANTES is described as an eosinophil-active stimulus, suggesting its involvement in eosinophil chemotaxis.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

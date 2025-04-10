@@ -1,0 +1,51 @@
+{
+  "gene": "CYP27B1",
+  "geneID": "1594",
+  "go_data": [
+    {
+      "term": "vitamin D hydroxylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CYP27B1 attaches the second hydroxygroup in position 1 forming active 1,25-(OH)2D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "kidney",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Renal CYP27B1 attaches the second hydroxygroup in position 1 forming active 1,25-(OH)2D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "heme binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP27B1 is a cytochrome P450 enzyme, which typically binds heme.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "iron ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP27B1 is a cytochrome P450 enzyme, which typically binds iron ions via heme.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "monooxygenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP27B1 catalyzes the 1alpha-hydroxylation of 25(OH)D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

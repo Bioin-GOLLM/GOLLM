@@ -1,0 +1,33 @@
+{
+  "gene": "hVPS34",
+  "geneID": "5289",
+  "go_data": [
+    {
+      "term": "phosphatidylinositol 3-kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "hVPS34 is a specific phosphatidylinositol (PI)-3-kinase isoform that causes localized production of PI-3-phosphate (PI-3P).",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "hVPS34 is essential for the membrane recruitment of EEA1, which is involved in early endosome fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "hVPS34 is required for the fusion of plasma membrane-derived CCVs with early endosomes and homotypic early endosome fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

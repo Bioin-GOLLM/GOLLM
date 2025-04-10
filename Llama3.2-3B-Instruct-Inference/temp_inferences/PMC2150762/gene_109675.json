@@ -1,0 +1,51 @@
+{
+  "gene": "alpha8",
+  "geneID": "109675",
+  "go_data": [
+    {
+      "term": "cell-matrix adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The integrin alpha8beta1 is associated with nephronectin in a complex, suggesting a role in cell-matrix adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "ureteric bud development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The presence of alpha8beta1 promotes the development of the ureteric bud in a non-cell-autonomous manner.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "metanephric mesenchyme development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Alpha8 is expressed in the metanephric mesenchyme and is downregulated as the mesenchymal cells undergo epithelialization.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin alpha8beta1 complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "The integrin alpha8beta1 is a heterodimer of the extracellular domain of alpha8 and the extracellular domain beta1.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "nephronectin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The integrin alpha8beta1 and nephronectin are associated with each other in vivo, suggesting a binding interaction.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

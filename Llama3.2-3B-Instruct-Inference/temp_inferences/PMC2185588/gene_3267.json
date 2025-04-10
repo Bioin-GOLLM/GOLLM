@@ -1,0 +1,51 @@
+{
+  "gene": "Rab",
+  "geneID": "3267",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rab GTPases have been identified to regulate diverse functions associated with membrane trafficking.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vesicle formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rab GTPases have been demonstrated to regulate vesicle formation.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endomembrane system",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Different members of the Rab GTPase family have been identified to localize to distinct compartments of the endomembrane system.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "membrane docking",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rab effectors mediate initial docking of vesicles to their target compartment.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "cytoskeletal network",
+      "relationship": "interacts_with",
+      "namespace": "cellular_component",
+      "justification": "Rab GTPases have been implicated in the regulation of organelle association with, or movement upon, cytoskeletal networks within eukaryotic cells.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

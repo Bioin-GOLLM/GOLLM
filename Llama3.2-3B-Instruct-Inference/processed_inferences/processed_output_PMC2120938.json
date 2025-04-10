@@ -1,0 +1,94 @@
+[
+  {
+    "gene": "Pantophysin",
+    "geneID": "6856",
+    "go_data": [
+      {
+        "term": "vesicle-mediated transport",
+        "go_id": "GO:0016192",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Pantophysin defines constitutive transport vesicles and is detected at vesicles with a diameter of < 100 nm.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "cytoplasmic vesicle",
+        "go_id": "GO:0031410",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Pantophysin is detected at vesicles with a smooth surface and an electron-translucent interior in the cytoplasm.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "go_id": "GO:0015031",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Pantophysin is a marker of small cytoplasmic transport vesicles independent of their content.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "synaptophysin",
+    "geneID": "6855",
+    "go_data": [
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Synaptophysin is one of the major synaptic vesicle membrane proteins.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "go_id": "GO:0016192",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Synaptophysin is related to the transport of synaptic transmitter vesicles.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Synaptophysin has four hydrophobic putative transmembrane domains.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "pantophysin",
+    "geneID": "19027",
+    "go_data": [
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The encoded polypeptide of pantophysin has four hydrophobic putative transmembrane domains, indicating it is a membrane protein.",
+        "reference(s)": [
+          "PMC2120938"
+        ]
+      }
+    ]
+  }
+]

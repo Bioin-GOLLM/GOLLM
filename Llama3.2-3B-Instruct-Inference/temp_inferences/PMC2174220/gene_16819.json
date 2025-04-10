@@ -1,0 +1,33 @@
+{
+  "gene": "p25",
+  "geneID": "16819",
+  "go_data": [
+    {
+      "term": "cytoplasmic dynein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p25 is a subunit of the dynactin pointed-end complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "membrane binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The conserved alkaline pIs of p25 and its predicted beta structure suggest it may interact electrostatically with negatively charged membrane lipids.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a subunit of the dynactin complex, p25 is likely located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

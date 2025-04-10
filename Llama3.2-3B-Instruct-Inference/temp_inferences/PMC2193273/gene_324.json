@@ -1,0 +1,15 @@
+{
+  "gene": "Apc",
+  "geneID": "324",
+  "go_data": [
+    {
+      "term": "cellular component organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "No direct evidence, however Apc is known to be involved in cellular processes, but the provided text does not explicitly support any GO term.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

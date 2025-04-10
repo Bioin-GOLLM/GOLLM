@@ -1,0 +1,42 @@
+{
+  "gene": "LTBP-1",
+  "geneID": "59107",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTBP-1 associates with the extracellular matrix via a covalent targeting mechanism involving the large latent TGFbeta1 complex.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTBP-1 may play a role in the activation of the large latent TGFbeta complex on the endothelial cell surface.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-1 associates with the extracellular matrix and with cellular fibronectin as a component of extracellular microfibrils.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "transforming growth factor beta binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-1 is involved in the activation of the large latent TGFbeta complex.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

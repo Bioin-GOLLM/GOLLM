@@ -1,0 +1,33 @@
+{
+  "gene": "IgG",
+  "geneID": "16059",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Peptide-specific IgG responses were observed in all mice.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "blood microparticle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Serum samples were collected from WT mice and assayed by ELISA for peptide-specific IgG responses.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNFR-IgG fusion protein binds to TNF and LTalpha3.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "IL1R",
+  "geneID": "3554",
+  "go_data": [
+    {
+      "term": "NF-kappaB signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1R mediates the activation of NF-kappaB.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1R is part of a signaling complex that mediates signal transduction.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, IL-1R is typically located in the plasma membrane.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

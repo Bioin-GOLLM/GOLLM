@@ -1,0 +1,33 @@
+{
+  "gene": "alpha4",
+  "geneID": "28898",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "alpha4 integrins mediate adhesion to VCAM-1.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "alpha4 integrins bind to VCAM-1 and fibronectin.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "alpha4 integrins are expressed on the surface of eosinophils.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

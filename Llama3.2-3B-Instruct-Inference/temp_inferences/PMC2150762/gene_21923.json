@@ -1,0 +1,24 @@
+{
+  "gene": "tenascin-C",
+  "geneID": "21923",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tenascin-C is a ligand for the alpha8beta1 integrin and is expressed in the extracellular matrix.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tenascin-C binds to integrins, such as alpha8beta1, which are involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "guanine nucleotide exchange factor",
+  "geneID": "5923",
+  "go_data": [
+    {
+      "term": "Rho guanine nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "guanine nucleotide exchange factor for Rho GTPases",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

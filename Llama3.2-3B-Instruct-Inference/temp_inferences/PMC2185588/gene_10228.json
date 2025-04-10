@@ -1,0 +1,33 @@
+{
+  "gene": "syntaxin 6",
+  "geneID": "10228",
+  "go_data": [
+    {
+      "term": "vesicle docking",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Syntaxin 6 interacts with hVPS45, which is expected to be involved in vesicle docking on early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Syntaxin 6 is present on early endosomes, where it interacts with hVPS45.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Syntaxin 6 is able to interact with hVPS45 and other proteins such as Rab5 and Rabenosyn-5.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

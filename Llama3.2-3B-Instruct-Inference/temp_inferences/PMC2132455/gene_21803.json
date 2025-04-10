@@ -1,0 +1,42 @@
+{
+  "gene": "TGFbeta1",
+  "geneID": "21803",
+  "go_data": [
+    {
+      "term": "endocardial cushion formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mature TGFbeta protein was required at the onset of the endothelial-mesenchymal transformation to initiate endocardial cushion tissue formation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Double immunohistochemical staining of antibodies specific for LTBP-1 (Ab39) and TGFbeta1 revealed that an LTBP-1 molecule was codistributed with TGFbeta1 as a fibrillar extracellular matrix in the cushion tissue.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "mesenchymal cell migration",
+      "relationship": "regulates",
+      "namespace": "biological_process",
+      "justification": "An anti-TGFbeta1 inhibited this mesenchymal invasion: the number of mesenchymal cells was significantly lower and the percentage of the explant invaded was reduced to 75% of control.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "cardiac muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fetuses from a TGFbeta1 null mother are affected with secondary cardiac muscle hypertrophy caused by severe vascular defects and defective hematopoiesis within the extra-embryonic mesoderm of the yolk sac.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

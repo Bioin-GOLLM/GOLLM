@@ -1,0 +1,33 @@
+{
+  "gene": "Tau",
+  "geneID": "4137",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Tau binds and stabilizes microtubules.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Tau is a microtubule-associated protein.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "microtubule stabilization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tau stabilizes microtubules.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CD3",
+  "geneID": "12503",
+  "go_data": [
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD3 is involved in T cell stimulation assays with anti-CD3.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PD-1 is expressed subsequent to T cell activation with high concentrations of anti-CD3.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD3 is targeted by plate-bound anti-CD3 in T cell stimulation assays.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "elastin",
+  "geneID": "2006",
+  "go_data": [
+    {
+      "term": "elastic fiber",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Elastin is associated with microfibrils, which are components of elastic fibers.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Elastin is a key component of elastic fibers, which are crucial for the organization and structure of the extracellular matrix.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Elastin is a component of elastic fibers, which are found in the extracellular matrix.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "VDR",
+  "geneID": "7421",
+  "go_data": [
+    {
+      "term": "steroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The biological activity of 1,25(OH)2D is mediated by binding to the VDR, a nuclear receptor.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The VDR is a nuclear receptor that binds specific DNA sequences located at different genomic regions.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The VDR binds specific DNA sequences to subsequently modulate the expression of the respective target genes.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "vitamin D receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The VDR mediates the biological activity of 1,25(OH)2D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cellular response to vitamin D",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The VDR is involved in the response to vitamin D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

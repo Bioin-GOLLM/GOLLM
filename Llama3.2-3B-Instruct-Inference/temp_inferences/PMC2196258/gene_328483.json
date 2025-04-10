@@ -1,0 +1,33 @@
+{
+  "gene": "TCR",
+  "geneID": "328483",
+  "go_data": [
+    {
+      "term": "adaptive immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR is involved in T cell activation and signaling.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TCR is a cell surface receptor.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR couples to Fas(CD95) expression in activation-induced cell death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

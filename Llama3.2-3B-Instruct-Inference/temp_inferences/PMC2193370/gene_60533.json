@@ -1,0 +1,42 @@
+{
+  "gene": "B7-H1",
+  "geneID": "60533",
+  "go_data": [
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7-H1/PD-L1 costimulates T cell proliferation and cytokine release at lower concentrations of anti-CD3.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Expression of B7-H1/PD-L1 is broadly distributed on multiple hematopoietic and nonhematopoietic tissues, raising interesting questions as to their relative role in immune response regulation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "B7-H1/PD-L1 is a member of the B7 family and binds to the PD-1 receptor, implying it is located on the cell surface.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "B7-H1/PD-L1 binds the PD-1 receptor.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

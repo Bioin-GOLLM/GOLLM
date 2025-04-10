@@ -1,0 +1,24 @@
+{
+  "gene": "CD16",
+  "geneID": "2214",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD16 is expressed on macrophage population, which is part of the immune system.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD16 is expressed at higher levels on the macrophage population, implying it is located on the cell surface.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "megalin",
+  "geneID": "4036",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Megalin is involved in the reuptake of 25(OH)D in the kidneys.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "proximal tubule cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Megalin-dependent uptake of the VDBP-25(OH)D complex into cells is limited to the proximal renal tubule.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Megalin is involved in the renal megalin/cubilin-mediated reuptake of 25(OH)D in the kidneys.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "placenta development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vitamin D-dependent expression of megalin and cubilin has been found in the placenta.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

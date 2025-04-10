@@ -1,0 +1,24 @@
+{
+  "gene": "EGF",
+  "geneID": "1950",
+  "go_data": [
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EGF-like repeats are found in the protein structure, implying a role in growth factor activity.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The presence of a signal peptide and EGF-like repeats suggests the protein is secreted and found in the extracellular region.",
+      "reference(s)": [
+        "PMC2119596"
+      ]
+    }
+  ]
+}

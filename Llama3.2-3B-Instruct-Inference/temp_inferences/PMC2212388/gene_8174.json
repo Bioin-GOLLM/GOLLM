@@ -1,0 +1,15 @@
+{
+  "gene": "mucosal addressin cell adhesion molecule 1",
+  "geneID": "8174",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Mucosal addressin cell adhesion molecule 1 is considered as a potential ligand for alphadbeta2 integrins.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "IL-10",
+  "geneID": "3586",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-10 production is mentioned in the context of immune responses, specifically Th1 and Th2 responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-10 is implicated in the differentiation of regulatory T cells that inhibit Th1 effector responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-10 is mentioned as a cytokine whose production is costimulated or not costimulated by different B7 family members.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "TRIP",
+  "geneID": "22036",
+  "go_data": [
+    {
+      "term": "lymphocyte proliferation",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "The expression of TRIP was significantly reduced when lymphocytes were stimulated to proliferate via antigen receptors.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "thymus",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "TRIP-specific probes detected a ~2.1-kb mRNA species present in various tissues, including thymus.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "spleen",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "TRIP-specific probes detected a ~2.1-kb mRNA species present in various tissues, including spleen.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "testis",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "TRIP-specific probes detected a ~2.1-kb mRNA species present in various tissues, including testes.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

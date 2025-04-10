@@ -1,0 +1,33 @@
+{
+  "gene": "Cbl",
+  "geneID": "12402",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cbl is an adaptor protein that associates with epidermal growth factor receptor.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cellular response to epidermal growth factor stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cbl associates with epidermal growth factor receptor.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an adaptor protein, Cbl is likely located in the cytoplasm where it can interact with other proteins such as the epidermal growth factor receptor.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

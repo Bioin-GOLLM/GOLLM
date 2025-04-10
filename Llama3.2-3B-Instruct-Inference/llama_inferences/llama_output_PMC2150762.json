@@ -1,0 +1,776 @@
+[
+  {
+    "gene": "nephronectin",
+    "geneID": "100101608",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Nephronectin is an extracellular matrix protein, synthesized by the ureteric bud epithelium and localized with alpha8beta1 at the interface between the ureteric bud and the metanephric mesenchyme.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Nephronectin binds to integrin alpha8beta1 in an RGD-sensitive fashion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "kidney development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nephronectin is expressed in the developing kidney and is likely important for regulating kidney development.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell-matrix adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nephronectin mediates alpha8beta1 function during development, suggesting a role in cell-matrix adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alkaline phosphatase",
+    "geneID": "16870",
+    "go_data": [
+      {
+        "term": "catalytic activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Alkaline phosphatase is used as a marker enzyme.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "nephronectin",
+    "geneID": "114249",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Nephronectin is an extracellular matrix protein.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nephronectin mediates attachment of cells to integrin alpha8beta1.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Nephronectin binds to integrin alpha8beta1 and several additional RGD-binding integrins.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "kidney development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nephronectin is a critical ligand in the signaling pathway in early metanephric kidney development.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGF",
+    "geneID": "13645",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Nephronectin, which contains EGF-like repeats, is described as an extracellular matrix protein.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nephronectin, with its RGD sequence and EGF-like repeats, binds to integrins such as alpha8beta1, suggesting involvement in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EGF (Epidermal Growth Factor) is known for its role as a growth factor, although this specific text does not directly mention EGF's growth factor activity, the presence of EGF-like repeats in nephronectin implies a potential role in growth factor activity for EGF itself.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha8",
+    "geneID": "109675",
+    "go_data": [
+      {
+        "term": "cell-matrix adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The integrin alpha8beta1 is associated with nephronectin in a complex, suggesting a role in cell-matrix adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "ureteric bud development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The presence of alpha8beta1 promotes the development of the ureteric bud in a non-cell-autonomous manner.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "metanephric mesenchyme development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Alpha8 is expressed in the metanephric mesenchyme and is downregulated as the mesenchymal cells undergo epithelialization.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin alpha8beta1 complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "The integrin alpha8beta1 is a heterodimer of the extracellular domain of alpha8 and the extracellular domain beta1.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "nephronectin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The integrin alpha8beta1 and nephronectin are associated with each other in vivo, suggesting a binding interaction.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Fibronectin",
+    "geneID": "14268",
+    "go_data": [
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Fibronectin (FN) is a ligand for the integrin alpha8beta1.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "K562 cells bind efficiently in a dose-dependent manner to FN in the presence of Mn2+, indicating a role for FN in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fibronectin is expressed in the metanephric mesenchyme, which is part of the extracellular matrix.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vitronectin",
+    "geneID": "22370",
+    "go_data": [
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Vitronectin (VN) is a ligand for the alpha8beta1 integrin.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vitronectin is a component of the extracellular matrix and is found in adult heart extracts.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tenascin-C",
+    "geneID": "21923",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Tenascin-C is a ligand for the alpha8beta1 integrin and is expressed in the extracellular matrix.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Tenascin-C binds to integrins, such as alpha8beta1, which are involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "osteopontin",
+    "geneID": "20750",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "OPN is localized in the extracellular matrix between the ureteric bud epithelium and metanephric mesenchyme.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "OPN has been shown to be a ligand for alpha8beta1 integrin.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "kidney development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Inhibition of OPN function impairs kidney development in organ culture.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Nephronectin",
+    "geneID": "255743",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Nephronectin is localized in the kidney extracellular matrix.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Nephronectin binds to integrin alpha8beta1 in an RGD-sensitive fashion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "kidney development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nephronectin is expressed throughout kidney development and is suggested to mediate alpha8beta1 function during development.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta1",
+    "geneID": "15129",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "beta1 is part of the integrin alpha8beta1 heterodimer, suggesting it binds to other molecules.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As part of the integrin alpha8beta1, beta1 is involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "beta1 is part of the integrin alpha8beta1 heterodimer.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGFL6",
+    "geneID": "54156",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EGFL6/MAEG is likely a constituent of the extracellular matrix.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "kidney development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mRNA encoding EGFL6/MAEG is present in the embryonic kidney, suggesting a role in kidney development.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion molecule activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The RGD sequence in EGFL6 suggests it may interact with integrins, which are involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGF",
+    "geneID": "1950",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EGF repeats are found in the extracellular domains of several cell surface-associated and extracellular matrix proteins.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "protein-protein interactions",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Ca2+-binding EGF domains have been shown to mediate protein-protein interactions.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The RGD sequence in EGF is a potential integrin-binding site, which is involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myc",
+    "geneID": "17869",
+    "go_data": [
+      {
+        "term": "protein tag",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "myc/His6 tag is used for protein detection or purification",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "integrin alpha8",
+    "geneID": "241226",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Integrin alpha8 interacts with nephronectin as shown by immunoprecipitation.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell-matrix adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Integrin alpha8, as part of the alpha8beta1 integrin, is involved in cell adhesion processes.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integral component of plasma membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "As a transmembrane receptor, integrin alpha8 is embedded in the plasma membrane.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGFL6",
+    "geneID": "25975",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EGFL6 is likely a constituent of the extracellular matrix.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "protein-protein interactions",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EGFL6 contains Ca2+-binding EGF domains and a MAM domain, which mediate protein-protein interactions.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "EGFL6 may be a ligand for some of the RGD-binding integrins, which are involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGFL6",
+    "geneID": "781765",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "EGFL6 is found in the extracellular matrix proteins.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "calcium ion binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The EGF repeats in EGFL6 are Ca2+-binding EGF domains.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "protein-protein interactions",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The Ca2+-binding EGF domains in EGFL6 mediate protein-protein interactions.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "entactin",
+    "geneID": "18073",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "involved_in",
+        "namespace": "molecular_function",
+        "justification": "Entactin is mentioned as an RGD-containing protein that does not bind detectably to alpha8beta1.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "integrin alpha4",
+    "geneID": "16401",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Integrin alpha4 sequence binds to sequences not containing an RGD site.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Integrin alpha4 is involved in cell adhesion through binding to specific sequences.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin alpha4-beta1 complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Integrin alpha4 forms a complex with other integrin subunits.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a cell adhesion molecule, integrin alpha4 is located on the cell surface.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha5",
+    "geneID": "28884",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "alpha5 integrin binds to the RGD site.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin alpha5 beta1 complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "alpha5 is part of the integrin alpha5 beta1 complex, implied by its classification as an integrin alpha sequence.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As an integrin, alpha5 is involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha4",
+    "geneID": "140494",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "alpha4-containing integrins have been shown to bind to sequences",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "alpha4-containing integrins have been shown to bind to sequences, implying a role in cell adhesion",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "alpha4 is an integrin",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Glial cell-derived neurotrophic factor",
+    "geneID": "14573",
+    "go_data": [
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GDNF is described as a growth factor.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Secreted GDNF is mentioned, implying it is located in the extracellular space.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "ureteric bud development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GDNF controls ingrowth of the ureteric bud.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "metanephric mesenchyme development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GDNF is synthesized in the metanephric mesenchyme.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GFR-alpha1",
+    "geneID": "14585",
+    "go_data": [
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GFR-alpha1 binds to GDNF, which results in activation of the c-ret tyrosine kinase.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "ureteric bud development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Secreted GDNF controls ingrowth of the ureteric bud by binding to GFR-alpha1.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, GFR-alpha1 is located on the cell surface where it binds to GDNF.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "c-ret",
+    "geneID": "19713",
+    "go_data": [
+      {
+        "term": "receptor tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "c-ret is activated as a tyrosine kinase upon binding to GFR-alpha1.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "ureteric bud development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Secreted GDNF binds to GFR-alpha1, resulting in activation of the c-ret tyrosine kinase, which controls ingrowth of the ureteric bud.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor tyrosine kinase, c-ret is embedded in the cell surface to interact with its ligand.",
+        "reference(s)": [
+          "PMC2150762"
+        ]
+      }
+    ]
+  }
+]

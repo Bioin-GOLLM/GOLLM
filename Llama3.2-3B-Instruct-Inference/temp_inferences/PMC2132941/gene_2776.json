@@ -1,0 +1,51 @@
+{
+  "gene": "Galphaq",
+  "geneID": "2776",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq is involved in signaling pathways mediated by G-protein coupled receptors.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq-deficient platelets do not aggregate and secrete their granule contents in response to various stimuli.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "phospholipase C activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gq-mediated activation of phospholipase C represents the central early signal transduction process leading to full platelet activation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq is a key component in cell signaling pathways, particularly in platelet activation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Platelet shape change is accompanied by actin polymerization and reorganization of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

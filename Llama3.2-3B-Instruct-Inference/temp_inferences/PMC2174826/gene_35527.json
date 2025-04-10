@@ -1,0 +1,33 @@
+{
+  "gene": "PNG1",
+  "geneID": "35527",
+  "go_data": [
+    {
+      "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNG1 was definitively shown to encode PNGase by carrying out the analysis of reaction product of [14C]asialofetuin glycopeptide I with purified Png1p.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The action of PNGase in the cytosol (or nucleus) may somehow be regulated by redox potential.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The action of PNGase in the cytosol (or nucleus) may somehow be regulated by redox potential.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

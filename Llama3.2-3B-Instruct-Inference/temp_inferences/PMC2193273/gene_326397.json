@@ -1,0 +1,33 @@
+{
+  "gene": "BP-1",
+  "geneID": "326397",
+  "go_data": [
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The transition from pro-B cell to pre-B cell is determined by the induction of expression of BP-1.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BP-1 is expressed on the surface of pre-B cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "immune system development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BP-1 expression is associated with the development of B cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

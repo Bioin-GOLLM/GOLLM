@@ -1,0 +1,42 @@
+{
+  "gene": "interleukin 7",
+  "geneID": "16196",
+  "go_data": [
+    {
+      "term": "lymphopoiesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-7 plays a role in lymphopoiesis as shown by severe lymphopenia in IL-7 gene-deleted mice.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-7 induces BP-1 expression on pre-B cells and increases this population when administered to mice.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-7 stimulates significant growth of thymocytes in submersion cultures of intact day 14 fetal thymic lobes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-7 acts as a cytokine to support B lymphopoiesis and T cell development.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

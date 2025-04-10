@@ -1,0 +1,617 @@
+[
+  {
+    "gene": "Tumor Necrosis Factor",
+    "geneID": "21926",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The clinical and pathological course of EAE was influenced by the absence of TNF, indicating its role in inflammatory response.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cellular response to lipopolysaccharide",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Production of tumor necrosis factor and other cytokines by astrocytes stimulated with lipopolysaccharide.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNF is a cytokine with activities equivalent to lymphotoxin.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNF is involved in the maturation of the humoral immune response and the formation of primary B cell follicles.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "tumor necrosis factor receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTalpha3 can bind to the TNFRs, indicating TNF's role in receptor binding.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTalpha",
+    "geneID": "16992",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTalpha is thought to contribute to pathologies by promoting inflammation through the upregulation of endothelial adhesion molecules.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTalpha is a proinflammatory cytokine with activities equivalent to tumor necrosis factor (TNF).",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "lymphoid organ development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTalpha in association with LTbeta binds the LTbeta receptor, which is essential for normal peripheral lymphoid development.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cellular response to cytokine stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTalpha binds to TNFR1 and TNFR2, resulting in the promotion of inflammation and delivery of cytotoxic signals to target cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNF",
+    "geneID": "24835",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNF is considered to be a proinflammatory, cytotoxic cytokine.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNF is a critical mediator of lymphocyte-dependent autoimmune pathologies such as multiple sclerosis (MS) and the MS animal model, experimental autoimmune encephalomyelitis (EAE).",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cellular response to cytokine stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNF-dependent cell adhesion events are important for the control of cell movement within the tissue.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNF is involved in the control of cell movement within the tissue and the generation of inflammatory lesions.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFR1",
+    "geneID": "21937",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor-activated receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LT in its secreted form (LTalpha3) is thought to contribute to pathologies by its ability to bind to TNFR1.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTalpha3 binding to TNFR1 results in the promotion of inflammation by the upregulation of endothelial adhesion molecules.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TNFR1 is a cell surface molecule that binds to LTalpha3.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cytotoxic signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTalpha3 binding to TNFR1 delivers a cytotoxic signal to target cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTbeta",
+    "geneID": "16994",
+    "go_data": [
+      {
+        "term": "lymphoid organ development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTbeta is essential for normal peripheral lymphoid development.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTbeta contributes to the promotion of inflammation by the upregulation of endothelial adhesion molecules.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cytotoxic signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTbeta is capable of delivering a cytotoxic signal to target cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTbeta is a cell surface molecule.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myelin oligodendrocyte glycoprotein",
+    "geneID": "17441",
+    "go_data": [
+      {
+        "term": "myelination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myelin oligodendrocyte glycoprotein is associated with the myelination process.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "oligodendrocyte differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myelin oligodendrocyte glycoprotein is related to oligodendrocyte differentiation.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "myelin sheath",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Myelin oligodendrocyte glycoprotein is a component of the myelin sheath.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IgG",
+    "geneID": "16059",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Peptide-specific IgG responses were observed in all mice.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "blood microparticle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Serum samples were collected from WT mice and assayed by ELISA for peptide-specific IgG responses.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNFR-IgG fusion protein binds to TNF and LTalpha3.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RAG 1",
+    "geneID": "19373",
+    "go_data": [
+      {
+        "term": "V(D)J recombination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RAG 1 is involved in the process of V(D)J recombination, which is crucial for the development of mature lymphocytes.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "lymphocyte differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The absence of RAG 1 results in a lack of mature lymphocytes, indicating its role in lymphocyte differentiation.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune system development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RAG 1-deficient mice have a broadly deficient immune system, suggesting its involvement in immune system development.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD45",
+    "geneID": "19264",
+    "go_data": [
+      {
+        "term": "cell surface receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD45 is used as a marker for flow cytometric analyses of peripheral blood leukocytes.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "leukocyte differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD45 is a marker for various leukocyte populations, including alpha/beta-TCR+, B220+, and CD11b+ cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "hemopoietic or lymphoid organ development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD45 is used to examine the reconstitution of the hemopoietic compartment in recipients.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune system",
+        "relationship": "part_of",
+        "namespace": "biological_process",
+        "justification": "CD45 is a marker for immune cells, including T cells, monocyte-macrophages, and microglia.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD45 is a cell surface marker.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha/beta-",
+    "geneID": "14961",
+    "go_data": [
+      {
+        "term": "lymphoid organ development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Surface lymphotoxin alpha/beta complex is required for the development of peripheral lymphoid organs",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Surface lymphotoxin alpha/beta complex",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "alpha/beta-TCR+ cells are part of the immune system",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TCR",
+    "geneID": "328483",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TCR is expressed on immune cells such as T cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TCR is a receptor on the surface of T cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TCR is involved in the activation of T cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD11b",
+    "geneID": "16409",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11b is expressed on the surface of cells, including macrophages, and is involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "macrophage",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "CD11b is expressed on macrophages, indicating its presence in these cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11b is expressed on immune cells, including macrophages, and is involved in immune system processes.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFR",
+    "geneID": "7132",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor-activated receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNFR is activated by tumor necrosis factor.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "tumor necrosis factor-mediated signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNFR is involved in signaling pathway mediated by tumor necrosis factor.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD4",
+    "geneID": "12504",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD4 is expressed on T cells, which are central to immune system function.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "T cell",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CD4+ T cells are a subtype of T cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "antigen presentation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD4+ T cells are involved in antigen presentation to myelin basic protein-reactive cells.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "iNOS",
+    "geneID": "18126",
+    "go_data": [
+      {
+        "term": "nitric oxide biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "iNOS is described as inducible nitric oxide synthase, indicating its role in producing nitric oxide.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "macrophage effector function",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The activation of iNOS is described as a critical macrophage effector.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vascular cell adhesion molecule 1",
+    "geneID": "22329",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Vascular cell adhesion molecule 1 is expressed and functions in cell adhesion.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vascular cell adhesion molecule 1 participates in cell-cell adhesion.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "integral component of plasma membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "As a cell adhesion molecule, vascular cell adhesion molecule 1 is part of the plasma membrane.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTbetaR",
+    "geneID": "17000",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTbetaR interacts with LTalpha1beta2, suggesting it has tumor necrosis factor receptor activity.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "cell surface receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTbetaR elicits a cytotoxic signal through LTalpha1beta2-LTbetaR interactions, indicating involvement in cell surface receptor signaling.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, LTbetaR is likely located in the plasma membrane to interact with its ligands.",
+        "reference(s)": [
+          "PMC2212266"
+        ]
+      }
+    ]
+  }
+]

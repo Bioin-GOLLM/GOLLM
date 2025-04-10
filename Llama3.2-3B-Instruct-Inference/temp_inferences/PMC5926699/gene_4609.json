@@ -1,0 +1,24 @@
+{
+  "gene": "c-myc",
+  "geneID": "4609",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "c-myc is often associated with nuclear functions as an oncogene.",
+      "reference(s)": [
+        "PMC5926699"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "c-myc oncogene expression is often linked to increased cell proliferation in malignant melanomas.",
+      "reference(s)": [
+        "PMC5926699"
+      ]
+    }
+  ]
+}

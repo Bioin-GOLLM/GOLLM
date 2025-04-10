@@ -1,0 +1,33 @@
+{
+  "gene": "Rabaptin-5",
+  "geneID": "9135",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rabaptin-5 interacted specifically with the GTP-associated form of GST-Rab5.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endocytic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rabaptin-5 associates with oligomeric structures containing NSF and Rabex-5 on endosomal membranes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rabaptin-5 is a direct effector of the small GTPase Rab5 in endocytic membrane fusion.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

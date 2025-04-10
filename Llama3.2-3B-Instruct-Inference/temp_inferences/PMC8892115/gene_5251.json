@@ -1,0 +1,33 @@
+{
+  "gene": "PHEX",
+  "geneID": "5251",
+  "go_data": [
+    {
+      "term": "metalloendopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PHEX is described as a cell surface metalloproteinase.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PHEX is described as a cell surface metalloproteinase.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "regulation of phosphate transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations of PHEX cause X-linked hypophosphataemia, characterized by phosphate transport issues.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

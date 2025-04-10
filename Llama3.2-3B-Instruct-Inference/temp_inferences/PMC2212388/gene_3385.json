@@ -1,0 +1,33 @@
+{
+  "gene": "intercellular adhesion molecule 3",
+  "geneID": "3385",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ICAM-3 binds to alphadbeta2 integrin.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "leukocyte cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ICAM-3 is involved in leukocyte-leukocyte adhesion through binding to alphad integrin.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an intercellular adhesion molecule, ICAM-3 is located on the cell surface.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

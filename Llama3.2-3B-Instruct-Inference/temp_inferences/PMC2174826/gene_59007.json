@@ -1,0 +1,33 @@
+{
+  "gene": "PNGase",
+  "geneID": "59007",
+  "go_data": [
+    {
+      "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNGase cleaves the amide bond between the proximal N-acetylglucosamine and the linker asparagine residues on glycopeptides/glycoproteins.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "oligosaccharide metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PNGase releases an intact oligosaccharide and generates at the site of cleavage an aspartic acid residue in the peptide/protein backbone.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information, however, based on the provided text, it can be noted that the gene product is active in the cell and has been studied in cell extracts.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+[
+  {
+    "gene": "Rho",
+    "geneID": "212541",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rho is activated as part of G12/G13 signaling, implying GTP binding activity.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho/Rho-kinase-mediated myosin light chain phosphorylation is involved in the platelet shape change response.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rho/Rho-kinase-mediated phosphorylation of myosin light chain suggests involvement with the cytoskeleton.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rho-Kinase",
+    "geneID": "19878",
+    "go_data": [
+      {
+        "term": "protein serine/threonine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rho-kinase can directly phosphorylate MLC in vitro.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "myosin light chain phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho-kinase-mediated MLC phosphorylation is involved in contractile responses in various cell types.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "regulation of myosin phosphatase activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho-kinase can phosphorylate and inactivate myosin phosphatase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet shape change",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho/Rho-kinase-mediated MLC phosphorylation is involved in TXA2 receptor-induced platelet shape change.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rho-kinase regulates myosin light chain phosphorylation, which affects cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "G13",
+    "geneID": "10672",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "G13 is involved in signaling from lysophosphatidic acid receptor via epidermal growth factor receptor to Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "Rho protein signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "G13 mediates signaling from lysophosphatidic acid receptor via epidermal growth factor receptor to Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet shape change",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activation of G12/G13 is sufficient to induce platelet shape change.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "myosin light chain phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "G12/G13 activation results in MLC phosphorylation through Rho-mediated activation of Rho-kinase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "G13 is involved in cell signaling from lysophosphatidic acid receptor via epidermal growth factor receptor to Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "thrombin",
+    "geneID": "2147",
+    "go_data": [
+      {
+        "term": "G protein-coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin functions through G protein-coupled receptors which activate Gq, G12, G13, and Gi type G proteins.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin is a full platelet activator that functions through G protein-coupled receptors.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "regulation of phospholipase C activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin receptor activation leads to phospholipase C activation and Ca2+ mobilization.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "inhibition of adenylyl cyclase activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin receptors couple to Gi-type G proteins, resulting in an inhibition of adenylyl cyclase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "Rho protein signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin inactivates myosin light chain phosphatase via Rho and its target Rho kinase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "protein tyrosine kinase activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin activates protein-tyrosine kinase p72syk in platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Galphaq",
+    "geneID": "2776",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq is involved in signaling pathways mediated by G-protein coupled receptors.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq-deficient platelets do not aggregate and secrete their granule contents in response to various stimuli.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "phospholipase C activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gq-mediated activation of phospholipase C represents the central early signal transduction process leading to full platelet activation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq is a key component in cell signaling pathways, particularly in platelet activation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Platelet shape change is accompanied by actin polymerization and reorganization of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TXA2 receptor",
+    "geneID": "21390",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TXA2 receptor activates G12 and G13 in Galphaq-deficient platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TXA2 receptor-mediated activation of G12/G13 leads to platelet shape change.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, TXA2 receptor is located on the cell surface of platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TXA2 receptor activates G12 and G13, leading to downstream signaling events.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "myosin light chain phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TXA2 receptor-mediated activation of G12/G13 results in MLC phosphorylation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rho",
+    "geneID": "6010",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rho is a small GTP-binding protein.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "Rho protein signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho is involved in the regulation of MLC phosphorylation through Rho-kinase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rho is involved in the regulation of actin cytoskeleton reorganization.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell shape change",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho is involved in the regulation of platelet shape change.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "myosin light chain phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho is involved in the regulation of MLC phosphorylation through Rho-kinase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton reorganization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho is involved in the regulation of actin cytoskeleton reorganization.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Galpha11",
+    "geneID": "14672",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galpha11 is a close homologue of Galphaq and is coexpressed with Galphaq in most cells, suggesting involvement in G-protein coupled receptor signaling.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galpha11 is involved in signaling through G protein-coupled receptors.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Gi",
+    "geneID": "2770",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gi is activated through G protein-coupled receptors by thrombin.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "inhibition of adenylyl cyclase activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activation of Gi by thrombin decreases cAMP levels through inhibition of adenylyl cyclase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gi-mediated processes are involved in the regulation of platelet activation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Gi is a component of heterotrimeric G proteins which are membrane-associated.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Galpha12",
+    "geneID": "14673",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galpha12 is part of the G12/G13-coupled receptors signaling pathway.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell transformation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Constitutively active forms of Galpha12 cause cell transformation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "actin cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galpha12 stimulates the formation of actin stress fibers through the small molecular weight GTPase Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "focal adhesion assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galpha12 stimulates Rho-dependent stress fiber formation and focal adhesion assembly.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "signal transducer activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Galpha12 is a signal transducer in G-protein coupled receptor signaling pathway.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "adenylyl cyclase",
+    "geneID": "40333",
+    "go_data": [
+      {
+        "term": "cAMP biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Adenylyl cyclase is involved in the production of cAMP.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "inhibition of adenylyl cyclase activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gi-type G proteins are involved in the inhibitory regulation of platelet adenylyl cyclase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Adenylyl cyclase is typically found in the cytosol of cells.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GEF",
+    "geneID": "38578",
+    "go_data": [
+      {
+        "term": "Rho guanyl-nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GEF for Rho, p115RhoGEF, has been shown to interact with Galpha12 and Galpha13.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GEF is regulated by Galpha12 and Galpha13, which are part of G-protein coupled receptor signaling.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "RhoGEF, like p115RhoGEF, is expected to be located in the cytosol where it can interact with Rho GTPases.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Galphaq",
+    "geneID": "14682",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq-deficient platelets demonstrate altered signaling pathways in response to thrombin and TXA2 receptors.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq-deficient platelets still exhibit shape change response, indicating Galphaq's role in platelet activation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq is involved in signaling processes in platelets, including those mediated by G12 and G13.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Galphaq is expressed in platelets and plays a role in their function.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Galphaq",
+    "geneID": "36384",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq is part of the heterotrimeric G proteins that couple to receptors such as TXA2 and thrombin receptors.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq-deficient platelets show altered coupling of thrombin and TXA2 receptors to G proteins, affecting downstream signaling.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Galphaq is implicated in the regulation of platelet shape change through its interaction with TXA2 and thrombin receptors.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "G-protein alpha-subunit activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Galphaq is an alpha-subunit of a heterotrimeric G protein, which has intrinsic GTPase activity.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "G protein alpha",
+    "geneID": "2778",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Receptors activated by thrombin couple to Gq, G12, G13, and Gi, indicating involvement in G-protein coupled receptor signaling.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "G protein alpha-subunits are found in membranes of human platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "signal transducer activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "G protein alpha-subunits are involved in transmitting signals from receptors, such as those activated by thrombin and TXA2.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "pp60c-src",
+    "geneID": "20779",
+    "go_data": [
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "pp60c-src is a tyrosine kinase that is rapidly activated after stimulation of platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Platelet activation leads to increased c-src kinase activity.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a tyrosine kinase, pp60c-src is likely located in the cytoplasm of platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "thrombin",
+    "geneID": "14061",
+    "go_data": [
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Thrombin stimulates platelets in an aggregation-independent manner.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Thrombin is known for its role in the coagulation cascade, where it acts as a peptidase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Thrombin is secreted by platelets into the extracellular region.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tyrosine kinase",
+    "geneID": "7294",
+    "go_data": [
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Increases in tyrosine kinase activity could be observed within 10 s after addition of U46619.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Clustering of the platelet Fc gamma receptor induces noncovalent association with the tyrosine kinase p72syk.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Tyrosine kinases pp72syk and pp60c-src are activated in platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MLCK",
+    "geneID": "91807",
+    "go_data": [
+      {
+        "term": "calcium-dependent protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MLCK is activated by Ca2+/calmodulin.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "myosin light chain kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MLCK phosphorylates MLC.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "smooth muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MLCK leads to actin-myosin interaction resulting in actin-stimulated ATPase activity of smooth muscle myosin.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MLCK is involved in MLC phosphorylation in platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MLCK is activated by cytosolic Ca2+.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "calmodulin",
+    "geneID": "12314",
+    "go_data": [
+      {
+        "term": "calcium ion binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Increase in [Ca2+]i activates the Ca2+/calmodulin-dependent MLCK.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "muscle contraction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MLC phosphorylation by MLCK leads to actin-myosin interaction resulting in actin-stimulated ATPase activity of smooth muscle and nonmuscle myosin.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Calmodulin is found in the cytosol where it binds to calcium ions.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p160ROCK",
+    "geneID": "6093",
+    "go_data": [
+      {
+        "term": "protein serine/threonine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p160ROCK is a Rho-kinase that phosphorylates myosin light chain (MLC).",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p160ROCK translocates to the cytoskeletal complex in thrombin-stimulated human platelets.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p160ROCK is activated upon activation of human platelets and regulates MLC phosphorylation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "neurite remodeling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p160ROCK regulates neurite remodeling in neuroblastoma N1E-115 cells.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RhoA",
+    "geneID": "387",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RhoA is a small GTPase.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "platelet activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Our data clearly support a role of Rho in early platelet activation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "regulation of integrin activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RhoA and the function of platelet integrin alphaIIbbeta3",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "cAMP-induced morphological changes are counteracted by the activated RhoA small GTPase",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rho",
+    "geneID": "38168",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rho is activated, implying it has GTP binding activity.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rho activation is regulated by G12/G13, indicating involvement in cell signaling.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a GTPase, Rho is typically located in the cytosol.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RhoGEF",
+    "geneID": "36915",
+    "go_data": [
+      {
+        "term": "Rho guanylyl-nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RhoGEF functions as a Rho-specific GEF, mediating the regulation of Rho by G12/G13.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "cell shape change",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A putative RhoGEF mediates a signaling pathway for cell shape changes in Drosophila gastrulation.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RhoGEF can directly link Galpha13 to the regulation of Rho, indicating involvement in G-protein coupled receptor signaling.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "concertina",
+    "geneID": "3355131",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Concertina functions downstream of the Drosophila G12/G13 homologue in regulating Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "Rho guanyl-nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Concertina is related to the regulation of Rho by G12/G13, which is mediated by a Rho-specific GEF, DRhoGEF2.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p115 RhoGEF",
+    "geneID": "9138",
+    "go_data": [
+      {
+        "term": "Rho guanyl-nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p115 RhoGEF can directly link Galpha13 to the regulation of Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "G-protein coupled receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p115 RhoGEF functions downstream of G12/G13 and can link Galpha13 to the regulation of Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      },
+      {
+        "term": "regulation of Rho protein signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p115 RhoGEF can directly link Galpha13 to the regulation of Rho.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syk",
+    "geneID": "20963",
+    "go_data": [
+      {
+        "term": "protein tyrosine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The text mentions 'tyrosine kinase pp72(syk)' indicating syk has protein tyrosine kinase activity.",
+        "reference(s)": [
+          "PMC2132941"
+        ]
+      }
+    ]
+  }
+]

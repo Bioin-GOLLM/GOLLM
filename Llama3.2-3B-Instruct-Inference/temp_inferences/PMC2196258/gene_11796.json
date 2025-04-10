@@ -1,0 +1,15 @@
+{
+  "gene": "c-IAP1",
+  "geneID": "11796",
+  "go_data": [
+    {
+      "term": "regulation of lymphocyte proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The expression of c-IAP1 was upregulated upon lymphocyte proliferation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+[
+  {
+    "gene": "Arp1",
+    "geneID": "54130",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Arp1 is an actin-related protein that interacts with actin filaments.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microtubule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Arp1 is part of the dynactin complex, which binds to microtubules.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Arp1 is a cytoplasmic protein as part of the dynactin complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "intracellular transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Arp1 is part of the dynactin complex, which is involved in intracellular transport.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "filament capping",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Arp1 minifilaments are capped at both ends, suggesting involvement in filament capping.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "dynein",
+    "geneID": "33319",
+    "go_data": [
+      {
+        "term": "microtubule motor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dynein is a minus-end directed, microtubule-based motor.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasmic dynein-driven transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dynein drives a wide range of cytoplasmic motor activities.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microtubule",
+        "relationship": "located_on",
+        "namespace": "cellular_component",
+        "justification": "Dynein is a microtubule-based motor.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "mitotic spindle formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dynein plays a role in mammalian mitotic spindle formation.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "centrosome separation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dynein is required for distinct aspects of MTOC positioning, including centrosome separation.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "nuclear migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dynein is required for the nuclear attachment and migration of centrosome during mitosis.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "vesicle transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dynein is a vesicle protein and binds to phospholipid vesicles.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "actin",
+    "geneID": "528168",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Actin is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Actin binds to actin-related proteins and other actin-binding proteins.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "actin filament organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Actin is involved in the organization of actin filaments.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microfilament",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Actin is a component of microfilaments.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "dynamitin",
+    "geneID": "10540",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Dynamitin is a subunit of the dynactin complex, which is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dynamitin binds directly to the chromosomal protein zw10.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microtubule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dynamitin is part of the dynactin complex, which binds to microtubules.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dynamitin is part of the dynactin complex, which is found in the cytoplasm.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "intracellular transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Overexpression of dynamitin disrupts dynein-dependent maintenance of membrane organelle distribution.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p150Glued",
+    "geneID": "13191",
+    "go_data": [
+      {
+        "term": "microtubule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p150Glued binds cellular microtubules via an NH2-terminal microtubule binding site.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasmic dynein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Cytoplasmic dynein binds dynactin through a direct interaction between the intermediate chains and p150Glued.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "dynactin binding",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p150Glued is the largest subunit of the dynactin complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microtubule",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p150Glued binds to microtubules.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p150Glued is part of the dynactin complex, which is involved in cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p24",
+    "geneID": "53598",
+    "go_data": [
+      {
+        "term": "cytoskeletal protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p24 subunits are part of the dynactin shoulder/sidearm complex, which interacts with other cytoskeletal proteins.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "dynactin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p24 subunits bind to dynamitin and p150Glued subunits in the dynactin complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Dynactin, which contains p24 subunits, is a cytoplasmic protein complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p62",
+    "geneID": "67665",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p62 is associated with the pointed end of the Arp1 filament and contains predicted cargo-binding motifs.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasmic dynein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p62 is a component of the dynactin complex, which is associated with cytoplasmic dynein.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microtubule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p62 is part of the dynactin complex, which interacts with microtubules.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p62 is part of the pointed-end complex, which assembles with other subunits to form the dynactin complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p27",
+    "geneID": "22428",
+    "go_data": [
+      {
+        "term": "cytoskeletal protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p27 is part of the pointed-end complex, which contains predicted cargo-binding motifs.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "microtubule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p27 is associated with the Arp1 minifilament in the dynactin pointed-end complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p27 is part of the dynactin complex, which is involved in cytoplasmic dynein-mediated transport.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p27 is part of the pointed-end complex, which assembles with other subunits to form a functional complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p25",
+    "geneID": "280968",
+    "go_data": [
+      {
+        "term": "cargo binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p62, p27, and p25 contain predicted cargo-binding motifs.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "dynactin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p25 is a subunit of the dynactin complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p25 is part of the dynactin complex which is involved in cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Arp11",
+    "geneID": "56444",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The Arp11 sequence predicts this protein will interact only with Arp1 or actin filament pointed ends.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "pointed-end capping",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The Arp11 sequence suggests a pointed-end capping activity.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Arp11 is a subunit of the dynactin complex, which is involved in cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "dynactin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Arp11 is a subunit of the dynactin complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "capZ",
+    "geneID": "12340",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "capZ is described as a barbed-end actin capping protein.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "capZ is involved in capping the barbed end of actin filaments, which is crucial for cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "muscle cell",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "capZ is described as an actin capping protein of muscle.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p50",
+    "geneID": "69654",
+    "go_data": [
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p50 is part of the dynactin complex, which is involved in intracellular processes and membrane organelle distribution, suggesting it is located in the cytoplasm.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p50 interacts with other subunits of the dynactin complex, such as p150Glued, indicating it has protein binding capabilities.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Overexpression of p50 disrupts dynein-dependent maintenance of membrane organelle distribution, suggesting it plays a role in cytoskeleton organization.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "zw10",
+    "geneID": "511084",
+    "go_data": [
+      {
+        "term": "kinetochore",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ZW10 helps recruit dynactin and dynein to the kinetochore",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Dynamitin can bind directly to the chromosomal protein zw10",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ZW10 helps recruit dynactin and dynein to the kinetochore, which is related to cytoskeleton organization",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p25",
+    "geneID": "16819",
+    "go_data": [
+      {
+        "term": "cytoplasmic dynein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p25 is a subunit of the dynactin pointed-end complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "membrane binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The conserved alkaline pIs of p25 and its predicted beta structure suggest it may interact electrostatically with negatively charged membrane lipids.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a subunit of the dynactin complex, p25 is likely located in the cytoplasm.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Arp1",
+    "geneID": "10121",
+    "go_data": [
+      {
+        "term": "actin filament binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Arp11 sequence predicts interaction with Arp1 or actin filament pointed ends.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "actin nucleation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Arp11 interaction with Arp1 may provide a novel mechanism for actin nucleation.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p62",
+    "geneID": "35709",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p62 is associated with the Arp1 minifilament, a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p62 remains tightly associated with Arp1, actin, and capZ subunits in a complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Arp1",
+    "geneID": "856530",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Arp1 is associated with actin and other cytoskeletal proteins in a complex.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Arp1 is found in a complex with actin, suggesting it binds to actin.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p150",
+    "geneID": "282087",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "p150Glued is a component of the dynactin complex, which is associated with the cytoskeleton.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p150Glued, dynamitin, and p24 form a complex that cosediments at 9S, indicating their involvement in protein complex assembly.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "dynein light chain",
+    "geneID": "190923",
+    "go_data": [
+      {
+        "term": "cytoplasmic dynein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The dynein light chain, TctexI, binds directly to the transmembrane protein rhodopsin.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The dynein light chain, TctexI, binds directly to the transmembrane protein rhodopsin.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Purified cytoplasmic dynein associates peripherally with purified synaptic vesicles.",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Arp2",
+    "geneID": "66713",
+    "go_data": [
+      {
+        "term": "actin nucleation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The interaction of Arp2/3 complex with actin nucleation",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "actin-binding activity of the Arp2/3 complex",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "The Arp2/3 complex interacts with actin, a key component of the cytoskeleton",
+        "reference(s)": [
+          "PMC2174220"
+        ]
+      }
+    ]
+  }
+]

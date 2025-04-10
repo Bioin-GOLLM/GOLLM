@@ -1,0 +1,24 @@
+{
+  "gene": "IL-4",
+  "geneID": "3565",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-4 is used in combination with GM-CSF to grow human DCs, indicating its role as a cytokine.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-4 production is mentioned in the context of costimulation of T cells and driving Th1 or Th2 responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

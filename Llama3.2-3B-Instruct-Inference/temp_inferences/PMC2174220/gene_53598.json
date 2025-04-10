@@ -1,0 +1,33 @@
+{
+  "gene": "p24",
+  "geneID": "53598",
+  "go_data": [
+    {
+      "term": "cytoskeletal protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p24 subunits are part of the dynactin shoulder/sidearm complex, which interacts with other cytoskeletal proteins.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "dynactin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p24 subunits bind to dynamitin and p150Glued subunits in the dynactin complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Dynactin, which contains p24 subunits, is a cytoplasmic protein complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

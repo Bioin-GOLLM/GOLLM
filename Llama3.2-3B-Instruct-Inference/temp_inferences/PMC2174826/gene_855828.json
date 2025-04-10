@@ -1,0 +1,15 @@
+{
+  "gene": "GAL4",
+  "geneID": "855828",
+  "go_data": [
+    {
+      "term": "chromosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GAL4 is located on chromosome XVI.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

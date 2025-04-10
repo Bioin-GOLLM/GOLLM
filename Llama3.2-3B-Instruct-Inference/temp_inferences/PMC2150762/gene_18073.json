@@ -1,0 +1,15 @@
+{
+  "gene": "entactin",
+  "geneID": "18073",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "involved_in",
+      "namespace": "molecular_function",
+      "justification": "Entactin is mentioned as an RGD-containing protein that does not bind detectably to alpha8beta1.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

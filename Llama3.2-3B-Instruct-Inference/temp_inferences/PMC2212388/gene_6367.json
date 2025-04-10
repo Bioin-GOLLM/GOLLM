@@ -1,0 +1,24 @@
+{
+  "gene": "MDC",
+  "geneID": "6367",
+  "go_data": [
+    {
+      "term": "eosinophil chemotaxis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MDC is an eosinophil-active stimulus.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "chemokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MDC is compared to other chemokines like RANTES and Eotaxin for eosinophil activity.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

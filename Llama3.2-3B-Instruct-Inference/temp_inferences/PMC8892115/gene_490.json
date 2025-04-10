@@ -1,0 +1,24 @@
+{
+  "gene": "ATP2B1",
+  "geneID": "490",
+  "go_data": [
+    {
+      "term": "calcium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ATP2B1 is upregulated by 1,25(OH)2D to transport calcium from the intestinal lumen to the blood.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a calcium-transporting ATPase, ATP2B1 is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

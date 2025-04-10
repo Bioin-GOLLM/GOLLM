@@ -1,0 +1,42 @@
+{
+  "gene": "CD8",
+  "geneID": "925",
+  "go_data": [
+    {
+      "term": "receptor complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD8 associates with the receptor complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "lymphocyte activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8+ T cells undergo activation-induced cell death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8 is expressed on mature T cells, which undergo differentiation in the thymus.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD8 is a transmembrane receptor.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

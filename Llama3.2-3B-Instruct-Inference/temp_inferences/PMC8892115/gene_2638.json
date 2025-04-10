@@ -1,0 +1,60 @@
+{
+  "gene": "vitamin D binding protein",
+  "geneID": "2638",
+  "go_data": [
+    {
+      "term": "vitamin D binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VDBP binds approximately 85% of all circulating vitamin D metabolites.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "vitamin D transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VDBP is responsible for transporting vitamin D metabolites in the circulation.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "blood microparticle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VDBP is found in the blood, where it binds to vitamin D metabolites.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VDBP binds to actin, preventing its polymerization and promoting its clearance.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "neutrophil chemotaxis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VDBP is involved in neutrophil recruitment and chemotaxis.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "fatty acid binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VDBP has been shown to bind fatty acids.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

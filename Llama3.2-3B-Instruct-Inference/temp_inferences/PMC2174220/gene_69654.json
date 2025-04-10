@@ -1,0 +1,33 @@
+{
+  "gene": "p50",
+  "geneID": "69654",
+  "go_data": [
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p50 is part of the dynactin complex, which is involved in intracellular processes and membrane organelle distribution, suggesting it is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p50 interacts with other subunits of the dynactin complex, such as p150Glued, indicating it has protein binding capabilities.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpression of p50 disrupts dynein-dependent maintenance of membrane organelle distribution, suggesting it plays a role in cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "Rabex-5",
+  "geneID": "27342",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rabex-5 interacts directly with syntaxin 13 in vitro.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosomal membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rabex-5 associates with oligomeric structures containing NSF and Rabaptin-5 on endosomal membranes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

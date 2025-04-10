@@ -1,0 +1,42 @@
+{
+  "gene": "FasL",
+  "geneID": "356",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FasL may play an important role in dendritic cell function and their interactions with germinal center T cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FasL is implicated in interactions between dendritic cells and T cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "protein processing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Metalloproteinases have been implicated in FasL processing.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "germinal center",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "In situ hybridization showed distinct expression of FasL in the germinal center.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

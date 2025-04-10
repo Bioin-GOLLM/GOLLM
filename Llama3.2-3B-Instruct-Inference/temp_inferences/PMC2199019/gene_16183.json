@@ -1,0 +1,24 @@
+{
+  "gene": "IL-2",
+  "geneID": "16183",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-2 is expressed in Tac-positive malignant lymphomas, suggesting involvement in immune response.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-2 is a cytokine, implying it has cytokine activity.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

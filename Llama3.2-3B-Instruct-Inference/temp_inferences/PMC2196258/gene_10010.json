@@ -1,0 +1,33 @@
+{
+  "gene": "I-TRAF",
+  "geneID": "10010",
+  "go_data": [
+    {
+      "term": "negative regulation of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "I-TRAF inhibits TRAF2-mediated NF-kappaB activation by blocking the recruitment of TRAF2 to the receptor complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "I-TRAF is not recruited to the cognate receptor-TRAF signaling complex, suggesting it may be located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "I-TRAF is a novel TRAF-interacting protein that regulates TRAF-mediated signal transduction.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

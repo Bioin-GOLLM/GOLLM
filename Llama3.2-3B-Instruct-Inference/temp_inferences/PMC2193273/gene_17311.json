@@ -1,0 +1,33 @@
+{
+  "gene": "SCF",
+  "geneID": "17311",
+  "go_data": [
+    {
+      "term": "stem cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SCF (c-kit ligand) synergizes with IL-7 to stimulate growth of thymocytes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SCF synergizes with IL-7 to increase cell yield per cultured thymic lobe.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SCF (c-kit ligand) stimulates the in vitro growth of immature thymocytes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

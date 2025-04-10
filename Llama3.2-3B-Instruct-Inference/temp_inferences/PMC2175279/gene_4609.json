@@ -1,0 +1,15 @@
+{
+  "gene": "myc",
+  "geneID": "4609",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myc-tagged MURF coexpressed with Flag-tagged MURF resulted in colocalization along the same filamentous structures, suggesting interaction between the two proteins.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

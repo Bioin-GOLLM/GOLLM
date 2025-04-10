@@ -1,0 +1,42 @@
+{
+  "gene": "PNGase",
+  "geneID": "55768",
+  "go_data": [
+    {
+      "term": "peptide-N-glycosidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNGase cleaves the amide bond between the proximal N-acetylglucosamine and the linker asparagine residues on glycopeptides/glycoproteins.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "proteasome-dependent protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PNG1 may be required for efficient proteasome-mediated degradation of a misfolded glycoprotein.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Subcellular localization studies indicate that the Png1p is found in the nucleus, with a lower level occurring in the cytoplasm.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Subcellular localization studies indicate that the Png1p is found in the cytosol.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

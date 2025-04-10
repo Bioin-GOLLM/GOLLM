@@ -1,0 +1,33 @@
+{
+  "gene": "TRAF6",
+  "geneID": "7189",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF6 may regulate other receptor-mediated signaling pathways.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "interleukin-1-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF6 mediates the activation of NF-kappaB by IL-1R.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRAF6 is a component of IL-1 receptor-signaling complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

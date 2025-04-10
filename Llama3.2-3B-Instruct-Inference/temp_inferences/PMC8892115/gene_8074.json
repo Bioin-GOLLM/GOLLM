@@ -1,0 +1,42 @@
+{
+  "gene": "FGF-23",
+  "geneID": "8074",
+  "go_data": [
+    {
+      "term": "regulation of phosphate metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CKD patients have elevated phosphate and FGF-23 concentrations, indicating FGF-23's role in phosphate metabolism.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "negative regulation of vitamin D biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FGF23 inhibits 1-alpha hydroxylase, reducing the renal synthesis of 1,25(OH)2D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "osteocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Osteocytes secrete FGF23, suggesting FGF-23's involvement in osteocyte function.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FGF23 binds to Klotho, implying it interacts at the cell surface.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

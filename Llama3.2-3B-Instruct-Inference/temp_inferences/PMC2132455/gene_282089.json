@@ -1,0 +1,42 @@
+{
+  "gene": "TGFbeta1",
+  "geneID": "282089",
+  "go_data": [
+    {
+      "term": "endocardial cushion development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta1 is involved in the development of the mouse heart, specifically in eliciting endothelial-mesenchymal transformation during the formation of endocardial cushion tissue.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Immunohistochemical examination revealed an extracellular fibrillar deposition of TGFbeta1 in developing endocardial cushion tissue.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TGFbeta1 restored the inhibitory effect of Ab39, indicating its role as a growth factor.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "endothelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbetas, including TGFbeta1, play a role in eliciting endothelial-mesenchymal transformation during the formation of endocardial cushion tissue.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

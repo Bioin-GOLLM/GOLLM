@@ -1,0 +1,33 @@
+{
+  "gene": "TGFbeta3",
+  "geneID": "7043",
+  "go_data": [
+    {
+      "term": "endocardial cushion formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta3 is involved in endocardial cushion tissue formation during the development of the heart.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "endothelial to mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta3 regulates endothelial-mesenchymal transformation during endocardial cushion tissue formation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta3 plays a role in the development of the heart, specifically in the formation of endocardial cushion tissue.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

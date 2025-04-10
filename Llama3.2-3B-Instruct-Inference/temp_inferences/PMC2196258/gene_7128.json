@@ -1,0 +1,42 @@
+{
+  "gene": "A20",
+  "geneID": "7128",
+  "go_data": [
+    {
+      "term": "negative regulation of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A20 inhibits the activation of NF-kappaB induced by IL-1R as well as by TNFRs.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cellular response to tumor necrosis factor",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The A20 zinc finger protein protects cells from tumor necrosis factor cytotoxicity.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "A20 interacts with TRAF1/TRAF2.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "negative regulation of apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Manganese superoxide dismutase or A20 induced by NF-kappaB activation will also contribute to the survival of cells during cell proliferation/growth.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

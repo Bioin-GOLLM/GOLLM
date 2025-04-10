@@ -1,0 +1,24 @@
+{
+  "gene": "E-selectin",
+  "geneID": "6401",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "E-selectin is used as a coating in cell adhesion assays.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CHO cells did not display significant adherence to wells coated with E-selectin.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

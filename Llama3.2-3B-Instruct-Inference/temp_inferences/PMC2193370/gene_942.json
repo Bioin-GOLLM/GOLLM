@@ -1,0 +1,42 @@
+{
+  "gene": "B7.2",
+  "geneID": "942",
+  "go_data": [
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7.2 delivers costimulatory signals to T cells by binding CD28.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7.2 is part of the B7 family, which delivers important costimulatory signals in the immune response.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "B7.2 is expressed on the surface of bone marrow-derived APCs, including B cells, macrophages, and DCs.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "B7.2 binds to CD28 and CTLA-4 on T cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

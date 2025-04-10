@@ -1,0 +1,33 @@
+{
+  "gene": "c-IAP1",
+  "geneID": "329",
+  "go_data": [
+    {
+      "term": "inhibition of apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "c-IAP1 was shown to inhibit the apoptosis triggered by IL-1beta converting enzyme overexpression or serum deprivation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "c-IAP1 is recruited to the TNFR2 signaling complex by their interaction with TRAFs.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information, but based on the provided text, c-IAP1 interacts with TRAFs which are typically found in the cytoplasm.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

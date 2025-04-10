@@ -1,0 +1,33 @@
+{
+  "gene": "IL-10",
+  "geneID": "3586",
+  "go_data": [
+    {
+      "term": "anti-inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-10 is described as an anti-inflammatory compound.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cytokine production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-10 is mentioned as a compound whose expression is increased.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "immune system",
+      "relationship": "part_of",
+      "namespace": "biological_process",
+      "justification": "IL-10 is mentioned in the context of attenuating the inflammatory response of monocytes and macrophages.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

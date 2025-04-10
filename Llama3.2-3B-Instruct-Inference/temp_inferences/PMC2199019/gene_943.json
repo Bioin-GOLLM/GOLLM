@@ -1,0 +1,42 @@
+{
+  "gene": "CD30",
+  "geneID": "943",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD30 is described as being shed from the cell surface by metalloproteases.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD30 is mentioned alongside other molecules that play critical roles in the immune system.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "protein processing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Metalloproteinases have been implicated in the processing of CD30.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "membrane-bound",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD30 is described as a membrane-bound molecule that is processed by metalloproteinases.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

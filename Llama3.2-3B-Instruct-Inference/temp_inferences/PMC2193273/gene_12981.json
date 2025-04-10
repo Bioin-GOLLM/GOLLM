@@ -1,0 +1,33 @@
+{
+  "gene": "GM-CSF",
+  "geneID": "12981",
+  "go_data": [
+    {
+      "term": "hematopoietic progenitor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GM-CSF stimulates the growth of granulocyte and/or macrophage colonies.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GM-CSF is used to stimulate cultures of whole bone marrow or bone marrow depleted of B220+ cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GM-CSF is added to cultures of whole bone marrow, indicating it acts outside the cell.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

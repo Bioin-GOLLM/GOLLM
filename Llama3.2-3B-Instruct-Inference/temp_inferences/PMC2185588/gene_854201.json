@@ -1,0 +1,33 @@
+{
+  "gene": "Pep12p",
+  "geneID": "854201",
+  "go_data": [
+    {
+      "term": "SNARE complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Pep12p is found in complex with hVPS45 and Vps45p, which are implicated in endosomal SNARE complex formation.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosomal fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pep12p is found in complex with Vps45p, which serves as a link between Rab5 regulation of endosomal fusion events.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "prevacuolar compartment",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Pep12p is implicated in proper sorting and trafficking of proteins from the TGN to the vacuole.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

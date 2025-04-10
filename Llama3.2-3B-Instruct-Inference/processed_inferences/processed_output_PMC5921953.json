@@ -1,0 +1,86 @@
+[
+  {
+    "gene": "Uroplakin Ib",
+    "geneID": "7348",
+    "go_data": [
+      {
+        "term": "transmembrane signaling receptor activity",
+        "go_id": "GO:0004888",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Uroplakin Ib is a urothelium-specific transmembrane protein.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      },
+      {
+        "term": "ureter epithelial cell differentiation",
+        "go_id": "GO:0072192",
+        "relationship": [
+          "part_of GO:0072190"
+        ],
+        "namespace": "biological_process",
+        "justification": "Uroplakin Ib is specifically expressed in urothelial cells.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Uroplakin Ib is a transmembrane protein.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Uroplakin III",
+    "geneID": "7380",
+    "go_data": [
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Uroplakin III is described as a transmembrane protein.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "go_id": "GO:0098609",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "No explicit evidence, removing due to lack of direct mention.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UP",
+    "geneID": "7378",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "No explicit information is provided, however, based on the context that the gene is expressed and detected, it can be inferred the gene product would be in the nucleus, but since it is not explicitly stated, this term is not included.",
+        "reference(s)": [
+          "PMC5921953"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "gene": "p150",
+  "geneID": "282087",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p150Glued is a component of the dynactin complex, which is associated with the cytoskeleton.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p150Glued, dynamitin, and p24 form a complex that cosediments at 9S, indicating their involvement in protein complex assembly.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

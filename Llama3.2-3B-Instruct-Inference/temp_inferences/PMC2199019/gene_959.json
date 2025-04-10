@@ -1,0 +1,33 @@
+{
+  "gene": "CD40 ligand",
+  "geneID": "959",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 ligand promotes maturation of immature DCs.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 ligand interacts with DCs to induce decysin expression.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD40 ligand is known to be involved in the activation of T cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

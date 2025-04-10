@@ -1,0 +1,33 @@
+{
+  "gene": "RhoGEF",
+  "geneID": "36915",
+  "go_data": [
+    {
+      "term": "Rho guanylyl-nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RhoGEF functions as a Rho-specific GEF, mediating the regulation of Rho by G12/G13.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell shape change",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A putative RhoGEF mediates a signaling pathway for cell shape changes in Drosophila gastrulation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RhoGEF can directly link Galpha13 to the regulation of Rho, indicating involvement in G-protein coupled receptor signaling.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

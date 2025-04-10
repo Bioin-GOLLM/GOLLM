@@ -1,0 +1,42 @@
+{
+  "gene": "Mena",
+  "geneID": "55740",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mena is implicated in the control of microfilament dynamics and required for neurulation and commissure formation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Mena is a relative of VASP and Drosophila Enabled, and is involved in actin-based motility of Listeria monocytogenes.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell projection",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Mena is highly concentrated at the distal tips of growth cone filopodia.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "axon guidance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Genetic analyses indicate that Mena and its Drosophila homologue Ena are required for axon guidance.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

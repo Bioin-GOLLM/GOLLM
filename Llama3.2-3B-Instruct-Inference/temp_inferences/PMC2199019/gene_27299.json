@@ -1,0 +1,51 @@
+{
+  "gene": "decysin",
+  "geneID": "27299",
+  "go_data": [
+    {
+      "term": "metalloendopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Decysin is a member of the metalloproteinase family and contains a zinc-chelating catalytic site.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a metalloproteinase, decysin is involved in proteolysis.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Decysin lacks a transmembrane domain and is therefore potentially secreted.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "dendritic cell maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Decysin is induced or upregulated during DC maturation.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Decysin is selectively expressed by DC and upregulated by signals of activated T cells.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

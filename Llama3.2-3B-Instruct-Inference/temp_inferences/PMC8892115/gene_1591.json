@@ -1,0 +1,42 @@
+{
+  "gene": "CYP24A1",
+  "geneID": "1591",
+  "go_data": [
+    {
+      "term": "vitamin D metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CYP24A1 metabolises 25(OH)D to 24,25-dihydroxy-vitamin D and 1,25(OH)2D to 1,24,25-trihydroxy-vitamin D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "oxidoreductase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP24A1 is involved in the metabolism of vitamin D, which requires oxidoreductase activity.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a cytochrome P450 enzyme, CYP24A1 is expected to be located in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "calcium ion homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations in CYP24A1 cause infantile hypercalcemia, indicating a role in calcium ion homeostasis.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

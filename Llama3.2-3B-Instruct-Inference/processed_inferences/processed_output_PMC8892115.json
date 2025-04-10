@@ -1,0 +1,1327 @@
+[
+  {
+    "gene": "vitamin D binding protein",
+    "geneID": "2638",
+    "go_data": [
+      {
+        "term": "vitamin D binding",
+        "go_id": "GO:0005499",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "VDBP binds approximately 85% of all circulating vitamin D metabolites.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "vitamin transport",
+        "go_id": "GO:0051180",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "VDBP is responsible for transporting vitamin D metabolites in the circulation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "blood microparticle",
+        "go_id": "GO:0072562",
+        "relationship": [
+          "part_of GO:0005615"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VDBP is found in the blood, where it binds to vitamin D metabolites.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "actin binding",
+        "go_id": "GO:0003779",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "VDBP binds to actin, preventing its polymerization and promoting its clearance.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "neutrophil chemotaxis",
+        "go_id": "GO:0030593",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "VDBP is involved in neutrophil recruitment and chemotaxis.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "fatty acid binding",
+        "go_id": "GO:0005504",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "VDBP has been shown to bind fatty acids.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CYP2R1",
+    "geneID": "120227",
+    "go_data": [
+      {
+        "term": "vitamin D biosynthetic process",
+        "go_id": "GO:0042368",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CYP2R1 hydroxylates vitamin D2 and D3 at carbon 25 resulting in the production of 25(OH)D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "oxidoreductase activity",
+        "go_id": "GO:0016491",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP2R1 catalyzes the generation of 25(OH)D from pro-vitamin D3 as a 25-hydroxylase.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CYP2R1 is a microsomal enzyme, indicating it is located in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "liver development",
+        "go_id": "GO:0001889",
+        "relationship": [
+          "part_of GO:0061008"
+        ],
+        "namespace": "biological_process",
+        "justification": "CYP2R1 is expressed in the liver where it hydroxylates vitamin D2 and D3.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "placenta development",
+        "go_id": "GO:0001890",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The placenta possesses CYP2R1, which may be involved in the regulation of circulating 25(OH)D levels.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CYP27A1",
+    "geneID": "1593",
+    "go_data": [
+      {
+        "term": "vitamin D metabolic process",
+        "go_id": "GO:0042359",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CYP27A1 hydroxylates vitamin D2 and D3 at carbon 25 resulting in the production of 25(OH)D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CYP27A1 is a mitochondrial cytochrome P450.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "monooxygenase activity",
+        "go_id": "GO:0004497",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP27A1 hydroxylates vitamin D2 and D3, which is a monooxygenase reaction.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "liver development",
+        "go_id": "GO:0001889",
+        "relationship": [
+          "part_of GO:0061008"
+        ],
+        "namespace": "biological_process",
+        "justification": "CYP27A1 is active in the liver where it hydroxylates vitamin D2 and D3.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CYP27B1",
+    "geneID": "1594",
+    "go_data": [
+      {
+        "term": "vitamin D 24-hydroxylase activity",
+        "go_id": "GO:0070576",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP27B1 attaches the second hydroxygroup in position 1 forming active 1,25-(OH)2D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "renal system process",
+        "go_id": "GO:0003014",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Renal CYP27B1 attaches the second hydroxygroup in position 1 forming active 1,25-(OH)2D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "heme binding",
+        "go_id": "GO:0020037",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP27B1 is a cytochrome P450 enzyme, which typically binds heme.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "iron ion binding",
+        "go_id": "GO:0005506",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP27B1 is a cytochrome P450 enzyme, which typically binds iron ions via heme.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "monooxygenase activity",
+        "go_id": "GO:0004497",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP27B1 catalyzes the 1alpha-hydroxylation of 25(OH)D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CYP24A1",
+    "geneID": "1591",
+    "go_data": [
+      {
+        "term": "vitamin D metabolic process",
+        "go_id": "GO:0042359",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CYP24A1 metabolises 25(OH)D to 24,25-dihydroxy-vitamin D and 1,25(OH)2D to 1,24,25-trihydroxy-vitamin D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "oxidoreductase activity",
+        "go_id": "GO:0016491",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP24A1 is involved in the metabolism of vitamin D, which requires oxidoreductase activity.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a cytochrome P450 enzyme, CYP24A1 is expected to be located in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "calcium ion homeostasis",
+        "go_id": "GO:0055074",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mutations in CYP24A1 cause infantile hypercalcemia, indicating a role in calcium ion homeostasis.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DBP",
+    "geneID": "1628",
+    "go_data": [
+      {
+        "term": "vitamin D binding",
+        "go_id": "GO:0005499",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "DBP binds to vitamin D metabolites in the circulation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "blood circulation",
+        "go_id": "GO:0008015",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DBP is found in the circulation, binding vitamin D metabolites.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "response to vitamin D",
+        "go_id": "GO:0033280",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Genetic variants of DBP predict differences in response of serum 25-hydroxyvitamin D to vitamin D supplementation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "albumin",
+    "geneID": "213",
+    "go_data": [
+      {
+        "term": "vitamin D binding",
+        "go_id": "GO:0005499",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Albumin binds approximately 15% of all circulating vitamin D metabolites.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "blood circulation",
+        "go_id": "GO:0008015",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Albumin is found in the circulation, where it binds vitamin D metabolites.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "go_id": "GO:0005576",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Albumin is found in the serum, which is part of the extracellular region.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Albumin binds to vitamin D metabolites.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VDR",
+    "geneID": "7421",
+    "go_data": [
+      {
+        "term": "nuclear steroid receptor activity",
+        "go_id": "GO:0003707",
+        "relationship": [
+          "part_of GO:0030518"
+        ],
+        "namespace": "molecular_function",
+        "justification": "The biological activity of 1,25(OH)2D is mediated by binding to the VDR, a nuclear receptor.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The VDR is a nuclear receptor that binds specific DNA sequences located at different genomic regions.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "regulation of gene expression",
+        "go_id": "GO:0010468",
+        "relationship": [
+          "regulates GO:0010467"
+        ],
+        "namespace": "biological_process",
+        "justification": "The VDR binds specific DNA sequences to subsequently modulate the expression of the respective target genes.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "vitamin D receptor signaling pathway",
+        "go_id": "GO:0070561",
+        "relationship": [
+          "part_of GO:0071305"
+        ],
+        "namespace": "biological_process",
+        "justification": "The VDR mediates the biological activity of 1,25(OH)2D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cellular response to vitamin D",
+        "go_id": "GO:0071305",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The VDR is involved in the response to vitamin D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PTH",
+    "geneID": "5741",
+    "go_data": [
+      {
+        "term": "hormone activity",
+        "go_id": "GO:0005179",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PTH increases the synthesis of 1,25(OH)2D, which regulates blood calcium levels.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "calcium ion homeostasis",
+        "go_id": "GO:0055074",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PTH increases the synthesis of 1,25(OH)2D, which regulates blood calcium levels through intestinal absorption, renal reabsorption and release from bone stores.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "parathyroid gland development",
+        "go_id": "GO:0060017",
+        "relationship": [
+          "part_of GO:0035270"
+        ],
+        "namespace": "biological_process",
+        "justification": "Parathyroid hormone (PTH) is controlled in the kidneys and secreted by the parathyroid gland.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "pregnane X receptor",
+    "geneID": "8856",
+    "go_data": [
+      {
+        "term": "nuclear steroid receptor activity",
+        "go_id": "GO:0003707",
+        "relationship": [
+          "part_of GO:0030518"
+        ],
+        "namespace": "molecular_function",
+        "justification": "The pregnane X receptor is a nuclear receptor that shares homologies with the VDR, a known steroid hormone receptor.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The pregnane X receptor is described as a nuclear receptor.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "regulation of vitamin D biosynthetic process",
+        "go_id": "GO:0060556",
+        "relationship": [
+          "regulates GO:0042368"
+        ],
+        "namespace": "biological_process",
+        "justification": "Binding of anti-epileptic drugs to the pregnane X receptor increases 25(OH)D catabolism by an induction of CYP3A4 and CYP24A1.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The pregnane X receptor binds to anti-epileptic drugs such as phenobarbital, carbamazepine, phenytoin and valproate.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CYP3A4",
+    "geneID": "1576",
+    "go_data": [
+      {
+        "term": "oxidoreductase activity",
+        "go_id": "GO:0016491",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CYP3A4 is involved in the catabolism of vitamin D, indicating its role as an oxidoreductase.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "vitamin D catabolic process",
+        "go_id": "GO:0042369",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CYP3A4 induction increases 25(OH)D catabolism.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a cytochrome P450 enzyme, CYP3A4 is typically located in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FGF-23",
+    "geneID": "8074",
+    "go_data": [
+      {
+        "term": "regulation of phosphate metabolic process",
+        "go_id": "GO:0019220",
+        "relationship": [
+          "regulates GO:0006796"
+        ],
+        "namespace": "biological_process",
+        "justification": "CKD patients have elevated phosphate and FGF-23 concentrations, indicating FGF-23's role in phosphate metabolism.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "negative regulation of vitamin D biosynthetic process",
+        "go_id": "GO:0010957",
+        "relationship": [
+          "negatively_regulates GO:0042368"
+        ],
+        "namespace": "biological_process",
+        "justification": "FGF23 inhibits 1-alpha hydroxylase, reducing the renal synthesis of 1,25(OH)2D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "osteoblast differentiation",
+        "go_id": "GO:0001649",
+        "relationship": [
+          "part_of GO:0001503"
+        ],
+        "namespace": "biological_process",
+        "justification": "Osteocytes secrete FGF23, suggesting FGF-23's involvement in osteocyte function.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "FGF23 binds to Klotho, implying it interacts at the cell surface.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRPV6",
+    "geneID": "55503",
+    "go_data": [
+      {
+        "term": "calcium ion transmembrane transport",
+        "go_id": "GO:0070588",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TRPV6 is upregulated by 1,25(OH)2D to transport calcium from the intestinal lumen to the blood.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TRPV6 is involved in the transport of calcium from the intestinal lumen to the blood, implying it is a membrane-bound protein.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "S100G",
+    "geneID": "795",
+    "go_data": [
+      {
+        "term": "intestinal absorption",
+        "go_id": "GO:0050892",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "S100G is upregulated by 1,25(OH)2D to facilitate the transport of calcium from the intestinal lumen to the blood.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "calcium ion homeostasis",
+        "go_id": "GO:0055074",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "S100G is involved in regulating blood calcium levels through intestinal absorption.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "enterocyte differentiation",
+        "go_id": "GO:1903703",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "None found",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATP2B1",
+    "geneID": "490",
+    "go_data": [
+      {
+        "term": "calcium ion transport",
+        "go_id": "GO:0006816",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ATP2B1 is upregulated by 1,25(OH)2D to transport calcium from the intestinal lumen to the blood.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a calcium-transporting ATPase, ATP2B1 is expected to be located in the plasma membrane.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CLDN2",
+    "geneID": "9075",
+    "go_data": [
+      {
+        "term": "intestinal absorption",
+        "go_id": "GO:0050892",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CLDN2 is upregulated by 1,25(OH)2D to facilitate the transport of calcium from the intestinal lumen to the blood.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "calcium ion transport",
+        "go_id": "GO:0006816",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CLDN2 is upregulated by 1,25(OH)2D to facilitate the transport of calcium from the intestinal lumen to the blood.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "tight junction",
+        "go_id": "GO:0070160",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CLDN2 is a tight junction protein.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Klotho",
+    "geneID": "9365",
+    "go_data": [
+      {
+        "term": "fibroblast growth factor receptor signaling pathway",
+        "go_id": "GO:0008543",
+        "relationship": [
+          "part_of GO:0044344"
+        ],
+        "namespace": "biological_process",
+        "justification": "Klotho binds to FGF23, which inhibits 1-alpha hydroxylase and reduces the renal synthesis of 1,25(OH)2D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Klotho binds to FGF23, implying it is located on the cell surface to interact with FGF23.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "osteocalcin",
+    "geneID": "12097",
+    "go_data": [
+      {
+        "term": "bone development",
+        "go_id": "GO:0060348",
+        "relationship": [
+          "part_of GO:0001501"
+        ],
+        "namespace": "biological_process",
+        "justification": "1,25(OH)2D increases osteoblastic expression of osteocalcin, supporting bone formation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "osteoblast differentiation",
+        "go_id": "GO:0001649",
+        "relationship": [
+          "part_of GO:0001503"
+        ],
+        "namespace": "biological_process",
+        "justification": "Osteocalcin expression is increased by 1,25(OH)2D in osteoblasts, indicating a role in osteoblast differentiation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p16",
+    "geneID": "13088",
+    "go_data": [
+      {
+        "term": "negative regulation of cell population proliferation",
+        "go_id": "GO:0008285",
+        "relationship": [
+          "negatively_regulates GO:0008283"
+        ],
+        "namespace": "biological_process",
+        "justification": "p16 is involved in senescence pathways, which suggests its role in regulating cell proliferation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cellular senescence",
+        "go_id": "GO:0090398",
+        "relationship": [
+          "part_of GO:0033554"
+        ],
+        "namespace": "biological_process",
+        "justification": "p16 is activated in senescence pathways, indicating its involvement in cellular senescence.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "regulation of cellular senescence",
+        "go_id": "GO:2000772",
+        "relationship": [
+          "regulates GO:0090398"
+        ],
+        "namespace": "biological_process",
+        "justification": "p16 is part of the p16/p53-senescence signaling, which is inactivated by 1,25-Dihydroxyvitamin D to exert an antiaging role.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p19",
+    "geneID": "83430",
+    "go_data": [
+      {
+        "term": "negative regulation of cell population proliferation",
+        "go_id": "GO:0008285",
+        "relationship": [
+          "negatively_regulates GO:0008283"
+        ],
+        "namespace": "biological_process",
+        "justification": "p19 is involved in senescence pathways, which suggests its role in regulating cell proliferation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cellular senescence",
+        "go_id": "GO:0090398",
+        "relationship": [
+          "part_of GO:0033554"
+        ],
+        "namespace": "biological_process",
+        "justification": "p19 is activated in senescence pathways, indicating its involvement in cellular senescence.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "regulation of apoptotic process",
+        "go_id": "GO:0042981",
+        "relationship": [
+          "regulates GO:0006915"
+        ],
+        "namespace": "biological_process",
+        "justification": "p19 is mentioned alongside the regulation of cell proliferation, differentiation, and apoptosis, suggesting its involvement in apoptosis regulation.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-10",
+    "geneID": "3586",
+    "go_data": [
+      {
+        "term": "negative regulation of inflammatory response",
+        "go_id": "GO:0050728",
+        "relationship": [
+          "negatively_regulates GO:0006954"
+        ],
+        "namespace": "biological_process",
+        "justification": "IL-10 is described as an anti-inflammatory compound.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cytokine production",
+        "go_id": "GO:0001816",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-10 is mentioned as a compound whose expression is increased.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "go_id": "GO:0002376",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-10 is mentioned in the context of attenuating the inflammatory response of monocytes and macrophages.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1b",
+    "geneID": "3553",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-1b is described as a pro-inflammatory cytokine.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-1b is referred to as a cytokine, implying it has cytokine activity.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-6",
+    "geneID": "3569",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-6 is described as a pro-inflammatory cytokine.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-6 is referred to as a cytokine, implying it has cytokine activity.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFalpha",
+    "geneID": "7124",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TNFalpha is described as a pro-inflammatory cytokine.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TNFalpha is referred to as a cytokine.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RANKL",
+    "geneID": "8600",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RANKL is mentioned alongside other cytokines like IL-1b, IL-6, and TNFalpha, indicating it has cytokine activity.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RANKL secretion is reduced by 1,25(OH)2D, which attenuates the inflammatory response of monocytes and macrophages.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "COX2",
+    "geneID": "4513",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The secretion of COX2 is reduced by 1,25(OH)2D, which attenuates the inflammatory response of monocytes and macrophages.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "prostaglandin biosynthetic process",
+        "go_id": "GO:0001516",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "COX2 is involved in the production of pro-inflammatory compounds, implying a role in prostaglandin biosynthesis.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "insulin secretion",
+        "go_id": "GO:0030073",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "insulin secretion is modified by calcitriol",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "glucose homeostasis",
+        "go_id": "GO:0042593",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "insulin plays a role in glucose homeostasis",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cellular response to insulin stimulus",
+        "go_id": "GO:0032869",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "insulin sensitivity is modified by calcitriol",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "renin",
+    "geneID": "5972",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "go_id": "GO:0008233",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Renin is an enzyme that catalyzes the conversion of angiotensinogen to angiotensin I.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "blood vessel morphogenesis",
+        "go_id": "GO:0048514",
+        "relationship": [
+          "part_of GO:0001568"
+        ],
+        "namespace": "biological_process",
+        "justification": "The renin-angiotensin axis influences blood pressure regulation and vascular development.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "circulatory system process",
+        "go_id": "GO:0003013",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Renin plays a role in the regulation of blood pressure through the renin-angiotensin-aldosterone system.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PHEX",
+    "geneID": "5251",
+    "go_data": [
+      {
+        "term": "metalloendopeptidase activity",
+        "go_id": "GO:0004222",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PHEX is described as a cell surface metalloproteinase.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "PHEX is described as a cell surface metalloproteinase.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "regulation of phosphate transport",
+        "go_id": "GO:0010966",
+        "relationship": [
+          "regulates GO:0006817"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mutations of PHEX cause X-linked hypophosphataemia, characterized by phosphate transport issues.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SLC34A1",
+    "geneID": "6569",
+    "go_data": [
+      {
+        "term": "calcium ion homeostasis",
+        "go_id": "GO:0055074",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mutations of the SLC34A1 gene are associated with hypercalcaemia.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha-fetoprotein",
+    "geneID": "174",
+    "go_data": [
+      {
+        "term": "liver development",
+        "go_id": "GO:0001889",
+        "relationship": [
+          "part_of GO:0061008"
+        ],
+        "namespace": "biological_process",
+        "justification": "Alpha-fetoprotein is mainly produced in the liver.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "megalin",
+    "geneID": "4036",
+    "go_data": [
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Megalin is involved in the reuptake of 25(OH)D in the kidneys.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "pyrenoid tubule",
+        "go_id": "GO:0160223",
+        "relationship": [
+          "part_of GO:1990732"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Megalin-dependent uptake of the VDBP-25(OH)D complex into cells is limited to the proximal renal tubule.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "go_id": "GO:0006897",
+        "relationship": [
+          "has_part GO:0006900",
+          "has_part GO:0010324"
+        ],
+        "namespace": "biological_process",
+        "justification": "Megalin is involved in the renal megalin/cubilin-mediated reuptake of 25(OH)D in the kidneys.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "placenta development",
+        "go_id": "GO:0001890",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Vitamin D-dependent expression of megalin and cubilin has been found in the placenta.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cubilin",
+    "geneID": "8029",
+    "go_data": [
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "cubilin is involved in the renal megalin/cubilin-mediated reuptake of 25(OH)D in the kidneys.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "pyrenoid tubule",
+        "go_id": "GO:0160223",
+        "relationship": [
+          "part_of GO:1990732"
+        ],
+        "namespace": "cellular_component",
+        "justification": "the megalin-dependent uptake of the VDBP-25(OH)D complex into cells is limited to the proximal renal tubule.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "vitamin transport",
+        "go_id": "GO:0051180",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "cubilin is involved in the renal megalin/cubilin-mediated reuptake of 25(OH)D in the kidneys.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "go_id": "GO:0006897",
+        "relationship": [
+          "has_part GO:0006900",
+          "has_part GO:0010324"
+        ],
+        "namespace": "biological_process",
+        "justification": "cubilin is involved in the megalin-dependent uptake of the VDBP-25(OH)D complex into cells.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Gc2",
+    "geneID": "83733",
+    "go_data": [
+      {
+        "term": "vitamin D binding",
+        "go_id": "GO:0005499",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Gc2 is a variant of the vitamin D-binding protein (VDBP) that binds 25(OH)D.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      },
+      {
+        "term": "blood microparticle",
+        "go_id": "GO:0072562",
+        "relationship": [
+          "part_of GO:0005615"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VDBP, including the Gc2 variant, is found in the bloodstream, often associated with blood microparticles.",
+        "reference(s)": [
+          "PMC8892115"
+        ]
+      }
+    ]
+  }
+]

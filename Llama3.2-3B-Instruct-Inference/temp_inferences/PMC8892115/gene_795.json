@@ -1,0 +1,33 @@
+{
+  "gene": "S100G",
+  "geneID": "795",
+  "go_data": [
+    {
+      "term": "intestinal absorption",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "S100G is upregulated by 1,25(OH)2D to facilitate the transport of calcium from the intestinal lumen to the blood.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "calcium ion homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "S100G is involved in regulating blood calcium levels through intestinal absorption.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "enterocyte differentiation",
+      "relationship": "None found",
+      "namespace": "None",
+      "justification": "None found",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

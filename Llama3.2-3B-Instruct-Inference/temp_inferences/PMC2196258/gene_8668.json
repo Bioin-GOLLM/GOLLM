@@ -1,0 +1,24 @@
+{
+  "gene": "TRIP",
+  "geneID": "8668",
+  "go_data": [
+    {
+      "term": "inhibition of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIP inhibits TRAF2-mediated NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRIP interacts with TRAF2 to inhibit NF-kappaB activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

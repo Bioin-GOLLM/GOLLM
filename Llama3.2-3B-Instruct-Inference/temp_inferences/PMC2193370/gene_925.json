@@ -1,0 +1,15 @@
+{
+  "gene": "CD8alpha",
+  "geneID": "925",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8alpha+ DCs induce strong Th1 responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "Slap",
+  "geneID": "6503",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fyb/SLAP localizes at the interface between T cells and anti-CD3-coated beads, where it colocalizes with F-actin, and is involved in actin remodeling upon T cell stimulation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "lamellipodium",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP localizes exclusively to lamellipodia of spreading platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fyb/SLAP is a component of the TCR signaling complex and is involved in linking TCR signaling to actin remodeling.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Fyb/SLAP is present in a protein complex with WASP, SLP-76, and Nck in activated T cells.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

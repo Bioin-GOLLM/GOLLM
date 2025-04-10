@@ -1,0 +1,134 @@
+[
+  {
+    "gene": "Tenascin-X",
+    "geneID": "7148",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Tenascin-X is described as a novel extracellular matrix protein.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "ubiquitous expression in human fetal tissues",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RNase protection experiments show that the TN-X transcript is expressed ubiquitously in human fetal tissues.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "skeletal muscle development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The greatest expression of TN-X transcript is in fetal skeletal muscle.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "P450c21B",
+    "geneID": "1589",
+    "go_data": [
+      {
+        "term": "steroid hydroxylase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "P450c21B gene encodes steroid 21-hydroxylase",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "adrenal cortex development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "P450c21B is expressed in the human adrenal cortex",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a P450 enzyme, P450c21B is expected to be located in the endoplasmic reticulum",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGF",
+    "geneID": "1950",
+    "go_data": [
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EGF-like repeats are found in the protein structure, implying a role in growth factor activity.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The presence of a signal peptide and EGF-like repeats suggests the protein is secreted and found in the extracellular region.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tenascin",
+    "geneID": "3371",
+    "go_data": [
+      {
+        "term": "extracellular matrix organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Tenascin contains fibronectin type III repeats, which are known to be involved in extracellular matrix organization.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "fibrinogen-like domain",
+        "relationship": "has_part",
+        "namespace": "molecular_function",
+        "justification": "The predicted protein of tenascin consists of a carboxy-terminal fibrinogen-like domain.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Tenascin contains EGF-like repeats, which are known to be involved in cell adhesion molecule binding.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Tenascin is predicted to be a large protein with multiple domains, suggesting it is located in the extracellular matrix.",
+        "reference(s)": [
+          "PMC2119596"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "gene": "TRPV6",
+  "geneID": "55503",
+  "go_data": [
+    {
+      "term": "calcium ion transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRPV6 is upregulated by 1,25(OH)2D to transport calcium from the intestinal lumen to the blood.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "integral component of plasma membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TRPV6 is involved in the transport of calcium from the intestinal lumen to the blood, implying it is a membrane-bound protein.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

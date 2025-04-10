@@ -1,0 +1,42 @@
+{
+  "gene": "TSLP",
+  "geneID": "85480",
+  "go_data": [
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TSLP supports the clonal growth of normal murine bone marrow cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "lymphoid progenitor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSLP stimulates the growth of lymphoid progenitor cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TSLP is secreted by thymic stromal cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSLP acts on lymphoid progenitor cells to stimulate their growth.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

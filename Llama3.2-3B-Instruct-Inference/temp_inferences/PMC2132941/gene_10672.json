@@ -1,0 +1,51 @@
+{
+  "gene": "G13",
+  "geneID": "10672",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "G13 is involved in signaling from lysophosphatidic acid receptor via epidermal growth factor receptor to Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "Rho protein signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "G13 mediates signaling from lysophosphatidic acid receptor via epidermal growth factor receptor to Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet shape change",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of G12/G13 is sufficient to induce platelet shape change.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "myosin light chain phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "G12/G13 activation results in MLC phosphorylation through Rho-mediated activation of Rho-kinase.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "G13 is involved in cell signaling from lysophosphatidic acid receptor via epidermal growth factor receptor to Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

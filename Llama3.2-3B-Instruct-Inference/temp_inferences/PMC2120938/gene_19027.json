@@ -1,0 +1,24 @@
+{
+  "gene": "pantophysin",
+  "geneID": "19027",
+  "go_data": [
+    {
+      "term": "integral component of membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "The encoded polypeptide of pantophysin has four hydrophobic putative transmembrane domains.",
+      "reference(s)": [
+        "PMC2120938"
+      ]
+    },
+    {
+      "term": "membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The encoded polypeptide of pantophysin has four hydrophobic putative transmembrane domains, indicating it is a membrane protein.",
+      "reference(s)": [
+        "PMC2120938"
+      ]
+    }
+  ]
+}

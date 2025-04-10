@@ -1,0 +1,51 @@
+{
+  "gene": "dynamitin",
+  "geneID": "10540",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Dynamitin is a subunit of the dynactin complex, which is a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dynamitin binds directly to the chromosomal protein zw10.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dynamitin is part of the dynactin complex, which binds to microtubules.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Dynamitin is part of the dynactin complex, which is found in the cytoplasm.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "intracellular transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpression of dynamitin disrupts dynein-dependent maintenance of membrane organelle distribution.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

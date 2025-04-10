@@ -1,0 +1,33 @@
+{
+  "gene": "TCR",
+  "geneID": "328483",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR is expressed on immune cells such as T cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TCR is a receptor on the surface of T cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TCR is involved in the activation of T cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

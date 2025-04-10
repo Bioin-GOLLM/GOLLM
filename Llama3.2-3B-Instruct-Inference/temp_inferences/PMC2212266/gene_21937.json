@@ -1,0 +1,42 @@
+{
+  "gene": "TNFR1",
+  "geneID": "21937",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor-activated receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LT in its secreted form (LTalpha3) is thought to contribute to pathologies by its ability to bind to TNFR1.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTalpha3 binding to TNFR1 results in the promotion of inflammation by the upregulation of endothelial adhesion molecules.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TNFR1 is a cell surface molecule that binds to LTalpha3.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cytotoxic signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTalpha3 binding to TNFR1 delivers a cytotoxic signal to target cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "EGF",
+  "geneID": "1950",
+  "go_data": [
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EGF-like domains in LTBP-1 suggest a role in growth factor activity.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LTBP-1, containing EGF-like domains, interacts with the extracellular matrix.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EGF-like domains in LTBP-1 are involved in protein-protein interaction with cell surface molecules and the extracellular matrix.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

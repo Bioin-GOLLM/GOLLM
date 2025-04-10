@@ -1,0 +1,15 @@
+{
+  "gene": "syn",
+  "geneID": "23336",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The protein interacts directly with Rab5.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

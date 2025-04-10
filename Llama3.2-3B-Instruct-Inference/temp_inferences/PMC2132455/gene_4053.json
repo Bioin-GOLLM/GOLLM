@@ -1,0 +1,24 @@
+{
+  "gene": "LTBP-2",
+  "geneID": "4053",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LTBP-2 is a component of elastin-associated microfibrils.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "transforming growth factor beta binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTBP-2 is identified as a latent transforming growth factor-beta binding protein.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

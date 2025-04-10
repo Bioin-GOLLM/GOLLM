@@ -1,0 +1,33 @@
+{
+  "gene": "osteopontin",
+  "geneID": "20750",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "OPN is localized in the extracellular matrix between the ureteric bud epithelium and metanephric mesenchyme.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "OPN has been shown to be a ligand for alpha8beta1 integrin.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "kidney development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of OPN function impairs kidney development in organ culture.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

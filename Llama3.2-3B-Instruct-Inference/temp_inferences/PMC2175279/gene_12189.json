@@ -1,0 +1,15 @@
+{
+  "gene": "BRCA1",
+  "geneID": "12189",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, however BRCA1 is known for DNA repair, but not mentioned in the text.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

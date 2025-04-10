@@ -1,0 +1,33 @@
+{
+  "gene": "CD4",
+  "geneID": "12504",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4 is mentioned in the context of thymocytes and T lymphopoiesis, indicating involvement in immune system processes.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4 is a marker for a specific subset of T cells, implying involvement in T cell differentiation.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD4 is a cell surface receptor.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

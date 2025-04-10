@@ -1,0 +1,51 @@
+{
+  "gene": "RIP",
+  "geneID": "8737",
+  "go_data": [
+    {
+      "term": "death domain binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RIP interacts with Fas(CD95) or TNFR1 via interaction of the death domains.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RIP is recruited to Fas(CD95) or TNFR1 and leads to the recruitment of downstream signal molecules that act to initiate cascades leading to cell death or activation.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RIP interacts with Fas(CD95) or TNFR1, which are receptors on the cell surface, implying RIP is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein kinase binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RIP is recruited to the TNF receptor-1 signaling complex, which contains protein kinases.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RIP causes cell death when interacting with Fas/APO-1(CD95).",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

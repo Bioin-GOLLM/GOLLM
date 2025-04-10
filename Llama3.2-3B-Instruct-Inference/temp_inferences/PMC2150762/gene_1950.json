@@ -1,0 +1,33 @@
+{
+  "gene": "EGF",
+  "geneID": "1950",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EGF repeats are found in the extracellular domains of several cell surface-associated and extracellular matrix proteins.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "protein-protein interactions",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ca2+-binding EGF domains have been shown to mediate protein-protein interactions.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The RGD sequence in EGF is a potential integrin-binding site, which is involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

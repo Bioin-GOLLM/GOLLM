@@ -1,0 +1,809 @@
+[
+  {
+    "gene": "TGFbeta",
+    "geneID": "268977",
+    "go_data": [
+      {
+        "term": "cellular differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Transforming growth factor-beta (TGFbeta) regulates cellular differentiation and proliferation during development.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TGFbeta is secreted as a large latent TGFbeta complex containing mature TGFbeta, latency associated peptide, and latent TGFbeta-binding protein (LTBP)-1.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "endothelial to mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mature TGFbeta protein was required at the onset of the endothelial-mesenchymal transformation to initiate endocardial cushion tissue formation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Transforming growth factor-beta (TGFbeta) is a dimeric peptide growth factor.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Transforming growth factor-beta",
+    "geneID": "7040",
+    "go_data": [
+      {
+        "term": "cellular differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta regulates cellular differentiation and proliferation during development.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The large latent TGFbeta complex is distributed as an extracellular fibrillar matrix in the developing endocardial cushion tissue.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TGFbeta is a dimeric peptide growth factor which regulates cellular differentiation and proliferation during development.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "endothelial-mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta is required to initiate the formation of endocardial cushion tissue and regulates endothelial-mesenchymal transformation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TGFbeta binds to many proteins with a relatively high affinity.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta1",
+    "geneID": "21803",
+    "go_data": [
+      {
+        "term": "endocardial cushion formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mature TGFbeta protein was required at the onset of the endothelial-mesenchymal transformation to initiate endocardial cushion tissue formation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Double immunohistochemical staining of antibodies specific for LTBP-1 (Ab39) and TGFbeta1 revealed that an LTBP-1 molecule was codistributed with TGFbeta1 as a fibrillar extracellular matrix in the cushion tissue.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "mesenchymal cell migration",
+        "relationship": "regulates",
+        "namespace": "biological_process",
+        "justification": "An anti-TGFbeta1 inhibited this mesenchymal invasion: the number of mesenchymal cells was significantly lower and the percentage of the explant invaded was reduced to 75% of control.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cardiac muscle hypertrophy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fetuses from a TGFbeta1 null mother are affected with secondary cardiac muscle hypertrophy caused by severe vascular defects and defective hematopoiesis within the extra-embryonic mesoderm of the yolk sac.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-1",
+    "geneID": "4052",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTBP-1 is associated with the extracellular matrix via the targeting mechanism involving LTBP-1 of the large latent TGFbeta1 complex.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-1 contains structural motifs involved in protein-protein interaction, and is thought to target the large latent TGFbeta complex on the surface of certain cells.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "TGF-beta binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-1 is a latent TGFbeta-binding protein that binds to TGF-beta.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cellular extravascular extracellular matrix organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTBP-1 is involved in the formation of extracellular microfibrils and is associated with the microfibrillar component of elastic fibers.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-1",
+    "geneID": "510559",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The large latent form of TGFbeta associates with the extracellular matrix covalently via LTBP-1.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "transforming growth factor beta binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-1 is associated with the LAP via a disulfide bond and the mature TGFbeta is noncovalently associated with the LAP.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "endothelial to mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTBP-1 was required for the generation of the endothelial-mesenchymal transformation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The antibody specific for LTBP-1 (Ab39) inhibited the mesenchymal cell invasion into the collagen gel lattice in culture.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-1 binds to the LAP and the mature TGFbeta.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "plasmin",
+    "geneID": "280897",
+    "go_data": [
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "plasmin activates the latent TGFbeta complex by proteolysis",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "serine-type endopeptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "plasmin is involved in proteolysis of the latent complex",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LAP",
+    "geneID": "403090",
+    "go_data": [
+      {
+        "term": "TGF-beta binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The mature TGFbeta is noncovalently associated with the LAP.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The large latent TGFbeta complex, containing LTBP-1, LAP, and the mature form of TGFbeta1, is distributed as an extracellular fibrillar structure surrounding cells.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "regulation of TGF-beta activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The dissociation of the LAP renders the TGFbeta biologically active.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-2",
+    "geneID": "4053",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTBP-2 is a component of elastin-associated microfibrils.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "transforming growth factor beta binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-2 is identified as a latent transforming growth factor-beta binding protein.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-3",
+    "geneID": "4054",
+    "go_data": [
+      {
+        "term": "transforming growth factor beta binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-3 is a latent transforming growth factor-beta binding protein.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "None found, however, based on the provided text, no explicit evidence supports this term, thus: None found.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EGF",
+    "geneID": "1950",
+    "go_data": [
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EGF-like domains in LTBP-1 suggest a role in growth factor activity.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LTBP-1, containing EGF-like domains, interacts with the extracellular matrix.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EGF-like domains in LTBP-1 are involved in protein-protein interaction with cell surface molecules and the extracellular matrix.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-1",
+    "geneID": "59107",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTBP-1 associates with the extracellular matrix via a covalent targeting mechanism involving the large latent TGFbeta1 complex.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTBP-1 may play a role in the activation of the large latent TGFbeta complex on the endothelial cell surface.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-1 associates with the extracellular matrix and with cellular fibronectin as a component of extracellular microfibrils.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "transforming growth factor beta binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LTBP-1 is involved in the activation of the large latent TGFbeta complex.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta1",
+    "geneID": "59086",
+    "go_data": [
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TGFbeta complex is activated on the endothelial cell surface.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Secreted TGFbeta1 associates with the extracellular matrix.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "protein complex binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TGFbeta1 associates with LTBP-1 of the large latent TGFbeta1 complex.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "plasmin",
+    "geneID": "5340",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Plasmin is involved in the cleavage of LTBP-1, releasing latent TGFbeta.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Plasmin is secreted and acts on the extracellular matrix to release latent TGFbeta.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Plasmin cleaves LTBP-1, demonstrating its role in proteolytic activity.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta3",
+    "geneID": "7043",
+    "go_data": [
+      {
+        "term": "endocardial cushion formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta3 is involved in endocardial cushion tissue formation during the development of the heart.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "endothelial to mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta3 regulates endothelial-mesenchymal transformation during endocardial cushion tissue formation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "heart development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta3 plays a role in the development of the heart, specifically in the formation of endocardial cushion tissue.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta2",
+    "geneID": "7042",
+    "go_data": [
+      {
+        "term": "endocardial cushion formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta2 is preferentially distributed within the cushion tissue-forming region in the heart.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cellular response to growth factor stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta2 restored the inhibitory effect of Ab39 at a concentration of 2 ng/ml.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "external myocardium",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "TGFbeta2 is expressed in the external myocardium.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-2",
+    "geneID": "281905",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTBP-2 associates with the microfibrillar component of elastic fibers in the bovine fetal nuchal ligament and aorta.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "elastic fiber",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "LTBP-2 was shown to associate with the microfibrillar component of elastic fibers in the bovine fetal nuchal ligament and aorta.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LTBP-2",
+    "geneID": "59106",
+    "go_data": [
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LTBP-2 is found in the conditioned medium from COS-1 cells.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta3",
+    "geneID": "21809",
+    "go_data": [
+      {
+        "term": "endothelial to mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta3 is required for the generation of the endothelial-mesenchymal transformation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta3 leads to some recovery of the inhibitory effect of Ab39 against endothelial-mesenchymal transformation in an AV explant culture, indicating a role in cell differentiation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "signaling receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Neutralizing antibodies against TGFbeta3 were used, implying TGFbeta3 binds to a signaling receptor.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta1",
+    "geneID": "282089",
+    "go_data": [
+      {
+        "term": "endocardial cushion development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta1 is involved in the development of the mouse heart, specifically in eliciting endothelial-mesenchymal transformation during the formation of endocardial cushion tissue.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Immunohistochemical examination revealed an extracellular fibrillar deposition of TGFbeta1 in developing endocardial cushion tissue.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TGFbeta1 restored the inhibitory effect of Ab39, indicating its role as a growth factor.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "endothelial to mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbetas, including TGFbeta1, play a role in eliciting endothelial-mesenchymal transformation during the formation of endocardial cushion tissue.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta3",
+    "geneID": "538957",
+    "go_data": [
+      {
+        "term": "endocardial cushion formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta3 is thought to be involved in endocardial cushion tissue formation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "mesenchymal cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Administration of either antisense oligonucleotides or an antibody specific to TGFbeta3 effectively blocked mesenchymal formation.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "external myocardium",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "TGFbeta3 is expressed in the external myocardium.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta2",
+    "geneID": "21808",
+    "go_data": [
+      {
+        "term": "endothelial to mesenchymal transition",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta2 led to some recovery of the inhibitory effect of Ab39 against endothelial-mesenchymal transformation in an AV explant culture.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "mesenchyme development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A combined administration of antibodies (anti-TGFbeta1 and anti-TGFbeta3) to an AV explant culture inhibited mesenchymal formation, implying TGFbeta2's role in mesenchyme development.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "elastin",
+    "geneID": "2006",
+    "go_data": [
+      {
+        "term": "elastic fiber",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Elastin is associated with microfibrils, which are components of elastic fibers.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Elastin is a key component of elastic fibers, which are crucial for the organization and structure of the extracellular matrix.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Elastin is a component of elastic fibers, which are found in the extracellular matrix.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tenascin",
+    "geneID": "540664",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Tenascin is similar to fibronectin in tissue distribution pattern, which is often found in the extracellular matrix.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "fibronectin",
+    "geneID": "2335",
+    "go_data": [
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Fibronectin is associated with cellular fibronectin as a component of extracellular microfibrils.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fibronectin is a component of extracellular microfibrils, which are involved in cell adhesion.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "cellular protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Insulin binds to the cation-independent mannose 6-phosphate/insulin-like growth factor type II receptor.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      },
+      {
+        "term": "regulation of transforming growth factor beta activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cellular activation of latent transforming growth factor beta requires binding to the cation-independent mannose 6-phosphate/insulin-like growth factor type II receptor.",
+        "reference(s)": [
+          "PMC2132455"
+        ]
+      }
+    ]
+  }
+]

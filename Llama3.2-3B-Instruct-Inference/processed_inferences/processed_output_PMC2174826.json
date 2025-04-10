@@ -1,0 +1,584 @@
+[
+  {
+    "gene": "PNG1",
+    "geneID": "856009",
+    "go_data": [
+      {
+        "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+        "go_id": "GO:0000224",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PNG1 encodes a soluble protein with peptide:N-glycanase activity.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "proteasomal protein catabolic process",
+        "go_id": "GO:0010498",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The deletion of PNG1 results in a delay in the degradation of a mutant carboxypeptidase Y protein, suggesting involvement in ER-associated proteasomal degradation.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Subcellular localization studies indicate that Png1p is found in the nucleus, with a lower level occurring in the cytoplasm.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Subcellular localization studies indicate that Png1p is found in the cytosol, with a higher concentration in the nucleus.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PNGase",
+    "geneID": "55768",
+    "go_data": [
+      {
+        "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+        "go_id": "GO:0000224",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PNGase cleaves the amide bond between the proximal N-acetylglucosamine and the linker asparagine residues on glycopeptides/glycoproteins.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "proteasomal protein catabolic process",
+        "go_id": "GO:0010498",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PNG1 may be required for efficient proteasome-mediated degradation of a misfolded glycoprotein.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Subcellular localization studies indicate that the Png1p is found in the nucleus, with a lower level occurring in the cytoplasm.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Subcellular localization studies indicate that the Png1p is found in the cytosol.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PNG1",
+    "geneID": "173028",
+    "go_data": [
+      {
+        "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+        "go_id": "GO:0000224",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PNG1 encodes a soluble protein that exhibits PNGase activity when expressed in Escherichia coli.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "proteasomal protein catabolic process",
+        "go_id": "GO:0010498",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PNG1 may be required for efficient proteasome-mediated degradation of a misfolded glycoprotein.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Subcellular localization studies indicate that Png1p is present in the nucleus as well as the cytosol.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Subcellular localization studies indicate that Png1p is present in the nucleus as well as the cytosol.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PNGase",
+    "geneID": "59007",
+    "go_data": [
+      {
+        "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+        "go_id": "GO:0000224",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PNGase cleaves the amide bond between the proximal N-acetylglucosamine and the linker asparagine residues on glycopeptides/glycoproteins.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "oligosaccharide metabolic process",
+        "go_id": "GO:0009311",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PNGase releases an intact oligosaccharide and generates at the site of cleavage an aspartic acid residue in the peptide/protein backbone.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "No explicit information, however, based on the provided text, it can be noted that the gene product is active in the cell and has been studied in cell extracts.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PNG1",
+    "geneID": "35527",
+    "go_data": [
+      {
+        "term": "peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase activity",
+        "go_id": "GO:0000224",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PNG1 was definitively shown to encode PNGase by carrying out the analysis of reaction product of [14C]asialofetuin glycopeptide I with purified Png1p.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The action of PNGase in the cytosol (or nucleus) may somehow be regulated by redox potential.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The action of PNGase in the cytosol (or nucleus) may somehow be regulated by redox potential.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "spo11",
+    "geneID": "856364",
+    "go_data": [
+      {
+        "term": "reciprocal meiotic recombination",
+        "go_id": "GO:0007131",
+        "relationship": [
+          "part_of GO:0007127"
+        ],
+        "namespace": "biological_process",
+        "justification": "The rationale behind the spo11 mapping technique takes advantage of the fact that there is no meiotic recombination in spo11 diploids.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "lys1",
+    "geneID": "854852",
+    "go_data": [
+      {
+        "term": "chromosome",
+        "go_id": "GO:0005694",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "lys1 is located on chromosome IX",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "aro7",
+    "geneID": "856173",
+    "go_data": [
+      {
+        "term": "chromosome",
+        "go_id": "GO:0005694",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "aro7 is a marker on chromosome XVI",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEC23",
+    "geneID": "856311",
+    "go_data": [
+      {
+        "term": "COPII vesicle coating",
+        "go_id": "GO:0048208",
+        "relationship": [
+          "part_of GO:0048207",
+          "part_of GO:0090114"
+        ],
+        "namespace": "biological_process",
+        "justification": "None found in the given text.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HHO1",
+    "geneID": "855976",
+    "go_data": [
+      {
+        "term": "chromosome",
+        "go_id": "GO:0005694",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "HHO1 is located on chromosome XVI.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GAL4",
+    "geneID": "855828",
+    "go_data": [
+      {
+        "term": "chromosome",
+        "go_id": "GO:0005694",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "GAL4 is located on chromosome XVI.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "URA3",
+    "geneID": "856692",
+    "go_data": [
+      {
+        "term": "orotate phosphoribosyltransferase activity",
+        "go_id": "GO:0004588",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "URA3 is involved in the pyrimidine biosynthesis pathway.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "pyrimidine nucleotide biosynthetic process",
+        "go_id": "GO:0006221",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "URA3 is required for uracil biosynthesis.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "URA3 is a cytosolic enzyme involved in pyrimidine biosynthesis.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ELP3",
+    "geneID": "856019",
+    "go_data": [
+      {
+        "term": "chromosome",
+        "go_id": "GO:0005694",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ELP3 locus is on the same arm of a chromosome as the PEP4 locus.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PEP4",
+    "geneID": "855949",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "go_id": "GO:0008233",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "PEP4 is known to encode a protease in Saccharomyces cerevisiae.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "vacuole",
+        "go_id": "GO:0005773",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PEP4 is a vacuolar protease in Saccharomyces cerevisiae.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LEU2",
+    "geneID": "850342",
+    "go_data": [
+      {
+        "term": "L-leucine biosynthetic process",
+        "go_id": "GO:0009098",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "LEU2 is involved in leucine biosynthesis as indicated by its role as a marker in the context of leucine auxotrophy (Leu- colonies).",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "YPL113c",
+    "geneID": "855990",
+    "go_data": []
+  },
+  {
+    "gene": "YPL108w",
+    "geneID": "855996",
+    "go_data": []
+  },
+  {
+    "gene": "YPL107w",
+    "geneID": "855997",
+    "go_data": []
+  },
+  {
+    "gene": "CPY",
+    "geneID": "247516",
+    "go_data": [
+      {
+        "term": "peptidase activity",
+        "go_id": "GO:0008233",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CPY is a carboxypeptidase, which is a type of peptidase.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "protein catabolic process",
+        "go_id": "GO:0030163",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CPY* is a substrate for proteasomal degradation.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CPY is involved in ER-associated proteasomal degradation.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "prc1",
+    "geneID": "233406",
+    "go_data": [
+      {
+        "term": "proteasomal protein catabolic process",
+        "go_id": "GO:0010498",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "prc1-1 allele encodes CPY*, a substrate for proteasomal degradation.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CPY",
+    "geneID": "12898",
+    "go_data": [
+      {
+        "term": "proteasomal protein catabolic process",
+        "go_id": "GO:0010498",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CPY* is a substrate for proteasomal degradation.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CPY is a glycoprotein that does not fold correctly, implying it is located in the endoplasmic reticulum where protein folding occurs.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "thioredoxin",
+    "geneID": "7295",
+    "go_data": [
+      {
+        "term": "thioredoxin peroxidase activity",
+        "go_id": "GO:0008379",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "thioredoxin has an active site for thioreductase activity (WCGPC)",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cell redox homeostasis",
+        "go_id": "GO:0045454",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "thioredoxin has thioreductase activity",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRX2",
+    "geneID": "56551",
+    "go_data": [
+      {
+        "term": "thioredoxin peroxidase activity",
+        "go_id": "GO:0008379",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The active site for thioreductase activity (WCGPC) is completely conserved, suggesting thioredoxin-like activity.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The action of PNGase in the cytosol may be regulated by redox potential, implying TRX2 could be located in the cytosol.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The action of PNGase in the nucleus may be regulated by redox potential, implying TRX2 could be located in the nucleus.",
+        "reference(s)": [
+          "PMC2174826"
+        ]
+      }
+    ]
+  }
+]

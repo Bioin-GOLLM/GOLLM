@@ -1,0 +1,33 @@
+{
+  "gene": "TGFbeta3",
+  "geneID": "538957",
+  "go_data": [
+    {
+      "term": "endocardial cushion formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta3 is thought to be involved in endocardial cushion tissue formation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "mesenchymal cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Administration of either antisense oligonucleotides or an antibody specific to TGFbeta3 effectively blocked mesenchymal formation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "external myocardium",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "TGFbeta3 is expressed in the external myocardium.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

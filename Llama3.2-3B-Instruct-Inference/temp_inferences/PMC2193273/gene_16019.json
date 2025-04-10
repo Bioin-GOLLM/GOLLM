@@ -1,0 +1,33 @@
+{
+  "gene": "IgM",
+  "geneID": "16019",
+  "go_data": [
+    {
+      "term": "B cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IgM-secreting cells are a stage in B cell development.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "immune system",
+      "relationship": "part_of",
+      "namespace": "biological_process",
+      "justification": "IgM is involved in the development of B cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Surface IgM+ B cells have IgM on their surface.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

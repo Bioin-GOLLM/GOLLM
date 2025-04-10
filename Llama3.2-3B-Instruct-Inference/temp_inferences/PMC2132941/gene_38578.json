@@ -1,0 +1,33 @@
+{
+  "gene": "GEF",
+  "geneID": "38578",
+  "go_data": [
+    {
+      "term": "Rho guanyl-nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GEF for Rho, p115RhoGEF, has been shown to interact with Galpha12 and Galpha13.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GEF is regulated by Galpha12 and Galpha13, which are part of G-protein coupled receptor signaling.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RhoGEF, like p115RhoGEF, is expected to be located in the cytosol where it can interact with Rho GTPases.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

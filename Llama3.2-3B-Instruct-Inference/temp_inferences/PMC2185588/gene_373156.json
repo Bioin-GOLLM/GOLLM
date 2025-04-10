@@ -1,0 +1,15 @@
+{
+  "gene": "GST",
+  "geneID": "373156",
+  "go_data": [
+    {
+      "term": "glutathione transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GST is an abbreviation for glutathione S-transferase.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

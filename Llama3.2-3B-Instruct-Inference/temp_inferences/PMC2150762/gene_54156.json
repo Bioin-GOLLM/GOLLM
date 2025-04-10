@@ -1,0 +1,33 @@
+{
+  "gene": "EGFL6",
+  "geneID": "54156",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EGFL6/MAEG is likely a constituent of the extracellular matrix.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "kidney development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mRNA encoding EGFL6/MAEG is present in the embryonic kidney, suggesting a role in kidney development.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell adhesion molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The RGD sequence in EGFL6 suggests it may interact with integrins, which are involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

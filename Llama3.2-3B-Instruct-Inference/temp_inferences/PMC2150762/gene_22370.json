@@ -1,0 +1,24 @@
+{
+  "gene": "vitronectin",
+  "geneID": "22370",
+  "go_data": [
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vitronectin (VN) is a ligand for the alpha8beta1 integrin.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vitronectin is a component of the extracellular matrix and is found in adult heart extracts.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

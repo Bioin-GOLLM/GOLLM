@@ -1,0 +1,33 @@
+{
+  "gene": "renin",
+  "geneID": "5972",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Renin is an enzyme that catalyzes the conversion of angiotensinogen to angiotensin I.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "blood vessel morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The renin-angiotensin axis influences blood pressure regulation and vascular development.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "circulatory system",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Renin plays a role in the regulation of blood pressure through the renin-angiotensin-aldosterone system.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

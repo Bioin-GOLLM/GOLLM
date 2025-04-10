@@ -1,0 +1,33 @@
+{
+  "gene": "Lyn",
+  "geneID": "4067",
+  "go_data": [
+    {
+      "term": "cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Lyn is associated with a signaling pathway that mediates collagen-induced activation of platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton reorganization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Lyn is part of a signal transduction pathway that links cell activation to the reorganization of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Lyn is involved in the signaling pathway that mediates collagen-induced activation of platelets.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

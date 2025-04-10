@@ -1,0 +1,33 @@
+{
+  "gene": "Lck",
+  "geneID": "3932",
+  "go_data": [
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Lck is described as a tyrosine kinase that is activated upon TCR engagement.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Lck is activated in response to TCR ligation, indicating its involvement in the T cell receptor signaling pathway.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "regulation of Rho protein signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Lck regulates Vav activation of members of the Rho family of GTPases.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

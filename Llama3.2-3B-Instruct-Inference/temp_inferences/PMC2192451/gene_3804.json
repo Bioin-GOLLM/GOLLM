@@ -1,0 +1,33 @@
+{
+  "gene": "p58",
+  "geneID": "3804",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p58 is identified as an HLA-C-specific inhibitory receptor.",
+      "reference(s)": [
+        "PMC2192451"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p58 is a receptor with extracellular regions formed by two Ig-like domains.",
+      "reference(s)": [
+        "PMC2192451"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p58 functions as an HLA-C-specific inhibitory receptor.",
+      "reference(s)": [
+        "PMC2192451"
+      ]
+    }
+  ]
+}

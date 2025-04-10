@@ -1,0 +1,51 @@
+{
+  "gene": "Tumor Necrosis Factor",
+  "geneID": "21926",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The clinical and pathological course of EAE was influenced by the absence of TNF, indicating its role in inflammatory response.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cellular response to lipopolysaccharide",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Production of tumor necrosis factor and other cytokines by astrocytes stimulated with lipopolysaccharide.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNF is a cytokine with activities equivalent to lymphotoxin.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF is involved in the maturation of the humoral immune response and the formation of primary B cell follicles.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "tumor necrosis factor receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LTalpha3 can bind to the TNFRs, indicating TNF's role in receptor binding.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

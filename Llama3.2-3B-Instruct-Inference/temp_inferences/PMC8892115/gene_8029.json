@@ -1,0 +1,42 @@
+{
+  "gene": "cubilin",
+  "geneID": "8029",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "cubilin is involved in the renal megalin/cubilin-mediated reuptake of 25(OH)D in the kidneys.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "proximal tubule cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "the megalin-dependent uptake of the VDBP-25(OH)D complex into cells is limited to the proximal renal tubule.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "vitamin D transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "cubilin is involved in the renal megalin/cubilin-mediated reuptake of 25(OH)D in the kidneys.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "cubilin is involved in the megalin-dependent uptake of the VDBP-25(OH)D complex into cells.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

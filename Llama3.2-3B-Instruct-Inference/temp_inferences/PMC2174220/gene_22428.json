@@ -1,0 +1,42 @@
+{
+  "gene": "p27",
+  "geneID": "22428",
+  "go_data": [
+    {
+      "term": "cytoskeletal protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p27 is part of the pointed-end complex, which contains predicted cargo-binding motifs.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p27 is associated with the Arp1 minifilament in the dynactin pointed-end complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p27 is part of the dynactin complex, which is involved in cytoplasmic dynein-mediated transport.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p27 is part of the pointed-end complex, which assembles with other subunits to form a functional complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

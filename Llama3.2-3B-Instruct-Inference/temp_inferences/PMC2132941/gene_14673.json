@@ -1,0 +1,51 @@
+{
+  "gene": "Galpha12",
+  "geneID": "14673",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galpha12 is part of the G12/G13-coupled receptors signaling pathway.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell transformation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Constitutively active forms of Galpha12 cause cell transformation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galpha12 stimulates the formation of actin stress fibers through the small molecular weight GTPase Rho.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "focal adhesion assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galpha12 stimulates Rho-dependent stress fiber formation and focal adhesion assembly.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "signal transducer activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Galpha12 is a signal transducer in G-protein coupled receptor signaling pathway.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "p150Glued",
+  "geneID": "13191",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p150Glued binds cellular microtubules via an NH2-terminal microtubule binding site.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasmic dynein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cytoplasmic dynein binds dynactin through a direct interaction between the intermediate chains and p150Glued.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "dynactin binding",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p150Glued is the largest subunit of the dynactin complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "microtubule",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p150Glued binds to microtubules.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p150Glued is part of the dynactin complex, which is involved in cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

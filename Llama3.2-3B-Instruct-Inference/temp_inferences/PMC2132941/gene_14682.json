@@ -1,0 +1,42 @@
+{
+  "gene": "Galphaq",
+  "geneID": "14682",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq-deficient platelets demonstrate altered signaling pathways in response to thrombin and TXA2 receptors.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq-deficient platelets still exhibit shape change response, indicating Galphaq's role in platelet activation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq is involved in signaling processes in platelets, including those mediated by G12 and G13.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Galphaq is expressed in platelets and plays a role in their function.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

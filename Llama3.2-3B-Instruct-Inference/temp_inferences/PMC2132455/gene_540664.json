@@ -1,0 +1,15 @@
+{
+  "gene": "tenascin",
+  "geneID": "540664",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tenascin is similar to fibronectin in tissue distribution pattern, which is often found in the extracellular matrix.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

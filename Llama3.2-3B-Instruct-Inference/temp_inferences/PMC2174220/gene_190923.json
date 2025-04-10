@@ -1,0 +1,33 @@
+{
+  "gene": "dynein light chain",
+  "geneID": "190923",
+  "go_data": [
+    {
+      "term": "cytoplasmic dynein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The dynein light chain, TctexI, binds directly to the transmembrane protein rhodopsin.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The dynein light chain, TctexI, binds directly to the transmembrane protein rhodopsin.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Purified cytoplasmic dynein associates peripherally with purified synaptic vesicles.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

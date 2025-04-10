@@ -1,0 +1,33 @@
+{
+  "gene": "p50",
+  "geneID": "51008",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p50 is an activatory receptor that mediates functions in immune response.",
+      "reference(s)": [
+        "PMC2192451"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p50 is a receptor with extracellular regions formed by two Ig-like domains, indicating it is located on the cell surface.",
+      "reference(s)": [
+        "PMC2192451"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p50 functions as an activatory receptor, suggesting it has receptor activity.",
+      "reference(s)": [
+        "PMC2192451"
+      ]
+    }
+  ]
+}

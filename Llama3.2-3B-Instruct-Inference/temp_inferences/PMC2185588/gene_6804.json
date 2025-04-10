@@ -1,0 +1,33 @@
+{
+  "gene": "syntaxin 1A",
+  "geneID": "6804",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Syntaxin 1A assembles into membrane fusion-competent complexes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Syntaxin 1A binds to other proteins, possibly Rab effectors, to trigger conformational changes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however, syntaxin is typically associated with the cytosolic face of the plasma membrane or vesicles.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

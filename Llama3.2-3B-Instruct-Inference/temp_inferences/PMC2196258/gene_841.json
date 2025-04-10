@@ -1,0 +1,33 @@
+{
+  "gene": "FLICE",
+  "geneID": "841",
+  "go_data": [
+    {
+      "term": "cysteine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FLICE is described as an ICE/CED-3-like protease.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FLICE is recruited to the CD95 death-inducing signaling complex, leading to cell death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "death-inducing signaling complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "FLICE is recruited to the CD95 death-inducing signaling complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

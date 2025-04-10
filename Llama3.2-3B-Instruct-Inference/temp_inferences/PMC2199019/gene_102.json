@@ -1,0 +1,33 @@
+{
+  "gene": "ADAM-10",
+  "geneID": "102",
+  "go_data": [
+    {
+      "term": "membrane protein proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ADAM-10 has been shown to process membrane-bound TNF-alpha precursors.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ADAM-10 processes membrane-bound TNF-alpha precursors, indicating it is located at the cell surface.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "metalloendopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ADAM-10 is a disintegrin metalloproteinase, which implies it has metalloendopeptidase activity.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

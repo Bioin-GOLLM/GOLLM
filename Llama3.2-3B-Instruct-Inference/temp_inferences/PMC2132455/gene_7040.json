@@ -1,0 +1,51 @@
+{
+  "gene": "Transforming growth factor-beta",
+  "geneID": "7040",
+  "go_data": [
+    {
+      "term": "cellular differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta regulates cellular differentiation and proliferation during development.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The large latent TGFbeta complex is distributed as an extracellular fibrillar matrix in the developing endocardial cushion tissue.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TGFbeta is a dimeric peptide growth factor which regulates cellular differentiation and proliferation during development.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "endothelial-mesenchymal transition",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TGFbeta is required to initiate the formation of endocardial cushion tissue and regulates endothelial-mesenchymal transformation.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TGFbeta binds to many proteins with a relatively high affinity.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "Arp1",
+  "geneID": "10121",
+  "go_data": [
+    {
+      "term": "actin filament binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Arp11 sequence predicts interaction with Arp1 or actin filament pointed ends.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "actin nucleation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Arp11 interaction with Arp1 may provide a novel mechanism for actin nucleation.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

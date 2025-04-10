@@ -1,0 +1,24 @@
+{
+  "gene": "Gc2",
+  "geneID": "83733",
+  "go_data": [
+    {
+      "term": "vitamin D binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Gc2 is a variant of the vitamin D-binding protein (VDBP) that binds 25(OH)D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "blood microparticle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VDBP, including the Gc2 variant, is found in the bloodstream, often associated with blood microparticles.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

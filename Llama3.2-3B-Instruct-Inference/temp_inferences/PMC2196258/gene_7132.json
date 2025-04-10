@@ -1,0 +1,51 @@
+{
+  "gene": "Tumor Necrosis Factor Receptor",
+  "geneID": "7132",
+  "go_data": [
+    {
+      "term": "tumor necrosis factor receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Members of the tumor necrosis factor receptor (TNFR) superfamily elicit a wide range of biological effects including differentiation, proliferation, activation, or cell death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Stimulation of members of the TNFR superfamily activates signaling cascades leading to the regulation of cell activation/growth or death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Clustering of signal transducers leads to the recruitment of FLICE/MACH, and subsequently, to cell death.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Members of the TNFR superfamily can initiate different signal transduction pathways by recruiting different types of intracellular signal transducers to the receptor complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The cytoplasmic domains of these receptors lack intrinsic catalytic activity and also exhibit no significant homology to each other or to other known proteins.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

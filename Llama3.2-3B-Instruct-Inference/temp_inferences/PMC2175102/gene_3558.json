@@ -1,0 +1,24 @@
+{
+  "gene": "IL-2",
+  "geneID": "3558",
+  "go_data": [
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-2 is upregulated in TCR-dependent changes in gene expression during T cell activation.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-2 is a cytokine.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

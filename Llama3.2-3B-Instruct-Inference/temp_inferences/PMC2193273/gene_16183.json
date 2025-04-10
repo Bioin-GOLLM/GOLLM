@@ -1,0 +1,24 @@
+{
+  "gene": "IL-2",
+  "geneID": "16183",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-2 is mentioned as a cytokine in the context of thymocyte proliferation assays.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-2 is mentioned in the context of T lymphopoiesis and thymocyte proliferation.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

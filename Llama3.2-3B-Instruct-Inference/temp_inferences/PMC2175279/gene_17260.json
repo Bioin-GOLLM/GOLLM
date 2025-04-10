@@ -1,0 +1,24 @@
+{
+  "gene": "myocyte enhancer factor 2",
+  "geneID": "17260",
+  "go_data": [
+    {
+      "term": "transcriptional activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MEF2 has transcriptional activity regulated by p38 kinase.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "myogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MEF2 is involved in myogenesis, regulated by p38 kinase.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

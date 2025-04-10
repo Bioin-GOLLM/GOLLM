@@ -1,0 +1,33 @@
+{
+  "gene": "tyrosine kinase",
+  "geneID": "7294",
+  "go_data": [
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Increases in tyrosine kinase activity could be observed within 10 s after addition of U46619.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Clustering of the platelet Fc gamma receptor induces noncovalent association with the tyrosine kinase p72syk.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tyrosine kinases pp72syk and pp60c-src are activated in platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

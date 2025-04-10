@@ -1,0 +1,33 @@
+{
+  "gene": "DBP",
+  "geneID": "1628",
+  "go_data": [
+    {
+      "term": "vitamin D binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DBP binds to vitamin D metabolites in the circulation.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "blood circulation",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DBP is found in the circulation, binding vitamin D metabolites.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "response to vitamin D",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Genetic variants of DBP predict differences in response of serum 25-hydroxyvitamin D to vitamin D supplementation.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

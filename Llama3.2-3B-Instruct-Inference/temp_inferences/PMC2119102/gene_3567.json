@@ -1,0 +1,33 @@
+{
+  "gene": "interleukin 5",
+  "geneID": "3567",
+  "go_data": [
+    {
+      "term": "eosinophil differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Human interleukin 5 (IL-5) plays an important role in proliferation and differentiation of human eosinophils.",
+      "reference(s)": [
+        "PMC2119102"
+      ]
+    },
+    {
+      "term": "eosinophil proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Human interleukin 5 (IL-5) plays an important role in proliferation and differentiation of human eosinophils.",
+      "reference(s)": [
+        "PMC2119102"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-5 binds to its receptor with high affinity, allowing signal transduction and enabling cellular responses.",
+      "reference(s)": [
+        "PMC2119102"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "M-CSF",
+  "geneID": "12977",
+  "go_data": [
+    {
+      "term": "macrophage differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "M-CSF macrophages were used as the driver population, indicating M-CSF's role in macrophage differentiation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "M-CSF is a cytokine involved in the differentiation and survival of macrophages.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

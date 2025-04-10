@@ -1,0 +1,15 @@
+{
+  "gene": "myc",
+  "geneID": "17869",
+  "go_data": [
+    {
+      "term": "protein tag",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "myc/His6 tag is used for protein detection or purification",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

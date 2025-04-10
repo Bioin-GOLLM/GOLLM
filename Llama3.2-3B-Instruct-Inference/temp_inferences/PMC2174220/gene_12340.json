@@ -1,0 +1,33 @@
+{
+  "gene": "capZ",
+  "geneID": "12340",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "capZ is described as a barbed-end actin capping protein.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "capZ is involved in capping the barbed end of actin filaments, which is crucial for cytoskeleton organization.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "capZ is described as an actin capping protein of muscle.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

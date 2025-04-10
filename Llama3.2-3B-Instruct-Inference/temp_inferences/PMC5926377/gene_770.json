@@ -1,0 +1,15 @@
+{
+  "gene": "CA11",
+  "geneID": "770",
+  "go_data": [
+    {
+      "term": "stomach",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "CA11 was a novel gene expressed predominantly in the stomach.",
+      "reference(s)": [
+        "PMC5926377"
+      ]
+    }
+  ]
+}

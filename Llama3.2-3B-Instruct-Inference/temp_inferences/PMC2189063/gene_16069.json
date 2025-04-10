@@ -1,0 +1,15 @@
+{
+  "gene": "J chain",
+  "geneID": "16069",
+  "go_data": [
+    {
+      "term": "polyadenylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The sequence 40 basepairs 5' of the functional polyadenylation site is identified.",
+      "reference(s)": [
+        "PMC2189063"
+      ]
+    }
+  ]
+}

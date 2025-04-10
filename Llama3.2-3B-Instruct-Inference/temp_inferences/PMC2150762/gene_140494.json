@@ -1,0 +1,33 @@
+{
+  "gene": "alpha4",
+  "geneID": "140494",
+  "go_data": [
+    {
+      "term": "cell adhesion molecule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "alpha4-containing integrins have been shown to bind to sequences",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "alpha4-containing integrins have been shown to bind to sequences, implying a role in cell adhesion",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "alpha4 is an integrin",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

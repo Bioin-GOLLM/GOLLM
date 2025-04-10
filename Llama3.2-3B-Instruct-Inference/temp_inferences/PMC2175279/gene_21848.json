@@ -1,0 +1,24 @@
+{
+  "gene": "TIF1",
+  "geneID": "21848",
+  "go_data": [
+    {
+      "term": "cellular response to DNA damage stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIF1 is related to BRCA1, which is known for its role in DNA damage response.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIF1 is associated with other proteins like BRCA1 that are known to function in the nucleus.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

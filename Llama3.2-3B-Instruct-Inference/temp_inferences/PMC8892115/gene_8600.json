@@ -1,0 +1,24 @@
+{
+  "gene": "RANKL",
+  "geneID": "8600",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RANKL is mentioned alongside other cytokines like IL-1b, IL-6, and TNFalpha, indicating it has cytokine activity.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RANKL secretion is reduced by 1,25(OH)2D, which attenuates the inflammatory response of monocytes and macrophages.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

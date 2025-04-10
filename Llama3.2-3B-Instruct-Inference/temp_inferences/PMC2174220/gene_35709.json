@@ -1,0 +1,24 @@
+{
+  "gene": "p62",
+  "geneID": "35709",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "p62 is associated with the Arp1 minifilament, a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p62 remains tightly associated with Arp1, actin, and capZ subunits in a complex.",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

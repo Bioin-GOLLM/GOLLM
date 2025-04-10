@@ -1,0 +1,33 @@
+{
+  "gene": "Ypt51p",
+  "geneID": "854256",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ypt51p is a Rab5-like GTPase.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "Golgi to prevacuolar compartment transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vac1p and Vps21p/Ypt51p participate in transport from the Golgi complex to a prevacuolar compartment (PVC).",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endocytic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vps21p/Ypt51p functions between early endosomes and PVCs in yeast.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

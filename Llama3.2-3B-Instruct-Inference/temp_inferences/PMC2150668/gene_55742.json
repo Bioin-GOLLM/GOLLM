@@ -1,0 +1,51 @@
+{
+  "gene": "Actopaxin",
+  "geneID": "55742",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Actopaxin binds directly to F-actin.",
+      "reference(s)": [
+        "PMC2150668"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actopaxin is involved in cell adhesion and spreading of HeLa cells.",
+      "reference(s)": [
+        "PMC2150668"
+      ]
+    },
+    {
+      "term": "focal adhesion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Actopaxin demonstrates robust focal adhesion staining.",
+      "reference(s)": [
+        "PMC2150668"
+      ]
+    },
+    {
+      "term": "paxillin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Actopaxin binds to paxillin through its PBS domain.",
+      "reference(s)": [
+        "PMC2150668"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actopaxin may contribute directly to the initial nucleation of actin assembly at focal complexes.",
+      "reference(s)": [
+        "PMC2150668"
+      ]
+    }
+  ]
+}

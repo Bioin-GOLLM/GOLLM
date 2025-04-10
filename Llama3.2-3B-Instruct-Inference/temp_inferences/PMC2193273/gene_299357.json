@@ -1,0 +1,33 @@
+{
+  "gene": "IgM",
+  "geneID": "299357",
+  "go_data": [
+    {
+      "term": "B cell receptor complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Cells expressed surface IgM.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IgM is expressed on the surface of B cells, which are part of the immune system.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IgM is expressed on the surface of cells.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

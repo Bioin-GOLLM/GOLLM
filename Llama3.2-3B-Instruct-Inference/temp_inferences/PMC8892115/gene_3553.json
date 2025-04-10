@@ -1,0 +1,24 @@
+{
+  "gene": "IL-1b",
+  "geneID": "3553",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1b is described as a pro-inflammatory cytokine.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-1b is referred to as a cytokine, implying it has cytokine activity.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

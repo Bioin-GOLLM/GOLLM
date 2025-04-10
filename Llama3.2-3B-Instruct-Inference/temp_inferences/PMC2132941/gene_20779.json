@@ -1,0 +1,33 @@
+{
+  "gene": "pp60c-src",
+  "geneID": "20779",
+  "go_data": [
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "pp60c-src is a tyrosine kinase that is rapidly activated after stimulation of platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Platelet activation leads to increased c-src kinase activity.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a tyrosine kinase, pp60c-src is likely located in the cytoplasm of platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

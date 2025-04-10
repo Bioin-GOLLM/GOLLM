@@ -1,0 +1,33 @@
+{
+  "gene": "TGFbeta1",
+  "geneID": "59086",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TGFbeta complex is activated on the endothelial cell surface.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Secreted TGFbeta1 associates with the extracellular matrix.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "protein complex binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TGFbeta1 associates with LTBP-1 of the large latent TGFbeta1 complex.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

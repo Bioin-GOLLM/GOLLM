@@ -1,0 +1,51 @@
+{
+  "gene": "CYP2R1",
+  "geneID": "120227",
+  "go_data": [
+    {
+      "term": "vitamin D biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CYP2R1 hydroxylates vitamin D2 and D3 at carbon 25 resulting in the production of 25(OH)D.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "oxidoreductase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CYP2R1 catalyzes the generation of 25(OH)D from pro-vitamin D3 as a 25-hydroxylase.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CYP2R1 is a microsomal enzyme, indicating it is located in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "liver",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "CYP2R1 is expressed in the liver where it hydroxylates vitamin D2 and D3.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    },
+    {
+      "term": "placenta",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "The placenta possesses CYP2R1, which may be involved in the regulation of circulating 25(OH)D levels.",
+      "reference(s)": [
+        "PMC8892115"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "p160ROCK",
+  "geneID": "6093",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p160ROCK is a Rho-kinase that phosphorylates myosin light chain (MLC).",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p160ROCK translocates to the cytoskeletal complex in thrombin-stimulated human platelets.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p160ROCK is activated upon activation of human platelets and regulates MLC phosphorylation.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "neurite remodeling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p160ROCK regulates neurite remodeling in neuroblastoma N1E-115 cells.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

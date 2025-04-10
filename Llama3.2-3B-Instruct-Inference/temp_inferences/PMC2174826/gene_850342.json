@@ -1,0 +1,15 @@
+{
+  "gene": "LEU2",
+  "geneID": "850342",
+  "go_data": [
+    {
+      "term": "leucine biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LEU2 is involved in leucine biosynthesis as indicated by its role as a marker in the context of leucine auxotrophy (Leu- colonies).",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

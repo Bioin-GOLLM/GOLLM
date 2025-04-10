@@ -1,0 +1,24 @@
+{
+  "gene": "fibrinogen",
+  "geneID": "2244",
+  "go_data": [
+    {
+      "term": "blood coagulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fibrinogen is involved in blood coagulation as it interacts with beta3alphav integrin.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fibrinogen is found in the extracellular matrix as it is secreted into the bloodstream and plays a role in clot formation.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

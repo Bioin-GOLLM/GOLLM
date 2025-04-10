@@ -1,0 +1,15 @@
+{
+  "gene": "aro7",
+  "geneID": "856173",
+  "go_data": [
+    {
+      "term": "chromosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "aro7 is a marker on chromosome XVI",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

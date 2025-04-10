@@ -1,0 +1,42 @@
+{
+  "gene": "CTLA-4",
+  "geneID": "1493",
+  "go_data": [
+    {
+      "term": "negative regulation of T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 delivers a counterregulatory negative signal that antagonizes CD28 signals and thereby limits the magnitude and duration of T cell activation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CTLA-4 is a negative regulator of T-lymphocyte activation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CTLA-4 is a receptor for the B cell activation antigen B7.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CTLA-4 is a receptor for the B cell activation antigen B7.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "TACE",
+  "geneID": "6868",
+  "go_data": [
+    {
+      "term": "membrane protein proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TACE processes membrane-bound TNF-alpha precursors.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "metalloendopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TACE is a disintegrin metalloproteinase that processes TNF-alpha.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TACE processes membrane-bound TNF-alpha precursors, indicating it is located at the cell surface.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

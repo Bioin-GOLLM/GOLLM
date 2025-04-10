@@ -1,0 +1,33 @@
+{
+  "gene": "CPY",
+  "geneID": "247516",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CPY is a carboxypeptidase, which is a type of peptidase.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CPY* is a substrate for proteasomal degradation.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CPY is involved in ER-associated proteasomal degradation.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

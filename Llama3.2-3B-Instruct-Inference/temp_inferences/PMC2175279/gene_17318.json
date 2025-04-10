@@ -1,0 +1,15 @@
+{
+  "gene": "Mid1",
+  "geneID": "17318",
+  "go_data": [
+    {
+      "term": "microtubule binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Mid1 interacts with microtubules.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

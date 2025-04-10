@@ -1,0 +1,33 @@
+{
+  "gene": "CD11c",
+  "geneID": "3687",
+  "go_data": [
+    {
+      "term": "leukocyte migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11c is expressed on most leukocytes, including monocytes, and is involved in their migration.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD11c is expressed on the surface of leukocytes, including eosinophils and monocytes.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD11c is part of the beta2 integrin family, which forms a complex with CD18.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

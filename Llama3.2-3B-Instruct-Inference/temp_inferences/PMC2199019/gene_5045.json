@@ -1,0 +1,33 @@
+{
+  "gene": "furin",
+  "geneID": "5045",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Furin is mentioned as part of the metalloproteinase family, indicating its role in peptidase activity.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "zinc ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The presence of zinc-chelating histidine residues in the zinc binding pocket suggests furin's ability to bind zinc ions.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "protein processing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The mention of a furin cleavage site implies its involvement in protein processing.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

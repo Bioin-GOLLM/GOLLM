@@ -1,0 +1,33 @@
+{
+  "gene": "p80",
+  "geneID": "8161",
+  "go_data": [
+    {
+      "term": "immune system",
+      "relationship": "part_of",
+      "namespace": "biological_process",
+      "justification": "p80 is mentioned alongside other molecules that play critical roles in the immune system.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p80 is a TNF receptor, which is involved in cell surface receptor signaling pathways.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, p80 is likely located in the plasma membrane.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

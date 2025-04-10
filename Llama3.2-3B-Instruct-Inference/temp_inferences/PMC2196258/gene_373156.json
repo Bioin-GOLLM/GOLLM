@@ -1,0 +1,24 @@
+{
+  "gene": "GST",
+  "geneID": "373156",
+  "go_data": [
+    {
+      "term": "glutathione transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GST is an abbreviation for glutathione-S-transferase.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GST fusion proteins were coexpressed in 293 cells and cell lysates were precipitated with glutathione-Sepharose beads.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CD4",
+  "geneID": "12504",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4 is expressed on T cells, which are central to immune system function.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "T cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD4+ T cells are a subtype of T cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "antigen presentation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4+ T cells are involved in antigen presentation to myelin basic protein-reactive cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

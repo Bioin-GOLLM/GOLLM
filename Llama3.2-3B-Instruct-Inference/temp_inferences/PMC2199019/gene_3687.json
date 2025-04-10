@@ -1,0 +1,42 @@
+{
+  "gene": "CD11c",
+  "geneID": "3687",
+  "go_data": [
+    {
+      "term": "antigen processing and presentation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DCs, which express CD11c, are characterized by a high capacity for antigen capture and processing.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "immune system",
+      "relationship": "part_of",
+      "namespace": "system",
+      "justification": "CD11c is expressed on dendritic cells (DCs), which are part of the immune system.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD11c is a cell surface molecule expressed on DCs.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    },
+    {
+      "term": "lymph node",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD11c+ DCs migrate into the T cell areas of regional lymph nodes.",
+      "reference(s)": [
+        "PMC2199019"
+      ]
+    }
+  ]
+}

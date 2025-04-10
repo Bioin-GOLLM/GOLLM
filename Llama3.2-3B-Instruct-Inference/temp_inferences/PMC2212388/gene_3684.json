@@ -1,0 +1,42 @@
+{
+  "gene": "CD11b",
+  "geneID": "3684",
+  "go_data": [
+    {
+      "term": "leukocyte migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11b is expressed on most leukocytes and is involved in their migration.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD11b is expressed on the surface of leukocytes.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD11b is part of the beta2 integrin complex.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11b is involved in cell adhesion, as it binds to ICAM-3 and mediates leukocyte-leukocyte adhesion.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

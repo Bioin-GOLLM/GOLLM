@@ -1,0 +1,44 @@
+[
+  {
+    "gene": "intestine-specific annexin",
+    "geneID": "312",
+    "go_data": [
+      {
+        "term": "cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Villus-associated epithelial cells continue to transcribe this gene during their differentiation/translocation up the villus.",
+        "reference(s)": [
+          "PMC2289284"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The intestine-specific annexin (ISA) is associated with the plasma membrane of undifferentiated, proliferating crypt epithelial cells as well as differentiated villus enterocytes.",
+        "reference(s)": [
+          "PMC2289284"
+        ]
+      },
+      {
+        "term": "apical plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "In polarized enterocytes, the highest concentrations of ISA are found at the apical compared to basolateral membrane.",
+        "reference(s)": [
+          "PMC2289284"
+        ]
+      },
+      {
+        "term": "protein N-myristoylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "In vitro studies using an octapeptide derived from residues 2-9 of the primary translation product of ISA mRNA and purified myristoyl-CoA:protein N-myristoyltransferase suggested that it is N-myristoylated.",
+        "reference(s)": [
+          "PMC2289284"
+        ]
+      }
+    ]
+  }
+]

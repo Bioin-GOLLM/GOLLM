@@ -1,0 +1,33 @@
+{
+  "gene": "EGFL6",
+  "geneID": "781765",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "EGFL6 is found in the extracellular matrix proteins.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The EGF repeats in EGFL6 are Ca2+-binding EGF domains.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "protein-protein interactions",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The Ca2+-binding EGF domains in EGFL6 mediate protein-protein interactions.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "B7.1",
+  "geneID": "12519",
+  "go_data": [
+    {
+      "term": "T cell costimulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7.1 costimulates T cell proliferation.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "B7.1 is a cell surface molecule that interacts with CD28 and CTLA-4.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "B7.1 is involved in the immune response through its interaction with T cells.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

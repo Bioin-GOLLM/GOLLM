@@ -1,0 +1,521 @@
+[
+  {
+    "gene": "Vascular Cell Adhesion Molecule 1",
+    "geneID": "7412",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VCAM-1 binds to alphadbeta2 integrin and alpha4 integrin.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "leukocyte adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VCAM-1 is involved in the adhesion of eosinophils to vascular endothelium.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VCAM-1 is expressed on the surface of vascular endothelial cells.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VCAM-1 is involved in the recruitment of eosinophils to sites of allergic inflammation.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta2",
+    "geneID": "28907",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "alphadbeta2 can function as a ligand for vascular cell adhesion molecule 1 (VCAM-1).",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "leukocyte migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The interaction of alphadbeta2 with VCAM-1 is a mechanism by which selective recruitment of eosinophils into sites of allergic inflammation occurs.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "beta2 is part of the alphadbeta2 integrin complex.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The beta2 family of integrins, including alphadbeta2, are expressed on the surface of most leukocytes.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD11a",
+    "geneID": "3683",
+    "go_data": [
+      {
+        "term": "leukocyte migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11a is part of the beta2 family of integrins, which are expressed on most leukocytes and play a role in cell adhesion and migration.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11a, as a beta2 integrin, is involved in cell adhesion, as blocking mAbs to CD18, alphad, or alpha4 integrins reduced adhesion to background levels.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin alpha subunit binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CD11a is an alpha subunit of the beta2 integrin family and binds to beta2 integrins to form a functional complex.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD11a is expressed on the surface of leukocytes, including eosinophils, neutrophils, and basophils, indicating its location in the plasma membrane.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD11b",
+    "geneID": "3684",
+    "go_data": [
+      {
+        "term": "leukocyte migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11b is expressed on most leukocytes and is involved in their migration.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD11b is expressed on the surface of leukocytes.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CD11b is part of the beta2 integrin complex.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11b is involved in cell adhesion, as it binds to ICAM-3 and mediates leukocyte-leukocyte adhesion.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD11c",
+    "geneID": "3687",
+    "go_data": [
+      {
+        "term": "leukocyte migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD11c is expressed on most leukocytes, including monocytes, and is involved in their migration.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD11c is expressed on the surface of leukocytes, including eosinophils and monocytes.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CD11c is part of the beta2 integrin family, which forms a complex with CD18.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "interleukin 5",
+    "geneID": "3567",
+    "go_data": [
+      {
+        "term": "eosinophil differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-5 culture leads to changes in surface expression of alphad integrin on eosinophils.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-5 enhances the in vitro adhesion of human eosinophils in a leucocyte integrin (CD11/18)-dependent manner.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-5 may play a role in cytokine-primed eosinophil recruitment to inflammatory sites.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-5 is a cytokine that affects eosinophil behavior and function.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta1",
+    "geneID": "28905",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "beta1 integrin is involved in the interaction with vascular cell adhesion molecule 1 (VCAM-1) for selective recruitment of eosinophils into sites of allergic inflammation.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "beta1 is a subunit of the integrin complex, forming alpha4beta1 and alpha4beta7 integrins.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "leukocyte migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "beta1 integrin is involved in the recruitment of eosinophils into sites of allergic inflammation, which is a type of leukocyte migration.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD18",
+    "geneID": "3689",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mAbs to CD18 were effective in reducing adhesion to background levels.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CD18 is part of the beta2 integrin, alphadbeta2, CD11b/CD18 and CD11c/CD18 complexes.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "leukocyte adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "alphadbeta2, which includes CD18, is expressed on most human leukocytes and is involved in adhesion.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "intercellular adhesion molecule 3",
+    "geneID": "3385",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ICAM-3 binds to alphadbeta2 integrin.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "leukocyte cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ICAM-3 is involved in leukocyte-leukocyte adhesion through binding to alphad integrin.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As an intercellular adhesion molecule, ICAM-3 is located on the cell surface.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RANTES",
+    "geneID": "6352",
+    "go_data": [
+      {
+        "term": "chemokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RANTES is tested for its effects on eosinophils, indicating its role as a chemokine.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "eosinophil chemotaxis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RANTES is described as an eosinophil-active stimulus, suggesting its involvement in eosinophil chemotaxis.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Eotaxin",
+    "geneID": "6356",
+    "go_data": [
+      {
+        "term": "eosinophil chemotaxis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Eotaxin is tested for its acute effects on eosinophils.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Eotaxin is incubated with eosinophils, implying it is outside the cells.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MDC",
+    "geneID": "6367",
+    "go_data": [
+      {
+        "term": "eosinophil chemotaxis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MDC is an eosinophil-active stimulus.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "chemokine activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MDC is compared to other chemokines like RANTES and Eotaxin for eosinophil activity.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "E-selectin",
+    "geneID": "6401",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "E-selectin is used as a coating in cell adhesion assays.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CHO cells did not display significant adherence to wells coated with E-selectin.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha4",
+    "geneID": "28898",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "alpha4 integrins mediate adhesion to VCAM-1.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "alpha4 integrins bind to VCAM-1 and fibronectin.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "alpha4 integrins are expressed on the surface of eosinophils.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "fibronectin",
+    "geneID": "2335",
+    "go_data": [
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Fibronectin can bind to integrins, such as alpha4 integrins and alphadbeta2 integrin.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fibronectin mediates human eosinophil interaction through integrin alpha4beta7.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      },
+      {
+        "term": "extracellular matrix",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Fibronectin is a component of the extracellular matrix, interacting with cell surface adhesion glycoproteins.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mucosal addressin cell adhesion molecule 1",
+    "geneID": "8174",
+    "go_data": [
+      {
+        "term": "cell adhesion molecule binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Mucosal addressin cell adhesion molecule 1 is considered as a potential ligand for alphadbeta2 integrins.",
+        "reference(s)": [
+          "PMC2212388"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1313 @@
+[
+  {
+    "gene": "TRAF-interacting Protein",
+    "geneID": "10293",
+    "go_data": [
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRIP inhibits TRAF2-mediated NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRIP interacts with TRAF1 and TRAF2.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TRIP is recruited to the receptor-TRAF signaling complex in the cytoplasm.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "receptor signaling complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "TRIP is a component of the receptor-TRAF complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "regulation of signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRIP regulates the receptor-mediated signal transduction by inhibiting TRAF2-mediated NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Tumor Necrosis Factor Receptor",
+    "geneID": "7132",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Members of the tumor necrosis factor receptor (TNFR) superfamily elicit a wide range of biological effects including differentiation, proliferation, activation, or cell death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Stimulation of members of the TNFR superfamily activates signaling cascades leading to the regulation of cell activation/growth or death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Clustering of signal transducers leads to the recruitment of FLICE/MACH, and subsequently, to cell death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Members of the TNFR superfamily can initiate different signal transduction pathways by recruiting different types of intracellular signal transducers to the receptor complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The cytoplasmic domains of these receptors lack intrinsic catalytic activity and also exhibit no significant homology to each other or to other known proteins.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD30",
+    "geneID": "943",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CD30 contains two binding sites with different specificities for members of the tumor necrosis factor receptor-associated factor family of signal transducing proteins",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD30-TRAF interaction leads to NF-kappaB activation",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD30 is involved in T cell receptor-dependent cell death of T cell hybridomas",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD30 is a receptor on the surface of cells",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD30 interacts with TRAF proteins to initiate signal transduction",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF2",
+    "geneID": "7186",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF2 mediates NF-kappaB activation induced by TNF receptors, CD40, and CD30.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF2 mediates NF-kappaB activation induced by TNF receptors, CD40, and CD30.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRAF2 interacts with TRIP, TRAF1, and other proteins to regulate NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TRAF2 is a cytoplasmic protein that interacts with receptors and other signaling molecules.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NF-kappaB",
+    "geneID": "4790",
+    "go_data": [
+      {
+        "term": "transcription factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "NF-kappaB activation induces the expression of various genes.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB activation is required for cell activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB activation suppresses cell death and prevents TNF-alpha-induced apoptosis.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "NF-kappaB is a transcription factor that localizes to the nucleus to regulate gene expression.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB activation is mediated by TRAF2 and is involved in signal transduction pathways.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFR2",
+    "geneID": "7133",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor-activated receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNFR2 is a receptor that interacts with TRAF proteins to activate signaling pathways.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNFR2 is involved in signal transduction through its interaction with TRAF proteins.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TNFR2 is a receptor located on the cell surface.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNFR2 signaling can lead to apoptosis.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNFR2 signaling can lead to NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNF",
+    "geneID": "7124",
+    "go_data": [
+      {
+        "term": "cell death",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRIP overexpression enhanced TNF-mediated cell death in HeLa cells.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TNF-induced NF-kappaB activation was inhibited by TRIP overexpression.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "tumor necrosis factor receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Members of the tumor necrosis factor receptor (TNFR) superfamily elicit a wide range of biological effects including differentiation, proliferation, activation, or cell death through their interaction with the TNF receptor-associated factor (TRAF) family.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TNF is a secreted protein that interacts with the TNF receptor on the cell surface.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Fas",
+    "geneID": "355",
+    "go_data": [
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Fas(CD95) initiates different signal transduction pathways by recruiting different types of intracellular signal transducers to the receptor complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FADD, a novel death domain-containing protein, interacts with the death domain of Fas and initiates apoptosis.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Fas(CD95) is a receptor that recruits signal transducers to the receptor complex, implying its location in the plasma membrane.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fas(CD95) initiates different signal transduction pathways by recruiting different types of intracellular signal transducers to the receptor complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Fas(CD95) interacts with the death domain of FADD/MORT1, RIP, or TRADD through the interactions of their respective death domains.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FADD",
+    "geneID": "8772",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FADD interacts with the death domain of Fas and initiates apoptosis through signal transduction.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "death-inducing signaling complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "FADD is recruited to the death-inducing signaling complex to initiate cell death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein-protein interactions",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FADD interacts with the death domain of Fas and other proteins like TRADD and RIP to initiate signal transduction.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FADD initiates apoptosis through its interaction with the death domain of Fas.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RIP",
+    "geneID": "8737",
+    "go_data": [
+      {
+        "term": "death domain binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RIP interacts with Fas(CD95) or TNFR1 via interaction of the death domains.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RIP is recruited to Fas(CD95) or TNFR1 and leads to the recruitment of downstream signal molecules that act to initiate cascades leading to cell death or activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "RIP interacts with Fas(CD95) or TNFR1, which are receptors on the cell surface, implying RIP is located in the cytoplasm.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein kinase binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RIP is recruited to the TNF receptor-1 signaling complex, which contains protein kinases.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RIP causes cell death when interacting with Fas/APO-1(CD95).",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRADD",
+    "geneID": "8717",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRADD recruits FADD/MORT1 or TRAF2 to the TNFR1 complex to initiate the signal transduction required for cell death or NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "death domain binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRADD interacts with Fas(CD95) or TNFR1 via interaction of the death domains.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TRADD is involved in signal transduction pathways initiated by TNFR1, which is a membrane receptor, implying TRADD's location in the cytoplasm.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRADD overexpression mediates NF-kappaB activation in 293 cells.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRADD recruits FADD/MORT1 or TRAF2 to the TNFR1 complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FLICE",
+    "geneID": "841",
+    "go_data": [
+      {
+        "term": "cysteine-type endopeptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FLICE is described as an ICE/CED-3-like protease.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FLICE is recruited to the CD95 death-inducing signaling complex, leading to cell death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "death-inducing signaling complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "FLICE is recruited to the CD95 death-inducing signaling complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "JNK",
+    "geneID": "5599",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "JNK is activated by TRAFs, indicating its role as a protein kinase.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "JNK activation is linked to the signal transduction pathway of TNFR family members through TRAFs.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD40",
+    "geneID": "958",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CD40 interacts directly with TRAFs via a short stretch of amino acids within their cytoplasmic tails.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF2 mediates NF-kappaB activation induced by CD40.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD40 plays a role in the activation of signaling pathways induced by these receptors.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD40 is a receptor that interacts with TRAFs via its cytoplasmic tail, implying it is located at the cell surface.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LT-betaR",
+    "geneID": "4055",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LT-betaR is a member of the TNFR family and interacts with TRAF proteins.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF5 was implicated in NF-kappaB activation mediated by LTbetaR.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasmic tail",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LT-betaR interacts directly with TRAFs via a short stretch of amino acids within its cytoplasmic tail.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The TRAF family proteins interact directly with LT-betaR and play pivotal roles in the activation of signaling pathways induced by this receptor.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF5",
+    "geneID": "7188",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF5 is a putative signal transducer for the lymphotoxin-beta receptor.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF5 is an activator of NF-kappaB.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF5 interacts directly with some members of the TNFR family and plays pivotal roles in the activation of signaling pathways induced by these receptors.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF3",
+    "geneID": "7187",
+    "go_data": [
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF3 inhibits TRAF2-mediated NF-kappaB activation when overexpressed in 293 cells.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "CD40 signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF3 was shown to be involved in the regulation of CD40-mediated CD23 upregulation in B cells.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD23",
+    "geneID": "2208",
+    "go_data": [
+      {
+        "term": "cell surface receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD23 upregulation is mediated by CD40, a cell surface receptor.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "B cell",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "CD23 upregulation occurs in B cells.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF1",
+    "geneID": "7185",
+    "go_data": [
+      {
+        "term": "signal transducer activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRAF1 is required for the recruitment of members of the cellular inhibitor of apoptosis protein (c-IAP) family to the TNFR2-signaling complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "receptor signaling complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF1 may work as an adapter protein to recruit different downstream signal transducers to the receptor complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TRAF1 interacts with TRIP in the cytoplasm.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF1 forms a complex with TRAF2 and TRIP.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF1 interacts with A20, which inhibits NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF6",
+    "geneID": "7189",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF6 may regulate other receptor-mediated signaling pathways.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "interleukin-1-mediated signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAF6 mediates the activation of NF-kappaB by IL-1R.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TRAF6 is a component of IL-1 receptor-signaling complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL1R",
+    "geneID": "3554",
+    "go_data": [
+      {
+        "term": "NF-kappaB signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1R mediates the activation of NF-kappaB.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1R is part of a signaling complex that mediates signal transduction.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, IL-1R is typically located in the plasma membrane.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GST",
+    "geneID": "373156",
+    "go_data": [
+      {
+        "term": "glutathione transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GST is an abbreviation for glutathione-S-transferase.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "GST fusion proteins were coexpressed in 293 cells and cell lysates were precipitated with glutathione-Sepharose beads.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIP",
+    "geneID": "22036",
+    "go_data": [
+      {
+        "term": "lymphocyte proliferation",
+        "relationship": "negatively regulates",
+        "namespace": "biological_process",
+        "justification": "The expression of TRIP was significantly reduced when lymphocytes were stimulated to proliferate via antigen receptors.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "thymus",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "TRIP-specific probes detected a ~2.1-kb mRNA species present in various tissues, including thymus.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "spleen",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "TRIP-specific probes detected a ~2.1-kb mRNA species present in various tissues, including spleen.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "testis",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "TRIP-specific probes detected a ~2.1-kb mRNA species present in various tissues, including testes.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFR",
+    "geneID": "21937",
+    "go_data": [
+      {
+        "term": "tumor necrosis factor-activated receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNFR is part of the TNFR-TRAF signaling complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "lymphocyte proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The expression of components of the TNFR-TRAF signaling complex was upregulated upon lymphocyte proliferation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF1",
+    "geneID": "22029",
+    "go_data": [
+      {
+        "term": "lymphocyte proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The expression of TRAF1 was upregulated upon lymphocyte proliferation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "c-IAP1",
+    "geneID": "11796",
+    "go_data": [
+      {
+        "term": "regulation of lymphocyte proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The expression of c-IAP1 was upregulated upon lymphocyte proliferation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIP",
+    "geneID": "8668",
+    "go_data": [
+      {
+        "term": "inhibition of NF-kappaB transcription factor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRIP inhibits TRAF2-mediated NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRIP interacts with TRAF2 to inhibit NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD8",
+    "geneID": "925",
+    "go_data": [
+      {
+        "term": "receptor complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CD8 associates with the receptor complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "lymphocyte activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD8+ T cells undergo activation-induced cell death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "T cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD8 is expressed on mature T cells, which undergo differentiation in the thymus.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CD8 is a transmembrane receptor.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1",
+    "geneID": "3553",
+    "go_data": [
+      {
+        "term": "NF-kappaB activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1 induces NF-kappaB activation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "c-IAP1",
+    "geneID": "329",
+    "go_data": [
+      {
+        "term": "inhibition of apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "c-IAP1 was shown to inhibit the apoptosis triggered by IL-1beta converting enzyme overexpression or serum deprivation.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "c-IAP1 is recruited to the TNFR2 signaling complex by their interaction with TRAFs.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information, but based on the provided text, c-IAP1 interacts with TRAFs which are typically found in the cytoplasm.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "c-IAP2",
+    "geneID": "330",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "c-IAPs are involved in the protection of cells from apoptosis.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "c-IAP2 is recruited to the TNFR2 signaling complex to regulate various biological effects.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "I-TRAF",
+    "geneID": "10010",
+    "go_data": [
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "I-TRAF inhibits TRAF2-mediated NF-kappaB activation by blocking the recruitment of TRAF2 to the receptor complex.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "I-TRAF is not recruited to the cognate receptor-TRAF signaling complex, suggesting it may be located in the cytoplasm.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "I-TRAF is a novel TRAF-interacting protein that regulates TRAF-mediated signal transduction.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "A20",
+    "geneID": "7128",
+    "go_data": [
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A20 inhibits the activation of NF-kappaB induced by IL-1R as well as by TNFRs.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cellular response to tumor necrosis factor",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The A20 zinc finger protein protects cells from tumor necrosis factor cytotoxicity.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "A20 interacts with TRAF1/TRAF2.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "negative regulation of apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Manganese superoxide dismutase or A20 induced by NF-kappaB activation will also contribute to the survival of cells during cell proliferation/growth.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1beta converting enzyme",
+    "geneID": "834",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IL-1beta converting enzyme overexpression triggers apoptosis.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cysteine-type peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "IL-1beta converting enzyme is known for its role in processing IL-1beta, implying peptidase activity.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Manganese superoxide dismutase",
+    "geneID": "6648",
+    "go_data": [
+      {
+        "term": "antioxidant activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Manganese superoxide dismutase contributes to the survival of cells by potentially reducing oxidative stress.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell proliferation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Manganese superoxide dismutase is induced by NF-kappaB activation and contributes to the survival of cells during cell proliferation/growth.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "negative regulation of apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Manganese superoxide dismutase acts as an antiapoptotic protein, contributing to cell survival.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-galactosidase",
+    "geneID": "2720",
+    "go_data": [
+      {
+        "term": "beta-galactosidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The text mentions 'beta-galactosidase' which implies the gene product has beta-galactosidase activity.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TCR",
+    "geneID": "328483",
+    "go_data": [
+      {
+        "term": "adaptive immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TCR is involved in T cell activation and signaling.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TCR is a cell surface receptor.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TCR couples to Fas(CD95) expression in activation-induced cell death.",
+        "reference(s)": [
+          "PMC2196258"
+        ]
+      }
+    ]
+  }
+]

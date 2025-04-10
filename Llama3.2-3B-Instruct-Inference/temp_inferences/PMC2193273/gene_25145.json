@@ -1,0 +1,15 @@
+{
+  "gene": "HSA",
+  "geneID": "25145",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HSA is referred to as a heat-stable antigen, which is typically associated with being located on the cell surface.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "nephronectin",
+  "geneID": "114249",
+  "go_data": [
+    {
+      "term": "extracellular matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Nephronectin is an extracellular matrix protein.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nephronectin mediates attachment of cells to integrin alpha8beta1.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Nephronectin binds to integrin alpha8beta1 and several additional RGD-binding integrins.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    },
+    {
+      "term": "kidney development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nephronectin is a critical ligand in the signaling pathway in early metanephric kidney development.",
+      "reference(s)": [
+        "PMC2150762"
+      ]
+    }
+  ]
+}

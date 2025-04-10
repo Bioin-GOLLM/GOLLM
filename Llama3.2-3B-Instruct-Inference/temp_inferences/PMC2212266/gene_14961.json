@@ -1,0 +1,33 @@
+{
+  "gene": "alpha/beta-",
+  "geneID": "14961",
+  "go_data": [
+    {
+      "term": "lymphoid organ development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Surface lymphotoxin alpha/beta complex is required for the development of peripheral lymphoid organs",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Surface lymphotoxin alpha/beta complex",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "alpha/beta-TCR+ cells are part of the immune system",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}

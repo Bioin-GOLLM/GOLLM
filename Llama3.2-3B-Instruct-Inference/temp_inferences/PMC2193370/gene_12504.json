@@ -1,0 +1,33 @@
+{
+  "gene": "CD4",
+  "geneID": "12504",
+  "go_data": [
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4 cells are costimulated by B7-DC to proliferate in response to anti-CD3.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD4 cells are involved in T cell proliferative responses.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD4 is a cell surface molecule.",
+      "reference(s)": [
+        "PMC2193370"
+      ]
+    }
+  ]
+}

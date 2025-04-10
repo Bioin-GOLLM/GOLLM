@@ -1,0 +1,33 @@
+{
+  "gene": "gammac",
+  "geneID": "16186",
+  "go_data": [
+    {
+      "term": "cytokine receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "gammac is part of the receptor complex for several cytokines.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "lymphocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mice with targeted disruptions of the gammac gene show profound T and B cell lymphopenia.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, gammac is expected to be located on the cell surface.",
+      "reference(s)": [
+        "PMC2193273"
+      ]
+    }
+  ]
+}

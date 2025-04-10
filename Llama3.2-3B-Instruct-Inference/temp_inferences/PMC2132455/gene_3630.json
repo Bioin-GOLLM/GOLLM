@@ -1,0 +1,24 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "cellular protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Insulin binds to the cation-independent mannose 6-phosphate/insulin-like growth factor type II receptor.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    },
+    {
+      "term": "regulation of transforming growth factor beta activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cellular activation of latent transforming growth factor beta requires binding to the cation-independent mannose 6-phosphate/insulin-like growth factor type II receptor.",
+      "reference(s)": [
+        "PMC2132455"
+      ]
+    }
+  ]
+}

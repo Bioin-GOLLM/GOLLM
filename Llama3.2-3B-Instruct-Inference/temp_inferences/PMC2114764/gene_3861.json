@@ -1,0 +1,33 @@
+{
+  "gene": "K14",
+  "geneID": "3861",
+  "go_data": [
+    {
+      "term": "keratin filament formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutants of K14 incorporate into the endogenous keratin filaments and cause alterations in the keratin network.",
+      "reference(s)": [
+        "PMC2114764"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "K14 is a type of keratin that forms filaments, which are part of the cytoskeleton.",
+      "reference(s)": [
+        "PMC2114764"
+      ]
+    },
+    {
+      "term": "structural molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "K14 is a keratin protein that provides structural support to cells through its incorporation into keratin filaments.",
+      "reference(s)": [
+        "PMC2114764"
+      ]
+    }
+  ]
+}

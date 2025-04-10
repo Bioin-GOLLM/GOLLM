@@ -1,0 +1,33 @@
+{
+  "gene": "Uroplakin Ib",
+  "geneID": "7348",
+  "go_data": [
+    {
+      "term": "transmembrane signaling receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Uroplakin Ib is a urothelium-specific transmembrane protein.",
+      "reference(s)": [
+        "PMC5921953"
+      ]
+    },
+    {
+      "term": "urothelial cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Uroplakin Ib is specifically expressed in urothelial cells.",
+      "reference(s)": [
+        "PMC5921953"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Uroplakin Ib is a transmembrane protein.",
+      "reference(s)": [
+        "PMC5921953"
+      ]
+    }
+  ]
+}

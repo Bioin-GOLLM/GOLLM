@@ -1,0 +1,33 @@
+{
+  "gene": "Tlg2p",
+  "geneID": "854142",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tlg2p interacts with Vps45p, and is part of a t-SNARE-Sec1p complex.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tlg2p is involved in endosomal fusion events and SNARE complex formation.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Tlg2p interacts with Vps45p and Pep12p.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

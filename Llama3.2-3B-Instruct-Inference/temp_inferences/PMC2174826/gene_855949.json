@@ -1,0 +1,24 @@
+{
+  "gene": "PEP4",
+  "geneID": "855949",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PEP4 is known to encode a protease in Saccharomyces cerevisiae.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    },
+    {
+      "term": "vacuole",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PEP4 is a vacuolar protease in Saccharomyces cerevisiae.",
+      "reference(s)": [
+        "PMC2174826"
+      ]
+    }
+  ]
+}

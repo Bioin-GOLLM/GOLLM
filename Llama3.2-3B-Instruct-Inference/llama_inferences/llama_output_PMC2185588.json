@@ -1,0 +1,1106 @@
+[
+  {
+    "gene": "Rabenosyn-5",
+    "geneID": "511484",
+    "go_data": [
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rabenosyn-5 is targeted to early endosomes in a PI-3-kinase-dependent manner through a FYVE domain.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rabenosyn-5 is required for fusion of plasma membrane-derived CCVs with endosomes, and for homotypic endosome fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rabenosyn-5 interacts directly with Rab5 and associates with the Sec1 homologue hVPS45.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "lysosomal transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rabenosyn-5 overexpression inhibits cathepsin D processing, suggesting a role in transport of cathepsin D from the Golgi complex to lysosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "phosphatidylinositol-3-phosphate binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rabenosyn-5 contains a FYVE zinc finger, which binds to phosphatidylinositol-3-phosphate (PI-3P) on early endosomal membranes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab5",
+    "geneID": "5868",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rab5 is a small GTPase that regulates endocytic membrane traffic.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "regulation of endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rab5 regulates endocytic membrane traffic by recruiting cytosolic effector proteins to early endosomal membranes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rab5 occupies a restricted membrane domain on early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rab5 interacts with multiple effector proteins, including Rabenosyn-5 and EEA1.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rab5 regulates the formation of membrane domains on early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rabenosyn-5",
+    "geneID": "64145",
+    "go_data": [
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rabenosyn-5 is recruited to early endosomes in a phosphatidylinositol-3-kinase-dependent fashion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rabenosyn-5 interacts with hVPS45, a Sec1-like protein.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rabenosyn-5 is required for fusion of plasma membrane-derived CCVs with the early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosomal transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rabenosyn-5 is involved in trafficking of newly synthesized proteins through early endosomes en route to lysosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rabenosyn-5 colocalizes with EEA1 on early endosomes in A431 cells.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EEA1",
+    "geneID": "8411",
+    "go_data": [
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EEA1 is recruited to early endosomes by the action of Rab5 and the interaction of PI-3P with its FYVE domain.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "EEA1 is required for early endosomal fusion, and its release from early endosomes after inhibition of PI-3-kinase activity inhibits endosome fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "phosphatidylinositol 3-phosphate binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The FYVE finger domain of EEA1 binds to phosphatidylinositol 3-phosphate, which is necessary for its recruitment to early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "Rab5 GTPase binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EEA1 interacts directly with Rab5, which is necessary for its recruitment to early endosomes and its function in endosome fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "syntaxin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "EEA1 interacts directly with syntaxin 13, which is involved in SNARE-dependent membrane docking and fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "phosphatidylinositol-3-kinase",
+    "geneID": "5295",
+    "go_data": [
+      {
+        "term": "phosphatidylinositol 3-kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "phosphatidylinositol-3-kinase is involved in the production of PI-3-phosphate (PI-3P).",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "phosphatidylinositol-3-kinase is required for the membrane recruitment of EEA1 and the regulation of fusion of plasma membrane-derived CCVs with early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "phosphatidylinositol-3-kinase is recruited to early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Sec1",
+    "geneID": "653677",
+    "go_data": [
+      {
+        "term": "negative regulation of SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Sec1-like proteins are thought to serve as negative regulators of SNARE pairing by sequestering syntaxin molecules.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Sec1p binds to SNARE complexes and concentrates at sites of secretion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Yeast Vps45p is a Sec1p-like protein required for the consumption of vacuole-targeted, post-Golgi transport vesicles.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Sec1p binds to SNARE complexes and concentrates at sites of secretion, implying a cytoplasmic location.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vac1p",
+    "geneID": "851923",
+    "go_data": [
+      {
+        "term": "vesicle-mediated transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vac1p is thought to act in membrane trafficking as a complex with the Sec1 homologue Vps45p.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vacuole inheritance",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vac1p was originally identified as a gene required for vacuole inheritance and vacuole protein sorting.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vacuole protein sorting",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vac1p was originally identified as a gene required for vacuole inheritance and vacuole protein sorting.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vac1p coordinates Rab and phosphatidylinositol 3-kinase signaling in Vps45p-dependent vesicle docking/fusion at the endosome.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cathepsin D",
+    "geneID": "1509",
+    "go_data": [
+      {
+        "term": "lysosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Cathepsin D is synthesized as a 53-kD precursor, which is processed into a 47-kD intermediate form in endocytic compartments and ultimately transported to lysosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein processing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cathepsin D is processed from a 53-kD precursor to a 47-kD intermediate form in endocytic compartments.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Cathepsin D is transported through early endosomes en route to lysosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Cathepsin D is a lysosomal aspartic protease, implying peptidase activity.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab",
+    "geneID": "3267",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rab GTPases have been identified to regulate diverse functions associated with membrane trafficking.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vesicle formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rab GTPases have been demonstrated to regulate vesicle formation.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endomembrane system",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Different members of the Rab GTPase family have been identified to localize to distinct compartments of the endomembrane system.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "membrane docking",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rab effectors mediate initial docking of vesicles to their target compartment.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "cytoskeletal network",
+        "relationship": "interacts_with",
+        "namespace": "cellular_component",
+        "justification": "Rab GTPases have been implicated in the regulation of organelle association with, or movement upon, cytoskeletal networks within eukaryotic cells.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNARE",
+    "geneID": "100170220",
+    "go_data": [
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAREs are involved in membrane fusion, which occurs through priming and proper pairing of SNARE molecules.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "membrane docking",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAREs are involved in the coupling of vesicle tethering and membrane fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SNAREs are found in complex with proteins on early endosomal membranes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAREs assemble into membrane fusion-competent complexes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "SNAP receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SNAREs are defined as SNAP receptor molecules.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab4",
+    "geneID": "5867",
+    "go_data": [
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rab4 occupies a restricted membrane domain on endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "membrane organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rab4 is involved in distinct membrane domains on endosomes in the recycling pathway.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "GTPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Not explicitly stated in the text, however, based on the provided context it can be noted that Rab proteins are GTPases, but since it is not explicitly stated for Rab4, this should not be included.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab11",
+    "geneID": "8766",
+    "go_data": [
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rab11 occupies a subcompartment on endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "hVPS34",
+    "geneID": "5289",
+    "go_data": [
+      {
+        "term": "phosphatidylinositol 3-kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "hVPS34 is a specific phosphatidylinositol (PI)-3-kinase isoform that causes localized production of PI-3-phosphate (PI-3P).",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "hVPS34 is essential for the membrane recruitment of EEA1, which is involved in early endosome fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "hVPS34 is required for the fusion of plasma membrane-derived CCVs with early endosomes and homotypic early endosome fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syn",
+    "geneID": "23336",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The protein interacts directly with Rab5.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p110beta",
+    "geneID": "5291",
+    "go_data": [
+      {
+        "term": "phosphatidylinositol 3-kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p110beta is referred to as the PI-3-kinase catalytic subunit.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Reactions were carried out in the absence of cytosol or an ATP-regenerating system, implying p110beta's involvement in cytosolic processes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GST",
+    "geneID": "373156",
+    "go_data": [
+      {
+        "term": "glutathione transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GST is an abbreviation for glutathione S-transferase.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rabaptin-5",
+    "geneID": "9135",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rabaptin-5 interacted specifically with the GTP-associated form of GST-Rab5.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endocytic vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rabaptin-5 associates with oligomeric structures containing NSF and Rabex-5 on endosomal membranes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rabaptin-5 is a direct effector of the small GTPase Rab5 in endocytic membrane fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vps45p",
+    "geneID": "11311",
+    "go_data": [
+      {
+        "term": "vesicle docking",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vac1p coordinates Rab and phosphatidylinositol 3-kinase signaling in Vps45p-dependent vesicle docking/fusion at the endosome",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein complex binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Vps45p interacts with Tlg2p, in addition to Pep12p",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vac1p coordinates Rab and phosphatidylinositol 3-kinase signaling in Vps45p-dependent vesicle docking/fusion at the endosome",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vacuole",
+        "relationship": "involved_in",
+        "namespace": "cellular_component",
+        "justification": "Vps45p is required for the consumption of vacuole-targeted, post-Golgi transport vesicles",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vps45p",
+    "geneID": "852785",
+    "go_data": [
+      {
+        "term": "regulation of SNARE complex formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vps45p serves as a link between Rab5 regulation of endosomal fusion events and regulation of endosomal SNARE complex formation.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vps45p is involved in endosomal fusion events and SNARE complex formation, indicating its presence in endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Vps45p can complex with different syntaxin isoforms, such as Pep12p and Tlg2p.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Pep12p",
+    "geneID": "854201",
+    "go_data": [
+      {
+        "term": "SNARE complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Pep12p is found in complex with hVPS45 and Vps45p, which are implicated in endosomal SNARE complex formation.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosomal fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pep12p is found in complex with Vps45p, which serves as a link between Rab5 regulation of endosomal fusion events.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "prevacuolar compartment",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Pep12p is implicated in proper sorting and trafficking of proteins from the TGN to the vacuole.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Tlg2p",
+    "geneID": "854142",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Tlg2p interacts with Vps45p, and is part of a t-SNARE-Sec1p complex.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Tlg2p is involved in endosomal fusion events and SNARE complex formation.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Tlg2p interacts with Vps45p and Pep12p.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syntaxin 6",
+    "geneID": "10228",
+    "go_data": [
+      {
+        "term": "vesicle docking",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin 6 interacts with hVPS45, which is expected to be involved in vesicle docking on early endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Syntaxin 6 is present on early endosomes, where it interacts with hVPS45.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin 6 is able to interact with hVPS45 and other proteins such as Rab5 and Rabenosyn-5.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syntaxin 7",
+    "geneID": "8417",
+    "go_data": [
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Syntaxin 7 localizes to early endosomes in vivo.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin 7 bound alpha-SNAP.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosomal transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin 7 has differential roles in endosomal trafficking.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NSF",
+    "geneID": "4905",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "NSF is involved in SNARE priming and pairing, a multistep process that must be coordinated with membrane tethering.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosomal membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "EEA1 associates with oligomeric structures containing NSF and Rabaptin-5/Rabex-5 on endosomal membranes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "membrane fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cytosolic ATPases, p97 and NSF, are sufficient to mediate rapid membrane fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "Golgi to endosome transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A novel Sec18p/NSF-dependent complex is required for Golgi-to-endosome transport in yeast.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "ATPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "NSF is a cytosolic ATPase that mediates rapid membrane fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rabex-5",
+    "geneID": "27342",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rabex-5 interacts directly with syntaxin 13 in vitro.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endosomal membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rabex-5 associates with oligomeric structures containing NSF and Rabaptin-5 on endosomal membranes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tomosyn",
+    "geneID": "134957",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Tomosyn binds to SNAREs, modulating their ability to form complexes with other SNAREs.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syntaxin 1A",
+    "geneID": "6804",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Syntaxin 1A assembles into membrane fusion-competent complexes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin 1A binds to other proteins, possibly Rab effectors, to trigger conformational changes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however, syntaxin is typically associated with the cytosolic face of the plasma membrane or vesicles.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vps21p",
+    "geneID": "27243",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VPS21 encodes a rab5-like GTP binding protein",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vps21p/Ypt51p is thought to function between early endosomes and PVCs in yeast",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vps21p/Ypt51p is thought to function between early endosomes and PVCs in yeast",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "prevacuolar compartment",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VPS21 controls entry of endocytosed and biosynthetic proteins into the yeast prevacuolar compartment",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ypt51p",
+    "geneID": "854256",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Ypt51p is a Rab5-like GTPase.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "Golgi to prevacuolar compartment transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Vac1p and Vps21p/Ypt51p participate in transport from the Golgi complex to a prevacuolar compartment (PVC).",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "endocytic vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Vps21p/Ypt51p functions between early endosomes and PVCs in yeast.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "transferrin",
+    "geneID": "7018",
+    "go_data": [
+      {
+        "term": "iron ion binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Transferrin is known to bind iron ions, although this is not explicitly stated in the provided text, it is a well established fact about transferrin.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "recycling endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Transferrin recycling to the plasma membrane is mentioned, indicating its presence in recycling endosomes.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "early endosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Transferrin is loaded into early endosomes in the experiment described.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "receptor-mediated endocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The process of loading transferrin into early endosomes implies involvement in receptor-mediated endocytosis.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "soluble NSF attachment protein",
+    "geneID": "8774",
+    "go_data": [
+      {
+        "term": "SNAP receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Soluble NSF attachment protein is referred to as SNAP, which is known to interact with SNARE receptors.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Soluble NSF attachment protein is associated with NSF, which is known for its role in vesicle fusion.",
+        "reference(s)": [
+          "PMC2185588"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "gene": "PML",
+  "geneID": "18854",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PML is implicated in processes related to the nucleus, such as the formation of the PML-RAR fusion in acute promyelocytic leukemia.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    },
+    {
+      "term": "regulation of cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PML is implicated in oncogenesis, suggesting involvement in the regulation of cell proliferation.",
+      "reference(s)": [
+        "PMC2175279"
+      ]
+    }
+  ]
+}

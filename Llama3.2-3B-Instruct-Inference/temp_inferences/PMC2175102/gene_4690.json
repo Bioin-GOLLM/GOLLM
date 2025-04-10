@@ -1,0 +1,51 @@
+{
+  "gene": "Nck",
+  "geneID": "4690",
+  "go_data": [
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nck is part of a complex that links TCR signaling to the remodeling of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nck is involved in T cell signaling and the formation of a complex that brings together Ena/VASP family proteins and the Arp2/3 complex.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Nck is part of a complex composed of Fyb/SLAP, SLP-76, Nck, and WASP in T cells.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "SH3 domain binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The SH3 domain of Nck binds to WASP.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Nck is involved in actin cytoskeleton organization and cell signaling, which occur in the cytoplasm.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

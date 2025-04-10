@@ -1,0 +1,33 @@
+{
+  "gene": "zw10",
+  "geneID": "511084",
+  "go_data": [
+    {
+      "term": "kinetochore",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ZW10 helps recruit dynactin and dynein to the kinetochore",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dynamitin can bind directly to the chromosomal protein zw10",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ZW10 helps recruit dynactin and dynein to the kinetochore, which is related to cytoskeleton organization",
+      "reference(s)": [
+        "PMC2174220"
+      ]
+    }
+  ]
+}

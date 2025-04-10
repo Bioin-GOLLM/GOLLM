@@ -1,0 +1,51 @@
+{
+  "gene": "Rab5",
+  "geneID": "5868",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rab5 is a small GTPase that regulates endocytic membrane traffic.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "regulation of endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rab5 regulates endocytic membrane traffic by recruiting cytosolic effector proteins to early endosomal membranes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab5 occupies a restricted membrane domain on early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rab5 interacts with multiple effector proteins, including Rabenosyn-5 and EEA1.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    },
+    {
+      "term": "endosome organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rab5 regulates the formation of membrane domains on early endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

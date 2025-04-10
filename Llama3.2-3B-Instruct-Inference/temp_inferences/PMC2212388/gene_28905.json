@@ -1,0 +1,33 @@
+{
+  "gene": "beta1",
+  "geneID": "28905",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "beta1 integrin is involved in the interaction with vascular cell adhesion molecule 1 (VCAM-1) for selective recruitment of eosinophils into sites of allergic inflammation.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "beta1 is a subunit of the integrin complex, forming alpha4beta1 and alpha4beta7 integrins.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    },
+    {
+      "term": "leukocyte migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "beta1 integrin is involved in the recruitment of eosinophils into sites of allergic inflammation, which is a type of leukocyte migration.",
+      "reference(s)": [
+        "PMC2212388"
+      ]
+    }
+  ]
+}

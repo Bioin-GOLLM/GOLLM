@@ -1,0 +1,42 @@
+{
+  "gene": "TNF",
+  "geneID": "7124",
+  "go_data": [
+    {
+      "term": "cell death",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIP overexpression enhanced TNF-mediated cell death in HeLa cells.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "NF-kappaB activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TNF-induced NF-kappaB activation was inhibited by TRIP overexpression.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "tumor necrosis factor receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Members of the tumor necrosis factor receptor (TNFR) superfamily elicit a wide range of biological effects including differentiation, proliferation, activation, or cell death through their interaction with the TNF receptor-associated factor (TRAF) family.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TNF is a secreted protein that interacts with the TNF receptor on the cell surface.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

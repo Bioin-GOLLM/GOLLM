@@ -1,0 +1,33 @@
+{
+  "gene": "ZAP-70",
+  "geneID": "7535",
+  "go_data": [
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ZAP-70 is described as a tyrosine kinase that is activated upon TCR engagement.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "T cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ZAP-70 is activated in response to TCR ligation, indicating its involvement in the T cell receptor signaling pathway.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    },
+    {
+      "term": "cellular response to stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ZAP-70 is activated in response to TCR engagement, which is a cellular response to a stimulus.",
+      "reference(s)": [
+        "PMC2175102"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "Galphaq",
+  "geneID": "36384",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq is part of the heterotrimeric G proteins that couple to receptors such as TXA2 and thrombin receptors.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq-deficient platelets show altered coupling of thrombin and TXA2 receptors to G proteins, affecting downstream signaling.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "platelet activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Galphaq is implicated in the regulation of platelet shape change through its interaction with TXA2 and thrombin receptors.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    },
+    {
+      "term": "G-protein alpha-subunit activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Galphaq is an alpha-subunit of a heterotrimeric G protein, which has intrinsic GTPase activity.",
+      "reference(s)": [
+        "PMC2132941"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "Rab11",
+  "geneID": "8766",
+  "go_data": [
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab11 occupies a subcompartment on endosomes.",
+      "reference(s)": [
+        "PMC2185588"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "Fas",
+  "geneID": "355",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Fas(CD95) initiates different signal transduction pathways by recruiting different types of intracellular signal transducers to the receptor complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FADD, a novel death domain-containing protein, interacts with the death domain of Fas and initiates apoptosis.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Fas(CD95) is a receptor that recruits signal transducers to the receptor complex, implying its location in the plasma membrane.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fas(CD95) initiates different signal transduction pathways by recruiting different types of intracellular signal transducers to the receptor complex.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Fas(CD95) interacts with the death domain of FADD/MORT1, RIP, or TRADD through the interactions of their respective death domains.",
+      "reference(s)": [
+        "PMC2196258"
+      ]
+    }
+  ]
+}

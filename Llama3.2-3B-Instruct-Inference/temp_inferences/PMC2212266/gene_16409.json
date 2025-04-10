@@ -1,0 +1,33 @@
+{
+  "gene": "CD11b",
+  "geneID": "16409",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11b is expressed on the surface of cells, including macrophages, and is involved in cell adhesion.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "macrophage",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "CD11b is expressed on macrophages, indicating its presence in these cells.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD11b is expressed on immune cells, including macrophages, and is involved in immune system processes.",
+      "reference(s)": [
+        "PMC2212266"
+      ]
+    }
+  ]
+}
