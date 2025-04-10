@@ -1,0 +1,33 @@
+{
+  "gene": "interphotoreceptor retinoid-binding protein",
+  "geneID": "19661",
+  "go_data": [
+    {
+      "term": "photoreceptor cell maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRBP promoter drives gene expression in both rods and cones, leading to improved photoreceptor cell maintenance.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor outer segment",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRBP-NMP nanoparticles led to properly oriented OSs with well-aligned discs.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "retinoid binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Interphotoreceptor retinoid-binding protein is known to bind retinoids.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

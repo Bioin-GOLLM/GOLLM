@@ -1,0 +1,24 @@
+{
+  "gene": "MDM2",
+  "geneID": "17246",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MDM2 mediates p53 mono-ubiquitination as a ubiquitin ligase.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MDM2 mediates p53 mono-ubiquitination, altering its conformation and enhancing nuclear export.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

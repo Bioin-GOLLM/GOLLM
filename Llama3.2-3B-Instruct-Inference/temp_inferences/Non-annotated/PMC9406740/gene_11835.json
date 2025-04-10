@@ -1,0 +1,42 @@
+{
+  "gene": "androgen receptor",
+  "geneID": "11835",
+  "go_data": [
+    {
+      "term": "steroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The androgen receptor binds to androgens, leading to the activation of specific DNA sequences.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The androgen receptor affects the transcriptional activity of specific anabolic genes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, the androgen receptor localizes to the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The anabolic effect of androgen receptor activation can induce an increase in protein synthesis with a hypertrophic effect.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

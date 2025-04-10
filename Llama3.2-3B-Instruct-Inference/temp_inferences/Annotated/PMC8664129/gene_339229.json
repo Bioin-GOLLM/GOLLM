@@ -1,0 +1,15 @@
+{
+  "gene": "OXLD1",
+  "geneID": "339229",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "OXLD1 was proteolytically processed and transported to a protease-protected internal mitochondrial compartment.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

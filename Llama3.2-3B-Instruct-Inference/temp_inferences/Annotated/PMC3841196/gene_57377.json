@@ -1,0 +1,33 @@
+{
+  "gene": "glucosidase I",
+  "geneID": "57377",
+  "go_data": [
+    {
+      "term": "alpha-glucosidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "glucosidase I immediately cleaves the glucose molecule from the glycan tree",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "protein glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "glucosidase I is involved in N-linked glycosylation by cleaving glucose from the glycan tree",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "glucosidase I acts on the glycan tree inside the endoplasmic reticulum",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "Cdc7",
+  "geneID": "12545",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A Cdc7 kinase inhibitor restricts initiation of DNA replication",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cdc7 is described as a kinase",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "ORC5",
+  "geneID": "5001",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORC5 is part of the ORC complex, which is involved in DNA replication origin activation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ORC5 is a chromatin-bound protein.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORC5 is multi-mono-ubiquitylated by OBI1.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ORC5 is involved in DNA replication, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

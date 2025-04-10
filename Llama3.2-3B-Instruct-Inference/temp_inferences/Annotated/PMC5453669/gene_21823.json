@@ -1,0 +1,78 @@
+{
+  "gene": "TH",
+  "geneID": "21823",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Thyroid hormone (TH) is recognized for its role in cellular metabolism and growth.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cellular metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thyroid hormone (TH) is recognized for its role in cellular metabolism and growth.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TH participates in homeostasis of the heart.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiac muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 directs myocyte alignment and geometry.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "extracellular matrix organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 is involved in extracellular matrix remodeling.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "thyroid hormone receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TH is a ligand for the thyroid hormone receptor.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of cardiac muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 mediates direct influences on cardiac function by affecting calcium flux and calcium handling proteins.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cellular response to hormone stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TH induces molecular changes that benefit the failing heart.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

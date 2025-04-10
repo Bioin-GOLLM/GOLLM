@@ -1,0 +1,15 @@
+{
+  "gene": "paxillin",
+  "geneID": "19303",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Paxillin is found in focal adhesion complexes.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

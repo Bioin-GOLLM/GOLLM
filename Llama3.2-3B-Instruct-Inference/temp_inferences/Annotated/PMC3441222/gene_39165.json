@@ -1,0 +1,51 @@
+{
+  "gene": "CalpB",
+  "geneID": "39165",
+  "go_data": [
+    {
+      "term": "calcium-dependent cysteine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CalpB is a calcium regulated intracellular cysteine protease.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CalpB modulates border cell migration in Drosophila egg chambers.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CalpB interacts with the focal adhesion complex proteins.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CalpB can cleave talin in vitro.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CalpB is an intracellular cysteine protease.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "Protein kinase C theta",
+  "geneID": "18761",
+  "go_data": [
+    {
+      "term": "protein kinase C activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Protein kinase C theta (PKCtheta) is a type of protein kinase C, which implies it has protein kinase C activity.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle phenotype",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PKCtheta modulates the skeletal muscle phenotype in mouse models.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "chloride channel regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PKCtheta modulates the ClC-1 chloride channel activity.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "gene": "IRF",
+  "geneID": "84676",
+  "go_data": [
+    {
+      "term": "transcriptional activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF3 causes the transcriptional activation of promoters containing appropriate binding sites.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "justification": "IRF3 translocates to the nucleus after phosphorylation by TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Virus-dependent phosphorylation of the IRF-3 transcription factor regulates nuclear translocation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "sequence-specific DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRF3 binds to appropriate binding sites, such as the IFN-beta and CCL5 promoters, and a subset of promoters containing IFN-stimulated response elements (ISREs).",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

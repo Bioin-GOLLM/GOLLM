@@ -1,0 +1,24 @@
+{
+  "gene": "Munc13",
+  "geneID": "10497",
+  "go_data": [
+    {
+      "term": "regulation of synaptic vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Munc13 is a key regulatory element at excitatory CNS synapses for Ca2+-regulated neurotransmitter release.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Munc13 regulates fusion of synaptic vesicles.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

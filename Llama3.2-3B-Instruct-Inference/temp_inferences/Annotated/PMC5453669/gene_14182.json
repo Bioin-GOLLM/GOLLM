@@ -1,0 +1,33 @@
+{
+  "gene": "FGFR1",
+  "geneID": "14182",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FGFR1 is a receptor tyrosine kinase.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "centrosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FOP-FGFR1 fusion kinase recruits phosphoinositide-3 kinase and phospholipase Cgamma at the centrosome",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FGFR1 recruits phosphoinositide-3 kinase and phospholipase Cgamma",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

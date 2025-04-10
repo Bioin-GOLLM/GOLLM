@@ -1,0 +1,33 @@
+{
+  "gene": "myostatin",
+  "geneID": "17700",
+  "go_data": [
+    {
+      "term": "negative regulation of skeletal muscle growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myostatin inhibits muscle development.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Myostatin is a protein produced by skeletal muscle cells and acts as an inhibitor of muscle development, implying it is secreted into the extracellular space.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle cell differentiation",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "Myostatin signaling upregulation impairs skeletal muscle regeneration, indicating it negatively regulates muscle cell differentiation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

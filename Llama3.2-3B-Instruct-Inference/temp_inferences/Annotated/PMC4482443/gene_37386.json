@@ -1,0 +1,24 @@
+{
+  "gene": "cadherin",
+  "geneID": "37386",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cadherin is involved in cell adhesion as it forms cadherin-based cell junctions in the Drosophila heart.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cell junction",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Cadherin forms cell junctions in the Drosophila heart, specifically at the dorsal and ventral midline.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

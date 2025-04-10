@@ -1,0 +1,53 @@
+[
+  {
+    "gene": "Insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "glucose homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin is used to control glucose levels in type 2 diabetes patients.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "regulation of blood glucose levels",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin glargine is used to regulate blood glucose levels in patients with type 2 diabetes.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "cellular response to glucose stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin is released in response to glucose stimulus to regulate blood glucose levels.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "peptide hormone receptor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Insulin binds to its receptor to regulate glucose uptake and metabolism.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Insulin is secreted into the extracellular region to regulate glucose levels.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      }
+    ]
+  }
+]

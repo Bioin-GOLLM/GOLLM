@@ -1,0 +1,33 @@
+{
+  "gene": "Geminin",
+  "geneID": "57441",
+  "go_data": [
+    {
+      "term": "inhibition of DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Geminin is described as an inhibitor of DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "cell cycle",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Geminin is degraded during mitosis, indicating involvement in the cell cycle.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information, however, Geminin is often found in the nucleus but the text does not explicitly state this, thus no cellular component term can be assigned based on the given text.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

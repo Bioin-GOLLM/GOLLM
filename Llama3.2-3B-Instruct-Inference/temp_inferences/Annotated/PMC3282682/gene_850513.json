@@ -1,0 +1,33 @@
+{
+  "gene": "HAC1",
+  "geneID": "850513",
+  "go_data": [
+    {
+      "term": "transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Hac1p is a transcription factor responsible for activating genes related to ERAD.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum unfolded protein response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activated Ire1p removes an inhibitory intron from the HAC1 mRNA, which is efficiently translated in response to ER stress.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, Hac1p localizes to the nucleus to regulate the expression of genes.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

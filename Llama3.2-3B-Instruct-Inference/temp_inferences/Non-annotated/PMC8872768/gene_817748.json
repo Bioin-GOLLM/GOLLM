@@ -1,0 +1,15 @@
+{
+  "gene": "AtXI-F",
+  "geneID": "817748",
+  "go_data": [
+    {
+      "term": "calmodulin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Calmodulin binds to the six IQ motifs of AtXI-F as light chains.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

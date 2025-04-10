@@ -1,0 +1,13 @@
+{
+  "gene": "PIGB",
+  "geneID": "9488",
+  "go_data": [
+    {
+      "term": "None found",
+      "justification": "No explicit evidence in the text supports any Gene Ontology term for PIGB.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

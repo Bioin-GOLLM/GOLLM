@@ -1,0 +1,33 @@
+{
+  "gene": "lev-10",
+  "geneID": "24105310",
+  "go_data": [
+    {
+      "term": "levamisole receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "lev-10 mutants lack clustered levamisole receptors.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neuromuscular synaptic transmission",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "lev-10 mutants display levamisole resistance, indicating a role in neuromuscular synaptic transmission.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "postsynaptic membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "lev-10 mutants lack clustered levamisole receptors, which are postsynaptic.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

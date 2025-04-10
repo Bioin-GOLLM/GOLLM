@@ -1,0 +1,33 @@
+{
+  "gene": "Ubc9",
+  "geneID": "7329",
+  "go_data": [
+    {
+      "term": "SUMO transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ubc9 is the only SUMO E2 enzyme, necessary and sufficient for SUMO conjugation.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "protein sumoylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ubc9 is critical for SUMO conjugation to target proteins via an isopeptide bond to the primary amine groups of lysine residues.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SUMOylation, which Ubc9 is a part of, has been characterised most extensively in the nucleus.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    }
+  ]
+}

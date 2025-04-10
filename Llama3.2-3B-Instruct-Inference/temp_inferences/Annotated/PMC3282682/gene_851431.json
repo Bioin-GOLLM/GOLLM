@@ -1,0 +1,33 @@
+{
+  "gene": "Cdc48",
+  "geneID": "851431",
+  "go_data": [
+    {
+      "term": "ATP hydrolysis activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cdc48p is described as an ATPase complex, indicating it has ATP hydrolysis activity.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum-associated protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cdc48p is mentioned as part of the ERAD pathway, which is involved in the catabolic process of proteins associated with the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Although not explicitly stated for Cdc48, its involvement in ERAD and interaction with other ER-associated proteins implies a cytosolic location for its function.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

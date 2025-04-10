@@ -1,0 +1,51 @@
+{
+  "gene": "Stx1",
+  "geneID": "6804",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Stx1 forms a four-helix bundle SNARE complex with SNAP-25 and VAMP-2, which provides the mechanical force for membrane fusion to occur.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "regulation of synaptic vesicle exocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMOylation of Stx1A regulates the rate of neurotransmitter vesicle endocytosis and affects synaptic vesicle exocytosis.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "synaptic vesicle endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMOylation of Stx1A acts as a regulating factor that coordinates the balance between endo- and exocytosis at the presynapse.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Stx1A binds to SNAP-25, Munc18a, and VAMP-2 to form the SNARE complex.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "cellular membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Stx1A is anchored to the presynaptic membrane.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    }
+  ]
+}

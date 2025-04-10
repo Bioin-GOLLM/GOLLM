@@ -1,0 +1,15 @@
+{
+  "gene": "VEGFA",
+  "geneID": "7422",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VEGFA is regulated by HIF-alpha and is involved in angiogenesis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

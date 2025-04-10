@@ -1,0 +1,15 @@
+{
+  "gene": "LIMK1",
+  "geneID": "3984",
+  "go_data": [
+    {
+      "term": "cellular response to drug",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LIMK1 is affected by the compound JMY84, which could be used as a drug candidate for colorectal cancer.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

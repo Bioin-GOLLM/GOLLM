@@ -1,0 +1,33 @@
+{
+  "gene": "TOMM70",
+  "geneID": "9868",
+  "go_data": [
+    {
+      "term": "protein transmembrane transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TOMM70 functions as receptor for precursor proteins with internal targeting signals.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TOMM70 functions as receptor for precursor proteins with internal targeting signals, particularly for hydrophobic metabolite carriers of the inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TOMM70 is associated with the TOM complex, which is part of the mitochondrion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

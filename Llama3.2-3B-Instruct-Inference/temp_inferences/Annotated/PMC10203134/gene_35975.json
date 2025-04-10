@@ -1,0 +1,33 @@
+{
+  "gene": "Wnt",
+  "geneID": "35975",
+  "go_data": [
+    {
+      "term": "synaptic plasticity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Wnt pathway induces synaptic plasticity in photoreceptors.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "axon",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Wnt pathway acts on the axonal cytoskeleton.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of Wnt pathway depends on activity-dependent secretion of Wingless by glia cells.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

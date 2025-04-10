@@ -1,0 +1,24 @@
+{
+  "gene": "FLP-3",
+  "geneID": "181221",
+  "go_data": [
+    {
+      "term": "neuropeptide signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FLP-3 is a neuropeptide, and its reduced YFP levels in unc-108 mutant axons suggest its involvement in neuropeptide signaling.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "axon",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FLP-3-YFP fluorescence is reduced in axons of unc-108 mutants, indicating its presence in axons.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

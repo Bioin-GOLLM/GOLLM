@@ -1,0 +1,33 @@
+{
+  "gene": "Ubc7p",
+  "geneID": "855036",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ubc7p is described as an ubiquitin conjugating enzyme.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum-associated protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ubc7p is a component of the ERAD pathway.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Ubc7p is involved in the ERAD pathway, which occurs in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

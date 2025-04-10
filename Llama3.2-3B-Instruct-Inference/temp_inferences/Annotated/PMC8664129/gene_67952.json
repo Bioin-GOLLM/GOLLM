@@ -1,0 +1,24 @@
+{
+  "gene": "TOMM20",
+  "geneID": "67952",
+  "go_data": [
+    {
+      "term": "protein import into mitochondrial inner membrane",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TOMM20 can partially compensate for TOMM70's function as a receptor for precursor proteins with internal targeting signals.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TOMM20 is described as part of the main entry gate, implying its location in the mitochondrial outer membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

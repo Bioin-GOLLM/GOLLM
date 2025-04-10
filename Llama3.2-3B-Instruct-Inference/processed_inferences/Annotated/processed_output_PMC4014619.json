@@ -1,0 +1,285 @@
+[
+  {
+    "gene": "Slc26a7",
+    "geneID": "208890",
+    "go_data": [
+      {
+        "term": "inorganic anion transport",
+        "go_id": "GO:0015698",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Slc26a7 participates in Cl- transport in Reissner's membrane epithelial cells.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "chloride channel activity",
+        "go_id": "GO:0005254",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Slc26a7 functions as a Cl- channel.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "basolateral plasma membrane",
+        "go_id": "GO:0016323",
+        "relationship": [
+          "part_of GO:0009925"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Slc26a7 is localized to the basolateral membrane of Reissner's membrane epithelial cells.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "regulation of pH",
+        "go_id": "GO:0006885",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The involvement of SLC26A7 in cellular pH regulation in other epithelial cells leaves open the possibility that SLC26A7 is needed in Reissner's membrane cells during perturbations of pH.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "inorganic ion transmembrane transport",
+        "go_id": "GO:0098660",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Slc26a7 contributes to the anion conductance of Reissner's membrane epithelial cells.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SLC26A4",
+    "geneID": "23985",
+    "go_data": [
+      {
+        "term": "bicarbonate transmembrane transporter activity",
+        "go_id": "GO:0015106",
+        "relationship": [
+          "part_of GO:0015701"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Slc26a4/pendrin mediates HCO3- secretion.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "inorganic ion transmembrane transport",
+        "go_id": "GO:0098660",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Slc26a4/pendrin mediates HCO3- secretion and is important for cochlear function.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "pericanalicular vesicle",
+        "go_id": "GO:0033675",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SLC26A4 is targeted to the Endolymphatic Sac.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "auditory behavior",
+        "go_id": "GO:0031223",
+        "relationship": [
+          "part_of GO:0010996"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mutations in SLC26A4 lead to deficits in hearing.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "vestibular nucleus development",
+        "go_id": "GO:0021750",
+        "relationship": [
+          "part_of GO:0021548",
+          "part_of GO:0021550"
+        ],
+        "namespace": "biological_process",
+        "justification": "SLC26A4 is important for the development of the murine inner ear and vestibular function.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SLC26A5",
+    "geneID": "80979",
+    "go_data": [
+      {
+        "term": "cochlear outer hair cell electromotile response",
+        "go_id": "GO:0099129",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Slc26a5/prestin is the motor protein that supports outer hair cell electromotility.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "auditory receptor cell fate determination",
+        "go_id": "GO:0042668",
+        "relationship": [
+          "part_of GO:0009912"
+        ],
+        "namespace": "biological_process",
+        "justification": "SLC26A5 has highly-restricted expression patterns in the auditory periphery.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ClC-2",
+    "geneID": "12724",
+    "go_data": [
+      {
+        "term": "volume-sensitive anion channel activity",
+        "go_id": "GO:0005225",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ClC-2 is described as an anion channel.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "chloride transport",
+        "go_id": "GO:0006821",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ClC-2 is mentioned as participating in Cl- transport in Reissner's membrane epithelial cells.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As an anion channel, ClC-2 is expected to be located in the plasma membrane.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kcnq1",
+    "geneID": "16535",
+    "go_data": [
+      {
+        "term": "potassium ion transport",
+        "go_id": "GO:0006813",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Kcnq1 is essential for transport of K+.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kcnj10",
+    "geneID": "16513",
+    "go_data": [
+      {
+        "term": "potassium ion transmembrane transport",
+        "go_id": "GO:0071805",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Kcnj10 is essential for transport of K+ and generation of the transepithelial endocochlear potential.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "voltage-gated potassium channel activity",
+        "go_id": "GO:0005249",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Kcnj10 is involved in the generation of the transepithelial endocochlear potential, suggesting it functions as a voltage-gated potassium channel.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Slc12a2",
+    "geneID": "20496",
+    "go_data": [
+      {
+        "term": "potassium ion transport",
+        "go_id": "GO:0006813",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Slc12a2 is essential for transport of K+.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "striated muscle contraction",
+        "go_id": "GO:0006941",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Slc12a2 is expressed in the stria vascularis.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Pannexin1",
+    "geneID": "55991",
+    "go_data": [
+      {
+        "term": "volume-sensitive anion channel activity",
+        "go_id": "GO:0005225",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Pannexin1 is described as an outwardly-rectifying anion channel.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      },
+      {
+        "term": "peribacteroid membrane",
+        "go_id": "GO:0043661",
+        "relationship": [
+          "part_of GO:0043660"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Pannexin1 is expressed in Reissner's membrane.",
+        "reference(s)": [
+          "PMC4014619"
+        ]
+      }
+    ]
+  }
+]

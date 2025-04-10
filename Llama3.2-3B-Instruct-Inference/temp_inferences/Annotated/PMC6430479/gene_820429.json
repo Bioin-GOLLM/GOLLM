@@ -1,0 +1,15 @@
+{
+  "gene": "PR3",
+  "geneID": "820429",
+  "go_data": [
+    {
+      "term": "defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PR3 is described as a pathogenesis-related gene.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

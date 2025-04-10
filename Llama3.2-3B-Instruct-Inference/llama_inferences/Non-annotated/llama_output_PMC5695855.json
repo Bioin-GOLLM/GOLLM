@@ -1,0 +1,65 @@
+[
+  {
+    "gene": "CRD1",
+    "geneID": "851413",
+    "go_data": [
+      {
+        "term": "cardiolipin biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Crd1 is involved in cardiolipin production as shown by complementation of cardiolipin production in CRD1 knockout yeast.",
+        "reference(s)": [
+          "PMC5695855"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Although not explicitly stated, cardiolipin synthase (Crd1) is typically associated with the mitochondrion, however since it is not explicitly stated in the text, this term should not be included.",
+        "reference(s)": [
+          "PMC5695855"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cMyc",
+    "geneID": "24577",
+    "go_data": [
+      {
+        "term": "mitochondrion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The subcellular localization of ScCrd1-cMyc in T. brucei was analyzed by immunofluorescence microscopy and showed that the tagged protein is properly targeted to the mitochondrion.",
+        "reference(s)": [
+          "PMC5695855"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p20",
+    "geneID": "192245",
+    "go_data": [
+      {
+        "term": "inhibition of translation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p20 competes with eIF4G for binding to eIF4E, inhibiting cap-dependent translation initiation.",
+        "reference(s)": [
+          "PMC5695855"
+        ]
+      },
+      {
+        "term": "translation initiation factor binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p20 competes with eIF4G for binding to eIF4E.",
+        "reference(s)": [
+          "PMC5695855"
+        ]
+      }
+    ]
+  }
+]

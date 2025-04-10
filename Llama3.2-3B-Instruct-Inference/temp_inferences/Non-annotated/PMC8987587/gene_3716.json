@@ -1,0 +1,24 @@
+{
+  "gene": "JAK1",
+  "geneID": "3716",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "JAK1 is involved in the type I interferon pathway, which is part of immune regulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cytokine-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "JAK1 is a kinase involved in signaling pathways, including those mediated by cytokines, which are often involved in immune responses.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

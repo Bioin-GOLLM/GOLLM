@@ -1,0 +1,33 @@
+{
+  "gene": "NF-kappaB",
+  "geneID": "18033",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NF-kappaB subunit p65 translocates from the cytoplasm to the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NF-kappaB subunit p65 is initially located in the cytoplasm before translocation to the nucleus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB is activated by PRRs as part of innate immune signalling pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

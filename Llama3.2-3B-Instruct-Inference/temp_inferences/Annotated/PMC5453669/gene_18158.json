@@ -1,0 +1,33 @@
+{
+  "gene": "BNP",
+  "geneID": "18158",
+  "go_data": [
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BNP increase is associated with pathological hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiac muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BNP is identified alongside alpha1-skeletal muscle actin and ANF, markers of cardiac hypertrophy and development.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "secretion",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BNP is secreted in response to pathological hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

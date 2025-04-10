@@ -1,0 +1,24 @@
+{
+  "gene": "ATRX",
+  "geneID": "546",
+  "go_data": [
+    {
+      "term": "chromatin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ATRX is involved in chromatin remodeling.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ATRX is a nuclear protein.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

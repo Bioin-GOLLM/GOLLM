@@ -1,0 +1,42 @@
+{
+  "gene": "Na+/I- symporter",
+  "geneID": "114479",
+  "go_data": [
+    {
+      "term": "iodide transmembrane transport",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "Iodide uptake across the basolateral membrane into the thyroid follicular cells is mediated by the Na+/I- symporter (NIS).",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "sodium ion transmembrane transport",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "The Na+/I- symporter (NIS) mediates the transport of iodide into the follicular lumen, implying sodium ion transport as well.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "integral component of plasma membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Iodide uptake across the basolateral membrane into the thyroid follicular cells is mediated by the Na+/I- symporter (NIS), indicating it is part of the plasma membrane.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "symporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The Na+/I- symporter (NIS) mediates the transport of iodide into the follicular lumen, which is a symporter activity.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

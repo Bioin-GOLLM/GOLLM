@@ -1,0 +1,33 @@
+{
+  "gene": "CDC6",
+  "geneID": "853244",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDC6 assembles at origins and permits the licensing reaction that culminates with the loading of the replicative helicase MCM2/7.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "pre-replicative complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CDC6 assembles at origins and permits the formation of pre-replicative complexes (pre-RCs).",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CDC6 permits the loading onto chromatin of the replicative helicase MCM2/7.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

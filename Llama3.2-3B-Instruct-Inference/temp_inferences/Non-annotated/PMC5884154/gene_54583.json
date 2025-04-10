@@ -1,0 +1,42 @@
+{
+  "gene": "PHD2",
+  "geneID": "54583",
+  "go_data": [
+    {
+      "term": "peptide hormone binding",
+      "relationship": "involved_in",
+      "namespace": "molecular_function",
+      "justification": "PHD2 hydroxylates HIF-alpha isoforms",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PHD2 is involved in the regulation of HIF-alpha",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "negative regulation of transcription from RNA polymerase II promoter",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PHD2 inhibits HIF-alpha, which regulates transcription",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "oxygen sensor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PHD2 hydroxylates HIF-alpha in response to oxygen levels",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

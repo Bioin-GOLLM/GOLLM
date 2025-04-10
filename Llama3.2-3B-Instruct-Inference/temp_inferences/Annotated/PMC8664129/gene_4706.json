@@ -1,0 +1,33 @@
+{
+  "gene": "NDUFAB1",
+  "geneID": "4706",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NDUFAB1 copurified with the N-module core subunit NDUFS1 and the N-module assembly factor NDUFA2, suggesting involvement in complex I assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "acyl carrier activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NDUFAB1 is described as an acyl carrier protein.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NDUFAB1 is involved in the assembly of mitochondrial respiratory complex I.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

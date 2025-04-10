@@ -1,0 +1,33 @@
+{
+  "gene": "ACE2",
+  "geneID": "59272",
+  "go_data": [
+    {
+      "term": "virus receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ACE2 is mentioned as a receptor that the virus binds to in order to enter the cell.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ACE2 is described as a receptor on the cell surface where the virus binds to it.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Circulating ACE2-expressing exosomes are described as blocking SARS-CoV-2 virus infection as an innate antiviral mechanism.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

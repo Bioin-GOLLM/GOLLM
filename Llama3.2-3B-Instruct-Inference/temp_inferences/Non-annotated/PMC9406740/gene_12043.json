@@ -1,0 +1,33 @@
+{
+  "gene": "BCL2",
+  "geneID": "12043",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The BCL2 family plays a role in mitochondrial apoptotic signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Altered total BCL2 is observed during muscle atrophy with elevated total and mitochondrial BAX.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The BCL2 family, involving pro- and anti-apoptotic proteins, plays a role in mitochondrial apoptotic signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

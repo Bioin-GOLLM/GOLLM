@@ -1,0 +1,42 @@
+{
+  "gene": "talin",
+  "geneID": "38978",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "talin is a component of the focal adhesion complex and interacts with integrins to regulate cell adhesion",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "talin is a component of the focal adhesion complex",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "integrin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "talin binds to integrins to regulate cell adhesion",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "talin regulates cell migration through its interaction with integrins and the focal adhesion complex",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

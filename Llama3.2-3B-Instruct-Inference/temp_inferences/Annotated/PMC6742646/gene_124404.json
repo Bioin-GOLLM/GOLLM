@@ -1,0 +1,42 @@
+{
+  "gene": "SEPT12",
+  "geneID": "124404",
+  "go_data": [
+    {
+      "term": "sperm annulus formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SEPT12 orchestrates the formation of mammalian sperm annulus by organizing core octameric complexes with other SEPT proteins.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "male gamete generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SEPT12 mutations cause male infertility with defective sperm annulus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein-protein interactions",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT12 interacts with other septin proteins found in the SEPT2, SEPT6, and SEPT7 protein subgroups to form a filamentous structure at the sperm annulus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "sperm annulus",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SEPT12 is known to interact with other septin proteins to form a filamentous structure at the sperm annulus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

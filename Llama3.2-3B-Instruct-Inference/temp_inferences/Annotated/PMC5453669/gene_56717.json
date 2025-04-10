@@ -1,0 +1,42 @@
+{
+  "gene": "mTOR",
+  "geneID": "56717",
+  "go_data": [
+    {
+      "term": "cellular response to hormone stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 activates pro-survival pathways including Akt and mTOR.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of cardiac muscle cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Treatment with T3 after myocardial infarction is cardioprotective and promotes elements of physiological hypertrophic response after cardiac injury.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein kinase B signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 activates pro-survival pathways including Akt and mTOR.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mTOR is activated by T3, which promotes elements of physiological hypertrophic response after cardiac injury.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

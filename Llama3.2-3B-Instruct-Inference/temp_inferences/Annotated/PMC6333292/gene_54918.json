@@ -1,0 +1,51 @@
+{
+  "gene": "CMTM6",
+  "geneID": "54918",
+  "go_data": [
+    {
+      "term": "protein stabilization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM6 influences PD-L1 protein stability at late time points after biosynthesis.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM6 is predominantly present within the plasma membrane fraction.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "ubiquitin-dependent protein catabolic process",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "CMTM6 protects PD-L1 from ubiquitination.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "regulation of protein stability",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM6 regulates PD-L1 protein stability.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM6 is present at the cell surface.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

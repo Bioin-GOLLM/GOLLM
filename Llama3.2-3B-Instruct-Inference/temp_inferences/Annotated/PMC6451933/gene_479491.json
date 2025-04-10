@@ -1,0 +1,33 @@
+{
+  "gene": "VAMP2",
+  "geneID": "479491",
+  "go_data": [
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 plays fundamental roles in vesicle fusion.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 plays fundamental roles in neurotransmitter release.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "vesicle endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 plays fundamental roles in vesicle endocytosis.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

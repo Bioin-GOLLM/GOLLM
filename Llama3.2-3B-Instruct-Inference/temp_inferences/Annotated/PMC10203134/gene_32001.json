@@ -1,0 +1,33 @@
+{
+  "gene": "ATG8",
+  "geneID": "32001",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Elevated levels of autophagosomes identified as ATG8-positive punctae suggest a role of ATG8 in autophagy.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "autophagosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ATG8 is used as a marker for autophagosomes, indicating it is a part of this cellular component.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "protein lipidation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The detection of lipidated ATG8II suggests ATG8 is involved in protein lipidation.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

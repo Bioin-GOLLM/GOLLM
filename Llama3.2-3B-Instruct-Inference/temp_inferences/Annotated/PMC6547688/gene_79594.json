@@ -1,0 +1,24 @@
+{
+  "gene": "E3 ubiquitin ligase",
+  "geneID": "79594",
+  "go_data": [
+    {
+      "term": "ubiquitin ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "C13ORF7/RNF219 is described as a putative E3 ubiquitin ligase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "OBI1 is suggested to be essential for DNA replication origin activation during S phase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

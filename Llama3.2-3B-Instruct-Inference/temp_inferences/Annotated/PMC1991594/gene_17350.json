@@ -1,0 +1,33 @@
+{
+  "gene": "MLH1",
+  "geneID": "17350",
+  "go_data": [
+    {
+      "term": "DNA mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Involvement of mouse Mlh1 in DNA mismatch repair",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "meiotic crossing over",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MLH1 is found at sites of meiotic crossing over and involvement of mouse Mlh1 in meiotic crossing over",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MLH1 is involved in DNA repair processes which occur in the nucleus",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

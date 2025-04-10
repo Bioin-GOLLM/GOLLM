@@ -1,0 +1,42 @@
+{
+  "gene": "IGF-1",
+  "geneID": "16000",
+  "go_data": [
+    {
+      "term": "regulation of protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 appears to be able to improve the condition of muscle disuse through the regulation of protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 overexpression or chronic treatment can favor muscle hypertrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle satellite cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF-1 overexpression has been shown to have limited effects in preventing HU-induced muscle atrophy, indicating a role in muscle cell proliferation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "Localized infusion of IGF-1 results in skeletal muscle hypertrophy, indicating IGF-1 is secreted into the extracellular space.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "DNAJC30",
+  "geneID": "84277",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DNAJC30 is described in relation to the TIM23 complex and other mitochondrial components.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DNAJC30 is associated with the TIM23 complex, which is involved in mitochondrial protein complex assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

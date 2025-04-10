@@ -1,0 +1,33 @@
+{
+  "gene": "PEX19",
+  "geneID": "5824",
+  "go_data": [
+    {
+      "term": "peroxisome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PEX19 is a cytosolic carrier for peroxisomal membrane proteins to the peroxisome.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PEX19 docks onto PEX3 via two interaction surfaces.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "peroxisome organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PEX19 regulates peroxisome homeostasis.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

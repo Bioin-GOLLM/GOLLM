@@ -1,0 +1,15 @@
+{
+  "gene": "Gnas",
+  "geneID": "14683",
+  "go_data": [
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gnas is one of the 26 genes analyzed for differential expression in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

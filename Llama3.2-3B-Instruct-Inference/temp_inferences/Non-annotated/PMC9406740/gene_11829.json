@@ -1,0 +1,33 @@
+{
+  "gene": "aquaporin-4",
+  "geneID": "11829",
+  "go_data": [
+    {
+      "term": "water channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Aquaporin-4 is described as a water channel.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "response to muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "An increase in aquaporin-4 was found in response to muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Aquaporin-4 expression is modulated in skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

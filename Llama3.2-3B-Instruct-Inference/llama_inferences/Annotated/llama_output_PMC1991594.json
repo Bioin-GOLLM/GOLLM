@@ -1,0 +1,707 @@
+[
+  {
+    "gene": "ERCC1",
+    "geneID": "13870",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERCC1 is essential for the NER pathway and is involved in the homologous repair (HR) pathway.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleotide-excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERCC1 acts in a complex with Xpf (ERCC4) in the NER pathway.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "double-strand break repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERCC1 is involved in the repair of double-strand breaks in meiotic crossing over.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "spermatogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERCC1 is essential for normal spermatogenesis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ERCC1 localizes to the nucleus to perform its DNA repair functions.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MSH2",
+    "geneID": "17685",
+    "go_data": [
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH2 is involved in the mismatch repair pathway.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH2 is involved in repairing a variety of mismatches and participates in recombination during meiosis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MSH2 is a nuclear protein involved in DNA repair.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "germ cell development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH2 is involved in maintaining DNA integrity in the germline.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p53",
+    "geneID": "22060",
+    "go_data": [
+      {
+        "term": "DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p53 binds single stranded DNA and promotes strand transfer between complementary strands.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p53-dependent apoptosis is observed in spermatogonia.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "double-strand break repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p53 plays a role in repair of DNA strand breaks and promotes strand transfer between complementary strands.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p53 localizes to the nucleus to regulate the expression of genes.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "meiotic recombination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p53 interacts with hRAD51 and hRAD54, and directly modulates homologous recombination.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "spermatogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "p53 is expressed in pachytene and pre-leptotene primary spermatocytes and plays a role in meiosis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "caspase-3",
+    "geneID": "12367",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Caspase-3 positive germ cells were detected, indicating involvement in apoptosis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "execution-phase caspase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Caspase-3 is one of the 'executioner caspases' known to be activated by the FAS system.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Caspase-3 is activated in the cytoplasm as part of the apoptotic process.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "histone variant 2AX",
+    "geneID": "15270",
+    "go_data": [
+      {
+        "term": "double-strand break repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Histone variant 2AX is involved in the DNA damage response to DSBs and acts by recruiting DNA repair factors to sites of DNA damage.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Phosphorylated H2AX (gammaH2AX) appears to recruit repair proteins to sites of damage in the nucleus.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Histone variant 2AX is a histone protein that binds to DNA.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "response to DNA damage",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Histone variant 2AX is involved in the DNA damage response to DSBs.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MSH6",
+    "geneID": "17688",
+    "go_data": [
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH2/MSH6 is involved in repairing replicative mismatches.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MSH2/MSH6 functions as a heterodimer to initiate repair activity, implying DNA binding capability.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As part of the MMR pathway, MSH6 is likely located in the nucleus where DNA repair occurs.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MSH3",
+    "geneID": "17686",
+    "go_data": [
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH2/MSH3 are involved in repairing replicative mismatches.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MSH2/MSH3 function as heterodimers to initiate repair activity.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MSH2-MSH3 dimers form complexes on repetitive sequences at centromeres and on the Y chromosome during meiotic prophase.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MSH4",
+    "geneID": "55993",
+    "go_data": [
+      {
+        "term": "meiotic recombination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH4/MSH5 is a meiosis specific complex essential for processing recombination intermediates.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The mouse MMR pathway is involved in repairing a variety of mismatches.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MSH5",
+    "geneID": "17687",
+    "go_data": [
+      {
+        "term": "meiotic recombination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MSH4/MSH5 is a meiosis specific complex essential for processing recombination intermediates.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The mouse MMR pathway, which includes MSH5, is involved in repairing a variety of mismatches.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MSH5 is involved in meiotic recombination, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Xpf",
+    "geneID": "50505",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Xpf acts in a complex with ERCC1 in the NER pathway.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleotide-excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Xpf is part of the NER pathway, where it acts in a complex with ERCC1.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "spermatogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Xpf is highly expressed in mouse testes and its repair functions are essential for normal germ cell maturation.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SCP3",
+    "geneID": "20962",
+    "go_data": [
+      {
+        "term": "synaptonemal complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The murine SCP3 gene is required for synaptonemal complex assembly.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "chromosome synapsis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The murine SCP3 gene is required for chromosome synapsis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "male fertility",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The murine SCP3 gene is required for male fertility.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "synaptonemal complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SCP3 is a synaptonemal complex protein.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MLH1",
+    "geneID": "17350",
+    "go_data": [
+      {
+        "term": "DNA mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Involvement of mouse Mlh1 in DNA mismatch repair",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "meiotic crossing over",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MLH1 is found at sites of meiotic crossing over and involvement of mouse Mlh1 in meiotic crossing over",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MLH1 is involved in DNA repair processes which occur in the nucleus",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MLH3",
+    "geneID": "217716",
+    "go_data": [
+      {
+        "term": "meiotic recombination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MLH3 is involved in meiosis, similar to MLH1 which is found at sites of meiotic crossing over.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "centromere",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MSH2-MSH3 dimers form complexes on repetitive sequences at centromeres during meiotic prophase.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MLH3 is one of the MutL homologs, which are involved in mismatch repair.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PMS1",
+    "geneID": "227099",
+    "go_data": [
+      {
+        "term": "meiotic recombination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PMS1 is one of the MutL homologs involved in meiosis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PMS1 is a MutL homolog, which is involved in repairing mismatches.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PMS2",
+    "geneID": "18861",
+    "go_data": [
+      {
+        "term": "mismatch repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PMS2 is one of the MutL homologs involved in repairing replicative mismatches.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "meiosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PMS2 is a MutL homolog involved in meiosis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Xpa",
+    "geneID": "22590",
+    "go_data": [
+      {
+        "term": "nucleotide-excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NER activity has been found and Xpa is a NER gene.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "response to UV-B",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Increased susceptibility to ultraviolet-B of mice lacking the DNA excision repair gene XPA.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Xpa is a DNA excision repair gene.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Xpc",
+    "geneID": "22591",
+    "go_data": [
+      {
+        "term": "nucleotide-excision repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NER activity has been found and Xpc is mentioned as a NER gene.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Xpc is mentioned in the context of repair roles, such as in HR and repair of DSBs.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a protein involved in DNA repair, Xpc is likely located in the nucleus.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mHR23B",
+    "geneID": "19359",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mHR23B is involved in the repair of DSBs in meiotic crossing over.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "male gamete generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mHR23B deficiency leads to male sterility in mice.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "mHR23B is involved in DNA repair, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD95",
+    "geneID": "14102",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FAS (CD95) is responsible for a p53-independent pathway for germ cell elimination through apoptosis.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FAS is a transmembrane receptor protein that is capable of initiating apoptosis in response to binding its ligand, FASL (CD95L).",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "FAS is a transmembrane receptor protein.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FASL",
+    "geneID": "14103",
+    "go_data": [
+      {
+        "term": "induction of apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FASL is capable of initiating apoptosis in response to binding its ligand.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "FASL binds to its receptor FAS, which is a transmembrane receptor protein, implying FASL is located at the cell surface.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FASL initiates apoptosis in response to binding its ligand.",
+        "reference(s)": [
+          "PMC1991594"
+        ]
+      }
+    ]
+  }
+]

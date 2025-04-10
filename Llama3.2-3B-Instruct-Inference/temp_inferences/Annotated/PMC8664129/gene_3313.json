@@ -1,0 +1,15 @@
+{
+  "gene": "GRP-75",
+  "geneID": "3313",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GRP-75 is also known as mitochondrial HSP70, indicating its localization to the mitochondrion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

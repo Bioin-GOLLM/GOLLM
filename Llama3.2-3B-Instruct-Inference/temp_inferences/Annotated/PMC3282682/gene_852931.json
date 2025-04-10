@@ -1,0 +1,42 @@
+{
+  "gene": "Kss1p",
+  "geneID": "852931",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Kss1p is a mitogen-activated protein kinase (MAPK) involved in signal transduction pathways.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "filamentous growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kss1p is involved in the control of filamentous growth.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "pheromone response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kss1p is involved in the control of pheromone response.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kss1p is involved in signal transduction pathways.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

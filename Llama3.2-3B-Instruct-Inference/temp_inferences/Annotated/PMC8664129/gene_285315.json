@@ -1,0 +1,15 @@
+{
+  "gene": "C3orf33",
+  "geneID": "285315",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Comigration with the prohibitins PHB/PHB2 and sequence alignment suggest that C3orf33 is a member of the prohibitin-stomatin family, which is associated with mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

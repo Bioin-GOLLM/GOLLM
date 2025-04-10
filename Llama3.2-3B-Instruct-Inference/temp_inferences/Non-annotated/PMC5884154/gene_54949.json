@@ -1,0 +1,33 @@
+{
+  "gene": "SDHAF2",
+  "geneID": "54949",
+  "go_data": [
+    {
+      "term": "succinate dehydrogenase complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SDHAF2 is associated with the assembly of the succinate dehydrogenase complex.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "paraganglioma",
+      "relationship": "involved_in",
+      "namespace": "disease",
+      "justification": "SDHAF2 is a susceptibility gene for paraganglioma.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "pheochromocytoma",
+      "relationship": "involved_in",
+      "namespace": "disease",
+      "justification": "SDHAF2 is a susceptibility gene for pheochromocytoma.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

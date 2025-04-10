@@ -1,0 +1,15 @@
+{
+  "gene": "Iyd",
+  "geneID": "70337",
+  "go_data": [
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Iyd is one of the genes analyzed for differential expression in the context of thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

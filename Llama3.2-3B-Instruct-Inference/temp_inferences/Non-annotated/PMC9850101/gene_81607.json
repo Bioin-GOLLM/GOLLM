@@ -1,0 +1,24 @@
+{
+  "gene": "Nectin-4",
+  "geneID": "81607",
+  "go_data": [
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nectin-4 is a target for antibody-drug conjugates (ADCs), implying its involvement in cell surface receptor signaling pathways.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a target for ADCs, Nectin-4 is likely located on the plasma membrane of cells.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

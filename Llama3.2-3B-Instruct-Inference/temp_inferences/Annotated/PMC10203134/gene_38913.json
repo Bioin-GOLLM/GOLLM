@@ -1,0 +1,15 @@
+{
+  "gene": "ATG18",
+  "geneID": "38913",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RNAi-mediated knock down of ATG18 prevented the increase of ATG8II seen in wild-type flies, indicating its role in autophagy.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

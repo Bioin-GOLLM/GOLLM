@@ -1,0 +1,15 @@
+{
+  "gene": "CD22",
+  "geneID": "933",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD22 is a cell surface protein.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "DNA polymerase Eta",
+  "geneID": "80905",
+  "go_data": [
+    {
+      "term": "DNA-directed DNA polymerase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pirh2 E3 ubiquitin ligase monoubiquitinates DNA polymerase eta to suppress translesion DNA synthesis, indicating DNA polymerase activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "translesion DNA synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pirh2 E3 ubiquitin ligase monoubiquitinates DNA polymerase eta to suppress translesion DNA synthesis.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The regulation of DNA polymerase Eta by nuclear proteins like p53 and Pirh2 suggests its nuclear localization.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

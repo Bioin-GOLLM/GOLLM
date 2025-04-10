@@ -1,0 +1,33 @@
+{
+  "gene": "vesicular acetylcholine transporter",
+  "geneID": "42795",
+  "go_data": [
+    {
+      "term": "acetylcholine transport",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vesicular acetylcholine transporter is involved in transporting acetylcholine.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "synaptic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vesicular acetylcholine transporter is expected to be located in synaptic vesicles based on its function.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "neurotransmitter transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vesicular acetylcholine transporter is involved in the transport of the neurotransmitter acetylcholine.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

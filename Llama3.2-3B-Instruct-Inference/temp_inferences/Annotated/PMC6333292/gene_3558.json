@@ -1,0 +1,24 @@
+{
+  "gene": "IL-2",
+  "geneID": "3558",
+  "go_data": [
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-2 production is reduced in PD-1 expressing T cells upon encounter of CMTM6-proficient tumor cells, but restored upon CMTM6 disruption.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "cytokine production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-2 production of PD-1 expressing T cells is reduced or restored depending on the presence or absence of CMTM6 in tumor cells.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "XBP1",
+  "geneID": "44226",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum unfolded protein response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activated Ire1 promotes splicing of the transcription factor XBP1 in response to accumulation of misfolded proteins in the ER.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The combined activity of the activated XBP1, ATF4 and ATF6 transcription factors promotes the expression of a multitude of factors supporting protein folding.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, XBP1 localizes to the nucleus to regulate the expression of target genes.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+[
+  {
+    "gene": "ANGPT2",
+    "geneID": "285",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT2 disrupts angiogenesis in the developing embryo by antagonising the effects of angiopoietin-1 and Tie2.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT2 is critical to the formation and remodelling of blood and lymphatic vessels and is involved in vessel maintenance.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "blood vessel development",
+        "go_id": "GO:0001568",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT2 is critical to the formation and remodelling of blood and lymphatic vessels and is involved in vessel maintenance.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel development",
+        "go_id": "GO:0001945",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT2 is required for postnatal angiogenesis and lymphatic patterning, and only the latter role is rescued by angiopoietin-1",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "go_id": "GO:0005615",
+        "relationship": [
+          "part_of GO:0005576"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ANGPT2 is a secreted protein that acts as a ligand for the TIE1-TIE2 pathway.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ANGPT2 is a ligand of the TIE1-TIE2 pathway.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "go_id": "GO:0008083",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ANGPT2 acts as a growth factor for lymphatic vessels.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIE1",
+    "geneID": "7075",
+    "go_data": [
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TIE1 is part of the TIE1-TIE2 pathway, indicating it functions as a receptor.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "blood vessel morphogenesis",
+        "go_id": "GO:0048514",
+        "relationship": [
+          "part_of GO:0001568"
+        ],
+        "namespace": "biological_process",
+        "justification": "The TIE1-TIE2 pathway is critical to the formation of blood and lymphatic vessels.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel morphogenesis",
+        "go_id": "GO:0036303",
+        "relationship": [
+          "part_of GO:0001945"
+        ],
+        "namespace": "biological_process",
+        "justification": "The TIE1-TIE2 pathway is critical to the formation of blood and lymphatic vessels.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "blood vessel diameter maintenance",
+        "go_id": "GO:0097746",
+        "relationship": [
+          "part_of GO:0008015"
+        ],
+        "namespace": "biological_process",
+        "justification": "The TIE1-TIE2 pathway is involved in vessel maintenance.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIE2",
+    "geneID": "7010",
+    "go_data": [
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TIE2 is a receptor for angiopoietin-1 and angiopoietin-2.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIE2 is critical to the formation and remodelling of blood and lymphatic vessels.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "blood vessel morphogenesis",
+        "go_id": "GO:0048514",
+        "relationship": [
+          "part_of GO:0001568"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIE2 is involved in vessel maintenance.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel morphogenesis",
+        "go_id": "GO:0036303",
+        "relationship": [
+          "part_of GO:0001945"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIE2 is critical to the formation and remodelling of lymphatic vessels.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, TIE2 is located on the cell surface.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "tyrosine kinase",
+    "geneID": "7294",
+    "go_data": [
+      {
+        "term": "vascular endothelial growth factor receptor signaling pathway",
+        "go_id": "GO:0048010",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The ANGPT2-TIE2 tyrosine kinase pathway is implicated in primary lymphoedema.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT2 is considered an antagonist of ANGPT1-induced TIE1-TIE2 signalling in the vascular system, and Angpt2 knockout mice have disrupted postnatal angiogenic remodelling.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "The ANGPT2-TIE2 tyrosine kinase pathway is involved in the formation and remodelling of lymphatic vessels.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "transmembrane receptor protein tyrosine kinase activity",
+        "go_id": "GO:0004714",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Tie2 is described as a receptor tyrosine kinase.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VEGFR3",
+    "geneID": "2324",
+    "go_data": [
+      {
+        "term": "vascular endothelial growth factor receptor activity",
+        "go_id": "GO:0005021",
+        "relationship": [
+          "has_part GO:0038085",
+          "part_of GO:0038084"
+        ],
+        "namespace": "molecular_function",
+        "justification": "VEGFR3 is involved in signalling as a receptor for vascular endothelial growth factor.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "VEGFR3 has a central role in signalling related to primary lymphoedema.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, VEGFR3 is expected to be located on the cell surface.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ADAMTS3",
+    "geneID": "9508",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "ADAMTS3 is involved in new pathways involving lymphangiogenesis and remodelling.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel development",
+        "go_id": "GO:0001945",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "Loss of ADAMTS3 activity causes Hennekam lymphangiectasia-lymphedema syndrome 3, indicating its role in lymphatic vessel development.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FBXL7",
+    "geneID": "23194",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "FBXL7 is mentioned alongside genes involved in lymphangiogenesis and remodelling pathways.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ARAF",
+    "geneID": "369",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "ARAF is mentioned in the context of new pathways involving lymphangiogenesis.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "ARAF is noted to be part of a pathway, implying involvement in signal transduction.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PIEZO1",
+    "geneID": "9780",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "PIEZO1 is involved in new pathways involving lymphangiogenesis and remodelling.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel development",
+        "go_id": "GO:0001945",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "Novel mutations in Piezo1 cause an autosomal recessive generalized lymphatic dysplasia.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "EPHB4",
+    "geneID": "2050",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "New pathways involving lymphangiogenesis and remodelling have also been identified and involve genes such as PIEZO1, EPHB4, CALCR  and GDF2.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel development",
+        "go_id": "GO:0001945",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "Ephb4 kinase-inactivating mutations cause autosomal dominant lymphatic-related hydrops fetalis",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CALCR",
+    "geneID": "799",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "CALCR is involved in new pathways involving lymphangiogenesis.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GDF2",
+    "geneID": "2658",
+    "go_data": [
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "GDF2 is involved in new pathways involving lymphangiogenesis and remodelling.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "growth factor activity",
+        "go_id": "GO:0008083",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "GDF2 is a growth and differentiation factor.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "angiopoietin-1",
+    "geneID": "284",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT1 is required for embryonic angiogenesis and its mutation disrupts angiogenesis in the developing embryo.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "blood vessel development",
+        "go_id": "GO:0001568",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "Homozygous LOF of ANGPT1 is expected to be embryonically lethal in humans due to defective blood vessel formation.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "central canal development",
+        "go_id": "GO:0061524",
+        "relationship": [
+          "part_of GO:0021510"
+        ],
+        "namespace": "biological_process",
+        "justification": "Angiopoietin-1 is required for Schlemm's canal development in mice and humans.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "Tie signaling pathway",
+        "go_id": "GO:0048014",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Angiopoietin-1 is a ligand for the Tie2 receptor.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha-globin",
+    "geneID": "3040",
+    "go_data": [
+      {
+        "term": "oxygen carrier activity",
+        "go_id": "GO:0005344",
+        "relationship": [
+          "has_part GO:0019825",
+          "part_of GO:0015671"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Alpha-globin is a component of hemoglobin, which binds to oxygen for transport.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "heme binding",
+        "go_id": "GO:0020037",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Alpha-globin is part of the hemoglobin complex, which binds to heme for oxygen transport.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "erythrocyte differentiation",
+        "go_id": "GO:0030218",
+        "relationship": [
+          "part_of GO:0034101"
+        ],
+        "namespace": "biological_process",
+        "justification": "Alpha-globin is crucial for normal erythrocyte development and function.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Angpt2",
+    "geneID": "11601",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "Angpt2 knockout mice have disturbed angiogenetic remodelling",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "Angpt2 plays a comparatively prominent activating role in lymphatic vasculature",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "negative regulation of angiogenesis",
+        "go_id": "GO:0016525",
+        "relationship": [
+          "negatively_regulates GO:0001525"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT2 is considered an antagonist of ANGPT1-induced TIE1-TIE2 signalling in the vascular system",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymph vessel development",
+        "go_id": "GO:0001945",
+        "relationship": [
+          "part_of GO:0001944"
+        ],
+        "namespace": "biological_process",
+        "justification": "Angpt2 knockout mice exhibit major lymphatic vessel defects and generalised lymphatic dysfunction",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ANGPT1",
+    "geneID": "11600",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT1-induced TIE1-TIE2 signalling is involved in vascular system development.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymphangiogenesis",
+        "go_id": "GO:0001946",
+        "relationship": [
+          "part_of GO:0036303"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT1 has an activating role in lymphatic vasculature.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "ANGPT1 induces TIE1-TIE2 signalling in the vascular system.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIE1",
+    "geneID": "21846",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "TIE1 is involved in TIE1-TIE2 signalling, which is affected by ANGPT2 in vascular system.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "vascular endothelial growth factor receptor signaling pathway",
+        "go_id": "GO:0048010",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIE1 is a tyrosine kinase receptor, and its signalling is affected by ANGPT2.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "lymphatic vascular process in circulatory system",
+        "go_id": "GO:1990183",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TIE1 signalling is mentioned in the context of lymphatic vasculature.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TIE2",
+    "geneID": "21687",
+    "go_data": [
+      {
+        "term": "angiogenesis",
+        "go_id": "GO:0001525",
+        "relationship": [
+          "part_of GO:0048514"
+        ],
+        "namespace": "biological_process",
+        "justification": "Angpt2 knockout mice have normal embryonal vascular development, but disrupted postnatal angiogenic remodelling, indicating TIE2's role in angiogenesis.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "blood vessel morphogenesis",
+        "go_id": "GO:0048514",
+        "relationship": [
+          "part_of GO:0001568"
+        ],
+        "namespace": "biological_process",
+        "justification": "Homozygous LOF of ANGPT1 and TEK is expected to be embryonically lethal in humans, as in mice, due to defective blood vessel formation.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "venous blood vessel morphogenesis",
+        "go_id": "GO:0048845",
+        "relationship": [
+          "part_of GO:0060841"
+        ],
+        "namespace": "biological_process",
+        "justification": "Somatic mutations in angiopoietin receptor gene TEK cause solitary and multiple sporadic venous malformations.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      },
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TIE2 is an angiopoietin receptor, indicating its role as a receptor.",
+        "reference(s)": [
+          "PMC9811075"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BH",
+    "geneID": "642",
+    "go_data": []
+  }
+]

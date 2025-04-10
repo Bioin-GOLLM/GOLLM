@@ -1,0 +1,929 @@
+[
+  {
+    "gene": "TSG101",
+    "geneID": "7251",
+    "go_data": [
+      {
+        "term": "exosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "TSG101 is a known exosome marker.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD81",
+    "geneID": "975",
+    "go_data": [
+      {
+        "term": "exosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CD81 is a known exosome marker.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CANX",
+    "geneID": "821",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Intracellular CANX staining was negative, implying CANX is not typically found outside the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C4b-binding protein",
+    "geneID": "722",
+    "go_data": [
+      {
+        "term": "complement binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "C4b-binding protein is annotated under 'complement binding' with a 80.39-fold enrichment.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C4b-binding protein is associated with immune activation and modulation, including 'response to symbiont'.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C4b-binding protein is found in exosomes, which are extracellular vesicles.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "apolipoprotein L1",
+    "geneID": "8542",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Apolipoprotein L1 is associated with immune activation and modulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "response to symbiont",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Apolipoprotein L1 is included in the term 'response to symbiont'.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "complement binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Apolipoprotein L1 is annotated under 'complement binding'.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "histidine-rich glycoprotein",
+    "geneID": "3273",
+    "go_data": [
+      {
+        "term": "complement binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Histidine-rich glycoprotein is annotated under 'complement binding'.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "immunoglobulin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Histidine-rich glycoprotein is annotated under 'immunoglobulin binding'.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "response to symbiont",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Histidine-rich glycoprotein is associated with 'response to symbiont'.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "vasodilation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Histidine-rich glycoprotein is involved in vasodilation as part of the protein cargo in ChipEXOs.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "anticoagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Histidine-rich glycoprotein is involved in anticoagulation as part of the protein cargo in ChipEXOs.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "prothrombin",
+    "geneID": "2147",
+    "go_data": [
+      {
+        "term": "complement binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Prothrombin is annotated under 'complement binding' with a significant enrichment of 80.39-fold.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "mir-635",
+    "geneID": "693220",
+    "go_data": [
+      {
+        "term": "negative regulation of type I interferon signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mir-635 is known to inhibit type I interferon pathway.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "mir-635 is involved in immune regulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a miRNA, mir-635 is expected to be located in the cytoplasm.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CMPK1",
+    "geneID": "51727",
+    "go_data": [
+      {
+        "term": "cytidine monophosphate phosphorylation",
+        "relationship": "catalyzes",
+        "namespace": "molecular_function",
+        "justification": "CMPK1 is involved in cytidine monophosphate kinase activity",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "immune system regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CMPK1 is involved in immune regulation through type I interferon pathway",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "JAK1",
+    "geneID": "3716",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "JAK1 is involved in the type I interferon pathway, which is part of immune regulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cytokine-mediated signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "JAK1 is a kinase involved in signaling pathways, including those mediated by cytokines, which are often involved in immune responses.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "JAK3",
+    "geneID": "3718",
+    "go_data": [
+      {
+        "term": "immune system process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "JAK3 is involved in immune regulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cytokine-mediated signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "JAK3 is a JAK kinase, which is involved in signaling pathways mediated by cytokines.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ACE2",
+    "geneID": "59272",
+    "go_data": [
+      {
+        "term": "virus receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ACE2 is mentioned as a receptor that the virus binds to in order to enter the cell.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ACE2 is described as a receptor on the cell surface where the virus binds to it.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Circulating ACE2-expressing exosomes are described as blocking SARS-CoV-2 virus infection as an innate antiviral mechanism.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PIKFYVE",
+    "geneID": "200576",
+    "go_data": [
+      {
+        "term": "viral entry into host cell",
+        "relationship": "negatively_regulates",
+        "namespace": "biological_process",
+        "justification": "PIKFYVE is mentioned as a receptor that the virus binds to, and blocking this interaction prevents viral entry into the cell.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "PIKFYVE is mentioned as a receptor in the cell, implying it is located at the cell surface.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "properdin",
+    "geneID": "5199",
+    "go_data": [
+      {
+        "term": "complement activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Properdin is found among enriched complement proteins.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "extracellular exosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Properdin is found in exosomes from plasma.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C1r",
+    "geneID": "715",
+    "go_data": [
+      {
+        "term": "complement activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C1r is found among enriched complement proteins.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "exosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C1r is found in exosomes from plasma.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C1q",
+    "geneID": "712",
+    "go_data": [
+      {
+        "term": "complement activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C1q is part of the complement proteins, which are involved in the complement activation pathway.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "exosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C1q was found to be enriched in exosomes from ChipEXO compared with exosomes from healthy donor plasma.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C1QB",
+    "geneID": "713",
+    "go_data": [
+      {
+        "term": "complement activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C1QB is part of the complement system, as indicated by its enrichment along with other complement proteins.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "extracellular exosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C1QB was found to be enriched in exosomes compared to those from healthy donor plasma.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C4BPB",
+    "geneID": "725",
+    "go_data": [
+      {
+        "term": "complement activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C4BPB is found among enriched complement proteins.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "exosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C4BPB is found in exosomes from plasma.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C8A",
+    "geneID": "731",
+    "go_data": [
+      {
+        "term": "complement activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C8A is found among enriched complement proteins.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "exosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C8A is found in exosomes from plasma.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vWF",
+    "geneID": "7450",
+    "go_data": [
+      {
+        "term": "blood coagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "vWF is involved in modulating blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "vasodilation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "vWF is involved in vasodilation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "anticoagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "vWF is involved in anticoagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PROS1",
+    "geneID": "5627",
+    "go_data": [
+      {
+        "term": "anticoagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PROS1 is involved in anticoagulation as part of the protein cargo in ChipEXOs.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "vasodilation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PROS1 is involved in vasodilation as part of the protein cargo in ChipEXOs.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "blood coagulation",
+        "relationship": "regulates",
+        "namespace": "biological_process",
+        "justification": "PROS1 modulates blood coagulation as part of the protein cargo in ChipEXOs.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FGA",
+    "geneID": "2243",
+    "go_data": [
+      {
+        "term": "blood coagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FGA protein modulates blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "fibrinogen complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "FGA is a component of the fibrinogen complex, which plays a role in blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FGB",
+    "geneID": "2244",
+    "go_data": [
+      {
+        "term": "blood coagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FGB proteins are responsible for modulating blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "fibrinogen complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "FGB is a component of the fibrinogen complex, which plays a role in blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Alpha-2-macroglobulin",
+    "geneID": "2",
+    "go_data": [
+      {
+        "term": "anticoagulant activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Alpha-2-macroglobulin is described as an anticoagulant.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "blood coagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Alpha-2-macroglobulin is mentioned to modulate blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "antithrombin",
+    "geneID": "462",
+    "go_data": [
+      {
+        "term": "anticoagulant activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Antithrombin is described as an anticoagulant.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "blood coagulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Antithrombin modulates blood coagulation.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "APOD",
+    "geneID": "347",
+    "go_data": [
+      {
+        "term": "lipid metabolism",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "APOD is responsible for lipid metabolism.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "APOA2",
+    "geneID": "336",
+    "go_data": [
+      {
+        "term": "lipid metabolism",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Apolipoproteins (APOD, APOA2, and APOH) are responsible for lipid metabolism.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "APOH",
+    "geneID": "350",
+    "go_data": [
+      {
+        "term": "lipid metabolism",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Apolipoproteins (APOD, APOA2, and APOH) are responsible for lipid metabolism.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FBL1",
+    "geneID": "6502",
+    "go_data": [
+      {
+        "term": "fibrinogen binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FBL1 proteins bind to fibrinogen",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "platelet adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FBL1 proteins modulate platelet adhesion",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "tissue homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "FBL1 proteins play an important role in tissue homeostasis",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "gelsolin",
+    "geneID": "2934",
+    "go_data": [
+      {
+        "term": "actin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Gelsolin is described as an actin-binding protein.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cytoskeleton organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Gelsolin can trim and remodel the cytoskeleton.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "viral entry into host cell",
+        "relationship": "negatively regulates",
+        "namespace": "biological_process",
+        "justification": "Gelsolin deficiency or overexpression inhibits the entry of HIV into the NKR-CCR5 cell line.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CCR5",
+    "geneID": "1234",
+    "go_data": [
+      {
+        "term": "virus receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HIV entry into the NKR-CCR5 cell line is inhibited by gelsolin deficiency or overexpression, implying CCR5's role as an HIV receptor.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a receptor, CCR5 is expected to be located in the plasma membrane to interact with external ligands like HIV.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha-1-antitrypsin",
+    "geneID": "5265",
+    "go_data": [
+      {
+        "term": "viral entry into host cell",
+        "relationship": "negatively regulates",
+        "namespace": "biological_process",
+        "justification": "Alpha-1-antitrypsin blocks SARS-CoV-2 infection of Vero E6 cells by blocking the processing of SARS-CoV-2 S protein.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "exosome",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Alpha-1-antitrypsin is enriched in ChipEXOs, which are exosomes.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "serine-type endopeptidase inhibitor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Alpha-1-antitrypsin blocks the processing of SARS-CoV-2 S protein by furin and the transmembrane serine protease TMPRSS2.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha-1-Antichymotrypsin",
+    "geneID": "12",
+    "go_data": [
+      {
+        "term": "serine-type endopeptidase inhibitor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Alpha-1-Antichymotrypsin is mentioned alongside alpha-1-antitrypsin which blocks SARS-CoV-2 infection by inhibiting the processing of SARS-CoV-2 S protein by furin and TMPRSS2, implying a similar function.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Alpha-1-Antichymotrypsin is enriched in ChipEXOs, which are extracellular vesicles.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "furin",
+    "geneID": "103231185",
+    "go_data": [
+      {
+        "term": "viral entry into host cell",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Furin is involved in the processing of SARS-CoV-2 S protein, which is necessary for viral entry into host cells.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Furin processes the SARS-CoV-2 S protein, indicating its peptidase activity.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMPRSS2",
+    "geneID": "103219191",
+    "go_data": [
+      {
+        "term": "viral entry into host cell",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TMPRSS2 is involved in the processing of SARS-CoV-2 S protein, which is necessary for viral entry into host cells.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TMPRSS2 is a transmembrane serine protease that processes the SARS-CoV-2 S protein.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transmembrane protease, TMPRSS2 is located in the cell surface.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CD8",
+    "geneID": "925",
+    "go_data": [
+      {
+        "term": "immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD8 is derived from cytotoxic CD8 T cells, which are involved in the immune response.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "T cell activation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CD8 T cells are effector cells that can trigger an immune modulation into the cells.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Exosomes derived from cytotoxic CD8 T cells can trigger an immune modulation into the cells.",
+        "reference(s)": [
+          "PMC8987587"
+        ]
+      }
+    ]
+  }
+]

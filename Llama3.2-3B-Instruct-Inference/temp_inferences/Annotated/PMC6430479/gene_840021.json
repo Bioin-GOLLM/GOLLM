@@ -1,0 +1,33 @@
+{
+  "gene": "PSAF",
+  "geneID": "840021",
+  "go_data": [
+    {
+      "term": "photosynthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PSAF is a component of photosystem I, which is involved in photosynthesis.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "thylakoid",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a component of photosystem I, PSAF is likely located in the thylakoid membrane.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "photosystem I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "PSAF is a component of photosystem I.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

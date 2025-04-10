@@ -1,0 +1,33 @@
+{
+  "gene": "Slc26a4",
+  "geneID": "23985",
+  "go_data": [
+    {
+      "term": "iodide transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A4 is involved in iodide transport at the apical membrane of thyroid follicular cells.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "apical plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SLC26A4 is localized at the apical membrane of thyrocytes.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "thyroid gland development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A4 is involved in thyroid function, and its dysfunction can lead to thyroid-related abnormalities.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

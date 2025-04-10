@@ -1,0 +1,24 @@
+{
+  "gene": "Slc12a2",
+  "geneID": "20496",
+  "go_data": [
+    {
+      "term": "potassium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Slc12a2 is essential for transport of K+.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "striated epithelium",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Slc12a2 is expressed in the stria vascularis.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

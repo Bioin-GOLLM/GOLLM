@@ -1,0 +1,33 @@
+{
+  "gene": "S-opsin",
+  "geneID": "12057",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "S-opsin is a type of opsin involved in photoreception.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "S-opsin is expressed in cone cells, which are a type of photoreceptor cell.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "visual perception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "S-opsin plays a role in detecting short-wavelength light, contributing to visual perception.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

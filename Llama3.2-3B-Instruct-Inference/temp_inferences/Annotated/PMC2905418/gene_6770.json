@@ -1,0 +1,42 @@
+{
+  "gene": "STAR",
+  "geneID": "6770",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "STAR/GSG proteins regulate gene expression by binding consensus sites in the 5' or 3' UTRs of target mRNA transcripts.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "post-transcriptional regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STAR/GSG proteins regulate the expression of developmental genes in eukaryotes by binding specific sites in target mRNA transcripts.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No direct evidence, but STAR proteins are involved in post-transcriptional regulation, which often occurs in the nucleus.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STAR, a gene family involved in signal transduction and activation of RNA.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}

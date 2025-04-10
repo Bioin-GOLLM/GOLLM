@@ -1,0 +1,42 @@
+{
+  "gene": "TLR9",
+  "geneID": "54106",
+  "go_data": [
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TLR9 recognizes unmethylated DNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TLR9 is an endosomal toll-like receptor.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral DNA detection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR9 is involved in sensing DNA viruses by recognizing the presence of unmethylated DNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR9 signals through the adaptor protein MyD88, leading to activation of the kinase IKKalpha.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

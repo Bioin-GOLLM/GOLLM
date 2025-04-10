@@ -1,0 +1,42 @@
+{
+  "gene": "ICA69",
+  "geneID": "3382",
+  "go_data": [
+    {
+      "term": "Golgi membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab2 recruits ICA69 to Golgi membranes in a GTP-dependent manner.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ICA69/RIC-19 interacts with Rab GTPases.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "dense core granule maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ICA69 is involved in DCV maturation in cooperation with Rab2.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "ER to Golgi vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ICA69 is a novel Rab2 effector regulating ER-Golgi trafficking in insulinoma cells.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

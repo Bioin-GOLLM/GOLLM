@@ -1,0 +1,24 @@
+{
+  "gene": "myostatin",
+  "geneID": "2660",
+  "go_data": [
+    {
+      "term": "negative regulation of skeletal muscle growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myostatin is known to inhibit muscle growth, and its inhibitors have been studied for their potential to prevent muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myostatin has been associated with the regulation of muscle cell differentiation, as evidenced by its role in muscle growth and development.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

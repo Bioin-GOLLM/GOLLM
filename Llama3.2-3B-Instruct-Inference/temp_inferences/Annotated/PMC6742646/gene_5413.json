@@ -1,0 +1,33 @@
+{
+  "gene": "SEPT5",
+  "geneID": "5413",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT5 is a GTPase, implying it has GTP binding activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SEPT5 is a septin, which is a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein heterodimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT5 interacts with SEPT7 and SEPT2 subgroup proteins, SEPT1.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

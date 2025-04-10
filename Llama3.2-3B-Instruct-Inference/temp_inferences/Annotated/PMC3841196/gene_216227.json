@@ -1,0 +1,33 @@
+{
+  "gene": "vesicular glutamate transporter-3",
+  "geneID": "216227",
+  "go_data": [
+    {
+      "term": "glutamate transport",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Vesicular glutamate transporter-3 is involved in transporting glutamate.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "cochlea development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vesicular glutamate transporter-3 deficiency leads to congenital deafness.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Vesicular glutamate transporter-3 is associated with sensorineural cells in the inner ear.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

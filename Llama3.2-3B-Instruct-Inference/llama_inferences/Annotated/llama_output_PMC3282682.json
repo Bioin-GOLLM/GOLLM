@@ -1,0 +1,1019 @@
+[
+  {
+    "gene": "POF1",
+    "geneID": "850310",
+    "go_data": [
+      {
+        "term": "ATPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Pof1p displayed ATPase activity, with catalytic efficiency comparable to other ATPases involved in endoplasmic reticulum-associated degradation of proteins (ERAD).",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein quality control",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pof1p is involved in the regulation of protein degradation, and its absence results in increased sensitivity to stress agents.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum-associated protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pof1p interacts with Ubc7p, a component of the ERAD pathway, and is important in the unfolded protein response.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "Golgi apparatus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Pof1p shows a punctuated distribution in cells, similar to proteins localized in the Golgi compartment.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "response to oxidative stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Deltapof1 cells are highly sensitive to oxidative stress agents, such as hydrogen peroxide and tert-butyl hydroperoxide.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "response to heat",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Overexpression of POF1 suppresses the sensitivity of Deltapct1 strain to heat shock.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pof1p interacts with Ubc7p, an ubiquitin conjugating enzyme, and may be involved in substrate recognition during ubiquitin marking.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATPase",
+    "geneID": "1769",
+    "go_data": [
+      {
+        "term": "ATP hydrolysis activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Pof1p displayed ATPase activity, hydrolyzing ATP.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein quality control",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pof1p is involved in the protein quality control process.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Pof1p interacts with Ubc7p, an E2 ubiquitin conjugating enzyme involved in ERAD.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "response to stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pof1p protects cells from accumulating misfolded proteins caused by oxidative, heat, reductive or chemically stressful conditions.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ubc7p",
+    "geneID": "855036",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Ubc7p is described as an ubiquitin conjugating enzyme.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum-associated protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ubc7p is a component of the ERAD pathway.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Ubc7p is involved in the ERAD pathway, which occurs in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ubiquitin",
+    "geneID": "850620",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ubiquitin interacts with various proteins, including ubiquitin conjugating enzymes like Ubc7p, as part of the ubiquitin-proteasome system.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein quality control",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ubiquitin is a key component of the ubiquitin-proteasome system, which is involved in degrading misfolded proteins and maintaining protein quality.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "ubiquitin is involved in the endoplasmic reticulum-associated degradation (ERAD) pathway, which takes place in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "ubiquitin-proteasome system",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "ubiquitin is a central component of the ubiquitin-proteasome system, which is responsible for degrading proteins marked by ubiquitination.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ire1p",
+    "geneID": "856478",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum unfolded protein response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ire1p mediates the unfolded protein response (UPR) when misfolded proteins accumulate in the ER lumen.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "RNA splicing",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Activated Ire1p removes an inhibitory intron from the HAC1 mRNA.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Ire1p is activated when misfolded proteins accumulate in the ER lumen.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Homeostatic adaptation to endoplasmic reticulum stress depends on Ire1 kinase activity.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HAC1",
+    "geneID": "850513",
+    "go_data": [
+      {
+        "term": "transcription factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Hac1p is a transcription factor responsible for activating genes related to ERAD.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum unfolded protein response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Activated Ire1p removes an inhibitory intron from the HAC1 mRNA, which is efficiently translated in response to ER stress.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, Hac1p localizes to the nucleus to regulate the expression of genes.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Opi1p",
+    "geneID": "856366",
+    "go_data": [
+      {
+        "term": "regulation of phospholipid biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Opi1p controls the expression of genes involved in expansion of the ER membrane, especially genes encoding proteins that are involved in lipid synthesis.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Opi1p interacts with Scs2p to regulate ER localization of the Opi1p repressor.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "transcription regulatory region DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Opi1p is a transcription factor responsible for controlling the expression of genes.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Doa10p",
+    "geneID": "854781",
+    "go_data": [
+      {
+        "term": "ubiquitin protein ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Doa10p is described as the E3 ubiquitin ligase of the ERAD-C pathway.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Doa10p is part of the ERAD-C pathway, which is associated with the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Doa10p is part of the ERAD-C pathway, which is involved in protein ubiquitination.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Cue1p",
+    "geneID": "855306",
+    "go_data": [
+      {
+        "term": "ubiquitin-dependent protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cue1p has a role in ubiquitination and degradation at the ER surface.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Cue1p is part of the Doa10p complex, which is involved in ERAD pathway at the ER surface.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Cue1p is an anchoring protein for Ubc7p.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Cdc48",
+    "geneID": "851431",
+    "go_data": [
+      {
+        "term": "ATP hydrolysis activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Cdc48p is described as an ATPase complex, indicating it has ATP hydrolysis activity.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum-associated protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cdc48p is mentioned as part of the ERAD pathway, which is involved in the catabolic process of proteins associated with the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Although not explicitly stated for Cdc48, its involvement in ERAD and interaction with other ER-associated proteins implies a cytosolic location for its function.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ufd1p",
+    "geneID": "852939",
+    "go_data": [
+      {
+        "term": "ER-associated ubiquitin-dependent protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Ufd1p is part of the Doa10p complex and the p97-Ufd1-Npl4 complex, which are involved in ERAD pathway and retrotranslocation from the ER to the cytosol.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The p97-Ufd1-Npl4 complex is involved in retrotranslocation from the ER to the cytosol.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Ufd1p is part of the Doa10p complex, which is involved in the ERAD pathway.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Npl4p",
+    "geneID": "852468",
+    "go_data": [
+      {
+        "term": "ER-associated ubiquitin-dependent protein catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Npl4p is part of the Doa10p complex, which is involved in the ERAD pathway.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Npl4p is a component of the Cdc48 complex and the p97-Ufd1-Npl4 complex.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The p97-Ufd1-Npl4 complex is involved in retrotranslocation from the ER to the cytosol.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ubx2p",
+    "geneID": "854995",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Ubx2p is part of the Doa10p complex, which is involved in the ERAD pathway, indicating its location in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein retention in ER",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As part of the Doa10p complex in the ERAD pathway, Ubx2p is involved in the process of retaining proteins in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Wsc1p",
+    "geneID": "854170",
+    "go_data": [
+      {
+        "term": "cell wall integrity signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Wsc1 and Mid2 are cell surface sensors for cell wall integrity signaling that act through Rom2, a guanine nucleotide exchange factor for Rho1",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Wsc1p is a transmembrane protein that functions as a sensor of plasma membrane/cell wall integrity",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cell surface receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Wsc1 and Mid2 are cell surface sensors for cell wall integrity signaling that act through Rom2, a guanine nucleotide exchange factor for Rho1",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Nas2p",
+    "geneID": "854810",
+    "go_data": [
+      {
+        "term": "proteasome assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Nas2p is a protein involved in proteasome assembly.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PCT1",
+    "geneID": "853116",
+    "go_data": [
+      {
+        "term": "CDP-choline biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PCT1 is the rate-limiting enzyme in the phosphatidylcholine synthesis pathway.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "phosphatidylcholine biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PCT1 is the rate-limiting enzyme in the phosphatidylcholine synthesis pathway.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cytidylyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PCT1 is aligned with the amino acid sequence of the most studied phosphocholine cytidylyltransferase protein in yeast.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cellular response to heat",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Deltapct1 strain is sensitive to heat shock stress and overexpression of POF1 was able to reverse this sensitivity.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "PCT1 is involved in the phosphatidylcholine synthesis pathway, which is a major membrane lipid component.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "POF1",
+    "geneID": "2332",
+    "go_data": [
+      {
+        "term": "cytidylyltransferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "POF1 contains the conserved motif HxxH, characteristic of the active site of the cytidylyltransferase family.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "ATPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Pof1p exhibits efficient ATPase activity comparable to Kar2p and p97.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Pof1p is predicted to interact with proteins involved in ERAD, such as Kar2p and Cdc48p.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein retention in ER",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Pof1p is predicted to interact with proteins involved in ERAD.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kar2p",
+    "geneID": "853418",
+    "go_data": [
+      {
+        "term": "ATPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Kar2p presented an ATPase-specific activity of approximately 4 nmol of phosphate release per hour per muM of Kar2p in complex with both the nucleotide exchanger Lhs1p and the DnaJ-like partner.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Kar2p is an Hsp70 chaperone from the ER.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Kar2p is an Hsp70 chaperone, which is involved in protein folding.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Lhs1p",
+    "geneID": "853789",
+    "go_data": [
+      {
+        "term": "ATPase activator activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Lhs1p is mentioned as a nucleotide exchanger that, in complex with Kar2p and a DnaJ-like partner, indicates its role in enhancing ATPase activity.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Lhs1p is associated with the ERAD-associated protein Kar2p, suggesting its localization to the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Kss1p",
+    "geneID": "852931",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Kss1p is a mitogen-activated protein kinase (MAPK) involved in signal transduction pathways.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "filamentous growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Kss1p is involved in the control of filamentous growth.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "pheromone response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Kss1p is involved in the control of pheromone response.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Kss1p is involved in signal transduction pathways.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VMA10",
+    "geneID": "856435",
+    "go_data": [
+      {
+        "term": "vacuole",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "The ATPase from vacuole VMA10",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "ATP hydrolysis activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The ATPase from vacuole VMA10",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Sec63p",
+    "geneID": "854428",
+    "go_data": [
+      {
+        "term": "J-domain containing",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Sec63p is described as a soluble protein that contains a J-domain.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Sec63p is mentioned in the context of Kar2p, an Hsp70 chaperone from the ER, suggesting its involvement with the ER.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Sec63p is mentioned as a co-chaperone of Kar2p, implying its involvement in protein folding.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p97",
+    "geneID": "5708",
+    "go_data": [
+      {
+        "term": "ATPase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "p97 is the mammal homolog of yeast Cdc48p, which is the main ERAD ATPase.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "p97 is involved in ERAD, indicating its location in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein retrotranslocation from ER to cytosol",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The p97-Ufd1-Npl4 complex functions in retrotranslocation from the ER to the cytosol.",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Hrd1",
+    "geneID": "854149",
+    "go_data": [
+      {
+        "term": "ubiquitin ligase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Hrd1p functions as a ubiquitin-ligase",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Hrd1p is involved in the retrotranslocation of a misfolded luminal ER protein",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Hrd1p is a ubiquitin-ligase involved in the retrotranslocation of a misfolded luminal ER protein",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Yet1p-Yet3p",
+    "geneID": "853800",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum localization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Yet1p-Yet3p interacts with Scs2p-Opi1p to regulate ER localization of the Opi1p repressor",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Yet1p-Yet3p interacts with Scs2p-Opi1p",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "regulation of cellular localization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Yet1p-Yet3p regulates ER localization of the Opi1p repressor",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Scs2p",
+    "geneID": "856856",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum localization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Yet1p-Yet3p interacts with Scs2p-Opi1p to regulate ER localization of the Opi1p repressor",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "protein-containing complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Scs2p interacts with Opi1p",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rsp5p",
+    "geneID": "856862",
+    "go_data": [
+      {
+        "term": "ubiquitin-protein transferase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rsp5p-dependent ubiquitination",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum quality control",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rsp5p-dependent ubiquitination in ER quality control mechanism",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Rsp5p involved in ER quality control mechanism",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Mid2",
+    "geneID": "851042",
+    "go_data": [
+      {
+        "term": "cell wall integrity signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mid2 is a cell surface sensor for cell wall integrity signaling",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Mid2 is a cell surface sensor",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mid2 acts through Rom2, a guanine nucleotide exchange factor for Rho1, in cell wall integrity signaling",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rom2",
+    "geneID": "851086",
+    "go_data": [
+      {
+        "term": "Rho guanine nucleotide exchange factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Rom2 is a guanine nucleotide exchange factor for Rho1",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cell wall organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Rom2 acts in cell wall integrity signaling",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Whi3",
+    "geneID": "855524",
+    "go_data": [
+      {
+        "term": "regulation of cell morphogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Whi3 regulates morphogenesis in budding yeast",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      },
+      {
+        "term": "cellular bud formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Whi3 regulates morphogenesis in budding yeast by enhancing Cdk functions in apical growth",
+        "reference(s)": [
+          "PMC3282682"
+        ]
+      }
+    ]
+  }
+]

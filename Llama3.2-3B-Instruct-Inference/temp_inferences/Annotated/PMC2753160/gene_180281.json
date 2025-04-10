@@ -1,0 +1,24 @@
+{
+  "gene": "neuropeptide-like protein",
+  "geneID": "180281",
+  "go_data": [
+    {
+      "term": "neuropeptide hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Neuropeptide-like protein is mentioned alongside other neuropeptides, implying it has a role similar to neuropeptide hormones.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "peptide hormone processing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The text mentions impaired processing of NLP peptides, indicating the gene is involved in this process.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

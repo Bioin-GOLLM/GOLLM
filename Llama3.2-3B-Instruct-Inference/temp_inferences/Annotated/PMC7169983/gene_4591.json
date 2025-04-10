@@ -1,0 +1,33 @@
+{
+  "gene": "TRIM37",
+  "geneID": "4591",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIM37 facilitates DNA repair.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "histone H2A ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIM37 is a new histone H2A ubiquitin ligase.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a histone H2A ubiquitin ligase, TRIM37 is likely located in the nucleus.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

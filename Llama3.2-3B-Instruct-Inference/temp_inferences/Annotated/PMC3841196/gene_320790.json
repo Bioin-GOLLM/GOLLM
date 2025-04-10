@@ -1,0 +1,24 @@
+{
+  "gene": "chromodomain helicase DNA-binding protein-7",
+  "geneID": "320790",
+  "go_data": [
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Chd7 is described as a chromodomain helicase DNA-binding protein.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "helicase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Chd7 is described as a chromodomain helicase DNA-binding protein.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

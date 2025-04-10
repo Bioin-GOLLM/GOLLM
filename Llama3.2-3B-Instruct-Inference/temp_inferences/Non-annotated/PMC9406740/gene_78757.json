@@ -1,0 +1,33 @@
+{
+  "gene": "Rictor",
+  "geneID": "78757",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rictor is part of the mTOR kinase complex TORC2.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "mTOR kinase complexes, including TORC2 which includes Rictor, are typically found in the cytoplasm.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rictor is part of the TORC2 complex, which is involved in insulin/IGF1 signaling that affects muscle growth.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

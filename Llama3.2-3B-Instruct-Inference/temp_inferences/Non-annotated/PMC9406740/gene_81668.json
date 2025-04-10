@@ -1,0 +1,33 @@
+{
+  "gene": "growth hormone",
+  "geneID": "81668",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Growth hormone has hormone activity as indicated by its role in regulating various physiological processes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of skeletal muscle calcium homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Growth hormone secretagogues prevent dysregulation of skeletal muscle calcium homeostasis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of skeletal muscle sodium channel activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Growth hormone treatment leads to partial recovery of skeletal muscle sodium channel properties.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

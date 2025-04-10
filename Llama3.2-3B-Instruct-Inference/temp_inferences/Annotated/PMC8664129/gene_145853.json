@@ -1,0 +1,15 @@
+{
+  "gene": "C15orf61",
+  "geneID": "145853",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Comigration with the prohibitins PHB/PHB2 suggests C15orf61 is associated with mitochondria.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

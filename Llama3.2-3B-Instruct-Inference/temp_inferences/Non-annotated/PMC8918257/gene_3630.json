@@ -1,0 +1,33 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Insulin is used as a hormone in the body to regulate blood glucose levels.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    },
+    {
+      "term": "regulation of blood glucose levels",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin treatment is used to regulate blood glucose levels in individuals with diabetes.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    },
+    {
+      "term": "secretion by cell",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin is secreted by cells in the pancreas to regulate blood glucose levels.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    }
+  ]
+}

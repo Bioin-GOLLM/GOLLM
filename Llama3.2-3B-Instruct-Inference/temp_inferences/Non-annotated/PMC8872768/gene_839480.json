@@ -1,0 +1,33 @@
+{
+  "gene": "AtXI-A",
+  "geneID": "839480",
+  "go_data": [
+    {
+      "term": "cytoskeleton-dependent intracellular transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AtXI-A is a myosin XI, which is involved in cytoskeleton-dependent intracellular transport.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cellular component movement",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AtXI-A is a myosin XI, which is involved in cellular component movement.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "AtXI-A is a myosin XI, which is part of the cytoskeleton.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "KCND3",
+  "geneID": "56543",
+  "go_data": [
+    {
+      "term": "voltage-gated potassium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "KCND3 is a potassium channel",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "KCND3 is regulated by thyroid hormone receptors",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "KCND3 is a potassium channel, which is typically membrane-bound",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

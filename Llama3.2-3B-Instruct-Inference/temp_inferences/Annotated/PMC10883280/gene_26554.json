@@ -1,0 +1,15 @@
+{
+  "gene": "CUL3",
+  "geneID": "26554",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CUL3 interacts with KCTD7, indicating protein binding activity.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

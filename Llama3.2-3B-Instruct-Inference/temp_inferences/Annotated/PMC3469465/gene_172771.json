@@ -1,0 +1,15 @@
+{
+  "gene": "MEC-8",
+  "geneID": "172771",
+  "go_data": [
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MEC-8 is a putative co-regulator of the unc-60 reporter.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

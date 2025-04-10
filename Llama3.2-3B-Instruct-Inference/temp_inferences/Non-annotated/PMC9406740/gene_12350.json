@@ -1,0 +1,15 @@
+{
+  "gene": "carbonic anhydrase 3",
+  "geneID": "12350",
+  "go_data": [
+    {
+      "term": "antioxidant activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Carbonic anhydrase 3 expression is reduced, contributing to a weakening of the antioxidant defense systems.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

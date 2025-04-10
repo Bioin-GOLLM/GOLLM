@@ -1,0 +1,689 @@
+[
+  {
+    "gene": "ERF6",
+    "geneID": "827463",
+    "go_data": [
+      {
+        "term": "transcriptional activator activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ERF6 functions as a transcriptional activator and suppressor of genes in response to various abiotic stresses.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "transcriptional repressor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ERF6 functions as a transcriptional activator and suppressor of genes in response to various abiotic stresses.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "abiotic stress response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF6 affects the expression of abiotic stress response genes.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to osmotic stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF6 is thought to be involved in tolerance to osmotic stress.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to reactive oxygen species",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF6 is thought to be involved in tolerance to abiotic stress regulated by reactive oxygen species (ROS).",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6 and enables its targeting to the nucleus.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "At4G17505",
+    "geneID": "827465",
+    "go_data": [
+      {
+        "term": "unknown",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "At4G17505 is annotated as a gene encoding a putative protein domain with unknown function (DUF239).",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ERF1a",
+    "geneID": "827464",
+    "go_data": [
+      {
+        "term": "DNA-binding transcription factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ERF1a is a member of the AP2/ERF superfamily of transcription factors, which bind DNA at an AGCCGCC motif (GCC-box) in promoter regions of the target genes.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, ERF1a localizes to the nucleus to regulate the expression of target genes.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "regulation of transcription, DNA-templated",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF1a, as a transcription factor, is involved in regulating the expression of target genes by binding to their promoter regions.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UBIQUITIN C-TERMINAL HYDROLASE 3",
+    "geneID": "827466",
+    "go_data": [
+      {
+        "term": "thiol-dependent ubiquitin-specific protease activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "UBIQUITIN C-TERMINAL HYDROLASE 3 is described as encoding UCH3, implying a role in ubiquitin processing.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to infection",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The relative expression of UCH3 was analyzed in infected and non-infected Arabidopsis roots.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RAB GTPASE HOMOLOG 1C",
+    "geneID": "827468",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RAB GTPASE HOMOLOG 1C is a GTPase, which implies it has GTP binding activity.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "cellular response to infection",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The relative expression of RAB1C showed a small, but significant, difference between infected and non-infected Arabidopsis roots at 7 dpi.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "At4G17520",
+    "geneID": "827467",
+    "go_data": [
+      {
+        "term": "mRNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "At4G17520 encodes HYALURONAN/mRNA BINDING FAMILY PROTEIN (HLN).",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "seed germination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Seeds of Arabidopsis lines harbouring a T-DNA insert in At4G17520 showed an aberrant germination phenotype.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "At2G12010",
+    "geneID": "3768307",
+    "go_data": [
+      {
+        "term": "ethylene biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "At2G12010 encodes ACC oxidase 3, which regulates the accumulation of ACC by its conversion into ethylene.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "1-aminocyclopropane-1-carboxylate oxidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "At2G12010 encodes ACC oxidase 3, which catalyzes the conversion of ACC into ethylene.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ACC synthase 7",
+    "geneID": "828726",
+    "go_data": [
+      {
+        "term": "1-aminocyclopropane-1-carboxylate synthase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ACC synthase 7 catalyzes reactions to produce ACC from methionine and S-adenosyl-methionine.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to nematode",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ACC synthase 7 is up-regulated in response to nematode infection in Arabidopsis roots.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ACC oxidase 2",
+    "geneID": "842536",
+    "go_data": [
+      {
+        "term": "ethylene biosynthetic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ACC oxidase 2 is involved in the conversion of ACC into ethylene.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "1-aminocyclopropane-1-carboxylate oxidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ACC oxidase 2 catalyzes the conversion of ACC into ethylene.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "APETALA2",
+    "geneID": "829845",
+    "go_data": [
+      {
+        "term": "DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Members of the AP2/ERF superfamily bind DNA at an AGCCGCC motif in promoter regions of target genes.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "transcription regulatory region DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ERF family members bind DNA at an AGCCGCC motif in promoter regions of target genes.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to drought",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "An Arabidopsis AP2/EREBP-type transcriptional repressor is involved in drought stress responses.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "abscisic acid mediated signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "An Arabidopsis AP2/EREBP-type transcriptional repressor is involved in abscisic acid and drought stress responses.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, APETALA2 localizes to the nucleus to regulate gene expression.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ERF5",
+    "geneID": "834770",
+    "go_data": [
+      {
+        "term": "ethylene-activated signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF5 is involved in JA/Et-mediated defense against Botrytis cinerea.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "chitin-induced immune response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF5 is involved in chitin-induced innate immunity response.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "defense response to fungus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ERF5 plays a role in defense against Botrytis cinerea.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, ERF5 is expected to localize to the nucleus.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "sequence-specific DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ERF5, as an ethylene-responsive element-binding factor, binds to specific DNA sequences.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MITOGEN-ACTIVATED PROTEIN KINASE3",
+    "geneID": "823706",
+    "go_data": [
+      {
+        "term": "protein serine/threonine kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to osmotic stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mild osmotic stress is thought to induce elevated cellular levels of ACC, which could activate MPK3/MPK6.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to abiotic stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The transcriptional activity of ERF6 in Arabidopsis is regulated by MPK3/MPK6 in response to biotic and abiotic stress.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to biotic stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The transcriptional activity of ERF6 in Arabidopsis is regulated by MPK3/MPK6 in response to biotic and abiotic stress.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6 and enables its targeting to the nucleus, implying MPK3/MPK6 is located in the cytoplasm where it can interact with ERF6.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MPK6",
+    "geneID": "818982",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to osmotic stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mild osmotic stress is thought to induce elevated cellular levels of ACC, which could activate MPK3/MPK6.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to reactive oxygen species",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ROS could activate MPK3/MPK6 and, further downstream, ERF6.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to high light intensity",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "High light treatment is associated with MPK3/MPK6 and ERF6 regulation.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to cold",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Cold is associated with MPK3/MPK6 and ERF6 regulation.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MPK3/MPK6 is implied to be located in the cytoplasm where it phosphorylates ERF6 before ERF6's translocation to the nucleus.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PR1",
+    "geneID": "815949",
+    "go_data": [
+      {
+        "term": "defense response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PR1 is a pathogenesis-related gene, which implies involvement in defense response.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PR2",
+    "geneID": "824893",
+    "go_data": [
+      {
+        "term": "defense response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PR2 is a pathogenesis-related gene, which implies involvement in defense response.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PR3",
+    "geneID": "820429",
+    "go_data": [
+      {
+        "term": "defense response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PR3 is described as a pathogenesis-related gene.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PR4",
+    "geneID": "819632",
+    "go_data": [
+      {
+        "term": "defense response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PR4 is a pathogenesis-related gene, which implies involvement in defense response.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PDF1.1",
+    "geneID": "843916",
+    "go_data": [
+      {
+        "term": "defense response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PDF1.1 is a pathogenesis-related gene, which implies involvement in defense response.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PDF1.2",
+    "geneID": "834469",
+    "go_data": [
+      {
+        "term": "defense response",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PDF1.2 is mentioned alongside other pathogenesis-related genes, implying its involvement in defense response.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PSAF",
+    "geneID": "840021",
+    "go_data": [
+      {
+        "term": "photosynthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PSAF is a component of photosystem I, which is involved in photosynthesis.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "thylakoid",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a component of photosystem I, PSAF is likely located in the thylakoid membrane.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "photosystem I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "PSAF is a component of photosystem I.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PSAO",
+    "geneID": "837358",
+    "go_data": [
+      {
+        "term": "photosynthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PSAO is a component of photosystem I, which is involved in photosynthesis.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "thylakoid",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a component of photosystem I, PSAO is likely located in the thylakoid membrane.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to nematode",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PSAO expression is enhanced in nematode-infected roots of the erf6-1 mutant line.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RBCS1A",
+    "geneID": "843029",
+    "go_data": [
+      {
+        "term": "photosynthesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "RBCS1A is a component of photosystem I, which is involved in photosynthesis.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "thylakoid",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a component of photosystem I, RBCS1A is likely located in the thylakoid.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "chloroplast",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "RBCS1A is a component of photosystem I, which is located in the chloroplast.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ANAC096",
+    "geneID": "834702",
+    "go_data": [
+      {
+        "term": "transcription regulatory region DNA binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ANAC096 is a NAC transcription factor, implying it binds to DNA regulatory regions.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to osmotic stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ANAC096 cooperates in osmotic stress responses.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      },
+      {
+        "term": "response to dehydration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ANAC096 cooperates in dehydration stress responses.",
+        "reference(s)": [
+          "PMC6430479"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "gene": "CCR5",
+  "geneID": "1234",
+  "go_data": [
+    {
+      "term": "virus receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HIV entry into the NKR-CCR5 cell line is inhibited by gelsolin deficiency or overexpression, implying CCR5's role as an HIV receptor.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, CCR5 is expected to be located in the plasma membrane to interact with external ligands like HIV.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "BCAT2",
+  "geneID": "12036",
+  "go_data": [
+    {
+      "term": "branched-chain amino acid catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BCAT2 induces the degradation of branched-chain amino acids.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "catalytic activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BCAT2 is a branched-chain aminotransferase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

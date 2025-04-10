@@ -1,0 +1,42 @@
+{
+  "gene": "RBM24",
+  "geneID": "405801",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RBM24 is described as an RNA-binding protein.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "myogenic differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RBM24 is required for myogenesis during Xenopus early development and regulates myogenic differentiation.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "sarcomere assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RBM24 is required for sarcomere assembly.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle tissue",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "RBM24 is expressed in muscle tissues.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

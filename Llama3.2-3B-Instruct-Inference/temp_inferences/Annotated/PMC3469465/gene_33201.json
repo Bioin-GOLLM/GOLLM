@@ -1,0 +1,33 @@
+{
+  "gene": "U2 snRNP auxiliary factor",
+  "geneID": "33201",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "U2AF bound to the 3'-splice site",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "mRNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "U2AF recruiting U2 snRNP to the branch site",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "U2AF involved in mRNA splicing, a process occurring in the nucleus",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

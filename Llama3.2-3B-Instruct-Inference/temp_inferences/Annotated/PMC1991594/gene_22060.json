@@ -1,0 +1,60 @@
+{
+  "gene": "p53",
+  "geneID": "22060",
+  "go_data": [
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p53 binds single stranded DNA and promotes strand transfer between complementary strands.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p53-dependent apoptosis is observed in spermatogonia.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "double-strand break repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p53 plays a role in repair of DNA strand breaks and promotes strand transfer between complementary strands.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p53 localizes to the nucleus to regulate the expression of genes.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "meiotic recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p53 interacts with hRAD51 and hRAD54, and directly modulates homologous recombination.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "spermatogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p53 is expressed in pachytene and pre-leptotene primary spermatocytes and plays a role in meiosis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

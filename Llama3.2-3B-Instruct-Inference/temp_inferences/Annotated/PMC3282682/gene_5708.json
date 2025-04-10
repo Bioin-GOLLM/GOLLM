@@ -1,0 +1,33 @@
+{
+  "gene": "p97",
+  "geneID": "5708",
+  "go_data": [
+    {
+      "term": "ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "p97 is the mammal homolog of yeast Cdc48p, which is the main ERAD ATPase.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p97 is involved in ERAD, indicating its location in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein retrotranslocation from ER to cytosol",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The p97-Ufd1-Npl4 complex functions in retrotranslocation from the ER to the cytosol.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

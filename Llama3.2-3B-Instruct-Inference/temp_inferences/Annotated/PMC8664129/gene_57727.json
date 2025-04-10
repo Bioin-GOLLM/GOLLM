@@ -1,0 +1,15 @@
+{
+  "gene": "CIA",
+  "geneID": "57727",
+  "go_data": [
+    {
+      "term": "cytosolic iron-sulfur cluster assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CIA proteins are involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

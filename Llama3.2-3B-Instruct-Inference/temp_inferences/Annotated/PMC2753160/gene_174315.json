@@ -1,0 +1,15 @@
+{
+  "gene": "rrf-3",
+  "geneID": "174315",
+  "go_data": [
+    {
+      "term": "RNA interference",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "rrf-3 strain is used for genome-wide RNAi in C. elegans",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "XRCC4",
+  "geneID": "7518",
+  "go_data": [
+    {
+      "term": "double-strand break repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "XRCC4 is known to interact with PNKP, which is involved in double-strand break repair.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information is given, however based on general knowledge of XRCC4 it can be said that XRCC4 is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

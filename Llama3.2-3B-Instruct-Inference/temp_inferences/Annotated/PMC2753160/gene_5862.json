@@ -1,0 +1,60 @@
+{
+  "gene": "RAB-2",
+  "geneID": "5862",
+  "go_data": [
+    {
+      "term": "Golgi apparatus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RAB-2 localizes to the Golgi apparatus but not to synapses.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "dense core vesicle maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RAB-2 is required for the maturation of dense core vesicles.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RAB-2 regulates vesicular transport and sorting at the Golgi apparatus.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAB-2 has GTP binding activity.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "GTPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAB-2 has GTPase activity.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAB-2 interacts with RIC-19 and other effector molecules.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

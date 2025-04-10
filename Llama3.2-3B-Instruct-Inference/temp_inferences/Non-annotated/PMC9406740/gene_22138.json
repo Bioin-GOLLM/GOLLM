@@ -1,0 +1,33 @@
+{
+  "gene": "titin",
+  "geneID": "22138",
+  "go_data": [
+    {
+      "term": "structural constituent of muscle",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Titin is a myofibrillar protein that makes up the sarcomere.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "Z disk",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Titin is localized at the level of the Z disk of the sarcomere.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Titin is a target of calpain's proteolytic cleavage, which is involved in muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "UNC13A",
+  "geneID": "23025",
+  "go_data": [
+    {
+      "term": "synaptic vesicle exocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "UNC13A encodes the synaptic regulator Munc13-1, which is linked to increased neurotransmission.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synapse",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "UNC13A is described as a synaptic regulator, indicating its presence at synapses.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "regulation of neurotransmitter secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Variants in UNC13A cause increased neurotransmission, indicating its role in regulating neurotransmitter secretion.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

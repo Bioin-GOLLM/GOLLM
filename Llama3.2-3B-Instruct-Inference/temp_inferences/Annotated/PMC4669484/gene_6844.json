@@ -1,0 +1,42 @@
+{
+  "gene": "VAMP-2",
+  "geneID": "6844",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP-2 forms a four-helix bundle SNARE complex with SNAP-25 and Syntaxin1.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "vesicle membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP-2 is located on the SV membrane.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP-2 is fundamental to neurotransmitter release as part of the SNARE complex.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VAMP-2 binds to SNAP-25 and Syntaxin1 to form the SNARE complex.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    }
+  ]
+}

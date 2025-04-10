@@ -1,0 +1,33 @@
+{
+  "gene": "C4b-binding protein",
+  "geneID": "722",
+  "go_data": [
+    {
+      "term": "complement binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "C4b-binding protein is annotated under 'complement binding' with a 80.39-fold enrichment.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C4b-binding protein is associated with immune activation and modulation, including 'response to symbiont'.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C4b-binding protein is found in exosomes, which are extracellular vesicles.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

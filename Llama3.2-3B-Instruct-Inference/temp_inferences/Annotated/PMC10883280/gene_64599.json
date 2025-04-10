@@ -1,0 +1,33 @@
+{
+  "gene": "GIGYF1",
+  "geneID": "64599",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GIGYF1 interacts with SNRPB through its GYF domain and multiple short disordered fragments in the C-terminal region of SNRPB.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information, however, given that GIGYF1 interacts with SNRPB, which is involved in mRNA splicing, it is reasonable to consider that GIGYF1 could be located in the cytoplasm, but this is not explicitly stated in the text.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "mRNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GIGYF1 binds to SNRPB, which is involved in mRNA splicing, potentially connecting mRNA splicing with posttranscriptional control mechanisms.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "opn4xb",
+  "geneID": "563080",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "opn4xb is related to melanopsin, which is a photopigment.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "inner nuclear layer of retina",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "opn4xb is expressed in the inner nuclear layer (INL) of the retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "bipolar cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "opn4xb is co-expressed with bipolin, a marker of bipolar cell identity, in some cells in the INL of the retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

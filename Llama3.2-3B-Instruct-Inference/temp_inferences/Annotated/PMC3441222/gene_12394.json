@@ -1,0 +1,15 @@
+{
+  "gene": "AML1",
+  "geneID": "12394",
+  "go_data": [
+    {
+      "term": "leukemogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AML1 is part of the human leukemogenic fusion protein AML1-ETO.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

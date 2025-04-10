@@ -1,0 +1,33 @@
+{
+  "gene": "Transient receptor potential",
+  "geneID": "43542",
+  "go_data": [
+    {
+      "term": "phototransduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Transient receptor potential (Trp) mediates early steps in the phototransduction cascade.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "rhabdomere",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Trp is contained within rhabdomeres, a characteristic feature of Drosophila photoreceptors.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "photoreceptor cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Trp is found in photoreceptors, which contain rhabdomeres.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

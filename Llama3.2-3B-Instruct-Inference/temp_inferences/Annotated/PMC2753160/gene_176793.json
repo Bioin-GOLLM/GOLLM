@@ -1,0 +1,24 @@
+{
+  "gene": "actin",
+  "geneID": "176793",
+  "go_data": [
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actin is regulated by Rab GTPases for actin and microtubule-dependent transport.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Actin is a component of the actin cytoskeleton.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "Opi1p",
+  "geneID": "856366",
+  "go_data": [
+    {
+      "term": "regulation of phospholipid biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Opi1p controls the expression of genes involved in expansion of the ER membrane, especially genes encoding proteins that are involved in lipid synthesis.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Opi1p interacts with Scs2p to regulate ER localization of the Opi1p repressor.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Opi1p is a transcription factor responsible for controlling the expression of genes.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

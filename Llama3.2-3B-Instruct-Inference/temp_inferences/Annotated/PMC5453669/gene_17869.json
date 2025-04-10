@@ -1,0 +1,15 @@
+{
+  "gene": "myc",
+  "geneID": "17869",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myc-labeled MuRF1 interacted directly with TRalpha.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

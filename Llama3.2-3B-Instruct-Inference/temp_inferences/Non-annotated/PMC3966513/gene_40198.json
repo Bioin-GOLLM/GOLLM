@@ -1,0 +1,33 @@
+{
+  "gene": "IR76b",
+  "geneID": "40198",
+  "go_data": [
+    {
+      "term": "ionotropic glutamate receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IR76b is part of the variant ionotropic glutamate receptors (IRs) family.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "chemosensory behavior",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IR76b acts as a coreceptor in insect chemosensation.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "olfactory receptor neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "IRs, including IR76b, are present in olfactory tissues.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    }
+  ]
+}

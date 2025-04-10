@@ -1,0 +1,15 @@
+{
+  "gene": "APOH",
+  "geneID": "350",
+  "go_data": [
+    {
+      "term": "lipid metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Apolipoproteins (APOD, APOA2, and APOH) are responsible for lipid metabolism.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

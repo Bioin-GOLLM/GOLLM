@@ -1,0 +1,761 @@
+[
+  {
+    "gene": "FBXO23",
+    "geneID": "26262",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FBXO23 interacts with STX1B, indicating a protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STX1B",
+    "geneID": "112755",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "STX1B binds to VAMP2 in a similar way to STX1A, which binds in a 4-helix bundle to VAMP2 together with SNAP25.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "STX1B interacts with VAMP2 and FBXO28 via coiled-coil interfaces, suggesting involvement in protein complex assembly.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a SNARE protein, STX1B is expected to be located in the cytoplasm, where it can interact with other proteins such as VAMP2 and FBXO28.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP2",
+    "geneID": "6844",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "VAMP2 binds to STX1B and SNAP25 in a 1:1:2 stoichiometry, suggesting involvement in SNARE complex assembly.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cellular membrane fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As a SNARE protein, VAMP2 is involved in cellular membrane fusion.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "VAMP2 is a vesicle-associated membrane protein.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "VAMP2 binds to STX1B and SNAP25, indicating protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ESRRG",
+    "geneID": "2104",
+    "go_data": [
+      {
+        "term": "hormone receptor domain binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ESRRG has a hormone receptor domain that binds to PSMC5.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ESRRG binds to PSMC5.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PSMC5",
+    "geneID": "5705",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PSMC5 binds to the hormone receptor domain of ESRRG.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information, but based on the interaction with ESRRG, which is a nuclear receptor, PSMC5 might be located in the cytoplasm.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein-protein interaction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PSMC5 interacts with ESRRG, indicating involvement in protein-protein interaction.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PEX3",
+    "geneID": "8504",
+    "go_data": [
+      {
+        "term": "peroxisome membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "PEX3 is anchored into the peroxisomal membrane via its N-terminal TM helix.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PEX3 binds to PEX19 and PEX16.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "peroxisome organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PEX3 regulates peroxisome homeostasis.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PEX19",
+    "geneID": "5824",
+    "go_data": [
+      {
+        "term": "peroxisome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "PEX19 is a cytosolic carrier for peroxisomal membrane proteins to the peroxisome.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PEX19 docks onto PEX3 via two interaction surfaces.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "peroxisome organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PEX19 regulates peroxisome homeostasis.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PEX16",
+    "geneID": "9409",
+    "go_data": [
+      {
+        "term": "peroxisome membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "PEX16 is believed to serve as an integral membrane-bound receptor for PEX3 and fully inserts into the peroxisome membrane.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PEX16 binds to PEX3, and the interaction between PEX3 and PEX16 has been described.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "peroxisome organization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PEX16, along with PEX3 and PEX19, regulates peroxisome homeostasis.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNRPB",
+    "geneID": "6628",
+    "go_data": [
+      {
+        "term": "mRNA splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNRPB is involved in mRNA splicing as it is part of the Sm ring complex that binds small nuclear RNA.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SNRPB is part of the Sm ring complex that binds small nuclear RNA, which is typically found in the nucleus.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SNRPB binds to GIGYF1 through its LSM domain and a proline-rich repeat motif in its C-terminal region.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "small nuclear ribonucleoprotein complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SNRPB is part of the Sm ring complex that binds small nuclear RNA.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GIGYF1",
+    "geneID": "64599",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "GIGYF1 interacts with SNRPB through its GYF domain and multiple short disordered fragments in the C-terminal region of SNRPB.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information, however, given that GIGYF1 interacts with SNRPB, which is involved in mRNA splicing, it is reasonable to consider that GIGYF1 could be located in the cytoplasm, but this is not explicitly stated in the text.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "mRNA splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GIGYF1 binds to SNRPB, which is involved in mRNA splicing, potentially connecting mRNA splicing with posttranscriptional control mechanisms.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LIG",
+    "geneID": "3093",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "LIG motifs are involved in binding to various proteins, such as HCFC1 and GIGYF1.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cellular protein complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "LIG motifs mediate binding between proteins, contributing to the assembly of protein complexes.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "LIG motifs are found in proteins that are located in the cytoplasm, such as PSMC5 and SNRPB.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRG",
+    "geneID": "6965",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "involved_in",
+        "namespace": "molecular_function",
+        "justification": "TRG is mentioned in the context of DMI structures and motif classes, suggesting interaction with other proteins.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HCF-1",
+    "geneID": "3054",
+    "go_data": [
+      {
+        "term": "transcription factor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HCFC1 is a transcription factor that associates with other transcription factors.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "HCFC1 interacts with other transcription factors, splice factors, and cell cycle regulators.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, HCFC1 is expected to be located in the nucleus.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "regulation of cell growth",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The deubiquitinating enzyme BAP1 regulates cell growth via interaction with HCF-1.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "viral process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "HCF-1 is a host protein required for herpes simplex virus infection.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "RNA splicing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "A novel function for human factor C1 (HCF-1) in pre-mRNA splicing.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CREBZF",
+    "geneID": "58487",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CREBZF binds to HCFC1 as shown by BRET protein interaction assay.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "JIP1",
+    "geneID": "9479",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "JIP1 is mentioned in the context of DOC_MAPK_JIP1_4, suggesting interaction with MAPK.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AP2beta",
+    "geneID": "7021",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "AP2beta is part of a DMI structure, suggesting it interacts with other proteins.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CSNK2B",
+    "geneID": "1460",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CSNK2B interacts with CSNK2A1, indicating a protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CSNK2A1",
+    "geneID": "1457",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CSNK2A1 is a subunit of casein kinase 2, which is a protein kinase.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CSNK2A1, as part of casein kinase 2, is involved in protein phosphorylation.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PNKP",
+    "geneID": "11284",
+    "go_data": [
+      {
+        "term": "protein serine/threonine phosphatase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PNKP contains a phosphatase domain.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "phosphorylated threonine binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The FHA domain of PNKP is known to bind phosphorylated threonines.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "XRCC4",
+    "geneID": "7518",
+    "go_data": [
+      {
+        "term": "double-strand break repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "XRCC4 is known to interact with PNKP, which is involved in double-strand break repair.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information is given, however based on general knowledge of XRCC4 it can be said that XRCC4 is located in the cytoplasm.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UBA5",
+    "geneID": "79876",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "UBA5 interacts with GABRAPL2, indicating protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "KCTD7",
+    "geneID": "154881",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "KCTD7 interacts with CUL3, indicating protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CUL3",
+    "geneID": "26554",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CUL3 interacts with KCTD7, indicating protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIM37",
+    "geneID": "4591",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRIM37 is predicted to bind to PNKP via its MATH domain and disordered stretches.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information, however, based on the interaction with PNKP, which is known to be involved in DNA repair processes that can occur in the nucleus and cytoplasm, TRIM37 might be located in the cytoplasm, but this is not explicitly stated.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STX1A",
+    "geneID": "6804",
+    "go_data": [
+      {
+        "term": "SNAP receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "STX1A binds in a 4-helix bundle to VAMP2 together with SNAP25.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "STX1A binds to VAMP2 and SNAP25, which are involved in vesicle fusion.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNAP25",
+    "geneID": "6616",
+    "go_data": [
+      {
+        "term": "SNAP receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SNAP25 binds in a 4-helix bundle to VAMP2 together with STX1A.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SNAP25 is part of the SNARE complex which is involved in vesicle fusion.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SNAP25 is a component of the SNARE complex which is typically found in the cytoplasm.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNARE",
+    "geneID": "100170220",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The SNARE domain in STX1B is crucial for binding to VAMP2 and FBXO28, suggesting involvement in SNARE complex assembly.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "The SNARE domain in STX1B binds to VAMP2 and FBXO28, indicating protein binding activity.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a component of the SNARE complex, SNARE is expected to be located in the cytoplasm, where vesicle fusion occurs.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FBXO28",
+    "geneID": "23219",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "FBXO28 was predicted to bind to STX1B via a coiled-coil interface.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "STX1B, a SNARE protein that interacts with FBXO28, is typically located in the cytoplasm.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNRC6C",
+    "geneID": "57690",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TNRC6C binds to the GYF domain of GIGYF1 through a motif of sequence PPPGL.",
+        "reference(s)": [
+          "PMC10883280"
+        ]
+      }
+    ]
+  }
+]

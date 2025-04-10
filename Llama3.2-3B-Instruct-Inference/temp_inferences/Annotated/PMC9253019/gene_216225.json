@@ -1,0 +1,24 @@
+{
+  "gene": "Slc5a8",
+  "geneID": "216225",
+  "go_data": [
+    {
+      "term": "iodide transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Slc5a8 is listed among genes involved in iodide transport.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Slc5a8 is analyzed for differential expression in the context of thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "myosin",
+  "geneID": "396902",
+  "go_data": [
+    {
+      "term": "motor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myosins are motor proteins that convert chemical energy, ATP, to physical force to move actin filaments.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "actin filament binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myosins bind to actin filaments and move them.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cytoplasmic streaming",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cytoplasmic streaming in plants is caused by myosin XI-bound organelle movement along actin filaments.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cellular component movement",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myosins are involved in the movement of cellular components, such as vesicles, along actin filaments.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Myosins are associated with the cytoskeleton, specifically actin filaments.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

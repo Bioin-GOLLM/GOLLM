@@ -1,0 +1,24 @@
+{
+  "gene": "PRRT2",
+  "geneID": "112476",
+  "go_data": [
+    {
+      "term": "synaptic vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PRRT2 interacts with SNAP25 and synaptotagmin-1, which are involved in synaptic vesicle function.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "regulation of synaptic vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PRRT2 interacts with SNAP25 and synaptotagmin-1, which are involved in regulating synaptic vesicle fusion.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

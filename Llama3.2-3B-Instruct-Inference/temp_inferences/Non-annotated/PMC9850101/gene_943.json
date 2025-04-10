@@ -1,0 +1,33 @@
+{
+  "gene": "CD30",
+  "geneID": "943",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CD30 is a target for antibody-drug conjugates (ADCs), implying it is accessible on the cell surface.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CD30 is a receptor and a target for therapies, suggesting it has receptor activity.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD30-positive systemic mesenchymal large cell lymphoma treatment implies CD30's involvement in immune response.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "actin",
+  "geneID": "733615",
+  "go_data": [
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actin is a key component of the cytoskeleton and its interactions with myosins suggest a role in cytoskeleton organization.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Actin binds to myosins, as evidenced by the acto-CcXI and acto-CbXI-1 models and the footprint analyses of the actin-binding sites.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a component of the cytoskeleton, actin is located in the cytoplasm.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

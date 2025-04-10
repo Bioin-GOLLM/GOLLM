@@ -1,0 +1,42 @@
+{
+  "gene": "PD-L1",
+  "geneID": "29126",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PD-L1 can be expressed by cancer cells and by infiltrating immune cells at the cell surface.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "negative regulation of immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PD-L1 expression on tumor cells or immune cells contributes to T cell inhibition.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PD-L1 interacts with CMTM6 and CMTM4 as shown by co-immunoprecipitation.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "negatively_regulates",
+      "namespace": "molecular_function",
+      "justification": "CMTM6 protects PD-L1 from ubiquitination, suggesting that PD-L1 is a substrate for ubiquitin-protein transferase activity.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "DDX5",
+  "geneID": "1655",
+  "go_data": [
+    {
+      "term": "RNA metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DDX5 is associated with RNA metabolism.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

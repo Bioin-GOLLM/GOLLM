@@ -1,0 +1,33 @@
+{
+  "gene": "Rictor",
+  "geneID": "253260",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rictor cooperates with mTOR kinase to form the TORC2 complex.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": " TORC2 complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Rictor is a component of the rapamycin-insensitive TORC2 complex.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "insulin signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin/IGF1 signaling interferes with the mTOR kinase, which cooperates with Rictor in the TORC2 complex.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

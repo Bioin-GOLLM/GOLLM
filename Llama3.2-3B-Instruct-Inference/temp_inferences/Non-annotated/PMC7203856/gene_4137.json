@@ -1,0 +1,51 @@
+{
+  "gene": "tau",
+  "geneID": "4137",
+  "go_data": [
+    {
+      "term": "neurofibril tangle assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "tau tangle formation is mentioned as a key aspect of Alzheimer's disease progression.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "tau interacts with other proteins, such as microtubules, as part of its normal function.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "tau protein is primarily found in the cytosol of neurons.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "tau is a key component of neurons and plays a critical role in their function and survival.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "neurodegeneration",
+      "relationship": "contributes_to",
+      "namespace": "biological_process",
+      "justification": "tau pathology is a hallmark of neurodegenerative diseases such as Alzheimer's disease.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "PSME3",
+  "geneID": "10197",
+  "go_data": [
+    {
+      "term": "ubiquitin pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PSME3 is associated with the ubiquitin pathway.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

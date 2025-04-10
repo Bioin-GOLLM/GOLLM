@@ -1,0 +1,15 @@
+{
+  "gene": "Glis3",
+  "geneID": "226075",
+  "go_data": [
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Glis3 is differentially expressed in the context of thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

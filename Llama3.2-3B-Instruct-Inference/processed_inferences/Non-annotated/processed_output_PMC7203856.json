@@ -1,0 +1,302 @@
+[
+  {
+    "gene": "tau",
+    "geneID": "4137",
+    "go_data": [
+      {
+        "term": "neurofibrillary tangle assembly",
+        "go_id": "GO:1902988",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "tau tangle formation is mentioned as a key aspect of Alzheimer's disease progression.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "tau interacts with other proteins, such as microtubules, as part of its normal function.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "tau protein is primarily found in the cytosol of neurons.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "tau is a key component of neurons and plays a critical role in their function and survival.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "neuron apoptotic process",
+        "go_id": "GO:0051402",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "tau pathology is a hallmark of neurodegenerative diseases such as Alzheimer's disease.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Abeta",
+    "geneID": "351",
+    "go_data": [
+      {
+        "term": "amyloid fibril formation",
+        "go_id": "GO:1990000",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Abeta aggregation begins in a preclinical phase of Alzheimer's disease and rises over a decade.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "neuroinflammatory response",
+        "go_id": "GO:0150076",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Activated microglia are seen surrounding both Abeta plaques and dying neurones containing tau tangles.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "protein aggregate center",
+        "go_id": "GO:0140453",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Extracellular beta-amyloid (Abeta) fibrillar plaques are a hallmark of Alzheimer's disease.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "tau protein binding",
+        "go_id": "GO:0048156",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Abeta plaques are associated with tau tangle formation.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TNFalpha",
+    "geneID": "7124",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TNFalpha is described as a cytokine.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "disruption of tissue in another organism",
+        "go_id": "GO:0141062",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TNFalpha can cause or contribute to tissue damage and disease pathology.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "go_id": "GO:0005615",
+        "relationship": [
+          "part_of GO:0005576"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TNFalpha is released by the neurotoxic phenotype.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL1beta",
+    "geneID": "3553",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL1beta is released as a cytokine which can cause or contribute to tissue damage and disease pathology.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL1beta is a cytokine that contributes to tissue damage and disease pathology, indicating involvement in the inflammatory response.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Abeta",
+    "geneID": "11820",
+    "go_data": [
+      {
+        "term": "tau protein binding",
+        "go_id": "GO:0048156",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The link between Abeta and tau aggregation may involve activation of microglia, implying Abeta interacts with tau.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "microglial cell activation",
+        "go_id": "GO:0001774",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Soluble Abeta oligomers have been reported to activate microglial cells in a cell culture study.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "go_id": "GO:0005615",
+        "relationship": [
+          "part_of GO:0005576"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Abeta deposition is described, implying Abeta is found outside cells, in the extracellular space.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "translocator protein",
+    "geneID": "706",
+    "go_data": [
+      {
+        "term": "neuroinflammatory response",
+        "go_id": "GO:0150076",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TSPO signal is considered a marker of intrinsic neuroinflammation.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "vascular process in circulatory system",
+        "go_id": "GO:0003018",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TSPO is expressed by vascular endothelia.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "microglial cell proliferation",
+        "go_id": "GO:0061518",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Post-mortem studies suggest that the major TSPO signal comes from microglia in Alzheimer's disease.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "astrocyte projection",
+        "go_id": "GO:0097449",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TSPO is also expressed by activated astrocytes.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ApoE4",
+    "geneID": "348",
+    "go_data": [
+      {
+        "term": "lipid transport",
+        "go_id": "GO:0006869",
+        "relationship": [
+          "part_of GO:0010876"
+        ],
+        "namespace": "biological_process",
+        "justification": "ApoE4 is associated with lipid metabolism and transport, as implied by its name and the context of PiB uptake.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      },
+      {
+        "term": "plasma lipoprotein particle",
+        "go_id": "GO:0034358",
+        "relationship": [
+          "part_of GO:0005615"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ApoE is known to be a component of lipoprotein particles in the blood.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FACE",
+    "geneID": "2178",
+    "go_data": [
+      {
+        "term": "substrate-dependent cerebral cortex tangential migration",
+        "go_id": "GO:0021825",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FACE is used as a vector-based approach to localise significant inter-correlations between the different imaging markers of Alzheimer's pathology on the cortical surface.",
+        "reference(s)": [
+          "PMC7203856"
+        ]
+      }
+    ]
+  }
+]

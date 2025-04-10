@@ -1,0 +1,33 @@
+{
+  "gene": "TR",
+  "geneID": "2149",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TH induces molecular changes, implying TR is involved in thyroid hormone receptor activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "heart process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TR expression is increased in the myocardium, suggesting involvement in heart processes.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, TR is expected to be located in the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

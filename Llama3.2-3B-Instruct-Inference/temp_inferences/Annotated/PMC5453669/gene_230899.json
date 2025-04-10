@@ -1,0 +1,24 @@
+{
+  "gene": "ANF",
+  "geneID": "230899",
+  "go_data": [
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANF is identified alongside increases in BNP and alpha1-skeletal muscle actin, markers of pathological hypertrophy, suggesting a role in heart development or function.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "atrial cardiac muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANF expression is associated with cardiac hypertrophy, implying involvement in atrial cardiac muscle cell differentiation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "ORC6",
+  "geneID": "23594",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORC6 is a subunit of the origin recognition complex (ORC), which plays a crucial role in the initiation of DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a component of the ORC complex, ORC6 is expected to be localized to the nucleus where DNA replication occurs.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

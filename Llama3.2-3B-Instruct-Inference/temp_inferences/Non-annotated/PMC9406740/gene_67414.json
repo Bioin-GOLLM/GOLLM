@@ -1,0 +1,33 @@
+{
+  "gene": "mitofusin 1",
+  "geneID": "67414",
+  "go_data": [
+    {
+      "term": "mitochondrial fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Elevation of miR-142a-5p suppressed mitofusin 1 (MFN1), leading to mitochondrial dysfunction.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mitofusin 1 is involved in mitochondrial processes such as fusion and is associated with mitochondrial function.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Suppression of mitofusin 1 leads to elevated total BAX:BCL2, CASP9, and CASP3 activation, indicating a role in regulating apoptosis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

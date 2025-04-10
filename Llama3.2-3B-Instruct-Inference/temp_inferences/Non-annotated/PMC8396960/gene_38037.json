@@ -1,0 +1,33 @@
+{
+  "gene": "PYREXIA",
+  "geneID": "38037",
+  "go_data": [
+    {
+      "term": "temperature sensation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PYREXIA regulates antennal temperature signals.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "circadian rhythm regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PYREXIA synchronizes clock neurons in the brain to regulate the Drosophila circadian clock protein PERIOD.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "antennal nerve",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "PYREXIA is regulated by antennal temperature signals.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    }
+  ]
+}

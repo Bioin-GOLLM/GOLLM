@@ -1,0 +1,33 @@
+{
+  "gene": "glucagon",
+  "geneID": "2641",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Glucagon is used as a treatment for severe hypoglycaemia, indicating its role as a hormone.",
+      "reference(s)": [
+        "PMC9050729"
+      ]
+    },
+    {
+      "term": "response to hypoglycemia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Glucagon treatment is reported in the context of severe hypoglycaemic episodes, indicating its involvement in responding to hypoglycemia.",
+      "reference(s)": [
+        "PMC9050729"
+      ]
+    },
+    {
+      "term": "blood glucose regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Glucagon is used to treat hypoglycaemia, implying its role in regulating blood glucose levels.",
+      "reference(s)": [
+        "PMC9050729"
+      ]
+    }
+  ]
+}

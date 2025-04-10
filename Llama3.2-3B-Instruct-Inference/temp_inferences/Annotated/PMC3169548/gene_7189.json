@@ -1,0 +1,33 @@
+{
+  "gene": "TRAF6",
+  "geneID": "7189",
+  "go_data": [
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF6 is involved in manipulating innate immune signalling pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF6 is targeted by A52 and is involved in downstream signalling factors.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "Toll-like receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

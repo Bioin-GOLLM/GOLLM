@@ -1,0 +1,24 @@
+{
+  "gene": "Dia1",
+  "geneID": "13367",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dia1 is characterized by a cysteine-rich kinase-like domain.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "secretory pathway",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Dia1 localizes within the lumen of the secretory pathway.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

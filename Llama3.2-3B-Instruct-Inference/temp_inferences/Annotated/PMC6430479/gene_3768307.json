@@ -1,0 +1,24 @@
+{
+  "gene": "At2G12010",
+  "geneID": "3768307",
+  "go_data": [
+    {
+      "term": "ethylene biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "At2G12010 encodes ACC oxidase 3, which regulates the accumulation of ACC by its conversion into ethylene.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "1-aminocyclopropane-1-carboxylate oxidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "At2G12010 encodes ACC oxidase 3, which catalyzes the conversion of ACC into ethylene.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

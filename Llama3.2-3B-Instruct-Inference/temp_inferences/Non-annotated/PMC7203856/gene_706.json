@@ -1,0 +1,51 @@
+{
+  "gene": "translocator protein",
+  "geneID": "706",
+  "go_data": [
+    {
+      "term": "intrinsic neuroinflammation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TSPO signal is considered a marker of intrinsic neuroinflammation.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "blood vessel",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TSPO is expressed by vascular endothelia.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "choroid plexus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TSPO is expressed by the choroid plexus.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "microglial cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Post-mortem studies suggest that the major TSPO signal comes from microglia in Alzheimer's disease.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "astrocyte",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TSPO is also expressed by activated astrocytes.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

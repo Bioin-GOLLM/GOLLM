@@ -1,0 +1,784 @@
+[
+  {
+    "gene": "VAMP2",
+    "geneID": "6844",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "go_id": "GO:0000149",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "VAMP2 mediates fusion of synaptic vesicles to release neurotransmitters by binding with its partners syntaxin-1A and synaptosomal-associated protein 25 (SNAP25).",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 is essential for vesicular exocytosis and activity-dependent neurotransmitter release through the fusion of synaptic vesicles.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VAMP2 is a neuronal v-SNARE located on the vesicle membrane and is essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 mediates fusion of synaptic vesicles to release neurotransmitters.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neuron-neuron synaptic transmission",
+        "go_id": "GO:0007270",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "VAMP2 plays fundamental roles in vesicle fusion, neurotransmitter release, and vesicle endocytosis, exerting a complex influence on synaptic transmission.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "syntaxin-1A",
+    "geneID": "6804",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "go_id": "GO:0000149",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Syntaxin-1A binds to VAMP2 to mediate fusion of synaptic vesicles.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "Syntaxin-1A, together with VAMP2 and SNAP25, mediates fusion of synaptic vesicles to release neurotransmitters.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Syntaxin-1A is part of the binary complex with SNAP25 on the plasma membrane.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "synaptosomal-associated protein 25",
+    "geneID": "6616",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "SNAP25 assembles with VAMP2 and syntaxin-1A to mediate fusion of synaptic vesicles.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "SNAP25 mediates fusion of synaptic vesicles to release neurotransmitters.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "cell junction",
+        "go_id": "GO:0030054",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SNAP25 is involved in the fusion of synaptic vesicles at the synapse.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "SNAP25, together with VAMP2 and syntaxin-1A, mediates fusion of synaptic vesicles.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "go_id": "GO:0005886",
+        "relationship": [
+          "part_of GO:0071944"
+        ],
+        "namespace": "cellular_component",
+        "justification": "SNAP25 is part of the binary complex on the plasma membrane.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "v-SNARE",
+    "geneID": "10490",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "v-SNARE proteins assemble in a polarized manner with t-SNARE proteins to mediate membrane fusion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "v-SNARE is essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle membrane",
+        "go_id": "GO:0030672",
+        "relationship": [
+          "part_of GO:0008021"
+        ],
+        "namespace": "cellular_component",
+        "justification": "v-SNARE is found on the vesicle membrane.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "v-SNARE mediates membrane fusion, which is essential for neurotransmitter release and cell-cell signaling.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Munc13",
+    "geneID": "10497",
+    "go_data": [
+      {
+        "term": "regulation of vesicle fusion",
+        "go_id": "GO:0031338",
+        "relationship": [
+          "regulates GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "Munc13 is a key regulatory element at excitatory CNS synapses for Ca2+-regulated neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Munc13 regulates fusion of synaptic vesicles.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "synaptotagmin-1",
+    "geneID": "6857",
+    "go_data": [
+      {
+        "term": "calcium ion binding",
+        "go_id": "GO:0005509",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "synaptotagmin-1 is described as the primary Ca2+ sensor",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "regulation of vesicle fusion",
+        "go_id": "GO:0031338",
+        "relationship": [
+          "regulates GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "synaptotagmin-1 is mentioned as a key regulatory element for Ca2+-regulated neurotransmitter release",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "synaptotagmin-1 is associated with synaptic vesicle cycling and fusion",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP2",
+    "geneID": "100410194",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "Introduction of specific engineered mutations affecting its SNARE motif has been reported to alter vesicle fusion in vitro by impairing either formation of the SNARE complex.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle to endosome fusion",
+        "go_id": "GO:0016189",
+        "relationship": [
+          "part_of GO:0099532"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 encodes a neuronal v-SNARE essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VAMP2 encodes a neuronal v-SNARE essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Vamp2",
+    "geneID": "22318",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "Introduction of specific engineered mutations affecting its SNARE motif has been reported to alter vesicle fusion in vitro by impairing either formation of the SNARE complex.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "Introduction of specific engineered mutations affecting its SNARE motif has been reported to alter vesicle fusion in vitro.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Vamp2-/- mice present severely decreased rates of both spontaneous and Ca2+-triggered synaptic-vesicle fusion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 exerts a complex influence on synaptic transmission; it plays fundamental roles in vesicle fusion, neurotransmitter release, and vesicle endocytosis.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "go_id": "GO:0006897",
+        "relationship": [
+          "has_part GO:0006900",
+          "has_part GO:0010324"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 exerts a complex influence on synaptic transmission; it plays fundamental roles in vesicle fusion, neurotransmitter release, and vesicle endocytosis.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP2",
+    "geneID": "479491",
+    "go_data": [
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 plays fundamental roles in vesicle fusion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 plays fundamental roles in neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "endocytosis",
+        "go_id": "GO:0006897",
+        "relationship": [
+          "has_part GO:0006900",
+          "has_part GO:0010324"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 plays fundamental roles in vesicle endocytosis.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP2",
+    "geneID": "282116",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 is part of the SNARE complex and its variants affect the assembly and stability of the complex.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 is involved in vesicle fusion, and its variants affect the rate and extent of fusion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP2 is involved in neurotransmitter release, and its variants can impair this process.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "VAMP2 is a membrane protein involved in vesicle fusion and neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle membrane",
+        "go_id": "GO:0030672",
+        "relationship": [
+          "part_of GO:0008021"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VAMP2 is part of the synaptic vesicle membrane and plays a role in neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Munc18-1",
+    "geneID": "6812",
+    "go_data": [
+      {
+        "term": "SNARE binding",
+        "go_id": "GO:0000149",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Munc18-1 binds the C-terminal portion of the SNARE complex, modulating vesicle fusion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "regulation of SNARE complex assembly",
+        "go_id": "GO:0035542",
+        "relationship": [
+          "regulates GO:0035493"
+        ],
+        "namespace": "biological_process",
+        "justification": "Munc18-1 regulates trans-SNARE zippering, which is essential for synaptic exocytosis.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Munc18-1 is involved in synaptic exocytosis, implying its presence in synaptic vesicles.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "Munc18-1 is essential for Ca2+-triggered neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ca2+-sensor synaptotagmin-1",
+    "geneID": "760",
+    "go_data": [
+      {
+        "term": "calcium ion binding",
+        "go_id": "GO:0005509",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Ca2+-sensor synaptotagmin-1 is required for evoked synchronous fusion, indicating it binds to calcium ions.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "evoked neurotransmitter secretion",
+        "go_id": "GO:0061670",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Synaptotagmin-1 is required for evoked synchronous fusion, a process involved in synaptic transmission.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RIM",
+    "geneID": "22999",
+    "go_data": [
+      {
+        "term": "synaptic vesicle exocytosis",
+        "go_id": "GO:0016079",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007269",
+          "part_of GO:0099504"
+        ],
+        "namespace": "biological_process",
+        "justification": "RIM interacts with SNAP25 and synaptotagmin-1, which are involved in synaptic vesicle exocytosis.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "axon",
+        "go_id": "GO:0030424",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "RIM is involved in synaptic function, which occurs in the axon.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "RIM interacts with proteins involved in neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PNKD",
+    "geneID": "25953",
+    "go_data": [
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PNKD interacts with RIM, a protein involved in synaptic vesicle function.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "PNKD is associated with dyskinesias and seizures, suggesting a role in neurotransmitter release.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PRRT2",
+    "geneID": "112476",
+    "go_data": [
+      {
+        "term": "synaptic vesicle",
+        "go_id": "GO:0008021",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PRRT2 interacts with SNAP25 and synaptotagmin-1, which are involved in synaptic vesicle function.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "regulation of vesicle fusion",
+        "go_id": "GO:0031338",
+        "relationship": [
+          "regulates GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "PRRT2 interacts with SNAP25 and synaptotagmin-1, which are involved in regulating synaptic vesicle fusion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UNC13A",
+    "geneID": "23025",
+    "go_data": [
+      {
+        "term": "synaptic vesicle exocytosis",
+        "go_id": "GO:0016079",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007269",
+          "part_of GO:0099504"
+        ],
+        "namespace": "biological_process",
+        "justification": "UNC13A encodes the synaptic regulator Munc13-1, which is linked to increased neurotransmission.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "synapse",
+        "go_id": "GO:0045202",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "UNC13A is described as a synaptic regulator, indicating its presence at synapses.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "regulation of neurotransmitter secretion",
+        "go_id": "GO:0046928",
+        "relationship": [
+          "regulates GO:0007269"
+        ],
+        "namespace": "biological_process",
+        "justification": "Variants in UNC13A cause increased neurotransmission, indicating its role in regulating neurotransmitter secretion.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP1",
+    "geneID": "6843",
+    "go_data": [
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP1 encodes a protein involved in vesicle fusion mainly at neuromuscular synapses.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neuromuscular junction",
+        "go_id": "GO:0031594",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "VAMP1 is involved in vesicle fusion mainly at neuromuscular synapses.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "neuromuscular synaptic transmission",
+        "go_id": "GO:0007274",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mutations in VAMP1 lead to presynaptic congenital myasthenic syndrome with neurophysiological evidence of presynaptic neuromuscular transmission impairment.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      },
+      {
+        "term": "calcium ion-regulated exocytosis of neurotransmitter",
+        "go_id": "GO:0048791",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Synaptobrevin1/VAMP1 is involved in Ca2+-triggered neurotransmitter release at the neuromuscular junction.",
+        "reference(s)": [
+          "PMC6451933"
+        ]
+      }
+    ]
+  }
+]

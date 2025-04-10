@@ -1,0 +1,42 @@
+{
+  "gene": "calpain 1",
+  "geneID": "12333",
+  "go_data": [
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Calpain has an important role in muscle atrophy due to hindlimb suspension and sarcopenia.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "ubiquitin-proteasome pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Calpain 1 has a role in the ubiquitin-proteasome pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "anabolic process",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "Calpain 1 is involved in anabolic processes mediated by Akt-mTOR-p70S6K and MAPK-Erk (p90RSK) signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Calpain is a cytosolic protein.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

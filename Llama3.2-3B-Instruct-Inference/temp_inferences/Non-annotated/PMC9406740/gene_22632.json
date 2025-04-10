@@ -1,0 +1,33 @@
+{
+  "gene": "YinYang1",
+  "geneID": "22632",
+  "go_data": [
+    {
+      "term": "negative regulation of skeletal muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "YinYang1 is a negative regulator of myogenesis, inhibiting skeletal muscle cell differentiation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "transcriptional repressor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "YinYang1 works by blocking the synthesis of genes such as actin, creatine kinase, and myosin heavy chain IIb, indicating transcriptional repression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcriptional regulator, YinYang1 is expected to be located in the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

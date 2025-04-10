@@ -1,0 +1,33 @@
+{
+  "gene": "GINS1",
+  "geneID": "9837",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GINS1 is part of the replisome and its chromatin recruitment is necessary for DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GINS1 binds to chromatin, which is located in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "replisome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "GINS1 is a component of the replisome, which is involved in DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

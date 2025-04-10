@@ -1,0 +1,33 @@
+{
+  "gene": "LIG",
+  "geneID": "3093",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LIG motifs are involved in binding to various proteins, such as HCFC1 and GIGYF1.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cellular protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LIG motifs mediate binding between proteins, contributing to the assembly of protein complexes.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LIG motifs are found in proteins that are located in the cytoplasm, such as PSMC5 and SNRPB.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

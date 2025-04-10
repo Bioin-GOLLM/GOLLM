@@ -1,0 +1,23 @@
+{
+  "gene": "rhodopsin",
+  "geneID": "509933",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "A single amino acid substitution in rhodopsin prevents activation of transducin, indicating rhodopsin's role in G-protein coupled receptor activity.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreceptor cell differentiation",
+      "relationship": "involved_in",
+      "justification": "None found, however rhodopsin is known to be involved in photoreception, but the text does not explicitly state its involvement in photoreceptor cell differentiation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "Tshr",
+  "geneID": "22095",
+  "go_data": [
+    {
+      "term": "thyroid-stimulating hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Tshr is positively regulated by TSH.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "thyroid hormone synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tshr is one of the genes involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, Tshr is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

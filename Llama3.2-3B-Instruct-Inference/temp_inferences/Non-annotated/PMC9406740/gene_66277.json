@@ -1,0 +1,51 @@
+{
+  "gene": "Kruppel-like factor 15",
+  "geneID": "66277",
+  "go_data": [
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "KLF15 binds to the promoter region of the Il6 gene.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of Piezo 1 causes muscle atrophy through a signaling pathway involving KLF15.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, KLF15 localizes to the nucleus to regulate the expression of target genes.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of muscle protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "KLF15 promotes atrophy and is involved in the inhibition of the mTOR pathway, which derives from the inhibition of muscle protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "KLF15 is a transcription factor that regulates the expression of target genes, such as Il6.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

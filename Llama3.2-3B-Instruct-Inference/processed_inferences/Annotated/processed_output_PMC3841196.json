@@ -1,0 +1,630 @@
+[
+  {
+    "gene": "Alg10b",
+    "geneID": "380959",
+    "go_data": [
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The ALG10B protein is involved in the process of asparagine (N)-linked glycosylation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The enzymatic step catalyzed by the ALG10B protein during N-linked glycosylation is the addition of the last glucose molecule to the glycan 'tree' inside the endoplasmic reticulum (ER).",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "glucose metabolic process",
+        "go_id": "GO:0006006",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The ALG10B protein catalyzes the addition of the last glucose molecule to the glycan 'tree' during N-linked glycosylation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "go_id": "GO:0006486",
+        "relationship": [
+          "part_of GO:0009101"
+        ],
+        "namespace": "biological_process",
+        "justification": "The ALG10B protein is involved in the process of asparagine (N)-linked glycosylation, which is a type of protein glycosylation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "auditory behavior",
+        "go_id": "GO:0031223",
+        "relationship": [
+          "part_of GO:0010996"
+        ],
+        "namespace": "biological_process",
+        "justification": "A mutation in the Alg10b gene causes nonsyndromic hearing impairment in mice.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "A 20",
+    "geneID": "21929",
+    "go_data": []
+  },
+  {
+    "gene": "connexin-26",
+    "geneID": "14619",
+    "go_data": [
+      {
+        "term": "gap junction channel activity",
+        "go_id": "GO:0005243",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "BAAV mediated GJB2 gene transfer restores gap junction coupling in cochlear organotypic cultures",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "auditory behavior",
+        "go_id": "GO:0031223",
+        "relationship": [
+          "part_of GO:0010996"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mutations in the gene for connexin-26 are the most common genetic causes of congenital hearing impairment",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "cochlea development",
+        "go_id": "GO:0090102",
+        "relationship": [
+          "part_of GO:0048839"
+        ],
+        "namespace": "biological_process",
+        "justification": "EPs are substantially reduced in mice homozygous for targeted Gjb2 mutations in the cochlea",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vesicular glutamate transporter-3",
+    "geneID": "216227",
+    "go_data": [
+      {
+        "term": "L-glutamate transmembrane transport",
+        "go_id": "GO:0015813",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Vesicular glutamate transporter-3 is involved in transporting glutamate.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "cochlea development",
+        "go_id": "GO:0090102",
+        "relationship": [
+          "part_of GO:0048839"
+        ],
+        "namespace": "biological_process",
+        "justification": "Vesicular glutamate transporter-3 deficiency leads to congenital deafness.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Vesicular glutamate transporter-3 is associated with sensorineural cells in the inner ear.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ush1c",
+    "geneID": "72088",
+    "go_data": [
+      {
+        "term": "auditory behavior",
+        "go_id": "GO:0031223",
+        "relationship": [
+          "part_of GO:0010996"
+        ],
+        "namespace": "biological_process",
+        "justification": "An antisense oligonucleotide rescues the mutant phenotype of deafness in mice with an Ush1c mutation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "visual perception",
+        "go_id": "GO:0007601",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "An antisense oligonucleotide rescues the mutant phenotype of blindness in mice with an Ush1c mutation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "chromodomain helicase DNA-binding protein-7",
+    "geneID": "320790",
+    "go_data": [
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Chd7 is described as a chromodomain helicase DNA-binding protein.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "helicase activity",
+        "go_id": "GO:0004386",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Chd7 is described as a chromodomain helicase DNA-binding protein.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "N10",
+    "geneID": "15370",
+    "go_data": []
+  },
+  {
+    "gene": "Cpne8",
+    "geneID": "66871",
+    "go_data": []
+  },
+  {
+    "gene": "prestin",
+    "geneID": "104245",
+    "go_data": [
+      {
+        "term": "hair cell differentiation",
+        "go_id": "GO:0035315",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Prestin staining pattern is altered in outer hair cells of homozygous mutant animals, suggesting a role in outer hair cell development or maintenance.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Prestin is typically associated with the cell membrane in outer hair cells.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG10B",
+    "geneID": "144245",
+    "go_data": [
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ALG10B is part of the N-linked glycosylation pathway.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "N-linked glycosylation occurs in the endoplasmic reticulum, and ALG10B is involved in this process.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "glycosyltransferase activity",
+        "go_id": "GO:0016757",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ALG10B is predicted to produce a full-length protein with potential glycosyltransferase activity.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG10A",
+    "geneID": "84920",
+    "go_data": [
+      {
+        "term": "dolichyl-phosphate-mannose-protein mannosyltransferase activity",
+        "go_id": "GO:0004169",
+        "relationship": [
+          "part_of GO:0035269"
+        ],
+        "namespace": "molecular_function",
+        "justification": "ALG10A is predicted to produce a full-length protein, which is likely involved in the mannosylation of proteins.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a mannosyltransferase, ALG10A is likely located in the endoplasmic reticulum, where protein glycosylation occurs.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "glucosidase I",
+    "geneID": "57377",
+    "go_data": [
+      {
+        "term": "alpha-glucosidase activity",
+        "go_id": "GO:0090599",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "glucosidase I immediately cleaves the glucose molecule from the glycan tree",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "go_id": "GO:0006486",
+        "relationship": [
+          "part_of GO:0009101"
+        ],
+        "namespace": "biological_process",
+        "justification": "glucosidase I is involved in N-linked glycosylation by cleaving glucose from the glycan tree",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "glucosidase I acts on the glycan tree inside the endoplasmic reticulum",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CWH41",
+    "geneID": "852857",
+    "go_data": [
+      {
+        "term": "glucosidase activity",
+        "go_id": "GO:0015926",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CWH41 encodes glucosidase I, which cleaves the glucose molecule from the glycan tree.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "go_id": "GO:0006486",
+        "relationship": [
+          "part_of GO:0009101"
+        ],
+        "namespace": "biological_process",
+        "justification": "CWH41 is involved in N-linked glycosylation by encoding glucosidase I, which cleaves glucose from the glycan tree.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The enzymatic step catalyzed by glucosidase I occurs inside the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG6",
+    "geneID": "320438",
+    "go_data": [
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The ALG6 gene appears to be involved in the N-linked glycosylation pathway, as deletion of a related gene in yeast does not completely abolish this process.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG8",
+    "geneID": "381903",
+    "go_data": [
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The ALG6, ALG8, and ALG10B genes all appear to share a common ancestor, which could explain the redundancy in the N-linked glycosylation pathway.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG6",
+    "geneID": "854163",
+    "go_data": [
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ALG6 has functional overlap with ALG10B and ALG8 proteins in the N-linked glycosylation pathway.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG8",
+    "geneID": "854233",
+    "go_data": [
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ALG8 protein has functional overlap with ALG6 and ALG10B proteins in N-linked glycosylation pathway.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GJB2",
+    "geneID": "2706",
+    "go_data": [
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GJB2 is involved in cell-cell signaling as a gap junction protein.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "gap junction",
+        "go_id": "GO:0005921",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "GJB2 is a component of gap junctions, which are intercellular channels.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GJB6",
+    "geneID": "10804",
+    "go_data": [
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GJB6 is related to GJB2, which is involved in cell-cell signaling through gap junctions.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Atoh1",
+    "geneID": "11921",
+    "go_data": [
+      {
+        "term": "neurogenesis",
+        "go_id": "GO:0022008",
+        "relationship": [
+          "part_of GO:0007399"
+        ],
+        "namespace": "biological_process",
+        "justification": "Atoh1 gene therapy is used for auditory hair cell replacement, implying involvement in neural cell generation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "inner ear development",
+        "go_id": "GO:0048839",
+        "relationship": [
+          "part_of GO:0043583"
+        ],
+        "namespace": "biological_process",
+        "justification": "Atoh1 gene therapy is used for auditory hair cell replacement in deaf mammals, indicating a role in inner ear development.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STT3",
+    "geneID": "852862",
+    "go_data": [
+      {
+        "term": "oligosaccharyl transferase activity",
+        "go_id": "GO:0004576",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "STT3 is required for yeast oligosaccharyl transferase activity in vivo",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ALG10",
+    "geneID": "853142",
+    "go_data": [
+      {
+        "term": "glucosyltransferase activity",
+        "go_id": "GO:0046527",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The ALG10 locus encodes the alpha-1,2 glucosyltransferase of the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The ALG10 locus encodes the alpha-1,2 glucosyltransferase of the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "protein N-linked glycosylation",
+        "go_id": "GO:0006487",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The terminal glucose of the lipid-linked oligosaccharide is required for efficient N-linked glycosylation.",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Tailchaser",
+    "geneID": "17920",
+    "go_data": [
+      {
+        "term": "hair cell differentiation",
+        "go_id": "GO:0035315",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Tailchaser mutation affects hair bundle differentiation",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "BETA2",
+    "geneID": "18012",
+    "go_data": [
+      {
+        "term": "cochlea development",
+        "go_id": "GO:0090102",
+        "relationship": [
+          "part_of GO:0048839"
+        ],
+        "namespace": "biological_process",
+        "justification": "Altered traveling wave propagation and reduced endocochlear potential associated with cochlear dysplasia in the BETA2/NeuroD1 null mouse",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      },
+      {
+        "term": "inner ear morphogenesis",
+        "go_id": "GO:0042472",
+        "relationship": [
+          "part_of GO:0042471",
+          "part_of GO:0048839"
+        ],
+        "namespace": "biological_process",
+        "justification": "Altered traveling wave propagation and reduced endocochlear potential associated with cochlear dysplasia in the BETA2/NeuroD1 null mouse",
+        "reference(s)": [
+          "PMC3841196"
+        ]
+      }
+    ]
+  }
+]

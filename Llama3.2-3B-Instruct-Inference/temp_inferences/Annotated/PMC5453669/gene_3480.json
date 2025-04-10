@@ -1,0 +1,15 @@
+{
+  "gene": "IGFR",
+  "geneID": "3480",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IGFR is mentioned in relation to the IGF1/IGFR system, implying it has receptor activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

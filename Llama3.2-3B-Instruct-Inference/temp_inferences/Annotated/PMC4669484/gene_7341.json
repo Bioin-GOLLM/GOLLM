@@ -1,0 +1,33 @@
+{
+  "gene": "SUMO-1",
+  "geneID": "7341",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SUMO-1 is reactive with Stx1A, indicating a direct interaction.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "neuronal process",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SUMO-1 immunoreactivity increases in neuronal processes upon 30 mM KCl treatment.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "protein sumoylation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SUMO-1 can conjugate to lysine residues near the C-terminal transmembrane domain of Stx1A.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    }
+  ]
+}

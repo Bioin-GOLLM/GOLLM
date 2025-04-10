@@ -1,0 +1,42 @@
+{
+  "gene": "IR8a",
+  "geneID": "31867",
+  "go_data": [
+    {
+      "term": "ionotropic glutamate receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IR8a acts as a coreceptor in combinations of up to three subunits in insect chemosensation.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "olfactory receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IR8a is involved in insect chemosensation and is expressed in olfactory tissues.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "detection of chemical stimulus involved in sensory perception of smell",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IR8a is necessary and sufficient for sensitivity towards organic acids and other odors.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "olfactory sensory neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "IR8a is expressed in one to three OSNs underneath basiconic sensilla.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    }
+  ]
+}

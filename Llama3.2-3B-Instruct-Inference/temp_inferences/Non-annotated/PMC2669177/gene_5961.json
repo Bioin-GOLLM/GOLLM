@@ -1,0 +1,33 @@
+{
+  "gene": "retinal degeneration slow",
+  "geneID": "5961",
+  "go_data": [
+    {
+      "term": "photoreceptor outer segment",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "RDS is critical for photoreceptor disc rim assembly, outer segment orientation, photoreceptor structural stability, and OS disc renewal.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RDS is photoreceptor-specific and is critical for photoreceptor structural stability.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RDS is necessary for proper photoreceptor maintenance and is decreased in the rds +/- retina.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

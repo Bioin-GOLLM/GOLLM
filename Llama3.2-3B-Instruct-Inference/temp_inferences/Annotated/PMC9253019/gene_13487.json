@@ -1,0 +1,42 @@
+{
+  "gene": "chloride anion exchanger",
+  "geneID": "13487",
+  "go_data": [
+    {
+      "term": "chloride transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A7 was identified as a chloride anion exchanger in the kidneys and stomach.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "anion transmembrane transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SLC26A7 functions as a chloride anion exchanger.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "kidney",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "SLC26A7 was identified as a chloride anion exchanger in the kidneys.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "stomach",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "SLC26A7 was identified as a chloride anion exchanger in the stomach.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

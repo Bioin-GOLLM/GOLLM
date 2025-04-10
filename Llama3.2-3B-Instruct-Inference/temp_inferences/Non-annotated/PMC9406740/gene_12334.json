@@ -1,0 +1,15 @@
+{
+  "gene": "m-calpain",
+  "geneID": "12334",
+  "go_data": [
+    {
+      "term": "myogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Specific knockdown of m-calpain blocks myogenesis",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

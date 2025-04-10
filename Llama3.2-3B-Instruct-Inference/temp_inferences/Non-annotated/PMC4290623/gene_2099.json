@@ -1,0 +1,51 @@
+{
+  "gene": "estrogen receptor",
+  "geneID": "2099",
+  "go_data": [
+    {
+      "term": "estrogen receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The estrogen receptor acts as an agonist for compounds like DES, indicating its role in estrogen receptor activity.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "receptor-mediated endocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, however 'estrogen receptor activity' implies involvement in a signaling process.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "None found, however typical of many receptors that function in signal transduction.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, however 'estrogen receptor activity' implies involvement in signal transduction.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "steroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Estrogen receptor is activated by estrogen, a steroid hormone.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

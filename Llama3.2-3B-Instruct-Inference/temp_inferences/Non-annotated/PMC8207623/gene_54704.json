@@ -1,0 +1,33 @@
+{
+  "gene": "pyruvate dehydrogenase",
+  "geneID": "54704",
+  "go_data": [
+    {
+      "term": "pyruvate dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "pyruvate dehydrogenase (PDH) activity is reduced by hypertriglyceridemia and fatty acid-induced decrease.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    },
+    {
+      "term": "glucose metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "pyruvate dehydrogenase limits insulin-stimulated glucose utilization by reducing glucose oxidation.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Pyruvate dehydrogenase is known to be located in the mitochondrion, although not explicitly stated in the text, this is a well established fact.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    }
+  ]
+}

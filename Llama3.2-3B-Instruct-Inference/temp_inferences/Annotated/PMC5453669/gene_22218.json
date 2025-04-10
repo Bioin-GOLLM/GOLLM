@@ -1,0 +1,24 @@
+{
+  "gene": "SUMO1",
+  "geneID": "22218",
+  "go_data": [
+    {
+      "term": "protein sumoylation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SUMO1 is involved in SUMOylation of proteins such as TRalpha and TRbeta.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO1 modification is reported in T3-dependent gene regulation, closely matching TR activity and cofactor recruitment to the TRE in ChIP assays.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

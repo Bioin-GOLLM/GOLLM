@@ -1,0 +1,42 @@
+{
+  "gene": "TIE2",
+  "geneID": "21687",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Angpt2 knockout mice have normal embryonal vascular development, but disrupted postnatal angiogenic remodelling, indicating TIE2's role in angiogenesis.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "blood vessel formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Homozygous LOF of ANGPT1 and TEK is expected to be embryonically lethal in humans, as in mice, due to defective blood vessel formation.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "venous blood vessel morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Somatic mutations in angiopoietin receptor gene TEK cause solitary and multiple sporadic venous malformations.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TIE2 is an angiopoietin receptor, indicating its role as a receptor.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

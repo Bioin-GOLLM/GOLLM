@@ -1,0 +1,15 @@
+{
+  "gene": "BCL2",
+  "geneID": "596",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BCL2 interacts with adenovirus E1B 19 kDa protein",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

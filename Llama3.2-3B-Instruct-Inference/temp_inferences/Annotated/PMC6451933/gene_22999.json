@@ -1,0 +1,33 @@
+{
+  "gene": "RIM",
+  "geneID": "22999",
+  "go_data": [
+    {
+      "term": "synaptic vesicle exocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RIM interacts with SNAP25 and synaptotagmin-1, which are involved in synaptic vesicle exocytosis.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "axon",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RIM is involved in synaptic function, which occurs in the axon.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neurotransmitter secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RIM interacts with proteins involved in neurotransmitter release.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

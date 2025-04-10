@@ -1,0 +1,33 @@
+{
+  "gene": "Doa10p",
+  "geneID": "854781",
+  "go_data": [
+    {
+      "term": "ubiquitin protein ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Doa10p is described as the E3 ubiquitin ligase of the ERAD-C pathway.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Doa10p is part of the ERAD-C pathway, which is associated with the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Doa10p is part of the ERAD-C pathway, which is involved in protein ubiquitination.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "gene": "POF1",
+  "geneID": "850310",
+  "go_data": [
+    {
+      "term": "ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pof1p displayed ATPase activity, with catalytic efficiency comparable to other ATPases involved in endoplasmic reticulum-associated degradation of proteins (ERAD).",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein quality control",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pof1p is involved in the regulation of protein degradation, and its absence results in increased sensitivity to stress agents.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum-associated protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pof1p interacts with Ubc7p, a component of the ERAD pathway, and is important in the unfolded protein response.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "Golgi apparatus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Pof1p shows a punctuated distribution in cells, similar to proteins localized in the Golgi compartment.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "response to oxidative stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Deltapof1 cells are highly sensitive to oxidative stress agents, such as hydrogen peroxide and tert-butyl hydroperoxide.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "response to heat",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Overexpression of POF1 suppresses the sensitivity of Deltapct1 strain to heat shock.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pof1p interacts with Ubc7p, an ubiquitin conjugating enzyme, and may be involved in substrate recognition during ubiquitin marking.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

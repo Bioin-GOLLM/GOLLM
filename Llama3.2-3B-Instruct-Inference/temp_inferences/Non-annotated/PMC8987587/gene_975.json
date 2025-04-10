@@ -1,0 +1,15 @@
+{
+  "gene": "CD81",
+  "geneID": "975",
+  "go_data": [
+    {
+      "term": "exosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CD81 is a known exosome marker.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

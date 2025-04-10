@@ -1,0 +1,33 @@
+{
+  "gene": "focal adhesion kinase",
+  "geneID": "14083",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Focal adhesion kinase is found in focal adhesion complexes.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Focal adhesion kinase is a substrate of calpain, which has motility-related substrates, implying involvement in cell migration.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Focal adhesion kinase is implied to have kinase activity as it is referred to as a 'kinase'.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

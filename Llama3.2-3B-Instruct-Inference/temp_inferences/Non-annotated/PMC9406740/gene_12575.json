@@ -1,0 +1,24 @@
+{
+  "gene": "p21",
+  "geneID": "12575",
+  "go_data": [
+    {
+      "term": "negative regulation of muscle mass",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "inhibition of p21 transcription factor can avoid the loss of muscle mass",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "ubiquitin-proteasome system",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "p21 is related to the ubiquitin-proteasome system as one of the targets",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

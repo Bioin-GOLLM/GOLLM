@@ -1,0 +1,51 @@
+{
+  "gene": "retinal degeneration slow",
+  "geneID": "19133",
+  "go_data": [
+    {
+      "term": "photoreceptor outer segment",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "RDS is critical for photoreceptor disc rim assembly, outer segment orientation, photoreceptor structural stability, and OS disc renewal.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RDS expression and localization to the distal connecting cilium in the mouse rod photoreceptor cell begin around postnatal day 5, before OS formation.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Expression of at least 80% of the normal amount of RDS is necessary in order to build proper photoreceptor OSs.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RDS is known to form homomeric complexes as well as heteromeric complexes with a related tetraspanin protein, rod outer segment membrane protein 1 (ROM-1).",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "integral component of membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "RDS is a tetraspanin glycoprotein.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

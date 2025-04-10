@@ -1,0 +1,33 @@
+{
+  "gene": "growth hormone secretagogue receptor",
+  "geneID": "208188",
+  "go_data": [
+    {
+      "term": "G protein-coupled receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Growth hormone secretagogue receptor is a G protein-coupled receptor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "growth hormone secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Growth hormone secretagogue receptor synthetic agonists have been tested for cancer cachexia atrophy, implying involvement in growth hormone secretion regulation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a G protein-coupled receptor, growth hormone secretagogue receptor is typically located in the plasma membrane.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

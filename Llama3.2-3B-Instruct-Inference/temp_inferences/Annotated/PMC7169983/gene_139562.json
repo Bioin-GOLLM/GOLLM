@@ -1,0 +1,24 @@
+{
+  "gene": "OTUD6A",
+  "geneID": "139562",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "OTUD6A participates in the apoptosis pathway.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "transcriptional activation",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "OTUD6A exerts an apoptosis sensitization function via transcriptional activation.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

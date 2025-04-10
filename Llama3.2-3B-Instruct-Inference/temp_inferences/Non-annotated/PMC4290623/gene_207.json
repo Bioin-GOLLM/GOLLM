@@ -1,0 +1,24 @@
+{
+  "gene": "serine/threonine-protein kinase",
+  "geneID": "207",
+  "go_data": [
+    {
+      "term": "protein serine/threonine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The gene is described as a serine/threonine-protein kinase, indicating its kinase activity.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a serine/threonine-protein kinase, it is involved in the process of protein phosphorylation.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "TNRC6C",
+  "geneID": "57690",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TNRC6C binds to the GYF domain of GIGYF1 through a motif of sequence PPPGL.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

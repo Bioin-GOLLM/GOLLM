@@ -1,0 +1,24 @@
+{
+  "gene": "CMPK1",
+  "geneID": "51727",
+  "go_data": [
+    {
+      "term": "cytidine monophosphate phosphorylation",
+      "relationship": "catalyzes",
+      "namespace": "molecular_function",
+      "justification": "CMPK1 is involved in cytidine monophosphate kinase activity",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "immune system regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMPK1 is involved in immune regulation through type I interferon pathway",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

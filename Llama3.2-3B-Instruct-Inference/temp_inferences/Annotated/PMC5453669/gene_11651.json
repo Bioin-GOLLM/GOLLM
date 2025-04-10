@@ -1,0 +1,42 @@
+{
+  "gene": "Akt",
+  "geneID": "11651",
+  "go_data": [
+    {
+      "term": "cell survival",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 activates pro-survival pathways including Akt.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "heart process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Treatment with T3 after myocardial infarction is cardioprotective and promotes elements of physiological hypertrophic response after cardiac injury, activating pro-survival pathways including Akt.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "intracellular signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Akt is activated by T3, indicating involvement in intracellular signal transduction pathways.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Akt is a protein kinase.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

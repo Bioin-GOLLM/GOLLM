@@ -1,0 +1,24 @@
+{
+  "gene": "ROMO1",
+  "geneID": "140823",
+  "go_data": [
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ROMO1 is a constituent of the human presequence translocase required for YME1L protease import",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ROMO1 is part of the TIM23-PAM import system in mitochondria",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

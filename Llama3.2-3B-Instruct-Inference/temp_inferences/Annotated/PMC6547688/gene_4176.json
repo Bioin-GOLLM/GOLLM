@@ -1,0 +1,33 @@
+{
+  "gene": "MCM7",
+  "geneID": "4176",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Chromatin unloading of the replicative helicase at the end of replication involves K48-linked MCM7 poly-ubiquitylation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Chromatin unloading of the replicative helicase at the end of replication involves K48-linked MCM7 poly-ubiquitylation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MCM7 is involved in DNA replication, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

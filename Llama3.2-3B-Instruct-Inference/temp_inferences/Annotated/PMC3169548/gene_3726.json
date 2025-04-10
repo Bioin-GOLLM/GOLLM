@@ -1,0 +1,24 @@
+{
+  "gene": "AP-1",
+  "geneID": "3726",
+  "go_data": [
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AP-1 transcription factor family induces the transcription of the IFN-beta promoter.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AP-1 transcription factor family induces the transcription of the IFN-beta promoter.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

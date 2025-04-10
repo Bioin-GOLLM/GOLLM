@@ -1,0 +1,24 @@
+{
+  "gene": "TH",
+  "geneID": "25085",
+  "go_data": [
+    {
+      "term": "catecholamine biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TH is involved in physiological hypertrophy",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cellular response to thyroid hormone stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "T3 induced cardiomyocyte hypertrophy",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

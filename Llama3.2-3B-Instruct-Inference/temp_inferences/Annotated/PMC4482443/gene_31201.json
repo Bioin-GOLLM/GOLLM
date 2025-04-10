@@ -1,0 +1,33 @@
+{
+  "gene": "vinculin",
+  "geneID": "31201",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vinculin links the sarcomere to the ECM, suggesting involvement in cell adhesion.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "sarcomere",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Vinculin links the sarcomere to the ECM, indicating it is part of the sarcomere.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "interacts_with",
+      "namespace": "cellular_component",
+      "justification": "Vinculin links the sarcomere to the ECM, indicating interaction with the ECM.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

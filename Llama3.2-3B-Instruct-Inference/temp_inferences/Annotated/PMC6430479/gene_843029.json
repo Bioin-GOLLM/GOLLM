@@ -1,0 +1,33 @@
+{
+  "gene": "RBCS1A",
+  "geneID": "843029",
+  "go_data": [
+    {
+      "term": "photosynthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RBCS1A is a component of photosystem I, which is involved in photosynthesis.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "thylakoid",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a component of photosystem I, RBCS1A is likely located in the thylakoid.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "chloroplast",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RBCS1A is a component of photosystem I, which is located in the chloroplast.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

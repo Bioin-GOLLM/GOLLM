@@ -1,0 +1,42 @@
+{
+  "gene": "TRalpha1",
+  "geneID": "104218",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRalpha1 stimulates growth in cardiomyocytes in response to T3.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRalpha1 localizes to the nucleus, where its activity is regulated by MuRF1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of cardiomyocyte hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRalpha1 activity is inhibited by MuRF1, which in turn inhibits T3-induced cardiomyocyte hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "response to ischemia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Acute T3 treatment protects the heart against ischemia-reperfusion injury via TRalpha1 receptor.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

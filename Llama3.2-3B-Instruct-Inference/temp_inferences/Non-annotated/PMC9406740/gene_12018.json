@@ -1,0 +1,24 @@
+{
+  "gene": "Bak",
+  "geneID": "12018",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Bax- and Bax/Bak-knockout attenuates muscle atrophy and a number of the mitochondrial apoptotic changes that occur with denervation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Elevated total and mitochondrial BAX, altered total BCL2, and CASP9 activation are observed during muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "PR2",
+  "geneID": "824893",
+  "go_data": [
+    {
+      "term": "defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PR2 is a pathogenesis-related gene, which implies involvement in defense response.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "SMAD4",
+  "geneID": "4089",
+  "go_data": [
+    {
+      "term": "transforming growth factor beta receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SMAD4 is a crucial protein in the TGFbeta/SMAD signaling pathway.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein heterodimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SMAD4 interacts with SMAD3 and SMAD9.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

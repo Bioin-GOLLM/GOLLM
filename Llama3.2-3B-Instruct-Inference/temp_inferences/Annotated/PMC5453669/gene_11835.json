@@ -1,0 +1,33 @@
+{
+  "gene": "androgen receptor",
+  "geneID": "11835",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Androgen receptor is targeted to the nucleus for transcriptional activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "transcription regulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Androgen receptor transcriptional activity is required in prostate cancer cells.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Androgen receptor is targeted to the proteasome in the absence of ligand.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

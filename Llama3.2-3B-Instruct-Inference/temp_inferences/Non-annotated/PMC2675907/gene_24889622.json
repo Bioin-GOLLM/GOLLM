@@ -1,0 +1,33 @@
+{
+  "gene": "TATA-box binding protein",
+  "geneID": "24889622",
+  "go_data": [
+    {
+      "term": "transcription initiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Archaeal transcription initiation requires only two accessory proteins bound to DNA: transcription factor B (TFB) and TATA-box binding protein (TBP).",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TATA-box binding protein (TBP) binds to DNA as part of the transcription initiation process.",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated for this gene, however, given that the organism is an archaeon, the equivalent would be 'cell', but since the specific cellular component is not mentioned, this term is not applicable.",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    }
+  ]
+}

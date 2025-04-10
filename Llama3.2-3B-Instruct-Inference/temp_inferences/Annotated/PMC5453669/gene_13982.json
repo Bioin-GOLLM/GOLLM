@@ -1,0 +1,33 @@
+{
+  "gene": "estrogen receptor",
+  "geneID": "13982",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Estrogen receptor is mentioned in the context of nuclear export, implying it is located in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Estrogen receptor interacts with CRM1, a subunit of the nuclear export apparatus, and BRCA1 ubiquitin ligase, indicating protein binding activity.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Estrogen receptor is known to regulate gene expression, and its activity is inhibited by mono-ubiquitination, suggesting involvement in transcription regulation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

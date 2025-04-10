@@ -1,0 +1,24 @@
+{
+  "gene": "FGA",
+  "geneID": "2243",
+  "go_data": [
+    {
+      "term": "blood coagulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FGA protein modulates blood coagulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "fibrinogen complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "FGA is a component of the fibrinogen complex, which plays a role in blood coagulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

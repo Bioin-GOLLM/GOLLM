@@ -1,0 +1,24 @@
+{
+  "gene": "PHB",
+  "geneID": "5245",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PHB is a member of the prohibitin-stomatin family of membrane scaffold proteins, which are associated with the mitochondrial inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PHB copurified with core subunits of the TIM23 complex, suggesting an interaction between PHB and the TIM23 complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

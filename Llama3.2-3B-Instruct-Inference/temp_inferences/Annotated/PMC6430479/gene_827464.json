@@ -1,0 +1,33 @@
+{
+  "gene": "ERF1a",
+  "geneID": "827464",
+  "go_data": [
+    {
+      "term": "DNA-binding transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ERF1a is a member of the AP2/ERF superfamily of transcription factors, which bind DNA at an AGCCGCC motif (GCC-box) in promoter regions of the target genes.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, ERF1a localizes to the nucleus to regulate the expression of target genes.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "regulation of transcription, DNA-templated",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERF1a, as a transcription factor, is involved in regulating the expression of target genes by binding to their promoter regions.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

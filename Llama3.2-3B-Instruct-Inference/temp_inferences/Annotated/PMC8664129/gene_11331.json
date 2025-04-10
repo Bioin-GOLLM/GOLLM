@@ -1,0 +1,24 @@
+{
+  "gene": "PHB2",
+  "geneID": "11331",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PHB2 is a member of the prohibitin-stomatin family of membrane scaffold proteins, which are associated with the mitochondrial inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "PHB2 is assigned to protein complexes, to which they had not been linked before, as revealed by complexome analysis.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

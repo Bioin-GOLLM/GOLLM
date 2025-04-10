@@ -1,0 +1,33 @@
+{
+  "gene": "ERK",
+  "geneID": "26413",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERK is involved in the signaling pathway affected by thyroid hormone.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiac muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thyroid hormone changes cardiomyocyte shape and geometry via ERK signaling pathway.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "thyroid hormone signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERK signaling pathway is potentially involved in the dose-dependent effects of thyroid hormone.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

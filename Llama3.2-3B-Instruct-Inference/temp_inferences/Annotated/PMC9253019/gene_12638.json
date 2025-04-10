@@ -1,0 +1,15 @@
+{
+  "gene": "Cftr",
+  "geneID": "12638",
+  "go_data": [
+    {
+      "term": "iodide transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cftr is listed among genes involved in iodide transport.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "ClC-2",
+  "geneID": "12724",
+  "go_data": [
+    {
+      "term": "anion channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ClC-2 is described as an anion channel.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "chloride transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ClC-2 is mentioned as participating in Cl- transport in Reissner's membrane epithelial cells.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an anion channel, ClC-2 is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

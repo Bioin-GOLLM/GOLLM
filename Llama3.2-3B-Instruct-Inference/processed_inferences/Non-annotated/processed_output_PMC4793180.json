@@ -1,0 +1,195 @@
+[
+  {
+    "gene": "adrenocorticotropic hormone",
+    "geneID": "5443",
+    "go_data": [
+      {
+        "term": "peptide hormone secretion",
+        "go_id": "GO:0030072",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The compensatory secretion of adrenocorticotropic hormone (ACTH) from the pituitary may reach a level high enough to cause hypertrophy and hyperplasia of the testicular adrenal-derived cells.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "cell surface receptor signaling pathway",
+        "go_id": "GO:0007166",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The presence of abnormal, residual adrenal cells leads to the development of testicular adrenal rest tumors (TARTs) due to insufficient endocrine regulation, involving ACTH secretion.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "neurohypophyseal hormone activity",
+        "go_id": "GO:0005185",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The compensatory secretion of pituitary ACTH may reach a sufficiently high level to cause hyperplasia of testicular adrenal-derived cells.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "adrenal gland development",
+        "go_id": "GO:0030325",
+        "relationship": [
+          "part_of GO:0035270"
+        ],
+        "namespace": "biological_process",
+        "justification": "Congenital adrenal hyperplasia (CAH) comprises a group of autosomal recessive genetic disorders affecting cortisol (CO) synthesis in the adrenal glands, resulting in a compensatory increase in the secretion of adrenocorticotropic hormone (ACTH).",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "regulation of hormone secretion",
+        "go_id": "GO:0046883",
+        "relationship": [
+          "regulates GO:0046879"
+        ],
+        "namespace": "biological_process",
+        "justification": "The secretion of ACTH was inhibited by glucocorticoid replacement therapy, which compensated for the lack of cortisol (CO).",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CYP21A2",
+    "geneID": "1589",
+    "go_data": [
+      {
+        "term": "steroid hydroxylase activity",
+        "go_id": "GO:0008395",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The CYP21A2 gene is responsible for the production of 21-OH.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "adrenal gland development",
+        "go_id": "GO:0030325",
+        "relationship": [
+          "part_of GO:0035270"
+        ],
+        "namespace": "biological_process",
+        "justification": "Mutations in the CYP21A2 gene lead to adrenal insufficiencies.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a cytochrome P450 enzyme, CYP21A2 is typically located in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "steroid biosynthetic process",
+        "go_id": "GO:0006694",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The CYP21A2 gene is involved in the production of steroids, specifically 21-hydroxylase.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha-fetoprotein",
+    "geneID": "174",
+    "go_data": []
+  },
+  {
+    "gene": "carcinoembryonic antigen",
+    "geneID": "1084",
+    "go_data": []
+  },
+  {
+    "gene": "prolactin",
+    "geneID": "5617",
+    "go_data": [
+      {
+        "term": "hormone activity",
+        "go_id": "GO:0005179",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Prolactin is listed among other hormones, implying it has hormone activity.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "blood circulation",
+        "go_id": "GO:0008015",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Prolactin levels were checked in the patient, implying it is present in the blood.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "hCG",
+    "geneID": "93659",
+    "go_data": [
+      {
+        "term": "hormone activity",
+        "go_id": "GO:0005179",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "hCG is mentioned alongside other hormones such as FSH, LH, and prolactin.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "vimentin",
+    "geneID": "7431",
+    "go_data": [
+      {
+        "term": "intermediate filament",
+        "go_id": "GO:0005882",
+        "relationship": [
+          "part_of GO:0045111"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Vimentin is a type of intermediate filament protein.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      },
+      {
+        "term": "mesenchyme development",
+        "go_id": "GO:0060485",
+        "relationship": [
+          "part_of GO:0048513"
+        ],
+        "namespace": "biological_process",
+        "justification": "The mass was vimentin (+), indicating that both testicular masses were derived from the mesenchyme.",
+        "reference(s)": [
+          "PMC4793180"
+        ]
+      }
+    ]
+  }
+]

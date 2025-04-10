@@ -1,0 +1,33 @@
+{
+  "gene": "alpha-1-antitrypsin",
+  "geneID": "5265",
+  "go_data": [
+    {
+      "term": "viral entry into host cell",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "Alpha-1-antitrypsin blocks SARS-CoV-2 infection of Vero E6 cells by blocking the processing of SARS-CoV-2 S protein.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "exosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Alpha-1-antitrypsin is enriched in ChipEXOs, which are exosomes.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "serine-type endopeptidase inhibitor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Alpha-1-antitrypsin blocks the processing of SARS-CoV-2 S protein by furin and the transmembrane serine protease TMPRSS2.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

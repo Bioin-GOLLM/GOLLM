@@ -1,0 +1,24 @@
+{
+  "gene": "TIMM17A",
+  "geneID": "10440",
+  "go_data": [
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIMM17A is part of the TIM23-PAM import system.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIMM17A is a component of the mitochondrial import machinery.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

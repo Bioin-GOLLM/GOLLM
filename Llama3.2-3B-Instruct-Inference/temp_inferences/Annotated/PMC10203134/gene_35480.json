@@ -1,0 +1,33 @@
+{
+  "gene": "ATF6",
+  "geneID": "35480",
+  "go_data": [
+    {
+      "term": "transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ATF6 is described as a transcription factor.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The combined activity of ATF6 and other transcription factors promotes the expression of factors supporting protein folding.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "response to unfolded protein",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ATF6 is activated in response to unfolded proteins as part of the unfolded protein response (UPR).",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

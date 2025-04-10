@@ -1,0 +1,33 @@
+{
+  "gene": "TECPR2",
+  "geneID": "104859",
+  "go_data": [
+    {
+      "term": "autophagosome maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TECPR2 is involved in the targeting of autophagosomes to lysosomes.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "lysosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TECPR2 targets autophagosomes to lysosomes.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TECPR2 is involved in the process of autophagosomes being targeted to lysosomes, which is part of autophagy.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    }
+  ]
+}

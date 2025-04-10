@@ -1,0 +1,33 @@
+{
+  "gene": "ANGPT1",
+  "geneID": "11600",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT1-induced TIE1-TIE2 signalling is involved in vascular system development.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT1 has an activating role in lymphatic vasculature.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT1 induces TIE1-TIE2 signalling in the vascular system.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "vimentin",
+  "geneID": "7431",
+  "go_data": [
+    {
+      "term": "intermediate filament",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Vimentin is a type of intermediate filament protein.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "mesenchyme development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The mass was vimentin (+), indicating that both testicular masses were derived from the mesenchyme.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

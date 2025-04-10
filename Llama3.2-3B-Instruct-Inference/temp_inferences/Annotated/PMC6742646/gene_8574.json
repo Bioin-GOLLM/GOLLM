@@ -1,0 +1,33 @@
+{
+  "gene": "AKR7A2",
+  "geneID": "8574",
+  "go_data": [
+    {
+      "term": "NADPH-dependent aldo-keto reductase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AKR7A2 is an NADPH-dependent aldo-keto reductase that catalyzes the reduction of succinic semialdehyde (SSA) to gamma-hydroxybutyrate (GHB).",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "GABA catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AKR7A2 catalyzes the reduction of succinic semialdehyde (SSA) to gamma-hydroxybutyrate (GHB), an important reaction in the degradation pathway for the inhibitory neurotransmitter GABA.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an enzyme involved in the degradation pathway of GABA, AKR7A2 is likely located in the cytoplasm.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

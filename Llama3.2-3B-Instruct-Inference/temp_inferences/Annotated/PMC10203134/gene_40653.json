@@ -1,0 +1,51 @@
+{
+  "gene": "PERK",
+  "geneID": "40653",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "activated PERK kinase phosphorylates eIF2",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum unfolded protein response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The UPR is trigged by accumulation of misfolded proteins in the ER and PERK is activated in response",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PERK is implied to be located in the cytosol as it phosphorylates eIF2, which is a cytosolic protein",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "regulation of translation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "activated PERK kinase phosphorylates eIF2 thereby reducing general translation",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The combined activity of the activated XBP1, ATF4 and ATF6 transcription factors promotes the expression of a multitude of factors supporting protein folding",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

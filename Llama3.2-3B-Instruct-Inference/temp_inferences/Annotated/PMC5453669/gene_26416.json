@@ -1,0 +1,33 @@
+{
+  "gene": "p38",
+  "geneID": "26416",
+  "go_data": [
+    {
+      "term": "response to ischemia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of p38 impairs post-ischemic performance.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of p38 increases phospholamban phosphorylation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "heart",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p38 is activated in myocardial infarction experiment.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

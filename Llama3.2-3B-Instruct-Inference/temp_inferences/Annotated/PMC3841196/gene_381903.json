@@ -1,0 +1,15 @@
+{
+  "gene": "ALG8",
+  "geneID": "381903",
+  "go_data": [
+    {
+      "term": "N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ALG6, ALG8, and ALG10B genes all appear to share a common ancestor, which could explain the redundancy in the N-linked glycosylation pathway.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

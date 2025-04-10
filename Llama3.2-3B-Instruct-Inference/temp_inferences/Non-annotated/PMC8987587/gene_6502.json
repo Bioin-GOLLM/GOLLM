@@ -1,0 +1,33 @@
+{
+  "gene": "FBL1",
+  "geneID": "6502",
+  "go_data": [
+    {
+      "term": "fibrinogen binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FBL1 proteins bind to fibrinogen",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "platelet adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FBL1 proteins modulate platelet adhesion",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "tissue homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FBL1 proteins play an important role in tissue homeostasis",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

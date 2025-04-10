@@ -1,0 +1,15 @@
+{
+  "gene": "SARM",
+  "geneID": "237868",
+  "go_data": [
+    {
+      "term": "androgen receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SARM acts as an androgen receptor modulator.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

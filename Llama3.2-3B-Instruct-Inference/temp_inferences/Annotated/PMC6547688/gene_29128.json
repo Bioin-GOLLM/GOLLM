@@ -1,0 +1,42 @@
+{
+  "gene": "UHRF1",
+  "geneID": "29128",
+  "go_data": [
+    {
+      "term": "histone binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "UHRF1 catalyses the mono-ubiquitylation of histone H3 lysine 23.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "UHRF1 catalyses the mono-ubiquitylation of histone H3 lysine 23.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "UHRF1-dependent H3K23 ubiquitylation couples maintenance DNA methylation and replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "UHRF1 is involved in chromatin unloading of the replicative helicase at the end of replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

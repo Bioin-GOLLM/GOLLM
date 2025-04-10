@@ -1,0 +1,33 @@
+{
+  "gene": "Atg7",
+  "geneID": "74244",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atg7-null mice exhibit muscle atrophy due to the inactivation of autophagy-related proteins.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Atg7 is an E1 enzyme of the autophagic process, implying interaction with other proteins.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "autophagosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Inhibition of autophagosome formation occurs upon removal of Atg7.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

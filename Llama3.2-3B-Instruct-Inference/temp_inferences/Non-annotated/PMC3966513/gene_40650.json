@@ -1,0 +1,42 @@
+{
+  "gene": "Orco",
+  "geneID": "40650",
+  "go_data": [
+    {
+      "term": "odorant binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Orco is an olfactory coreceptor that binds to odorants.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "olfactory receptor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Orco is involved in the detection of odorants in the olfactory system.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "detection of chemical stimulus involved in sensory perception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Orco is involved in the detection of chemical stimuli in the olfactory system.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    },
+    {
+      "term": "antennal sensillum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Orco is expressed in the antennae of insects.",
+      "reference(s)": [
+        "PMC3966513"
+      ]
+    }
+  ]
+}

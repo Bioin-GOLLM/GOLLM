@@ -1,0 +1,33 @@
+{
+  "gene": "Talin2",
+  "geneID": "70549",
+  "go_data": [
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Talin2 is expressed at costameres, which are cell junctions.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Talin2 is the major form expressed after differentiation in the adult mouse heart.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Talin2 is related to costameres, which are involved in cytoskeleton organization.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

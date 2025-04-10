@@ -1,0 +1,24 @@
+{
+  "gene": "FoxO3",
+  "geneID": "56484",
+  "go_data": [
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF6-mediated ubiquitylation is essential for the activation of FoxO3.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activated FoxO3 is important for atrogin-1 and MuRF1 expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

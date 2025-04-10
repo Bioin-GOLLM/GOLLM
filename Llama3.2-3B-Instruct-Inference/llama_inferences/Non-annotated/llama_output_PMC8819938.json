@@ -1,0 +1,197 @@
+[
+  {
+    "gene": "TECPR2",
+    "geneID": "9895",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TECPR2 is a possible positive regulator of autophagy.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TECPR2 is a binding partner of the mammalian Atg8 protein family.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "lysosome",
+        "relationship": "involved_in",
+        "namespace": "cellular_component",
+        "justification": "TECPR2 is involved in the targeting of autophagosomes to lysosomes.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "autophagosome",
+        "relationship": "involved_in",
+        "namespace": "cellular_component",
+        "justification": "Mutations in TECPR2 result in autophagosomes that cannot be eliminated.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myelin oligodendrocyte glycoprotein",
+    "geneID": "4340",
+    "go_data": [
+      {
+        "term": "central nervous system myelination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myelin oligodendrocyte glycoprotein is associated with demyelinating diseases of the central nervous system.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "myelin sheath",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Myelin oligodendrocyte glycoprotein is a component of the myelin sheath in the central nervous system.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "aquaporin-4",
+    "geneID": "361",
+    "go_data": [
+      {
+        "term": "water transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Aquaporin-4 is an autoantibody target in demyelinating diseases, suggesting its role in water transport across cell membranes.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "central nervous system",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Aquaporin-4 is associated with demyelinating diseases of the central nervous system.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "myelin basic protein",
+    "geneID": "4155",
+    "go_data": [
+      {
+        "term": "central nervous system myelination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Myelin basic protein is associated with demyelinating diseases of the central nervous system.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "myelin sheath",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Myelin basic protein is a component of the myelin sheath in the central nervous system.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Atg8",
+    "geneID": "23710",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TECPR2 is a possible positive regulator of autophagy and a binding partner of the mammalian Atg8 protein family.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TECPR2",
+    "geneID": "104859",
+    "go_data": [
+      {
+        "term": "autophagosome maturation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TECPR2 is involved in the targeting of autophagosomes to lysosomes.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "lysosome",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TECPR2 targets autophagosomes to lysosomes.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "autophagy",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TECPR2 is involved in the process of autophagosomes being targeted to lysosomes, which is part of autophagy.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TECRP2",
+    "geneID": "391696",
+    "go_data": [
+      {
+        "term": "autonomic nervous system development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Mutations in TECRP2 are associated with sensory autonomic neuropathy.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "sensory perception of pain",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Decreased pain sensitivity is a feature of the disorder caused by mutations in TECRP2.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      },
+      {
+        "term": "regulation of blood pressure",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Unstable blood pressure is a feature of the disorder caused by mutations in TECRP2.",
+        "reference(s)": [
+          "PMC8819938"
+        ]
+      }
+    ]
+  }
+]

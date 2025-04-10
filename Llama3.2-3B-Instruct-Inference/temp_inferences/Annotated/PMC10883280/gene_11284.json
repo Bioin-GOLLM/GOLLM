@@ -1,0 +1,24 @@
+{
+  "gene": "PNKP",
+  "geneID": "11284",
+  "go_data": [
+    {
+      "term": "protein serine/threonine phosphatase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNKP contains a phosphatase domain.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "phosphorylated threonine binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The FHA domain of PNKP is known to bind phosphorylated threonines.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

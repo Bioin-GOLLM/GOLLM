@@ -1,0 +1,33 @@
+{
+  "gene": "egl-3",
+  "geneID": "179412",
+  "go_data": [
+    {
+      "term": "peptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EGL-3 is a proprotein convertase required for proteolytically liberating neuropeptides from their precursor.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neuropeptide processing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "In the absence of EGL-3 activity, no active neuropeptides were detectable, indicating its role in neuropeptide processing.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "dense core granule",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EGL-3 is involved in the processing of neuropeptides in dense core vesicles (DCVs).",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

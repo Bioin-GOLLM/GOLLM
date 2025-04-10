@@ -1,0 +1,60 @@
+{
+  "gene": "Melanopsin",
+  "geneID": "94233",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Melanopsin is a photopigment involved in non-image forming functions such as circadian photoentrainment and sleep.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "G-protein coupled receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Melanopsin is an opsin, which is a type of G-protein coupled receptor.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "circadian rhythm regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin mediates non-image forming functions such as circadian photoentrainment and sleep.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "photoreception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Melanopsin is involved in detecting light and dark to modulate sleep independent of image formation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retina",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin is expressed in a small subset of retinal ganglion cells in the mammalian retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retinal ganglion cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Melanopsin is expressed in a small subset of retinal ganglion cells in the mammalian retina.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

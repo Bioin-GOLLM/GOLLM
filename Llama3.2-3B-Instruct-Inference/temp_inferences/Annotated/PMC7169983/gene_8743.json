@@ -1,0 +1,24 @@
+{
+  "gene": "TRAIL",
+  "geneID": "8743",
+  "go_data": [
+    {
+      "term": "induction of apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAIL is described as TNF-related apoptosis-inducing ligand, indicating its involvement in inducing apoptosis.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAIL's role in apoptosis is further supported by its correlation with time-of-death after its addition, implying a role in the apoptotic process.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

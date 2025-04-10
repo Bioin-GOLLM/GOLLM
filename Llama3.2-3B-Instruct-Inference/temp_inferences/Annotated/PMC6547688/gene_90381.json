@@ -1,0 +1,33 @@
+{
+  "gene": "treslin",
+  "geneID": "90381",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Silencing of treslin caused a DNA synthesis defect.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "origin firing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Treslin is an essential component of origin firing.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cyclin-dependent kinase regulates the length of S phase through TICRR/TRESLIN phosphorylation",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

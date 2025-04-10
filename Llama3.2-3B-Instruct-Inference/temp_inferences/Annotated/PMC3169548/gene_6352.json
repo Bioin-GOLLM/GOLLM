@@ -1,0 +1,42 @@
+{
+  "gene": "CCL5",
+  "geneID": "6352",
+  "go_data": [
+    {
+      "term": "chemokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CCL5 is referred to as a chemokine.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CCL5 is induced during viral infection and anti-viral responses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytokine-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CCL5 is activated by IRF3 and NF-kappaB during viral infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "The secretion of the chemokine CCL5 from infected cells is mentioned.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

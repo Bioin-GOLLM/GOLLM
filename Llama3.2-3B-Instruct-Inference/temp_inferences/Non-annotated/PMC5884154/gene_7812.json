@@ -1,0 +1,15 @@
+{
+  "gene": "CSDE1",
+  "geneID": "7812",
+  "go_data": [
+    {
+      "term": "tumor suppressor function",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "CSDE1 truncating mutations are associated with sporadic aggressive/recurrent PHEO, suggesting a role in tumor suppression.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

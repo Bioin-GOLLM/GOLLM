@@ -1,0 +1,24 @@
+{
+  "gene": "CRD1",
+  "geneID": "851413",
+  "go_data": [
+    {
+      "term": "cardiolipin biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Crd1 is involved in cardiolipin production as shown by complementation of cardiolipin production in CRD1 knockout yeast.",
+      "reference(s)": [
+        "PMC5695855"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Although not explicitly stated, cardiolipin synthase (Crd1) is typically associated with the mitochondrion, however since it is not explicitly stated in the text, this term should not be included.",
+      "reference(s)": [
+        "PMC5695855"
+      ]
+    }
+  ]
+}

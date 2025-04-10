@@ -1,0 +1,51 @@
+{
+  "gene": "RET",
+  "geneID": "5979",
+  "go_data": [
+    {
+      "term": "receptor tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "organ development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase involved in organ development.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Germline mutations in specific exons of the RET may lead to constitutive activation of its protein tyrosine kinase domain and subsequent downstream activation of Ras/mitogen-activated protein kinase and PI3 kinase/AKT pathways, promoting tumorigenesis through cell proliferation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase involved in organ development, proliferation, and apoptosis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The proto-oncogene RET encodes a transmembrane receptor tyrosine kinase.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "EGFR",
+  "geneID": "1956",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "EGFR is targeted by cetuximab sarotaxol sodium, implying it has receptor activity.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a target for ADCs like cetuximab sarotaxol sodium, EGFR is likely located on the cell surface.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

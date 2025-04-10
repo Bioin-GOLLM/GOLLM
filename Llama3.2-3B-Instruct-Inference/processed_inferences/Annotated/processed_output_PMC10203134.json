@@ -1,0 +1,838 @@
+[
+  {
+    "gene": "BiP",
+    "geneID": "249912",
+    "go_data": [
+      {
+        "term": "protein folding in endoplasmic reticulum",
+        "go_id": "GO:0034975",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "BiP is described as an ER chaperone.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "response to unfolded protein",
+        "go_id": "GO:0006986",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "BiP is involved in the Unfolded protein response (UPR).",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "BiP is an ER chaperone, implying it is located in the endoplasmic reticulum.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "As a chaperone, BiP is involved in protein folding.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "cellular response to stress",
+        "go_id": "GO:0033554",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "BiP is involved in the cellular stress response, particularly in the context of the unfolded protein response.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CG12038",
+    "geneID": "2768997",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CG12038 encodes a member of the Divergent protein kinases (Dipk) family.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "constitutive secretory pathway",
+        "go_id": "GO:0045054",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CG12038 localizes within the lumen of the secretory pathway.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dia1",
+    "geneID": "13367",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Dia1 is characterized by a cysteine-rich kinase-like domain.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "constitutive secretory pathway",
+        "go_id": "GO:0045054",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Dia1 localizes within the lumen of the secretory pathway.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HASF",
+    "geneID": "205428",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "HASF encodes a member of the Divergent protein kinases (Dipk) family, characterized by a cysteine-rich kinase-like domain.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "constitutive secretory pathway",
+        "go_id": "GO:0045054",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Mammalian Dipk proteins, including HASF, are localized within the lumen of the secretory pathway.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "binding",
+        "go_id": "GO:0005488",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "A secreted form of Dipk2A, a human homolog of Aln and HASF, has been observed to bind to insulin receptors.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "insulin receptor binding",
+        "go_id": "GO:0005158",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "HASF is a novel ligand of the insulin-like growth factor 1 receptor.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "cardiac muscle cell proliferation",
+        "go_id": "GO:0060038",
+        "relationship": [
+          "part_of GO:0055017"
+        ],
+        "namespace": "biological_process",
+        "justification": "A secreted form of Dipk2A, a human homolog of Aln and HASF, promotes cardiomyocyte proliferation by binding to insulin receptors.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rhodopsin",
+    "geneID": "42367",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "go_id": "GO:0009881",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Rhodopsin mediates early steps in the phototransduction cascade.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "rhabdomere",
+        "go_id": "GO:0016028",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Rhodopsin is contained within rhabdomeres, a characteristic feature of Drosophila photoreceptors.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "phototransduction",
+        "go_id": "GO:0007602",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Rhodopsin mediates early steps in the phototransduction cascade.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Transient receptor potential",
+    "geneID": "43542",
+    "go_data": [
+      {
+        "term": "phototransduction",
+        "go_id": "GO:0007602",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Transient receptor potential (Trp) mediates early steps in the phototransduction cascade.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "rhabdomere",
+        "go_id": "GO:0016028",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Trp is contained within rhabdomeres, a characteristic feature of Drosophila photoreceptors.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "photoreceptor inner segment",
+        "go_id": "GO:0001917",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Trp is found in photoreceptors, which contain rhabdomeres.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Dipk1C",
+    "geneID": "125704",
+    "go_data": [
+      {
+        "term": "kinase activity",
+        "go_id": "GO:0016301",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Purified human Dipk1C protein displays kinase activity.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "calcium ion binding",
+        "go_id": "GO:0005509",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Dipk1C kinase activity is regulated by Ca2+.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "photoreceptor inner segment",
+        "go_id": "GO:0001917",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Flag-tagged Dipk1C proteins were secreted and taken up into the retina.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ire1",
+    "geneID": "42358",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum unfolded protein response",
+        "go_id": "GO:0030968",
+        "relationship": [
+          "part_of GO:0034620"
+        ],
+        "namespace": "biological_process",
+        "justification": "Ire1 is activated in response to accumulation of misfolded proteins in the ER, triggering the UPR.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "RNA splicing",
+        "go_id": "GO:0008380",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Activated Ire1 promotes splicing of the transcription factor XBP1.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Ire1 is part of the UPR stress sensing system in the ER.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "XBP1",
+    "geneID": "44226",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum unfolded protein response",
+        "go_id": "GO:0030968",
+        "relationship": [
+          "part_of GO:0034620"
+        ],
+        "namespace": "biological_process",
+        "justification": "Activated Ire1 promotes splicing of the transcription factor XBP1 in response to accumulation of misfolded proteins in the ER.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "DNA-binding transcription factor activity",
+        "go_id": "GO:0003700",
+        "relationship": [
+          "has_part GO:0000976",
+          "part_of GO:0006355"
+        ],
+        "namespace": "molecular_function",
+        "justification": "The combined activity of the activated XBP1, ATF4 and ATF6 transcription factors promotes the expression of a multitude of factors supporting protein folding.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, XBP1 localizes to the nucleus to regulate the expression of target genes.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PERK",
+    "geneID": "40653",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "activated PERK kinase phosphorylates eIF2",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum unfolded protein response",
+        "go_id": "GO:0030968",
+        "relationship": [
+          "part_of GO:0034620"
+        ],
+        "namespace": "biological_process",
+        "justification": "The UPR is trigged by accumulation of misfolded proteins in the ER and PERK is activated in response",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PERK is implied to be located in the cytosol as it phosphorylates eIF2, which is a cytosolic protein",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "regulation of translation",
+        "go_id": "GO:0006417",
+        "relationship": [
+          "regulates GO:0006412"
+        ],
+        "namespace": "biological_process",
+        "justification": "activated PERK kinase phosphorylates eIF2 thereby reducing general translation",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "The combined activity of the activated XBP1, ATF4 and ATF6 transcription factors promotes the expression of a multitude of factors supporting protein folding",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "eIF2",
+    "geneID": "32617",
+    "go_data": [
+      {
+        "term": "translation initiation factor activity",
+        "go_id": "GO:0003743",
+        "relationship": [
+          "part_of GO:0006413"
+        ],
+        "namespace": "molecular_function",
+        "justification": "eIF2 is involved in general translation, which is reduced when eIF2 is phosphorylated by PERK kinase.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a translation initiation factor, eIF2 is expected to be located in the cytosol where translation occurs.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "response to endoplasmic reticulum stress",
+        "go_id": "GO:0034976",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Phosphorylation of eIF2 by PERK kinase is part of the response to endoplasmic reticulum stress, specifically the unfolded protein response (UPR).",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATF6",
+    "geneID": "35480",
+    "go_data": [
+      {
+        "term": "DNA-binding transcription factor activity",
+        "go_id": "GO:0003700",
+        "relationship": [
+          "has_part GO:0000976",
+          "part_of GO:0006355"
+        ],
+        "namespace": "molecular_function",
+        "justification": "ATF6 is described as a transcription factor.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "protein folding",
+        "go_id": "GO:0006457",
+        "relationship": [
+          "part_of GO:0051604"
+        ],
+        "namespace": "biological_process",
+        "justification": "The combined activity of ATF6 and other transcription factors promotes the expression of factors supporting protein folding.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "response to unfolded protein",
+        "go_id": "GO:0006986",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ATF6 is activated in response to unfolded proteins as part of the unfolded protein response (UPR).",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATG8",
+    "geneID": "32001",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "go_id": "GO:0006914",
+        "relationship": [
+          "has_part GO:0055085"
+        ],
+        "namespace": "biological_process",
+        "justification": "Elevated levels of autophagosomes identified as ATG8-positive punctae suggest a role of ATG8 in autophagy.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "autophagosome",
+        "go_id": "GO:0005776",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ATG8 is used as a marker for autophagosomes, indicating it is a part of this cellular component.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "protein lipidation",
+        "go_id": "GO:0006497",
+        "relationship": [
+          "part_of GO:0042158"
+        ],
+        "namespace": "biological_process",
+        "justification": "The detection of lipidated ATG8II suggests ATG8 is involved in protein lipidation.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATG1",
+    "geneID": "39454",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "go_id": "GO:0006914",
+        "relationship": [
+          "has_part GO:0055085"
+        ],
+        "namespace": "biological_process",
+        "justification": "RNAi-mediated knock down of ATG1 prevented the increase of ATG8II seen in wild-type flies, indicating ATG1 is required for autophagy.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATG5",
+    "geneID": "31666",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "go_id": "GO:0006914",
+        "relationship": [
+          "has_part GO:0055085"
+        ],
+        "namespace": "biological_process",
+        "justification": "RNAi-mediated knock down of ATG5 prevented the increase of ATG8II seen in wild-type flies, indicating its role in autophagy.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATG9",
+    "geneID": "36821",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "go_id": "GO:0006914",
+        "relationship": [
+          "has_part GO:0055085"
+        ],
+        "namespace": "biological_process",
+        "justification": "RNAi-mediated knock down of ATG9 prevented the increase of ATG8II seen in wild-type flies, indicating its role in autophagy.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ATG18",
+    "geneID": "38913",
+    "go_data": [
+      {
+        "term": "autophagy",
+        "go_id": "GO:0006914",
+        "relationship": [
+          "has_part GO:0055085"
+        ],
+        "namespace": "biological_process",
+        "justification": "RNAi-mediated knock down of ATG18 prevented the increase of ATG8II seen in wild-type flies, indicating its role in autophagy.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Elav",
+    "geneID": "31000",
+    "go_data": [
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Elav is indicated as a neuronal marker in neurons.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DIP-beta",
+    "geneID": "48450",
+    "go_data": [
+      {
+        "term": "neuron differentiation",
+        "go_id": "GO:0030182",
+        "relationship": [
+          "part_of GO:0048699"
+        ],
+        "namespace": "biological_process",
+        "justification": "DIP-beta is used as a marker for L4 lamina neurons.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab5",
+    "geneID": "5868",
+    "go_data": [
+      {
+        "term": "early endosome",
+        "go_id": "GO:0005769",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Rab5 is found in early endosomes.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab7",
+    "geneID": "338382",
+    "go_data": [
+      {
+        "term": "late endosome",
+        "go_id": "GO:0005770",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Rab7 is used as a marker for late endosomes.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "vesicle-mediated transport",
+        "go_id": "GO:0016192",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Rab7 is associated with late endosomes, which are involved in vesicle-mediated transport.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "GTP binding",
+        "go_id": "GO:0005525",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Rab7 is a GTPase, which implies it has GTP binding activity.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Rab11",
+    "geneID": "8766",
+    "go_data": [
+      {
+        "term": "recycling endosome",
+        "go_id": "GO:0055037",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Rab11 is described as a recycling endosome marker.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ort",
+    "geneID": "45910",
+    "go_data": [
+      {
+        "term": "nervous system development",
+        "go_id": "GO:0007399",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ort-Gal4 drives expression in lamina neurons",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "photoreceptor inner segment",
+        "go_id": "GO:0001917",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Aln-Flag staining in photoreceptors",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "nuclear lamina",
+        "go_id": "GO:0005652",
+        "relationship": [
+          "part_of GO:0034399"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ort-Gal4 drives expression in lamina neurons and Aln-Flag staining in lamina",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Wnt",
+    "geneID": "35975",
+    "go_data": [
+      {
+        "term": "regulation of synaptic plasticity",
+        "go_id": "GO:0048167",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Wnt pathway induces synaptic plasticity in photoreceptors.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "axon",
+        "go_id": "GO:0030424",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Wnt pathway acts on the axonal cytoskeleton.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "cell-cell signaling",
+        "go_id": "GO:0007267",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Activation of Wnt pathway depends on activity-dependent secretion of Wingless by glia cells.",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PDF",
+    "geneID": "43193",
+    "go_data": [
+      {
+        "term": "neuropeptide hormone activity",
+        "go_id": "GO:0005184",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The neuropeptide PDF acts directly on evening pacemaker neurons",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "regulation of circadian rhythm",
+        "go_id": "GO:0042752",
+        "relationship": [
+          "regulates GO:0007623"
+        ],
+        "namespace": "biological_process",
+        "justification": "PDF regulates multiple features of circadian behavior",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      },
+      {
+        "term": "neuronal cell body",
+        "go_id": "GO:0043025",
+        "relationship": [
+          "part_of GO:0036477"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PDF acts directly on evening pacemaker neurons",
+        "reference(s)": [
+          "PMC10203134"
+        ]
+      }
+    ]
+  }
+]

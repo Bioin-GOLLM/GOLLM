@@ -1,0 +1,15 @@
+{
+  "gene": "hCG",
+  "geneID": "93659",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "hCG is mentioned alongside other hormones such as FSH, LH, and prolactin.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

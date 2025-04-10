@@ -1,0 +1,33 @@
+{
+  "gene": "AKT",
+  "geneID": "207",
+  "go_data": [
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of AKT pathways promotes tumorigenesis through cell proliferation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "apoptotic process",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "Activation of AKT pathways promotes tumorigenesis through reduced apoptosis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "protein kinase B signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AKT is activated in the PI3 kinase/AKT pathway.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

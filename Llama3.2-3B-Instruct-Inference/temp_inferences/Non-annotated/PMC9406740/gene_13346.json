@@ -1,0 +1,33 @@
+{
+  "gene": "desmin",
+  "geneID": "13346",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Desmin is localized at the level of the Z disk of the sarcomere.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ubiquitylation by Trim32 causes coupled loss of desmin Z-bands, and thin filaments in muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Desmin interacts with other myofibrillar proteins such as filamen, protein C, tropomyosin, troponin T, troponin I, titin, nebulin, vimentin, gelsolin, and vinculin.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

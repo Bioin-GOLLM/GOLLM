@@ -1,0 +1,33 @@
+{
+  "gene": "IL-1beta",
+  "geneID": "3553",
+  "go_data": [
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-1beta is released after activation of the inflammasome, leading to an inflammatory response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-1beta acts as a cytokine to induce NF-kappaB activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IL-1beta is released from cells after processing.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

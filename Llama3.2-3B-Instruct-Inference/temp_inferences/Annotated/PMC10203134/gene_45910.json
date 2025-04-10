@@ -1,0 +1,33 @@
+{
+  "gene": "ort",
+  "geneID": "45910",
+  "go_data": [
+    {
+      "term": "nervous system development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ort-Gal4 drives expression in lamina neurons",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "photoreceptor cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Aln-Flag staining in photoreceptors",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "lamina",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "ort-Gal4 drives expression in lamina neurons and Aln-Flag staining in lamina",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

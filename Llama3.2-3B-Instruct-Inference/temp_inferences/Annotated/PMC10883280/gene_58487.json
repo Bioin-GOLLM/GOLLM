@@ -1,0 +1,15 @@
+{
+  "gene": "CREBZF",
+  "geneID": "58487",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CREBZF binds to HCFC1 as shown by BRET protein interaction assay.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

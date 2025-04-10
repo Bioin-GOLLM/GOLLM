@@ -1,0 +1,224 @@
+[
+  {
+    "gene": "Monocarboxylate transporter 1",
+    "geneID": "6566",
+    "go_data": [
+      {
+        "term": "monocarboxylic acid transmembrane transporter activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MCT1 is responsible for the H+-coupled transport of short chain monocarboxylates, primarily L-lactate, pyruvate or ketone bodies.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "ketone body transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MCT1 deficiency has been described as a rare cause of recurrent ketosis, the result of impaired ketone utilization in extrahepatic tissues.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "lactate transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MCT1 is responsible for the H+-coupled transport of short chain monocarboxylates, primarily L-lactate, pyruvate or ketone bodies.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MCT1 is responsible for the import of monocarboxylates across the plasma membrane.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "energy homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MCT1 has been described as a major player in whole-body energy homeostasis and the distribution of redox potential between organs.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MCT4",
+    "geneID": "9123",
+    "go_data": [
+      {
+        "term": "monocarboxylic acid transmembrane transport",
+        "relationship": "enables",
+        "namespace": "biological_process",
+        "justification": "MCT4 undertakes proton-coupled symport of monocarboxylate metabolites.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "proton symporter activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "MCT4 has been shown to undertake proton-coupled symport of important monocarboxylate metabolites.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transmembrane transporter, MCT4 is expected to be located in the plasma membrane.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "regulation of blood glucose",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Insulin secretion is associated with dysregulated insulin secretion in states of low plasma glucose.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "pancreatic beta-cell",
+        "relationship": "produced_in",
+        "namespace": "cellular_component",
+        "justification": "Abnormal expression of MCT1 in pancreatic beta-cells has been identified in patients suffering from exercise-induced hyperinsulinemic hypoglycemia.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "glucose homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Dysregulated insulin secretion is associated with low plasma glucose during anaerobic exercise.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMEM126B",
+    "geneID": "55863",
+    "go_data": [
+      {
+        "term": "mitochondrial respiratory chain complex I",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "TMEM126B encodes a transmembrane component of the mitochondrial complex I.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "mitochondrial electron transport, NADH to ubiquinone",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Biallelic changes in TMEM126B has been related to the mitochondrial complex I deficiency.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "integral component of membrane",
+        "relationship": "is_a",
+        "namespace": "cellular_component",
+        "justification": "TMEM126B encodes a transmembrane component.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PHKA2",
+    "geneID": "5256",
+    "go_data": []
+  },
+  {
+    "gene": "SLC3A1",
+    "geneID": "6519",
+    "go_data": [
+      {
+        "term": "amino acid transmembrane transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SLC3A1 is not explicitly described in the given text, however based on general knowledge it is a transporter, but since the text does not provide any information about its function, no term can be directly linked to the provided text.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MCT1",
+    "geneID": "25027",
+    "go_data": [
+      {
+        "term": "lactate transmembrane transport",
+        "relationship": "enables",
+        "namespace": "biological_process",
+        "justification": "MCT1 is used by oligodendrocytes to take up lactate.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "oligodendrocyte differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MCT1 is utilized by oligodendrocytes progenitor cells for cell cycling and differentiation.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "neuron survival",
+        "relationship": "contributes_to",
+        "namespace": "biological_process",
+        "justification": "MCT1 ensures neuron survival and myelination in low-glucose conditions.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      },
+      {
+        "term": "plasma membrane",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a transmembrane transporter, MCT1 is located in the plasma membrane.",
+        "reference(s)": [
+          "PMC9215049"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MMD",
+    "geneID": "23531",
+    "go_data": []
+  },
+  {
+    "gene": "PRP",
+    "geneID": "722",
+    "go_data": []
+  }
+]

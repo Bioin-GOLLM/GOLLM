@@ -1,0 +1,24 @@
+{
+  "gene": "TRbeta1",
+  "geneID": "211770",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRbeta1 is a thyroid receptor isoform.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cardiomyocyte",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRbeta1 is present in cardiomyocytes.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

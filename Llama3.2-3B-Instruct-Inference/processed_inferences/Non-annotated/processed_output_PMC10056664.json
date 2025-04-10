@@ -1,0 +1,80 @@
+[
+  {
+    "gene": "P31",
+    "geneID": "55850",
+    "go_data": [
+      {
+        "term": "viral genome replication",
+        "go_id": "GO:0019079",
+        "relationship": [
+          "part_of GO:0019058"
+        ],
+        "namespace": "biological_process",
+        "justification": "GII.P31 genotype was detected in NoV-positive samples, indicating its involvement in viral genome replication.",
+        "reference(s)": [
+          "PMC10056664"
+        ]
+      },
+      {
+        "term": "DNA recombination",
+        "go_id": "GO:0006310",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GII.P31 strains were found to be part of intergenotypic and intragenotypic recombinant strains, indicating their involvement in recombination.",
+        "reference(s)": [
+          "PMC10056664"
+        ]
+      },
+      {
+        "term": "virion component",
+        "go_id": "GO:0044423",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a genotype of Norovirus, P31 is part of the virion.",
+        "reference(s)": [
+          "PMC10056664"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORF1",
+    "geneID": "55354",
+    "go_data": [
+      {
+        "term": "viral genome replication",
+        "go_id": "GO:0019079",
+        "relationship": [
+          "part_of GO:0019058"
+        ],
+        "namespace": "biological_process",
+        "justification": "ORF1 encodes RNA-dependent RNA polymerase (RdRp), which is involved in viral genome replication.",
+        "reference(s)": [
+          "PMC10056664"
+        ]
+      },
+      {
+        "term": "RNA-dependent RNA polymerase activity",
+        "go_id": "GO:0003968",
+        "relationship": [
+          "part_of GO:0001172"
+        ],
+        "namespace": "molecular_function",
+        "justification": "ORF1 encodes six non-structural proteins, including RNA-dependent RNA polymerase (RdRp).",
+        "reference(s)": [
+          "PMC10056664"
+        ]
+      },
+      {
+        "term": "virion component",
+        "go_id": "GO:0044423",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ORF1 is part of the NoV genome, which is a component of the virion.",
+        "reference(s)": [
+          "PMC10056664"
+        ]
+      }
+    ]
+  }
+]

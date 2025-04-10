@@ -1,0 +1,33 @@
+{
+  "gene": "DnaJC15",
+  "geneID": "29103",
+  "go_data": [
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DnaJC15 is described as an HSP70-stimulating cochaperone, indicating involvement in protein folding.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DnaJC15 is part of the TIM23-PAM system, which is essential for the import of precursor proteins into the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "cochaperone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DnaJC15 is identified as an HSP70-stimulating cochaperone, implying it has cochaperone activity.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

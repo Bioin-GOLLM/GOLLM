@@ -1,0 +1,33 @@
+{
+  "gene": "polynucleotide kinase 3'-phosphatase",
+  "geneID": "11284",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PNKP is involved in DNA repair as implied by its association with microcephaly, seizures, and developmental delay.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNKP has DNA kinase activity.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "phosphatase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PNKP has DNA phosphatase activity.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

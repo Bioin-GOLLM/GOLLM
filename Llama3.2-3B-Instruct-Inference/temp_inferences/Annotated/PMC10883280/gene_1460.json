@@ -1,0 +1,15 @@
+{
+  "gene": "CSNK2B",
+  "geneID": "1460",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CSNK2B interacts with CSNK2A1, indicating a protein binding activity.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

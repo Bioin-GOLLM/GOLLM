@@ -1,0 +1,33 @@
+{
+  "gene": "NCBP2-AS2",
+  "geneID": "152217",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NCBP2-AS2 is found in the MitoCoP fraction and interacts with inner membrane scaffold proteins and TIM23, indicating its localization to the mitochondrion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein import into mitochondrial matrix",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NCBP2-AS2 interacts with the TIM23-PAM machinery, suggesting its involvement in protein import into the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NCBP2-AS2 associates with different forms of the mitochondrial presequence translocase, indicating its role in mitochondrial protein complex assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

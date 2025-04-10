@@ -1,0 +1,15 @@
+{
+  "gene": "BCMA",
+  "geneID": "608",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BCMA is a target for antibody-drug conjugates (ADCs), implying it is located on the cell surface.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

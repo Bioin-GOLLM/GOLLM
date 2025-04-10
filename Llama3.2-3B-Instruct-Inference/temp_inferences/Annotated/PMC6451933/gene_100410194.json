@@ -1,0 +1,33 @@
+{
+  "gene": "VAMP2",
+  "geneID": "100410194",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Introduction of specific engineered mutations affecting its SNARE motif has been reported to alter vesicle fusion in vitro by impairing either formation of the SNARE complex.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 encodes a neuronal v-SNARE essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 encodes a neuronal v-SNARE essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

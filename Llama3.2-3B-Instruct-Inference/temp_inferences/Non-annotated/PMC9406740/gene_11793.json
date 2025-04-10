@@ -1,0 +1,24 @@
+{
+  "gene": "Atg5",
+  "geneID": "11793",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atg5 is a component of the autophagic mechanism.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "autophagosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Atg5 is involved in autophagosome formation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

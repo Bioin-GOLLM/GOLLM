@@ -1,0 +1,15 @@
+{
+  "gene": "RAB-7",
+  "geneID": "174834",
+  "go_data": [
+    {
+      "term": "late endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RAB-7 is described as a late endosomal marker.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

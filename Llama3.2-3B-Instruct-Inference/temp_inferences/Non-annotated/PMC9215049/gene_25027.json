@@ -1,0 +1,42 @@
+{
+  "gene": "MCT1",
+  "geneID": "25027",
+  "go_data": [
+    {
+      "term": "lactate transmembrane transport",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "MCT1 is used by oligodendrocytes to take up lactate.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "oligodendrocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MCT1 is utilized by oligodendrocytes progenitor cells for cell cycling and differentiation.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "neuron survival",
+      "relationship": "contributes_to",
+      "namespace": "biological_process",
+      "justification": "MCT1 ensures neuron survival and myelination in low-glucose conditions.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transmembrane transporter, MCT1 is located in the plasma membrane.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    }
+  ]
+}

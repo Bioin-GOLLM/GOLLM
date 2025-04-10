@@ -1,0 +1,33 @@
+{
+  "gene": "Held out",
+  "geneID": "33432",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The held out wings (how) Drosophila gene encodes a putative RNA-binding protein",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Held out wings (How) are known to be required for muscle development or activity by mutant analyses",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The held out wings (how) Drosophila gene is involved in the control of muscular and cardiac activity",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

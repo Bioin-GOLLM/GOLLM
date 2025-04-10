@@ -1,0 +1,24 @@
+{
+  "gene": "GDF2",
+  "geneID": "2658",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GDF2 is involved in new pathways involving lymphangiogenesis and remodelling.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GDF2 is a growth and differentiation factor.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

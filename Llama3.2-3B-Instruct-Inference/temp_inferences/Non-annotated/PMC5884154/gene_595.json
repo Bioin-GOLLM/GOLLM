@@ -1,0 +1,15 @@
+{
+  "gene": "CCND1",
+  "geneID": "595",
+  "go_data": [
+    {
+      "term": "cellular proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CCND1 is involved in cellular proliferation as indicated by its regulation by HIF-alpha under hypoxia or pseudohypoxia.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

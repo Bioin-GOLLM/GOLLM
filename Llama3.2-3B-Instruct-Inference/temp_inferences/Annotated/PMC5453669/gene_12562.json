@@ -1,0 +1,24 @@
+{
+  "gene": "VE-cadherin",
+  "geneID": "12562",
+  "go_data": [
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VE-cadherin junctions are disassembled by PKCalpha activation, disrupting vascular integrity, indicating involvement in cell-cell adhesion.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VE-cadherin junctions are mentioned, indicating VE-cadherin is located in cell junctions.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

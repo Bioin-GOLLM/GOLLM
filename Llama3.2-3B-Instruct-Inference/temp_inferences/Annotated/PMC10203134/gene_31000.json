@@ -1,0 +1,15 @@
+{
+  "gene": "Elav",
+  "geneID": "31000",
+  "go_data": [
+    {
+      "term": "neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Elav is indicated as a neuronal marker in neurons.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

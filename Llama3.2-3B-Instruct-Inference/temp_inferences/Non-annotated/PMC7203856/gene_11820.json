@@ -1,0 +1,33 @@
+{
+  "gene": "Abeta",
+  "geneID": "11820",
+  "go_data": [
+    {
+      "term": "tau protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The link between Abeta and tau aggregation may involve activation of microglia, implying Abeta interacts with tau.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "microglial cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Soluble Abeta oligomers have been reported to activate microglial cells in a cell culture study.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Abeta deposition is described, implying Abeta is found outside cells, in the extracellular space.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

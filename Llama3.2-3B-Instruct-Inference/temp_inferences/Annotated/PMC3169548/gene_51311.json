@@ -1,0 +1,33 @@
+{
+  "gene": "TLR8",
+  "geneID": "51311",
+  "go_data": [
+    {
+      "term": "viral RNA detection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR8 senses ssRNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TLR8 is an endosomal toll-like receptor.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "single-stranded RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TLR8 senses ssRNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

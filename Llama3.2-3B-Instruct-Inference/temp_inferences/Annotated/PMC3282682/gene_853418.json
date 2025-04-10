@@ -1,0 +1,33 @@
+{
+  "gene": "Kar2p",
+  "geneID": "853418",
+  "go_data": [
+    {
+      "term": "ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Kar2p presented an ATPase-specific activity of approximately 4 nmol of phosphate release per hour per muM of Kar2p in complex with both the nucleotide exchanger Lhs1p and the DnaJ-like partner.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Kar2p is an Hsp70 chaperone from the ER.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Kar2p is an Hsp70 chaperone, which is involved in protein folding.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

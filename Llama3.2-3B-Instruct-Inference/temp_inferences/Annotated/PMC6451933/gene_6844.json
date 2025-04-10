@@ -1,0 +1,51 @@
+{
+  "gene": "VAMP2",
+  "geneID": "6844",
+  "go_data": [
+    {
+      "term": "SNARE binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VAMP2 mediates fusion of synaptic vesicles to release neurotransmitters by binding with its partners syntaxin-1A and synaptosomal-associated protein 25 (SNAP25).",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is essential for vesicular exocytosis and activity-dependent neurotransmitter release through the fusion of synaptic vesicles.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 is a neuronal v-SNARE located on the vesicle membrane and is essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 mediates fusion of synaptic vesicles to release neurotransmitters.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic transmission",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 plays fundamental roles in vesicle fusion, neurotransmitter release, and vesicle endocytosis, exerting a complex influence on synaptic transmission.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

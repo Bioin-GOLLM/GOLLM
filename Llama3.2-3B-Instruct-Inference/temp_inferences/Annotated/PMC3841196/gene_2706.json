@@ -1,0 +1,24 @@
+{
+  "gene": "GJB2",
+  "geneID": "2706",
+  "go_data": [
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GJB2 is involved in cell-cell signaling as a gap junction protein.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "gap junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GJB2 is a component of gap junctions, which are intercellular channels.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

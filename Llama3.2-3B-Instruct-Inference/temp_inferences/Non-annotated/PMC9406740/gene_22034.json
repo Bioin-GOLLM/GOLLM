@@ -1,0 +1,42 @@
+{
+  "gene": "TRAF6",
+  "geneID": "22034",
+  "go_data": [
+    {
+      "term": "ubiquitin protein ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRAF6 promotes the union of Lys63-bound polyubiquitin chains to its target proteins.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF6 intercedes in starvation-induced skeletal muscle atrophy through multiple mechanisms.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRAF6-mediated ubiquitylation is essential for the activation of different factors.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however, TRAF6 is known to be involved in signaling pathways that often occur in the cytoplasm.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

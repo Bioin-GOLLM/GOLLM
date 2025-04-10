@@ -1,0 +1,42 @@
+{
+  "gene": "IFNalpha",
+  "geneID": "3439",
+  "go_data": [
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFN-alpha is involved in anti-viral innate immunity by blocking virus replication and alerting neighbouring cells to the danger of infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "adaptive immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Type I IFNs, including IFN-alpha, promote adaptive immune responses by priming T helper cells and cytotoxic T cells.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral genome replication",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "IFN-alpha acts to block virus replication as part of the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IFN-alpha is a type of cytokine that acts in an autocrine and paracrine manner.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

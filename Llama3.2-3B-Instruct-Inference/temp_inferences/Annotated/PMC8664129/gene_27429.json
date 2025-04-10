@@ -1,0 +1,24 @@
+{
+  "gene": "HTRA2",
+  "geneID": "27429",
+  "go_data": [
+    {
+      "term": "serine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HTRA2 is described as a serine protease.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial intermembrane space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HTRA2 is located in the intermembrane space.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

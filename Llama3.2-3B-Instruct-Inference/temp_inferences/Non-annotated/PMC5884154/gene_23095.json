@@ -1,0 +1,15 @@
+{
+  "gene": "kinesin family member 1B",
+  "geneID": "23095",
+  "go_data": [
+    {
+      "term": "microtubule-based movement",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "KIF1B is a kinesin family member, which are known to be involved in microtubule-based movement.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

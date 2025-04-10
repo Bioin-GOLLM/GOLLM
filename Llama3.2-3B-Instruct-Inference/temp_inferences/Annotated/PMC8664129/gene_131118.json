@@ -1,0 +1,42 @@
+{
+  "gene": "DNAJC19",
+  "geneID": "131118",
+  "go_data": [
+    {
+      "term": "mitochondrial protein import",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DNAJC19 is part of the TIM23-PAM system, essential for the import of precursor proteins into the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "cochaperone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DNAJC19 is described as a cochaperone associated with the TIM23-PAM system.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DNAJC19 is a mitochondrial cochaperone and interacts with the TIM23 complex, which is localized to the mitochondria.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DNAJC19 forms a complex with prohibitins to regulate cardiolipin remodeling.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

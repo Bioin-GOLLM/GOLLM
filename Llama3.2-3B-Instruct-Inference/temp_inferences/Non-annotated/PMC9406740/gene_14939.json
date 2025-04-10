@@ -1,0 +1,24 @@
+{
+  "gene": "Granzyme B",
+  "geneID": "14939",
+  "go_data": [
+    {
+      "term": "proteolysis",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Granzyme B-dependent proteolysis acts as a switch to enhance the proinflammatory activity of IL-1alpha",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Granzyme B-dependent proteolysis enhances the proinflammatory activity of IL-1alpha",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

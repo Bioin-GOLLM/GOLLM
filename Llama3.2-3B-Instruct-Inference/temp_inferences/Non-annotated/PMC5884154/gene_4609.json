@@ -1,0 +1,51 @@
+{
+  "gene": "Myc",
+  "geneID": "4609",
+  "go_data": [
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myc binds to DNA in the nucleus.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Myc binds to MAX in the nucleus.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Loss-of-function mutations in MAX lead to enhanced cell proliferation due to impaired regulation of Myc.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "negative regulation of cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Loss-of-function mutations in MAX lead to repression of cell differentiation due to impaired regulation of Myc.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "protein dimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myc binds to MAX.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "RAR",
+  "geneID": "5914",
+  "go_data": [
+    {
+      "term": "retinoic acid receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAR types bind to retinoic acid.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein dimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAR heterodimerizes with RXR to bind target sequences.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RAR binds to target sequences, implying nuclear localization.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

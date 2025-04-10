@@ -1,0 +1,535 @@
+[
+  {
+    "gene": "PSPH",
+    "geneID": "5723",
+    "go_data": [
+      {
+        "term": "phosphoserine phosphatase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PSPH has phosphatase activity as measured by a malachite green assay.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "dimerization",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PSPH exists as a dimer in solution and mutations that interfere with dimerization can reduce enzymatic activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however phosphatases are often found in the cytoplasm.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT12",
+    "geneID": "124404",
+    "go_data": [
+      {
+        "term": "sperm annulus formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SEPT12 orchestrates the formation of mammalian sperm annulus by organizing core octameric complexes with other SEPT proteins.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "male gamete generation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SEPT12 mutations cause male infertility with defective sperm annulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein-protein interactions",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT12 interacts with other septin proteins found in the SEPT2, SEPT6, and SEPT7 protein subgroups to form a filamentous structure at the sperm annulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "sperm annulus",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SEPT12 is known to interact with other septin proteins to form a filamentous structure at the sperm annulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CRISPR",
+    "geneID": "70873",
+    "go_data": [
+      {
+        "term": "endonuclease activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CRISPR is used for editing, implying its endonuclease activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "genome editing",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CRISPR is used for editing genes in mice.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PPARG",
+    "geneID": "5468",
+    "go_data": [
+      {
+        "term": "glucose homeostasis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The P12A polymorphism of PPARG increases risk for type 2 diabetes.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "response to drug",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PPARG is involved in response to troglitazone.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AKR7A2",
+    "geneID": "8574",
+    "go_data": [
+      {
+        "term": "NADPH-dependent aldo-keto reductase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "AKR7A2 is an NADPH-dependent aldo-keto reductase that catalyzes the reduction of succinic semialdehyde (SSA) to gamma-hydroxybutyrate (GHB).",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "GABA catabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AKR7A2 catalyzes the reduction of succinic semialdehyde (SSA) to gamma-hydroxybutyrate (GHB), an important reaction in the degradation pathway for the inhibitory neurotransmitter GABA.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As an enzyme involved in the degradation pathway of GABA, AKR7A2 is likely located in the cytoplasm.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NADPH",
+    "geneID": "1666",
+    "go_data": [
+      {
+        "term": "electron carrier activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "NADPH is an electron carrier in the reduction of succinic semialdehyde (SSA) to gamma-hydroxybutyrate (GHB) catalyzed by AKR7A2.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "oxidation-reduction process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "NADPH is involved in the reduction of SSA to GHB, an oxidation-reduction reaction.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ABAT",
+    "geneID": "18",
+    "go_data": [
+      {
+        "term": "metabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "ABAT is an enzyme involved in the metabolism of certain compounds.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "enzyme activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "ABAT is described as an enzyme, implying it has catalytic activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SSADH",
+    "geneID": "7915",
+    "go_data": [
+      {
+        "term": "succinate-semialdehyde dehydrogenase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SSADH is described as succinate semialdehyde dehydrogenase, implying it has this enzymatic activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "metabolic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Impacts on SSA turnover and metabolism of compounds like doxorubicin suggest involvement in metabolic processes.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SMAD4",
+    "geneID": "4089",
+    "go_data": [
+      {
+        "term": "transforming growth factor beta receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SMAD4 is a crucial protein in the TGFbeta/SMAD signaling pathway.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein heterodimerization activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SMAD4 interacts with SMAD3 and SMAD9.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TGFbeta",
+    "geneID": "7040",
+    "go_data": [
+      {
+        "term": "cellular response to growth stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta is implicated in the TGFbeta/SMAD signaling pathway, which is involved in the formation of juvenile polyposis, suggesting a role in cellular response to growth stimulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta is part of the TGFbeta/SMAD signaling pathway, indicating involvement in signal transduction.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "transforming growth factor beta receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TGFbeta is directly mentioned as part of the TGFbeta/SMAD signaling pathway.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SMAD3",
+    "geneID": "4088",
+    "go_data": [
+      {
+        "term": "transforming growth factor beta receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SMAD3 interacts with SMAD4 in the TGFbeta/SMAD signaling pathway.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SMAD3 interacts with SMAD4.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SMAD9",
+    "geneID": "4093",
+    "go_data": [
+      {
+        "term": "transforming growth factor beta receptor signaling pathway",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SMAD9 interaction with SMAD4 is disrupted by mutations, implicating SMAD9 in the TGFbeta/SMAD signaling pathway.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SMAD9 interacts with SMAD4, indicating that SMAD9 has protein binding activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT7",
+    "geneID": "989",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SEPT7 is part of a filamentous structure at the sperm annulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "sperm motility",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Perturbations of SEPT12 interactions with SEPT7 result in poor sperm motility.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT7 interacts with other septin proteins, including SEPT12, SEPT1, and SEPT5.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT2",
+    "geneID": "4735",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SEPT2 is part of a filamentous structure at the sperm annulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT2 is a GTPase, implying it has GTP binding activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "sperm motility",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Disruption of SEPT2 interactions affects sperm motility.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT1",
+    "geneID": "1731",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT1 is a GTPase, implying it has GTP binding activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SEPT1 is a septin protein, which is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein heterodimerization activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT1 interacts with other septin proteins such as SEPT12 and SEPT7.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT5",
+    "geneID": "5413",
+    "go_data": [
+      {
+        "term": "GTP binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT5 is a GTPase, implying it has GTP binding activity.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SEPT5 is a septin, which is a component of the cytoskeleton.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "protein heterodimerization activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SEPT5 interacts with SEPT7 and SEPT2 subgroup proteins, SEPT1.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT6",
+    "geneID": "23157",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "SEPT6 is part of a filamentous structure at the sperm annulus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "sperm motility",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Disorganization of the sperm annulus due to perturbed SEPT12 interactions with SEPT6 results in poor sperm motility.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SEPT12",
+    "geneID": "71089",
+    "go_data": [
+      {
+        "term": "spermatogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Homozygous Sept12G169E males were subfertile, suggesting SEPT12's involvement in spermatogenesis.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TP53",
+    "geneID": "7157",
+    "go_data": []
+  },
+  {
+    "gene": "BRCA1",
+    "geneID": "672",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "BRCA1 is known for its role in DNA repair, although the provided text does not explicitly state this, it is a well established fact, however, the text does mention 'BRCA1' in the context of 'massively parallel functional analysis' and 'saturation genome editing', which implies a role in genome stability, which is related to DNA repair.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "No explicit information is provided in the text about the location of BRCA1, however, it is known that BRCA1 is located in the nucleus.",
+        "reference(s)": [
+          "PMC6742646"
+        ]
+      }
+    ]
+  }
+]

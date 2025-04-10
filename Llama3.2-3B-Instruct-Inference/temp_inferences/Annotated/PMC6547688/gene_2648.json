@@ -1,0 +1,33 @@
+{
+  "gene": "GCN5",
+  "geneID": "2648",
+  "go_data": [
+    {
+      "term": "histone acetyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GCN5/KAT2A is described as a histone acetyl-transferase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GCN5 is involved in making origins more accessible for activation and inducing large-scale chromatin decondensation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GCN5 interacts with the ORC complex, which is involved in DNA replication, a process that occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}
