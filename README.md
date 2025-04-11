@@ -44,8 +44,29 @@ This project implements a complete pipeline for processing gene-related data fro
 
 ## Installation
 
-Download the Gene Ontology file:
+### Set up an environment
+```bash
+conda create -n gollm python=3.11
+conda activate gollm
+```
 
+### Navigate to the project directory
+```bash
+cd /path/to/gollm
+```
+
+### Install the required packages
+```bash
+pip install -r requirements.txt
+
+# if you have a GPU do the following to install the correct version of torch
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126 
+``` 
+
+Download the Gene Ontology file from [Gene Ontology Consortium](https://geneontology.org/docs/download-ontology/). Place it anywhere and copy the path. Paste the path in "obo_file" found in inference.py. The path should look like this:
+```python
+obo_file = "/path/to/go.obo"
+```
 Ensure that go.obo is available at the path specified in the code (or update the path accordingly).
 
 ---
