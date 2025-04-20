@@ -1,0 +1,51 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "insulin receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Insulin binds to its receptor to initiate signaling cascades.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    },
+    {
+      "term": "glucose homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin plays a crucial role in maintaining blood glucose levels.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    },
+    {
+      "term": "pancreatic beta-cell",
+      "relationship": "secreted_by",
+      "namespace": "cellular_component",
+      "justification": "Insulin is secreted by pancreatic beta-cells in response to elevated blood glucose.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    },
+    {
+      "term": "regulation of blood glucose levels",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin regulates blood glucose levels by facilitating glucose uptake in cells.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    },
+    {
+      "term": "cellular response to insulin stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cells respond to insulin by increasing glucose uptake and storage.",
+      "reference(s)": [
+        "PMC8207623"
+      ]
+    }
+  ]
+}

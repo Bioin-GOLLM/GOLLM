@@ -1,0 +1,33 @@
+{
+  "gene": "IRAK2",
+  "geneID": "3656",
+  "go_data": [
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRAK2 is involved in manipulating innate immune signalling pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRAK2 is involved in manipulating innate immune signalling pathways, indicating involvement in signal transduction.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRAK2 is referred to as IL-1 receptor associated kinase 2, indicating it has protein kinase activity.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

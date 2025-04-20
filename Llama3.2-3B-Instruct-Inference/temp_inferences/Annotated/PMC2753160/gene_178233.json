@@ -1,0 +1,33 @@
+{
+  "gene": "unc-31",
+  "geneID": "178233",
+  "go_data": [
+    {
+      "term": "dense core vesicle release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Defects in DCV release, like in the unc-31/CAPS mutant, can also lead to slow locomotion.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "locomotion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Defects in DCV release, like in the unc-31/CAPS mutant, can also lead to slow locomotion.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "motor neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "DCVs are secreted from motor neurons and defects in DCV release, like in the unc-31/CAPS mutant, can also lead to slow locomotion.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

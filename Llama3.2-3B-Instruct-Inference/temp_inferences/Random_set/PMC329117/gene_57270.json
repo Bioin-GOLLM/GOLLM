@@ -1,0 +1,33 @@
+{
+  "gene": "MOR10",
+  "geneID": "57270",
+  "go_data": [
+    {
+      "term": "olfactory receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MOR10 is an olfactory receptor gene, suggesting it enables olfactory receptor activity.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    },
+    {
+      "term": "detection of chemical stimulus involved in sensory perception of smell",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As an olfactory receptor, MOR10 is involved in detecting chemical stimuli for sensory perception of smell.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    },
+    {
+      "term": "olfactory epithelium",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "MOR10 is expressed in the olfactory epithelium, specifically in zone 4.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    }
+  ]
+}

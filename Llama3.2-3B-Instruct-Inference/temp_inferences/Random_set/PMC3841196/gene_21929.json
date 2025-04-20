@@ -1,0 +1,13 @@
+{
+  "gene": "A 20",
+  "geneID": "21929",
+  "go_data": [
+    {
+      "term": "None found",
+      "justification": "No explicit evidence in the text supports any Gene Ontology term for the gene A 20.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

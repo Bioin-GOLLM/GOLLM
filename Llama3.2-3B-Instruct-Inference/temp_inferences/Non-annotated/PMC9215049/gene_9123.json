@@ -1,0 +1,33 @@
+{
+  "gene": "MCT4",
+  "geneID": "9123",
+  "go_data": [
+    {
+      "term": "monocarboxylic acid transmembrane transport",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "MCT4 undertakes proton-coupled symport of monocarboxylate metabolites.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "proton symporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MCT4 has been shown to undertake proton-coupled symport of important monocarboxylate metabolites.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transmembrane transporter, MCT4 is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    }
+  ]
+}

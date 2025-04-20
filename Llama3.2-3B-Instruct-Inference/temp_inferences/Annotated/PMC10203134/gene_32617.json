@@ -1,0 +1,33 @@
+{
+  "gene": "eIF2",
+  "geneID": "32617",
+  "go_data": [
+    {
+      "term": "translation initiation factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "eIF2 is involved in general translation, which is reduced when eIF2 is phosphorylated by PERK kinase.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a translation initiation factor, eIF2 is expected to be located in the cytosol where translation occurs.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "response to endoplasmic reticulum stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Phosphorylation of eIF2 by PERK kinase is part of the response to endoplasmic reticulum stress, specifically the unfolded protein response (UPR).",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

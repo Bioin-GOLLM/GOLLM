@@ -1,0 +1,51 @@
+{
+  "gene": "SLC26A4",
+  "geneID": "23985",
+  "go_data": [
+    {
+      "term": "bicarbonate transmembrane transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Slc26a4/pendrin mediates HCO3- secretion.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Slc26a4/pendrin mediates HCO3- secretion and is important for cochlear function.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "endolymphatic sac",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SLC26A4 is targeted to the Endolymphatic Sac.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "hearing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations in SLC26A4 lead to deficits in hearing.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "vestibular system development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A4 is important for the development of the murine inner ear and vestibular function.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2802 @@
+[
+  {
+    "gene": "TBK-1",
+    "geneID": "29110",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TBK1 is described as a kinase that phosphorylates and activates IRF3 and IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TBK1 is involved in the innate immune response to several different viruses and PAMPs.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "positive regulation of type III interferon production",
+        "go_id": "GO:0034346",
+        "relationship": [
+          "positively_regulates GO:0034343"
+        ],
+        "namespace": "biological_process",
+        "justification": "TBK1 phosphorylates and activates IRF3.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "interferon regulatory factor 7 complex",
+        "go_id": "GO:0097074",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TBK1 phosphorylates and activates IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "C6, which interacts with TBK1 complex, is present in both nucleus and cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF3",
+    "geneID": "3661",
+    "go_data": [
+      {
+        "term": "sequence-specific DNA binding",
+        "go_id": "GO:0043565",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF3 is a transcription factor that binds to specific DNA sequences.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of interferon-beta production",
+        "go_id": "GO:0032648",
+        "relationship": [
+          "regulates GO:0032608"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRF3 is involved in the activation of IFN-beta promoters.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IRF3 translocates to the nucleus after phosphorylation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRF3 plays a role in the innate immune response to viral infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of transcription regulatory region DNA binding",
+        "go_id": "GO:2000677",
+        "relationship": [
+          "regulates GO:0000976"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRF3 binds to the IFN-beta promoter region.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "interferon-beta",
+    "geneID": "3456",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Interferon-beta is induced in response to viral infection and plays a key role in the anti-viral innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cellular response to virus",
+        "go_id": "GO:0098586",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Interferon-beta expression is triggered by the detection of viral DNA and RNA by cellular pattern recognition receptors.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "type I interferon-mediated signaling pathway",
+        "go_id": "GO:0060337",
+        "relationship": [
+          "part_of GO:0071357"
+        ],
+        "namespace": "biological_process",
+        "justification": "Interferon-beta acts in an autocrine and paracrine manner to induce the expression of target genes that contribute to anti-viral innate immunity.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Interferon-beta is a cytokine that promotes anti-viral innate immunity and adaptive immune responses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PRR",
+    "geneID": "10159",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Recognition of viruses by pattern recognition receptors (PRRs) causes interferon-beta (IFN-beta) induction, a key event in the anti-viral innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Endosomal TLRs signal through the adaptor protein MyD88, leading to activation of the kinase IKKalpha which then phosphorylates IRF7, indicating PRRs are located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "PRRs require TRAF3 for the activation of TBK1 and IKKepsilon, which are key components at the point of convergence of several PRR signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NF-kappaB",
+    "geneID": "18033",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "NF-kappaB subunit p65 translocates from the cytoplasm to the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NF-kappaB subunit p65 is initially located in the cytoplasm before translocation to the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of innate immune response",
+        "go_id": "GO:0045088",
+        "relationship": [
+          "regulates GO:0045087"
+        ],
+        "namespace": "biological_process",
+        "justification": "NF-kappaB is activated by PRRs as part of innate immune signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IFN-beta",
+    "geneID": "15977",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IFN-beta promoter activation is induced by PRR stimulation and inhibited by C6, a poxvirus protein, indicating its role in defense response to virus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IFN-beta is a cytokine that is secreted in response to viral infections, such as Sendai virus, and its expression is inhibited by C6.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cellular response to interferon-beta",
+        "go_id": "GO:0035458",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "The presence of C6 inhibits the expression of endogenous IFN-beta mRNA and the secretion of the chemokine CCL5 from infected cells, indicating a role for IFN-beta in cellular response to interferon-beta.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF3",
+    "geneID": "54131",
+    "go_data": [
+      {
+        "term": "sequence-specific DNA binding",
+        "go_id": "GO:0043565",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF3 activates the IFN-beta promoter induction, implying it binds to specific DNA sequences.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IRF3 translocates into the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of interferon-beta production",
+        "go_id": "GO:0032648",
+        "relationship": [
+          "regulates GO:0032608"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRF3 activates the IFN-beta promoter induction.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NF-kappaB",
+    "geneID": "4790",
+    "go_data": [
+      {
+        "term": "regulation of transcription regulatory region DNA binding",
+        "go_id": "GO:2000677",
+        "relationship": [
+          "regulates GO:0000976"
+        ],
+        "namespace": "biological_process",
+        "justification": "NF-kappaB is described as a transcription factor activated by PRRs, critical for innate immunity, implying it binds to DNA regulatory regions.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The text mentions the nuclear translocation of the NF-kappaB subunit p65, indicating NF-kappaB is located in the nucleus upon activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NF-kappaB is mentioned as critical for innate immunity, indicating its involvement in the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "viral genome replication",
+        "go_id": "GO:0019079",
+        "relationship": [
+          "part_of GO:0019058"
+        ],
+        "namespace": "biological_process",
+        "justification": "NF-kappaB activation is implied to counteract viral infection, suggesting it negatively regulates viral genome replication.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The text mentions the translocation of NF-kappaB from the cytoplasm to the nucleus, indicating it is also located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF7",
+    "geneID": "54123",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IRF7 translocation into the nucleus is mentioned, indicating its location.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRF7 activation is downstream of immune-related kinases TBK1 and IKKepsilon, and is involved in response to Sendai virus infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "sequence-specific DNA binding",
+        "go_id": "GO:0043565",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Constitutively active IRF7 activates the ISRE element, indicating DNA binding capability.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TANK binding kinase 1",
+    "geneID": "56480",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TBK1 phosphorylates and activates IRF3 and IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "positive regulation of type III interferon production",
+        "go_id": "GO:0034346",
+        "relationship": [
+          "positively_regulates GO:0034343"
+        ],
+        "namespace": "biological_process",
+        "justification": "TBK1 activates IRF3 through phosphorylation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "interferon regulatory factor 7 complex",
+        "go_id": "GO:0097074",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TBK1 activates IRF7 through phosphorylation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TBK1 is described in relation to its effects on IRF3 and IRF7, which are known to be activated in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IkappaB kinase-epsilon",
+    "geneID": "9641",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IkappaB kinase-epsilon phosphorylates and activates IRF3 and IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "positive regulation of type III interferon production",
+        "go_id": "GO:0034346",
+        "relationship": [
+          "positively_regulates GO:0034343"
+        ],
+        "namespace": "biological_process",
+        "justification": "IkappaB kinase-epsilon phosphorylates IRF3, leading to its dimerization and translocation to the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "interferon regulatory factor 7 complex",
+        "go_id": "GO:0097074",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IkappaB kinase-epsilon phosphorylates IRF7, leading to its activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IkappaB kinase-epsilon is part of a complex that interacts with scaffold proteins in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IkappaB kinase-epsilon plays a role in the activation of IRFs, which are essential for the innate immune response to viruses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "go_id": "GO:0006468",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IkappaB kinase-epsilon phosphorylates IRF3 and IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF7",
+    "geneID": "3665",
+    "go_data": [
+      {
+        "term": "sequence-specific DNA binding",
+        "go_id": "GO:0043565",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF7 is described as a transcription factor.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of interferon-beta production",
+        "go_id": "GO:0032648",
+        "relationship": [
+          "regulates GO:0032608"
+        ],
+        "namespace": "biological_process",
+        "justification": "C6 inhibits IFN-beta expression by preventing the activation of IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a transcription factor, IRF7 is expected to localize to the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRF7 activation is involved in the response to viral infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF7 interacts with MyD88.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TANK",
+    "geneID": "10010",
+    "go_data": [
+      {
+        "term": "scaffold protein binding",
+        "go_id": "GO:0097110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TANK acts as a scaffold protein that associates constitutively with TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "C6 is present in both nucleus and cytoplasm, and TANK interacts with C6.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "C6 is present in both nucleus and cytoplasm, and TANK interacts with C6.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "negative regulation of interferon-beta production",
+        "go_id": "GO:0032688",
+        "relationship": [
+          "negatively_regulates GO:0032608"
+        ],
+        "namespace": "biological_process",
+        "justification": "The M protein of SARS coronavirus targets a complex containing TRAF3, and prevents the association of TRAF3 with TBK1, IKKepsilon or TANK, inhibiting the induction of the IFN-beta promoter.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TANK is part of the protein complex containing TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SINTBAD",
+    "geneID": "9755",
+    "go_data": [
+      {
+        "term": "scaffold protein binding",
+        "go_id": "GO:0097110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "SINTBAD acts as a scaffold protein that associates constitutively with TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "C6 is expressed early during infection and is present in both nucleus and cytoplasm, and SINTBAD interacts with C6.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "SINTBAD is a novel component of innate antiviral immunity.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SINTBAD is part of a protein complex containing TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NAP1",
+    "geneID": "64343",
+    "go_data": [
+      {
+        "term": "scaffold protein binding",
+        "go_id": "GO:0097110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "NAP1 acts as a scaffold protein that associates constitutively with TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NAP1 is present in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NAP1 participates in the TLR3 and cytoplasmic pathways in type I IFN induction.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "NAP1 is a component of the protein complexes containing TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C6L",
+    "geneID": "3707637",
+    "go_data": [
+      {
+        "term": "negative regulation of type I interferon production",
+        "go_id": "GO:0032480",
+        "relationship": [
+          "negatively_regulates GO:0032606"
+        ],
+        "namespace": "biological_process",
+        "justification": "C6 protein inhibits the induction of the type I IFN response after PRR activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "C6 is present in both nucleus and cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "C6 is present in both nucleus and cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "viral process",
+        "go_id": "GO:0016032",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "C6 contributes to VACV virulence.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Bcl-2",
+    "geneID": "596",
+    "go_data": [
+      {
+        "term": "negative regulation of apoptotic process",
+        "go_id": "GO:0043066",
+        "relationship": [
+          "negatively_regulates GO:0006915"
+        ],
+        "namespace": "biological_process",
+        "justification": "Bcl-2 proteins have been shown to inhibit apoptosis.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of immune response",
+        "go_id": "GO:0050776",
+        "relationship": [
+          "regulates GO:0006955"
+        ],
+        "namespace": "biological_process",
+        "justification": "Poxvirus Bcl-2-like proteins, including those similar to Bcl-2, are involved in regulation of host immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Bcl-2-like proteins, such as F1 and N1, have a surface groove for binding BH3 peptides from pro-apoptotic Bcl-2 proteins.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IFNalpha",
+    "geneID": "3439",
+    "go_data": [
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IFN-alpha is involved in anti-viral innate immunity by blocking virus replication and alerting neighbouring cells to the danger of infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "adaptive immune response",
+        "go_id": "GO:0002250",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Type I IFNs, including IFN-alpha, promote adaptive immune responses by priming T helper cells and cytotoxic T cells.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "viral genome replication",
+        "go_id": "GO:0019079",
+        "relationship": [
+          "part_of GO:0019058"
+        ],
+        "namespace": "biological_process",
+        "justification": "IFN-alpha acts to block virus replication as part of the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IFN-alpha is a type of cytokine that acts in an autocrine and paracrine manner.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "melanoma differentiation-associated gene 5",
+    "geneID": "64135",
+    "go_data": [
+      {
+        "term": "double-stranded RNA binding",
+        "go_id": "GO:0003725",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MDA5 senses intracellular double-stranded (ds) RNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "detection of virus",
+        "go_id": "GO:0009597",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MDA5 detects the presence of foreign RNA, specifically double-stranded RNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As a RIG-I-like receptor, MDA5 is expected to be located in the cytoplasm where it can sense intracellular dsRNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "retinoic acid induced gene I",
+    "geneID": "23586",
+    "go_data": [
+      {
+        "term": "double-stranded RNA binding",
+        "go_id": "GO:0003725",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RIG-I senses intracellular double-stranded (ds) RNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "single-stranded RNA binding",
+        "go_id": "GO:0003727",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RIG-I senses single-stranded (ss) RNA containing a 5' triphosphate.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "RNA binding",
+        "go_id": "GO:0003723",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RIG-I has an essential function in double-stranded RNA-induced innate antiviral responses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RIG-I-mediated antiviral responses to single-stranded RNA bearing 5'-phosphates.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RIG-I senses intracellular double-stranded (ds) RNA and single-stranded (ss) RNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR3",
+    "geneID": "7098",
+    "go_data": [
+      {
+        "term": "double-stranded RNA binding",
+        "go_id": "GO:0003725",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TLR3 senses dsRNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "detection of virus",
+        "go_id": "GO:0009597",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR3 senses dsRNA, aiding in the detection of viruses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "endosome",
+        "go_id": "GO:0005768",
+        "relationship": [
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TLR3 is an endosomal toll-like receptor.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "TLR3 activates signalling pathways via TRIF.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR3 is involved in sensing viruses and activating immune response pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR7",
+    "geneID": "51284",
+    "go_data": [
+      {
+        "term": "detection of virus",
+        "go_id": "GO:0009597",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR7 senses single-stranded RNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "endosome",
+        "go_id": "GO:0005768",
+        "relationship": [
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TLR7 is an endosomal toll-like receptor.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "TLR7 signals through the adaptor protein MyD88.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR8",
+    "geneID": "51311",
+    "go_data": [
+      {
+        "term": "detection of virus",
+        "go_id": "GO:0009597",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR8 senses ssRNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "endosome",
+        "go_id": "GO:0005768",
+        "relationship": [
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TLR8 is an endosomal toll-like receptor.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "single-stranded RNA binding",
+        "go_id": "GO:0003727",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TLR8 senses ssRNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR9",
+    "geneID": "54106",
+    "go_data": [
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TLR9 recognizes unmethylated DNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "endosome",
+        "go_id": "GO:0005768",
+        "relationship": [
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TLR9 is an endosomal toll-like receptor.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "detection of virus",
+        "go_id": "GO:0009597",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR9 is involved in sensing DNA viruses by recognizing the presence of unmethylated DNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "TLR9 signals through the adaptor protein MyD88, leading to activation of the kinase IKKalpha.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AIM2",
+    "geneID": "9447",
+    "go_data": [
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "AIM2 is described as a cytoplasmic DNA sensor.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "AIM2 recognizes cytosolic dsDNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "canonical inflammasome complex assembly",
+        "go_id": "GO:0140632",
+        "relationship": [
+          "part_of GO:0141084"
+        ],
+        "namespace": "biological_process",
+        "justification": "AIM2 activates the inflammasome leading to processing of pro-interleukin (IL)-1beta and release of IL-1beta.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "AIM2 is involved in sensing DNA viruses by recognizing the presence of dsDNA in the cytosol.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "caspase binding",
+        "go_id": "GO:0089720",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "AIM2 forms a caspase-1-activating inflammasome with ASC.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DAI",
+    "geneID": "81030",
+    "go_data": [
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "DAI is a cytosolic DNA sensor",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "DAI recognizes the presence of dsDNA in the cytosol",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DAI is an activator of innate immune response",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "type I interferon production",
+        "go_id": "GO:0032606",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DAI signals to cause type I IFN production",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IFI16",
+    "geneID": "3428",
+    "go_data": [
+      {
+        "term": "intracellular signal transduction",
+        "go_id": "GO:0035556",
+        "relationship": [
+          "occurs_in GO:0005622"
+        ],
+        "namespace": "biological_process",
+        "justification": "IFI16 signals to cause type I IFN production in response to DNA viruses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "go_id": "GO:0005829",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IFI16 recognizes the presence of dsDNA in the cytosol.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "double-stranded DNA binding",
+        "go_id": "GO:0003690",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IFI16 is an innate immune sensor for intracellular DNA, recognizing dsDNA.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IFI16 is involved in sensing DNA viruses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1beta",
+    "geneID": "3553",
+    "go_data": [
+      {
+        "term": "inflammatory response",
+        "go_id": "GO:0006954",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-1beta is released after activation of the inflammasome, leading to an inflammatory response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-1beta acts as a cytokine to induce NF-kappaB activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "go_id": "GO:0005615",
+        "relationship": [
+          "part_of GO:0005576"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IL-1beta is released from cells after processing.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TBK1",
+    "geneID": "100358771",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TBK1 is a kinase that phosphorylates IRF3, causing its translocation to the nucleus and the transcriptional activation of promoters.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TBK1 exists in complexes with scaffold proteins TANK, NAP1, or SINTBAD in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TBK1 is involved in the activation of IRF3 and IRF7, which are key transcription factors in the innate immune response to viral infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "I-kappaB phosphorylation",
+        "go_id": "GO:0007252",
+        "relationship": [
+          "part_of GO:0007249"
+        ],
+        "namespace": "biological_process",
+        "justification": "TBK1 phosphorylates IRF3, causing its translocation to the nucleus and the transcriptional activation of promoters.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-containing complex assembly",
+        "go_id": "GO:0065003",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TBK1 forms complexes with scaffold proteins TANK, NAP1, or SINTBAD.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TANK",
+    "geneID": "100339142",
+    "go_data": [
+      {
+        "term": "scaffold protein binding",
+        "go_id": "GO:0097110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TANK acts as a scaffold protein that binds to kinases TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TANK is involved in signaling pathways that occur in the cytoplasm, such as the activation of IRF3 and IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TANK is part of the signaling pathways activated by RLRs, TLR3, and other intracellular DNA sensors, which are involved in the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TANK exists in complexes with kinases TBK1 and IKKepsilon, and other scaffold proteins like NAP1 and SINTBAD.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NAP1",
+    "geneID": "100009129",
+    "go_data": [
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "NAP1 exists in complexes with the kinases TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "scaffold protein binding",
+        "go_id": "GO:0097110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "NAP1 acts as a scaffold protein for TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NAP1 interacts with TBK1 and IKKepsilon, which are cytoplasmic kinases.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NAP1 is involved in the signalling pathways activated by RLRs and TLR3, which are part of the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "NAP1 interacts with C6, TBK1, and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MAVS",
+    "geneID": "57506",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MAVS is a mitochondrial antiviral signalling protein that activates NF-kappaB and IRF3.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "mitochondrion",
+        "go_id": "GO:0005739",
+        "relationship": [
+          "part_of GO:0005737"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MAVS is a mitochondrial antiviral signalling protein.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "MAVS activates NF-kappaB and IRF3 as part of a signalling cascade.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "STING",
+    "geneID": "340061",
+    "go_data": [
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "STING regulates intracellular DNA-mediated, type I interferon-dependent innate immunity.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "go_id": "GO:0005783",
+        "relationship": [
+          "part_of GO:0005737",
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "STING facilitates innate immune signalling.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIF",
+    "geneID": "106759",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "TRIF is used by TLR3 in the toll-like receptor signaling pathway.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "TIR domain binding",
+        "go_id": "GO:0070976",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TRIF is described as a TIR-domain containing adaptor molecule.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "As an adaptor protein in toll-like receptor signaling, TRIF is expected to be located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF3",
+    "geneID": "7187",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "TRAF3 is required for the activation of TBK1 and IKKepsilon by PRR signalling.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TRAF3 is a component of TLR and RLR signalling pathways, which are involved in the antiviral response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-containing complex",
+        "go_id": "GO:0032991",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "TRAF3 is part of a complex containing TBK1, IKKepsilon, and TANK.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TRAF3 is involved in the signalling pathways of TLR and RLR, which are typically located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF3",
+    "geneID": "103346571",
+    "go_data": [
+      {
+        "term": "sequence-specific DNA binding",
+        "go_id": "GO:0043565",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF3 binds to specific DNA sequences to activate transcription.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRF3 is involved in the defense response against viral infections.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IRF3 translocates to the nucleus to activate transcription.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "transcription regulator activity",
+        "go_id": "GO:0140110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF3 activates transcription of target genes, such as IFN-beta and CCL5.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IRF3 is initially located in the cytoplasm before translocating to the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "go_id": "GO:0006468",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRF3 is phosphorylated by TBK1 and IKKepsilon, leading to its activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CCL5",
+    "geneID": "6352",
+    "go_data": [
+      {
+        "term": "chemokine activity",
+        "go_id": "GO:0008009",
+        "relationship": [
+          "part_of GO:0060326"
+        ],
+        "namespace": "molecular_function",
+        "justification": "CCL5 is referred to as a chemokine.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "immune response",
+        "go_id": "GO:0006955",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CCL5 is induced during viral infection and anti-viral responses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytokine-mediated signaling pathway",
+        "go_id": "GO:0019221",
+        "relationship": [
+          "part_of GO:0071345"
+        ],
+        "namespace": "biological_process",
+        "justification": "CCL5 is activated by IRF3 and NF-kappaB during viral infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "extracellular space",
+        "go_id": "GO:0005615",
+        "relationship": [
+          "part_of GO:0005576"
+        ],
+        "namespace": "cellular_component",
+        "justification": "The secretion of the chemokine CCL5 from infected cells is mentioned.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF7",
+    "geneID": "100358763",
+    "go_data": [
+      {
+        "term": "DNA-binding transcription activator activity",
+        "go_id": "GO:0001216",
+        "relationship": [
+          "part_of GO:0045893"
+        ],
+        "namespace": "molecular_function",
+        "justification": "IRF7 is a transcription factor that participates in the induction of the IFN-beta promoter in response to PRR signalling.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Once activated, IRF7 translocates to the nucleus to regulate the expression of target genes.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRF7 plays an important role in anti-viral responses and is essential for the induction of IFN-alpha genes.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of interferon-beta production",
+        "go_id": "GO:0032648",
+        "relationship": [
+          "regulates GO:0032608"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRF7 is particularly important for the continued expression of IFN-beta during viral infection.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IRF7 is present at low levels in most cells before being induced and activated.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR8",
+    "geneID": "100328930",
+    "go_data": [
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR8 is involved in the activation of IRF7, leading to the induction of IFN-alpha genes.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "endosome",
+        "go_id": "GO:0005768",
+        "relationship": [
+          "part_of GO:0012505"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TLR8 is described as an endosomal TLR.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "MyD88-dependent toll-like receptor signaling pathway",
+        "go_id": "GO:0002755",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR8 signals through the adaptor protein MyD88.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MyD88",
+    "geneID": "4615",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "MyD88 is employed by TLR7, TLR8 and TLR9, leading to activation of the kinase IKKalpha.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MyD88 acts as an adaptor protein in TLR signalling pathways, which typically occur in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IKKalpha",
+    "geneID": "1147",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IKKalpha phosphorylates IRF7.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "interferon regulatory factor 7 complex",
+        "go_id": "GO:0097074",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IKKalpha is involved in the activation of IRF7 through phosphorylation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IKKalpha is involved in signalling pathways and is likely located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IKKbeta",
+    "geneID": "3551",
+    "go_data": [
+      {
+        "term": "protein serine/threonine kinase activity",
+        "go_id": "GO:0004674",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IKKbeta is involved in the phosphorylation of the inhibitor of NF-kappaB (IkappaB).",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "canonical NF-kappaB signal transduction",
+        "go_id": "GO:0007249",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IKKbeta phosphorylates IkappaB, leading to its degradation and the subsequent activation of NF-kappaB.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IKKbeta is involved in the phosphorylation of IkappaB in the cytoplasm, prior to NF-kappaB activation and nuclear translocation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AP-1",
+    "geneID": "3726",
+    "go_data": [
+      {
+        "term": "regulation of transcription regulatory region DNA binding",
+        "go_id": "GO:2000677",
+        "relationship": [
+          "regulates GO:0000976"
+        ],
+        "namespace": "biological_process",
+        "justification": "AP-1 transcription factor family induces the transcription of the IFN-beta promoter.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "go_id": "GO:0006357",
+        "relationship": [
+          "regulates GO:0006366"
+        ],
+        "namespace": "biological_process",
+        "justification": "AP-1 transcription factor family induces the transcription of the IFN-beta promoter.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRF",
+    "geneID": "84676",
+    "go_data": [
+      {
+        "term": "transcription regulator activity",
+        "go_id": "GO:0140110",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF3 causes the transcriptional activation of promoters containing appropriate binding sites.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IRF3 translocates to the nucleus after phosphorylation by TBK1 and IKKepsilon.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRF-7 is the master regulator of type-I interferon-dependent immune responses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "go_id": "GO:0006468",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Virus-dependent phosphorylation of the IRF-3 transcription factor regulates nuclear translocation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "sequence-specific DNA binding",
+        "go_id": "GO:0043565",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRF3 binds to appropriate binding sites, such as the IFN-beta and CCL5 promoters, and a subset of promoters containing IFN-stimulated response elements (ISREs).",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "B14",
+    "geneID": "4700",
+    "go_data": [
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "go_id": "GO:0032088",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "B14 binds IKKbeta and thereby inhibits IkappaB phosphorylation and NF-kappaB activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "B14 binds IKKbeta.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "B14 binds IKKbeta, which is part of the IKK complex located in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "negative regulation of innate immune response",
+        "go_id": "GO:0045824",
+        "relationship": [
+          "negatively_regulates GO:0045087"
+        ],
+        "namespace": "biological_process",
+        "justification": "B14 inhibits innate immune signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "A52",
+    "geneID": "270106",
+    "go_data": [
+      {
+        "term": "negative regulation of innate immune response",
+        "go_id": "GO:0045824",
+        "relationship": [
+          "negatively_regulates GO:0045087"
+        ],
+        "namespace": "biological_process",
+        "justification": "A52 inhibits innate immune signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "go_id": "GO:0032088",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "A52 inhibits NF-kappaB activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "A52 targets the downstream signalling factors TRAF6 and IL-1 receptor associated kinase 2 (IRAK2).",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p65",
+    "geneID": "19697",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "p65 translocates from the cytoplasm to the nucleus upon activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "p65 is initially located in the cytoplasm before translocation to the nucleus.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "canonical NF-kappaB signal transduction",
+        "go_id": "GO:0007249",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "p65 is a subunit of NF-kappaB and its nuclear translocation is a key step in NF-kappaB activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IL-1",
+    "geneID": "111343",
+    "go_data": [
+      {
+        "term": "cytokine activity",
+        "go_id": "GO:0005125",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IL-1 stimulated cells, indicating its role as a cytokine.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cellular response to cytokine stimulus",
+        "go_id": "GO:0071345",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Cells were stimulated with IL-1, triggering a response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "p65",
+    "geneID": "5970",
+    "go_data": [
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "p65 accumulation in the nucleus was observed during Sendai virus infection and IL-1 stimulation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "canonical NF-kappaB signal transduction",
+        "go_id": "GO:0007249",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IL-1, an activator of NF-kappaB, caused p65 nuclear translocation, indicating p65's involvement in NF-kappaB signaling.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "nuclear transport",
+        "go_id": "GO:0051169",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "p65 underwent nuclear translocation in response to Sendai virus infection and IL-1 stimulation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Gal4",
+    "geneID": "3960",
+    "go_data": [
+      {
+        "term": "DNA-binding transcription factor activity",
+        "go_id": "GO:0003700",
+        "relationship": [
+          "has_part GO:0000976",
+          "part_of GO:0006355"
+        ],
+        "namespace": "molecular_function",
+        "justification": "The DNA-binding domain of Gal4 is used in a fusion protein to measure transactivation activity.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "regulation of transcription by RNA polymerase II",
+        "go_id": "GO:0006357",
+        "relationship": [
+          "regulates GO:0006366"
+        ],
+        "namespace": "biological_process",
+        "justification": "Gal4-dependent promoter controls the expression of a luciferase reporter gene.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RLR",
+    "geneID": "79132",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RLR is part of the antiviral response, as indicated by its interaction with TRAF3, a component of TLR and RLR signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RLR signalling pathways are mentioned alongside TLR, suggesting involvement in the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ISG15",
+    "geneID": "9636",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ISG15 is induced by IRF3, a transcription factor known for its role in antiviral responses.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein-DNA ISRE complex",
+        "go_id": "GO:0097522",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "The ISG15 promoter contains an ISRE element that is transcriptionally activated by IRFs.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IKKepsilon",
+    "geneID": "56489",
+    "go_data": [
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IKKepsilon is involved in the TBK1/IKKepsilon-dependent pathway, indicating its role as a kinase.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IKKepsilon is involved in signaling pathways, which typically occur in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IKKepsilon is involved in the activation of IRF7, which is a key component of the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "IKKepsilon is part of the TBK1/IKKepsilon-dependent pathway, which is a signaling pathway.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR8",
+    "geneID": "170744",
+    "go_data": [
+      {
+        "term": "defense response to virus",
+        "go_id": "GO:0051607",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR8 is stimulated by agonists and activates IRF7, suggesting a role in viral defense.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "TLR8 is a Toll-like receptor, which is typically located in the cytoplasm or endosomes.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "TLR8 is a receptor that is stimulated by agonists CL075 or R848.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IKKalpha",
+    "geneID": "12675",
+    "go_data": [
+      {
+        "term": "interferon regulatory factor 7 complex",
+        "go_id": "GO:0097074",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IKKalpha activates IRF7 via MyD88 in response to TLR8 stimulation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IKKalpha is part of the non-canonical NF-kappaB signaling pathway, which typically resides in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IKKalpha is a kinase that phosphorylates and activates downstream targets.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MyD88",
+    "geneID": "17874",
+    "go_data": [
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "MyD88 over-expression affects IRF7 activation, indicating involvement in signal transduction.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MyD88 is involved in the activation of IRF7, which is part of the innate immune response.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MAVS",
+    "geneID": "228607",
+    "go_data": [
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "MAVS is an adaptor protein involved in the activation of IRF3.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "MAVS is an adaptor protein that interacts with kinases like TBK1, typically found in the cytoplasm.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TANK",
+    "geneID": "21353",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TANK co-precipitated with C6, indicating a direct interaction.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAF6",
+    "geneID": "7189",
+    "go_data": [
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TRAF6 is involved in manipulating innate immune signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "TRAF6 is targeted by A52 and is involved in downstream signalling factors.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "toll-like receptor signaling pathway",
+        "go_id": "GO:0002224",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Interferon-alpha induction through Toll-like receptors involves a direct interaction of IRF7 with MyD88 and TRAF6.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRAK2",
+    "geneID": "3656",
+    "go_data": [
+      {
+        "term": "innate immune response",
+        "go_id": "GO:0045087",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "IRAK2 is involved in manipulating innate immune signalling pathways.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "signal transduction",
+        "go_id": "GO:0007165",
+        "relationship": [
+          "part_of GO:0007154",
+          "part_of GO:0023052",
+          "part_of GO:0051716"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRAK2 is involved in manipulating innate immune signalling pathways, indicating involvement in signal transduction.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "protein kinase activity",
+        "go_id": "GO:0004672",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRAK2 is referred to as IL-1 receptor associated kinase 2, indicating it has protein kinase activity.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DDX3",
+    "geneID": "1654",
+    "go_data": [
+      {
+        "term": "RNA helicase activity",
+        "go_id": "GO:0003724",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "DDX3 is described as a helicase, indicating it has RNA helicase activity.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "negative regulation of NF-kappaB transcription factor activity",
+        "go_id": "GO:0032088",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DDX3 is part of the complexes containing TBK1 and IKKepsilon, which are involved in NF-kappaB signaling.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "negative regulation of type III interferon production",
+        "go_id": "GO:0034345",
+        "relationship": [
+          "negatively_regulates GO:0034343"
+        ],
+        "namespace": "biological_process",
+        "justification": "K7 inhibits IRF3 phosphorylation by binding to DDX3.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "M protein",
+    "geneID": "9172",
+    "go_data": [
+      {
+        "term": "negative regulation of type I interferon production",
+        "go_id": "GO:0032480",
+        "relationship": [
+          "negatively_regulates GO:0032606"
+        ],
+        "namespace": "biological_process",
+        "justification": "M protein inhibits type I interferon production by impeding the formation of TRAF3.TANK.TBK1/IKKepsilon complex.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "symbiont-mediated suppression of host cytoplasmic pattern recognition receptor signaling pathway via inhibition of IRF3 activity",
+        "go_id": "GO:0039548",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "M protein inhibits the induction of the IFN-beta promoter by inhibiting IRF3 activation.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      },
+      {
+        "term": "viral nucleocapsid",
+        "go_id": "GO:0019013",
+        "relationship": [
+          "part_of GO:0019028"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, removing as per instructions",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TLR3",
+    "geneID": "142980",
+    "go_data": [
+      {
+        "term": "toll-like receptor 3 signaling pathway",
+        "go_id": "GO:0034138",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TLR3 participates in the TLR3 pathway in type I IFN induction.",
+        "reference(s)": [
+          "PMC3169548"
+        ]
+      }
+    ]
+  }
+]

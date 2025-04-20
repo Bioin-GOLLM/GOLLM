@@ -1,0 +1,51 @@
+{
+  "gene": "TBK1",
+  "geneID": "100358771",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TBK1 is a kinase that phosphorylates IRF3, causing its translocation to the nucleus and the transcriptional activation of promoters.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TBK1 exists in complexes with scaffold proteins TANK, NAP1, or SINTBAD in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 is involved in the activation of IRF3 and IRF7, which are key transcription factors in the innate immune response to viral infection.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF3 phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 phosphorylates IRF3, causing its translocation to the nucleus and the transcriptional activation of promoters.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 forms complexes with scaffold proteins TANK, NAP1, or SINTBAD.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

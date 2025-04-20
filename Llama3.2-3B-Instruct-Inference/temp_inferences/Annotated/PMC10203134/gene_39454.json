@@ -1,0 +1,15 @@
+{
+  "gene": "ATG1",
+  "geneID": "39454",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RNAi-mediated knock down of ATG1 prevented the increase of ATG8II seen in wild-type flies, indicating ATG1 is required for autophagy.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

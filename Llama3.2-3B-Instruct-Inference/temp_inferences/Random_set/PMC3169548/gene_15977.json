@@ -1,0 +1,33 @@
+{
+  "gene": "IFN-beta",
+  "geneID": "15977",
+  "go_data": [
+    {
+      "term": "defense response to virus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFN-beta promoter activation is induced by PRR stimulation and inhibited by C6, a poxvirus protein, indicating its role in defense response to virus.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IFN-beta is a cytokine that is secreted in response to viral infections, such as Sendai virus, and its expression is inhibited by C6.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cellular response to interferon-beta",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The presence of C6 inhibits the expression of endogenous IFN-beta mRNA and the secretion of the chemokine CCL5 from infected cells, indicating a role for IFN-beta in cellular response to interferon-beta.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

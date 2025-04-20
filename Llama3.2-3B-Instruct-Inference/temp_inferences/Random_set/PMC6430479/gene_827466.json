@@ -1,0 +1,24 @@
+{
+  "gene": "UBIQUITIN C-TERMINAL HYDROLASE 3",
+  "geneID": "827466",
+  "go_data": [
+    {
+      "term": "thiol-dependent ubiquitin-specific protease activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "UBIQUITIN C-TERMINAL HYDROLASE 3 is described as encoding UCH3, implying a role in ubiquitin processing.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to infection",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The relative expression of UCH3 was analyzed in infected and non-infected Arabidopsis roots.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

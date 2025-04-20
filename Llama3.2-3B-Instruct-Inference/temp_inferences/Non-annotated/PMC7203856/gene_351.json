@@ -1,0 +1,42 @@
+{
+  "gene": "Abeta",
+  "geneID": "351",
+  "go_data": [
+    {
+      "term": "amyloid fibril formation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Abeta aggregation begins in a preclinical phase of Alzheimer's disease and rises over a decade.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "neuroinflammation",
+      "relationship": "contributes_to",
+      "namespace": "biological_process",
+      "justification": "Activated microglia are seen surrounding both Abeta plaques and dying neurones containing tau tangles.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "protein aggregate",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Extracellular beta-amyloid (Abeta) fibrillar plaques are a hallmark of Alzheimer's disease.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    },
+    {
+      "term": "tau protein binding",
+      "relationship": "interacts_with",
+      "namespace": "molecular_function",
+      "justification": "Abeta plaques are associated with tau tangle formation.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

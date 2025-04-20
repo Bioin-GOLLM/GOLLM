@@ -1,0 +1,24 @@
+{
+  "gene": "C1QB",
+  "geneID": "713",
+  "go_data": [
+    {
+      "term": "complement activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C1QB is part of the complement system, as indicated by its enrichment along with other complement proteins.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "extracellular exosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C1QB was found to be enriched in exosomes compared to those from healthy donor plasma.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

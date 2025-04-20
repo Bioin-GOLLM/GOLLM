@@ -1,0 +1,42 @@
+{
+  "gene": "IkappaBalpha",
+  "geneID": "18035",
+  "go_data": [
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IkappaBalpha protein is phosphorylated, ubiquitinated, and degraded in the cytoplasm by the proteasome.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IkappaBalpha is ubiquitinated after phosphorylation by IKK enzyme.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "NF-kappaB signaling",
+      "relationship": "negatively_regulates",
+      "namespace": "biological_process",
+      "justification": "Degradation of IkappaBalpha leads to NF-kappaB availability, indicating its negative regulation of NF-kappaB signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IkappaBalpha is phosphorylated by IKK enzyme.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "MYA2",
+  "geneID": "834412",
+  "go_data": [
+    {
+      "term": "ATPase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MYA2 has ATPase activity that is more stable than those of Chara myosins.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cytoskeleton-dependent intracellular transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "No direct evidence, however MYA2 is a myosin, which typically plays a role in this process, but since it is not explicitly stated, this should not be included.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

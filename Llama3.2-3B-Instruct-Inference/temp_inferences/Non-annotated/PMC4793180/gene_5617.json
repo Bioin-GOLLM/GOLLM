@@ -1,0 +1,24 @@
+{
+  "gene": "prolactin",
+  "geneID": "5617",
+  "go_data": [
+    {
+      "term": "hormone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Prolactin is listed among other hormones, implying it has hormone activity.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    },
+    {
+      "term": "blood",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Prolactin levels were checked in the patient, implying it is present in the blood.",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

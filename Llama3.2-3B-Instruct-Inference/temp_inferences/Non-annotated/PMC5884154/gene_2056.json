@@ -1,0 +1,15 @@
+{
+  "gene": "EPO",
+  "geneID": "2056",
+  "go_data": [
+    {
+      "term": "erythropoiesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "EPO is involved in regulating genes involved in erythropoiesis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

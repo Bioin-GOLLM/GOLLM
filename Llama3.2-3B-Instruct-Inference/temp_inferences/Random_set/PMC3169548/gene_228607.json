@@ -1,0 +1,24 @@
+{
+  "gene": "MAVS",
+  "geneID": "228607",
+  "go_data": [
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAVS is an adaptor protein involved in the activation of IRF3.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MAVS is an adaptor protein that interacts with kinases like TBK1, typically found in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

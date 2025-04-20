@@ -1,0 +1,24 @@
+{
+  "gene": "IIa",
+  "geneID": "11981",
+  "go_data": [
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MHC-IIa is associated with fast-twitch muscles, which are involved in muscle contraction.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle fiber",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "MHC-IIa is a fiber type found in skeletal muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

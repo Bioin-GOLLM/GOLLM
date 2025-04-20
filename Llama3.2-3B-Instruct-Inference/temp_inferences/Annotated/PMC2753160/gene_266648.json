@@ -1,0 +1,24 @@
+{
+  "gene": "SNB-1",
+  "geneID": "266648",
+  "go_data": [
+    {
+      "term": "synaptic vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SNB-1-GFP is used to label synaptic vesicles (SVs).",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neuron projection",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SNB-1 is found in cholinergic motor neurons projecting axons into the dorsal cord.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

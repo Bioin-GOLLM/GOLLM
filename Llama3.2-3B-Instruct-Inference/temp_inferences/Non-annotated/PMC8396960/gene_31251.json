@@ -1,0 +1,33 @@
+{
+  "gene": "PERIOD",
+  "geneID": "31251",
+  "go_data": [
+    {
+      "term": "circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PERIOD is part of the transcription-based feedback loops or post-translational regulation within the clock that functions with a near-24-hour period.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "regulation of circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PERIOD is controlled by the TRPA channel PYREXIA to regulate the Drosophila circadian clock.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "central nervous system",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Expression of clock genes period and timeless in the central nervous system of the Mediterranean flour moth, Ephestia kuehniella, implies PERIOD is expressed in the central nervous system.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    }
+  ]
+}

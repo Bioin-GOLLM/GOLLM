@@ -1,0 +1,33 @@
+{
+  "gene": "SLC26A5",
+  "geneID": "80979",
+  "go_data": [
+    {
+      "term": "outer hair cell electromotility",
+      "relationship": "enables",
+      "namespace": "biological_process",
+      "justification": "Slc26a5/prestin is the motor protein that supports outer hair cell electromotility.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "cochlear amplifier",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Prestin is required for the cochlear amplifier.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "auditory receptor cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SLC26A5 has highly-restricted expression patterns in the auditory periphery.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

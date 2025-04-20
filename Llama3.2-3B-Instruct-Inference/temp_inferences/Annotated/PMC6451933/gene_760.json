@@ -1,0 +1,24 @@
+{
+  "gene": "Ca2+-sensor synaptotagmin-1",
+  "geneID": "760",
+  "go_data": [
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ca2+-sensor synaptotagmin-1 is required for evoked synchronous fusion, indicating it binds to calcium ions.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "evoked synaptic transmission",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Synaptotagmin-1 is required for evoked synchronous fusion, a process involved in synaptic transmission.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

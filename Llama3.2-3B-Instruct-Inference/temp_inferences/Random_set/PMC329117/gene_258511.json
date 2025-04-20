@@ -1,0 +1,42 @@
+{
+  "gene": "Odorant receptor",
+  "geneID": "258511",
+  "go_data": [
+    {
+      "term": "olfactory receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Odorant receptors function in detecting odorants.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    },
+    {
+      "term": "sensory perception of smell",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Odorant receptors are expressed in the olfactory epithelium and are involved in detecting odorants.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    },
+    {
+      "term": "olfactory epithelium",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Odorant receptors are expressed in the olfactory epithelium.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    },
+    {
+      "term": "sperm chemotaxis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "One human testis-expressed olfactory receptor indicates that it functions in sperm chemotaxis.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    }
+  ]
+}

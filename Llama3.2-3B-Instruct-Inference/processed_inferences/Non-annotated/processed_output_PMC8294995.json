@@ -1,0 +1,48 @@
+[
+  {
+    "gene": "Insulin",
+    "geneID": "3630",
+    "go_data": [
+      {
+        "term": "glucose homeostasis",
+        "go_id": "GO:0042593",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Insulin is used to control glucose levels in type 2 diabetes patients.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "cellular response to glucose stimulus",
+        "go_id": "GO:0071333",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Insulin is released in response to glucose stimulus to regulate blood glucose levels.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "peptide hormone receptor binding",
+        "go_id": "GO:0051428",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Insulin binds to its receptor to regulate glucose uptake and metabolism.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      },
+      {
+        "term": "extracellular region",
+        "go_id": "GO:0005576",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Insulin is secreted into the extracellular region to regulate glucose levels.",
+        "reference(s)": [
+          "PMC8294995"
+        ]
+      }
+    ]
+  }
+]

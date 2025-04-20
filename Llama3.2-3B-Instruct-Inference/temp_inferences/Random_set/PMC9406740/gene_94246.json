@@ -1,0 +1,15 @@
+{
+  "gene": "BCAA",
+  "geneID": "94246",
+  "go_data": [
+    {
+      "term": "nutrient uptake",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BCAA is being studied as a supplement for muscle atrophy conditions, implying involvement in nutrient uptake.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

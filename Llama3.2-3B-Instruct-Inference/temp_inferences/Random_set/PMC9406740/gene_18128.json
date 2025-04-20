@@ -1,0 +1,15 @@
+{
+  "gene": "Notch-1",
+  "geneID": "18128",
+  "go_data": [
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ND treatment prevented the alteration in Notch-1 expression suggesting the advancement of myogenic stem cell differentiation in response to atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

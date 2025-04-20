@@ -1,0 +1,24 @@
+{
+  "gene": "ESRRG",
+  "geneID": "2104",
+  "go_data": [
+    {
+      "term": "hormone receptor domain binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ESRRG has a hormone receptor domain that binds to PSMC5.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ESRRG binds to PSMC5.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

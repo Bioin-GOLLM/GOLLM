@@ -1,0 +1,33 @@
+{
+  "gene": "P31",
+  "geneID": "55850",
+  "go_data": [
+    {
+      "term": "viral genome replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GII.P31 genotype was detected in NoV-positive samples, indicating its involvement in viral genome replication.",
+      "reference(s)": [
+        "PMC10056664"
+      ]
+    },
+    {
+      "term": "recombination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GII.P31 strains were found to be part of intergenotypic and intragenotypic recombinant strains, indicating their involvement in recombination.",
+      "reference(s)": [
+        "PMC10056664"
+      ]
+    },
+    {
+      "term": "virion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "As a genotype of Norovirus, P31 is part of the virion.",
+      "reference(s)": [
+        "PMC10056664"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "gene": "AMPK",
+  "geneID": "78975",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AMPK is described as a protein kinase activated by 5'adenosine monophosphate.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of skeletal muscle mass",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AMPK has an important role in skeletal muscle metabolism and protein synthesis and is able to inhibit the anabolic processes that consume ATP and regulate skeletal muscle mass.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "fatty acid oxidation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AICA riboside increases AMP-activated protein kinase, fatty acid oxidation, and glucose uptake in rat muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "glucose uptake",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AICA riboside increases AMP-activated protein kinase, fatty acid oxidation, and glucose uptake in rat muscle.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The inhibition of protein synthesis by AMPK is mediated by the mTORC1 block.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Denervation-induced atrophy is related to the upregulation of specific histone deacetylases (HDAC), able to repress a negative regulator of myogenin, with an increase in MuRF1 expression and muscle wasting. AMPK (protein kinase activated by 5'adenosine monophosphate) is also involved in muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

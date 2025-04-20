@@ -1,0 +1,42 @@
+{
+  "gene": "epidermal growth factor receptor 2",
+  "geneID": "2064",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HER2 is a tumor-associated antigen and a receptor.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "HER2 is a transmembrane receptor.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HER2 is involved in signaling pathways.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HER2 binds to other proteins.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

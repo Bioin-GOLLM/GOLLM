@@ -1,0 +1,24 @@
+{
+  "gene": "MyHC",
+  "geneID": "111671",
+  "go_data": [
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MyHC is associated with muscle fibers, which are involved in muscle contraction.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle fiber",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "MyHC is a component of muscle fibers.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

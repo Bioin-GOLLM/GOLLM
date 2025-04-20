@@ -1,0 +1,24 @@
+{
+  "gene": "MAPK",
+  "geneID": "26413",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAPK is part of the MAPK-Erk (p90RSK) signaling pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "anabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAPK is mentioned in the context of anabolic processes mediated by MAPK-Erk (p90RSK) signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

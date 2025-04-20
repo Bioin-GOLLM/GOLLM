@@ -1,0 +1,42 @@
+{
+  "gene": "Slc26a7",
+  "geneID": "208890",
+  "go_data": [
+    {
+      "term": "iodide transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A7 is involved in iodide transport at the apical membrane of thyroid follicular cells.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A7 plays a crucial role in thyroid hormone synthesis by transporting iodide into thyroid follicular cells.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "apical plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SLC26A7 is localized at the apical membrane of thyroid follicular cells and renal tubular cells.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "anion transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SLC26A7 functions as an anion exchanger, transporting chloride and other anions across cell membranes.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

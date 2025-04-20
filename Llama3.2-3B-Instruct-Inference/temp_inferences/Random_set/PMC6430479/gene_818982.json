@@ -1,0 +1,60 @@
+{
+  "gene": "MPK6",
+  "geneID": "818982",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MPK3/MPK6-mediated phosphorylation stabilizes ERF6.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to osmotic stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mild osmotic stress is thought to induce elevated cellular levels of ACC, which could activate MPK3/MPK6.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to reactive oxygen species",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ROS could activate MPK3/MPK6 and, further downstream, ERF6.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to high light intensity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "High light treatment is associated with MPK3/MPK6 and ERF6 regulation.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to cold",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cold is associated with MPK3/MPK6 and ERF6 regulation.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MPK3/MPK6 is implied to be located in the cytoplasm where it phosphorylates ERF6 before ERF6's translocation to the nucleus.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

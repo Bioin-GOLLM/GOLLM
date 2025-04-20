@@ -1,0 +1,51 @@
+{
+  "gene": "Slc26a7",
+  "geneID": "208890",
+  "go_data": [
+    {
+      "term": "anion transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Slc26a7 participates in Cl- transport in Reissner's membrane epithelial cells.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "chloride channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Slc26a7 functions as a Cl- channel.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "basolateral plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Slc26a7 is localized to the basolateral membrane of Reissner's membrane epithelial cells.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "regulation of pH",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The involvement of SLC26A7 in cellular pH regulation in other epithelial cells leaves open the possibility that SLC26A7 is needed in Reissner's membrane cells during perturbations of pH.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Slc26a7 contributes to the anion conductance of Reissner's membrane epithelial cells.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

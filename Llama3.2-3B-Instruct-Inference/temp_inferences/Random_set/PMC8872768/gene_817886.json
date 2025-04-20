@@ -1,0 +1,24 @@
+{
+  "gene": "AtXI-D",
+  "geneID": "817886",
+  "go_data": [
+    {
+      "term": "cytoskeleton-dependent intracellular transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AtXI-D is a myosin XI, which is involved in cytoskeleton-dependent intracellular transport.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "calmodulin binding",
+      "relationship": "not enables",
+      "namespace": "molecular_function",
+      "justification": "The IQ motif sequences of AtXI-D are far from the typical calmodulin-binding motif and coexpression with calmodulin did not yield functional myosin.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

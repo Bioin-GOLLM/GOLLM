@@ -1,0 +1,42 @@
+{
+  "gene": "unc-60",
+  "geneID": "178640",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The unc-60 gene encodes proteins homologous to a family of actin-binding proteins.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "actin filament dynamics",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Two Caenorhabditis elegans actin depolymerizing factor/cofilin proteins, encoded by the unc-60 gene, differentially regulate actin filament dynamics.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "UNC-60B protein is specifically expressed in muscle.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "regulation of actin cytoskeleton",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The unc-60 gene encodes two tissue-specific isoforms of ADF/cofilin with distinct biochemical properties in regulating actin organization.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

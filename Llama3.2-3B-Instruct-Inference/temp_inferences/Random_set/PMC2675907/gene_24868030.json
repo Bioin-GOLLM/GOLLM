@@ -1,0 +1,24 @@
+{
+  "gene": "DNA-directed RNA polymerase",
+  "geneID": "24868030",
+  "go_data": [
+    {
+      "term": "DNA-directed RNA polymerase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The enzyme is described as DNA-directed RNA polymerase, indicating its role in RNA synthesis.",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    },
+    {
+      "term": "nucleic acid binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The C-terminus of Rpo13 extends into the DNA entry channel, suggesting its involvement in binding to nucleic acids.",
+      "reference(s)": [
+        "PMC2675907"
+      ]
+    }
+  ]
+}

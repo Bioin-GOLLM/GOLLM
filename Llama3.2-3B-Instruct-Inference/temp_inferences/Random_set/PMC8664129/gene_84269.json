@@ -1,0 +1,24 @@
+{
+  "gene": "MIC14",
+  "geneID": "84269",
+  "go_data": [
+    {
+      "term": "mitochondrial cristae organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CHCHD10/MIC14 may function as a target for modulating mitochondrial cristae architecture.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MIC14 is associated with mitochondrial cristae architecture and MICOS complex.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

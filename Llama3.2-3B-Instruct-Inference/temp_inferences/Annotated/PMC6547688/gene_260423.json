@@ -1,0 +1,33 @@
+{
+  "gene": "histone H3",
+  "geneID": "260423",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histone H3 is involved in DNA replication origin activation through a novel ubiquitin signalling pathway.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Histone H3 is a component of chromatin, which is involved in chromatin unloading of the replicative helicase at the end of replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histone H3 is subject to mono-ubiquitylation of lysine 23 by the ubiquitin ligase UHRF1.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

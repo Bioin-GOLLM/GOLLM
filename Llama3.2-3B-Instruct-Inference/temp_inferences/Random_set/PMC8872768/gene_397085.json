@@ -1,0 +1,42 @@
+{
+  "gene": "myosin VI",
+  "geneID": "397085",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cryo-EM structures reveal specialization at the myosin VI-actin interface.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "microfilament motor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Myosin VI is a processive motor with a large step size.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Myosin VI interacts with actin, a component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    },
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myosin VI is compared to other myosins involved in muscle contraction, such as myosin II.",
+      "reference(s)": [
+        "PMC8872768"
+      ]
+    }
+  ]
+}

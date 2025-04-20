@@ -1,0 +1,33 @@
+{
+  "gene": "TMPRSS2",
+  "geneID": "103219191",
+  "go_data": [
+    {
+      "term": "viral entry into host cell",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TMPRSS2 is involved in the processing of SARS-CoV-2 S protein, which is necessary for viral entry into host cells.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TMPRSS2 is a transmembrane serine protease that processes the SARS-CoV-2 S protein.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transmembrane protease, TMPRSS2 is located in the cell surface.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

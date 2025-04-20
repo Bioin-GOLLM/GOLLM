@@ -1,0 +1,42 @@
+{
+  "gene": "ORC1",
+  "geneID": "4998",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Proper DNA replication is needed for cell growth, and siRNA-mediated silencing of ORC1 impaired cell proliferation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "pre-replicative complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ORC1 is a component of the pre-RC proteomic interactome and interacts with other pre-RC components.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ORC1 recruitment to chromatin was impaired upon ORC1 depletion.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORC1 is ubiquitinated, as previously described.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

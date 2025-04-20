@@ -1,0 +1,33 @@
+{
+  "gene": "MIC60",
+  "geneID": "10989",
+  "go_data": [
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "The central subunit MIC60 is part of the inner membrane MICOS system.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial membrane organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The inner membrane MICOS system, including MIC60, is crucial for controlling mitochondrial membrane architecture.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein complex binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MIC60 bridges MICOS to the SAM complex of the outer membrane, forming stable contact sites.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "MTBP",
+  "geneID": "27085",
+  "go_data": [
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MTBP contains a novel DNA-binding domain that is essential for proper initiation of DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA replication initiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MTBP is an essential component of origin firing and proper initiation of DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

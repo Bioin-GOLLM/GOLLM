@@ -1,0 +1,42 @@
+{
+  "gene": "NF1",
+  "geneID": "4763",
+  "go_data": [
+    {
+      "term": "GTPase activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NF1 acts as a tumor suppressor gene, its protein: neurofibromin 1, is a GTPase activator.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "negative regulation of Ras signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF1 inhibits Ras signaling through the mTOR kinase pathway.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "negative regulation of cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Loss-of-function mutations in NF1 result in an enhanced cell proliferation through impaired Ras signaling inhibition.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "tumor suppressor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NF1 acts as a tumor suppressor gene.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

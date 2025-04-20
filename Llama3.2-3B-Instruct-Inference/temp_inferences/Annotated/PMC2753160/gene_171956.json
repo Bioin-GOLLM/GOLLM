@@ -1,0 +1,60 @@
+{
+  "gene": "UNC-108",
+  "geneID": "171956",
+  "go_data": [
+    {
+      "term": "dense core vesicle maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "UNC-108/RAB-2 and its effector RIC-19 are involved in dense core vesicle maturation in Caenorhabditis elegans",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neuron",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "UNC-108/RAB-2 is highly expressed in the nervous system",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "Golgi apparatus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The Golgi localization of RAB-2 in the cell soma",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "dense core vesicle",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "UNC-108/RAB-2 is involved in dense core vesicle maturation",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "regulation of dense core vesicle exocytosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The DCV maturation defect in unc-108 mutants may affect a DCV function unrelated to neuropeptides",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "neurotransmitter secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The lack of DCV cargo caused by mistrafficking during DCV maturation results in signaling defects at the NMJ, leading to reduced locomotion",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

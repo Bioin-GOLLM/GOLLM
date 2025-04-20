@@ -1,0 +1,15 @@
+{
+  "gene": "ACOT13",
+  "geneID": "55856",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mitochondrial localizations were reported for ACOT13.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

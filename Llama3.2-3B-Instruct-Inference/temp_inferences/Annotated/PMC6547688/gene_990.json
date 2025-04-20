@@ -1,0 +1,42 @@
+{
+  "gene": "CDC6",
+  "geneID": "990",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDC6 assembles at replication origins, forming pre-replicative complexes (pre-RCs) during the G1-phase of the cell cycle.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "pre-replicative complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CDC6 is a component of the pre-replicative complex (pre-RC) that assembles at replication origins.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "cell cycle",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDC6 is regulated by cell cycle- and cell growth-regulated proteolysis.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CDC6 is involved in DNA replication and is expected to be located in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

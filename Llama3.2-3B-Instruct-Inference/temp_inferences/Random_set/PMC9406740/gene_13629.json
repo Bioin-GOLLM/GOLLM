@@ -1,0 +1,33 @@
+{
+  "gene": "eEF2",
+  "geneID": "13629",
+  "go_data": [
+    {
+      "term": "translation elongation factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "eEF2 is involved in translation elongation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "peptide elongation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "eEF2 participates in the elongation phase of protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "eEF2 is found in the cytosol where translation occurs.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

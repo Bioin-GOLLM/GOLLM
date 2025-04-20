@@ -1,0 +1,42 @@
+{
+  "gene": "ASD-2",
+  "geneID": "188703",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ASD-2 is an RNA-binding protein belonging to the STAR family.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "regulation of alternative splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ASD-2 regulates muscle-specific and developmentally regulated alternative splicing of the unc-60 gene.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Nuclei of body wall muscles are stained with an antibody against ASD-2b, indicating that ASD-2 is localized in the nucleus.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ASD-2 orthologs in other organisms are required for muscle development or activity, suggesting a similar role for ASD-2 in C. elegans.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "tumor necrosis factor-alpha",
+  "geneID": "21926",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "tumor necrosis factor-alpha plays an important role in regulating the immune response to infections",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "inflammatory response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "tumor necrosis factor-alpha mediates the effect of inflammatory cytokines",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "tumor necrosis factor-alpha is an inflammatory cytokine",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "tumor necrosis factor-alpha is an extracellular signal",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

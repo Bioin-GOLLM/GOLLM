@@ -1,0 +1,51 @@
+{
+  "gene": "VAMP2",
+  "geneID": "282116",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is part of the SNARE complex and its variants affect the assembly and stability of the complex.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is involved in vesicle fusion, and its variants affect the rate and extent of fusion.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 is involved in neurotransmitter release, and its variants can impair this process.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "cellular membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 is a membrane protein involved in vesicle fusion and neurotransmitter release.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 is part of the synaptic vesicle membrane and plays a role in neurotransmitter release.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

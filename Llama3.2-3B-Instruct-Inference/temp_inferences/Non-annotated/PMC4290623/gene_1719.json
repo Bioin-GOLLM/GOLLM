@@ -1,0 +1,15 @@
+{
+  "gene": "dihydrofolate reductase",
+  "geneID": "1719",
+  "go_data": [
+    {
+      "term": "dihydrofolate reductase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dihydrofolate reductase is an enzyme that catalyzes the conversion of dihydrofolate to tetrahydrofolate.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

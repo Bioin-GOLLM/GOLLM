@@ -1,0 +1,33 @@
+{
+  "gene": "Npl4p",
+  "geneID": "852468",
+  "go_data": [
+    {
+      "term": "ER-associated ubiquitin-dependent protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Npl4p is part of the Doa10p complex, which is involved in the ERAD pathway.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Npl4p is a component of the Cdc48 complex and the p97-Ufd1-Npl4 complex.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The p97-Ufd1-Npl4 complex is involved in retrotranslocation from the ER to the cytosol.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

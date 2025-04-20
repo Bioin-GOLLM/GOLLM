@@ -1,0 +1,24 @@
+{
+  "gene": "cyclin A",
+  "geneID": "890",
+  "go_data": [
+    {
+      "term": "protein kinase binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cyclin A-dependent kinases phosphorylate Cdt1.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "regulation of DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cyclin A-dependent kinases negatively regulate Cdt1 function, which is involved in DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

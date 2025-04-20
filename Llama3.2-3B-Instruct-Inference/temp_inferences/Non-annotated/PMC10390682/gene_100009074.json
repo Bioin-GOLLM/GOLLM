@@ -1,0 +1,24 @@
+{
+  "gene": "GAPDH",
+  "geneID": "100009074",
+  "go_data": [
+    {
+      "term": "glyceraldehyde-3-phosphate dehydrogenase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GAPDH is explicitly mentioned as Glyceraldehyde-3-phosphate dehydrogenase.",
+      "reference(s)": [
+        "PMC10390682"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "GAPDH is typically found in the cytosol as it is a key enzyme in glycolysis.",
+      "reference(s)": [
+        "PMC10390682"
+      ]
+    }
+  ]
+}

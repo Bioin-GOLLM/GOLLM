@@ -1,0 +1,24 @@
+{
+  "gene": "HSP70",
+  "geneID": "15511",
+  "go_data": [
+    {
+      "term": "response to exercise",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Exercise training reverses downregulation of HSP70",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to heat",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HSP70 is a heat shock protein",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

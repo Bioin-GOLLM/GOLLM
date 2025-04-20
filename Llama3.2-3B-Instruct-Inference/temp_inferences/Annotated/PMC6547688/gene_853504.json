@@ -1,0 +1,33 @@
+{
+  "gene": "CDT1",
+  "geneID": "853504",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDT1 assembles at origins and permits the licensing reaction that culminates with the loading of the replicative helicase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "pre-replicative complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CDT1 assembles at origins and permits the licensing reaction that defines the pre-replicative complexes (pre-RCs).",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CDT1 permits the licensing reaction that culminates with the loading onto chromatin of the replicative helicase MCM2/7.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

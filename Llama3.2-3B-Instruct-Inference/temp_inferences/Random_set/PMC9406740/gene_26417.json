@@ -1,0 +1,33 @@
+{
+  "gene": "ERK1/2",
+  "geneID": "26417",
+  "go_data": [
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERK1/2 phosphorylation is reduced in the knockdown of UBR5.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ERK1/2 is a kinase as indicated by its phosphorylation status.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Impairment of protein synthesis is consequent to reduction in ERK1/2 phosphorylation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

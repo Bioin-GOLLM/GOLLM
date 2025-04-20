@@ -1,0 +1,42 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "insulin receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin/IGF1 signaling interferes with the mTOR kinase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein kinase B signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin and IGF1 have been shown to activate the PI3K-AKT-mTOR pathways.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to insulin stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Numerous studies indicate that insulin can modulate the expression of PKC.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "Insulin is secreted by cells to act on other cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

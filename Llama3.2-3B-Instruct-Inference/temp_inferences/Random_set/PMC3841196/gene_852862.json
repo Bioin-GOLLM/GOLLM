@@ -1,0 +1,15 @@
+{
+  "gene": "STT3",
+  "geneID": "852862",
+  "go_data": [
+    {
+      "term": "oligosaccharyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "STT3 is required for yeast oligosaccharyl transferase activity in vivo",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

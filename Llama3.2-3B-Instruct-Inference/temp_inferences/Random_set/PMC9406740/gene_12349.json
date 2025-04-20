@@ -1,0 +1,33 @@
+{
+  "gene": "Ca2",
+  "geneID": "12349",
+  "go_data": [
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Association and dissociation of the calcium-binding domains of calpain by Ca2",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "intracellular calcium ion homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Intracellular Ca2 transients in mouse soleus muscle after hindlimb unloading and reloading",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Intracellular Ca2 transients in mouse soleus muscle after hindlimb unloading and reloading",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

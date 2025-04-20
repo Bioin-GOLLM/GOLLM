@@ -1,0 +1,51 @@
+{
+  "gene": "TMEM258",
+  "geneID": "746",
+  "go_data": [
+    {
+      "term": "catalytic activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TMEM258 catalyzes the first step in N-glycosylation of proteins in the ER.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TMEM258 is an ER transmembrane protein and catalyzes the first step in N-glycosylation of proteins in the ER.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TMEM258 catalyzes the first step in N-glycosylation of proteins in the ER.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Roles in protein transport have been ascribed to TMEM258.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TMEM258 is a component of the oligosaccharyltransferase complex controlling ER stress.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "Foxp3",
+  "geneID": "50943",
+  "go_data": [
+    {
+      "term": "regulatory T cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Foxp3 is implicated in degradation in regulatory T cells.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STUB1, an E3 ubiquitin ligase, has been implicated in degradation of Foxp3.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

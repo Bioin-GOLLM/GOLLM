@@ -1,0 +1,24 @@
+{
+  "gene": "Tailchaser",
+  "geneID": "17920",
+  "go_data": [
+    {
+      "term": "hair bundle differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tailchaser mutation affects hair bundle differentiation",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "hair cell survival",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tailchaser mutation affects hair cell survival",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

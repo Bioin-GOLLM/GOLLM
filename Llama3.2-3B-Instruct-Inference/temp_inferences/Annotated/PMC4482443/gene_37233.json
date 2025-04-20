@@ -1,0 +1,33 @@
+{
+  "gene": "focal adhesion kinase",
+  "geneID": "37233",
+  "go_data": [
+    {
+      "term": "cell adhesion signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Focal adhesion kinase is postulated to mediate tension signalling as an integrin second messenger.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Focal adhesion kinase is linked to the actin cytoskeleton via the Talin dimer.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "protein tyrosine kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Focal adhesion kinase is a kinase, implying it has protein tyrosine kinase activity.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

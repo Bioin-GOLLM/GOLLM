@@ -1,0 +1,33 @@
+{
+  "gene": "SEPT7",
+  "geneID": "989",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SEPT7 is part of a filamentous structure at the sperm annulus.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "sperm motility",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Perturbations of SEPT12 interactions with SEPT7 result in poor sperm motility.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SEPT7 interacts with other septin proteins, including SEPT12, SEPT1, and SEPT5.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

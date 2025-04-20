@@ -1,0 +1,51 @@
+{
+  "gene": "NF-kappaB",
+  "geneID": "4790",
+  "go_data": [
+    {
+      "term": "transcription regulatory region DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NF-kappaB is described as a transcription factor activated by PRRs, critical for innate immunity, implying it binds to DNA regulatory regions.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The text mentions the nuclear translocation of the NF-kappaB subunit p65, indicating NF-kappaB is located in the nucleus upon activation.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB is mentioned as critical for innate immunity, indicating its involvement in the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral genome replication",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB activation is implied to counteract viral infection, suggesting it negatively regulates viral genome replication.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The text mentions the translocation of NF-kappaB from the cytoplasm to the nucleus, indicating it is also located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

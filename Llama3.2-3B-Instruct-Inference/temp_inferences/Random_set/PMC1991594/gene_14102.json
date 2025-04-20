@@ -1,0 +1,33 @@
+{
+  "gene": "CD95",
+  "geneID": "14102",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FAS (CD95) is responsible for a p53-independent pathway for germ cell elimination through apoptosis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FAS is a transmembrane receptor protein that is capable of initiating apoptosis in response to binding its ligand, FASL (CD95L).",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FAS is a transmembrane receptor protein.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

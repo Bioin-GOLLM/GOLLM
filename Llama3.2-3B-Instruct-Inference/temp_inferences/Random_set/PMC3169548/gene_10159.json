@@ -1,0 +1,33 @@
+{
+  "gene": "PRR",
+  "geneID": "10159",
+  "go_data": [
+    {
+      "term": "viral defense",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Recognition of viruses by pattern recognition receptors (PRRs) causes interferon-beta (IFN-beta) induction, a key event in the anti-viral innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Endosomal TLRs signal through the adaptor protein MyD88, leading to activation of the kinase IKKalpha which then phosphorylates IRF7, indicating PRRs are located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PRRs require TRAF3 for the activation of TBK1 and IKKepsilon, which are key components at the point of convergence of several PRR signalling pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

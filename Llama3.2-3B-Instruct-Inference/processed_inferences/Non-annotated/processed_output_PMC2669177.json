@@ -1,0 +1,420 @@
+[
+  {
+    "gene": "retinal degeneration slow",
+    "geneID": "19133",
+    "go_data": [
+      {
+        "term": "photoreceptor outer segment",
+        "go_id": "GO:0001750",
+        "relationship": [
+          "part_of GO:0097733"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RDS is critical for photoreceptor disc rim assembly, outer segment orientation, photoreceptor structural stability, and OS disc renewal.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell development",
+        "go_id": "GO:0042461",
+        "relationship": [
+          "part_of GO:0046530"
+        ],
+        "namespace": "biological_process",
+        "justification": "RDS expression and localization to the distal connecting cilium in the mouse rod photoreceptor cell begin around postnatal day 5, before OS formation.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell maintenance",
+        "go_id": "GO:0045494",
+        "relationship": [
+          "part_of GO:0001895"
+        ],
+        "namespace": "biological_process",
+        "justification": "Expression of at least 80% of the normal amount of RDS is necessary in order to build proper photoreceptor OSs.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "go_id": "GO:0098609",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RDS is known to form homomeric complexes as well as heteromeric complexes with a related tetraspanin protein, rod outer segment membrane protein 1 (ROM-1).",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "RDS is a tetraspanin glycoprotein.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "nucleolin",
+    "geneID": "17975",
+    "go_data": [
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Cell surface nucleolin serves as receptor for DNA nanoparticles",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "cell surface",
+        "go_id": "GO:0009986",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Cell surface nucleolin serves as receptor for DNA nanoparticles",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "peptide receptor activity",
+        "go_id": "GO:0001653",
+        "relationship": [
+          "has_part GO:0042277"
+        ],
+        "namespace": "molecular_function",
+        "justification": "Cell surface nucleolin serves as receptor for DNA nanoparticles",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "retinal degeneration slow",
+    "geneID": "5961",
+    "go_data": [
+      {
+        "term": "photoreceptor outer segment",
+        "go_id": "GO:0001750",
+        "relationship": [
+          "part_of GO:0097733"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RDS is critical for photoreceptor disc rim assembly, outer segment orientation, photoreceptor structural stability, and OS disc renewal.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell maintenance",
+        "go_id": "GO:0045494",
+        "relationship": [
+          "part_of GO:0001895"
+        ],
+        "namespace": "biological_process",
+        "justification": "RDS is photoreceptor-specific and is critical for photoreceptor structural stability.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell differentiation",
+        "go_id": "GO:0046530",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RDS is necessary for proper photoreceptor maintenance and is decreased in the rds +/- retina.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Peripherin",
+    "geneID": "5630",
+    "go_data": [
+      {
+        "term": "photoreceptor outer segment",
+        "go_id": "GO:0001750",
+        "relationship": [
+          "part_of GO:0097733"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Peripherin is critical for photoreceptor disc rim assembly, outer segment orientation, photoreceptor structural stability, and OS disc renewal.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell development",
+        "go_id": "GO:0042461",
+        "relationship": [
+          "part_of GO:0046530"
+        ],
+        "namespace": "biological_process",
+        "justification": "Peripherin is photoreceptor-specific and is critical for photoreceptor disc rim assembly and structural stability.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Peripherin is a tetraspanin glycoprotein known to form homomeric and heteromeric complexes in the membrane.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "rod outer segment membrane protein 1",
+    "geneID": "19881",
+    "go_data": [
+      {
+        "term": "photoreceptor outer segment",
+        "go_id": "GO:0001750",
+        "relationship": [
+          "part_of GO:0097733"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ROM-1 is a tetraspanin glycoprotein known to form complexes with RDS, critical for photoreceptor disc rim assembly and outer segment orientation.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell development",
+        "go_id": "GO:0042461",
+        "relationship": [
+          "part_of GO:0046530"
+        ],
+        "namespace": "biological_process",
+        "justification": "ROM-1 expression is decreased by RDS deficiency, suggesting a role in photoreceptor cell development.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor disc membrane",
+        "go_id": "GO:0097381",
+        "relationship": [
+          "part_of GO:0001750"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ROM-1 is a component of photoreceptor disc membranes, forming complexes with RDS.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-actin",
+    "geneID": "396526",
+    "go_data": [
+      {
+        "term": "cytoskeleton",
+        "go_id": "GO:0005856",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Beta-actin is a component of microfilaments in the cytoskeleton.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "interphotoreceptor retinoid-binding protein",
+    "geneID": "19661",
+    "go_data": [
+      {
+        "term": "photoreceptor cell maintenance",
+        "go_id": "GO:0045494",
+        "relationship": [
+          "part_of GO:0001895"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRBP promoter drives gene expression in both rods and cones, leading to improved photoreceptor cell maintenance.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor outer segment",
+        "go_id": "GO:0001750",
+        "relationship": [
+          "part_of GO:0097733"
+        ],
+        "namespace": "cellular_component",
+        "justification": "IRBP-NMP nanoparticles led to properly oriented OSs with well-aligned discs.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "retinoid binding",
+        "go_id": "GO:0005501",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Interphotoreceptor retinoid-binding protein is known to bind retinoids.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IRBP",
+    "geneID": "5949",
+    "go_data": [
+      {
+        "term": "all-trans-retinol binding",
+        "go_id": "GO:1904768",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "IRBP is known as interphotoreceptor retinoid-binding protein.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell maintenance",
+        "go_id": "GO:0045494",
+        "relationship": [
+          "part_of GO:0001895"
+        ],
+        "namespace": "biological_process",
+        "justification": "IRBP-mediated NMP expression was detected in rods and cones.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor inner segment",
+        "go_id": "GO:0001917",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "IRBP is involved in the maintenance of photoreceptor cells, which include rods and cones.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "rhodopsin",
+    "geneID": "212541",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "go_id": "GO:0009881",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Expression of rhodopsin is necessary for phototransduction and proper photoreceptor maintenance.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor cell maintenance",
+        "go_id": "GO:0045494",
+        "relationship": [
+          "part_of GO:0001895"
+        ],
+        "namespace": "biological_process",
+        "justification": "Expression of rhodopsin is necessary for phototransduction and proper photoreceptor maintenance.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor outer segment",
+        "go_id": "GO:0001750",
+        "relationship": [
+          "part_of GO:0097733"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Rhodopsin is the rod visual pigment, implying its location in the photoreceptor outer segment.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "S-opsin",
+    "geneID": "12057",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "go_id": "GO:0009881",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "S-opsin is a type of opsin involved in photoreception.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "photoreceptor inner segment",
+        "go_id": "GO:0001917",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "S-opsin is expressed in cone cells, which are a type of photoreceptor cell.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "visual perception",
+        "go_id": "GO:0007601",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "S-opsin plays a role in detecting short-wavelength light, contributing to visual perception.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RPE65",
+    "geneID": "19892",
+    "go_data": [
+      {
+        "term": "retinol isomerase activity",
+        "go_id": "GO:0050251",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "RPE65 isomerase deficiency affects the retinoid cycle of vision.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      },
+      {
+        "term": "visual perception",
+        "go_id": "GO:0007601",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RPE65 isomerase deficiency impacts vision, as shown by the rescue of vision in Briard dogs and human clinical trials.",
+        "reference(s)": [
+          "PMC2669177"
+        ]
+      }
+    ]
+  }
+]

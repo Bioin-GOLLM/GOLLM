@@ -1,0 +1,33 @@
+{
+  "gene": "TMEM126B",
+  "geneID": "55863",
+  "go_data": [
+    {
+      "term": "mitochondrial respiratory chain complex I",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TMEM126B encodes a transmembrane component of the mitochondrial complex I.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "mitochondrial electron transport, NADH to ubiquinone",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Biallelic changes in TMEM126B has been related to the mitochondrial complex I deficiency.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "integral component of membrane",
+      "relationship": "is_a",
+      "namespace": "cellular_component",
+      "justification": "TMEM126B encodes a transmembrane component.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    }
+  ]
+}

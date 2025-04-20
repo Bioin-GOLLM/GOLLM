@@ -1,0 +1,33 @@
+{
+  "gene": "prestin",
+  "geneID": "104245",
+  "go_data": [
+    {
+      "term": "outer hair cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Prestin staining pattern is altered in outer hair cells of homozygous mutant animals, suggesting a role in outer hair cell development or maintenance.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "cell membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Prestin is typically associated with the cell membrane in outer hair cells.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "maintenance of hearing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Prestin is implicated in the development and maintenance of normal hearing, as suggested by the differences in mutant phenotypes between species.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

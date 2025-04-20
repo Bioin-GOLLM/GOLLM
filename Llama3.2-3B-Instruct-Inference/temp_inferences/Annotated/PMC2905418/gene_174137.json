@@ -1,0 +1,33 @@
+{
+  "gene": "tra-2",
+  "geneID": "174137",
+  "go_data": [
+    {
+      "term": "mRNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "tra-2 mRNA 3'-UTR contains TGEs that bind GLD-1.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "regulation of translation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GLD-1 binds to tra-2 mRNA 3'-UTR and silences tra-2 translation.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "tra-2 mRNA is translated in the cytoplasm and its translation is regulated by GLD-1 binding to its 3'-UTR.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}

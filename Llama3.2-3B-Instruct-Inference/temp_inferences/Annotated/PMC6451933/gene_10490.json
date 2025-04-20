@@ -1,0 +1,42 @@
+{
+  "gene": "v-SNARE",
+  "geneID": "10490",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "v-SNARE proteins assemble in a polarized manner with t-SNARE proteins to mediate membrane fusion.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "v-SNARE is essential for the fusion of synaptic vesicles at mammalian central nerve terminals.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "synaptic vesicle membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "v-SNARE is found on the vesicle membrane.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "v-SNARE mediates membrane fusion, which is essential for neurotransmitter release and cell-cell signaling.",
+      "reference(s)": [
+        "PMC6451933"
+      ]
+    }
+  ]
+}

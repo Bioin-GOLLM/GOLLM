@@ -1,0 +1,24 @@
+{
+  "gene": "SUMO3",
+  "geneID": "20610",
+  "go_data": [
+    {
+      "term": "protein sumoylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO3 is reported in T3-dependent gene regulation, indicating involvement in protein sumoylation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "transcription regulation by small RNA",
+      "relationship": "None found",
+      "namespace": "None",
+      "justification": "None found",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

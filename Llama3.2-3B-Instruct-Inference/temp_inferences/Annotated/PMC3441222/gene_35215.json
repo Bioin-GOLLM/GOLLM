@@ -1,0 +1,33 @@
+{
+  "gene": "paxillin",
+  "geneID": "35215",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Paxillin is involved in focal adhesion dynamics.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Calpain-mediated proteolysis of paxillin negatively regulates cell migration.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "focal adhesion dynamics",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Calpain-mediated proteolysis of paxillin negatively regulates focal adhesion dynamics.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

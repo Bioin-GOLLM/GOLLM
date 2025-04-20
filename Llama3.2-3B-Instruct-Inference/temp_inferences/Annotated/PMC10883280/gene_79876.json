@@ -1,0 +1,15 @@
+{
+  "gene": "UBA5",
+  "geneID": "79876",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "UBA5 interacts with GABRAPL2, indicating protein binding activity.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

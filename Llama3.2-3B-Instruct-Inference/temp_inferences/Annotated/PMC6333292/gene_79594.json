@@ -1,0 +1,24 @@
+{
+  "gene": "E3 ubiquitin ligase",
+  "geneID": "79594",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "STUB1, an E3 ubiquitin ligase, is implicated in degradation of Foxp3 in regulatory T cells.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STUB1, an E3 ubiquitin ligase, has been implicated in degradation of Foxp3 in regulatory T cells and affects PD-L1 protein stability.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

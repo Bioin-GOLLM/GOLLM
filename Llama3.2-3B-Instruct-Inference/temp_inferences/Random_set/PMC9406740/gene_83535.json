@@ -1,0 +1,33 @@
+{
+  "gene": "Kir6.2",
+  "geneID": "83535",
+  "go_data": [
+    {
+      "term": "ATP-sensitive potassium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Kir6.2/SUR1 subunits of the K(ATP) channels characterize the fast muscle phenotype with higher K(ATP) currents.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Higher expression and activity of Kir6.2/SUR1 subunits are associated with resistance to atrophy in fast-twitch muscles.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a subunit of the K(ATP) channel, Kir6.2 is embedded in the plasma membrane of muscle cells.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "MCM2",
+  "geneID": "17216",
+  "go_data": [
+    {
+      "term": "DNA helicase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MCM2 is part of the MCM2-7 helicase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MCM2-7 helicase is activated by association with Cdc45 and GINS proteins, implying involvement in DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As part of the DNA replication process, MCM2 is likely located in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

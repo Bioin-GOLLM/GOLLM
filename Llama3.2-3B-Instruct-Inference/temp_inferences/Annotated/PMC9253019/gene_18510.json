@@ -1,0 +1,24 @@
+{
+  "gene": "Pax8",
+  "geneID": "18510",
+  "go_data": [
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pax8 is involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    },
+    {
+      "term": "thyroid gland development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pax8 is a key transcription factor in thyroid development.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

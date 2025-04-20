@@ -1,0 +1,33 @@
+{
+  "gene": "nucleolin",
+  "geneID": "17975",
+  "go_data": [
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cell surface nucleolin serves as receptor for DNA nanoparticles",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cell surface nucleolin serves as receptor for DNA nanoparticles",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cell surface nucleolin serves as receptor for DNA nanoparticles",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

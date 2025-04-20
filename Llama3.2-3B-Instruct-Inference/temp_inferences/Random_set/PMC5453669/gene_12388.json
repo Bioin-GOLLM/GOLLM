@@ -1,0 +1,24 @@
+{
+  "gene": "p120-catenin",
+  "geneID": "12388",
+  "go_data": [
+    {
+      "term": "cell junction disassembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PKCalpha activation of p120-catenin disassembles VE-cadherin junctions",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cell-cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "p120-catenin is involved in the disassembly of VE-cadherin junctions",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

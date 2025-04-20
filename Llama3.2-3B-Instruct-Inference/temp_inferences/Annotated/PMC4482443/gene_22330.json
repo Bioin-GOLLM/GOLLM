@@ -1,0 +1,24 @@
+{
+  "gene": "Vinculin",
+  "geneID": "22330",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Vinculin is linked to Focal Adhesion kinase in the context of Integrin-ECM adhesion and actin cytoskeleton interaction.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "actin cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Vinculin interacts with the actin cytoskeleton through Talin, suggesting involvement in its organization.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

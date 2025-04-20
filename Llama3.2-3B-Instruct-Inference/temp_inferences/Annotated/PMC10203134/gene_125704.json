@@ -1,0 +1,33 @@
+{
+  "gene": "Dipk1C",
+  "geneID": "125704",
+  "go_data": [
+    {
+      "term": "kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Purified human Dipk1C protein displays kinase activity.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Dipk1C kinase activity is regulated by Ca2+.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "photoreceptor cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Flag-tagged Dipk1C proteins were secreted and taken up into the retina.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

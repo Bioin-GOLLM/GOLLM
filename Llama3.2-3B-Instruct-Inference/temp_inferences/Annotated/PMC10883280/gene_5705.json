@@ -1,0 +1,33 @@
+{
+  "gene": "PSMC5",
+  "geneID": "5705",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PSMC5 binds to the hormone receptor domain of ESRRG.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "No explicit information, but based on the interaction with ESRRG, which is a nuclear receptor, PSMC5 might be located in the cytoplasm.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein-protein interaction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PSMC5 interacts with ESRRG, indicating involvement in protein-protein interaction.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

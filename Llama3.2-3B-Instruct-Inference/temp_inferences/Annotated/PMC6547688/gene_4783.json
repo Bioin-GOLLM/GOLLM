@@ -1,0 +1,15 @@
+{
+  "gene": "NFIL3",
+  "geneID": "4783",
+  "go_data": [
+    {
+      "term": "transcription",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NFIL3 is associated with transcription.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

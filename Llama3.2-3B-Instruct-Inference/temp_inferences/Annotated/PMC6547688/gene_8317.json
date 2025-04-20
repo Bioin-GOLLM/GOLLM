@@ -1,0 +1,42 @@
+{
+  "gene": "CDC7",
+  "geneID": "8317",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDC7 is essential for origin firing, which is necessary for DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "cell proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Silencing of CDC7 impaired cell proliferation, indicating its role in this process.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CDC7 is involved in DNA replication, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CDC7 is a kinase that phosphorylates and activates proteins involved in DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

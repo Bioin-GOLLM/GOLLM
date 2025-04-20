@@ -1,0 +1,33 @@
+{
+  "gene": "cJun",
+  "geneID": "16476",
+  "go_data": [
+    {
+      "term": "regulation of cell growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "cJun-mediated increases in IGF-1 signaling proteins regulate cardiomyocyte growth.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MuRF1 preferentially recognizes phospho-cJun.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "cellular response to mechanical stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "cJun is involved in pressure overload-induced cardiac hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

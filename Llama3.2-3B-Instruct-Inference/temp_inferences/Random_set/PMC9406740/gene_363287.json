@@ -1,0 +1,24 @@
+{
+  "gene": "HDAC4",
+  "geneID": "363287",
+  "go_data": [
+    {
+      "term": "histone deacetylase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HDAC4 is a histone deacetylase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HDAC4 is indispensable for reduced slow myosin expression at the early stage of hindlimb unloading in rat soleus muscle, implying a role in muscle cell differentiation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

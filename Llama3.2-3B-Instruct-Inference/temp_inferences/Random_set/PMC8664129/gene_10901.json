@@ -1,0 +1,15 @@
+{
+  "gene": "DHRS4",
+  "geneID": "10901",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DHRS4 demonstrated a mitochondrial localization in in vitro import assays.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "BCAA",
+  "geneID": "51742",
+  "go_data": [
+    {
+      "term": "muscle protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BCAA supplementation mediates protein synthesis through the mTOR pathway.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle tissue",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BCAA action improves muscle mass and strength in skeletal muscle tissue.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "positive regulation of muscle mass",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BCAA supplementation has been found to improve muscle mass in older people.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

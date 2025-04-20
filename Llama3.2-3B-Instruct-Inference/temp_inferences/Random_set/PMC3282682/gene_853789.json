@@ -1,0 +1,24 @@
+{
+  "gene": "Lhs1p",
+  "geneID": "853789",
+  "go_data": [
+    {
+      "term": "ATPase activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Lhs1p is mentioned as a nucleotide exchanger that, in complex with Kar2p and a DnaJ-like partner, indicates its role in enhancing ATPase activity.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Lhs1p is associated with the ERAD-associated protein Kar2p, suggesting its localization to the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

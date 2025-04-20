@@ -1,0 +1,33 @@
+{
+  "gene": "CWH41",
+  "geneID": "852857",
+  "go_data": [
+    {
+      "term": "glucosidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CWH41 encodes glucosidase I, which cleaves the glucose molecule from the glycan tree.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "protein glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CWH41 is involved in N-linked glycosylation by encoding glucosidase I, which cleaves glucose from the glycan tree.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The enzymatic step catalyzed by glucosidase I occurs inside the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

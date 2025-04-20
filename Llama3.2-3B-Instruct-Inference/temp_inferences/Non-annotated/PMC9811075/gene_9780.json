@@ -1,0 +1,24 @@
+{
+  "gene": "PIEZO1",
+  "geneID": "9780",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PIEZO1 is involved in new pathways involving lymphangiogenesis and remodelling.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Novel mutations in Piezo1 cause an autosomal recessive generalized lymphatic dysplasia.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

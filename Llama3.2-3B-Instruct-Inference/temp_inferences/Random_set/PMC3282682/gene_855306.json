@@ -1,0 +1,33 @@
+{
+  "gene": "Cue1p",
+  "geneID": "855306",
+  "go_data": [
+    {
+      "term": "ubiquitin-dependent protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cue1p has a role in ubiquitination and degradation at the ER surface.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cue1p is part of the Doa10p complex, which is involved in ERAD pathway at the ER surface.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Cue1p is an anchoring protein for Ubc7p.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

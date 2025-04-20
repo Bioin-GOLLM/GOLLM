@@ -1,0 +1,470 @@
+[
+  {
+    "gene": "RAR",
+    "geneID": "5914",
+    "go_data": [
+      {
+        "term": "retinoic acid receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RAR types bind to retinoic acid.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein dimerization activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "RAR heterodimerizes with RXR to bind target sequences.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "RAR binds to target sequences, implying nuclear localization.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TMEM258",
+    "geneID": "746",
+    "go_data": [
+      {
+        "term": "catalytic activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TMEM258 catalyzes the first step in N-glycosylation of proteins in the ER.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "TMEM258 is an ER transmembrane protein and catalyzes the first step in N-glycosylation of proteins in the ER.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein glycosylation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TMEM258 catalyzes the first step in N-glycosylation of proteins in the ER.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Roles in protein transport have been ascribed to TMEM258.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum stress",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TMEM258 is a component of the oligosaccharyltransferase complex controlling ER stress.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "C19ORF18",
+    "geneID": "147685",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "C19ORF18 shares interactors with TMEM258, an ER transmembrane protein, suggesting a potential location in the ER.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C19ORF18 shares interaction partners with proteins involved in protein transport, suggesting a potential role in this process.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein maturation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "C19ORF18 shares interaction partners with proteins involved in ER-related functions of protein maturation, suggesting a potential role in this process.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ARL6IP1",
+    "geneID": "23204",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum membrane shaping",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Arl6IP1 has the ability to shape the mammalian ER membrane in a reticulon-like fashion",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Roles in protein transport and ER function have also been ascribed to ARL6IP1",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Arl6IP1 has the ability to shape the mammalian ER membrane in a reticulon-like fashion and roles in ER function have been ascribed to ARL6IP1",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "IER3IP1",
+    "geneID": "51124",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "IER3IP1 is suggested to contribute to ER-related functions of protein maturation and transport.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "IER3IP1 is suggested to contribute to ER-related functions of protein maturation and transport.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MFSD6",
+    "geneID": "54842",
+    "go_data": [
+      {
+        "term": "endoplasmic reticulum",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "MFSD6 is suggested to contribute to ER-related functions of protein maturation and transport.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein transport",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "MFSD6 is suggested to contribute to ER-related functions of protein maturation and transport.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SDCBP",
+    "geneID": "6386",
+    "go_data": [
+      {
+        "term": "extracellular vesicle formation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SDCBP functions in ESCRT-dependent EV generation and its knockout shows reduced EV production.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "protein recruitment into extracellular vesicles",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "SDCBP may play a role in the recruitment of proteins into EVs.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "extracellular vesicle",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SDCBP is frequently detected in EVs.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CALM1",
+    "geneID": "801",
+    "go_data": [
+      {
+        "term": "calcium ion binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CALM1, also known as calmodulin, is known to bind calcium ions.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "extracellular vesicle",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CALM1 was detected in the U373vIII EV proteome.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CEP55",
+    "geneID": "55165",
+    "go_data": [
+      {
+        "term": "cell division",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "No direct evidence, however CEP55 is known to be involved in cell division, but based on the given text, no GO term can be explicitly stated.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HPRT1",
+    "geneID": "3251",
+    "go_data": [
+      {
+        "term": "extracellular vesicle",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "HPRT1 displayed significantly reduced protein levels in EVs.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "OTUD6A",
+    "geneID": "139562",
+    "go_data": [
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "OTUD6A participates in the apoptosis pathway.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "transcriptional activation",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "OTUD6A exerts an apoptosis sensitization function via transcriptional activation.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRAIL",
+    "geneID": "8743",
+    "go_data": [
+      {
+        "term": "induction of apoptosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAIL is described as TNF-related apoptosis-inducing ligand, indicating its involvement in inducing apoptosis.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "apoptotic process",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRAIL's role in apoptosis is further supported by its correlation with time-of-death after its addition, implying a role in the apoptotic process.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "polynucleotide kinase 3'-phosphatase",
+    "geneID": "11284",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "PNKP is involved in DNA repair as implied by its association with microcephaly, seizures, and developmental delay.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PNKP has DNA kinase activity.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "phosphatase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "PNKP has DNA phosphatase activity.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SYNGR1",
+    "geneID": "9145",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SYNGR1 is involved in PPIs with PNKP.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "brain",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "SYNGR1 is preferentially expressed in the brain.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIM37",
+    "geneID": "4591",
+    "go_data": [
+      {
+        "term": "DNA repair",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRIM37 facilitates DNA repair.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "histone H2A ubiquitination",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "TRIM37 is a new histone H2A ubiquitin ligase.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "As a histone H2A ubiquitin ligase, TRIM37 is likely located in the nucleus.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CTNNA3",
+    "geneID": "29119",
+    "go_data": [
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CTNNA3, also known as alpha-catulin or alpha-catenin, is involved in cell-cell adhesion.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SUCLA2",
+    "geneID": "8803",
+    "go_data": [
+      {
+        "term": "mitochondrial matrix",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "SUCLA2 is known to be involved in the citric acid cycle, which takes place in the mitochondrial matrix.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIM54",
+    "geneID": "57159",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "TRIM54 interacts with other proteins, such as SUCLA2.",
+        "reference(s)": [
+          "PMC7169983"
+        ]
+      }
+    ]
+  }
+]

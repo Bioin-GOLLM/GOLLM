@@ -1,0 +1,24 @@
+{
+  "gene": "PSF1",
+  "geneID": "69270",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PSF1/GINS1 is part of the replisome components recruited to chromatin for DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PSF1/GINS1 is recruited to chromatin as part of the replisome components for DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

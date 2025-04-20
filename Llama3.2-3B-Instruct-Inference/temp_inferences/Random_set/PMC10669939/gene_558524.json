@@ -1,0 +1,68 @@
+{
+  "gene": "Mgat1b",
+  "geneID": "558524",
+  "go_data": [
+    {
+      "term": "N-acetylglucosaminyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Mgat1b is involved in the transfer of N-acetylglucosamine to growing glycan chains.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "protein glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mgat1b is necessary for the proper glycosylation of proteins, as evidenced by the accumulation of oligomannose N-glycans in Mgat1b-/- fish.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "embryonic development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mgat1b is required for normal embryonic development, as Mgat1b-/- fish exhibit delayed development and reduced survivability.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "skeletal muscle development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mgat1b is necessary for proper skeletal muscle development, as Mgat1b-/- fish exhibit delayed skeletal muscle development and impaired locomotor activity.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "cardiac muscle development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mgat1b is required for normal cardiac muscle development, as Mgat1b-/- fish exhibit delayed cardiac development.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "justification": "Mgat1b is necessary for proper cell migration during embryonic development, as Mgat1b-/- fish exhibit impaired cell migration and reduced survivability.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "glycosylation site",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mgat1b is involved in the glycosylation of proteins at specific sites.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    }
+  ]
+}

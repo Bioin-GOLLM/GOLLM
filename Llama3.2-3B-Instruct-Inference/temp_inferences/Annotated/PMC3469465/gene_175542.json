@@ -1,0 +1,24 @@
+{
+  "gene": "ASD-1",
+  "geneID": "175542",
+  "go_data": [
+    {
+      "term": "regulation of RNA splicing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ASD-1 functions as a muscle-specific partner of the Fox-1 family proteins in the repression of egl-15 exon 5B.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ASD-1 is a muscle-specific partner of the Fox-1 family proteins.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

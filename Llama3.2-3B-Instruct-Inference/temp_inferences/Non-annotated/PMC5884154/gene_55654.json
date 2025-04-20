@@ -1,0 +1,24 @@
+{
+  "gene": "transmembrane protein 127",
+  "geneID": "55654",
+  "go_data": [
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Germline mutations in TMEM127 confer susceptibility to pheochromocytoma, which is related to hypoxia-inducible pathways.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TMEM127 is a transmembrane protein, indicating its location in the plasma membrane.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

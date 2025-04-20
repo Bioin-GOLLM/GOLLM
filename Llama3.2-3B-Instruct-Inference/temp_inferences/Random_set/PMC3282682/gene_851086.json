@@ -1,0 +1,24 @@
+{
+  "gene": "Rom2",
+  "geneID": "851086",
+  "go_data": [
+    {
+      "term": "Rho guanine nucleotide exchange factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rom2 is a guanine nucleotide exchange factor for Rho1",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cell wall organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rom2 acts in cell wall integrity signaling",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

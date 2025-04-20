@@ -1,0 +1,33 @@
+{
+  "gene": "interleukin-6",
+  "geneID": "16193",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Interleukin-6 (IL-6) is referred to as a cytokine.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-6 is involved in a signaling pathway that causes muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "secreted_in",
+      "namespace": "cellular_component",
+      "justification": "As a cytokine, IL-6 is secreted into the extracellular space.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

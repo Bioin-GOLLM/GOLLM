@@ -1,0 +1,15 @@
+{
+  "gene": "HAS",
+  "geneID": "3036",
+  "go_data": [
+    {
+      "term": "hyaluronan biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "None found, the provided text does not explicitly support any GO term for the gene HAS.",
+      "reference(s)": [
+        "PMC8918257"
+      ]
+    }
+  ]
+}

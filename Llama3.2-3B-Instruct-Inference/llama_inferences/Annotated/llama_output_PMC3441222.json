@@ -1,0 +1,380 @@
+[
+  {
+    "gene": "CalpB",
+    "geneID": "39165",
+    "go_data": [
+      {
+        "term": "calcium-dependent cysteine-type endopeptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "CalpB is a calcium regulated intracellular cysteine protease.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CalpB modulates border cell migration in Drosophila egg chambers.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "focal adhesion",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "CalpB interacts with the focal adhesion complex proteins.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CalpB can cleave talin in vitro.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "CalpB is an intracellular cysteine protease.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CalpA",
+    "geneID": "37232",
+    "go_data": [
+      {
+        "term": "calcium-dependent cysteine-type endopeptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Calpains are calcium regulated intracellular cysteine proteases.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Calpains are implicated in a variety of physiological functions and pathological conditions through proteolysis.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cytosol",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Calpains are intracellular cysteine proteases.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "alpha-PS2 integrin",
+    "geneID": "32661",
+    "go_data": [
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Silencing of alpha-PS2 integrin results in delayed migration of border cells in Drosophila egg chambers.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "focal adhesion",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Alpha-PS2 integrin is part of the focal adhesion complex.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell adhesion molecule activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "As an integrin, alpha-PS2 integrin is involved in cell adhesion.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "beta-PS integrin",
+    "geneID": "44885",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The silencing of the myospheroid (mys, beta-PS integrin) gene by RNA interference slowed down border cell migration.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "integrin complex",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Beta-PS integrin is part of the focal adhesion complex along with alpha-PS2 integrin and talin.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The expression of a Talin head-GFP fusion polypeptide in the border cells restored the normal migration rate in CalpB505 mutant egg chambers.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell-cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The downregulation of the CalpB gene by mutations or RNA interference results in a delayed migration of the border cells in Drosophila egg chambers.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "focal adhesion",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Beta-PS integrin is part of the focal adhesion complex.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "talin",
+    "geneID": "38978",
+    "go_data": [
+      {
+        "term": "cell adhesion",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "talin is a component of the focal adhesion complex and interacts with integrins to regulate cell adhesion",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "focal adhesion",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "talin is a component of the focal adhesion complex",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "integrin binding",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "talin binds to integrins to regulate cell adhesion",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "talin regulates cell migration through its interaction with integrins and the focal adhesion complex",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SOL",
+    "geneID": "44014",
+    "go_data": [
+      {
+        "term": "cysteine-type peptidase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "SOL encodes an atypical calpain molecule, which is a type of cysteine protease.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "proteolysis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "As a calpain molecule, SOL is involved in proteolytic activity.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "focal adhesion kinase",
+    "geneID": "14083",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Focal adhesion kinase is found in focal adhesion complexes.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Focal adhesion kinase is a substrate of calpain, which has motility-related substrates, implying involvement in cell migration.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "protein kinase activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Focal adhesion kinase is implied to have kinase activity as it is referred to as a 'kinase'.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "paxillin",
+    "geneID": "19303",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Paxillin is found in focal adhesion complexes.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Fak56D",
+    "geneID": "37233",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "relationship": "involved_in",
+        "namespace": "cellular_component",
+        "justification": "Fak56D is referred to as focal adhesion kinase, suggesting involvement in focal adhesion.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell motility",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fak56D is mentioned as a potential substrate that affects cell motility.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "regulation of adhesion dynamics",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Fak56D is mentioned in the context of regulation of adhesion dynamics by calpain-mediated proteolysis.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AML1",
+    "geneID": "12394",
+    "go_data": [
+      {
+        "term": "leukemogenesis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "AML1 is part of the human leukemogenic fusion protein AML1-ETO.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ETO",
+    "geneID": "12395",
+    "go_data": [
+      {
+        "term": "regulation of phagocytosis",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "CalpB can modify the effect of the human leukemogenic fusion protein AML1-ETO when expressed in Drosophila blood cells, which are involved in phagocytosis.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "paxillin",
+    "geneID": "35215",
+    "go_data": [
+      {
+        "term": "focal adhesion",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Paxillin is involved in focal adhesion dynamics.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "cell migration",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Calpain-mediated proteolysis of paxillin negatively regulates cell migration.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      },
+      {
+        "term": "focal adhesion dynamics",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Calpain-mediated proteolysis of paxillin negatively regulates focal adhesion dynamics.",
+        "reference(s)": [
+          "PMC3441222"
+        ]
+      }
+    ]
+  }
+]

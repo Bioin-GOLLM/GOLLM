@@ -1,0 +1,33 @@
+{
+  "gene": "ALG10B",
+  "geneID": "144245",
+  "go_data": [
+    {
+      "term": "N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ALG10B is part of the N-linked glycosylation pathway.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "N-linked glycosylation occurs in the endoplasmic reticulum, and ALG10B is involved in this process.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "glycosyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ALG10B is predicted to produce a full-length protein with potential glycosyltransferase activity.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

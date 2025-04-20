@@ -1,0 +1,51 @@
+{
+  "gene": "AIM2",
+  "geneID": "9447",
+  "go_data": [
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "AIM2 is described as a cytoplasmic DNA sensor.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AIM2 recognizes cytosolic dsDNA.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "inflammasome assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AIM2 activates the inflammasome leading to processing of pro-interleukin (IL)-1beta and release of IL-1beta.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "defense response to virus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AIM2 is involved in sensing DNA viruses by recognizing the presence of dsDNA in the cytosol.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "caspase-1 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AIM2 forms a caspase-1-activating inflammasome with ASC.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

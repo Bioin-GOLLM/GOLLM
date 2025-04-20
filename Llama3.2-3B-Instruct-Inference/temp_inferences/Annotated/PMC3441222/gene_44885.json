@@ -1,0 +1,51 @@
+{
+  "gene": "beta-PS integrin",
+  "geneID": "44885",
+  "go_data": [
+    {
+      "term": "cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The silencing of the myospheroid (mys, beta-PS integrin) gene by RNA interference slowed down border cell migration.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "integrin complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Beta-PS integrin is part of the focal adhesion complex along with alpha-PS2 integrin and talin.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The expression of a Talin head-GFP fusion polypeptide in the border cells restored the normal migration rate in CalpB505 mutant egg chambers.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell-cell adhesion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The downregulation of the CalpB gene by mutations or RNA interference results in a delayed migration of the border cells in Drosophila egg chambers.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Beta-PS integrin is part of the focal adhesion complex.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

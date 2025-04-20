@@ -1,0 +1,24 @@
+{
+  "gene": "NSUN2",
+  "geneID": "54888",
+  "go_data": [
+    {
+      "term": "tRNA methylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NSUN2 introduces 5-methylcytosines in mammalian mitochondrial tRNAs",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NSUN2 has mitochondrial localization",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

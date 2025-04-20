@@ -1,0 +1,24 @@
+{
+  "gene": "ADM",
+  "geneID": "133",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ADM is regulated by HIF-alpha and is involved in angiogenesis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ADM is regulated by HIF-alpha under hypoxia, indicating its involvement in the cellular response to hypoxia.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

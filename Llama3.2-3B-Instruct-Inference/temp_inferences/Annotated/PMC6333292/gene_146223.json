@@ -1,0 +1,33 @@
+{
+  "gene": "CMTM4",
+  "geneID": "146223",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Co-immunoprecipitation was observed for PD-L1 and CMTM4.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "positive regulation of protein expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM4 is a positive regulator of PD-L1 expression.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM6, which is closely related to CMTM4, is largely located at the cell surface.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

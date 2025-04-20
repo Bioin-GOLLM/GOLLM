@@ -1,0 +1,33 @@
+{
+  "gene": "VEGFR3",
+  "geneID": "2324",
+  "go_data": [
+    {
+      "term": "vascular endothelial growth factor receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VEGFR3 is involved in signalling as a receptor for vascular endothelial growth factor.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VEGFR3 has a central role in signalling related to primary lymphoedema.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, VEGFR3 is expected to be located on the cell surface.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

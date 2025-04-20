@@ -1,0 +1,33 @@
+{
+  "gene": "TLR8",
+  "geneID": "100328930",
+  "go_data": [
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TLR8 is involved in the activation of IRF7, leading to the induction of IFN-alpha genes.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TLR8 is described as an endosomal TLR.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "MyD88 binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TLR8 signals through the adaptor protein MyD88.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

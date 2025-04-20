@@ -1,0 +1,24 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "insulin secretion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin is involved in insulin secretion in insulinoma cells.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "Golgi apparatus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Insulin secretion involves Golgi membranes in human insulin-producing beta cells.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

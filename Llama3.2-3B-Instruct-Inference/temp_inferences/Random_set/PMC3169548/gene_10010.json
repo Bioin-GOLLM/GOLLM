@@ -1,0 +1,51 @@
+{
+  "gene": "TANK",
+  "geneID": "10010",
+  "go_data": [
+    {
+      "term": "scaffold protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TANK acts as a scaffold protein that associates constitutively with TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C6 is present in both nucleus and cytoplasm, and TANK interacts with C6.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C6 is present in both nucleus and cytoplasm, and TANK interacts with C6.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "negative regulation of interferon-beta production",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The M protein of SARS coronavirus targets a complex containing TRAF3, and prevents the association of TRAF3 with TBK1, IKKepsilon or TANK, inhibiting the induction of the IFN-beta promoter.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TANK is part of the protein complex containing TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

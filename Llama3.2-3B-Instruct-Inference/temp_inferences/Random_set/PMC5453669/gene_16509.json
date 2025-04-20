@@ -1,0 +1,33 @@
+{
+  "gene": "KCNE1",
+  "geneID": "16509",
+  "go_data": [
+    {
+      "term": "voltage-gated potassium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "KCNE1 is an ion channel subunit.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of action potential duration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thyroid hormone receptor alpha controls action potential duration through KCNE1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an ion channel subunit, KCNE1 is expected to be located in the plasma membrane.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

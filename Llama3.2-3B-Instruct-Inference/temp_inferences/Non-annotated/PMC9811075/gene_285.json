@@ -1,0 +1,69 @@
+{
+  "gene": "ANGPT2",
+  "geneID": "285",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT2 disrupts angiogenesis in the developing embryo by antagonising the effects of angiopoietin-1 and Tie2.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT2 is critical to the formation and remodelling of blood and lymphatic vessels and is involved in vessel maintenance.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "blood vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT2 is critical to the formation and remodelling of blood and lymphatic vessels and is involved in vessel maintenance.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ANGPT2 is required for postnatal angiogenesis and lymphatic patterning, and only the latter role is rescued by angiopoietin-1",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ANGPT2 is a secreted protein that acts as a ligand for the TIE1-TIE2 pathway.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ANGPT2 is a ligand of the TIE1-TIE2 pathway.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "growth factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ANGPT2 acts as a growth factor for lymphatic vessels.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "histone variant 2AX",
+  "geneID": "15270",
+  "go_data": [
+    {
+      "term": "double-strand break repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histone variant 2AX is involved in the DNA damage response to DSBs and acts by recruiting DNA repair factors to sites of DNA damage.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Phosphorylated H2AX (gammaH2AX) appears to recruit repair proteins to sites of damage in the nucleus.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Histone variant 2AX is a histone protein that binds to DNA.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "response to DNA damage",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Histone variant 2AX is involved in the DNA damage response to DSBs.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

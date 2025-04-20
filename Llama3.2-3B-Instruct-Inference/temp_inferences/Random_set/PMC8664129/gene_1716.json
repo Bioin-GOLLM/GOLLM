@@ -1,0 +1,24 @@
+{
+  "gene": "deoxyguanosine kinase",
+  "geneID": "1716",
+  "go_data": [
+    {
+      "term": "nucleotide metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Linked to metabolism",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Described as mitochondrial deoxyguanosine kinase",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "beta-2",
+  "geneID": "12062",
+  "go_data": [
+    {
+      "term": "G-protein coupled receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Beta-2-adrenergic agonists mediate effects through signaling pathways.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Beta-2-adrenergic agonists promote protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cellular response to drug",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Beta-2-adrenergic agonists have effects on cells as a response to the drug.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

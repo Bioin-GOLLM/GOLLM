@@ -1,0 +1,33 @@
+{
+  "gene": "glucocorticoid receptor",
+  "geneID": "14815",
+  "go_data": [
+    {
+      "term": "steroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The glucocorticoid receptor promotes the expression of genes in response to glucocorticoids.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of muscle protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The inhibitory action of glucocorticoids on muscle protein synthesis is mediated by the glucocorticoid receptor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of TOR signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The glucocorticoid receptor inhibits the mTOR pathway, possibly through the promotion of REDD1 expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

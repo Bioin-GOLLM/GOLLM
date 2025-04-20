@@ -1,0 +1,625 @@
+[
+  {
+    "gene": "Melanopsin",
+    "geneID": "94233",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Melanopsin is a photopigment involved in non-image forming functions such as circadian photoentrainment and sleep.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "G-protein coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Melanopsin is an opsin, which is a type of G-protein coupled receptor.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "circadian rhythm regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin mediates non-image forming functions such as circadian photoentrainment and sleep.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreception",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin is involved in detecting light and dark to modulate sleep independent of image formation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retina",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin is expressed in a small subset of retinal ganglion cells in the mammalian retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retinal ganglion cell",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin is expressed in a small subset of retinal ganglion cells in the mammalian retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "rhodopsin",
+    "geneID": "6010",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "rhodopsin is activated in classical photoreceptors, rods and cones, for vision.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "visual perception",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "rhodopsin is responsible for vision through activation in rods and cones.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor outer segment",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "rhodopsin is found in rods, which are a type of photoreceptor.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "melanopsin",
+    "geneID": "30044",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Melanopsin mediates non-image forming functions such as circadian photoentrainment and sleep.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "circadian rhythm",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin is involved in regulating circadian activity.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retinal ganglion cell",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin is expressed in a small subset of retinal ganglion cells (RGCs) in the mammalian retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreception",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin is involved in light detection for vision.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated for melanopsin, however melanopsin is a photopigment and as such is likely located in the plasma membrane, but the text does mention that it is expressed in the retina and likely encodes a functional photopigment.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "G-protein coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Not explicitly stated, however melanopsin is a photopigment and as such is likely a G-protein coupled receptor.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "cellular response to light stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin mediates light-dependent induction of calcium release.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "opn4.1",
+    "geneID": "352918",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Opn4.1 binds to the chromophore 11-cis retinal and functionally couples to a G-protein in HEK293 cells.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Opn4.1 has an absorbance spectrum similar to mouse melanopsin and mediates light-dependent induction of calcium release.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor cell",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Transcripts for opn4.1 localized to the outermost shell of the INL where horizontal cells are located and in scattered photoreceptor cells.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "horizontal cell of the retina",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Transcripts for opn4.1 localized to the outermost shell of the INL where horizontal cells are located.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "response to light stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Opn4.1 mediates light-dependent induction of calcium release and its expression is altered under different light:dark conditions.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "circadian rhythm",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The opn4.1 gene shows rhythmic expression but with different waveforms under different light:dark conditions.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "melanopsin",
+    "geneID": "515152",
+    "go_data": [
+      {
+        "term": "G-protein coupled photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Opn4.1 bound to the chromophore 11-cis retinal forms a visual pigment that functionally couples to a G-protein in HEK293 cells.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Melanopsin is involved in light detection for vision and circadian regulation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "circadian regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin is involved in circadian regulation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor cell",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin is expressed in retinal ganglion cells and other photoreceptor cells.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retina",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin is expressed in the retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "detection of light stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin is involved in light detection for vision and circadian regulation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "regulation of circadian rhythm",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin is involved in circadian regulation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "neuropsin",
+    "geneID": "428670",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Neuropsin is localized to extraocular photoreceptors.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "extraocular photoreceptor",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Neuropsin is localized to extraocular photoreceptors.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Opsin",
+    "geneID": "396377",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Opsins are G-protein coupled receptors that bind chromophore.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Opsins are photopigments localized to extraocular photoreceptors and are involved in regulating circadian entrainment and seasonal responses.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreception",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Opsins mediate light-dependent induction of calcium release and are involved in photoreception.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "integral component of membrane",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "Opsins have seven helical transmembrane domains.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "cellular response to light stimulus",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Opsins are involved in mediating light-dependent responses.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "melanopsin",
+    "geneID": "423609",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "Melanopsin is a photopigment localized to extraocular photoreceptors.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "circadian rhythm regulation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Melanopsin expression in the pineal organ of chickens oscillates in a circadian manner.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "pineal gland",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin expression is found in the photosensitive pineal organ of chickens.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "suprachiasmatic nucleus",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "Melanopsin is produced in the suprachiasmatic nucleus (SCN).",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "opn4a",
+    "geneID": "571624",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "opn4a is a melanopsin-related gene, which is known to be involved in photoreception.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreception",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "opn4a is expressed in the retina and brain, and its expression is affected by light conditions.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retina",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "opn4a is expressed in the retina, specifically in the inner nuclear layer (INL).",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "brain",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "opn4a is expressed in discrete regions of the brain, including the presumptive preoptic area.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "circadian rhythm",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "opn4a expression shows a diurnal rhythm that varies with different photoperiods.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "opn4xa",
+    "geneID": "100331502",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "opn4xa is a melanopsin gene, which is known to be involved in photoreception.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retinal ganglion cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "opn4xa is expressed in retinal ganglion cells, suggesting a role in their differentiation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "dorsal diencephalon",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "opn4xa-expressing cells are found in the dorsal diencephalon.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "retinal ganglion cell layer",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "opn4xa transcripts colocalize with the ganglion cell marker, gc56, in the retinal ganglion cell layer.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "opn4xb",
+    "geneID": "563080",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "opn4xb is related to melanopsin, which is a photopigment.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "inner nuclear layer of retina",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "opn4xb is expressed in the inner nuclear layer (INL) of the retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "bipolar cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "opn4xb is co-expressed with bipolin, a marker of bipolar cell identity, in some cells in the INL of the retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "opn4b",
+    "geneID": "100884131",
+    "go_data": [
+      {
+        "term": "photoreceptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "opn4b is a melanopsin-related gene, which suggests it has photoreceptor activity.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "inner nuclear layer of retina",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Strong expression of opn4b was found in distinct sublaminae of the INL.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreception",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "The products of opn4b could provide necessary light information to zebrafish embryos before the retina is completely functional.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "somite",
+        "relationship": "expressed_in",
+        "namespace": "cellular_component",
+        "justification": "opn4b is expressed outside of the nervous system at 1 dpf, in cells within trunk and tail somites.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "bipolin",
+    "geneID": "567667",
+    "go_data": [
+      {
+        "term": "bipolar cell differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "Bipolin is a marker of bipolar cell identity.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "inner nuclear layer",
+        "relationship": "located_in",
+        "namespace": "cellular_component",
+        "justification": "Bipolin is expressed in some cells in the INL of the retina.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "rhodopsin",
+    "geneID": "509933",
+    "go_data": [
+      {
+        "term": "G-protein coupled receptor activity",
+        "relationship": "enables",
+        "namespace": "molecular_function",
+        "justification": "A single amino acid substitution in rhodopsin prevents activation of transducin, indicating rhodopsin's role in G-protein coupled receptor activity.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      },
+      {
+        "term": "photoreceptor cell differentiation",
+        "relationship": "involved_in",
+        "justification": "None found, however rhodopsin is known to be involved in photoreception, but the text does not explicitly state its involvement in photoreceptor cell differentiation.",
+        "reference(s)": [
+          "PMC3178608"
+        ]
+      }
+    ]
+  }
+]

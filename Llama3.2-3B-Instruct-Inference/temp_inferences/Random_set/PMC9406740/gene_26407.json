@@ -1,0 +1,24 @@
+{
+  "gene": "MEKK4",
+  "geneID": "26407",
+  "go_data": [
+    {
+      "term": "regulation of muscle mass",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Inhibition of MEKK4 transcription factor can avoid the loss of muscle mass.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "transcription factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MEKK4 is described as a transcription factor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

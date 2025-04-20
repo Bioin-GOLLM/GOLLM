@@ -1,0 +1,33 @@
+{
+  "gene": "C19ORF18",
+  "geneID": "147685",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C19ORF18 shares interactors with TMEM258, an ER transmembrane protein, suggesting a potential location in the ER.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C19ORF18 shares interaction partners with proteins involved in protein transport, suggesting a potential role in this process.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein maturation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C19ORF18 shares interaction partners with proteins involved in ER-related functions of protein maturation, suggesting a potential role in this process.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

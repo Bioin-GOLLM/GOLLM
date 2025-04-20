@@ -1,0 +1,33 @@
+{
+  "gene": "TIE1",
+  "geneID": "21846",
+  "go_data": [
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIE1 is involved in TIE1-TIE2 signalling, which is affected by ANGPT2 in vascular system.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "vascular endothelial growth factor receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIE1 is a tyrosine kinase receptor, and its signalling is affected by ANGPT2.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TIE1 signalling is mentioned in the context of lymphatic vasculature.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "mTORC1",
+  "geneID": "382056",
+  "go_data": [
+    {
+      "term": "protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mTORC1 inhibition decreases protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of skeletal muscle mass",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mTORC1 is able to inhibit the anabolic processes that consume ATP and regulate skeletal muscle mass.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "intracellular signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin and IGF1 activate the PI3K-AKT-mTOR pathways, which includes mTORC1.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "TORC1 complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "mTORC1 is part of the rapamycin-sensitive TORC1 complex, which includes Raptor.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

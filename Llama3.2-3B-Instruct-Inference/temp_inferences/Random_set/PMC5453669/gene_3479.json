@@ -1,0 +1,15 @@
+{
+  "gene": "IGF1",
+  "geneID": "3479",
+  "go_data": [
+    {
+      "term": "cellular response to thyroid hormone stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IGF1 is related to thyroid hormone receptor systems in the human heart.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "LIV-1",
+  "geneID": "25800",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "LIV-1 is mentioned as a target for ADC field, implying it is accessible on the cell surface.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

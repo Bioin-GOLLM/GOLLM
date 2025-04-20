@@ -1,0 +1,33 @@
+{
+  "gene": "HuR",
+  "geneID": "15568",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HuR is described as an RNA-binding protein.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "negative regulation of MyoD expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activation of NF-kappaB increases the expression of iNOS in muscle cells that sequester HuR by preventing transcription of MyoD.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "mRNA stabilization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappa B-mediated MyoD decay during muscle wasting requires nitric oxide synthase mRNA stabilization, HuR protein.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

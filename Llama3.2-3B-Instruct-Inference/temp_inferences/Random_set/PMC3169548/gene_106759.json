@@ -1,0 +1,33 @@
+{
+  "gene": "TRIF",
+  "geneID": "106759",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIF is used by TLR3 in the toll-like receptor signaling pathway.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "TIR-domain containing adaptor molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRIF is described as a TIR-domain containing adaptor molecule.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As an adaptor protein in toll-like receptor signaling, TRIF is expected to be located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

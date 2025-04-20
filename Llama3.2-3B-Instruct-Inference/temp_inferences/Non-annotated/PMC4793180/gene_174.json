@@ -1,0 +1,15 @@
+{
+  "gene": "alpha-fetoprotein",
+  "geneID": "174",
+  "go_data": [
+    {
+      "term": "tumor marker source",
+      "relationship": "acts_as",
+      "namespace": "cellular_component",
+      "justification": "alpha-fetoprotein is listed as one of the tumor markers",
+      "reference(s)": [
+        "PMC4793180"
+      ]
+    }
+  ]
+}

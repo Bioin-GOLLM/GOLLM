@@ -1,0 +1,33 @@
+{
+  "gene": "MSH6",
+  "geneID": "17688",
+  "go_data": [
+    {
+      "term": "mismatch repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MSH2/MSH6 is involved in repairing replicative mismatches.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "DNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MSH2/MSH6 functions as a heterodimer to initiate repair activity, implying DNA binding capability.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As part of the MMR pathway, MSH6 is likely located in the nucleus where DNA repair occurs.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

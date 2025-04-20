@@ -1,0 +1,51 @@
+{
+  "gene": "Rab",
+  "geneID": "3267",
+  "go_data": [
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rab proteins act as membrane-bound molecular switches cycling between an inactive GDP-bound form and an active GTP-bound form.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "intracellular vesicular transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Small guanosine triphosphatases of the Rab family regulate intracellular vesicular trafficking.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "vesicle budding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Through their effectors, Rab GTPases regulate actin and microtubule-dependent transport, vesicle budding and tethering, and membrane fusion.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "membrane fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Through their effectors, Rab GTPases regulate actin and microtubule-dependent transport, vesicle budding and tethering, and membrane fusion.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "cellular membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab proteins act as membrane-bound molecular switches cycling between an inactive GDP-bound form and an active GTP-bound form.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

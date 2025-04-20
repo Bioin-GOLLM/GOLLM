@@ -1,0 +1,51 @@
+{
+  "gene": "PCT1",
+  "geneID": "853116",
+  "go_data": [
+    {
+      "term": "CDP-choline biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PCT1 is the rate-limiting enzyme in the phosphatidylcholine synthesis pathway.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "phosphatidylcholine biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PCT1 is the rate-limiting enzyme in the phosphatidylcholine synthesis pathway.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cytidylyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PCT1 is aligned with the amino acid sequence of the most studied phosphocholine cytidylyltransferase protein in yeast.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cellular response to heat",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Deltapct1 strain is sensitive to heat shock stress and overexpression of POF1 was able to reverse this sensitivity.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PCT1 is involved in the phosphatidylcholine synthesis pathway, which is a major membrane lipid component.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

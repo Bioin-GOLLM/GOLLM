@@ -1,0 +1,24 @@
+{
+  "gene": "FBXO28",
+  "geneID": "23219",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FBXO28 was predicted to bind to STX1B via a coiled-coil interface.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "STX1B, a SNARE protein that interacts with FBXO28, is typically located in the cytoplasm.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

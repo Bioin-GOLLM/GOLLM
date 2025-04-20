@@ -1,0 +1,24 @@
+{
+  "gene": "alpha-1-Antichymotrypsin",
+  "geneID": "12",
+  "go_data": [
+    {
+      "term": "serine-type endopeptidase inhibitor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Alpha-1-Antichymotrypsin is mentioned alongside alpha-1-antitrypsin which blocks SARS-CoV-2 infection by inhibiting the processing of SARS-CoV-2 S protein by furin and TMPRSS2, implying a similar function.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "extracellular space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Alpha-1-Antichymotrypsin is enriched in ChipEXOs, which are extracellular vesicles.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

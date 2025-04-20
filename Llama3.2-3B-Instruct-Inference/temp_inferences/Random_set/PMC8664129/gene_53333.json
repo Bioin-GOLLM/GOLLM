@@ -1,0 +1,24 @@
+{
+  "gene": "TOMM40",
+  "geneID": "53333",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TOMM40 is a core component of the main entry gate of the mitochondrial outer membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein import into mitochondrial matrix",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TOMM40 is part of the TOM complex, which is involved in the import of proteins into the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

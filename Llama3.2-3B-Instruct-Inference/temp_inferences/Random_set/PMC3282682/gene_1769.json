@@ -1,0 +1,42 @@
+{
+  "gene": "ATPase",
+  "geneID": "1769",
+  "go_data": [
+    {
+      "term": "ATP hydrolysis activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pof1p displayed ATPase activity, hydrolyzing ATP.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein quality control",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pof1p is involved in the protein quality control process.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Pof1p interacts with Ubc7p, an E2 ubiquitin conjugating enzyme involved in ERAD.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "response to stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Pof1p protects cells from accumulating misfolded proteins caused by oxidative, heat, reductive or chemically stressful conditions.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

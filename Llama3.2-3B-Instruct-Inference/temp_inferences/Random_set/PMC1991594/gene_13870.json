@@ -1,0 +1,51 @@
+{
+  "gene": "ERCC1",
+  "geneID": "13870",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERCC1 is essential for the NER pathway and is involved in the homologous repair (HR) pathway.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleotide-excision repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERCC1 acts in a complex with Xpf (ERCC4) in the NER pathway.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "double-strand break repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERCC1 is involved in the repair of double-strand breaks in meiotic crossing over.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "spermatogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ERCC1 is essential for normal spermatogenesis.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ERCC1 localizes to the nucleus to perform its DNA repair functions.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "AKT2",
+  "geneID": "11652",
+  "go_data": [
+    {
+      "term": "cellular response to stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AKT2 has inhibitory effects in oral cancer cells.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "protein kinase B signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "AKT2 is affected by JMY65, suggesting involvement in protein kinase B signaling.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

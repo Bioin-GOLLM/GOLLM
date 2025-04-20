@@ -1,0 +1,15 @@
+{
+  "gene": "NUMA",
+  "geneID": "4926",
+  "go_data": [
+    {
+      "term": "nuclear matrix",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "NUMA is associated with the nuclear matrix.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

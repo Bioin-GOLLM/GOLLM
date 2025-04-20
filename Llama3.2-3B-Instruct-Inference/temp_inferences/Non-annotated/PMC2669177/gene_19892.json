@@ -1,0 +1,24 @@
+{
+  "gene": "RPE65",
+  "geneID": "19892",
+  "go_data": [
+    {
+      "term": "retinoid isomerase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RPE65 isomerase deficiency affects the retinoid cycle of vision.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "visual perception",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RPE65 isomerase deficiency impacts vision, as shown by the rescue of vision in Briard dogs and human clinical trials.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

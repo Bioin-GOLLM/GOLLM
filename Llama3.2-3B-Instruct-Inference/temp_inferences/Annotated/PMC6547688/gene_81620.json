@@ -1,0 +1,42 @@
+{
+  "gene": "CDT1",
+  "geneID": "81620",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CDT1 assembles at replication origins, forming pre-replicative complexes (pre-RCs) during the G1-phase of the cell cycle.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "pre-replicative complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "CDT1 is a component of pre-replicative complexes (pre-RCs) that assemble at replication origins.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CDT1 interacts with other pre-RC components, such as ORC complex and CDC6.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CDT1 is involved in DNA replication and is expected to be located in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

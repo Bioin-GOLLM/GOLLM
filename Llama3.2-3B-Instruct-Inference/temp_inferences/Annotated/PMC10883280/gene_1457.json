@@ -1,0 +1,24 @@
+{
+  "gene": "CSNK2A1",
+  "geneID": "1457",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CSNK2A1 is a subunit of casein kinase 2, which is a protein kinase.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CSNK2A1, as part of casein kinase 2, is involved in protein phosphorylation.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

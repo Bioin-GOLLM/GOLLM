@@ -1,0 +1,33 @@
+{
+  "gene": "ORF1",
+  "geneID": "55354",
+  "go_data": [
+    {
+      "term": "viral genome replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORF1 encodes RNA-dependent RNA polymerase (RdRp), which is involved in viral genome replication.",
+      "reference(s)": [
+        "PMC10056664"
+      ]
+    },
+    {
+      "term": "viral RNA-dependent RNA polymerase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ORF1 encodes six non-structural proteins, including RNA-dependent RNA polymerase (RdRp).",
+      "reference(s)": [
+        "PMC10056664"
+      ]
+    },
+    {
+      "term": "virion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "ORF1 is part of the NoV genome, which is a component of the virion.",
+      "reference(s)": [
+        "PMC10056664"
+      ]
+    }
+  ]
+}

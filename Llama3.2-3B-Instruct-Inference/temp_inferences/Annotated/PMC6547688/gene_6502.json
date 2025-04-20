@@ -1,0 +1,33 @@
+{
+  "gene": "SCFSKP2",
+  "geneID": "6502",
+  "go_data": [
+    {
+      "term": "ubiquitin ligase complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "SCFSKP2 is mentioned alongside other components of the ubiquitin ligase complex.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SCFSKP2 is identified as a ubiquitylation target of a Cul1-based core ubiquitin ligase complex.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "G1 phase",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Phosphorylation of Skp2 regulated by CDK2 and Cdc14B protects it from degradation by APC(Cdh1) in G1 phase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

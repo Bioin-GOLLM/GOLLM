@@ -1,0 +1,33 @@
+{
+  "gene": "Yet1p-Yet3p",
+  "geneID": "853800",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum localization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Yet1p-Yet3p interacts with Scs2p-Opi1p to regulate ER localization of the Opi1p repressor",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Yet1p-Yet3p interacts with Scs2p-Opi1p",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "regulation of cellular localization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Yet1p-Yet3p regulates ER localization of the Opi1p repressor",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

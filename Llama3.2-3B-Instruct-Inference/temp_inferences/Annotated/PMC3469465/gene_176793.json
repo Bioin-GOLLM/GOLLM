@@ -1,0 +1,33 @@
+{
+  "gene": "actin",
+  "geneID": "176793",
+  "go_data": [
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actin filaments are organized in a striated pattern in wild-type worms, and their disorganization is observed in unc-60B mutants.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Actin filaments are essential for muscle contraction, and their disorganization leads to paralysis in unc-60B mutants.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "actin filament",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Actin filaments are composed of actin proteins and are a key component of the cytoskeleton.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

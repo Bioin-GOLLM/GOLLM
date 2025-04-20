@@ -1,0 +1,51 @@
+{
+  "gene": "betaPS",
+  "geneID": "39935",
+  "go_data": [
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "betaPS is found at an integrin-rich cell junction, analogous to an intercalated disc.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "integrin-mediated signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "betaPS, as an integrin, is likely involved in integrin-mediated signaling pathways.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "tissue morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A novel alpha integrin subunit associates with betaPS and functions in tissue morphogenesis and movement during Drosophila development.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cell adhesion molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "As an integrin, betaPS is involved in cell adhesion.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "muscle cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "betaPS is expressed in cardiomyocytes and is necessary for maintaining myofibril structure.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CASP9",
+  "geneID": "12371",
+  "go_data": [
+    {
+      "term": "apoptotic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CASP9 activation is observed during muscle atrophy due to disuse.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Elevated total and mitochondrial BAX, and CASP9 activation are observed during muscle atrophy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cysteine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CASP9 activation implies its role as a cysteine-type endopeptidase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

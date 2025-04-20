@@ -1,0 +1,33 @@
+{
+  "gene": "DNA polymerase-alpha",
+  "geneID": "5422",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DNA polymerase-alpha is involved in the process of DNA replication as part of the replisome components.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "DNA polymerase-alpha is recruited to chromatin as part of the DNA replication process.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA-dependent DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DNA polymerase-alpha participates in DNA-dependent DNA replication as a key enzyme.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

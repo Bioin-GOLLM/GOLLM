@@ -1,0 +1,33 @@
+{
+  "gene": "Raptor",
+  "geneID": "74370",
+  "go_data": [
+    {
+      "term": "protein-containing complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Raptor is part of the TORC1 complex.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of cellular response to growth factor stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Raptor, as part of the mTOR complex, is involved in the regulation of cellular response to insulin/IGF1 signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle fiber growth",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Raptor-deficient mice show decreased growth of fast muscle fibers.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

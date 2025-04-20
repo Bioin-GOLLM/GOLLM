@@ -1,0 +1,24 @@
+{
+  "gene": "SMAD9",
+  "geneID": "4093",
+  "go_data": [
+    {
+      "term": "transforming growth factor beta receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SMAD9 interaction with SMAD4 is disrupted by mutations, implicating SMAD9 in the TGFbeta/SMAD signaling pathway.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SMAD9 interacts with SMAD4, indicating that SMAD9 has protein binding activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "alpha-PS2 integrin",
+  "geneID": "32661",
+  "go_data": [
+    {
+      "term": "cell migration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Silencing of alpha-PS2 integrin results in delayed migration of border cells in Drosophila egg chambers.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "focal adhesion",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Alpha-PS2 integrin is part of the focal adhesion complex.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell adhesion molecule activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "As an integrin, alpha-PS2 integrin is involved in cell adhesion.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

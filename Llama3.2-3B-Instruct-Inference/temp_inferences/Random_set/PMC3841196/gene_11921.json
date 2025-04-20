@@ -1,0 +1,24 @@
+{
+  "gene": "Atoh1",
+  "geneID": "11921",
+  "go_data": [
+    {
+      "term": "neurogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atoh1 gene therapy is used for auditory hair cell replacement, implying involvement in neural cell generation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "inner ear development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atoh1 gene therapy is used for auditory hair cell replacement in deaf mammals, indicating a role in inner ear development.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

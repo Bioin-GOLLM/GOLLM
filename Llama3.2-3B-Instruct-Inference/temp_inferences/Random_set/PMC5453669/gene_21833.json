@@ -1,0 +1,33 @@
+{
+  "gene": "TRalpha2",
+  "geneID": "21833",
+  "go_data": [
+    {
+      "term": "thyroid hormone receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRalpha2 is a thyroid hormone receptor.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of heart contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Thyroid hormone receptor alpha, which includes TRalpha2, can control action potential duration in mouse ventricular myocytes.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a thyroid hormone receptor, TRalpha2 is expected to be located in the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "REDD1",
+  "geneID": "74747",
+  "go_data": [
+    {
+      "term": "negative regulation of TOR signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "REDD1 inhibits the activity of mTOR.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of muscle protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The inhibitory action of glucocorticoids on muscle protein synthesis derives from the inhibition of the mTOR pathway, which is inhibited by REDD1.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

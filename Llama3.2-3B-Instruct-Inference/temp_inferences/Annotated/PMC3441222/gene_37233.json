@@ -1,0 +1,33 @@
+{
+  "gene": "Fak56D",
+  "geneID": "37233",
+  "go_data": [
+    {
+      "term": "focal adhesion",
+      "relationship": "involved_in",
+      "namespace": "cellular_component",
+      "justification": "Fak56D is referred to as focal adhesion kinase, suggesting involvement in focal adhesion.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cell motility",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fak56D is mentioned as a potential substrate that affects cell motility.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "regulation of adhesion dynamics",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Fak56D is mentioned in the context of regulation of adhesion dynamics by calpain-mediated proteolysis.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

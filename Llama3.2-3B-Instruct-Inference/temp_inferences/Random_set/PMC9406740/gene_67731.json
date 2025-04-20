@@ -1,0 +1,33 @@
+{
+  "gene": "Atrogin-1",
+  "geneID": "67731",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein transferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Atrogin-1 is a muscle-specific ubiquitin ligase involved in muscle loss.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle atrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atrogin-1 is involved in muscle atrophy through the regulation of protein degradation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein catabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Atrogin-1 contributes to muscle catabolism through the ubiquitin-proteasome system.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

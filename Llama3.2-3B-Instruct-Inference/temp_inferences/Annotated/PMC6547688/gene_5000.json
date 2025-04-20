@@ -1,0 +1,15 @@
+{
+  "gene": "ORC4",
+  "geneID": "5000",
+  "go_data": [
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ORC4 recruitment to chromatin",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "CIAO1",
+  "geneID": "9391",
+  "go_data": [
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CIAO1 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "iron-sulfur cluster assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CIAO1 is involved in cytosolic iron-sulfur Fe-S cluster assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

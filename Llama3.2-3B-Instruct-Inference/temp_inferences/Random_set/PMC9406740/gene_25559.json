@@ -1,0 +1,33 @@
+{
+  "gene": "SUR1",
+  "geneID": "25559",
+  "go_data": [
+    {
+      "term": "ATP-sensitive potassium channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SUR1 is a subunit of the K(ATP) channels, which have ATP-sensitive potassium channel activity.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "potassium ion transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUR1 is part of the K(ATP) channels, which are involved in potassium ion transport.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a subunit of the K(ATP) channels, SUR1 is located in the plasma membrane.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

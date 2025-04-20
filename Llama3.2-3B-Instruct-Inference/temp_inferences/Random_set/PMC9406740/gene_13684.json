@@ -1,0 +1,33 @@
+{
+  "gene": "eIF4e",
+  "geneID": "13684",
+  "go_data": [
+    {
+      "term": "translation initiation factor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "eIF4e is involved in translation initiation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a translation initiation factor, eIF4e is expected to be located in the cytoplasm where translation occurs.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "protein synthesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "eIF4e is involved in translation initiation and consequent protein synthesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

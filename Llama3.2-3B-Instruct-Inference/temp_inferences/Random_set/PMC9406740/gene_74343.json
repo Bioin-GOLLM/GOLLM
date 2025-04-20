@@ -1,0 +1,33 @@
+{
+  "gene": "TORC2",
+  "geneID": "74343",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TORC2 is a complex that includes mTOR kinase.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "intracellular signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TORC2 is part of the PI3K-AKT-mTOR pathway, which is involved in insulin/IGF1 signaling.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As part of the mTOR pathway, TORC2 is likely located in the cytoplasm.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "TECPR2",
+  "geneID": "9895",
+  "go_data": [
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TECPR2 is a possible positive regulator of autophagy.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TECPR2 is a binding partner of the mammalian Atg8 protein family.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "lysosome",
+      "relationship": "involved_in",
+      "namespace": "cellular_component",
+      "justification": "TECPR2 is involved in the targeting of autophagosomes to lysosomes.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "autophagosome",
+      "relationship": "involved_in",
+      "namespace": "cellular_component",
+      "justification": "Mutations in TECPR2 result in autophagosomes that cannot be eliminated.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    }
+  ]
+}

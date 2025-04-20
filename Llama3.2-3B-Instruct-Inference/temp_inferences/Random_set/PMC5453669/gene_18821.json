@@ -1,0 +1,24 @@
+{
+  "gene": "cardiac phospholamban",
+  "geneID": "18821",
+  "go_data": [
+    {
+      "term": "regulation of cardiac muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cardiac phospholamban is implied to be involved in cardiac muscle contraction through its regulation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "heart",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "The term 'cardiac' in cardiac phospholamban implies expression in the heart.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

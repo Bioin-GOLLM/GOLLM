@@ -1,0 +1,33 @@
+{
+  "gene": "TECRP2",
+  "geneID": "391696",
+  "go_data": [
+    {
+      "term": "autonomic nervous system development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations in TECRP2 are associated with sensory autonomic neuropathy.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "sensory perception of pain",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Decreased pain sensitivity is a feature of the disorder caused by mutations in TECRP2.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "regulation of blood pressure",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Unstable blood pressure is a feature of the disorder caused by mutations in TECRP2.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    }
+  ]
+}

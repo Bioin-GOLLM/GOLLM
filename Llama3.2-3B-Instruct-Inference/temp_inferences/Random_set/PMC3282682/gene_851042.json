@@ -1,0 +1,33 @@
+{
+  "gene": "Mid2",
+  "geneID": "851042",
+  "go_data": [
+    {
+      "term": "cell wall integrity signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mid2 is a cell surface sensor for cell wall integrity signaling",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mid2 is a cell surface sensor",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mid2 acts through Rom2, a guanine nucleotide exchange factor for Rho1, in cell wall integrity signaling",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "Sec63p",
+  "geneID": "854428",
+  "go_data": [
+    {
+      "term": "J-domain containing",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Sec63p is described as a soluble protein that contains a J-domain.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Sec63p is mentioned in the context of Kar2p, an Hsp70 chaperone from the ER, suggesting its involvement with the ER.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Sec63p is mentioned as a co-chaperone of Kar2p, implying its involvement in protein folding.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

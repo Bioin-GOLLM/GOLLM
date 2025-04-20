@@ -1,0 +1,33 @@
+{
+  "gene": "CD8",
+  "geneID": "925",
+  "go_data": [
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8 is derived from cytotoxic CD8 T cells, which are involved in the immune response.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "T cell activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CD8 T cells are effector cells that can trigger an immune modulation into the cells.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Exosomes derived from cytotoxic CD8 T cells can trigger an immune modulation into the cells.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

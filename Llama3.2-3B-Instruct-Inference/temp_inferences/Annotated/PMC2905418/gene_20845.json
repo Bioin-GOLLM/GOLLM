@@ -1,0 +1,24 @@
+{
+  "gene": "STAR",
+  "geneID": "20845",
+  "go_data": [
+    {
+      "term": "RNA binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "STAR protein binds target RNA consensus sites and has an extended platform for RNA binding through its KH and Qua2 domains.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "protein homodimerization activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Qua1 domain of STAR facilitates STAR homodimerization in the presence or absence of RNA.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}

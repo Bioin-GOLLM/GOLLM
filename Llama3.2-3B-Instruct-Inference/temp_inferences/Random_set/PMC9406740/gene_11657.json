@@ -1,0 +1,33 @@
+{
+  "gene": "albumin",
+  "geneID": "11657",
+  "go_data": [
+    {
+      "term": "serum albumin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Albumin is a serum protein that binds to various substances in the blood.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "blood circulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Albumin is found in the blood and plays a role in maintaining blood volume and circulation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "extracellular region",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Albumin is a secreted protein found in the blood, which is part of the extracellular region.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

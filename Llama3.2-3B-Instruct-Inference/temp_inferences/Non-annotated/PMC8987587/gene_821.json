@@ -1,0 +1,15 @@
+{
+  "gene": "CANX",
+  "geneID": "821",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Intracellular CANX staining was negative, implying CANX is not typically found outside the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "let-2",
+  "geneID": "181708",
+  "go_data": [
+    {
+      "term": "collagen biosynthetic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "let-2 is a collagen gene, indicating its involvement in collagen biosynthesis.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "let-2 is developmentally regulated and involved in muscle-specific alternative splicing.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "extracellular matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "As a collagen gene, let-2 is part of the extracellular matrix.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

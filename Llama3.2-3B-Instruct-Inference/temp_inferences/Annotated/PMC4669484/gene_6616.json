@@ -1,0 +1,51 @@
+{
+  "gene": "SNAP-25",
+  "geneID": "6616",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 forms a four-helix bundle SNARE complex with Syntaxin1 and VAMP-2, which provides mechanical force for membrane fusion.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "presynaptic membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "SNAP-25 is anchored to the presynaptic membrane.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "neurotransmitter release",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SNAP-25 is fundamental to neurotransmitter release as part of the SNARE complex.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "vesicle fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The SNARE complex, including SNAP-25, provides mechanical force for membrane fusion to occur during vesicle exocytosis.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "SNAP-25 interacts with critical partners, including Munc18a and Syntaxin1, for SNARE complex formation and exocytosis.",
+      "reference(s)": [
+        "PMC4669484"
+      ]
+    }
+  ]
+}

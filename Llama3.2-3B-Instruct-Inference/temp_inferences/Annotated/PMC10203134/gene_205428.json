@@ -1,0 +1,51 @@
+{
+  "gene": "HASF",
+  "geneID": "205428",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HASF encodes a member of the Divergent protein kinases (Dipk) family, characterized by a cysteine-rich kinase-like domain.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "secretory pathway",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Mammalian Dipk proteins, including HASF, are localized within the lumen of the secretory pathway.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "A secreted form of Dipk2A, a human homolog of Aln and HASF, has been observed to bind to insulin receptors.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "insulin receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HASF is a novel ligand of the insulin-like growth factor 1 receptor.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "cardiomyocyte proliferation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A secreted form of Dipk2A, a human homolog of Aln and HASF, promotes cardiomyocyte proliferation by binding to insulin receptors.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

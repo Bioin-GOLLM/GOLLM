@@ -1,0 +1,15 @@
+{
+  "gene": "IDA-1",
+  "geneID": "175807",
+  "go_data": [
+    {
+      "term": "dense core vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IDA-1 is a DCV-specific transmembrane protein.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

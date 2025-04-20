@@ -1,0 +1,24 @@
+{
+  "gene": "MFSD6",
+  "geneID": "54842",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MFSD6 is suggested to contribute to ER-related functions of protein maturation and transport.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    },
+    {
+      "term": "protein transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MFSD6 is suggested to contribute to ER-related functions of protein maturation and transport.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "myelin basic protein",
+  "geneID": "17196",
+  "go_data": [
+    {
+      "term": "myelination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin basic protein is involved in the process of myelination.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "axon ensheathment",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin basic protein is involved in the process of axon ensheathment.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "Schwann cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin basic protein is involved in the differentiation of Schwann cells.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "oligodendrocyte differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Myelin basic protein is involved in the differentiation of oligodendrocytes.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    },
+    {
+      "term": "myelin sheath",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Myelin basic protein is a component of the myelin sheath.",
+      "reference(s)": [
+        "PMC2905418"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "gene": "CalpA",
+  "geneID": "37232",
+  "go_data": [
+    {
+      "term": "calcium-dependent cysteine-type endopeptidase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Calpains are calcium regulated intracellular cysteine proteases.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "proteolysis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Calpains are implicated in a variety of physiological functions and pathological conditions through proteolysis.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    },
+    {
+      "term": "cytosol",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Calpains are intracellular cysteine proteases.",
+      "reference(s)": [
+        "PMC3441222"
+      ]
+    }
+  ]
+}

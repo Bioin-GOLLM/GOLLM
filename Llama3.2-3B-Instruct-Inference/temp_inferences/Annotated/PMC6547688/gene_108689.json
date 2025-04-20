@@ -1,0 +1,24 @@
+{
+  "gene": "RPA32",
+  "geneID": "108689",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RPA32 is involved in the process of chromatin binding of factors in the subsequent firing step of DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RPA32 binds to chromatin as part of the replisome components during DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

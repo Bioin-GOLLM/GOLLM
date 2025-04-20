@@ -1,0 +1,24 @@
+{
+  "gene": "ISG15",
+  "geneID": "9636",
+  "go_data": [
+    {
+      "term": "defense response to virus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ISG15 is induced by IRF3, a transcription factor known for its role in antiviral responses.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "ISRE element binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The ISG15 promoter contains an ISRE element that is transcriptionally activated by IRFs.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

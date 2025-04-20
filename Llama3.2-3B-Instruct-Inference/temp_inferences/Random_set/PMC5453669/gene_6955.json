@@ -1,0 +1,51 @@
+{
+  "gene": "TRalpha",
+  "geneID": "6955",
+  "go_data": [
+    {
+      "term": "nuclear transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO modification of TRalpha alters nuclear transport.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "transcriptional regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO modification of TRalpha alters transcriptional regulation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "apoptosis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "SUMO modification of TRalpha alters apoptosis.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRalpha interacts with the SUMO ligase PIAS1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRalpha is SUMOylated in the nucleus by PIAS1.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

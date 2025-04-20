@@ -1,0 +1,33 @@
+{
+  "gene": "troponin T",
+  "geneID": "180914",
+  "go_data": [
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Troponin T is a muscle-specific protein isoform that plays a role in muscle contraction.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Troponin T is expressed in muscle cells, including heart and skeletal muscle.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    },
+    {
+      "term": "regulation of muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Alternative pre-mRNA splicing generates functionally distinct isoforms of troponin T, which may regulate muscle contraction.",
+      "reference(s)": [
+        "PMC3469465"
+      ]
+    }
+  ]
+}

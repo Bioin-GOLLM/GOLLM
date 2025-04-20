@@ -1,0 +1,15 @@
+{
+  "gene": "Rab5",
+  "geneID": "5868",
+  "go_data": [
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab5 is found in early endosomes.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

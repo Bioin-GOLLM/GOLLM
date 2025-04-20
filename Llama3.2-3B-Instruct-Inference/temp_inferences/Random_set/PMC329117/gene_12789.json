@@ -1,0 +1,24 @@
+{
+  "gene": "OCNC1",
+  "geneID": "12789",
+  "go_data": [
+    {
+      "term": "voltage-gated ion channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "OCNC1 is described as a channel gene, implying it has ion channel activity.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    },
+    {
+      "term": "olfactory system development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "X inactivation of the OCNC1 channel gene reveals a role in the olfactory system.",
+      "reference(s)": [
+        "PMC329117"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "TIE2",
+  "geneID": "7010",
+  "go_data": [
+    {
+      "term": "receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TIE2 is a receptor for angiopoietin-1 and angiopoietin-2.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "angiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIE2 is critical to the formation and remodelling of blood and lymphatic vessels.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "blood vessel morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIE2 is involved in vessel maintenance.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel morphogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIE2 is critical to the formation and remodelling of lymphatic vessels.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a receptor, TIE2 is located on the cell surface.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "FoxO1",
+  "geneID": "56458",
+  "go_data": [
+    {
+      "term": "transcriptional regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FoxO1 is transcriptionally regulated by KLF15.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

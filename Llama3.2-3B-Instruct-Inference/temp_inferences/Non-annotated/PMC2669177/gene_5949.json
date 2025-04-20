@@ -1,0 +1,33 @@
+{
+  "gene": "IRBP",
+  "geneID": "5949",
+  "go_data": [
+    {
+      "term": "interphotoreceptor retinoid binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IRBP is known as interphotoreceptor retinoid-binding protein.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor cell maintenance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IRBP-mediated NMP expression was detected in rods and cones.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    },
+    {
+      "term": "photoreceptor inner segment",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "IRBP is involved in the maintenance of photoreceptor cells, which include rods and cones.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

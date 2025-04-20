@@ -1,0 +1,15 @@
+{
+  "gene": "AKAP8",
+  "geneID": "10270",
+  "go_data": [
+    {
+      "term": "nuclear matrix",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "AKAP8 is associated with the nuclear matrix.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "Interferon gamma",
+  "geneID": "3458",
+  "go_data": [
+    {
+      "term": "cell surface receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFNgamma treated haploid HAP1 cells express high levels of cell surface PD-L1.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "regulation of protein localization to cell surface",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFNgamma exposure induces PD-L1 expression on the cell surface.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IFNgamma is described as a cytokine that induces PD-L1 expression.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IFNgamma is involved in the regulation of PD-L1, which plays a role in immune response.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

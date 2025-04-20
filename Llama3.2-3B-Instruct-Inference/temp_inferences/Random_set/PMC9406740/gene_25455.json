@@ -1,0 +1,24 @@
+{
+  "gene": "GH",
+  "geneID": "25455",
+  "go_data": [
+    {
+      "term": "growth hormone receptor binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "GH binds to its receptor to exert its effects.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "skeletal muscle regeneration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GH treatment leads to partial recovery of skeletal muscle sodium channel properties in aged rats.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

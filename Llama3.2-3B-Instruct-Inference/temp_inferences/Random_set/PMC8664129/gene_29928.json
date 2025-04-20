@@ -1,0 +1,33 @@
+{
+  "gene": "TIM22",
+  "geneID": "29928",
+  "go_data": [
+    {
+      "term": "protein transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The TIM22 complex is responsible for importing the large number of metabolite carriers into the inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The TIM22 complex inserts the precursors of TIMM23 and TIMM17A/B into the inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein insertion into mitochondrial inner membrane",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TIMM22 also inserts the precursors of TIMM23 and TIMM17A/B into the inner membrane.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

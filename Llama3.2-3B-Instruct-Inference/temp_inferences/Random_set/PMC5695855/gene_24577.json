@@ -1,0 +1,15 @@
+{
+  "gene": "cMyc",
+  "geneID": "24577",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The subcellular localization of ScCrd1-cMyc in T. brucei was analyzed by immunofluorescence microscopy and showed that the tagged protein is properly targeted to the mitochondrion.",
+      "reference(s)": [
+        "PMC5695855"
+      ]
+    }
+  ]
+}

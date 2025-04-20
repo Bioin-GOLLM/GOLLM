@@ -1,0 +1,24 @@
+{
+  "gene": "ADAMTS3",
+  "geneID": "9508",
+  "go_data": [
+    {
+      "term": "lymphangiogenesis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ADAMTS3 is involved in new pathways involving lymphangiogenesis and remodelling.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    },
+    {
+      "term": "lymphatic vessel development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Loss of ADAMTS3 activity causes Hennekam lymphangiectasia-lymphedema syndrome 3, indicating its role in lymphatic vessel development.",
+      "reference(s)": [
+        "PMC9811075"
+      ]
+    }
+  ]
+}

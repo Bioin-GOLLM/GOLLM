@@ -1,0 +1,42 @@
+{
+  "gene": "TRAF3",
+  "geneID": "7187",
+  "go_data": [
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF3 is required for the activation of TBK1 and IKKepsilon by PRR signalling.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRAF3 is a component of TLR and RLR signalling pathways, which are involved in the antiviral response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TRAF3 is part of a complex containing TBK1, IKKepsilon, and TANK.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRAF3 is involved in the signalling pathways of TLR and RLR, which are typically located in the cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

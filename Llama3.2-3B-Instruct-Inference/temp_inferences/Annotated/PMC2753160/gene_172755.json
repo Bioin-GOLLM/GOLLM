@@ -1,0 +1,33 @@
+{
+  "gene": "RAB-5",
+  "geneID": "172755",
+  "go_data": [
+    {
+      "term": "early endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "RAB-5 is described as an early endosomal marker.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "regulation of vesicle transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Interfering with early endosomal function by expressing RAB-5(Q78L)DA affects the transport of YFP cargo.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    },
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "RAB-5 is expressed in a GTP-bound form, RAB-5(Q78L)DA.",
+      "reference(s)": [
+        "PMC2753160"
+      ]
+    }
+  ]
+}

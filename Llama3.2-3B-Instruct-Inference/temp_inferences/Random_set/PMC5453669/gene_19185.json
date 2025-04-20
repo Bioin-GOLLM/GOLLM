@@ -1,0 +1,24 @@
+{
+  "gene": "AF1",
+  "geneID": "19185",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "AF1 is part of the N-terminus of TRalpha, which is a nuclear receptor.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "transcription regulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AF1 is part of TRalpha, which is involved in regulating gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

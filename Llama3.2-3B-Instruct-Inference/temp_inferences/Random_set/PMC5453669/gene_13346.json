@@ -1,0 +1,24 @@
+{
+  "gene": "desmin",
+  "geneID": "13346",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Desmin is co-localized with nuclear lamin beta1 and TRalpha1, suggesting its association with the cytoskeletal structure.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Desmin co-localizes with nuclear proteins lamin beta1 and TRalpha1, indicating its presence in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

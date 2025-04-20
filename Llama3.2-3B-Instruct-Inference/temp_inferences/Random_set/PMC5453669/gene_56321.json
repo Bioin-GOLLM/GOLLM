@@ -1,0 +1,33 @@
+{
+  "gene": "TRbeta",
+  "geneID": "56321",
+  "go_data": [
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TRbeta is a thyroid hormone receptor, which is known to be located in the nucleus.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRbeta interacts with SUMO ligase PIASx, which SUMOylates TRbeta in the presence of ligand.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRbeta is involved in T3-dependent gene regulation, closely matching TR activity and cofactor recruitment to the TRE in ChIP assays.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "TSG101",
+  "geneID": "7251",
+  "go_data": [
+    {
+      "term": "exosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TSG101 is a known exosome marker.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

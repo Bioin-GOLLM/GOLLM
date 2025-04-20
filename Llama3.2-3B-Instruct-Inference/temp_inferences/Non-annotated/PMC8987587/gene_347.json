@@ -1,0 +1,15 @@
+{
+  "gene": "APOD",
+  "geneID": "347",
+  "go_data": [
+    {
+      "term": "lipid metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "APOD is responsible for lipid metabolism.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "TRIM29",
+  "geneID": "23650",
+  "go_data": [
+    {
+      "term": "transcription",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TRIM29 is associated with transcription.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

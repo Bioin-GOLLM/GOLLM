@@ -1,0 +1,42 @@
+{
+  "gene": "TANK",
+  "geneID": "100339142",
+  "go_data": [
+    {
+      "term": "scaffold protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TANK acts as a scaffold protein that binds to kinases TBK1 and IKKepsilon.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "TANK is involved in signaling pathways that occur in the cytoplasm, such as the activation of IRF3 and IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TANK is part of the signaling pathways activated by RLRs, TLR3, and other intracellular DNA sensors, which are involved in the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "protein complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "TANK exists in complexes with kinases TBK1 and IKKepsilon, and other scaffold proteins like NAP1 and SINTBAD.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

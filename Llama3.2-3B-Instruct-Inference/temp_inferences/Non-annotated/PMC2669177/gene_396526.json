@@ -1,0 +1,15 @@
+{
+  "gene": "beta-actin",
+  "geneID": "396526",
+  "go_data": [
+    {
+      "term": "cytoskeleton",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "Beta-actin is a component of microfilaments in the cytoskeleton.",
+      "reference(s)": [
+        "PMC2669177"
+      ]
+    }
+  ]
+}

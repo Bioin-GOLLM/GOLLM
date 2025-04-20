@@ -1,0 +1,33 @@
+{
+  "gene": "LRWD1",
+  "geneID": "222229",
+  "go_data": [
+    {
+      "term": "DNA replication origin binding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LRWD1 is part of the ORC complex that recognises DNA replication origin sites.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "pre-replicative complex",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "LRWD1 is a component of the pre-replicative complexes (pre-RCs) that form at replication origins.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein complex binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "LRWD1 interacts with several ORC subunits and other proteins involved in replication origin licensing.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

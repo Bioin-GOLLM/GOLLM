@@ -1,0 +1,254 @@
+[
+  {
+    "gene": "Stx1",
+    "geneID": "6804",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "Stx1 forms a four-helix bundle SNARE complex with SNAP-25 and VAMP-2, which provides the mechanical force for membrane fusion to occur.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "regulation of synaptic vesicle exocytosis",
+        "go_id": "GO:2000300",
+        "relationship": [
+          "regulates GO:0016079"
+        ],
+        "namespace": "biological_process",
+        "justification": "SUMOylation of Stx1A regulates the rate of neurotransmitter vesicle endocytosis and affects synaptic vesicle exocytosis.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "synaptic vesicle endocytosis",
+        "go_id": "GO:0048488",
+        "relationship": [
+          "part_of GO:0036465"
+        ],
+        "namespace": "biological_process",
+        "justification": "SUMOylation of Stx1A acts as a regulating factor that coordinates the balance between endo- and exocytosis at the presynapse.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Stx1A binds to SNAP-25, Munc18a, and VAMP-2 to form the SNARE complex.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "membrane",
+        "go_id": "GO:0016020",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Stx1A is anchored to the presynaptic membrane.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SNAP-25",
+    "geneID": "6616",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "SNAP-25 forms a four-helix bundle SNARE complex with Syntaxin1 and VAMP-2, which provides mechanical force for membrane fusion.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "presynaptic membrane",
+        "go_id": "GO:0042734",
+        "relationship": [
+          "part_of GO:0098793"
+        ],
+        "namespace": "cellular_component",
+        "justification": "SNAP-25 is anchored to the presynaptic membrane.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "SNAP-25 is fundamental to neurotransmitter release as part of the SNARE complex.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "vesicle fusion",
+        "go_id": "GO:0006906",
+        "relationship": [
+          "part_of GO:0016192"
+        ],
+        "namespace": "biological_process",
+        "justification": "The SNARE complex, including SNAP-25, provides mechanical force for membrane fusion to occur during vesicle exocytosis.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "SNAP-25 interacts with critical partners, including Munc18a and Syntaxin1, for SNARE complex formation and exocytosis.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "VAMP-2",
+    "geneID": "6844",
+    "go_data": [
+      {
+        "term": "SNARE complex assembly",
+        "go_id": "GO:0035493",
+        "relationship": [
+          "part_of GO:0006906"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP-2 forms a four-helix bundle SNARE complex with SNAP-25 and Syntaxin1.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "vesicle membrane",
+        "go_id": "GO:0012506",
+        "relationship": [
+          "part_of GO:0031982"
+        ],
+        "namespace": "cellular_component",
+        "justification": "VAMP-2 is located on the SV membrane.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "neurotransmitter secretion",
+        "go_id": "GO:0007269",
+        "relationship": [
+          "occurs_in GO:0098793",
+          "part_of GO:0007268"
+        ],
+        "namespace": "biological_process",
+        "justification": "VAMP-2 is fundamental to neurotransmitter release as part of the SNARE complex.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "VAMP-2 binds to SNAP-25 and Syntaxin1 to form the SNARE complex.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Ubc9",
+    "geneID": "7329",
+    "go_data": [
+      {
+        "term": "SUMO transferase activity",
+        "go_id": "GO:0019789",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Ubc9 is the only SUMO E2 enzyme, necessary and sufficient for SUMO conjugation.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "protein sumoylation",
+        "go_id": "GO:0016925",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Ubc9 is critical for SUMO conjugation to target proteins via an isopeptide bond to the primary amine groups of lysine residues.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SUMOylation, which Ubc9 is a part of, has been characterised most extensively in the nucleus.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SUMO-1",
+    "geneID": "7341",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "SUMO-1 is reactive with Stx1A, indicating a direct interaction.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "nervous system process",
+        "go_id": "GO:0050877",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "SUMO-1 immunoreactivity increases in neuronal processes upon 30 mM KCl treatment.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      },
+      {
+        "term": "protein sumoylation",
+        "go_id": "GO:0016925",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "SUMO-1 can conjugate to lysine residues near the C-terminal transmembrane domain of Stx1A.",
+        "reference(s)": [
+          "PMC4669484"
+        ]
+      }
+    ]
+  }
+]

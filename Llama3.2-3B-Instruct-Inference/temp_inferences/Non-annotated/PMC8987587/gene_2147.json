@@ -1,0 +1,15 @@
+{
+  "gene": "prothrombin",
+  "geneID": "2147",
+  "go_data": [
+    {
+      "term": "complement binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Prothrombin is annotated under 'complement binding' with a significant enrichment of 80.39-fold.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

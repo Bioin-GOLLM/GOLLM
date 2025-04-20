@@ -1,0 +1,1640 @@
+[
+  {
+    "gene": "OBI1",
+    "geneID": "79596",
+    "go_data": [
+      {
+        "term": "DNA replication origin binding",
+        "go_id": "GO:0003688",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "OBI1 promotes DNA replication origin firing and is associated with the ORC complex.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "ubiquitin protein ligase activity",
+        "go_id": "GO:0061630",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "OBI1 catalyses the multi-mono-ubiquitylation of ORC3 and ORC5.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "regulation of cell cycle",
+        "go_id": "GO:0051726",
+        "relationship": [
+          "regulates GO:0007049"
+        ],
+        "namespace": "biological_process",
+        "justification": "OBI1 expression and chromatin association are cell cycle-regulated.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "OBI1 is associated with chromatin and the ORC complex in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "OBI1 interacts with the ORC complex and other proteins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "regulation of DNA replication",
+        "go_id": "GO:0006275",
+        "relationship": [
+          "regulates GO:0006260"
+        ],
+        "namespace": "biological_process",
+        "justification": "OBI1 is essential for origin firing and DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CDC6",
+    "geneID": "990",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "CDC6 assembles at replication origins, forming pre-replicative complexes (pre-RCs) during the G1-phase of the cell cycle.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "pre-replicative complex",
+        "go_id": "GO:0036387",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDC6 is a component of the pre-replicative complex (pre-RC) that assembles at replication origins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "cell cycle",
+        "go_id": "GO:0007049",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CDC6 is regulated by cell cycle- and cell growth-regulated proteolysis.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDC6 is involved in DNA replication and is expected to be located in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CDT1",
+    "geneID": "81620",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "CDT1 assembles at replication origins, forming pre-replicative complexes (pre-RCs) during the G1-phase of the cell cycle.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "pre-replicative complex",
+        "go_id": "GO:0036387",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDT1 is a component of pre-replicative complexes (pre-RCs) that assemble at replication origins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CDT1 interacts with other pre-RC components, such as ORC complex and CDC6.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDT1 is involved in DNA replication and is expected to be located in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CDC45",
+    "geneID": "8318",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "CDC45 is part of the CMG complex that catalyses the unwinding of the DNA, allowing origin firing and the establishment of active replication forks.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "helicase activity",
+        "go_id": "GO:0004386",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CDC45 associates with the MCM2/7 helicase and the GINS complex to form the active CMG complex, which catalyses the unwinding of the DNA.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDC45 is involved in DNA replication, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC3",
+    "geneID": "23595",
+    "go_data": [
+      {
+        "term": "DNA replication origin binding",
+        "go_id": "GO:0003688",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ORC3 is part of the origin recognition complex (ORC) that binds to DNA replication origins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin binding",
+        "go_id": "GO:0003682",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Chromatin-bound ORC3 and ORC5 are multi-mono-ubiquitylated in a cell cycle regulated manner.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "OBI1 catalyses the multi-mono-ubiquitylation of a subset of chromatin-bound ORC3 and ORC5 during S-phase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ORC3 is involved in DNA replication and is expected to be located in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC5",
+    "geneID": "5001",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "ORC5 is part of the ORC complex, which is involved in DNA replication origin activation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin binding",
+        "go_id": "GO:0003682",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ORC5 is a chromatin-bound protein.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ORC5 is multi-mono-ubiquitylated by OBI1.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ORC5 is involved in DNA replication, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "LRWD1",
+    "geneID": "222229",
+    "go_data": [
+      {
+        "term": "DNA replication origin binding",
+        "go_id": "GO:0003688",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "LRWD1 is part of the ORC complex that recognises DNA replication origin sites.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "pre-replicative complex",
+        "go_id": "GO:0036387",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "LRWD1 is a component of the pre-replicative complexes (pre-RCs) that form at replication origins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein-containing complex binding",
+        "go_id": "GO:0044877",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "LRWD1 interacts with several ORC subunits and other proteins involved in replication origin licensing.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CDC6",
+    "geneID": "853244",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "CDC6 assembles at origins and permits the licensing reaction that culminates with the loading of the replicative helicase MCM2/7.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "pre-replicative complex",
+        "go_id": "GO:0036387",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDC6 assembles at origins and permits the formation of pre-replicative complexes (pre-RCs).",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CDC6 permits the loading onto chromatin of the replicative helicase MCM2/7.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CDT1",
+    "geneID": "853504",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "CDT1 assembles at origins and permits the licensing reaction that culminates with the loading of the replicative helicase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "pre-replicative complex",
+        "go_id": "GO:0036387",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDT1 assembles at origins and permits the licensing reaction that defines the pre-replicative complexes (pre-RCs).",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "CDT1 permits the licensing reaction that culminates with the loading onto chromatin of the replicative helicase MCM2/7.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "E3 ubiquitin ligase",
+    "geneID": "79594",
+    "go_data": [
+      {
+        "term": "ubiquitin protein ligase activity",
+        "go_id": "GO:0061630",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "C13ORF7/RNF219 is described as a putative E3 ubiquitin ligase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "OBI1 is suggested to be essential for DNA replication origin activation during S phase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC1",
+    "geneID": "4998",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "Proper DNA replication is needed for cell growth, and siRNA-mediated silencing of ORC1 impaired cell proliferation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "pre-replicative complex",
+        "go_id": "GO:0036387",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "ORC1 is a component of the pre-RC proteomic interactome and interacts with other pre-RC components.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ORC1 recruitment to chromatin was impaired upon ORC1 depletion.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "ORC1 is ubiquitinated, as previously described.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC2",
+    "geneID": "4999",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "ORC2 is part of the pre-RC complex, which is involved in replication origin biology.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ORC2 recruitment to chromatin is mentioned in the text, indicating its location.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "ORC2 interacts with several proteins, including OBI1 and other ORC subunits.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "geminin",
+    "geneID": "51053",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "Geminin is described as a licensing inhibitor in the context of DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Geminin is involved in DNA replication, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Geminin interacts with other proteins such as CDT1, as indicated by its role as a CDT1 inhibitor.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "SCFSKP2",
+    "geneID": "6502",
+    "go_data": [
+      {
+        "term": "ubiquitin ligase complex",
+        "go_id": "GO:0000151",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "SCFSKP2 is mentioned alongside other components of the ubiquitin ligase complex.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "SCFSKP2 is identified as a ubiquitylation target of a Cul1-based core ubiquitin ligase complex.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "G1 phase",
+        "go_id": "GO:0051318",
+        "relationship": [
+          "part_of GO:0051325"
+        ],
+        "namespace": "biological_process",
+        "justification": "Phosphorylation of Skp2 regulated by CDK2 and Cdc14B protects it from degradation by APC(Cdh1) in G1 phase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RIF1",
+    "geneID": "55183",
+    "go_data": [
+      {
+        "term": "nuclear matrix",
+        "go_id": "GO:0016363",
+        "relationship": [
+          "part_of GO:0034399"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RIF1 is found among factors associated with the nuclear matrix.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NUMA",
+    "geneID": "4926",
+    "go_data": [
+      {
+        "term": "nuclear matrix",
+        "go_id": "GO:0016363",
+        "relationship": [
+          "part_of GO:0034399"
+        ],
+        "namespace": "cellular_component",
+        "justification": "NUMA is associated with the nuclear matrix.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "AKAP8",
+    "geneID": "10270",
+    "go_data": [
+      {
+        "term": "nuclear matrix",
+        "go_id": "GO:0016363",
+        "relationship": [
+          "part_of GO:0034399"
+        ],
+        "namespace": "cellular_component",
+        "justification": "AKAP8 is associated with the nuclear matrix.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DDX5",
+    "geneID": "1655",
+    "go_data": [
+      {
+        "term": "RNA metabolic process",
+        "go_id": "GO:0016070",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DDX5 is associated with RNA metabolism.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DDX39B",
+    "geneID": "7919",
+    "go_data": [
+      {
+        "term": "RNA metabolic process",
+        "go_id": "GO:0016070",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "DDX39B is associated with RNA metabolism.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "FXR1",
+    "geneID": "8087",
+    "go_data": [
+      {
+        "term": "RNA metabolic process",
+        "go_id": "GO:0016070",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "FXR1 is associated with RNA metabolism.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "HNRPM",
+    "geneID": "4670",
+    "go_data": [
+      {
+        "term": "RNA metabolic process",
+        "go_id": "GO:0016070",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "HNRPM is associated with RNA metabolism.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nuclear matrix",
+        "go_id": "GO:0016363",
+        "relationship": [
+          "part_of GO:0034399"
+        ],
+        "namespace": "cellular_component",
+        "justification": "HNRPM is among factors associated with the nuclear matrix.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RBM10",
+    "geneID": "8241",
+    "go_data": [
+      {
+        "term": "RNA metabolic process",
+        "go_id": "GO:0016070",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "RBM10 is associated with RNA metabolism.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PRMT5",
+    "geneID": "10419",
+    "go_data": [
+      {
+        "term": "RNA metabolic process",
+        "go_id": "GO:0016070",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PRMT5 is associated with RNA metabolism.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "NFIL3",
+    "geneID": "4783",
+    "go_data": [
+      {
+        "term": "mRNA transcription",
+        "go_id": "GO:0009299",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "NFIL3 is associated with transcription.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TRIM29",
+    "geneID": "23650",
+    "go_data": [
+      {
+        "term": "mRNA transcription",
+        "go_id": "GO:0009299",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "TRIM29 is associated with transcription.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PSME3",
+    "geneID": "10197",
+    "go_data": [
+      {
+        "term": "ubiquitin recycling",
+        "go_id": "GO:0010992",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "PSME3 is associated with the ubiquitin pathway.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TAG",
+    "geneID": "404663",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TAG is used in a TAP-TAG approach for immunoprecipitation, implying interaction with other proteins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TAP",
+    "geneID": "23541",
+    "go_data": [
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TAP is used in a TAP-TAG approach for immunoprecipitation, implying interaction with other proteins.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ubiquitin ligase",
+    "geneID": "84585",
+    "go_data": [
+      {
+        "term": "ubiquitin protein ligase activity",
+        "go_id": "GO:0061630",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "OBI1-induced ORC3/5 ubiquitylation required its intrinsic ubiquitin ligase activity.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "OBI1 is a major ORC3/5 ubiquitin ligase in vivo, capable of catalysing their multi-mono-ubiquitylation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "cellular_component",
+        "go_id": "GO:0005575",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated, however ubiquitin ligases are generally located in the cellular component.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CDC7",
+    "geneID": "8317",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "CDC7 is essential for origin firing, which is necessary for DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "cell population proliferation",
+        "go_id": "GO:0008283",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Silencing of CDC7 impaired cell proliferation, indicating its role in this process.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "CDC7 is involved in DNA replication, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "kinase activity",
+        "go_id": "GO:0016301",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "CDC7 is a kinase that phosphorylates and activates proteins involved in DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "treslin",
+    "geneID": "90381",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "Silencing of treslin caused a DNA synthesis defect.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "action potential initiation",
+        "go_id": "GO:0099610",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Treslin is an essential component of origin firing.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "go_id": "GO:0006468",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Cyclin-dependent kinase regulates the length of S phase through TICRR/TRESLIN phosphorylation",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MTBP",
+    "geneID": "27085",
+    "go_data": [
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MTBP contains a novel DNA-binding domain that is essential for proper initiation of DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "DNA replication initiation",
+        "go_id": "GO:0006270",
+        "relationship": [
+          "part_of GO:0006261"
+        ],
+        "namespace": "biological_process",
+        "justification": "MTBP is an essential component of origin firing and proper initiation of DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DNA polymerase-alpha",
+    "geneID": "5422",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "DNA polymerase-alpha is involved in the process of DNA replication as part of the replisome components.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "DNA polymerase-alpha is recruited to chromatin as part of the DNA replication process.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RPA32",
+    "geneID": "108689",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "RPA32 is involved in the process of chromatin binding of factors in the subsequent firing step of DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "RPA32 binds to chromatin as part of the replisome components during DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PSF1",
+    "geneID": "69270",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "PSF1/GINS1 is part of the replisome components recruited to chromatin for DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "PSF1/GINS1 is recruited to chromatin as part of the replisome components for DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GINS1",
+    "geneID": "9837",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "GINS1 is part of the replisome and its chromatin recruitment is necessary for DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "GINS1 binds to chromatin, which is located in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "replisome",
+        "go_id": "GO:0030894",
+        "relationship": [
+          "has_part GO:0033202",
+          "has_part GO:0042575",
+          "part_of GO:0005657"
+        ],
+        "namespace": "cellular_component",
+        "justification": "GINS1 is a component of the replisome, which is involved in DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "PCNA",
+    "geneID": "5111",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "PCNA is involved in DNA replication activation, as shown by defective chromatin recruitment of proteins involved in DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "PCNA is involved in chromatin binding and DNA replication, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "DNA clamp loader activity",
+        "go_id": "GO:0003689",
+        "relationship": [
+          "has_part GO:0003677"
+        ],
+        "namespace": "molecular_function",
+        "justification": "PCNA functions as a molecular platform, implying a role in DNA replication as a processivity factor.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "RFC2",
+    "geneID": "19718",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "RFC2 is part of the replisome components, such as DNA polymerase alpha, RPA32, PSF1/GINS1, PCNA, which are involved in DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Chromatin binding of RFC2, along with other factors, was reduced or impaired.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "DNA clamp loader activity",
+        "go_id": "GO:0003689",
+        "relationship": [
+          "has_part GO:0003677"
+        ],
+        "namespace": "molecular_function",
+        "justification": "RFC2 is the loader for the processivity factor PCNA.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC4",
+    "geneID": "5000",
+    "go_data": [
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "ORC4 recruitment to chromatin",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "CHK1",
+    "geneID": "12649",
+    "go_data": [
+      {
+        "term": "DNA damage checkpoint signaling",
+        "go_id": "GO:0000077",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CHK1 is indicated in the context of the DNA damage checkpoint.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein phosphorylation",
+        "go_id": "GO:0006468",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "CHK1 phosphorylation is mentioned as an indicator of activation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC6",
+    "geneID": "23594",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "ORC6 is a subunit of the origin recognition complex (ORC), which plays a crucial role in the initiation of DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As a component of the ORC complex, ORC6 is expected to be localized to the nucleus where DNA replication occurs.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "USP2CD",
+    "geneID": "9099",
+    "go_data": [
+      {
+        "term": "ubiquitin-like protein-specific endopeptidase activity",
+        "go_id": "GO:0070137",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "USP2CD is described as a universal deubiquitinating enzyme (DUB) that can cleave any kind of ubiquitin attachment.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein deubiquitination",
+        "go_id": "GO:0016579",
+        "relationship": [
+          "has_part GO:0004843"
+        ],
+        "namespace": "biological_process",
+        "justification": "USP2CD efficiently eliminated high molecular weight species of immunoprecipitated ORC3/5 by releasing free ubiquitin.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "ORC5",
+    "geneID": "26429",
+    "go_data": [
+      {
+        "term": "chromatin organization",
+        "go_id": "GO:0006325",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Orc5 induces large-scale chromatin decondensation",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein binding",
+        "go_id": "GO:0005515",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "OBI1 ubiquitin ligase activity toward the ORC complex",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MCM7",
+    "geneID": "4176",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "Chromatin unloading of the replicative helicase at the end of replication involves K48-linked MCM7 poly-ubiquitylation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Chromatin unloading of the replicative helicase at the end of replication involves K48-linked MCM7 poly-ubiquitylation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "MCM7 is involved in DNA replication, which occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "UHRF1",
+    "geneID": "29128",
+    "go_data": [
+      {
+        "term": "histone binding",
+        "go_id": "GO:0042393",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "UHRF1 catalyses the mono-ubiquitylation of histone H3 lysine 23.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "UHRF1 catalyses the mono-ubiquitylation of histone H3 lysine 23.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "UHRF1-dependent H3K23 ubiquitylation couples maintenance DNA methylation and replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "UHRF1 is involved in chromatin unloading of the replicative helicase at the end of replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "histone H3",
+    "geneID": "260423",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "Histone H3 is involved in DNA replication origin activation through a novel ubiquitin signalling pathway.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin",
+        "go_id": "GO:0000785",
+        "relationship": [
+          "part_of GO:0005694"
+        ],
+        "namespace": "cellular_component",
+        "justification": "Histone H3 is a component of chromatin, which is involved in chromatin unloading of the replicative helicase at the end of replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "protein ubiquitination",
+        "go_id": "GO:0016567",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Histone H3 is subject to mono-ubiquitylation of lysine 23 by the ubiquitin ligase UHRF1.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "GCN5",
+    "geneID": "2648",
+    "go_data": [
+      {
+        "term": "histone acetyltransferase activity",
+        "go_id": "GO:0004402",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "GCN5/KAT2A is described as a histone acetyl-transferase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "chromatin organization",
+        "go_id": "GO:0006325",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "GCN5 is involved in making origins more accessible for activation and inducing large-scale chromatin decondensation.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "GCN5 interacts with the ORC complex, which is involved in DNA replication, a process that occurs in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "MCM2",
+    "geneID": "17216",
+    "go_data": [
+      {
+        "term": "DNA helicase activity",
+        "go_id": "GO:0003678",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "MCM2 is part of the MCM2-7 helicase.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "MCM2-7 helicase is activated by association with Cdc45 and GINS proteins, implying involvement in DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "As part of the DNA replication process, MCM2 is likely located in the nucleus.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Cdc7",
+    "geneID": "12545",
+    "go_data": [
+      {
+        "term": "DNA replication",
+        "go_id": "GO:0006260",
+        "relationship": [
+          "has_part GO:0071897"
+        ],
+        "namespace": "biological_process",
+        "justification": "A Cdc7 kinase inhibitor restricts initiation of DNA replication",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "kinase activity",
+        "go_id": "GO:0016301",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Cdc7 is described as a kinase",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "Geminin",
+    "geneID": "57441",
+    "go_data": [
+      {
+        "term": "negative regulation of DNA replication",
+        "go_id": "GO:0008156",
+        "relationship": [
+          "negatively_regulates GO:0006260"
+        ],
+        "namespace": "biological_process",
+        "justification": "Geminin is described as an inhibitor of DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "cell cycle",
+        "go_id": "GO:0007049",
+        "relationship": "unknown",
+        "namespace": "biological_process",
+        "justification": "Geminin is degraded during mitosis, indicating involvement in the cell cycle.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "cytoplasm",
+        "go_id": "GO:0005737",
+        "relationship": [
+          "part_of GO:0005622"
+        ],
+        "namespace": "cellular_component",
+        "justification": "No explicit information, however, Geminin is often found in the nucleus but the text does not explicitly state this, thus no cellular component term can be assigned based on the given text.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "cyclin A",
+    "geneID": "890",
+    "go_data": [
+      {
+        "term": "protein kinase binding",
+        "go_id": "GO:0019901",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "Cyclin A-dependent kinases phosphorylate Cdt1.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      },
+      {
+        "term": "regulation of DNA replication",
+        "go_id": "GO:0006275",
+        "relationship": [
+          "regulates GO:0006260"
+        ],
+        "namespace": "biological_process",
+        "justification": "Cyclin A-dependent kinases negatively regulate Cdt1 function, which is involved in DNA replication.",
+        "reference(s)": [
+          "PMC6547688"
+        ]
+      }
+    ]
+  }
+]

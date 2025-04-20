@@ -1,0 +1,33 @@
+{
+  "gene": "PCNA",
+  "geneID": "5111",
+  "go_data": [
+    {
+      "term": "DNA replication",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "PCNA is involved in DNA replication activation, as shown by defective chromatin recruitment of proteins involved in DNA replication.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PCNA is involved in chromatin binding and DNA replication, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "DNA clamp",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PCNA functions as a molecular platform, implying a role in DNA replication as a processivity factor.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

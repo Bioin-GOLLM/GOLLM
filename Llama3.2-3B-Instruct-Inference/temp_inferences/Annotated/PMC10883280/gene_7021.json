@@ -1,0 +1,15 @@
+{
+  "gene": "AP2beta",
+  "geneID": "7021",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "AP2beta is part of a DMI structure, suggesting it interacts with other proteins.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

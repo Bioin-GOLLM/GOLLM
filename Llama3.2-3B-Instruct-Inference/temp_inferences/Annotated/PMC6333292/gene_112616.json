@@ -1,0 +1,33 @@
+{
+  "gene": "CMTM7",
+  "geneID": "112616",
+  "go_data": [
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "CMTM7 has been described in association with the B cell receptor (BCR) complex at the cell surface.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "B cell receptor signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CMTM7 may contribute to BCR signaling as a transmembrane linker of BLNK and the B-cell receptor.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    },
+    {
+      "term": "transmembrane signaling receptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CMTM7 acts as a transmembrane linker of BLNK and the B-cell receptor, suggesting it enables transmembrane signaling receptor activity.",
+      "reference(s)": [
+        "PMC6333292"
+      ]
+    }
+  ]
+}

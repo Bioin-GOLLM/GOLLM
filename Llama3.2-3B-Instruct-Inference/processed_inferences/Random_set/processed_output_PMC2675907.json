@@ -1,0 +1,106 @@
+[
+  {
+    "gene": "TFB",
+    "geneID": "26609049",
+    "go_data": [
+      {
+        "term": "DNA-templated transcription initiation",
+        "go_id": "GO:0006352",
+        "relationship": [
+          "part_of GO:0006351"
+        ],
+        "namespace": "biological_process",
+        "justification": "Archaeal transcription initiation requires only two accessory proteins bound to DNA: transcription factor B (TFB) and TATA-box binding protein (TBP).",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TFB is an accessory protein bound to DNA during transcription initiation in Archaea.",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "None, however, the archaeal transcription machinery is orthologous to that of eukaryotes, thus TFB is likely located in the nucleoid or equivalent structure in Archaea.",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "TATA-box binding protein",
+    "geneID": "24889622",
+    "go_data": [
+      {
+        "term": "DNA-templated transcription initiation",
+        "go_id": "GO:0006352",
+        "relationship": [
+          "part_of GO:0006351"
+        ],
+        "namespace": "biological_process",
+        "justification": "Archaeal transcription initiation requires only two accessory proteins bound to DNA: transcription factor B (TFB) and TATA-box binding protein (TBP).",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      },
+      {
+        "term": "DNA binding",
+        "go_id": "GO:0003677",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "TATA-box binding protein (TBP) binds to DNA as part of the transcription initiation process.",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      },
+      {
+        "term": "nucleus",
+        "go_id": "GO:0005634",
+        "relationship": "unknown",
+        "namespace": "cellular_component",
+        "justification": "Not explicitly stated for this gene, however, given that the organism is an archaeon, the equivalent would be 'cell', but since the specific cellular component is not mentioned, this term is not applicable.",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      }
+    ]
+  },
+  {
+    "gene": "DNA-directed RNA polymerase",
+    "geneID": "24868030",
+    "go_data": [
+      {
+        "term": "RNA-directed DNA polymerase activity",
+        "go_id": "GO:0003964",
+        "relationship": [
+          "part_of GO:0006278"
+        ],
+        "namespace": "molecular_function",
+        "justification": "The enzyme is described as DNA-directed RNA polymerase, indicating its role in RNA synthesis.",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      },
+      {
+        "term": "nucleic acid binding",
+        "go_id": "GO:0003676",
+        "relationship": "unknown",
+        "namespace": "molecular_function",
+        "justification": "The C-terminus of Rpo13 extends into the DNA entry channel, suggesting its involvement in binding to nucleic acids.",
+        "reference(s)": [
+          "PMC2675907"
+        ]
+      }
+    ]
+  }
+]

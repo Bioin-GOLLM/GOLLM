@@ -1,0 +1,42 @@
+{
+  "gene": "C22orf39",
+  "geneID": "128977",
+  "go_data": [
+    {
+      "term": "mitochondrial outer membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C22orf39 may function at the outer membrane/cytosol interface.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial intermembrane space",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C22orf39 copurified proteins located in the intermembrane space.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "cellular respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Oxygen consumption of C22orf39 knockout cells was impaired.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial protein complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C22orf39 is required for mitochondrial metabolic activity, similar to LYRM9 which is required for complex I assembly.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

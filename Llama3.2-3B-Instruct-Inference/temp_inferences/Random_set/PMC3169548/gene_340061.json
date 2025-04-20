@@ -1,0 +1,33 @@
+{
+  "gene": "STING",
+  "geneID": "340061",
+  "go_data": [
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STING regulates intracellular DNA-mediated, type I interferon-dependent innate immunity.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "STING is an endoplasmic reticulum adaptor that facilitates innate immune signalling.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "signal transduction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "STING facilitates innate immune signalling.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

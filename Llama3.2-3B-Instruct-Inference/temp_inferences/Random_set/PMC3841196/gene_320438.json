@@ -1,0 +1,15 @@
+{
+  "gene": "ALG6",
+  "geneID": "320438",
+  "go_data": [
+    {
+      "term": "N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ALG6 gene appears to be involved in the N-linked glycosylation pathway, as deletion of a related gene in yeast does not completely abolish this process.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

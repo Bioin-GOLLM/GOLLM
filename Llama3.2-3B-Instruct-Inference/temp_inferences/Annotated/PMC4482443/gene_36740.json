@@ -1,0 +1,23 @@
+{
+  "gene": "Zasp",
+  "geneID": "36740",
+  "go_data": [
+    {
+      "term": "costamere",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Zasp localises to the costameres of cardiomyocytes of control larval hearts.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "cardiac muscle cell development",
+      "relationship": "involved_in",
+      "justification": "Zasp is detected at costameres in cardiomyocytes, suggesting a role in cardiac muscle cell development.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

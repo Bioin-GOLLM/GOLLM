@@ -1,0 +1,33 @@
+{
+  "gene": "Rab7",
+  "geneID": "338382",
+  "go_data": [
+    {
+      "term": "late endosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Rab7 is used as a marker for late endosomes.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "vesicle-mediated transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Rab7 is associated with late endosomes, which are involved in vesicle-mediated transport.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "GTP binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Rab7 is a GTPase, which implies it has GTP binding activity.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

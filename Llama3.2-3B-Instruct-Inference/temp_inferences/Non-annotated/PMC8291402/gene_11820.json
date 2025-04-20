@@ -1,0 +1,24 @@
+{
+  "gene": "Abeta",
+  "geneID": "11820",
+  "go_data": [
+    {
+      "term": "amyloid-beta clearance",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Compromised cerebral vessels led to impaired Abeta clearance.",
+      "reference(s)": [
+        "PMC8291402"
+      ]
+    },
+    {
+      "term": "blood-brain barrier",
+      "relationship": "associated_with",
+      "namespace": "cellular_component",
+      "justification": "Cerebral vascular lesions could induce impairment of neurovascular regulation, particularly the breakdown of the blood-brain barrier (BBB) related to Abeta.",
+      "reference(s)": [
+        "PMC8291402"
+      ]
+    }
+  ]
+}

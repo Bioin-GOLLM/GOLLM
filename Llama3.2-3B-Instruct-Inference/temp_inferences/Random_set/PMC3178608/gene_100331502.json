@@ -1,0 +1,42 @@
+{
+  "gene": "opn4xa",
+  "geneID": "100331502",
+  "go_data": [
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "opn4xa is a melanopsin gene, which is known to be involved in photoreception.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retinal ganglion cell differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "opn4xa is expressed in retinal ganglion cells, suggesting a role in their differentiation.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "dorsal diencephalon",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "opn4xa-expressing cells are found in the dorsal diencephalon.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    },
+    {
+      "term": "retinal ganglion cell layer",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "opn4xa transcripts colocalize with the ganglion cell marker, gc56, in the retinal ganglion cell layer.",
+      "reference(s)": [
+        "PMC3178608"
+      ]
+    }
+  ]
+}

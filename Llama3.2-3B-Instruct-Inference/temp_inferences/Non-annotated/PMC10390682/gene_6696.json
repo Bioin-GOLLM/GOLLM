@@ -1,0 +1,15 @@
+{
+  "gene": "OPN",
+  "geneID": "6696",
+  "go_data": [
+    {
+      "term": "hepatic tissue",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "mRNA OPN expression was detected in hepatic tissue",
+      "reference(s)": [
+        "PMC10390682"
+      ]
+    }
+  ]
+}

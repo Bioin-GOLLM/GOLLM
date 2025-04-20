@@ -1,0 +1,33 @@
+{
+  "gene": "ubiquitin ligase",
+  "geneID": "84585",
+  "go_data": [
+    {
+      "term": "ubiquitin-protein ligase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "OBI1-induced ORC3/5 ubiquitylation required its intrinsic ubiquitin ligase activity.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "OBI1 is a major ORC3/5 ubiquitin ligase in vivo, capable of catalysing their multi-mono-ubiquitylation.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "cellular component",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Not explicitly stated, however ubiquitin ligases are generally located in the cellular component.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "gene": "RBM10",
+  "geneID": "8241",
+  "go_data": [
+    {
+      "term": "RNA metabolism",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RBM10 is associated with RNA metabolism.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

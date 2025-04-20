@@ -1,0 +1,42 @@
+{
+  "gene": "ORC3",
+  "geneID": "23595",
+  "go_data": [
+    {
+      "term": "DNA replication origin binding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ORC3 is part of the origin recognition complex (ORC) that binds to DNA replication origins.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "chromatin binding",
+      "relationship": "involved_in",
+      "namespace": "molecular_function",
+      "justification": "Chromatin-bound ORC3 and ORC5 are multi-mono-ubiquitylated in a cell cycle regulated manner.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein ubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "OBI1 catalyses the multi-mono-ubiquitylation of a subset of chromatin-bound ORC3 and ORC5 during S-phase.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "ORC3 is involved in DNA replication and is expected to be located in the nucleus.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

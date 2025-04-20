@@ -1,0 +1,24 @@
+{
+  "gene": "MAPK3",
+  "geneID": "26417",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MAPK3 is mentioned alongside other kinases such as SRC, LCK, and KIT, implying it has kinase activity.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    },
+    {
+      "term": "cellular response to stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MAPK3 is mentioned in the context of cancer cells, suggesting its involvement in cellular responses to stimuli such as growth factors.",
+      "reference(s)": [
+        "PMC4290623"
+      ]
+    }
+  ]
+}

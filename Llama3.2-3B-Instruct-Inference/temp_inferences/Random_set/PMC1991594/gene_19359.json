@@ -1,0 +1,33 @@
+{
+  "gene": "mHR23B",
+  "geneID": "19359",
+  "go_data": [
+    {
+      "term": "DNA repair",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mHR23B is involved in the repair of DSBs in meiotic crossing over.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "male gamete generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mHR23B deficiency leads to male sterility in mice.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "mHR23B is involved in DNA repair, which occurs in the nucleus.",
+      "reference(s)": [
+        "PMC1991594"
+      ]
+    }
+  ]
+}

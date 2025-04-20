@@ -1,0 +1,42 @@
+{
+  "gene": "Ca2",
+  "geneID": "54231",
+  "go_data": [
+    {
+      "term": "calcium ion binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Ca2 is involved in various cellular processes through its binding properties.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "muscle contraction",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The accumulation of calcium promotes contractile protein degradation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "sarcoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The increase in calcium in the sarcoplasm involves L-type Ca channels and sarcoplasmic reticulum ryanodine receptors.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "calcium-mediated signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Nitric oxide was suggested to play a role in muscle hypertrophy via the activation of the transient receptor potential cation channel, subfamily V, member 1 (TRPV1), causing an increase in intracellular Ca2 levels.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

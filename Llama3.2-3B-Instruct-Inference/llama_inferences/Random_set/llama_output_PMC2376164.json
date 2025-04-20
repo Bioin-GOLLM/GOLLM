@@ -1,0 +1,44 @@
+[
+  {
+    "gene": "glial fibrillary acidic protein",
+    "geneID": "2670",
+    "go_data": [
+      {
+        "term": "intermediate filament",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "GFAP is expressed exclusively in astrocytes and is an astrocyte-specific intermediate filament protein.",
+        "reference(s)": [
+          "PMC2376164"
+        ]
+      },
+      {
+        "term": "astrocyte differentiation",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GFAP is considered to be important for the induction and maintenance of astrocyte differentiation.",
+        "reference(s)": [
+          "PMC2376164"
+        ]
+      },
+      {
+        "term": "cytoskeleton",
+        "relationship": "part_of",
+        "namespace": "cellular_component",
+        "justification": "GFAP is an intermediate filament protein that is part of the cytoskeleton in astrocytes.",
+        "reference(s)": [
+          "PMC2376164"
+        ]
+      },
+      {
+        "term": "central nervous system development",
+        "relationship": "involved_in",
+        "namespace": "biological_process",
+        "justification": "GFAP is expressed in differentiated astrocytes during organogenesis in the central nervous system.",
+        "reference(s)": [
+          "PMC2376164"
+        ]
+      }
+    ]
+  }
+]

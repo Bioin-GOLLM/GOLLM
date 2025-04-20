@@ -1,0 +1,24 @@
+{
+  "gene": "CRISPR",
+  "geneID": "70873",
+  "go_data": [
+    {
+      "term": "endonuclease activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CRISPR is used for editing, implying its endonuclease activity.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "genome editing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CRISPR is used for editing genes in mice.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

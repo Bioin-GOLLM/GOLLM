@@ -1,0 +1,24 @@
+{
+  "gene": "ACC synthase 7",
+  "geneID": "828726",
+  "go_data": [
+    {
+      "term": "1-aminocyclopropane-1-carboxylate synthase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "ACC synthase 7 catalyzes reactions to produce ACC from methionine and S-adenosyl-methionine.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    },
+    {
+      "term": "response to nematode",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "ACC synthase 7 is up-regulated in response to nematode infection in Arabidopsis roots.",
+      "reference(s)": [
+        "PMC6430479"
+      ]
+    }
+  ]
+}

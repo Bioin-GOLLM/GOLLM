@@ -1,0 +1,33 @@
+{
+  "gene": "connexin-26",
+  "geneID": "14619",
+  "go_data": [
+    {
+      "term": "gap junction channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BAAV mediated GJB2 gene transfer restores gap junction coupling in cochlear organotypic cultures",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "hearing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Mutations in the gene for connexin-26 are the most common genetic causes of congenital hearing impairment",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "cochlea",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "EPs are substantially reduced in mice homozygous for targeted Gjb2 mutations in the cochlea",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

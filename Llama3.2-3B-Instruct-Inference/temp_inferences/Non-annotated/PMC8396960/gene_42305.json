@@ -1,0 +1,33 @@
+{
+  "gene": "CRYPTOCHROME",
+  "geneID": "42305",
+  "go_data": [
+    {
+      "term": "circadian rhythm",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CRYPTOCHROME is a major contributor to circadian rhythm resetting.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "photoreceptor activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "CRY is a light-regulated cryptochrome.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    },
+    {
+      "term": "transcription regulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "CRYPTOCHROME functions as part of transcription-based feedback loops within the clock.",
+      "reference(s)": [
+        "PMC8396960"
+      ]
+    }
+  ]
+}

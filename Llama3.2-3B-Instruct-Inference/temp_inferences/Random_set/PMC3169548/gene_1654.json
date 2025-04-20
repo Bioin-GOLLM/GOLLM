@@ -1,0 +1,33 @@
+{
+  "gene": "DDX3",
+  "geneID": "1654",
+  "go_data": [
+    {
+      "term": "RNA helicase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "DDX3 is described as a helicase, indicating it has RNA helicase activity.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "negative regulation of NF-kappaB transcription factor activity",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "DDX3 is part of the complexes containing TBK1 and IKKepsilon, which are involved in NF-kappaB signaling.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "negative regulation of IRF3 phosphorylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "K7 inhibits IRF3 phosphorylation by binding to DDX3.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

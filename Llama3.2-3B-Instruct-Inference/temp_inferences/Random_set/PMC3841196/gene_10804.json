@@ -1,0 +1,15 @@
+{
+  "gene": "GJB6",
+  "geneID": "10804",
+  "go_data": [
+    {
+      "term": "cell-cell signaling",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "GJB6 is related to GJB2, which is involved in cell-cell signaling through gap junctions.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

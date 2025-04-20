@@ -1,0 +1,15 @@
+{
+  "gene": "Dio1",
+  "geneID": "13370",
+  "go_data": [
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Dio1 is involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

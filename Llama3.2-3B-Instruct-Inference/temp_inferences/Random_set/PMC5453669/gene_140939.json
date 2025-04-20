@@ -1,0 +1,24 @@
+{
+  "gene": "MuRF1",
+  "geneID": "140939",
+  "go_data": [
+    {
+      "term": "negative regulation of cardiac hypertrophy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MuRF1 inhibits T3-induced increase in CSA, indicating its role in attenuating cardiac hypertrophy.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "muscle cell",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MuRF1 is expressed in cardiomyocytes, which are a type of muscle cell.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

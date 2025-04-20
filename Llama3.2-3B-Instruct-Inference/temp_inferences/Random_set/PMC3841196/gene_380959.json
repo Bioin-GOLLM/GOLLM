@@ -1,0 +1,51 @@
+{
+  "gene": "Alg10b",
+  "geneID": "380959",
+  "go_data": [
+    {
+      "term": "N-linked glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ALG10B protein is involved in the process of asparagine (N)-linked glycosylation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The enzymatic step catalyzed by the ALG10B protein during N-linked glycosylation is the addition of the last glucose molecule to the glycan 'tree' inside the endoplasmic reticulum (ER).",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "glucose metabolic process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ALG10B protein catalyzes the addition of the last glucose molecule to the glycan 'tree' during N-linked glycosylation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "protein glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The ALG10B protein is involved in the process of asparagine (N)-linked glycosylation, which is a type of protein glycosylation.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    },
+    {
+      "term": "hearing",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "A mutation in the Alg10b gene causes nonsyndromic hearing impairment in mice.",
+      "reference(s)": [
+        "PMC3841196"
+      ]
+    }
+  ]
+}

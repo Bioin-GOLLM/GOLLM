@@ -1,0 +1,33 @@
+{
+  "gene": "gelsolin",
+  "geneID": "2934",
+  "go_data": [
+    {
+      "term": "actin binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Gelsolin is described as an actin-binding protein.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cytoskeleton organization",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Gelsolin can trim and remodel the cytoskeleton.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "viral entry into host cell",
+      "relationship": "negatively regulates",
+      "namespace": "biological_process",
+      "justification": "Gelsolin deficiency or overexpression inhibits the entry of HIV into the NKR-CCR5 cell line.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

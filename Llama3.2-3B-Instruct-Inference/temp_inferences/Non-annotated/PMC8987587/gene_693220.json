@@ -1,0 +1,33 @@
+{
+  "gene": "mir-635",
+  "geneID": "693220",
+  "go_data": [
+    {
+      "term": "negative regulation of type I interferon signaling pathway",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mir-635 is known to inhibit type I interferon pathway.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "mir-635 is involved in immune regulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a miRNA, mir-635 is expected to be located in the cytoplasm.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

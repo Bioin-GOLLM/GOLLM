@@ -1,0 +1,15 @@
+{
+  "gene": "FACE",
+  "geneID": "2178",
+  "go_data": [
+    {
+      "term": "cortical surface mapping",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FACE is used as a vector-based approach to localise significant inter-correlations between the different imaging markers of Alzheimer's pathology on the cortical surface.",
+      "reference(s)": [
+        "PMC7203856"
+      ]
+    }
+  ]
+}

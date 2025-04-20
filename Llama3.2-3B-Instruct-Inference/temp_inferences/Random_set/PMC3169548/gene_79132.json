@@ -1,0 +1,24 @@
+{
+  "gene": "RLR",
+  "geneID": "79132",
+  "go_data": [
+    {
+      "term": "viral defense response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RLR is part of the antiviral response, as indicated by its interaction with TRAF3, a component of TLR and RLR signalling pathways.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "RLR signalling pathways are mentioned alongside TLR, suggesting involvement in the innate immune response.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

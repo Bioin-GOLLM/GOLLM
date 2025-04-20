@@ -1,0 +1,24 @@
+{
+  "gene": "MDH2",
+  "geneID": "4191",
+  "go_data": [
+    {
+      "term": "oxidoreductase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MDH2 is involved in the pseudohypoxic cluster, suggesting a role in redox reactions.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MDH2 is part of the pseudohypoxic cluster, indicating involvement in responding to hypoxic conditions.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "gene": "BiP",
+  "geneID": "249912",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum chaperone activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "BiP is described as an ER chaperone.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "unfolded protein response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BiP is involved in the Unfolded protein response (UPR).",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "BiP is an ER chaperone, implying it is located in the endoplasmic reticulum.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "protein folding",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a chaperone, BiP is involved in protein folding.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    },
+    {
+      "term": "cellular response to stress",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "BiP is involved in the cellular stress response, particularly in the context of the unfolded protein response.",
+      "reference(s)": [
+        "PMC10203134"
+      ]
+    }
+  ]
+}

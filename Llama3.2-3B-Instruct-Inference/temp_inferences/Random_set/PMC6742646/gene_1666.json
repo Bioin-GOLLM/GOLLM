@@ -1,0 +1,24 @@
+{
+  "gene": "NADPH",
+  "geneID": "1666",
+  "go_data": [
+    {
+      "term": "electron carrier activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "NADPH is an electron carrier in the reduction of succinic semialdehyde (SSA) to gamma-hydroxybutyrate (GHB) catalyzed by AKR7A2.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    },
+    {
+      "term": "oxidation-reduction process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NADPH is involved in the reduction of SSA to GHB, an oxidation-reduction reaction.",
+      "reference(s)": [
+        "PMC6742646"
+      ]
+    }
+  ]
+}

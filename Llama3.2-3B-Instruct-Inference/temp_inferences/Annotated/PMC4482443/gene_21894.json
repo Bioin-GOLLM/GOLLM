@@ -1,0 +1,33 @@
+{
+  "gene": "Talin 1",
+  "geneID": "21894",
+  "go_data": [
+    {
+      "term": "cell junction",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Talin 1 is localised to cardiac muscle intercalated discs and to the costamere.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "heart development",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Up-regulation of Talin 1 in the hearts of Fragile X autosomal homolog1 mutants is associated with disruption of costamere structure in heart muscle.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    },
+    {
+      "term": "response to mechanical stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Increased cardiac load will increase Talin1 expression at costameres and Talin1 modifies the hypertrophic response to pressure overload.",
+      "reference(s)": [
+        "PMC4482443"
+      ]
+    }
+  ]
+}

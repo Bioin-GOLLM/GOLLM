@@ -1,0 +1,24 @@
+{
+  "gene": "JNK",
+  "geneID": "26419",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "JNK is activated by TRAF6-mediated ubiquitylation.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "regulation of gene expression",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Activated JNK is important for atrogin-1 and MuRF1 expression.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

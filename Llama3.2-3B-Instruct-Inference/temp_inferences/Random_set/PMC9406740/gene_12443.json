@@ -1,0 +1,33 @@
+{
+  "gene": "cyclin D1",
+  "geneID": "12443",
+  "go_data": [
+    {
+      "term": "negative regulation of myoblast differentiation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "NF-kappaB inhibits myogenic differentiation through the accumulation of cyclin D1.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cell cycle",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Cyclin D1 is involved in cell cycle regulation, implied by its name and role in myogenesis.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Cyclin D1 is typically found in the cytoplasm, although the text does not explicitly state this for cyclin D1, it is generally known for cyclins.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "tissue factor",
+  "geneID": "2152",
+  "go_data": [
+    {
+      "term": "blood coagulation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Tissue factor is known to initiate the coagulation cascade.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    },
+    {
+      "term": "cell surface",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Tissue factor is a transmembrane receptor.",
+      "reference(s)": [
+        "PMC9850101"
+      ]
+    }
+  ]
+}

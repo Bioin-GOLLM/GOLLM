@@ -1,0 +1,42 @@
+{
+  "gene": "PPARalpha",
+  "geneID": "19013",
+  "go_data": [
+    {
+      "term": "fatty acid oxidation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MuRF1 inhibited PPARalpha-regulated fatty acid oxidation both in vitro and in vivo.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nuclear export",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MuRF1 inhibited PPARalpha activity by enhancing nuclear export without promoting PPARalpha degradation.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "PPARalpha is redirected to the perinuclear area with punctate distribution by CAP350.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    },
+    {
+      "term": "transcription regulator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "PPARalpha is a nuclear hormone receptor that regulates gene expression.",
+      "reference(s)": [
+        "PMC5453669"
+      ]
+    }
+  ]
+}

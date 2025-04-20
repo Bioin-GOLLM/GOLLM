@@ -1,0 +1,24 @@
+{
+  "gene": "USP2CD",
+  "geneID": "9099",
+  "go_data": [
+    {
+      "term": "thiol-dependent ubiquitin-specific protease activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "USP2CD is described as a universal deubiquitinating enzyme (DUB) that can cleave any kind of ubiquitin attachment.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    },
+    {
+      "term": "protein deubiquitination",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "USP2CD efficiently eliminated high molecular weight species of immunoprecipitated ORC3/5 by releasing free ubiquitin.",
+      "reference(s)": [
+        "PMC6547688"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "gene": "LC3",
+  "geneID": "66734",
+  "go_data": [
+    {
+      "term": "autophagosome",
+      "relationship": "part_of",
+      "namespace": "cellular_component",
+      "justification": "LC3 contributes to the formation of autophagosome.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "autophagy",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "LC3 is activated by oxidative stress to contribute to muscle atrophy through autophagy.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

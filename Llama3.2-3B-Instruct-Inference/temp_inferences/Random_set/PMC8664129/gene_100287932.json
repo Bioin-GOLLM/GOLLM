@@ -1,0 +1,33 @@
+{
+  "gene": "TIM23",
+  "geneID": "100287932",
+  "go_data": [
+    {
+      "term": "protein transmembrane transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The TIM23 complex can perform two different functions, distinguished by its association with the presequence translocase-associated motor (PAM), including the import of proteins into the matrix and lateral membrane protein insertion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial inner membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "The TIM23 complex is associated with the mitochondrial inner membrane, as indicated by its interaction with inner membrane scaffold proteins and its role in protein import into the mitochondrial matrix.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein import into mitochondrial matrix",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "The TIM23-PAM complex promotes the import of proteins into the matrix, whereas the motor-free translocase supports lateral membrane protein insertion.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

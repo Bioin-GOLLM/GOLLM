@@ -1,0 +1,42 @@
+{
+  "gene": "Ire1p",
+  "geneID": "856478",
+  "go_data": [
+    {
+      "term": "endoplasmic reticulum unfolded protein response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Ire1p mediates the unfolded protein response (UPR) when misfolded proteins accumulate in the ER lumen.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "RNA splicing",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Activated Ire1p removes an inhibitory intron from the HAC1 mRNA.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Ire1p is activated when misfolded proteins accumulate in the ER lumen.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    },
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Homeostatic adaptation to endoplasmic reticulum stress depends on Ire1 kinase activity.",
+      "reference(s)": [
+        "PMC3282682"
+      ]
+    }
+  ]
+}

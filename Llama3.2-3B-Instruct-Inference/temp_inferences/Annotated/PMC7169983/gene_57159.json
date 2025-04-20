@@ -1,0 +1,15 @@
+{
+  "gene": "TRIM54",
+  "geneID": "57159",
+  "go_data": [
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TRIM54 interacts with other proteins, such as SUCLA2.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}

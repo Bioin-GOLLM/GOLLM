@@ -1,0 +1,42 @@
+{
+  "gene": "FAM173A",
+  "geneID": "65990",
+  "go_data": [
+    {
+      "term": "mitochondrion",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "FAM173A is described as having mitochondrial localization.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "lysine-specific methyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "FAM173A is described as a mitochondrial lysine-specific methyltransferase.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "protein methylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FAM173A targets adenine nucleotide translocase, implying involvement in protein methylation.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    },
+    {
+      "term": "mitochondrial respiration",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "FAM173A affects mitochondrial respiration.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

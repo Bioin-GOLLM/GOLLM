@@ -1,0 +1,24 @@
+{
+  "gene": "Pannexin1",
+  "geneID": "55991",
+  "go_data": [
+    {
+      "term": "anion channel activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Pannexin1 is described as an outwardly-rectifying anion channel.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    },
+    {
+      "term": "Reissner's membrane",
+      "relationship": "expressed_in",
+      "namespace": "cellular_component",
+      "justification": "Pannexin1 is expressed in Reissner's membrane.",
+      "reference(s)": [
+        "PMC4014619"
+      ]
+    }
+  ]
+}

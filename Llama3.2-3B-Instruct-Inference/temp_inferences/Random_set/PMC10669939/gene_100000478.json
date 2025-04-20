@@ -1,0 +1,24 @@
+{
+  "gene": "MGAT2",
+  "geneID": "100000478",
+  "go_data": [
+    {
+      "term": "acetylglucosaminyltransferase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MGAT2 encodes GnT-II, which is involved in the conversion of hybrid-type N-glycans to complex-type N-glycans.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    },
+    {
+      "term": "protein glycosylation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MGAT2 is involved in the processing of N-glycans to the complex type.",
+      "reference(s)": [
+        "PMC10669939"
+      ]
+    }
+  ]
+}

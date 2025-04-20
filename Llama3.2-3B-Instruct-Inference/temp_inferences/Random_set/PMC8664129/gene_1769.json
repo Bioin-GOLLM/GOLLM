@@ -1,0 +1,15 @@
+{
+  "gene": "ATPase",
+  "geneID": "1769",
+  "go_data": [
+    {
+      "term": "ATP hydrolysis activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "The gene is named ATPase, which implies it has ATP hydrolysis activity.",
+      "reference(s)": [
+        "PMC8664129"
+      ]
+    }
+  ]
+}

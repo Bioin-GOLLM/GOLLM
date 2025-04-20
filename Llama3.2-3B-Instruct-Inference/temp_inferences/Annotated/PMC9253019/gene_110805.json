@@ -1,0 +1,15 @@
+{
+  "gene": "Foxe1",
+  "geneID": "110805",
+  "go_data": [
+    {
+      "term": "thyroid hormone generation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Foxe1 is one of the 26 genes involved in thyroid hormone synthesis and release.",
+      "reference(s)": [
+        "PMC9253019"
+      ]
+    }
+  ]
+}

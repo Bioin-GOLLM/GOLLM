@@ -1,0 +1,51 @@
+{
+  "gene": "TBK-1",
+  "geneID": "29110",
+  "go_data": [
+    {
+      "term": "protein kinase activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "TBK1 is described as a kinase that phosphorylates and activates IRF3 and IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "innate immune response",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 is involved in the innate immune response to several different viruses and PAMPs.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF3 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 phosphorylates and activates IRF3.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "IRF7 activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "TBK1 phosphorylates and activates IRF7.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    },
+    {
+      "term": "cytoplasm",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C6, which interacts with TBK1 complex, is present in both nucleus and cytoplasm.",
+      "reference(s)": [
+        "PMC3169548"
+      ]
+    }
+  ]
+}

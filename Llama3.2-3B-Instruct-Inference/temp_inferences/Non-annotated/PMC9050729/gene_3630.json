@@ -1,0 +1,33 @@
+{
+  "gene": "insulin",
+  "geneID": "3630",
+  "go_data": [
+    {
+      "term": "glucose homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin is used in the treatment of type 1 diabetes, implying its role in glucose homeostasis.",
+      "reference(s)": [
+        "PMC9050729"
+      ]
+    },
+    {
+      "term": "regulation of blood glucose levels",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Impaired awareness of hypoglycaemia is a risk for severe hypoglycaemia in insulin treatment, indicating insulin's role in regulating blood glucose levels.",
+      "reference(s)": [
+        "PMC9050729"
+      ]
+    },
+    {
+      "term": "cellular response to glucose stimulus",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Insulin therapy affects glucose levels, suggesting a cellular response to glucose stimulus.",
+      "reference(s)": [
+        "PMC9050729"
+      ]
+    }
+  ]
+}

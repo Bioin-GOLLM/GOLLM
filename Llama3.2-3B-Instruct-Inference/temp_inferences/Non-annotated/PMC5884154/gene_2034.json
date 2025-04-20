@@ -1,0 +1,42 @@
+{
+  "gene": "hypoxia-inducible factor 2 alpha",
+  "geneID": "2034",
+  "go_data": [
+    {
+      "term": "DNA-binding transcription activator activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "HIF2A is involved in regulating genes under hypoxia, implying a role in transcription activation.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HIF2A plays a central role in regulating adaptive responses to hypoxia.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "cellular response to hypoxia",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "HIF2A is crucial in mediating cellular responses to hypoxia, including erythropoiesis and angiogenesis.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    },
+    {
+      "term": "nucleus",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "As a transcription factor, HIF2A would be expected to localize to the nucleus to regulate gene expression.",
+      "reference(s)": [
+        "PMC5884154"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "gene": "VAMP2",
+  "geneID": "6844",
+  "go_data": [
+    {
+      "term": "SNARE complex assembly",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "VAMP2 binds to STX1B and SNAP25 in a 1:1:2 stoichiometry, suggesting involvement in SNARE complex assembly.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "cellular membrane fusion",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "As a SNARE protein, VAMP2 is involved in cellular membrane fusion.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "vesicle",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "VAMP2 is a vesicle-associated membrane protein.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    },
+    {
+      "term": "protein binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "VAMP2 binds to STX1B and SNAP25, indicating protein binding activity.",
+      "reference(s)": [
+        "PMC10883280"
+      ]
+    }
+  ]
+}

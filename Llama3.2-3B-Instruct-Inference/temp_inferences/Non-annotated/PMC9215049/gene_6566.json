@@ -1,0 +1,51 @@
+{
+  "gene": "Monocarboxylate transporter 1",
+  "geneID": "6566",
+  "go_data": [
+    {
+      "term": "monocarboxylic acid transmembrane transporter activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "MCT1 is responsible for the H+-coupled transport of short chain monocarboxylates, primarily L-lactate, pyruvate or ketone bodies.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "ketone body transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MCT1 deficiency has been described as a rare cause of recurrent ketosis, the result of impaired ketone utilization in extrahepatic tissues.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "lactate transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MCT1 is responsible for the H+-coupled transport of short chain monocarboxylates, primarily L-lactate, pyruvate or ketone bodies.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "plasma membrane",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "MCT1 is responsible for the import of monocarboxylates across the plasma membrane.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    },
+    {
+      "term": "energy homeostasis",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "MCT1 has been described as a major player in whole-body energy homeostasis and the distribution of redox potential between organs.",
+      "reference(s)": [
+        "PMC9215049"
+      ]
+    }
+  ]
+}

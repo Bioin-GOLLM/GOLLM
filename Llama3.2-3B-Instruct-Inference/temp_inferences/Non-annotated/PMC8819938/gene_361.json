@@ -1,0 +1,24 @@
+{
+  "gene": "aquaporin-4",
+  "geneID": "361",
+  "go_data": [
+    {
+      "term": "water transport",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Aquaporin-4 is an autoantibody target in demyelinating diseases, suggesting its role in water transport across cell membranes.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    },
+    {
+      "term": "central nervous system",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "Aquaporin-4 is associated with demyelinating diseases of the central nervous system.",
+      "reference(s)": [
+        "PMC8819938"
+      ]
+    }
+  ]
+}

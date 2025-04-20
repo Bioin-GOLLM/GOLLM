@@ -1,0 +1,24 @@
+{
+  "gene": "C1q",
+  "geneID": "712",
+  "go_data": [
+    {
+      "term": "complement activation",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "C1q is part of the complement proteins, which are involved in the complement activation pathway.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "exosome",
+      "relationship": "located_in",
+      "namespace": "cellular_component",
+      "justification": "C1q was found to be enriched in exosomes from ChipEXO compared with exosomes from healthy donor plasma.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

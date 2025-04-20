@@ -1,0 +1,24 @@
+{
+  "gene": "IL-6",
+  "geneID": "24498",
+  "go_data": [
+    {
+      "term": "cytokine activity",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "IL-6 is mentioned in the context of muscle, implying its role as a cytokine.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    },
+    {
+      "term": "response to muscle disuse",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "IL-6 is targeted in disused rat soleus muscle, indicating involvement in response to muscle disuse.",
+      "reference(s)": [
+        "PMC9406740"
+      ]
+    }
+  ]
+}

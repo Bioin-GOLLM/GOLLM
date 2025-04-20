@@ -1,0 +1,33 @@
+{
+  "gene": "apolipoprotein L1",
+  "geneID": "8542",
+  "go_data": [
+    {
+      "term": "immune system process",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Apolipoprotein L1 is associated with immune activation and modulation.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "response to symbiont",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "Apolipoprotein L1 is included in the term 'response to symbiont'.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    },
+    {
+      "term": "complement binding",
+      "relationship": "enables",
+      "namespace": "molecular_function",
+      "justification": "Apolipoprotein L1 is annotated under 'complement binding'.",
+      "reference(s)": [
+        "PMC8987587"
+      ]
+    }
+  ]
+}

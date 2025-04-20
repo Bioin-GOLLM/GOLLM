@@ -1,0 +1,15 @@
+{
+  "gene": "CEP55",
+  "geneID": "55165",
+  "go_data": [
+    {
+      "term": "cell division",
+      "relationship": "involved_in",
+      "namespace": "biological_process",
+      "justification": "No direct evidence, however CEP55 is known to be involved in cell division, but based on the given text, no GO term can be explicitly stated.",
+      "reference(s)": [
+        "PMC7169983"
+      ]
+    }
+  ]
+}
